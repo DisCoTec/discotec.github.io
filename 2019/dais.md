@@ -21,4 +21,4 @@ TBD
 * Peter Pietzuch, Imperial College London, UK
 * Hans P. Reiser, University of Passau, Germany
 * Romain Rouvoy, University Lille 1, France
-François Taiani, Université de Rennes 1, France
+* François Taiani, Université de Rennes 1, France
