@@ -1,4 +1,4 @@
-# FORTE 2019 - 
+# FORTE 2019 - 39th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 ## Scope
 FORTE 2018 is a forum for fundamental research on theory, models, tools, and applications for distributed systems. The conference solicits original contributions that advance the science and technologies for distributed systems, with special interest in the areas of:
