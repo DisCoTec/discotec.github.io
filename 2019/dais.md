@@ -1,4 +1,4 @@
-# DAIS 2019 - 189th International Conference on Distributed Applications and Interoperable Systems
+# DAIS 2019 - 19th International Conference on Distributed Applications and Interoperable Systems
 
 # Scope
 The DAIS conference series addresses all practical and conceptual aspects of distributed applications, including their design, modeling, implementation and operation, the supporting middleware, appropriate software engineering methodologies and tools, as well as experimental studies and practice reports. Submissions will be judged on their originality, significance, clarity, relevance, and technical correctness.
