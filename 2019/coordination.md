@@ -3,11 +3,11 @@
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
 
-Program committee chairs
+## Program committee chairs
 * Emilio Tuosto (University of Leicester, UK)
 * Hanne Riis Nielson (DTU, Denmark)
 
-Steering committee
+## Steering committee
 * Gul Agha, University of Illinois at Urbana Champaign, USA
 * Farhad Arbab, CWI and Leiden University, The Netherlands
 * Dave Clarke, Uppsala University, Sweden
