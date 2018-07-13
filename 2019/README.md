@@ -1,3 +1,10 @@
+# DisCoTec 2019 - 14th International Federated Conference on Distributed Computing Techniques
+
+## Conferences
+* [Coordination 2019](coordination)
+* [DAIS 2019](dais)
+* [FORTE 2019](forte)
+
 ## Schedule (tentative):
 * Submission deadline: January/February 2019
 * Notification: March 2019
@@ -32,11 +39,6 @@
 * Gianluigi Zavattaro (University of Bologna, Italy)
 
 ## Proceedings
-The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. The individual conferences may organise special issues of extended and selected papers in reputable journals.
-
-## Previous editions
-* [DisCoTec 2018](http://2018.discotec.org/)
-* [DisCoTec 2017](http://2017.discotec.org/)
-* [DisCoTec 2016](http://2016.discotec.org/)
+The proceedings of the conference are planned to be published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. The individual conferences may organise special issues of extended and selected papers in reputable journals.
 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
