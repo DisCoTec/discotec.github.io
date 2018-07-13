@@ -1,9 +1,9 @@
 # DisCoTec 2019 - 14th International Federated Conference on Distributed Computing Techniques
 
 ## Conferences
-* [Coordination 2019](coordination)
-* [DAIS 2019](dais)
-* [FORTE 2019](forte)
+* [Coordination 2019](coordination) - International Conference on Coordination Models and Languages
+* [DAIS 2019](dais) - International Conference on Distributed Applications and Interoperable Systems
+* [FORTE 2019](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 ## Schedule (tentative):
 * Submission deadline: January/February 2019
