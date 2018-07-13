@@ -45,7 +45,7 @@ The proceedings of the conference are planned to be published in [LNCS-IFIP](htt
 ![](http://copenhagenhealthinnovation.dk/wp-content/uploads/2018/05/DTU-UK-A3_390x170.jpg)
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi)  ![](http://2016.discotec.org/img/banners/lncs.png)
 
-## Accommodation
+## Accommodation and local information
 
 Hotels in Copenhagen (recommended)
 * We recommend to stay close to the Nørreport station, as it is central area of the city and it is very well connected with both the Airport (direct metro line, 15 minutes) and with the campus (bus lines 150S and 15E, 25 minutes).
@@ -54,5 +54,10 @@ Hotels in Copenhagen (recommended)
 Hotels in Lyngby
 * [Scandic Eremitage](https://www.scandichotels.dk/hoteller/danmark/kobenhavn/scandic-eremitage): closest to the campus
 * Search in [booking.com](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1FCAEoggJCAlhYSDNYBGg9iAEBmAEGuAEHyAEM2AEB6AEB-AELkgIBeagCAw&sid=526f40f28fb1d9d93bba8d197e3c8adb&class_interval=1&dest_id=-2745593&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&lang=en-gb&no_rooms=1&offset=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&soz=1&src=index&src_elem=sb&ss=Kongens%20Lyngby%2C%20Region%20Hovedstaden%2C%20Danmark&ss_raw=lyngb&ssb=empty&lang_click=top&cdl=da&lang_changed=1&nflt=)
+
+Moving around
+* To plan your travel around Copenhagen use [rejseplanen](https://www.rejseplanen.dk/webapp/index.html)
+* DTU's [guidelines to reach the campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus/getting-there)
+* Official information can be found in the [visit copenhagen site](https://www.visitcopenhagen.com/copenhagen/transportation/tickets-prices)
 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
