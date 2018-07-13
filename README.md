@@ -18,8 +18,8 @@ The next edition of DisCoTec 2019 will take place at the [Technical University o
 
 ## Organising Committee
 * Alberto Lluch Lafuente (DTU, Denmark - General Chair)
-* Kiko Fernández-Reyes (Uppsala)
-* Francesco Tiezzi (Unicam)
+* Kiko Fernández-Reyes (Uppsala - Publicity chair)
+* Francesco Tiezzi (Unicam - Publicity chair)
 * Andrea Vandin (DTU, Denmark - Workshop chair)
 * Maurice Ter Beek (CNR, Italy - Workshop chair)
 * Cathrin-Ann Dunker (DTU, Logistics and finance)
