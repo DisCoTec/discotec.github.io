@@ -4,7 +4,7 @@ The DisCoTec series of federated conferences is one of the major events sponsore
 * FORTE (International Conference on Formal Techniques for Distributed Objects, Components, and Systems)
 as well as several workshops 
 
-The next edition of DisCotec 2019 will take place at the [Technical University of Denmark](www.dtu.dk) in June 18-21, 2019.
+The next edition of DisCoTec 2019 will take place at the [Technical University of Denmark](www.dtu.dk) in June 18-21, 2019.
 
 Schedule (tentative):
 * Submission deadline: January/February 2019
