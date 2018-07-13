@@ -5,7 +5,7 @@ The DisCoTec series of federated conferences is one of the major events sponsore
 * DAIS (International Conference on Distributed Applications and Interoperable Systems)
 * FORTE (International Conference on Formal Techniques for Distributed Objects, Components, and Systems)
 
-[DisCoTec 2019](/2019) will take place at the [Technical University of Denmark](www.dtu.dk) in June 18-21, 2019.
+[DisCoTec 2019](/2019) will take place at the [Technical University of Denmark](http://www.dtu.dk) in June 18-21, 2019.
 
 ## Steering Committee
 * Rocco De Nicola (IMT Lucca, Italy)
