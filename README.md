@@ -28,7 +28,7 @@ The next edition of DisCoTec 2019 will take place at the [Technical University o
 ## Scientific Committee
 * Emilio Tuosto (University of Leicester, UK - Coordination PC Chair)
 * Hanne Riis Nielson (DTU, Denmark - Coordination PC Chair)
-* Jorge Pérez (University of Groningen, The Netherlands -FORTE PC Chair)
+* Jorge Pérez (University of Groningen, The Netherlands - FORTE PC Chair)
 
 ## Steering Committee
 * Rocco De Nicola (IMT Lucca, Italy)
