@@ -14,7 +14,6 @@
 * [DTU Lyngby](https://www.google.com/maps/place/Danmarks+Tekniske+Universitet/@55.7855742,12.5191923,17z/data=!3m1!4b1!4m5!3m4!1s0x46524e6328b8bd5d:0xcf045cde0449c6c5!8m2!3d55.7855742!4d12.521381), 2800 Kongens Lyngby, Denmark
 
 ## Organising Committee
-### General Chair
 * Alberto Lluch Lafuente (DTU, Denmark -- General chair)
 * Kiko Fernández-Reyes (Uppsala University -- Publicity chair)
 * Francesco Tiezzi (University of Camerino -- Publicity chair)
