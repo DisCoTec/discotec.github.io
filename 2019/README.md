@@ -42,7 +42,7 @@
 The proceedings of the conference are planned to be published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. The individual conferences may organise special issues of extended and selected papers in reputable journals.
 
 ## Sponsors
-![](http://people.compute.dtu.dk/rapa/MedIABook/gfx/DTU2.jpg)
+![](http://copenhagenhealthinnovation.dk/wp-content/uploads/2018/05/DTU-UK-A3_390x170.jpg)
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi)  ![](http://2016.discotec.org/img/banners/lncs.png)
 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
