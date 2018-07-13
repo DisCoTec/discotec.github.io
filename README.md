@@ -41,6 +41,9 @@ The next edition of DisCoTec 2019 will take place at the [Technical University o
 * Jean-Bernard Stefani (INRIA Grenoble, France)
 * Gianluigi Zavattaro (University of Bologna, Italy)
 
+## Proceedings
+The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. The individual conferences may organise special issues of extended and selected papers in reputable journals.
+
 ## Previous editions
 * [DisCoTec 2018](http://2018.discotec.org/)
 * [DisCoTec 2017](http://2017.discotec.org/)
