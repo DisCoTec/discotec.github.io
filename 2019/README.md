@@ -15,16 +15,13 @@
 
 ## Organising Committee
 ### General Chair
-* Alberto Lluch Lafuente (DTU, Denmark)
-### Publicity chairs
-* Kiko Fernández-Reyes (Uppsala University)
-* Francesco Tiezzi (University of Camerino)
-### Workshop chairs
+* Alberto Lluch Lafuente (DTU, Denmark -- General chair)
+* Kiko Fernández-Reyes (Uppsala University -- Publicity chair)
+* Francesco Tiezzi (University of Camerino -- Publicity chair)
 * Andrea Vandin (DTU, Denmark -- Workshop chair)
 * Maurice Ter Beek (CNR, Italy -- Workshop chair)
-### Local team
-* Cathrin-Ann Dunker (DTU)
-* Linas Kaminskas (DTU)
+* Cathrin-Ann Dunker (DTU -- Logistics)
+* Linas Kaminskas (DTU -- Logistics)
 
 ## Scientific Committee
 * Emilio Tuosto (University of Leicester, UK - Coordination PC Chair)
