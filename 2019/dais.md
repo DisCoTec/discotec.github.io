@@ -17,7 +17,7 @@ TBD
 * Evangelia Kalyvianaki, University of Cambridge, UK
 * Rüdiger Kapitza, Technical University of Braunschweig, Germany
 * Kostas Magoutis, FORTH-ICS, Greece
-* Rui Oliveira, Universidade do Minho, Portugal
+* Rui Oliveira, Universidade do Minho, Portugal -- Chair
 * Peter Pietzuch, Imperial College London, UK
 * Hans P. Reiser, University of Passau, Germany
 * Romain Rouvoy, University Lille 1, France
