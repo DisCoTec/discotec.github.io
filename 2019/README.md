@@ -17,8 +17,9 @@
 * Alberto Lluch Lafuente (DTU, Denmark -- General chair)
 * Kiko Fernández-Reyes (Uppsala University -- Publicity chair)
 * Francesco Tiezzi (University of Camerino -- Publicity chair)
-* Andrea Vandin (DTU, Denmark -- Workshop chair)
-* Maurice Ter Beek (CNR, Italy -- Workshop chair)
+* Andrea Vandin (DTU, Denmark -- Workshops chair)
+* Maurice Ter Beek (CNR, Italy -- Workshops chair)
+* Valerio Schiavoni (Université de Neuchâte, Swiss -- Workshops chair)
 * Cathrin-Ann Dunker (DTU -- Logistics)
 * Linas Kaminskas (DTU -- Logistics)
 
