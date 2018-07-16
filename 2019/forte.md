@@ -1,7 +1,7 @@
 # FORTE 2019 - 39th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 ## Scope
-FORTE 2018 is a forum for fundamental research on theory, models, tools, and applications for distributed systems. The conference solicits original contributions that advance the science and technologies for distributed systems, with special interest in the areas of:
+FORTE 2019 is a forum for fundamental research on theory, models, tools, and applications for distributed systems. The conference solicits original contributions that advance the science and technologies for distributed systems, with special interest in the areas of:
 
 * Component- and model-based design
 * Object technology, modularity, software adaptation
@@ -15,16 +15,16 @@ FORTE 2018 is a forum for fundamental research on theory, models, tools, and app
 Contributions that combine theory and practice and that exploit formal methods and theoretical foundations to present novel solutions to problems arising from the development of distributed systems are encouraged. FORTE covers distributed computing models and formal specification, testing and verification methods. The application domains include all kinds of application-level distributed systems, telecommunication services, Internet, embedded and real-time systems, as well as networking and communication security and reliability.
 
 ## Program committee chairs
-* Jorge Pérez (University of Groningen, The Netherlands)
+* Jorge A. Pérez (University of Groningen, The Netherlands)
 
 ## Steering committee
 * Erika Abraham, Aachen University, Germany
-* Christel Baier, Universität Dresden, Germany
-* Luis Caires, Universidade Nova de Lisboa, Portugal
-* Catuscia Palamidessi, INRIA Paris, France
 * Elvira Albert, Complutense University of Madrid, Spain
-* Ivan Lanese, University of Bologna/INRIA, Italy
-* Einar Broch Johnsen, University of Oslo, Norway
+* Christel Baier, Universität Dresden, Germany
 * Frank De Boer, CWI, Netherlands
-* Heike Wehrheim, Paderborn University, Germany
+* Einar Broch Johnsen, University of Oslo, Norway
+* Luis Caires, Universidade Nova de Lisboa, Portugal
+* Ivan Lanese, University of Bologna/INRIA, Italy
+* Catuscia Palamidessi, INRIA Paris, France
 * Jean-Bernard Stefani, INRIA Grenoble, France (Chair)
+* Heike Wehrheim, Paderborn University, Germany
