@@ -26,7 +26,7 @@
 ## Scientific Committee
 * Emilio Tuosto (University of Leicester, UK - Coordination PC Chair)
 * Hanne Riis Nielson (DTU, Denmark - Coordination PC Chair)
-* Jorge Pérez (University of Groningen, The Netherlands - FORTE PC Chair)
+* Jorge A. Pérez (University of Groningen, The Netherlands - FORTE PC Chair)
 
 ## Steering Committee
 * Rocco De Nicola (IMT Lucca, Italy)
