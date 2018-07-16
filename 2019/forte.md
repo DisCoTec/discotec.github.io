@@ -21,9 +21,9 @@ Contributions that combine theory and practice and that exploit formal methods a
 * Erika Abraham, Aachen University, Germany
 * Elvira Albert, Complutense University of Madrid, Spain
 * Christel Baier, Universität Dresden, Germany
-* Frank De Boer, CWI, Netherlands
-* Einar Broch Johnsen, University of Oslo, Norway
+* Frank de Boer, CWI, Netherlands
 * Luis Caires, Universidade Nova de Lisboa, Portugal
+* Einar Broch Johnsen, University of Oslo, Norway
 * Ivan Lanese, University of Bologna/INRIA, Italy
 * Catuscia Palamidessi, INRIA Paris, France
 * Jean-Bernard Stefani, INRIA Grenoble, France (Chair)
