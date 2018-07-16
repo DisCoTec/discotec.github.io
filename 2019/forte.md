@@ -19,9 +19,9 @@ Contributions that combine theory and practice and that exploit formal methods a
 
 ## Steering committee
 * Erika Abraham, Aachen University, Germany
+* Christel Baier, Universität Dresden, Germany
+* Luis Caires, Universidade Nova de Lisboa, Portugal
 * Catuscia Palamidessi, INRIA Paris, France
-* Susanne Graf, CNRS, France
-* Mahesh Viswanathan, University of Illinois at Urbana-Champaign, USA
 * Elvira Albert, Complutense University of Madrid, Spain
 * Ivan Lanese, University of Bologna/INRIA, Italy
 * Einar Broch Johnsen, University of Oslo, Norway
