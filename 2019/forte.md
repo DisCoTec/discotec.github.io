@@ -18,6 +18,7 @@ Contributions that combine theory and practice and that exploit formal methods a
 
 ## Program committee chairs
 * Jorge A. Pérez (University of Groningen, The Netherlands)
+* Nobuko Yoshida (Imperial College London, UK)
 
 ## Steering committee
 * Erika Abraham, Aachen University, Germany
