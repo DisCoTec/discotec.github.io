@@ -4,7 +4,7 @@
 The DAIS conference series addresses all practical and conceptual aspects of distributed applications, including their design, modeling, implementation and operation, the supporting middleware, appropriate software engineering methodologies and tools, as well as experimental studies and practice reports. Submissions will be judged on their originality, significance, clarity, relevance, and technical correctness.
 
 ## Program committee chairs
-TBD
+* José Orlando Pereira, Universidade do Minho & INESC TEC, Portugal
 
 ## Steering committee
 * Alysson Bessani, Universidade de Lisboa, Portugal
