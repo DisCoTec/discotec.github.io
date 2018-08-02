@@ -18,9 +18,21 @@ The DisCoTec series of federated conferences is one of the major events sponsore
 * Jean-Bernard Stefani (INRIA Grenoble, France)
 * Gianluigi Zavattaro (University of Bologna, Italy)
 
-## Previous editions
-* [DisCoTec 2018](http://2018.discotec.org/)
-* [DisCoTec 2017](http://2017.discotec.org/)
-* [DisCoTec 2016](http://2016.discotec.org/)
+## DisCoTec editions
+* [DisCoTec 2019](http://2019.discotec.org/) - Madrid
+* [DisCoTec 2018](http://2018.discotec.org/) - Madrid
+* [DisCoTec 2017](http://2017.discotec.org/) - Neuchâtel
+* [DisCoTec 2016](http://2016.discotec.org/) - Heraklion
+* [DisCoTec 2015](http://discotec2015.inria.fr/) - Grenoble
+* [DisCoTec 2014](https://www.discotec2014.tu-berlin.de/) - Berlin
+* DisCoTec 2013] - Florence
+* DisCoTec 2012] - Stockholm
+* DisCoTec 2011 - Reykjavik
+* DisCoTec 2010 - Amsterdam
+* DisCoTec 2009 - Lisboa
+* DisCoTec 2008 - Oslo
+* DisCoTec 2007 - Paphos
+* DisCoTec 2006 - Bologna
+* DisCoTec 2005 - Namur
 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
