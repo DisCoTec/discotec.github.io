@@ -20,8 +20,8 @@
 * Andrea Vandin (DTU, Denmark — Workshops chair)
 * Maurice Ter Beek (CNR, Italy — Workshops chair)
 * Valerio Schiavoni (Université de Neuchâtel, Switzerland — Workshops chair)
-* Cathrin-Ann Dunker (DTU -- Logistics)
-* Linas Kaminskas (DTU -- Logistics)
+* Cathrin-Ann Dunker (DTU — Logistics)
+* Linas Kaminskas (DTU — Logistics)
 
 ## Scientific Committee
 * Emilio Tuosto (University of Leicester, UK - Coordination PC Chair)
