@@ -25,8 +25,8 @@ The DisCoTec series of federated conferences is one of the major events sponsore
 * [DisCoTec 2016](http://2016.discotec.org/) - Heraklion
 * [DisCoTec 2015](http://discotec2015.inria.fr/) - Grenoble
 * [DisCoTec 2014](https://www.discotec2014.tu-berlin.de/) - Berlin
-* DisCoTec 2013] - Florence
-* DisCoTec 2012] - Stockholm
+* DisCoTec 2013 - Florence
+* DisCoTec 2012 - Stockholm
 * DisCoTec 2011 - Reykjavik
 * DisCoTec 2010 - Amsterdam
 * DisCoTec 2009 - Lisboa
