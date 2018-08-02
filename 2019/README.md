@@ -63,5 +63,3 @@ Moving around
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi)  ![](http://2016.discotec.org/img/banners/lncs.png)
 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
-
-<a class="twitter-timeline" data-height="400" href="https://twitter.com/DisCoTecConf?ref_src=twsrc%5Etfw">Tweets by DisCoTecConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
