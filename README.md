@@ -23,20 +23,20 @@ research issues.
 * Gianluigi Zavattaro (University of Bologna, Italy)
 
 ## DisCoTec editions
-* [DisCoTec 2019](http://2019.discotec.org/) - Madrid
-* [DisCoTec 2018](http://2018.discotec.org/) - Madrid
-* [DisCoTec 2017](http://2017.discotec.org/) - Neuchâtel
-* [DisCoTec 2016](http://2016.discotec.org/) - Heraklion
-* [DisCoTec 2015](http://discotec2015.inria.fr/) - Grenoble
-* [DisCoTec 2014](https://www.discotec2014.tu-berlin.de/) - Berlin
-* DisCoTec 2013 - Florence
-* DisCoTec 2012 - Stockholm
-* DisCoTec 2011 - Reykjavik
-* DisCoTec 2010 - Amsterdam
-* DisCoTec 2009 - Lisboa
-* DisCoTec 2008 - Oslo
-* DisCoTec 2007 - Paphos
-* DisCoTec 2006 - Bologna
-* DisCoTec 2005 - Namur
+* [DisCoTec 2019](http://www.discotec.org/2019) - Kongens Lyngby (Greater Copenhagen Area), Denmark
+* [DisCoTec 2018](http://2018.discotec.org/) - Madrid, Spain
+* [DisCoTec 2017](http://2017.discotec.org/) - Neuchâtel, Swiss
+* [DisCoTec 2016](http://2016.discotec.org/) - Heraklion, Greece
+* [DisCoTec 2015](http://discotec2015.inria.fr/) - Grenoble, France
+* [DisCoTec 2014](https://www.discotec2014.tu-berlin.de/) - Berlin, Germany
+* DisCoTec 2013 - Florence, Italy
+* DisCoTec 2012 - Stockholm, Sweden
+* DisCoTec 2011 - Reykjavik, Iceland
+* DisCoTec 2010 - Amsterdam, The Netherlands
+* DisCoTec 2009 - Lisboa, Portugal
+* DisCoTec 2008 - Oslo, Norway
+* DisCoTec 2007 - Paphos, Cyprus
+* DisCoTec 2006 - Bologna, Italy
+* DisCoTec 2005 - Namur, Belgium
 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
