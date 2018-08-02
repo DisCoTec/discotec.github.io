@@ -64,4 +64,4 @@ Moving around
 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
 
-<a class="twitter-timeline" href="https://twitter.com/DisCoTecConf?ref_src=twsrc%5Etfw">Tweets by DisCoTecConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-height="400" href="https://twitter.com/DisCoTecConf?ref_src=twsrc%5Etfw">Tweets by DisCoTecConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
