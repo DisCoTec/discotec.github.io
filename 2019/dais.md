@@ -5,6 +5,7 @@ The DAIS conference series addresses all practical and conceptual aspects of dis
 
 ## Program committee chairs
 * José Orlando Pereira, Universidade do Minho & INESC TEC, Portugal
+* Laura Ricci, University of Pisa, Italy
 
 ## Steering committee
 * Alysson Bessani, Universidade de Lisboa, Portugal
