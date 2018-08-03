@@ -27,6 +27,7 @@
 * Hanne Riis Nielson (DTU, Denmark - Coordination PC Chair)
 * José Orlando Pereira (Universidade do Minho & INESC TEC, Portugal - DAIS PC Chair)
 * Jorge A. Pérez (University of Groningen, The Netherlands - FORTE PC Chair)
+* Laura Ricci (University of Pisa, Italy - DAIS PC Chair)
 * Emilio Tuosto (University of Leicester, UK - Coordination PC Chair)
 * Nobuko Yoshida (Imperial College London, UK - FORTE PC Chair)
 
