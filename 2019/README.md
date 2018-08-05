@@ -5,7 +5,7 @@
 * [DAIS 2019](dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2019](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
-## Schedule (tentative):
+## Important dates (tentative):
 * Submission deadline: January/February 2019
 * Notification: March 2019
 * Conference and workshops: June 18-21, 2019
