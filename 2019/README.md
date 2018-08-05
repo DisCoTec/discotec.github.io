@@ -45,6 +45,10 @@
 ## Proceedings
 The proceedings of the conference are planned to be published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. The individual conferences may organise special issues of extended and selected papers in reputable journals.
 
+## Registration
+
+TBD
+
 ## Accommodation and local information
 
 Hotels in Copenhagen (recommended)
