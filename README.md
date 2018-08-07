@@ -37,6 +37,5 @@ research issues.
 * [DisCoTec 2008](http://discotec08.ifi.uio.no/) - Oslo, Norway
 * [DisCoTec 2007](http://www.discotec07.cs.ucy.ac.cy/) - Paphos, Cyprus
 * DisCoTec 2006 - Bologna, Italy
-* DisCoTec 2005 - Namur, Belgium
 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
