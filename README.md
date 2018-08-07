@@ -31,11 +31,11 @@ research issues.
 * [DisCoTec 2014](https://www.discotec2014.tu-berlin.de/) - Berlin, Germany
 * DisCoTec 2013 - Florence, Italy
 * DisCoTec 2012 - Stockholm, Sweden
-* DisCoTec 2011 - Reykjavik, Iceland
-* DisCoTec 2010 - Amsterdam, The Netherlands
+* [DisCoTec 2011](http://discotec.ru.is/) - Reykjavik, Iceland
+* [DisCoTec 2010](http://web.archive.org/web/20100806052340/http://discotec.project.cwi.nl/index.php/Main_Page) - Amsterdam, The Netherlands
 * DisCoTec 2009 - Lisboa, Portugal
-* DisCoTec 2008 - Oslo, Norway
-* DisCoTec 2007 - Paphos, Cyprus
+* [DisCoTec 2008](http://discotec08.ifi.uio.no/) - Oslo, Norway
+* [DisCoTec 2007](http://www.discotec07.cs.ucy.ac.cy/) - Paphos, Cyprus
 * DisCoTec 2006 - Bologna, Italy
 * DisCoTec 2005 - Namur, Belgium
 
