@@ -18,7 +18,7 @@
 * Kiko Fernández-Reyes (Uppsala University — Publicity chair)
 * Francesco Tiezzi (University of Camerino — Publicity chair)
 * Andrea Vandin (DTU, Denmark — Workshops chair)
-* Maurice Ter Beek (CNR, Italy — Workshops chair)
+* Maurice ter Beek (CNR, Italy — Workshops chair)
 * Valerio Schiavoni (Université de Neuchâtel, Switzerland — Workshops chair)
 * Cathrin-Ann Dunker (DTU — Logistics)
 * Linas Kaminskas (DTU — Logistics)
