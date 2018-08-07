@@ -23,7 +23,7 @@ research issues.
 * Gianluigi Zavattaro (University of Bologna, Italy)
 
 ## DisCoTec editions
-* [DisCoTec 2019](http://www.discotec.org/2019) - Kongens Lyngby (Greater Copenhagen Area), Denmark
+* [DisCoTec 2019](http://www.discotec.org/2019) - Kongens Lyngby, Denmark
 * [DisCoTec 2018](http://2018.discotec.org/) - Madrid, Spain
 * [DisCoTec 2017](http://2017.discotec.org/) - Neuchâtel, Swiss
 * [DisCoTec 2016](http://2016.discotec.org/) - Heraklion, Greece
