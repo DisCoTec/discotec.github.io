@@ -23,7 +23,7 @@ research issues. DisCoTec 2019 will take place at the [Technical University of D
 * Andrea Vandin (DTU, Denmark — Workshops chair)
 * Maurice ter Beek (CNR, Italy — Workshops chair)
 * Valerio Schiavoni (Université de Neuchâtel, Switzerland — Workshops chair)
-* Cathrin-Ann Dunker (DTU — Logistics)
+* Ann-Cathrin Dunker (DTU — Logistics)
 * Linas Kaminskas (DTU — Logistics)
 
 ## Scientific Committee
@@ -59,7 +59,7 @@ Hotels in Copenhagen (recommended)
 * A list of hotels in that area can be found in [booking.com](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggJCAlhYSDNYBGg9iAEBmAEGuAEHyAEM2AEB6AEBkgIBeagCAw&sid=526f40f28fb1d9d93bba8d197e3c8adb&class_interval=1&dest_id=1764&dest_type=landmark&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&lang=en-gb&map=1&no_rooms=1&offset=0&postcard=0&raw_dest_type=landmark&room1=A%2CA&sb_price_type=total&search_selected=1&soz=1&src=index&src_elem=sb&ss=N%C3%B8rreport%20Station%2C%20K%C3%B8benhavn%2C%20Region%20Hovedstaden%2C%20Danmark&ss_all=0&ss_raw=n%C3%B8rreport&ssb=empty&sshis=0&lang_click=top&cdl=da&lang_changed=1&nflt=#map_closed)
 
 Hotels in Lyngby
-* If you prefer to stay close to the campus and avoid the commute we recommend the [Scandic Eremitage](https://www.scandichotels.dk/hoteller/danmark/kobenhavn/scandic-eremitage) hotel. It is the closest to the campus
+* If you prefer to stay close to the campus and avoid the commute we recommend the [Scandic Eremitage](https://www.scandichotels.dk/hoteller/danmark/kobenhavn/scandic-eremitage) (expensive, located in the center of Lyngby and with public transportation) and the [Hotel Fortunen](http://www.fortunen.dk/) (cozy and cheaper, better suited for bike commuting, not well connected with public transportation but you can rent bikes at the hotel).
 * Further options can be found in [booking.com](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1FCAEoggJCAlhYSDNYBGg9iAEBmAEGuAEHyAEM2AEB6AEB-AELkgIBeagCAw&sid=526f40f28fb1d9d93bba8d197e3c8adb&class_interval=1&dest_id=-2745593&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&lang=en-gb&no_rooms=1&offset=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&soz=1&src=index&src_elem=sb&ss=Kongens%20Lyngby%2C%20Region%20Hovedstaden%2C%20Danmark&ss_raw=lyngb&ssb=empty&lang_click=top&cdl=da&lang_changed=1&nflt=)
 
 Moving around
