@@ -1,7 +1,7 @@
 # FORTE 2019 - 39th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 ## Scope
-FORTE 2019 is a forum for fundamental research on theory, models, tools, and applications for distributed systems. FORTE is one of the three conferences of [DisCoTec](http://www.discotec.org/2019/).
+FORTE 2019 is a forum for fundamental research on theory, models, tools, and applications for distributed systems. FORTE is one of the three conferences of [DisCoTec 2019](http://www.discotec.org/2019/).
 
 The conference solicits original contributions that advance the science and technologies for distributed systems, with special interest in the areas of:
 
