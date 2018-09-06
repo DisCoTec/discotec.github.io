@@ -1,6 +1,6 @@
 # DisCoTec 2019 - 14th International Federated Conference on Distributed Computing Techniques
 
-DisCoTec 2019 is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)). It gathers several conferences and workshops that cover a broad spectrum of distributed computing subjects, ranging from theoretical foundations and formal description techniques to systems
+[DisCoTec](https://www.discotec.org) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)). It gathers several conferences and workshops that cover a broad spectrum of distributed computing subjects, ranging from theoretical foundations and formal description techniques to systems
 research issues. DisCoTec 2019 will take place at the [Technical University of Denmark](http://www.dtu.dk) in June 18-21, 2019.
 
 ## Conferences
