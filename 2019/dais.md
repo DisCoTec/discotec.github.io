@@ -1,5 +1,7 @@
 # DAIS 2019 - 19th International Conference on Distributed Applications and Interoperable Systems
 
+DAIS 2019 is one of the three conferences of [DisCoTec 2019](https://www.discotec.org/2019/).
+
 # Scope
 The DAIS conference series addresses all practical and conceptual aspects of distributed applications, including their design, modeling, implementation and operation, the supporting middleware, appropriate software engineering methodologies and tools, as well as experimental studies and practice reports. Submissions will be judged on their originality, significance, clarity, relevance, and technical correctness.
 
