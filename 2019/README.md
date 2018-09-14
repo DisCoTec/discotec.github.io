@@ -11,8 +11,8 @@ research issues. DisCoTec 2019 will take place at the [Technical University of D
 ## Important dates
 * February 1, 2019 - abstract submission
 * February 8, 2019 - paper submission
-* March 29, 2019 - notification
-* April 10, 2019 - camera ready
+* April 12, 2019 - notification
+* April 26, 2019 - camera ready
 * Conference and workshops: June 18-21, 2019
 
 ## Location
