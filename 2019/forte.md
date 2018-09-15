@@ -23,15 +23,15 @@ FORTE covers distributed computing models and formal specification, testing and 
 ## Special Issue 
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
 
+## Submission Link
+* TBA
+
 ## Invited Speaker
 * TBA
 
 ## Program committee chairs
 * [Jorge A. Pérez](http://jperez.nl) (University of Groningen, The Netherlands)
 * [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/) (Imperial College London, UK)
-
-## Submission Link
-* TBA
 
 ## Program comitteee members
 * TBA
