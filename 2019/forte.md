@@ -1,6 +1,6 @@
 # FORTE 2019 - 39th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
-FORTE is one of the three conferences of [DisCoTec 2019](https://www.discotec.org/2019/).
+FORTE 2019 is one of the three conferences of [DisCoTec 2019](https://www.discotec.org/2019/), the 14th International Federated Conference on Distributed Computing Techniques.
 
 ## Scope
 FORTE 2019 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
@@ -27,8 +27,11 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * TBA
 
 ## Program committee chairs
-* Jorge A. Pérez (University of Groningen, The Netherlands)
-* Nobuko Yoshida (Imperial College London, UK)
+* [Jorge A. Pérez](http://jperez.nl) (University of Groningen, The Netherlands)
+* [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/) (Imperial College London, UK)
+
+## Submission Link
+* TBA
 
 ## Program comitteee members
 * TBA
