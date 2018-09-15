@@ -21,7 +21,10 @@ Contributions that combine theory and practice and that exploit formal methods a
 FORTE covers distributed computing models and formal specification, testing and verification methods. The application domains include all kinds of application-level distributed systems, telecommunication services, Internet, embedded and real-time systems, as well as networking and communication security and reliability.
 
 ## Special Issue 
-Selected papers will be invited to a special issue of **Logical Methods in Computer Science**.
+Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
+
+## Invited Speaker
+* TBA
 
 ## Program committee chairs
 * Jorge A. Pérez (University of Groningen, The Netherlands)
