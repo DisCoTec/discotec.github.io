@@ -16,10 +16,12 @@ The conference solicits original contributions that advance the science and tech
 * Self-healing/organizing;
 * Verification, validation, formal analysis, and testing of the above.
 
-Contributions that combine theory and practice and that exploit formal methods and theoretical foundations to present novel solutions to problems arising from the development of distributed systems are encouraged. FORTE covers distributed computing models and formal specification, testing and verification methods. The application domains include all kinds of application-level distributed systems, telecommunication services, Internet, embedded and real-time systems, as well as networking and communication security and reliability.
+Contributions that combine theory and practice and that exploit formal methods and theoretical foundations to present novel solutions to problems arising from the development of distributed systems are encouraged. 
+
+FORTE covers distributed computing models and formal specification, testing and verification methods. The application domains include all kinds of application-level distributed systems, telecommunication services, Internet, embedded and real-time systems, as well as networking and communication security and reliability.
 
 ## Special Issue 
-Selected papers will be invited to a special issue of *Logical Methods in Computer Science*.
+Selected papers will be invited to a special issue of **Logical Methods in Computer Science**.
 
 ## Program committee chairs
 * Jorge A. Pérez (University of Groningen, The Netherlands)
