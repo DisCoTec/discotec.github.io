@@ -8,6 +8,9 @@ research issues. DisCoTec 2019 will take place at the [Technical University of D
 * [DAIS 2019](dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2019](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
+## Keynote Speakers
+To be announced soon
+
 ## Important dates
 * February 1, 2019 - abstract submission
 * February 8, 2019 - paper submission
