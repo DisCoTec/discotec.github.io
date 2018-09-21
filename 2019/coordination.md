@@ -22,7 +22,7 @@ Modern information systems rely increasingly on combining concurrent, distribute
 * Michele Loreti, University of Camerino, Italy
 * Mieke Massink, ISTI CNR, Italy
 * Wolfgang De Meuter, Vrije Universiteit Brussels, Belgium
-* Jose Proenca, University of Minho, Portugal
+* Jose Proença, University of Minho, Portugal
 * Rosario Pugliese, Università di Firenze, Italy
 * Marjan Sirjani, Reykjavik University, Iceland
 * Carolyn Talcott, SRI International, California, USA
