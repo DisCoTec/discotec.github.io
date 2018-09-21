@@ -26,7 +26,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ## Submission Link
 * TBA
 
-## Invited Speaker
+## Keynote speakers
 * TBA
 
 ## Program committee chairs
