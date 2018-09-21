@@ -12,7 +12,6 @@ Modern information systems rely increasingly on combining concurrent, distribute
 ## Steering committee
 * Gul Agha, University of Illinois at Urbana Champaign, USA
 * Farhad Arbab, CWI and Leiden University, The Netherlands
-* Dave Clarke, Uppsala University, Sweden
 * Rocco De Nicola, IMT - School for Advanced Studies, Italy
 * Giovanna di Marzo Serugendo, Université de Genève, Switzerland
 * Tom Holvoet, KU Leuven, Belgium
