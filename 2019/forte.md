@@ -26,8 +26,11 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ## Submission Link
 * TBA
 
-## Keynote speakers
-* TBA
+## Keynote Speakers
+* David Basin (ETH Zürich, Swiss)
+* Anne-Marie Kermarrec (INRIA Rennes, France)
+* Marta Kwiatkowska (University of Oxford, UK)
+* Martin Wirsing (LMU, Germany)
 
 ## Program committee chairs
 * [Jorge A. Pérez](http://jperez.nl) (University of Groningen, The Netherlands)
