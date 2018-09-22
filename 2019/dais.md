@@ -40,6 +40,12 @@ System issues and design goals, including
 * scalability and elasticity, and
 * tail-performance and energy-efficiency.
 
+## Keynote Speakers
+* David Basin (ETH Zürich, Swiss)
+* Anne-Marie Kermarrec (INRIA Rennes, France)
+* Marta Kwiatkowska (University of Oxford, UK)
+* Martin Wirsing (LMU, Germany)
+
 ## Program committee chairs
 * José Orlando Pereira, Universidade do Minho & INESC TEC, Portugal
 * Laura Ricci, University of Pisa, Italy
