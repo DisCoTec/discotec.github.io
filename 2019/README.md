@@ -9,7 +9,10 @@ research issues. DisCoTec 2019 will take place at the [Technical University of D
 * [FORTE 2019](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 ## Keynote Speakers
-To be announced soon
+* David Basin (ETH Zürich, Swiss)
+* Anne-Marie Kermarrec (INRIA Rennes, France)
+* Marta Kwiatkowska (University of Oxford, UK)
+* Martin Wirsing (LMU, Germany)
 
 ## Important dates
 * February 1, 2019 - abstract submission
