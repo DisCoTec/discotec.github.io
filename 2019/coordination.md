@@ -5,6 +5,12 @@ Coordination 2019 is one of the three conferences of [DisCoTec 2019](https://www
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
 
+## Keynote Speakers
+* David Basin (ETH Zürich, Swiss)
+* Anne-Marie Kermarrec (INRIA Rennes, France)
+* Marta Kwiatkowska (University of Oxford, UK)
+* Martin Wirsing (LMU, Germany)
+
 ## Program committee chairs
 * Emilio Tuosto (University of Leicester, UK)
 * Hanne Riis Nielson (DTU, Denmark)
