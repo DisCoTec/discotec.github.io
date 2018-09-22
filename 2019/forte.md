@@ -27,7 +27,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * TBA
 
 ## Keynote Speakers
-* David Basin (ETH Zürich, Swiss)
+* David Basin (ETH Zürich, Switzerland)
 * Anne-Marie Kermarrec (INRIA Rennes, France)
 * Marta Kwiatkowska (University of Oxford, UK)
 * Martin Wirsing (LMU, Germany)
