@@ -41,7 +41,7 @@ System issues and design goals, including
 * tail-performance and energy-efficiency.
 
 ## Keynote Speakers
-* David Basin (ETH Zürich, Swiss)
+* David Basin (ETH Zürich, Switzerland)
 * Anne-Marie Kermarrec (INRIA Rennes, France)
 * Marta Kwiatkowska (University of Oxford, UK)
 * Martin Wirsing (LMU, Germany)
