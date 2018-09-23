@@ -54,11 +54,14 @@ research issues. DisCoTec 2019 will take place at the [Technical University of D
 * Gianluigi Zavattaro (University of Bologna, Italy)
 
 ## Proceedings
-The proceedings of the conference are planned to be published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. The individual conferences may organise special issues of extended and selected papers in reputable journals.
+The proceedings of the conference are planned to be published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. 
+
+## Special issues
+The individual conferences will organise special issues of extended and selected papers in reputable journal such as [Logical Methods in Computer Science](https://lmcs.episciences.org).
 
 ## Registration
 
-TBD
+Registration site and details to be announced in early 2019.
 
 ## Accommodation and local information
 
@@ -77,6 +80,6 @@ Moving around
 
 ## Sponsors
 ![](http://copenhagenhealthinnovation.dk/wp-content/uploads/2018/05/DTU-UK-A3_390x170.jpg)
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi)  ![](http://2016.discotec.org/img/banners/lncs.png)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi)  ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQFTQvmK3z3ISZ_uxdTumG7_xA2L2kBvYqj1ZAJNVWEqProUGgqg)
 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
