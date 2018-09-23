@@ -80,6 +80,6 @@ Moving around
 
 ## Sponsors
 ![](http://copenhagenhealthinnovation.dk/wp-content/uploads/2018/05/DTU-UK-A3_390x170.jpg)
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi)  ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQFTQvmK3z3ISZ_uxdTumG7_xA2L2kBvYqj1ZAJNVWEqProUGgqg)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi)  ![](https://bpm2017.cs.upc.edu/wp-content/uploads/2016/05/lncs.png)
 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
