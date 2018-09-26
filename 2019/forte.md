@@ -5,7 +5,7 @@ FORTE 2019 is one of the three conferences of [DisCoTec 2019](https://www.discot
 ## Scope
 FORTE 2019 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
 
-The conference solicits original contributions that advance the science and technologies for distributed systems, with special interest in:
+The conference solicits original contributions that advance the science and technology for distributed systems, with special interest in:
 
 * Software quality, reliability, availability, and safety;
 * Security, privacy, and trust in distributed systems;
@@ -17,7 +17,9 @@ The conference solicits original contributions that advance the science and tech
 
 Aligned with the above, FORTE covers distributed computing models and formal specification, testing and verification methods. The application domains include all kinds of application-level distributed systems, telecommunication services, Internet, embedded and real-time systems, as well as networking and communication security and reliability.
 
-Contributions that combine theory and practice and that exploit formal methods and theoretical foundations to present novel solutions to problems arising from the development of distributed systems are encouraged. Also, contributions that address emerging challenges and/or current hot topics (for instance, distributed ledgers, smart contracts, blockchain technologies) are also most welcome. 
+Contributions that combine theory and practice and that exploit formal methods and theoretical foundations to present novel solutions to problems arising from the development of distributed systems are encouraged. 
+
+Similarly, contributions that offer principled approaches to emerging challenges and/or current hot topics (for instance: distributed ledgers, smart contracts, blockchain technologies) are also most welcome. 
 
 ## Special Issue 
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
