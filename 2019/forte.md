@@ -19,7 +19,7 @@ Aligned with the above, FORTE covers distributed computing models and formal spe
 
 Contributions that combine theory and practice and that exploit formal methods and theoretical foundations to present novel solutions to problems arising from the development of distributed systems are encouraged. 
 
-Similarly, contributions that offer principled approaches to emerging challenges and/or current hot topics (for instance: distributed ledgers, smart contracts, blockchain technologies) are also most welcome. 
+Similarly, contributions that offer principled approaches to emerging challenges and/or current hot topics in distributed systems (for instance: distributed ledgers, smart contracts, blockchain technologies, ...) are also most welcome. 
 
 ## Special Issue 
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
