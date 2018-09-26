@@ -41,10 +41,11 @@ System issues and design goals, including
 * tail-performance and energy-efficiency.
 
 ## Keynote Speakers
-* David Basin (ETH Zürich, Switzerland)
-* Anne-Marie Kermarrec (INRIA Rennes, France)
-* Marta Kwiatkowska (University of Oxford, UK)
-* Martin Wirsing (LMU, Germany)
+* [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
+* [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
+* [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
+* [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
+* [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
 
 ## Program committee chairs
 * José Orlando Pereira, Universidade do Minho & INESC TEC, Portugal
