@@ -61,7 +61,7 @@ TBA
 ### Submission Link
 Papers must be submitted electronically in pdf using the EasyChair interface: 
 
-[https://easychair.org/conferences/?conf=forte19]
+<https://easychair.org/conferences/?conf=forte19>
 
 ## Keynote Speakers
 * [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
