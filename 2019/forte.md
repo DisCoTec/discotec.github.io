@@ -19,7 +19,7 @@ Aligned with the above, FORTE covers __models and formal specification__, __test
 
 Contributions that __combine theory and practice__ and that exploit formal methods and theoretical foundations to present novel solutions to problems arising from the development of distributed systems are very much encouraged. 
 
-FORTE also welcomes contributions that present principled approaches to __emerging challenges__ and/or __hot topics in distributed systems__, broadly costrued. Specific examples include (but are not limited to) *software-defined networks*, *distributed ledgers*, *smart contracts*, and *blockchain technologies*.
+FORTE also welcomes contributions that present principled approaches to __emerging challenges__ and/or __hot topics in distributed systems__, broadly construed. Specific examples of such challenges and topics include (but are not limited to) *software-defined networks*, *distributed ledgers*, *smart contracts*, and *blockchain technologies*.
 
 ## Special Issue 
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
