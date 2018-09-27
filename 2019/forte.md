@@ -21,27 +21,27 @@ Contributions that __combine theory and practice__ and that exploit formal metho
 
 ## Main Topics of Interest
 Topics of interest include but are not limited to:
- * __**Languages and semantic foundations**__
+ * __Languages and semantic foundations__
  
    New modeling and language concepts for distribution and concurrency; semantics for different types of languages, including programming languages, modeling languages, and domain-specific languages; real-time and probability aspects
 
-* __**Formal methods and techniques**__
+* __Formal methods and techniques__
 
   Design, specification, analysis, verification, validation, testing and runtime verification of various types of distributed systems, including communications and network protocols, service-oriented systems, adaptive distributed systems, cyber-physical systems and sensor networks
 
-* __**Foundations of security**__
+* __Foundations of security__
 
   New principles for qualitative and quantitative security analysis of distributed systems, including formal models based on probabilistic concepts
 
-* __**Applications of formal methods**__
+* __Applications of formal methods__
 
   Applying formal methods and techniques for studying quality, reliability, availability, and safety of distributed systems
 
-* __**Practical experience with formal methods**__
+* __Practical experience with formal methods__
  
   Industrial applications, case studies and software tools for applying formal methods and description techniques to the development and analysis of real distributed systems.
 
-* __**Emerging challenges and hot topics in distributed systems**__ (broadly construed)
+* __Emerging challenges and hot topics in distributed systems__ (broadly construed)
 
   Examples include: software-defined networks, distributed ledgers, smart contracts, and blockchain technologies.
 
@@ -61,7 +61,7 @@ TBA
 ### Submission Link
 Papers must be submitted electronically in pdf using the EasyChair interface: 
 
-https://easychair.org/conferences/?conf=forte19
+[https://easychair.org/conferences/?conf=forte19]
 
 ## Keynote Speakers
 * [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
