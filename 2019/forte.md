@@ -8,7 +8,7 @@ FORTE 2019 is a forum for fundamental research on theory, models, tools, and app
 The conference solicits original contributions that advance the science and technology for distributed systems, with special interest in:
 
 * Software quality, reliability, availability, and safety;
-* Security, privacy, and trust in distributed systems;
+* Security, privacy, and trust in distributed and/or communicating systems;
 * Service-oriented, ubiquitous, and cloud computing systems
 * Component- and model-based design
 * Object technology, modularity, software adaptation
