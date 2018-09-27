@@ -19,13 +19,49 @@ Aligned with the above, FORTE covers __models and formal specification__, __test
 
 Contributions that __combine theory and practice__ and that exploit formal methods and theoretical foundations to present novel solutions to problems arising from the development of distributed systems are very much encouraged. 
 
-FORTE also welcomes contributions that present principled approaches to __emerging challenges__ and/or __hot topics in distributed systems__, broadly construed. Specific examples of such challenges and topics include (but are not limited to) *software-defined networks*, *distributed ledgers*, *smart contracts*, and *blockchain technologies*.
+## Main Topics of Interest
+Topics of interest include but are not limited to:
+ * __**Languages and semantic foundations**__
+ 
+   New modeling and language concepts for distribution and concurrency; semantics for different types of languages, including programming languages, modeling languages, and domain-specific languages; real-time and probability aspects
+
+* __**Formal methods and techniques**__
+
+  Design, specification, analysis, verification, validation, testing and runtime verification of various types of distributed systems, including communications and network protocols, service-oriented systems, adaptive distributed systems, cyber-physical systems and sensor networks
+
+* __**Foundations of security**__
+
+  New principles for qualitative and quantitative security analysis of distributed systems, including formal models based on probabilistic concepts
+
+* __**Applications of formal methods**__
+
+  Applying formal methods and techniques for studying quality, reliability, availability, and safety of distributed systems
+
+* __**Practical experience with formal methods**__
+ 
+  Industrial applications, case studies and software tools for applying formal methods and description techniques to the development and analysis of real distributed systems.
+
+* __**Emerging challenges and hot topics in distributed systems**__ (broadly construed)
+
+  Examples include: software-defined networks, distributed ledgers, smart contracts, and blockchain technologies.
 
 ## Special Issue 
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
 
-## Submission Link
-* TBA
+## Submission and Publication 
+
+### Submission Guidelines
+Contributions must be written in English according to one of the three categories described below. They should report on original, unpublished work, not submitted for publication elsewhere (cf. IFIP’s codes of conduct). 
+
+The submissions must be prepared using Springer’s LNCS style. Submissions not adhering to the specified constraints of their respective category may be rejected without review. 
+
+### Submission Categories
+TBA
+
+### Submission Link
+Papers must be submitted electronically in pdf using the EasyChair interface: 
+
+https://easychair.org/conferences/?conf=forte19
 
 ## Keynote Speakers
 * [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
