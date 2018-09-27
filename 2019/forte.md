@@ -15,11 +15,11 @@ The conference solicits original contributions that advance the science and tech
 * Self-stabilization and self-healing/organizing
 * Verification, validation, formal analysis, and testing of the above.
 
-Aligned with the above, FORTE covers __models and formal specification, testing and verification methods__ for distributed computing.  Application domains are multiple, and include all kinds of application-level distributed systems, telecommunication services, Internet, embedded and real-time systems, as well as networking and communication security and reliability.
+Aligned with the above, FORTE covers __models and formal specification__, __testing__ and __verification methods__ for distributed computing.  Application domains are multiple, and include all kinds of application-level distributed systems, telecommunication services, Internet, embedded and real-time systems, as well as networking and communication security and reliability.
 
 Contributions that __combine theory and practice__ and that exploit formal methods and theoretical foundations to present novel solutions to problems arising from the development of distributed systems are very much encouraged. 
 
-Similarly, FORTE welcomes contributions that present principled approaches to __emerging challenges and/or hot topics__ in distributed systems. Specific examples include (but are not limited to) *distributed ledgers, smart contracts, and blockchain technologies*.
+FORTE also welcomes contributions that present principled approaches to __emerging challenges__ and/or __hot topics in distributed systems__, broadly costrued. Specific examples include (but are not limited to) *software-defined networks*, *distributed ledgers*, *smart contracts*, and *blockchain technologies*.
 
 ## Special Issue 
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
