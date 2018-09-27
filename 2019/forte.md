@@ -53,14 +53,12 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ### Submission Guidelines
 Contributions must be written in English according to one of the three categories described below. They should report on original, unpublished work, not submitted for publication elsewhere (cf. IFIP’s codes of conduct). 
 
-The submissions must be prepared using Springer’s LNCS style. Submissions not adhering to the specified constraints of their respective category may be rejected without review. 
+The submissions must be prepared as a PDF using Springer’s LNCS style. Submissions not adhering to the specified constraints of their respective category may be rejected without review. 
 
 ### Submission Categories
 TBA
 
 ### Submission Link
-Papers must be submitted electronically in pdf using the EasyChair interface: 
-
 <https://easychair.org/conferences/?conf=forte19>
 
 ## Keynote Speakers
