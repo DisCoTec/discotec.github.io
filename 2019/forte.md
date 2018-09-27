@@ -12,12 +12,12 @@ The conference solicits original contributions that advance the science and tech
 * Service-oriented, ubiquitous, and cloud computing systems
 * Component- and model-based design
 * Object technology, modularity, software adaptation
-* Adaptation, self-stabilization, self-healing/organizing
+* Self-stabilization and self-healing/organizing
 * Verification, validation, formal analysis, and testing of the above.
 
 Aligned with the above, FORTE covers __models and formal specification, testing and verification methods__ for distributed computing.  Application domains are multiple, and include all kinds of application-level distributed systems, telecommunication services, Internet, embedded and real-time systems, as well as networking and communication security and reliability.
 
-Contributions that __combine theory and practice__ and that exploit formal methods and theoretical foundations to present novel solutions to problems arising from the development of distributed systems are encouraged. 
+Contributions that __combine theory and practice__ and that exploit formal methods and theoretical foundations to present novel solutions to problems arising from the development of distributed systems are very much encouraged. 
 
 Similarly, FORTE welcomes contributions that present principled approaches to __emerging challenges and/or hot topics__ in distributed systems. Specific examples include (but are not limited to) *distributed ledgers, smart contracts, and blockchain technologies*.
 
