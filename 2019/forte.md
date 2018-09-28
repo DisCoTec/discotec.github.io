@@ -62,19 +62,20 @@ This year, FORTE accepts contributions in three submission categories: __regular
 A regular paper submission describes thorough and complete research results in the scope of the conference.
 
 2. Short papers (page limit: up to 6 pages + 2 pages references):
-A short paper submission can be one of the following:
-* Rough diamonds: Extended abstracts presenting innovative and promising ideas, possibly in an early form and without supporting evidence.
-* Tool (demonstration) papers: Extended abstracts describing (or demonstrating) new tools (or tool components) that implement (or build upon) theoretical foundations.
-* Position papers: Extended abstracts describing (i) calls to action,  or (ii) substantiated reflections on the current and/or future research perspectives related to FORTE.
+ A short paper submission can be one of the following:
+* *Rough diamonds*: Extended abstracts presenting innovative and promising ideas, possibly in an early form and without supporting evidence.
+* *Tool (demonstration) papers*: Extended abstracts describing (or demonstrating) new tools (or tool components) that implement (or build upon) theoretical foundations.
+* *Position papers* : Extended abstracts describing (i) calls to action,  or (ii) substantiated reflections on the current and/or future research perspectives related to FORTE.
 
-3."Journal First" papers (page limit: 2 pages, including references):
- This is a new category, that aims at including published journal papers in the FORTE 2019 program. The objective is to offer FORTE attendees a richer program and further opportunities for interaction. 
+3. "Journal First" papers (page limit: 2 pages, including references):
+This is a new category, which aims at including published journal papers in the FORTE 2019 program. The objective is to offer FORTE attendees a richer program and further opportunities for interaction. 
 
 Authors of published papers in high-quality journals can submit a proposal to present their journal paper in FORTE. The journal paper must adhere to the following four criteria:
 
 * It should be clearly in the scope of the conference.
 * It should be available at the publisher web site after January 2017
-* It reports new research results that significantly extend prior work (and were not previously reported therein). As such, the journal paper does not simply extend prior work with material presented for completeness (such as omitted proofs, algorithms, or empirical results), nor limits to present minor enhancements of already published results.
+* It reports new research results that significantly extend prior work (and were not previously reported therein). 
+ As such, the journal paper does not simply extend prior work with material presented for completeness (such as omitted proofs, algorithms, or empirical results), nor limits to present minor enhancements of already published results.
 * It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.
 
 Journal-first submissions must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. 
