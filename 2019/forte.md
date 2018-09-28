@@ -56,7 +56,7 @@ Submissions must be prepared as a PDF using Springer’s LNCS style. Submissions
 ### Submission Categories
 This year, FORTE accepts contributions in three categories: __regular (full) papers__, __short papers__, and __journal-first papers__. These categories and their associated criteria are described in detail below. 
 
-Authors of *short* and *journal-first* papers must be marked as such in their manuscript and in EasyChair (for instance, in the submission's title). 
+Notice that *short* and *journal-first* papers must be explicitly marked as such in the submission's title. 
 
 1. __Regular (full) papers__ (page limit: up to 15 pages + 2 pages references)
 
@@ -69,7 +69,7 @@ Authors of *short* and *journal-first* papers must be marked as such in their ma
    * *Tool (demonstration) papers*: Extended abstracts describing (or demonstrating) new tools (or tool components) that implement (or build upon) theoretical foundations.
    * *Position papers* : Extended abstracts describing (i) calls to action,  or (ii) substantiated reflections on current and/or future research perspectives related to FORTE.
    
-   Short paper submissions must be marked as such (for instance, in the submission's title).
+   Short paper submissions must be marked as such in the submission's title.
 
 3. __"Journal First" papers__ (page limit: up to 2 pages, including references)
 
@@ -78,12 +78,12 @@ Authors of *short* and *journal-first* papers must be marked as such in their ma
    Authors of published papers in high-quality journals can submit a proposal to present their journal paper in FORTE. The journal paper must adhere to the following four criteria:
 
    * It should be clearly in the scope of the conference.
-   * It should be available at the publisher web site after January 2017
+   * It should be available at the publisher's web site after January 2017
    * It reports new research results that significantly extend prior work (and were not previously reported therein). 
      As such, the journal paper does not simply extend prior work with material presented for completeness (such as omitted proofs, algorithms, or empirical results), nor limits to present minor enhancements of already published results.
    * It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.
 
-   Journal-first submissions must be marked as such (for instance, in the submission's title) and must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program. 
+   Journal-first submissions must be marked as such in the submission's title, and must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program. 
 
 ### Publication 
 All accepted papers, regardless of category, will be published in the FORTE 2019 formal proceedings, which will appear in Springer's LNCS-IFIP volume series. 
