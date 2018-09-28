@@ -51,14 +51,14 @@ Topics of interest include but are not limited to:
 Contributions must be written in English according to one of the three categories described below. They should report on original, unpublished work, not submitted for publication elsewhere (cf. IFIP’s codes of conduct, see <http://www.ifip.org/> under
 Publications/Links)  
 
-The submissions must be prepared as a PDF using Springer’s LNCS style. Submissions not adhering to the specified constraints of their respective category may be rejected without review. 
+Submissions must be prepared as a PDF using Springer’s LNCS style. Submissions not adhering to the specified constraints of their respective category may be rejected without review. 
 
 ### Submission Categories
 This year, FORTE accepts contributions in three categories: __regular (full) papers__, __short papers__, and __journal-first papers__. These categories and their associated criteria are described in detail below. 
 
 Authors of *short* and *journal-first* papers must be marked as such in their manuscript and in EasyChair (for instance, in the submission's title). 
 
-1. __Regular (full) papers__ (page limit: 15 pages + 2 pages references)
+1. __Regular (full) papers__ (page limit: up to 15 pages + 2 pages references)
 
    A regular paper submission describes thorough and complete research results in the scope of the conference.
 
@@ -67,11 +67,11 @@ Authors of *short* and *journal-first* papers must be marked as such in their ma
    A short paper submission can be one of the following:
    * *Rough diamonds*: Extended abstracts presenting innovative and promising ideas, possibly in an early form and without supporting evidence.
    * *Tool (demonstration) papers*: Extended abstracts describing (or demonstrating) new tools (or tool components) that implement (or build upon) theoretical foundations.
-   * *Position papers* : Extended abstracts describing (i) calls to action,  or (ii) substantiated reflections on the current and/or future research perspectives related to FORTE.
+   * *Position papers* : Extended abstracts describing (i) calls to action,  or (ii) substantiated reflections on current and/or future research perspectives related to FORTE.
    
    Short paper submissions must be marked as such (for instance, in the submission's title).
 
-3. __"Journal First" papers__ (page limit: 2 pages, including references)
+3. __"Journal First" papers__ (page limit: up to 2 pages, including references)
 
    This is a new category, which aims at including published journal papers in the FORTE 2019 program. The objective is to offer FORTE attendees a richer program and further opportunities for interaction. 
 
