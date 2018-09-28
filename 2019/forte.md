@@ -48,14 +48,15 @@ Topics of interest include but are not limited to:
 ## Submission, Publication, and Special Issue
 
 ### Submission Guidelines
-Contributions must be written in English according to one of the three categories described below. They should report on original, unpublished work, not submitted for publication elsewhere (cf. IFIP’s codes of conduct). 
+Contributions must be written in English according to one of the three categories described below. They should report on original, unpublished work, not submitted for publication elsewhere (cf. IFIP’s codes of conduct, see <http://www.ifip.org/> under
+Publications/Links)  
 
 The submissions must be prepared as a PDF using Springer’s LNCS style. Submissions not adhering to the specified constraints of their respective category may be rejected without review. 
 
 ### Submission Categories
 This year, FORTE accepts contributions in three categories: __regular (full) papers__, __short papers__, and __journal-first papers__. These categories and their associated criteria are described in detail below. 
 
-Authors of *short* and *journal-first* papers must make these categories explicit in their manuscript and in EasyChair (for instance, in the submission's title). 
+Authors of *short* and *journal-first* papers must be marked as such in their manuscript and in EasyChair (for instance, in the submission's title). 
 
 1. __Regular (full) papers__ (page limit: 15 pages + 2 pages references)
 
@@ -67,6 +68,8 @@ Authors of *short* and *journal-first* papers must make these categories explici
    * *Rough diamonds*: Extended abstracts presenting innovative and promising ideas, possibly in an early form and without supporting evidence.
    * *Tool (demonstration) papers*: Extended abstracts describing (or demonstrating) new tools (or tool components) that implement (or build upon) theoretical foundations.
    * *Position papers* : Extended abstracts describing (i) calls to action,  or (ii) substantiated reflections on the current and/or future research perspectives related to FORTE.
+   
+   Short paper submissions must be marked as such (for instance, in the submission's title).
 
 3. __"Journal First" papers__ (page limit: 2 pages, including references)
 
@@ -80,10 +83,10 @@ Authors of *short* and *journal-first* papers must make these categories explici
      As such, the journal paper does not simply extend prior work with material presented for completeness (such as omitted proofs, algorithms, or empirical results), nor limits to present minor enhancements of already published results.
    * It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.
 
-   Journal-first submissions must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program. 
+   Journal-first submissions must be marked as such (for instance, in the submission's title) and must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program. 
 
 ### Publication 
-All accepted papers, regardless of category, will be published in the FORTE 2019 formal proceedings, which will appear in Springer's LNCS-IFIP volumes. 
+All accepted papers, regardless of category, will be published in the FORTE 2019 formal proceedings, which will appear in Springer's LNCS-IFIP volume series. 
 
 ### Special Issue 
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
