@@ -56,7 +56,9 @@ Contributions must be written in English according to one of the three categorie
 The submissions must be prepared as a PDF using Springer’s LNCS style. Submissions not adhering to the specified constraints of their respective category may be rejected without review. 
 
 ### Submission Categories
-This year, FORTE accepts contributions in three categories: __regular (full) papers__, __short papers__, and __journal-first papers__. These categories and their associated criteria are described in detail below. Authors of *short* and *journal-first* papers must make these categories explicit in their manuscript and in EasyChair (for instance, in the submission's title). 
+This year, FORTE accepts contributions in three categories: __regular (full) papers__, __short papers__, and __journal-first papers__. These categories and their associated criteria are described in detail below. 
+
+All accepted papers, regardless of category, will be published in the FORTE 2019 formal proceedings. Authors of *short* and *journal-first* papers must make these categories explicit in their manuscript and in EasyChair (for instance, in the submission's title). 
 
 1. __Regular (full) papers__ (page limit: 15 pages + 2 pages references)
 
@@ -65,9 +67,9 @@ This year, FORTE accepts contributions in three categories: __regular (full) pap
 2. __Short papers__ (page limit: up to 6 pages + 2 pages references)
 
    A short paper submission can be one of the following:
- * *Rough diamonds*: Extended abstracts presenting innovative and promising ideas, possibly in an early form and without supporting evidence.
- * *Tool (demonstration) papers*: Extended abstracts describing (or demonstrating) new tools (or tool components) that implement (or build upon) theoretical foundations.
- * *Position papers* : Extended abstracts describing (i) calls to action,  or (ii) substantiated reflections on the current and/or future research perspectives related to FORTE.
+   * *Rough diamonds*: Extended abstracts presenting innovative and promising ideas, possibly in an early form and without supporting evidence.
+   * *Tool (demonstration) papers*: Extended abstracts describing (or demonstrating) new tools (or tool components) that implement (or build upon) theoretical foundations.
+   * *Position papers* : Extended abstracts describing (i) calls to action,  or (ii) substantiated reflections on the current and/or future research perspectives related to FORTE.
 
 3. __"Journal First" papers__ (page limit: 2 pages, including references)
 
@@ -79,9 +81,9 @@ This year, FORTE accepts contributions in three categories: __regular (full) pap
    * It should be available at the publisher web site after January 2017
    * It reports new research results that significantly extend prior work (and were not previously reported therein). 
      As such, the journal paper does not simply extend prior work with material presented for completeness (such as omitted proofs, algorithms, or empirical results), nor limits to present minor enhancements of already published results.
-  * It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.
+   * It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.
 
-  Journal-first submissions must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program. 
+   Journal-first submissions must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program. 
 
 
 ### Submission Link
@@ -137,4 +139,4 @@ This year, FORTE accepts contributions in three categories: __regular (full) pap
 * Heike Wehrheim (Paderborn University, Germany)
 
 ## More Information
-For additional information, please contact the Program Co-chairs: <forte19@easychair.org>
+For additional information, please contact the Program Committee Co-chairs: <forte19@easychair.org>
