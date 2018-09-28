@@ -45,10 +45,7 @@ Topics of interest include but are not limited to:
 
   Formal specification, verification and  analysis of emerging systems and applications, such as, for instance, software-defined networks, distributed ledgers, smart contracts, and blockchain technologies.
 
-## Special Issue 
-Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
-
-## Submission and Publication 
+## Submission, Publication, and Special Issue
 
 ### Submission Guidelines
 Contributions must be written in English according to one of the three categories described below. They should report on original, unpublished work, not submitted for publication elsewhere (cf. IFIP’s codes of conduct). 
@@ -58,7 +55,7 @@ The submissions must be prepared as a PDF using Springer’s LNCS style. Submiss
 ### Submission Categories
 This year, FORTE accepts contributions in three categories: __regular (full) papers__, __short papers__, and __journal-first papers__. These categories and their associated criteria are described in detail below. 
 
-All accepted papers, regardless of category, will be published in the FORTE 2019 formal proceedings. Authors of *short* and *journal-first* papers must make these categories explicit in their manuscript and in EasyChair (for instance, in the submission's title). 
+Authors of *short* and *journal-first* papers must make these categories explicit in their manuscript and in EasyChair (for instance, in the submission's title). 
 
 1. __Regular (full) papers__ (page limit: 15 pages + 2 pages references)
 
@@ -85,8 +82,13 @@ All accepted papers, regardless of category, will be published in the FORTE 2019
 
    Journal-first submissions must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program. 
 
+### Publication 
+All accepted papers, regardless of category, will be published in the FORTE 2019 formal proceedings, which will appear in Springer's LNCS-IFIP volumes. 
 
-### Submission Link
+### Special Issue 
+Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
+
+## Submission Link
 <https://easychair.org/conferences/?conf=forte19>
 
 ## Keynote Speakers
