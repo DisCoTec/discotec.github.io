@@ -60,26 +60,28 @@ This year, FORTE accepts contributions in three categories: __regular (full) pap
 
 1. __Regular (full) papers__ (page limit: 15 pages + 2 pages references)
 
- A regular paper submission describes thorough and complete research results in the scope of the conference.
+   A regular paper submission describes thorough and complete research results in the scope of the conference.
 
-2. __Short papers__ (page limit: up to 6 pages + 2 pages references):
- A short paper submission can be one of the following:
+2. __Short papers__ (page limit: up to 6 pages + 2 pages references)
+
+   A short paper submission can be one of the following:
  * *Rough diamonds*: Extended abstracts presenting innovative and promising ideas, possibly in an early form and without supporting evidence.
  * *Tool (demonstration) papers*: Extended abstracts describing (or demonstrating) new tools (or tool components) that implement (or build upon) theoretical foundations.
  * *Position papers* : Extended abstracts describing (i) calls to action,  or (ii) substantiated reflections on the current and/or future research perspectives related to FORTE.
 
-3. __"Journal First" papers__ (page limit: 2 pages, including references):
- This is a new category, which aims at including published journal papers in the FORTE 2019 program. The objective is to offer FORTE attendees a richer program and further opportunities for interaction. 
+3. __"Journal First" papers__ (page limit: 2 pages, including references)
 
- Authors of published papers in high-quality journals can submit a proposal to present their journal paper in FORTE. The journal paper must adhere to the following four criteria:
+   This is a new category, which aims at including published journal papers in the FORTE 2019 program. The objective is to offer FORTE attendees a richer program and further opportunities for interaction. 
 
- * It should be clearly in the scope of the conference.
- * It should be available at the publisher web site after January 2017
- * It reports new research results that significantly extend prior work (and were not previously reported therein). 
- As such, the journal paper does not simply extend prior work with material presented for completeness (such as omitted proofs, algorithms, or empirical results), nor limits to present minor enhancements of already published results.
- * It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.
+   Authors of published papers in high-quality journals can submit a proposal to present their journal paper in FORTE. The journal paper must adhere to the following four criteria:
 
- Journal-first submissions must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program. 
+   * It should be clearly in the scope of the conference.
+   * It should be available at the publisher web site after January 2017
+   * It reports new research results that significantly extend prior work (and were not previously reported therein). 
+     As such, the journal paper does not simply extend prior work with material presented for completeness (such as omitted proofs, algorithms, or empirical results), nor limits to present minor enhancements of already published results.
+  * It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.
+
+  Journal-first submissions must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program. 
 
 
 ### Submission Link
@@ -133,3 +135,6 @@ This year, FORTE accepts contributions in three categories: __regular (full) pap
 * Catuscia Palamidessi (INRIA Paris, France) 
 * Jean-Bernard Stefani (INRIA Grenoble, France) - Chair
 * Heike Wehrheim (Paderborn University, Germany)
+
+## More Information
+For additional information, please contact the Program Co-chairs: <forte19@easychair.org>
