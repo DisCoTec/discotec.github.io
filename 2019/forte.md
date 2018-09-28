@@ -43,7 +43,7 @@ Topics of interest include but are not limited to:
 
 * __Emerging challenges and hot topics in distributed systems__ (broadly construed)
 
-  Examples include: software-defined networks, distributed ledgers, smart contracts, and blockchain technologies.
+  Formal specification, verification and  analysis of emerging systems and applications, such as, for instance, software-defined networks, distributed ledgers, smart contracts, and blockchain technologies.
 
 ## Special Issue 
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
@@ -73,7 +73,30 @@ TBA
 * [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/) (Imperial College London, UK)
 
 ## Program comitteee members
-* TBA
+* Samik	Basu	(Iowa State University, USA)
+* Annette	Bieniusa	(University of Kaiserslautern, Germany)
+* Stefano	Calzavara	(Università Ca' Foscari Venezia, Italy)	 
+* Natalia	Chechina	(Bournemouth University, UK)
+* Mila	Dalla Preda	(University of Verona, Italy)
+* Rayna	Dimitrova	(University of Leicester, UK)
+* Patrick	Eugster	(University of Lugano, Switzerland)	
+* Ichiro	Hasuo	(National Institute of Informatics, Japan)
+* Thomas	Hildebrandt	(University of Copenhagen, Denmark)
+* Sophia	Knight	(University of Minnesota Duluth, USA)
+* Etienne	Lozes	(University of Nice & CNRS, France)
+* Emanuela	Merelli	(University of Camerino, Italy)
+* Roland	Meyer	(TU Braunschweig, Germany)
+* Uwe	Nestmann	(TU Berlin, Germany)		
+* Willard	Rafnsson	(IT University of Copenhagen, Denmark)
+* Anne	Remke	(WWU Münster, Germany and University of Twente, The Netherlands)
+* Guido	Salvaneschi	(TU Darmstadt, Germany) 
+* Cesar	Sanchez	(IMDEA Software Institute, Spain)
+* Ana	Sokolova	(University of Salzburg, Austria)
+* Alexander J.	Summers	(ETH Zurich, Switzerland)
+* Peter	Thiemann	(Universität Freiburg, Germany)
+* Tim	Willemse	(Eindhoven University of Technology, The Netherlands)
+* Lukasz	Ziarek	(SUNY Buffalo, USA)
+* Jaco	van de Pol	(Aarhus University, Denmark and University of Twente, The Netherlands)
 
 ## Steering committee
 * Erika Abraham (Aachen University, Germany)
