@@ -78,9 +78,8 @@ Notice that *short* and *journal-first* papers must be explicitly marked as such
    Authors of published papers in high-quality journals can submit a proposal to present their journal paper in FORTE. The journal paper must adhere to the following four criteria:
 
    * It should be clearly in the scope of the conference.
-   * It should be available at the publisher's web site after January 2017
-   * It reports new research results that significantly extend prior work (and were not previously reported therein). 
-     As such, the journal paper does not simply extend prior work with material presented for completeness (such as omitted proofs, algorithms, or empirical results), nor limits to present minor enhancements of already published results.
+   * It should be recent: only journal papers available  after January 1, 2017 (online or paper) can be presented. 
+   * It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).
    * It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.
 
    Journal-first submissions must be marked as such in the submission's title, and must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program. 
