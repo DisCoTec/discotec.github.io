@@ -52,7 +52,34 @@ System issues and design goals, including
 * Laura Ricci, University of Pisa, Italy
 
 ## Program committee
-TBA
+* Altair Santin (PUCPR, Brazil)
+* Barbara Guidi (Department of Computer Science, University of Pisa, Italy)
+* Boris Koldehofe (TU Darmstadt, Germany)
+* Claudio Antares Mezzina (University of Leicester, UK)
+* Claudio Palazzi (University of Padova, Italy)
+* David Eyers (University of Otago, New Zealand)
+* Davide Frey (INRIA, France)
+* Emanuel Onica (Alexandru Ioan Cuza University of Iasi, Romania)
+* Etienne Rivière (Université Catholique de Louvain, Belgium)
+* Francesc D. Muñoz-Escoí (Instituto Tecnolgico de Informtica, UPV, Valencia, Spain, Spain)
+* Frank Eliassen (University of Oslo, Norway)
+* Hans P. Reiser (University of Passau, Germany)
+* Iberia Medeiros (LaSIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal)
+* João Paulo (University of Minho, Portugal)
+* Jordi Guitart (Universitat Politècnica de Catalunya, Spain)
+* Kostas Magoutis (University of Ioannina, Greece)
+* Manuel Bravo (IMDEA Software Institute, Madrid, Spain)
+* Marco Serafini (University of Massachusetts Amherst, USA)
+* Mark Jelasity (University of Szeged, Hungary)
+* Mark Little (RedHat, UK)
+* Marta Patino (Universidad Politécnica de Madrid, Spain)
+* Miguel Matos (IST, INESC-ID, U. Lisboa, Portugal)
+* Mohammed Erradi (ENSIAS Rabat, Morocco)
+* Sara Bouchenak (INSA Lyon, France)
+* Silvia Bonomi (Sapienza University of Rome, Italy)
+* Sonia Ben Mokhtar (LIRIS CNRS, France)
+* Valerio Schiavoni (University of Neuchatel, Switzerland)
+* Vana Kalogeraki (Athens University of Economics and Business, Greece)
 
 ## Steering committee
 * Alysson Bessani, Universidade de Lisboa, Portugal
