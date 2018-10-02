@@ -119,6 +119,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Emanuela	Merelli	(University of Camerino, Italy)
 * Roland	Meyer	(TU Braunschweig, Germany)
 * Uwe	Nestmann	(TU Berlin, Germany)		
+* Gustavo	Petri	(IRIF - Paris Diderot - Paris 7, France)
 * Willard	Rafnsson	(IT University of Copenhagen, Denmark)
 * Anne	Remke	(WWU Münster, Germany and University of Twente, The Netherlands)
 * Guido	Salvaneschi	(TU Darmstadt, Germany) 
