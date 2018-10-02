@@ -105,7 +105,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/) (Imperial College London, UK)
 
 ## Program comitteee members
-* Samik	Basu	(Iowa State University, USA)
+* [Samik	Basu](https://www.cs.iastate.edu/people/samik-basu-0)	(Iowa State University, USA)
 * Annette	Bieniusa	(University of Kaiserslautern, Germany)
 * Stefano	Calzavara	(Università Ca' Foscari Venezia, Italy)	 
 * Natalia	Chechina	(Bournemouth University, UK)
