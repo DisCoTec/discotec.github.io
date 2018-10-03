@@ -52,7 +52,7 @@ The conference proceedings, formed by accepted submissions will be published by 
 
 ## Program committee
 * Meng Sun (Peking University, China)
-* Claudio Antares Mezzina (IMT School for Advanced Studies Lucca, Italy) 
+* Claudio Antares Mezzina (University of Leicester, UK) 
 * Carolyn Talcott (SRI International, USA)
 * Takuo Watanabe (Tokyo Institute of Technology, Japan)
 * Ludovic Henrio (CNRS, France)
