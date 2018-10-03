@@ -47,6 +47,9 @@ System issues and design goals, including
 * scalability and elasticity, and
 * tail-performance and energy-efficiency.
 
+## Submission dates
+See the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). 
+
 ## Program committee chairs
 * José Orlando Pereira (Universidade do Minho & INESC TEC, Portugal)
 * Laura Ricci (University of Pisa, Italy)
