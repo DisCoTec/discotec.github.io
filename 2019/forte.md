@@ -2,6 +2,13 @@
 
 FORTE 2019 is one of the three conferences of [DisCoTec 2019](https://www.discotec.org/2019/), the 14th International Federated Conference on Distributed Computing Techniques.
 
+## Keynote Speakers
+* [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
+* [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
+* [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
+* [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
+* [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
+
 ## Scope
 FORTE 2019 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
 
@@ -92,13 +99,6 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ## Submission Link
 <https://easychair.org/conferences/?conf=forte19>
-
-## Keynote Speakers
-* [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
-* [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
-* [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
-* [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
-* [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
 
 ## Program committee chairs
 * [Jorge A. Pérez](http://jperez.nl) (University of Groningen, The Netherlands)
