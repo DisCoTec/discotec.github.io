@@ -16,6 +16,37 @@ Modern information systems rely increasingly on combining concurrent, distribute
 * Emilio Tuosto (University of Leicester, UK)
 * Hanne Riis Nielson (DTU, Denmark)
 
+## Program committee
+* Meng Sun (Peking University, China)
+* Claudio Antares Mezzina (IMT School for Advanced Studies Lucca, Italy) 
+* Carolyn Talcott (SRI International, USA)
+* Takuo Watanabe (Tokyo Institute of Technology, Japan)
+* Ludovic Henrio (CNRS, France)
+* Mieke Massink (CNR-ISTI, Italy)
+* Hugo Torres Vieira (IMT School for Advanced Studies Lucca, Italy)
+* Gwen Salaün (University of Grenoble Alpes, France)
+* Eva Kühn (Vienna University of Technology, Austria)
+* Luca Padovani (Università di Torino, Italy)
+* Javier Camara (CMU, USA)
+* Danilo Pianini (University of Bologna, Italy)
+* Thomas  Hildebrandt (University of Copenhagen, Denmark)
+* Rumyana Neykova (Brunel University London, UK)
+* Hernan Melgratti (Universidad de Buenos Aires, Argentina)
+* Simon Bliudze (INRIA, France)
+* Omar Inverso (University of Southampton, UK)
+* Fatemeh Ghassemi (University of Tehran, Iran)
+* Roberto Bruni (Università di Pisa, Italy)
+* Giovanna Di Marzo Serugendo (University of Geneva, Switzerland)
+* Christian W. Probst (Unitec Institute of Technology, New Zealand)
+* Michele Loreti (University of Camerino, Italy)
+* Chiara Bodei (Università di Pisa, Italy)
+* Laura Bocchi (University of Kent, UK)
+* Stephanie Balzer (CMU, USA)
+* Roberto Guanciale (KTH, Sweden)
+* Elisa Gonzalez Boix (VUB, Belgium)
+* Rene Rydhof Hansen (Aalborg University, Denmark)
+* Jean-Marie Jacquet (University of Namur, Denmark)
+
 ## Steering committee
 * Gul Agha, University of Illinois at Urbana Champaign, USA
 * Farhad Arbab, CWI and Leiden University, The Netherlands
