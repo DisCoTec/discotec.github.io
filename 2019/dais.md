@@ -2,6 +2,13 @@
 
 DAIS 2019 is one of the three conferences of [DisCoTec 2019](https://www.discotec.org/2019/).
 
+## Keynote Speakers
+* [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
+* [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
+* [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
+* [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
+* [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
+
 # Scope
 The DAIS conference series addresses all practical and conceptual aspects of distributed applications, including their design, modeling, implementation and operation, the supporting middleware, appropriate software engineering methodologies and tools, as well as experimental studies and applications. Submissions will be judged on their originality, significance, clarity, relevance, and technical correctness.
 
@@ -39,13 +46,6 @@ System issues and design goals, including
 * fault-tolerance and dependability,
 * scalability and elasticity, and
 * tail-performance and energy-efficiency.
-
-## Keynote Speakers
-* [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
-* [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
-* [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
-* [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
-* [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
 
 ## Program committee chairs
 * José Orlando Pereira (Universidade do Minho & INESC TEC, Portugal)
