@@ -2,6 +2,13 @@
 
 Coordination 2019 is one of the three conferences of [DisCoTec 2019](https://www.discotec.org/2019/).
 
+## Keynote Speakers
+* [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
+* [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
+* [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
+* [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
+* [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
+
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
 
@@ -20,13 +27,6 @@ Topics of interest encompass all areas of coordination, including (but not limit
 * Industrial relevance of coordination and software architectures: programming in the large, domain-specific software architectures and coordination models, case studies;
 * Interdisciplinary aspects of coordination;
 * Industry-led efforts in coordination and case studies.
-
-## Keynote Speakers
-* [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
-* [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
-* [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
-* [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
-* [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
 
 ## Submission and publication
 
