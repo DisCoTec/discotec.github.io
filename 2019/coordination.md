@@ -34,7 +34,7 @@ See the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dat
 
 ## Submission and publication
 
-Authors are invited to submit full papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). Submissions are handled through the EasyChair conference management system, accessible from the conference web site: https://easychair.org/conferences/?conf=coordination2019
+Authors are invited to submit full papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). Submissions are handled through the EasyChair conference management system, accessible from the conference web site: [https://easychair.org/conferences/?conf=coordination2019](https://easychair.org/conferences/?conf=coordination2019)
 
 Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). The submissions must not exceed the total page number limit (see below), including figures and references, prepared using Springer’s LNCS style. Submissions not adhering to the above specified constraints may be rejected without review. Papers should be submitted as PDF or PS via EasyChair.
 
