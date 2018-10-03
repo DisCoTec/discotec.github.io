@@ -30,14 +30,15 @@ Topics of interest encompass all areas of coordination, including (but not limit
 
 ## Submission and publication
 
-Authors are invited to submit full papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed before February 2, 2018. Submission of the full paper is due no later than February 9, 2018. Submissions are handled through the EasyChair conference management system, accessible from the conference web site: https://easychair.org/conferences/?conf=coordination2019
+Authors are invited to submit full papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the DisCoTec submission dates. Submissions are handled through the EasyChair conference management system, accessible from the conference web site: https://easychair.org/conferences/?conf=coordination2019
 
 Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). The submissions must not exceed the total page number limit (see below), including figures and references, prepared using Springer’s LNCS style. Submissions not adhering to the above specified constraints may be rejected without review. Papers should be submitted as PDF or PS via EasyChair.
 
-Full papers (up to 16 pages + 2 pages references): describing thorough and complete research results and experience reports.
-    *** Brief communications (up to 4 pages + 1 page references): describing published research.
-    *** Short papers (up to 8 pages + 1 page references): describing research in progress or opinion papers on the past of Coordination research, on the current state of the art, or on prospects for the years to come.
-    *** Survey papers (up to 25 pages + 2 pages references): describing important results and successful stories that originated in the context of COORDINATION. All the accepted papers will be presented in a special session for the celebration of the 20th edition of the conference.
+Submission categories:
+* Full papers (up to 16 pages + 2 pages references): describing thorough and complete research results and experience reports.
+* Brief communications (up to 4 pages + 1 page references): describing published research.
+* Short papers (up to 8 pages + 1 page references): describing research in progress or opinion papers on the past of Coordination research, on the current state of the art, or on prospects for the years to come.
+* Survey papers (up to 25 pages + 2 pages references): describing important results and successful stories that originated in the context of COORDINATION. All the accepted papers will be presented in a special session for the celebration of the 20th edition of the conference.
 
 The conference proceedings, formed by accepted submissions will be published by Springer in the LNCS Series.
 
