@@ -54,6 +54,10 @@ Topics of interest include but are not limited to:
 
 ## Submission, Publication, and Special Issue
 
+### Submission dates
+
+See the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). 
+
 ### Submission Guidelines
 Contributions must be written in English according to one of the three categories described below. They should report on original, unpublished work, not submitted for publication elsewhere (cf. IFIP’s codes of conduct, see <http://www.ifip.org/> under
 Publications/Links)  
