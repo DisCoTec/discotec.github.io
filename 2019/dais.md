@@ -58,7 +58,7 @@ All papers must be original, unpublished, and not submitted for publication else
 * Full practical experience reports, including experimental and evaluation studies, case studies, and practice reports in no more than 15 pages + 2 pages references.
 * Work-in-progress papers, describing ongoing work and interim results, in no more than 6 pages + 2 pages references.
 
-Contributions should be submitted electronically as PDF, using the Springer LNCS style to the conference submission website (https://easychair.org/conferences/?conf=dais2019). Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear. All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in the LNCS series. Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted.
+Contributions should be submitted electronically as PDF, using the Springer LNCS style to the conference submission website (<https://easychair.org/conferences/?conf=dais2019>). Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear. All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in the LNCS series. Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted.
 
 ## Program committee chairs
 * José Orlando Pereira (Universidade do Minho & INESC TEC, Portugal)
@@ -112,4 +112,4 @@ Contributions should be submitted electronically as PDF, using the Springer LNCS
 * François Taiani (Université de Rennes 1, France)
 
 ## More Information
-For additional information, please contact the Program Committee Co-chairs: dais2019@easychair.org
+For additional information, please contact the Program Committee Co-chairs: <dais2019@easychair.org>
