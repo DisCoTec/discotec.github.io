@@ -42,7 +42,7 @@ Submission categories:
 * Full papers (up to 16 pages + 2 pages references): describing thorough and complete research results and experience reports.
 * Brief communications (up to 4 pages + 1 page references): describing published research.
 * Short papers (up to 8 pages + 1 page references): describing research in progress or opinion papers on the past of Coordination research, on the current state of the art, or on prospects for the years to come.
-* Survey papers (up to 25 pages + 2 pages references): describing important results and successful stories that originated in the context of COORDINATION. All the accepted papers will be presented in a special session for the celebration of the 20th edition of the conference.
+* Survey papers (up to 25 pages + 2 pages references): describing important results and successful stories that originated in the context of COORDINATION. 
 
 The conference proceedings, formed by accepted submissions will be published by Springer in the LNCS Series.
 
