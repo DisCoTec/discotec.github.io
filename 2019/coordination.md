@@ -15,12 +15,12 @@ Modern information systems rely increasingly on combining concurrent, distribute
 ## Main topics of interest
 
 Topics of interest encompass all areas of coordination, including (but not limited to) coordination related aspects of:
-* Theoretical models and foundations for coordination: component   composition, concurrency, mobility, dynamic, spatial and probabilistic   aspects of coordination, logic, emergent behaviour, types, semantics;
+* Theoretical models and foundations for coordination: component   composition, concurrency, mobility, dynamic, spatial and probabilistic aspects of coordination, logic, emergent behaviour, types, semantics;
 * Specification, refinement, and analysis of architectures: patterns and styles, verification of functional and non-functional properties, including performance and security aspects;
 * Dynamic software architectures: distributed mobile code, configuration, reconfiguration, networked computing, parallel, high-performance and cloud computing;
 * Nature- and bio-inspired approaches to coordination;
 * Coordination of multiagent and collective systems: models, languages, infrastructures, self-adaptation, self-organisation, distributed solving, collective intelligence and emerging behaviour;
-* Coordination and modern distributed computing: Web services, peer-to-peer networks, grid computing, context-awareness, ubiquitous computing, mobile computing;
+* Coordination and modern distributed computing: web services, peer-to-peer networks, grid computing, context-awareness, ubiquitous computing, mobile computing;
 * Coordination platforms for infrastructures of emerging new application domains like IoT, fog- and edge- computing;
 * Programming methodologies, languages, middleware, tools, and environments for the development and verification of coordinated applications;
 * Tools, languages and methodologies for secure coordination;
@@ -36,7 +36,7 @@ See the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dat
 
 Authors are invited to submit full papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). Submissions are handled through the EasyChair conference management system, accessible from the conference web site: [https://easychair.org/conferences/?conf=coordination2019](https://easychair.org/conferences/?conf=coordination2019)
 
-Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). The submissions must not exceed the total page number limit (see below), including figures and references, prepared using Springer’s LNCS style. Submissions not adhering to the above specified constraints may be rejected without review. Papers should be submitted as PDF or PS via EasyChair.
+Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). The submissions must not exceed the total page number limit (see below) prepared using Springer’s LNCS style. Submissions not adhering to the above specified constraints may be rejected without review. Papers should be submitted as PDF or PS via EasyChair.
 
 Submission categories:
 * Full papers (up to 16 pages + 2 pages references): describing thorough and complete research results and experience reports.
