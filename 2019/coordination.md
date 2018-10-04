@@ -16,7 +16,7 @@ Modern information systems rely increasingly on combining concurrent, distribute
 
 Topics of interest encompass all areas of coordination, including (but not limited to) coordination related aspects of:
 * Theoretical models and foundations for coordination: component   composition, concurrency, mobility, dynamic, spatial and probabilistic   aspects of coordination, logic, emergent behaviour, types, semantics;
-* Specification, refinement, and analysis of architectures: patterns and styles, verification of functional and non-functional properties, including performance aspects;
+* Specification, refinement, and analysis of architectures: patterns and styles, verification of functional and non-functional properties, including performance and security aspects;
 * Dynamic software architectures: distributed mobile code, configuration, reconfiguration, networked computing, parallel, high-performance and cloud computing;
 * Nature- and bio-inspired approaches to coordination;
 * Coordination of multiagent and collective systems: models, languages, infrastructures, self-adaptation, self-organisation, distributed solving, collective intelligence and emerging behaviour;
@@ -40,7 +40,6 @@ Contributions must be written in English and report on original, unpublished wor
 
 Submission categories:
 * Full papers (up to 16 pages + 2 pages references): describing thorough and complete research results and experience reports.
-* Brief communications (up to 4 pages + 1 page references): describing published research.
 * Short papers (up to 8 pages + 1 page references): describing research in progress or opinion papers on the past of Coordination research, on the current state of the art, or on prospects for the years to come.
 * Survey papers (up to 25 pages + 2 pages references): describing important results and successful stories that originated in the context of COORDINATION. All the accepted papers will be presented in a special session for the celebration of the 20th edition of the conference.
 
