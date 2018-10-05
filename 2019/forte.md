@@ -59,8 +59,7 @@ Topics of interest include but are not limited to:
 See the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). 
 
 ### Submission Guidelines
-Contributions must be written in English according to one of the three categories described below. They should report on original, unpublished work, not submitted for publication elsewhere (cf. IFIP’s codes of conduct, see <http://www.ifip.org/> under
-Publications/Links)  
+Contributions must be written in English according to one of the three categories described below. They should report on original, unpublished work, not submitted for publication elsewhere (cf. [IFIP codes of conduct](http://www.ifip.org/index.php?option=com_content&task=view&id=219&Itemid=564), under Links).  
 
 Submissions must be prepared as a PDF using Springer’s LNCS style. Submissions not adhering to the specified constraints of their respective category may be rejected without review. 
 
