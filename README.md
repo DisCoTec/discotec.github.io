@@ -13,14 +13,26 @@ research issues.
 
 ## Steering Committee
 * Rocco De Nicola (IMT Lucca, Italy)
+* Pascal Felber ( University of Neuchâtel, Switzerland)
 * Kurt Geihs (University of Kasel, Germany)
-* Alain Girault (INRIA Grenoble, France)
 * Kostas Magoutis (ICS-FORTH, Greece)
 * Elie Najm (Telecom Paris Tech, France — Chair)
-* Uwe Nestmann (TU Berlin, Germany)
+* Manuel Núñez (Universidad Complutense de Madrid, Spain)
 * Rui Oliveira (University of Minho, Portugal)
 * Jean-Bernard Stefani (INRIA Grenoble, France)
 * Gianluigi Zavattaro (University of Bologna, Italy)
+
+## Advisory board
+
+* Alain Girault (INRIA Grenoble, France)
+* Uwe Nestmann (TU Berlin, Germany)
+* Michele Loreti (University of Camerino, Italy)
+* Jim Dowling (RISE & KTH, Sweden)
+* Marjan Sirjani (University of Malarden, Sweden)
+* Frank de Boer (CWI, The Netherlands)
+* Farhad Arbab (CWI, The Netherlands)
+* Lea Kutvonen (University of Helsinki, Finland)
+* John Derrick (University of Sheffield, UK)
 
 ## DisCoTec editions
 * [DisCoTec 2019](http://www.discotec.org/2019) - Kongens Lyngby, Denmark
