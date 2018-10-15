@@ -37,7 +37,7 @@ research issues.
 ## DisCoTec editions
 * [DisCoTec 2019](http://www.discotec.org/2019) - Kongens Lyngby, Denmark
 * [DisCoTec 2018](http://2018.discotec.org/) - Madrid, Spain
-* [DisCoTec 2017](http://2017.discotec.org/) - Neuchâtel, Swiss
+* [DisCoTec 2017](http://2017.discotec.org/) - Neuchâtel, Switzerland
 * [DisCoTec 2016](http://2016.discotec.org/) - Heraklion, Greece
 * [DisCoTec 2015](http://discotec2015.inria.fr/) - Grenoble, France
 * [DisCoTec 2014](https://www.discotec2014.tu-berlin.de/) - Berlin, Germany
