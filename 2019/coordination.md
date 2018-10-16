@@ -32,7 +32,7 @@ Topics of interest encompass all areas of coordination, including (but not limit
 
 See the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). 
 
-## Submission and publication
+## Submission, Publication, and Special Issue
 
 Authors are invited to submit full papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). Submissions are handled through the EasyChair conference management system, accessible from the conference web site: [https://easychair.org/conferences/?conf=coordination2019](https://easychair.org/conferences/?conf=coordination2019)
 
@@ -44,6 +44,13 @@ Submission categories:
 * Survey papers (up to 25 pages + 2 pages references): describing important results and successful stories that originated in the context of COORDINATION. 
 
 The conference proceedings, formed by accepted submissions will be published by Springer in the LNCS Series.
+
+
+### Special Issue 
+Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
+
+## Submission Link
+<https://easychair.org/conferences/submission_new.cgi?a=20120645#{fr:gng3WfobhSHZ}>
 
 ## Program committee chairs
 * Emilio Tuosto (University of Leicester, UK)
