@@ -59,8 +59,7 @@ Topics of interest include but are not limited to:
 See the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). 
 
 ### Submission Guidelines
-Contributions must be written in English according to one of the three categories described below. They should report on original, unpublished work, not submitted for publication elsewhere (cf. IFIP’s codes of conduct, see <http://www.ifip.org/> under
-Publications/Links)  
+Contributions must be written in English according to one of the three categories described below. They should report on original, unpublished work, not submitted for publication elsewhere (cf. [IFIP codes of conduct](http://www.ifip.org/index.php?option=com_content&task=view&id=219&Itemid=564), under Links).  
 
 Submissions must be prepared as a PDF using Springer’s LNCS style. Submissions not adhering to the specified constraints of their respective category may be rejected without review. 
 
@@ -110,30 +109,30 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ## Program comitteee members
 * [Samik	Basu](https://www.cs.iastate.edu/people/samik-basu-0)	(Iowa State University, USA)
-* Annette	Bieniusa	(University of Kaiserslautern, Germany)
-* Stefano	Calzavara	(Università Ca' Foscari Venezia, Italy)	 
-* Natalia	Chechina	(Bournemouth University, UK)
-* Mila	Dalla Preda	(University of Verona, Italy)
-* Rayna	Dimitrova	(University of Leicester, UK)
-* Patrick	Eugster	(University of Lugano, Switzerland)	
-* Ichiro	Hasuo	(National Institute of Informatics, Japan)
-* Thomas	Hildebrandt	(University of Copenhagen, Denmark)
-* Sophia	Knight	(University of Minnesota Duluth, USA)
-* Etienne	Lozes	(University of Nice & CNRS, France)
-* Emanuela	Merelli	(University of Camerino, Italy)
-* Roland	Meyer	(TU Braunschweig, Germany)
-* Uwe	Nestmann	(TU Berlin, Germany)		
-* Gustavo	Petri	(IRIF - Paris Diderot - Paris 7, France)
-* Willard	Rafnsson	(IT University of Copenhagen, Denmark)
-* Anne	Remke	(WWU Münster, Germany and University of Twente, The Netherlands)
-* Guido	Salvaneschi	(TU Darmstadt, Germany) 
-* Cesar	Sanchez	(IMDEA Software Institute, Spain)
-* Ana	Sokolova	(University of Salzburg, Austria)
-* Alexander J.	Summers	(ETH Zurich, Switzerland)
-* Peter	Thiemann	(Universität Freiburg, Germany)
-* Tim	Willemse	(Eindhoven University of Technology, The Netherlands)
-* Lukasz	Ziarek	(SUNY Buffalo, USA)
-* Jaco	van de Pol	(Aarhus University, Denmark and University of Twente, The Netherlands)
+* [Annette	Bieniusa](https://softech.informatik.uni-kl.de/homepage/en/staff/AnnetteBieniusa)	(University of Kaiserslautern, Germany)
+* [Stefano	Calzavara](http://www.dais.unive.it/~calzavara)		(Università Ca' Foscari Venezia, Italy)	 
+* [Natalia	Chechina](https://staffprofiles.bournemouth.ac.uk/display/nchechina)	(Bournemouth University, UK)
+* [Mila	Dalla Preda](http://profs.sci.univr.it/~dallapre)	(University of Verona, Italy)
+* [Rayna	Dimitrova](https://raynadimitrova.github.io) (University of Leicester, UK)
+* [Patrick	Eugster](http://www.inf.usi.ch/faculty/eugstp)		(University of Lugano, Switzerland)	
+* [Ichiro	Hasuo](http://group-mmm.org/~ichiro)	(National Institute of Informatics, Japan)
+* [Thomas	Hildebrandt](http://www.itu.dk/~hilde)		(University of Copenhagen, Denmark)
+* [Sophia	Knight](https://scse.d.umn.edu/computer-science-department/faculty-staff/dr-sophia-knight)	(University of Minnesota Duluth, USA)
+* [Etienne	Lozes](http://www.i3s.unice.fr/~elozes)		(University of Nice & CNRS, France)
+* [Emanuela	Merelli](http://www.emanuelamerelli.eu)		(University of Camerino, Italy)
+* [Roland	Meyer](https://www.tcs.cs.tu-bs.de/group/meyer)	(TU Braunschweig, Germany)
+* [Uwe	Nestmann](https://www.mtv.tu-berlin.de/nestmann)	(TU Berlin, Germany)		
+* [Gustavo	Petri](https://gpetri.github.io)	(IRIF - Paris Diderot - Paris 7, France)
+* [Willard	Rafnsson](http://research.precise.li)	(IT University of Copenhagen, Denmark)
+* [Anne	Remke](http://wwwhome.cs.utwente.nl/~anne) (WWU Münster, Germany and University of Twente, The Netherlands)
+* [Guido	Salvaneschi](http://www.guidosalvaneschi.com)	(TU Darmstadt, Germany) 
+* [Cesar	Sanchez](http://software.imdea.org/~cesar)	(IMDEA Software Institute, Spain)
+* [Ana	Sokolova](http://cs.uni-salzburg.at/~anas)	(University of Salzburg, Austria)
+* [Alexander J.	Summers](http://people.inf.ethz.ch/summersa)	(ETH Zurich, Switzerland)
+* [Peter	Thiemann](http://www2.informatik.uni-freiburg.de/~thiemann)	(Universität Freiburg, Germany)
+* [Tim	Willemse](http://www.win.tue.nl/~timw)	(Eindhoven University of Technology, The Netherlands)
+* [Lukasz	Ziarek](https://cse.buffalo.edu/~lziarek)	(SUNY Buffalo, USA)
+* [Jaco	van de Pol](http://wwwhome.ewi.utwente.nl/~vdpol)	(Aarhus University, Denmark and University of Twente, The Netherlands)
 
 ## Steering committee
 * Erika Abraham (Aachen University, Germany)
