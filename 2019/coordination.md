@@ -50,7 +50,7 @@ The conference proceedings, formed by accepted submissions will be published by 
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
 
 ## Submission Link
-<https://easychair.org/conferences/submission_new.cgi?a=20120645#{fr:gng3WfobhSHZ}>
+<https://easychair.org/conferences/?conf=coordination2019>
 
 ## Program committee chairs
 * Emilio Tuosto (University of Leicester, UK)
