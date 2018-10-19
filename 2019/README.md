@@ -9,7 +9,7 @@ research issues. DisCoTec 2019 will take place at the [Technical University of D
 * [FORTE 2019](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 ## Satellite Events
-* [Workshop, tutorial and tool tracks CFP](satellite-events)
+* [Workshop, tutorial and tool tracks](satellite-events) - CFP for workhops, tutorial and tool tracks
 
 ## Keynote Speakers
 * [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
