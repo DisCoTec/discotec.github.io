@@ -8,6 +8,9 @@ research issues. DisCoTec 2019 will take place at the [Technical University of D
 * [DAIS 2019](dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2019](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
+## Satellite Events
+* [Workshop, tutorial and tool tracks CFP](satellite-events)
+
 ## Keynote Speakers
 * [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
 * [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
