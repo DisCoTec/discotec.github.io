@@ -63,7 +63,7 @@ conjunction with the main events. Prospective speakers should contact the worksh
 - April 26, 2019 - Deadline for demo proposals
 - May 10, 2019 - Notification of accepted demos
 
-### DisCoTec 2019 workshop chairs *
+### DisCoTec 2019 workshop chairs
 
 * Maurice ter Beek (CNR, Italy) 
 * Valerio Schiavoni (Université de Neuchâtel, Switzerland) 
