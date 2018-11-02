@@ -99,7 +99,7 @@ Moving around
 
 [![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi)](https://www.ifip.org)
 
-[![][(https://ihci.iiita.ac.in/2018/wp-content/uploads/sites/3/2018/05/springer_lncs.png)](https://www.springer.com/gp/computer-science/lncs)
+[![](https://ihci.iiita.ac.in/2018/wp-content/uploads/sites/3/2018/05/springer_lncs.png)](https://www.springer.com/gp/computer-science/lncs)
 
 [![](http://www.nordic-iot.org/wp-content/uploads/2018/08/iiotlogo_small.png)](http://www.nordic-iot.org/)
 
