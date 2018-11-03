@@ -70,7 +70,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Ludovic Henrio (CNRS, France)
 * Thomas  Hildebrandt (University of Copenhagen, Denmark)
 * Omar Inverso (University of Southampton, UK)
-* Jean-Marie Jacquet (University of Namur, Denmark)
+* Jean-Marie Jacquet (University of Namur, Belgium)
 * Eva Kühn (Vienna University of Technology, Austria)
 * Michele Loreti (University of Camerino, Italy)
 * Mieke Massink (CNR-ISTI, Italy)
