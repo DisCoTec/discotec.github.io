@@ -51,7 +51,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ## Submission Link
 
-https://easychair.org/conferences/?conf=coordination2019
+[https://easychair.org/conferences/?conf=coordination2019](https://easychair.org/conferences/?conf=coordination2019)
 
 ## Program committee chairs
 * Emilio Tuosto (University of Leicester, UK)
