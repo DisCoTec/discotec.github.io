@@ -8,6 +8,9 @@ research issues. DisCoTec 2019 will take place at the [Technical University of D
 * [DAIS 2019](dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2019](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
+## Satellite Events
+* [Workshop, tutorial and tool tracks](satellite-events) - CFP for workhops, tutorial and tool tracks
+
 ## Keynote Speakers
 * [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
 * [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
@@ -92,7 +95,8 @@ Moving around
 * Official information can be found in the [visit copenhagen site](https://www.visitcopenhagen.com/copenhagen/transportation/tickets-prices)
 
 ## Sponsors
-![](http://copenhagenhealthinnovation.dk/wp-content/uploads/2018/05/DTU-UK-A3_390x170.jpg)
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi)  ![](https://ihci.iiita.ac.in/2018/wp-content/uploads/sites/3/2018/05/springer_lncs.png)
+[![](http://copenhagenhealthinnovation.dk/wp-content/uploads/2018/05/DTU-UK-A3_390x170.jpg)](https://www.dtu.dk) 
+[![](http://www.nordic-iot.org/wp-content/uploads/2018/08/iiotlogo_small.png)](http://www.nordic-iot.org/) [![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi)](https://www.ifip.org) [![](https://ihci.iiita.ac.in/2018/wp-content/uploads/sites/3/2018/05/springer_lncs.png)](https://www.springer.com/gp/computer-science/lncs)
+
 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.

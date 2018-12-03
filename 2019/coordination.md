@@ -50,7 +50,8 @@ The conference proceedings, formed by accepted submissions will be published by 
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
 
 ## Submission Link
-<https://easychair.org/conferences/?conf=coordination2019>
+
+[https://easychair.org/conferences/?conf=coordination2019](https://easychair.org/conferences/?conf=coordination2019)
 
 ## Program committee chairs
 * Emilio Tuosto (University of Leicester, UK - <emilio@le.ac.uk>)
@@ -70,7 +71,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Ludovic Henrio (CNRS, France)
 * Thomas  Hildebrandt (University of Copenhagen, Denmark)
 * Omar Inverso (University of Southampton, UK)
-* Jean-Marie Jacquet (University of Namur, Denmark)
+* Jean-Marie Jacquet (University of Namur, Belgium)
 * Eva Kühn (Vienna University of Technology, Austria)
 * Michele Loreti (University of Camerino, Italy)
 * Mieke Massink (CNR-ISTI, Italy)
