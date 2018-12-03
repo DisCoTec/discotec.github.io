@@ -53,8 +53,8 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 <https://easychair.org/conferences/?conf=coordination2019>
 
 ## Program committee chairs
-* Emilio Tuosto (University of Leicester, UK)
-* Hanne Riis Nielson (DTU, Denmark)
+* Emilio Tuosto (University of Leicester, UK - <emilio@le.ac.uk>)
+* Hanne Riis Nielson (DTU, Denmark - <hrni@dtu.dk>)
 
 ## Program committee
 * Stephanie Balzer (CMU, USA)
