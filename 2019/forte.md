@@ -2,6 +2,13 @@
 
 FORTE 2019 is one of the three conferences of [DisCoTec 2019](https://www.discotec.org/2019/), the 14th International Federated Conference on Distributed Computing Techniques.
 
+### Quick links:
+* [Submission Categories](#submission-categories)
+* [Submission Link](#submission-link)
+* [Special Issue](#special-issue)
+* [Program Committee](#program-committee-chairs)
+* [Contact](#more-information)
+
 ## Keynote Speakers
 * [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
 * [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
@@ -70,7 +77,7 @@ Notice that *short* and *journal-first* papers must be explicitly marked as such
 
 1. __Full papers__ (page limit: up to 15 pages + 2 pages references)
 
-   A regular paper submission describes thorough and complete research results in the scope of the conference.
+   A full paper submission describes thorough and complete research results in the scope of the conference.
 
 2. __Short papers__ (page limit: up to 6 pages + 2 pages references)
 
