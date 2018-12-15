@@ -9,10 +9,18 @@ Coordination 2019 is one of the three conferences of [DisCoTec 2019](https://www
 * [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
 * [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
 
+## Highlights
+
+Two new categories of submissions added!
+* **[special topics](#special-topics)**: we seek for contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
+* **[tool papers](#tool-paperss)**: we seek for video+paper submissions on tools related to coordination
+
+See the [submission section](#submissions) below for details.
+
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
 
-## Main topics of interest
+### Main topics of interest
 
 Topics of interest encompass all areas of coordination, including (but not limited to) coordination related aspects of:
 * Theoretical models and foundations for coordination: component   composition, concurrency, mobility, dynamic, spatial and probabilistic aspects of coordination, logic, emergent behaviour, types, semantics;
@@ -28,28 +36,57 @@ Topics of interest encompass all areas of coordination, including (but not limit
 * Interdisciplinary aspects of coordination;
 * Industry-led efforts in coordination and case studies.
 
-## Submission dates
+### Special topics
+
+COORDINATION 2019 is seeking for contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
+For this we have identified the following topics
+* Exploring the frontiers between coordination and control systems (contact: Chiara Bodei <chiara.bodei@unipi.it> and Hugo Torres Vieira <hugotvieira@imtlucca.it>)
+
+Formal connections have recently been established between formal methods and the areas of supervisory control theory and reactive synthesis. For instance a reduction of the corresponding supervisory control problem to a problem of reactive synthesis a having CTL specification is given in the work of Ehlers, Lafortune, Tripakis, and Vardi (https://doi.org/10.3182/20140514-3-FR-4046.00018).
+Do the techniques typically applied to specify and verify the coordination of system have similar relationships? Are there coordination problems that could be reduced to problems in control theory?
+
+* Coordination of emerging parallel/distributed architectures (contact: Jean-Marie Jaquet <jean-marie.jacquet@unamur.be>)
+
+Blockchains, micro-services and socio-technological systems are novel distributed architectures that call for new research efforts in coordination. These include new models, new development methodologies, new expressiveness studies, new implementations as well as novel applications.
+
+* From coordination to verification and back (contact: Laura Bocchi <l.bocchi@kent.ac.uk>)
+
+Enhanced languages, models, and techniques for testing and verification can help taming the complexity of coordinating distributed software. These may include: the interplay between formal models and debugging or testing as well as the use of verification techniques to provide meaningful feedback. Promising research directions include (but are not limited to) formal approaches for static and dynamic analysis of open systems (eg in presence of components that are persistent, volatile, or relying on weak-memory models), and type-based approaches (eg, type-state programming). 
+
+Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
+
+
+### Tool papers
+
+We welcome tool papers that describe technological artefacts, including innovative prototypes, for modelling, analysing, simulating or testing systems in the scope of the research topics of COORDINATION. **Submissions must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process.** Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process. A dedicated special issue for accepted contributions is being planned.
+
+## Submissions
+
+### Dates
 
 See the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). 
 
-## Submission, Publication, and Special Issue
+### Publication and Special Issues
 
-Authors are invited to submit full papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). Submissions are handled through the EasyChair conference management system, accessible from the conference web site: [https://easychair.org/conferences/?conf=coordination2019](https://easychair.org/conferences/?conf=coordination2019)
+Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). Submissions are handled through the EasyChair conference management system, accessible from the conference web site: [https://easychair.org/conferences/?conf=coordination2019](https://easychair.org/conferences/?conf=coordination2019)
 
-Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). The submissions must not exceed the total page number limit (see below) prepared using Springer’s LNCS style. Submissions not adhering to the above specified constraints may be rejected without review. Papers should be submitted as PDF or PS via EasyChair.
+Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). The submissions must not exceed the total page number limit (see below) prepared using Springer’s LNCS style. Submissions not adhering to the above specified constraints may be rejected without review.
+
 
 Submission categories:
 * Full papers (up to 15 pages + 2 pages references): describing thorough and complete research results and experience reports.
 * Short papers (up to 6 pages + 2 pages references): describing research in progress or opinion papers on the past of Coordination research, on the current state of the art, or on prospects for the years to come.
 * Survey papers (up to 25 pages + 2 pages references): describing important results and successful stories that originated in the context of COORDINATION. 
+* Tool papers (up to 6 pages + 2 pages references): describing technological artefacts in the scope of the research topics of COORDINATION. The paper must contain **a link to a publicly downloadable MPEG-4 demo video** of at most 10 minutes length.
+
 
 The conference proceedings, formed by accepted submissions will be published by Springer in the LNCS Series.
 
 
-### Special Issue 
-Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
+### Special Issues
+Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org). A separate special issue dedicated to tool papers is being planned.
 
-## Submission Link
+### Submission Link
 
 [https://easychair.org/conferences/?conf=coordination2019](https://easychair.org/conferences/?conf=coordination2019)
 
@@ -70,7 +107,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Roberto Guanciale (KTH, Sweden)
 * Ludovic Henrio (CNRS, France)
 * Thomas  Hildebrandt (University of Copenhagen, Denmark)
-* Omar Inverso (University of Southampton, UK)
+* Omar Inverso (Gran Sasso Science Institute, Italy)
 * Jean-Marie Jacquet (University of Namur, Belgium)
 * Eva Kühn (Vienna University of Technology, Austria)
 * Michele Loreti (University of Camerino, Italy)
