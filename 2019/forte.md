@@ -2,6 +2,14 @@
 
 FORTE 2019 is one of the three conferences of [DisCoTec 2019](https://www.discotec.org/2019/), the 14th International Federated Conference on Distributed Computing Techniques.
 
+### Quick links:
+* [Topics of Interest](#main-topics-of-interest)
+* [Submission Categories](#submission-categories)
+* [Submission Link](#submission-link)
+* [Special Issue](#special-issue)
+* [Program Committee](#program-committee-chairs)
+* [Contact](#more-information)
+
 ## Keynote Speakers
 * [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
 * [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
@@ -64,13 +72,13 @@ Contributions must be written in English according to one of the three categorie
 Submissions must be prepared as a PDF using Springer’s LNCS style. Submissions not adhering to the specified constraints of their respective category may be rejected without review. 
 
 ### Submission Categories
-This year, FORTE accepts contributions in three categories: __regular (full) papers__, __short papers__, and __journal-first papers__. These categories and their associated criteria are described in detail below. 
+This year, FORTE accepts contributions in three categories: __full papers__, __short papers__, and __journal-first papers__. These categories and their associated criteria are described in detail below. 
 
 Notice that *short* and *journal-first* papers must be explicitly marked as such in the submission's title. 
 
-1. __Regular (full) papers__ (page limit: up to 15 pages + 2 pages references)
+1. __Full papers__ (page limit: up to 15 pages + 2 pages references)
 
-   A regular paper submission describes thorough and complete research results in the scope of the conference.
+   A full paper submission describes thorough and complete research results in the scope of the conference.
 
 2. __Short papers__ (page limit: up to 6 pages + 2 pages references)
 
