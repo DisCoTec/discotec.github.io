@@ -74,6 +74,7 @@ Authors are invited to submit papers electronically in PostScript or PDF using a
 
 Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). The submissions must not exceed the total page number limit (see below) prepared using Springer’s LNCS style. Submissions not adhering to the above specified constraints may be rejected without review.
 
+Interested authors can contact Hugo Torres Vieira <hugotvieira@imtlucca.it> and Omar Inverso <omar.inverso@gssi.infn.it> for details.
 
 Submission categories:
 * Full papers (up to 15 pages + 2 pages references): describing thorough and complete research results and experience reports.
