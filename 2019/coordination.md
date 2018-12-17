@@ -62,6 +62,8 @@ Depending on the quality of the contributions, we plan to have dedicated session
 
 We welcome tool papers that describe technological artefacts, including innovative prototypes, for modelling, analysing, simulating or testing systems in the scope of the research topics of COORDINATION. **Submissions must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process.** Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process. A dedicated special issue for accepted contributions is being planned.
 
+Interested authors can contact Hugo Torres Vieira <hugotvieira@imtlucca.it> and Omar Inverso <omar.inverso@gssi.infn.it> for details.
+
 ## Submissions
 
 ### Dates
@@ -73,8 +75,6 @@ See the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dat
 Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). Submissions are handled through the EasyChair conference management system, accessible from the conference web site: [https://easychair.org/conferences/?conf=coordination2019](https://easychair.org/conferences/?conf=coordination2019)
 
 Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). The submissions must not exceed the total page number limit (see below) prepared using Springer’s LNCS style. Submissions not adhering to the above specified constraints may be rejected without review.
-
-Interested authors can contact Hugo Torres Vieira <hugotvieira@imtlucca.it> and Omar Inverso <omar.inverso@gssi.infn.it> for details.
 
 Submission categories:
 * Full papers (up to 15 pages + 2 pages references): describing thorough and complete research results and experience reports.
