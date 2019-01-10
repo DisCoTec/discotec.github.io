@@ -58,7 +58,7 @@ conjunction with the main events. Prospective speakers should contact the worksh
 - title of the demo and of the tool
 - brief description of the actual demonstration (max. three A4 pages)
 
-Please not that three main conferences of DisCoTec also welcome submission of tool papers.
+Please note that three main conferences of DisCoTec also welcome submission of tool papers.
 
 ### Important Dates
 
