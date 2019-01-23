@@ -2,7 +2,7 @@
 
 FORTE 2019 is one of the three conferences of [DisCoTec 2019](https://www.discotec.org/2019/), the 14th International Federated Conference on Distributed Computing Techniques.
 
-### Quick links:
+### Quick Links:
 * [Topics of Interest](#main-topics-of-interest)
 * [Submission Categories](#submission-categories)
 * [Submission Link](#submission-link)
@@ -99,6 +99,8 @@ Notice that *short* and *journal-first* papers must be explicitly marked as such
    * It should be recent: only journal papers available  after January 1, 2017 (online or paper) can be presented. 
    * It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).
    * It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.
+   
+   A journal-first submission is a concise but compelling summary of the published journal paper, which makes it clear why a related presentation would enrich the program of FORTE.
 
    Journal-first submissions must be marked as such in the submission's title, and must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program. 
 
