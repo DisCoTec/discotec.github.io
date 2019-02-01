@@ -19,8 +19,8 @@ research issues. DisCoTec 2019 will take place at the [Technical University of D
 * [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
 
 ## Important dates
-* February 1, 2019 - abstract submission
-* February 8, 2019 - paper submission
+* ~February 1, 2019 - abstract submission~ <span style="color:red">**February 15, 2019 - extended abstract submission**</span>
+* ~February 8, 2019 - paper submission~ <span style="color:red">**February 22, 2019 - extended paper submission**</span>
 * April 12, 2019 - notification
 * April 26, 2019 - camera ready
 * Conference and workshops: June 18-21, 2019
