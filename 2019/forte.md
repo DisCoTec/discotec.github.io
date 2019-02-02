@@ -3,6 +3,7 @@
 FORTE 2019 is one of the three conferences of [DisCoTec 2019](https://www.discotec.org/2019/), the 14th International Federated Conference on Distributed Computing Techniques.
 
 ### Quick Links:
+* [Important Dates (Extended!)](https://www.discotec.org/2019/#important-dates)
 * [Topics of Interest](#main-topics-of-interest)
 * [Submission Categories](#submission-categories)
 * [Submission Link](#submission-link)
