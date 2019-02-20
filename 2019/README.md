@@ -98,5 +98,6 @@ Moving around
 [![](http://copenhagenhealthinnovation.dk/wp-content/uploads/2018/05/DTU-UK-A3_390x170.jpg)](https://www.dtu.dk) 
 [![](http://www.nordic-iot.org/wp-content/uploads/2018/08/iiotlogo_small.png)](http://www.nordic-iot.org/) [![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi)](https://www.ifip.org) [![](https://ihci.iiita.ac.in/2018/wp-content/uploads/sites/3/2018/05/springer_lncs.png)](https://www.springer.com/gp/computer-science/lncs)
 
+[![](https://www.cybersec4europe.eu/wp-content/uploads/2019/02/CSfE_Logo.png)](https://www.cybersec4europe.eu/) 
 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
