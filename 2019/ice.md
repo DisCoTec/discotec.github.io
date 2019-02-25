@@ -78,14 +78,14 @@ TBD
 ## ICEcreamers
 
 * Massimo Bartoletti (University of Cagliari, IT)
-* Ludovic Henrio (CNRS, Sophia Antipolis, FR) 
+* Ludovic Henrio (ENS Lyon, FR) 
 * Anastasia Mavridou (NASA Ames Research Center, USA)
 * Alceste Scalas (Imperial College London, UK)
 
 
 ## Steering Committee
 
-* Simon Bliudze (École Polytechnique Fédérale de Lausanne, CH)
+* Simon Bliudze (Inria Lille - Nord Europe, FR)
 * Filippo Bonchi (University of Pisa, IT)
 * Roberto Bruni (University of Pisa, IT)
 * Alexandra Silva (University College London, UK)
