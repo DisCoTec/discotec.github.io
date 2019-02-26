@@ -1,5 +1,5 @@
 # ICE 2019 - 12th Interaction and Concurrency Experience
-Satellite workshop of [DisCoTec 2019](https://www.discotec.org/2019/), June 20-21, 2019, Lyngby, Denmark
+ICE 2019 is a satellite workshop of [DisCoTec 2019](https://www.discotec.org/2019/), held on June 20-21, 2019 in Lyngby, Denmark.
 
 ## Highlights
 * Distinctive selection procedure
