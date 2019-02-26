@@ -10,6 +10,13 @@ Satellite workshop of [DisCoTec 2019](https://www.discotec.org/2019/), June 20-2
 * Publication in EPTCS
 * Special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier) (to be confirmed)
 
+## Important dates
+  * April 18, 2019: abstract submission
+  * April 20, 2019: paper submission
+  * May 24, 2019: notification
+  * June 20-21, 2019: ICE workshop
+  * July 15, 2019: camera-ready for EPTCS post-proceedings
+  
 ## Scope
 Interaction and Concurrency Experiences (ICEs) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for complex interactions.
 
@@ -107,3 +114,7 @@ The previous ten editions of ICE have been held on
 * [ICE'16](http://2016.discotec.org/index713e.html), June 21-22, 2016 in Heraklion, Greece, co-located with DisCoTec’16. The post-proceedings were published in EPTCS (vol. 223) and a special issue of JLAMP (Vol. 92).
 * [ICE'17](http://2017.discotec.org/workshops/ice-2017.html), June 21-22 2017 in Neuchâtel, Switzerland, co-located with DisCoTec’17. The post-proceedings were published in EPTCS (vol. 261) and a special issue of JLAMP is in preparation.
 * [ICE'18](http://2018.discotec.org/cfp_w_ice.html), June 20-21, 2018 in Madrid, Spain, co-located with DisCoTec'18. The post-proceedings were published in EPTCS (vol. 279) and a special issue of JLAMP is in preparation.
+
+## More information
+
+For additional information, please contact the Program Committee co-chairs: [mailto:ice2019-0@easychair.org](ice2019-0@easychair.org)
