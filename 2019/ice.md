@@ -84,7 +84,7 @@ TBD
 ## ICEcreamers
 
 * Massimo Bartoletti (University of Cagliari, IT)
-* Ludovic Henrio (ENS Lyon, FR) 
+* Ludovic Henrio (CNRS, LIP, Lyon, FR) 
 * Anastasia Mavridou (NASA Ames Research Center, USA)
 * Alceste Scalas (Imperial College London, UK)
 
