@@ -78,7 +78,32 @@ TBD
 
 ## Programme Committee
 
-TBD
+* Laura Bocchi (University of Kent, UK)
+* Aimée Borda (Trinity College Dublin, IE)
+* Matteo Cimini (University of Massachusetts Lowell, USA)
+* Corina Cirstea (University of Southampton, UK)
+* Ornela Dardha (University of Glasgow, UK)
+* Simon Fowler (University of Edinburgh, UK)
+* Michell Guzmán (Universidad del Valle, CO)
+* Svetlana Jaksic (Western Norway University of Applied Sciences)
+* Christos Kloukinas (City University London, UK)
+* Sophia Knight (University of Minnesota Duluth)
+* Ivan Lanese (University of Bologna, IT)
+* Julien Lange (University of Kent, UK)
+* Alberto Lluch Lafuente (Technical University of Denmark, DK)
+* Hernan Melgratti (University of Buenos Aires, AR)
+* Claudio Mezzina (IMT Lucca, IT)
+* Sergio Mover (Ecole Polytechnique, FR)
+* Rumyana Neykova (Brunel University London, UK)
+* Dominic Orchard (University of Kent, UK)
+* Kristin Peters (TU Berlin, DE) 
+* Daniela Petrisan (University Paris Diderot, FR)
+* Matteo Sammartino (University College of London, UK)
+* Emmanouela Stachtiari (Aristotle University of Thessaloniki, GR)
+* Silvia Lizeth Tapia Tarifa (University of Oslo, NO)
+* Hugo Torres Vieira (IMT Lucca, IT)
+* Valeria Vignudelli (Ecole Normale Supérieure de Lyon, FR)
+* Johannes Åman Pohjola (Chalmers University, SE)
 
 
 ## ICEcreamers
