@@ -90,7 +90,6 @@ TBD
 * Sophia Knight (University of Minnesota Duluth)
 * Ivan Lanese (University of Bologna, IT)
 * Julien Lange (University of Kent, UK)
-* Alberto Lluch Lafuente (Technical University of Denmark, DK)
 * Hernan Melgratti (University of Buenos Aires, AR)
 * Claudio Mezzina (IMT Lucca, IT)
 * Sergio Mover (Ecole Polytechnique, FR)
