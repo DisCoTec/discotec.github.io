@@ -94,7 +94,6 @@ TBD
 * Claudio Mezzina (IMT Lucca, IT)
 * Sergio Mover (Ecole Polytechnique, FR)
 * Rumyana Neykova (Brunel University London, UK)
-* Dominic Orchard (University of Kent, UK)
 * Kristin Peters (TU Berlin, DE) 
 * Daniela Petrisan (University Paris Diderot, FR)
 * Matteo Sammartino (University College of London, UK)
