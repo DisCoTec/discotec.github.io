@@ -100,7 +100,7 @@ TBD
 * Silvia Lizeth Tapia Tarifa (University of Oslo, NO)
 * Hugo Torres Vieira (IMT Lucca, IT)
 * Valeria Vignudelli (Ecole Normale Supérieure de Lyon, FR)
-* Johannes Åman Pohjola (Chalmers University, SE)
+* Johannes Åman Pohjola (Data61/CSIRO, AU)
 
 
 ## ICEcreamers
