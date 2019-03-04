@@ -78,7 +78,6 @@ TBD
 
 ## Programme Committee
 
-* Laura Bocchi (University of Kent, UK)
 * Aimée Borda (Trinity College Dublin, IE)
 * Matteo Cimini (University of Massachusetts Lowell, USA)
 * Corina Cirstea (University of Southampton, UK)
