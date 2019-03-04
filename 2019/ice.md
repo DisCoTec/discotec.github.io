@@ -85,7 +85,6 @@ TBD
 * Simon Fowler (University of Edinburgh, UK)
 * Michell Guzmán (Universidad del Valle, CO)
 * Svetlana Jaksic (Western Norway University of Applied Sciences)
-* Christos Kloukinas (City University London, UK)
 * Sophia Knight (University of Minnesota Duluth)
 * Ivan Lanese (University of Bologna, IT)
 * Julien Lange (University of Kent, UK)
