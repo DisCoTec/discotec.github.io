@@ -107,7 +107,7 @@ TBD
 * Massimo Bartoletti (University of Cagliari, IT)
 * Ludovic Henrio (CNRS, LIP, Lyon, FR) 
 * Anastasia Mavridou (NASA Ames Research Center, USA)
-* Alceste Scalas (Imperial College London, UK)
+* Alceste Scalas (Aston University, UK)
 
 
 ## Steering Committee
