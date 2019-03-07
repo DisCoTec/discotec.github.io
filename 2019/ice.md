@@ -91,7 +91,6 @@ TBD
 * Hugo-Andrés López (Technical University of Denmark, DK)
 * Hernan Melgratti (University of Buenos Aires, AR)
 * Claudio Mezzina (IMT Lucca, IT)
-* Sergio Mover (Ecole Polytechnique, FR)
 * Maurizio Murgia (University of Cagliari, IT)
 * Rumyana Neykova (Brunel University London, UK)
 * Kristin Peters (TU Berlin, DE) 
