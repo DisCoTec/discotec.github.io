@@ -86,7 +86,7 @@ TBD
 * Svetlana Jakšić (Western Norway University of Applied Sciences, NO)
 * Ivan Lanese (University of Bologna, IT)
 * Julien Lange (University of Kent, UK)
-* Hugo-Andrés López (Technical University of Denmark, DK)
+* Hugo-Andrés López (IT University of Copenhagen and DCR Solutions, DK)
 * Claudio Antares Mezzina (University of Leicester, UK)
 * Maurizio Murgia (University of Kent, UK)
 * Kristin Peters (TU Berlin, DE) 
