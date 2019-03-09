@@ -101,7 +101,7 @@ TBD
 
 * Massimo Bartoletti (University of Cagliari, IT)
 * Ludovic Henrio (CNRS, LIP, Lyon, FR) 
-* Anastasia Mavridou (NASA Ames Research Center, USA)
+* Anastasia Mavridou (NASA Ames, USA)
 * Alceste Scalas (Aston University, UK)
 
 
