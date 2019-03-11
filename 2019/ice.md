@@ -88,7 +88,7 @@ TBD
 * Julien Lange (University of Kent, UK)
 * Hugo-Andrés López (IT University of Copenhagen and DCR Solutions, DK)
 * Claudio Antares Mezzina (University of Leicester, UK)
-* Maurizio Murgia (University of Kent, UK)
+* Maurizio Murgia (University of Cagliari, IT)
 * Kristin Peters (TU Berlin, DE) 
 * Matteo Sammartino (University College London, UK)
 * Emmanouela Stachtiari (Aristotle University of Thessaloniki, GR)
