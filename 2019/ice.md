@@ -73,7 +73,8 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 ## Invited speakers 
 
-TBD
+  * Dilian Gurov (KTH, SE)
+  * Fritz Henglein (Deon Digital and University of Copenhagen, DK)
 
 
 ## Programme Committee
