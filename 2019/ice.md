@@ -134,4 +134,3 @@ The previous ten editions of ICE have been held on
 ## More information
 
 For additional information, please contact the Program Committee co-chairs: [ice2019-0@easychair.org](mailto:ice2019-0@easychair.org)
- 
