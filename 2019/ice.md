@@ -43,7 +43,7 @@ During the review phase, each submission is published in a dedicated discussion 
 
 As witnessed by the past nine editions of ICE, this procedure considerably improves the accuracy of the reviews, the fairness of the selection, the quality of camera-ready papers, and the discussion during the workshop.
 
-Last year we adopted a successful light double-blind reviewing process, detailed below.
+ICE adopts a light double-blind reviewing process, detailed below.
 
 ## Submission Guidelines
 
