@@ -88,6 +88,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 * Ivan Lanese (University of Bologna, IT)
 * Julien Lange (University of Kent, UK)
 * Hugo-Andrés López (IT University of Copenhagen and DCR Solutions, DK)
+* Hernán Melgratti (University of Buenos Aires, AR)
 * Claudio Antares Mezzina (University of Leicester, UK)
 * Maurizio Murgia (University of Cagliari, IT)
 * Kristin Peters (TU Berlin, DE) 
