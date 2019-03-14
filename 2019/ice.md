@@ -85,6 +85,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 * Ornela Dardha (University of Glasgow, UK)
 * Simon Fowler (University of Edinburgh, UK)
 * Svetlana Jakšić (Western Norway University of Applied Sciences, NO)
+* Sophia Knight (University of Minnesota, USA)
 * Ivan Lanese (University of Bologna, IT)
 * Julien Lange (University of Kent, UK)
 * Hugo-Andrés López (IT University of Copenhagen and DCR Solutions, DK)
