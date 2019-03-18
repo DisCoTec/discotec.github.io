@@ -75,6 +75,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
   * Dilian Gurov (KTH, SE)
   * Fritz Henglein (Deon Digital and University of Copenhagen, DK)
+  * Sophia Knight (University of Minnesota, USA)
 
 
 ## Programme Committee
