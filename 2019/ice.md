@@ -5,7 +5,7 @@ ICE 2019 is a satellite workshop of [DisCoTec 2019](https://www.discotec.org/201
 * Distinctive selection procedure
 * ICE welcomes full papers to be included in the proceedings
 * ICE also welcomes oral communications of already published or preliminary work
-* Invited talks: Dilian Gurov (KTH, SE), Fritz Henglein (Deon Digital and University of Copenhagen, DK)
+* Invited talks: Dilian Gurov (KTH, SE), Fritz Henglein (Deon Digital and University of Copenhagen, DK), Sophia Knight (University of Minnesota, USA)
 * Publication in EPTCS
 * Special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier) (to be confirmed)
 
