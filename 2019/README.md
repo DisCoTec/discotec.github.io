@@ -96,15 +96,17 @@ Moving around
 * Official information can be found in the [visit copenhagen site](https://www.visitcopenhagen.com/copenhagen/transportation/tickets-prices)
 
 ## Sponsors
-[<img src="http://copenhagenhealthinnovation.dk/wp-content/uploads/2018/05/DTU-UK-A3_390x170.jpg" width="300">](https://www.dtu.dk)
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
 [<img src="http://www.nordic-iot.org/wp-content/uploads/2018/08/iiotlogo_small.png" width="150">](http://www.nordic-iot.org/)
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
 [<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="300">](https://www.ifip.org)
-
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
 [<img src="https://ihci.iiita.ac.in/2018/wp-content/uploads/sites/3/2018/05/springer_lncs.png" width="300">](https://www.springer.com/gp/computer-science/lncs)
+
+## Supporters
+[<img src="http://copenhagenhealthinnovation.dk/wp-content/uploads/2018/05/DTU-UK-A3_390x170.jpg" width="300">](https://www.dtu.dk)
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
 [<img src="https://www.cybersec4europe.eu/wp-content/uploads/2019/02/CSfE_Logo.png" width="300">](https://www.cybersec4europe.eu/) 
+
 
 
 
