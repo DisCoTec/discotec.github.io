@@ -49,4 +49,4 @@ aeha@dtu.dk
 System - Using RAISE
 * Per Lange Laursen and Van Anh Thi Trinh, DTU Compute, Denmark: Modelling and Verification of a Distributed Interlocking System - Using UPPAAL and UMC
 
-The workshop will continue over a dinner place, for those who are willing to taste some Danish cuisine and are able to stay overnight after the workshop (see registration page for details) 
+The workshop will continue over a dinner place, for those who are willing to taste some Danish cuisine and are able to stay overnight after the workshop (see [registration](https://www.discotec.org/2019/#registration) for details) 
