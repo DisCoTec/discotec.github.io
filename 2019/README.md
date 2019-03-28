@@ -106,7 +106,7 @@ Moving around
 ## Supporters
 [<img src="http://copenhagenhealthinnovation.dk/wp-content/uploads/2018/05/DTU-UK-A3_390x170.jpg" width="300">](https://www.dtu.dk)
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
-[<img src="https://www.cybersec4europe.eu/wp-content/uploads/2019/02/CSfE_Logo.png" width="300">](https://www.cybersec4europe.eu/) 
+[<img src="https://www.cybersec4europe.eu/wp-content/uploads/2019/03/CSfE_Logo.png" width="300">](https://www.cybersec4europe.eu/) 
 
 ## Further information 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
