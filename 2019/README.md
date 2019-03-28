@@ -1,7 +1,7 @@
 # DisCoTec 2019 - 14th International Federated Conference on Distributed Computing Techniques
 
 [DisCoTec](https://www.discotec.org) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)). It gathers several conferences and workshops that cover a broad spectrum of distributed computing subjects, ranging from theoretical foundations and formal description techniques to systems
-research issues. DisCoTec 2019 will take place at the [Technical University of Denmark](http://www.dtu.dk) in June 18-21, 2019.
+research issues. DisCoTec 2019 will take place at the [Technical University of Denmark](http://www.dtu.dk) in June 17-21, 2019.
 
 ## Conferences
 * [Coordination 2019](coordination) - International Conference on Coordination Models and Languages
@@ -25,7 +25,7 @@ research issues. DisCoTec 2019 will take place at the [Technical University of D
 * ~~February 8, 2019 - paper submission~~ <span style="color:red">**February 22, 2019 - extended paper submission**</span>
 * April 12, 2019 - notification
 * April 26, 2019 - camera ready
-* Conference and workshops: June 18-21, 2019
+* Conference and workshops: June 17-21, 2019
 
 ## Location
 * [DTU Lyngby](https://www.google.com/maps/place/Danmarks+Tekniske+Universitet/@55.7855742,12.5191923,17z/data=!3m1!4b1!4m5!3m4!1s0x46524e6328b8bd5d:0xcf045cde0449c6c5!8m2!3d55.7855742!4d12.521381), 2800 Kongens Lyngby, Denmark
@@ -79,7 +79,7 @@ The individual conferences will organise special issues of extended and selected
 
 ## Registration
 
-Registration site and details to be announced in early 2019.
+Registration site and details will be ready in early April 2019.
 
 ## Accommodation and local information
 
