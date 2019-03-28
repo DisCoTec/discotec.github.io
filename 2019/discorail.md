@@ -4,9 +4,9 @@ DisCoRail 2019 is a satellite workshop of [DisCoTec 2019](https://www.discotec.o
 # Scope
 DisCoTec gathers several conferences and workshops that cover a broad spectrum of distributed computing subjects, ranging from theoretical foundations and formal description techniques to systems research issues. The aim of the DisCoRail’19 workshop is to discuss (1) how distributed computing has changed, and will even more change, the particular domain of railway signaling and train control systems, and (2) how formal techniques can help to address problems arising from this change.
 
-The growingly wide deployment of ERTMS-ETCS systems on high speed lines as well as on freight corridors is already a witness to the possible achievements of high safety standards by means of distributed control algorithms that span over geographical areas and are able to safely control large physical systems.  In ERTMS-ETCS the guarantee of global properties (such as safety) emerges from the conformance of the subsystems to well-established communication protocols and standards. 
+The growingly wide deployment of ERTMS-ETCS systems on high speed lines as well as on freight corridors is already a witness to the possible achievements of high safety standards by means of distributed control algorithms that span over geographical areas and are able to safely control large physical systems. In ERTMS-ETCS the guarantee of global properties (such as safety) emerges from the conformance of the subsystems to well-established communication protocols and standards. 
 
-Anyway, most of the crucial decisions needed to guarantee safety are still taken at centralized places (such as the Radio Block Centre - RBC), and the topology of such systems can be considered as a two layers network, the lower layer being just a connection of mobile systems with a centralized unit (the RBC), while the higher layer connects  through a fixed network the RBCs with each other  and the traffic management systems.
+Anyway, most of the crucial decisions needed to guarantee safety are still taken at centralized places (such as the Radio Block Centre - RBC), and the topology of such systems can be considered as a two layers network, the lower layer being just a connection of mobile systems with a centralized unit (the RBC), while the higher layer connects  through a fixed network the RBCs with each other and the traffic management systems.
 
 Several foreseen advances envisage a more dynamic network connection among mobile components, in which decisions are actually taken in a distributed way, with some form of distributed consensus algorithms. An example is the virtual coupling concept, in which the strict cross control between coupled trains has to be negotiated locally, while the global behavior of the set of coupled trains has to follow the rules dictated by the ETCS control system. Another example is given by the proposals of distributed interlocking systems, where the route reservation is a global knowledge to be negotiated between the nodes. 
 
@@ -46,8 +46,6 @@ E-mail: aeha@dtu.dk
 * Davide Basile, Univ. of Florence, Italy, Statistical model checking of hazards in an autonomous tramway positioning system
 * Signe Geisler, DTU Compute, Denmark: Stepwise Development and Model Checking of a Distributed Interlocking
 System - Using RAISE
-
-Per Lange Laursen and Van Anh Thi Trinh, DTU Compute, Denmark: Modelling and Verification of a Distributed Interlocking System - Using UPPAAL and UMC
-
+* Per Lange Laursen and Van Anh Thi Trinh, DTU Compute, Denmark: Modelling and Verification of a Distributed Interlocking System - Using UPPAAL and UMC
 
 The workshop will continue over a dinner place, for those who are willing to taste some Danish cuisine and are able to stay overnight after the workshop (see registration page for details) 
