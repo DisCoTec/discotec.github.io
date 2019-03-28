@@ -14,7 +14,7 @@ Title: TBA
 ## [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
 Title: TBA
 
-## [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)<br/>
+## [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
 Title: Towards Formally Designing Collective Adaptive Systems<br>
 in cooperation with Lenz Belzner, Thomas Gabor, Rolf Hennicker, and Alexander Knapp
 
