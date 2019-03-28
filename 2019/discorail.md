@@ -23,17 +23,18 @@ We are currently studying the possibility to publish post-proceedings of the wor
 ## Contact information of the organizers
 
 Alessandro Fantechi
-Dip. di Ingegneria dell'Informazione
-Università di Firenze
-Via S. Marta 3
-I-50139 Firenze - Italy
-alessandro.fantechi@unifi.it
 
-Anne Haxthausen
-DTU Compute
-Asmussens Alle, bygning 322
-Technical University of Denmark
-DK-2800 Lyngby - Denmark
+Dip. di Ingegneria dell'Informazione<br/>
+Università di Firenze<br/>
+Via S. Marta 3<br/>
+I-50139 Firenze - Italy<br/>
+alessandro.fantechi@unifi.it<br/>
+
+Anne Haxthausen<br/>
+DTU Compute<br/>
+Asmussens Alle, bygning 322<br/>
+Technical University of Denmark<br/>
+DK-2800 Lyngby - Denmark<br/>
 E-mail: aeha@dtu.dk
 
 ## Preliminary program:
