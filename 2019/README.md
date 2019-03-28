@@ -10,6 +10,7 @@ research issues. DisCoTec 2019 will take place at the [Technical University of D
 
 ## Satellite Events
 * [ICE 2019](ice) - Interaction and Concurrency Experience
+* [DisCoRail 2019](discorail) - International Workshop on Distributed Computing in Future Railway Systems
 * [Workshop, tutorial and tool tracks](satellite-events) - CFP for workhops, tutorial and tool tracks
 
 ## Keynote Speakers
