@@ -108,6 +108,7 @@ Moving around
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
 [<img src="https://www.cybersec4europe.eu/wp-content/uploads/2019/02/CSfE_Logo.png" width="300">](https://www.cybersec4europe.eu/) 
 
+## Further information 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
 
 For further information please contact the general chair at albl@dtu.dk.
