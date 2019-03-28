@@ -1,10 +1,10 @@
-# Satellite Events
+# [DisCoTec 2019](https://www.discotec.org/2019/) Satellite Events
 
 This page contains the instructions for workshops, tutorials and tools tracks.
 
 ## Workshops
 
-The DisCoTec 2019 organizing committee invites proposals for workshops to complement the three main conferences. 
+The [DisCoTec 2019](https://www.discotec.org/2019/) organizing committee invites proposals for workshops to complement the three main conferences. 
 The workshops should fall in the areas of the DisCoTec conferences. The aim is to provide a vivid and open forum
 for discussions, presentations of preliminary research results and ongoing work, as well as presentations of 
 research work to a focused audience.
