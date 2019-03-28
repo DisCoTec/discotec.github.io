@@ -35,15 +35,15 @@ DTU Compute<br/>
 Asmussens Alle, bygning 322<br/>
 Technical University of Denmark<br/>
 DK-2800 Lyngby - Denmark<br/>
-E-mail: aeha@dtu.dk
+aeha@dtu.dk
 
 ## Preliminary program:
 * Thierry Lecomte, Clearsy, France: Formal Techniques for Safer Signalling Systems
 * Jens Braband, Siemens Mobility GmbH, Germany: A survey of Cybersecurity in Signaling
 * Jan Peleska, University of Bremen, Germany: New Distribution Paradigms for Railway Interlocking
 * Michael Kuperberg, Deutsche Bahn Systel Gmbh, Germany: Towards a Systematic Selection of a Blockchain Implementation for a Decentralized Rail Control System
-*tba, ISTI-CNR, Italy, Moving Block modelling: the ASTRail project (definitive title to be announced)
-*Francesco Flammini, Linnæus University, Sweden: Towards Railway Virtual Coupling
+* TBA, ISTI-CNR, Italy, Moving Block modelling: the ASTRail project (definitive title to be announced)
+* Francesco Flammini, Linnæus University, Sweden: Towards Railway Virtual Coupling
 * Davide Basile, Univ. of Florence, Italy, Statistical model checking of hazards in an autonomous tramway positioning system
 * Signe Geisler, DTU Compute, Denmark: Stepwise Development and Model Checking of a Distributed Interlocking
 System - Using RAISE
