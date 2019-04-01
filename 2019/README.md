@@ -25,7 +25,7 @@ research issues. DisCoTec 2019 will take place at the [Technical University of D
 * ~~February 8, 2019 - paper submission~~ <span style="color:red">**February 22, 2019 - extended paper submission**</span>
 * April 12, 2019 - notification
 * April 26, 2019 - camera ready
-* Conferences (DAIS, COORDIONATION, FORTE): Tuesday June 18 - Thursday June 20, 2019
+* Conferences (DAIS, Coordination, FORTE): Tuesday June 18 - Thursday June 20, 2019
 * DisCoRail workshop: Monday June 17, 2019
 * ICE workshop: Thursday June 20 - Friday June 21, 2019
 
