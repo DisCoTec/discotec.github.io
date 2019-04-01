@@ -25,7 +25,8 @@ research issues. DisCoTec 2019 will take place at the [Technical University of D
 * ~~February 8, 2019 - paper submission~~ <span style="color:red">**February 22, 2019 - extended paper submission**</span>
 * April 12, 2019 - notification
 * April 26, 2019 - camera ready
-* Conference and workshops: June 17-21, 2019
+* Conference: Tuesday June 18 - Thursday June 20, 2019
+* Workshops: Monday June 17 and Friday June 21, 2019
 
 ## Location
 * [DTU Lyngby](https://www.google.com/maps/place/Danmarks+Tekniske+Universitet/@55.7855742,12.5191923,17z/data=!3m1!4b1!4m5!3m4!1s0x46524e6328b8bd5d:0xcf045cde0449c6c5!8m2!3d55.7855742!4d12.521381), 2800 Kongens Lyngby, Denmark
