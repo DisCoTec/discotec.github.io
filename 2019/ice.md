@@ -109,7 +109,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 * Massimo Bartoletti (University of Cagliari, IT)
 * Ludovic Henrio (CNRS, LIP, Lyon, FR) 
 * Anastasia Mavridou (NASA Ames, USA)
-* Alceste Scalas (Aston University, UK)
+* Alceste Scalas (Aston University, Birmingham, UK)
 
 
 ## Steering Committee
