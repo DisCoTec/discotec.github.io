@@ -17,6 +17,10 @@ The workshop intends to discuss these topics with experts from industry and acad
 ## Call for contributions
 We invite everyone interested in these topics to actively participate to the discussion with a short presentation (5 minutes) describing own research activity. Please send the organizers a title and an abstract by the 1st of May to the organizers. The proposals will be selected basing on relevance and time availability.
 
+## Important dates
+* May 1st, abstract submission
+* June 17th, workshop
+
 ## Publications
 We are currently studying the possibility to publish post-proceedings of the workshop as a special issue of a scientific journal or in a volume of Springer Lecture Notes in Computer Science.
 
