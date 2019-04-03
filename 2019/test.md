@@ -39,7 +39,7 @@ Modern information systems rely increasingly on combining concurrent, distribute
             <span aria-hidden="true">&times;</span>
           </button>
       </div>
-      <h6 class="pl-2">Kiko Fernandez-Reyes, Dave Clarke, Elias Castegren and Huu-Phuc Vo</h6>
+      Kiko Fernandez-Reyes, Dave Clarke, Elias Castegren and Huu-Phuc Vo
       </div>
       <div class="modal-body">
       In many actor-based programming models, asynchronous method calls communicate their results using futures,
@@ -64,19 +64,18 @@ The translation is shown to preserve semantics. Based on this foundation, we des
 <div class="modal fade" id="paper2" tabindex="-1" role="dialog" aria-labelledby="Aggregation-policies-for-tuple-spaces" aria-hidden="true">
   <div class="modal-dialog modal-dialog-scrollable" role="document">
     <div class="modal-content">
-      <div class="modal-header">
+      <div class="modal-header d-block">
+      <div class="d-flex">
         <h5 class="modal-title" id="Aggregation-policies-for-tuple-spaces">Aggregation policies for tuple spaces</h5>
-        <h6 class="pl-2">Linas Kaminskas and Alberto Lluch Lafuente</h6>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
+      Linas Kaminskas and Alberto Lluch Lafuente
+      </div>
       <div class="modal-body">
-      In many actor-based programming models, asynchronous method calls communicate their results using futures,
- where the fulfilment occurs under-the-hood. Promises play a similar role to futures, except that they must be explicitly created and explicitly fulfilled;
-this makes promises more flexible than futures, though promises lack fulfilment guarantees: they can be fulfilled once, multiple times or not at all. Unfortunately, futures are too rigid to exploit many available concurrent and parallel patterns. For instance, many computations block on a future to get its result only to return that result immediately (to fulfil their own future).
-To make futures more flexible, we explore a construct, forward, that delegates the responsibility for fulfilling the current implicit future to another computation. Forward reduces synchronisation and gives futures promise-like capabilities. This paper presents a formalisation of the forward construct, defined in a high-level source language, and a compilation strategy from the high-level language to a low-level, promised-based target language.
-The translation is shown to preserve semantics. Based on this foundation, we describe the implementation of forward in the parallel, actor-based language Encore, which compiles to C.
+      Security policies are important for protecting digitalized information, control resource access and maintain secure data storage. This work presents the development of a policy language to transparently incorporate aggregate programming and privacy models for distributed data. We use tuple spaces as a convenient abstraction for storage and coordination. The language has been designed to accommodate well-known models such as k-anonymity
+      and (𝜀,𝛿)-differential privacy, as well as to provide generic user-defined policies. The formal semantics of the policy language and its enforcement mechanism is presented in a manner that abstracts away from a specific tuple space coordination language. To showcase our approach, an open-source software library has been developed in the Go programming language and applied to a typical coordination pattern used in aggregate programming applications.
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
