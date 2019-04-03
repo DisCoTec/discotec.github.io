@@ -12,10 +12,10 @@ Several foreseen advances envisage a more dynamic network connection among mobil
 
 The increasing importance of communication makes sources of uncertainty to be increasingly present in a railway control system: safety in presence of distribution, mobility, uncertainty is currently one of the research challenges in the domain. Cybersecurity is also another main issue induced by communication-based control schemes.
 
-The workshop intends to discuss these topics with experts from industry and academia that have addressed these aspects in research and development projects. The workshop will feature presentations of this kind as well as a final discussion.
+The workshop intends to discuss these topics with experts from industry and academia that have addressed these aspects in research and development projects. The workshop will feature 20'-30' minutes presentations  of this kind (see preliminary program below), as well as a final discussion.
 
 ## Call for contributions
-We invite everyone interested in these topics to actively participate to the discussion with a short presentation (5 minutes) describing own research activity. Please send the organizers a title and an abstract by the 1st of May to the organizers. The proposals will be selected basing on relevance and time availability.
+We invite everyone else interested in these topics to actively participate to the discussion with a short presentation (5 minutes) describing own research activity. Please send the organizers a title and an abstract by the 1st of May to the organizers. The proposals will be selected basing on relevance and time availability.
 
 ## Important dates
 * May 1st, abstract submission
@@ -46,7 +46,7 @@ aeha@dtu.dk
 * Jens Braband, Siemens Mobility GmbH, Germany: A survey of Cybersecurity in Signaling
 * Jan Peleska, University of Bremen, Germany: New Distribution Paradigms for Railway Interlocking
 * Michael Kuperberg, Deutsche Bahn Systel Gmbh, Germany: Towards a Systematic Selection of a Blockchain Implementation for a Decentralized Rail Control System
-* TBA, ISTI-CNR, Italy, Moving Block modelling: the ASTRail project (definitive title to be announced)
+* Franco Mazzanti, ISTI-CNR, Italy, Modelling a Moving Block train control system: different techniques and tools
 * Francesco Flammini, Linnæus University, Sweden: Towards Railway Virtual Coupling
 * Davide Basile, Univ. of Florence, Italy, Statistical model checking of hazards in an autonomous tramway positioning system
 * Signe Geisler, DTU Compute, Denmark: Stepwise Development and Model Checking of a Distributed Interlocking
@@ -54,3 +54,4 @@ System - Using RAISE
 * Per Lange Laursen and Van Anh Thi Trinh, DTU Compute, Denmark: Modelling and Verification of a Distributed Interlocking System - Using UPPAAL and UMC
 
 The workshop will continue over a dinner place, for those who are willing to taste some Danish cuisine and are able to stay overnight after the workshop (see [registration](https://www.discotec.org/2019/#registration) for details) 
+
