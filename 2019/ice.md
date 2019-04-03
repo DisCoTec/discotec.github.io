@@ -9,6 +9,7 @@ ICE 2019 is a satellite workshop of [DisCoTec 2019](https://www.discotec.org/201
     - Dilian Gurov (KTH, SE)
     - Fritz Henglein (Deon Digital and University of Copenhagen, DK)
     - Sophia Knight (University of Minnesota Duluth, USA)
+    - Hernán Melgratti (University of Buenos Aires - Conicet, AR)
 * Publication in EPTCS
 * Special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier) (to be confirmed)
 
@@ -79,6 +80,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Dilian Gurov (KTH, SE)
   * Fritz Henglein (Deon Digital and University of Copenhagen, DK)
   * Sophia Knight (University of Minnesota Duluth, USA)
+  * Hernán Melgratti (University of Buenos Aires - Conicet, AR)
 
 
 ## Programme Committee
