@@ -32,12 +32,14 @@ Modern information systems rely increasingly on combining concurrent, distribute
 <div class="modal fade" id="paper1" tabindex="-1" role="dialog" aria-labelledby="Forward-to-a-Promising-Future" aria-hidden="true">
   <div class="modal-dialog modal-dialog-scrollable" role="document">
     <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="Forward-to-a-Promising-Future">Forward to a Promising Future</h5>
-        <h6 class="pl-2">Kiko Fernandez-Reyes, Dave Clarke, Elias Castegren and Huu-Phuc Vo</h6>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
+      <div class="modal-header d-block">
+      <div class="d-flex">
+          <h5 class="modal-title" id="Forward-to-a-Promising-Future">Forward to a Promising Future</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+      </div>
+      <h6 class="pl-2">Kiko Fernandez-Reyes, Dave Clarke, Elias Castegren and Huu-Phuc Vo</h6>
       </div>
       <div class="modal-body">
       In many actor-based programming models, asynchronous method calls communicate their results using futures,
