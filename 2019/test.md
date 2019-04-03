@@ -34,7 +34,7 @@ Modern information systems rely increasingly on combining concurrent, distribute
     <div class="modal-content">
       <div class="modal-header d-block">
       <div class="d-flex">
-          <h5 class="modal-title" id="Forward-to-a-Promising-Future">Forward to a Promising Future</h5>
+          <h3 class="modal-title" id="Forward-to-a-Promising-Future">Forward to a Promising Future</h3>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
@@ -66,7 +66,7 @@ The translation is shown to preserve semantics. Based on this foundation, we des
     <div class="modal-content">
       <div class="modal-header d-block">
       <div class="d-flex">
-        <h5 class="modal-title" id="Aggregation-policies-for-tuple-spaces">Aggregation policies for tuple spaces</h5>
+        <h3 class="modal-title" id="Aggregation-policies-for-tuple-spaces">Aggregation policies for tuple spaces</h3>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
