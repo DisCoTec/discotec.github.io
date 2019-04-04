@@ -81,7 +81,7 @@ The individual conferences will organise special issues of extended and selected
 
 ## Registration
 
-Registration site and details will be ready in early April 2019.
+Registration site and details will be ready in week 15 (8-12 April 2019).
 
 ## Accommodation and local information
 
