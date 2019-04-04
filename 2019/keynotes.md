@@ -6,7 +6,9 @@ Title: Security Protocols:  Model Checking Standards
 Abstract: The design of security protocols is typically approached as an art, rather than a science, and often with disastrous consequences. But this need not be so!  I have been working for ca. 20 years on foundations, methods, and tools, both for developing protocols that are correct by construction and for the post-hoc verification of existing designs.  In this talk I will introduce my work in this area and describe my experience analyzing, improving, and contributing to different industry standards, both existing and upcoming.
 
 ## [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
-Title: TBA
+Title: Making Sense of Fast Big Data
+
+Abstract: Computing systems that make human sense of big data, usually called personalization systems or recommenders,  and popularized by Amazon and Netflix, essentially help Internet users extracting  information of interest to them. Leveraging machine learning techniques, research on personalization has mainly focused on improving the quality of the information extracted, according to some measure of quality. Yet, building an operational recommender goes far beyond, especially in a world where data is not only big but also changes very fast. This talk will discuss system challenges to scale to a large number of users and a growing volume of fastly changing data to eventually provide real-time personalization.
 
 ## [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
 Title: TBA
