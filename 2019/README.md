@@ -33,7 +33,7 @@ research issues. DisCoTec 2019 will take place at the [Technical University of D
 * [DTU Lyngby](https://www.google.com/maps/place/Danmarks+Tekniske+Universitet/@55.7855742,12.5191923,17z/data=!3m1!4b1!4m5!3m4!1s0x46524e6328b8bd5d:0xcf045cde0449c6c5!8m2!3d55.7855742!4d12.521381), 2800 Kongens Lyngby, Denmark
 
 ## Flyer
-[DisCoTec 2019 Flyer]() 
+[DisCoTec 2019 Flyer](DisCoTec2019-flyer.pdf) 
 
 ## Organising Committee
 * [Alberto Lluch Lafuente](http://www.imm.dtu.dk/~albl/) (DTU, Denmark -- General chair)
