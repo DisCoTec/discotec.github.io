@@ -1,4 +1,6 @@
-Monday, June 17
+The following programme is tentative but we hope it helps with planning your attendance and travels.
+
+## Monday, June 17
 
 |     | DisCoRail |
 | --- | --- |
@@ -10,7 +12,7 @@ Monday, June 17
 |   | break  | break | break | break |
 | 15:30-17:00 | Session R4 |
 
-Tuesday, June 18
+## Tuesday, June 18
 
 |     | Coordination | DAIS | FORTE |
 | --- | --- | --- | --- |
@@ -22,7 +24,7 @@ Tuesday, June 18
 |   | break  | break | break |
 | 15:30-17:00 | Session C3  | Session D3 | Session F3 |
 
-Wednesday, June 19
+## Wednesday, June 19
 
 |     | Coordination | DAIS | FORTE |
 | --- | --- | --- | --- |
@@ -34,19 +36,19 @@ Wednesday, June 19
 |   | break  | break | break |
 | 15:30-17:00 | Joint Best Papers | Joint Best Papers | Joint Best Papers 
 
-Thursday, June 20
+## Thursday, June 20
 
 |     | Coordination | DAIS | FORTE | ICE |
 | --- | --- | --- | --- | --- |
-| 9:30-10:30 | Joint Keynote 4 | Joint Keynote 4 | Joint Keynote 4 | Joint Keynote 4 |
-|   | break  | break | break | break |
+| 9:30-10:30 | Joint Keynote 4 | Joint Keynote 4 | Joint Keynote 4 |  |
+|   | break  | break | break |  |
 | 11:00-12:30 | Session C5  | Session D5 | Session F5 | Session F5 | Session I1
 |   | lunch  | lunch | lunch | lunch |
 | 14:00-15:00 | Joint Keynote 5 | Joint Keynote 5 | Joint Keynote 5 | Joint Keynote 5 |
 |   | break  | break | break | break |
 | 15:30-17:00 | Session C6  | Session D6 | Session F6 | Session I2 |
 
-Friday, June 21
+## Friday, June 21
 
 |     | ICE |
 | --- | --- |
