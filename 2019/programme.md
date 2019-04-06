@@ -5,11 +5,11 @@ The following programme is tentative but we hope it helps with planning your att
 |     | DisCoRail |
 | --- | --- |
 | 9:30-10:30 |  Session R1 |
-|   | break  | break | break | break |
+|   | break  |
 | 11:00-12:30 | Session R2 |
-|   | lunch  | lunch | lunch | lunch |
+|   | lunch  |
 | 14:00-15:00 | Session R3 |
-|   | break  | break | break | break |
+|   | break |
 | 15:30-17:00 | Session R4 |
 
 ## Tuesday, June 18
@@ -24,10 +24,13 @@ The following programme is tentative but we hope it helps with planning your att
 |   | break  | break | break |
 | 15:30-17:00 | Session C3  | Session D3 | Session F3 |
 
+A welcome reception will follow after the technical programme.
+
 ## Wednesday, June 19
 
 |     | Coordination | DAIS | FORTE |
 | --- | --- | --- | --- |
+| 9:15-9:30 | Joint Introduction | Joint Introduction | Joint Introduction |
 | 9:30-10:30 | Joint Keynote 2 | Joint Keynote 2 | Joint Keynote 2 |
 |   | break  | break | break |
 | 11:00-12:30 | Session C4  | Session D4 | Session F4 |
@@ -35,6 +38,8 @@ The following programme is tentative but we hope it helps with planning your att
 | 14:00-15:00 | Joint Keynote 3 | Joint Keynote 3 | Joint Keynote 3 |
 |   | break  | break | break |
 | 15:30-17:00 | Joint Best Papers | Joint Best Papers | Joint Best Papers 
+
+A social event including dinner will follow after the technical programme.
 
 ## Thursday, June 20
 
@@ -53,9 +58,9 @@ The following programme is tentative but we hope it helps with planning your att
 |     | ICE |
 | --- | --- |
 | 9:30-10:30 |  Session I3 |
-|   | break  | break | break | break |
+|   | break  |
 | 11:00-12:30 | Session I4 |
-|   | lunch  | lunch | lunch | lunch |
+|   | lunch  |
 | 14:00-15:00 | Session I4 |
-|   | break  | break | break | break |
+|   | break  |
 | 15:30-17:00 | Session I5 |
