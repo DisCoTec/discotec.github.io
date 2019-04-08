@@ -2,7 +2,7 @@
 
 ## [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
 
-![](https://inf.ethz.ch/content/specialinterest/infk/department/en/people/person-detail.person_image.jpeg?persid=MTEwNDA0)
+<img src="https://inf.ethz.ch/content/specialinterest/infk/department/en/people/person-detail.person_image.jpeg?persid=MTEwNDA0" alt=""  height="300">
 
 **Title**: Security Protocols:  Model Checking Standards
 
@@ -12,7 +12,7 @@
 
 ## [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
 
-![](https://www.inria.fr/var/inria/storage/images/medias/rennes/actualites-images/portraits-actus/anne-marie-kermarrec/366734-1-fre-FR/anne-marie-kermarrec_vignette.jpg)
+<img src="http://www.irisa.fr/asap/wp-content/uploads/2009/11/AMK.jpg" alt=""  height="300">
 
 **Title**: Making Sense of Fast Big Data
 
@@ -22,7 +22,7 @@
 
 ## [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
 
-![](https://www.trinity.ox.ac.uk/wordpress/wp-content/uploads/2014/08/profile-marta-kwiatowska-320x320.jpg)
+<img src="https://www.trinity.ox.ac.uk/wordpress/wp-content/uploads/2014/08/profile-marta-kwiatowska-320x320.jpg" alt=""  height="300">
 
 **Title**: Versatile Quantitative Modelling: Verification, Synthesis and Data Inference for Cyber-Physical Systems
 
@@ -32,7 +32,7 @@
 
 ## [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
 
-![](https://pbs.twimg.com/profile_images/1051834072241078272/4HzEhPK4_400x400.jpg)
+<img src="https://pbs.twimg.com/profile_images/1051834072241078272/4HzEhPK4_400x400.jpgg" alt=""  height="300">
 
 **Title**: TBA
 
@@ -40,7 +40,7 @@
 
 ## [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
 
-![](https://www.sosy-lab.org/people/wirsing/wirsing.jpg)
+<img src="https://www.sosy-lab.org/people/wirsing/wirsing.jpg" alt=""  height="300">
 
 **Title**: Towards Formally Designing Collective Adaptive Systems<br>
 in cooperation with Lenz Belzner, Thomas Gabor, Rolf Hennicker, and Alexander Knapp
