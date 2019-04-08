@@ -1,3 +1,5 @@
+[![](https://www.discotec.org/2019/discotec-banner.jpeg)](https://www.discotec.org/2019/)
+
 # DisCoRail 2019 - International Workshop on Distributed Computing in Future Railway Systems
 DisCoRail 2019 is a satellite workshop of [DisCoTec 2019](https://www.discotec.org/2019/), held on June 17, 2019 in Lyngby, Denmark.
 
