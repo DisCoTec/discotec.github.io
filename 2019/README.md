@@ -1,4 +1,4 @@
-![](http://www.discotec.org/2019/discotec-banner.jpeg)
+[![](https://www.discotec.org/2019/discotec-banner.jpeg)](https://www.discotec.org/2019/)
 
 # DisCoTec 2019 - 14th International Federated Conference on Distributed Computing Techniques
 
