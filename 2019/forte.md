@@ -1,3 +1,5 @@
+[![](https://www.discotec.org/2019/discotec-banner.jpeg)](https://www.discotec.org/2019/)
+
 # FORTE 2019 - 39th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 FORTE 2019 is one of the three conferences of [DisCoTec 2019](https://www.discotec.org/2019/), the 14th International Federated Conference on Distributed Computing Techniques.
