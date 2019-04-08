@@ -1,3 +1,5 @@
+[![](https://www.discotec.org/2019/discotec-banner.jpeg)](https://www.discotec.org/2019/)
+
 # [DisCoTec 2019](https://www.discotec.org/2019)  - Keynotes
 
 ## [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
