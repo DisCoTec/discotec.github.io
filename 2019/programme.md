@@ -1,3 +1,5 @@
+[![](https://www.discotec.org/2019/discotec-banner.jpeg)](https://www.discotec.org/2019/)
+
 # [DisCoTec 2019](https://www.discotec.org/2019/) programme
 
 The following programme is tentative but we hope it helps with planning your attendance and travels.
