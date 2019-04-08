@@ -1,3 +1,5 @@
+[![](https://www.discotec.org/2019/discotec-banner.jpeg)](https://www.discotec.org/2019/)
+
 # DAIS 2019 - 19th International Conference on Distributed Applications and Interoperable Systems
 
 DAIS 2019 is one of the three conferences of [DisCoTec 2019](https://www.discotec.org/2019/).
