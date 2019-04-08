@@ -22,6 +22,8 @@ research issues. DisCoTec 2019 will take place at the [Technical University of D
 * [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
 * [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
 
+See [titles and abstracts](./keynotes).
+
 ## Important dates
 * ~~February 1, 2019 - abstract submission~~ <span style="color:red">**February 15, 2019 - extended abstract submission**</span>
 * ~~February 8, 2019 - paper submission~~ <span style="color:red">**February 22, 2019 - extended paper submission**</span>
