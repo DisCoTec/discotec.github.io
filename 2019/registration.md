@@ -1,3 +1,5 @@
+[![](https://www.discotec.org/2019/discotec-banner.jpeg)](https://www.discotec.org/2019/)
+
 You can register for attending the conference at TBA.
 
 | | Early (until TBA)| Late (until TBA) | On site (until TBA) |
