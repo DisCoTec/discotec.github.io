@@ -32,7 +32,7 @@
 
 ## [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
 
-<img src="https://pbs.twimg.com/profile_images/1051834072241078272/4HzEhPK4_400x400.jpgg" alt=""  height="300">
+<img src="https://pbs.twimg.com/profile_images/1051834072241078272/4HzEhPK4_400x400.jpg" alt=""  height="300">
 
 **Title**: TBA
 
