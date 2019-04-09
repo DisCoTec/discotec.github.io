@@ -50,7 +50,6 @@ A tentative scheme for the programme is available [here](programme).
 * Maurice ter Beek (CNR, Italy — Workshops chair)
 * Valerio Schiavoni (Université de Neuchâtel, Switzerland — Workshops chair)
 * Ann-Cathrin Dunker (DTU — Logistics)
-* Linas Kaminskas (DTU — Logistics)
 
 ## Scientific Committee
 * Hanne Riis Nielson (DTU, Denmark - Coordination PC Chair)
