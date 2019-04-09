@@ -23,12 +23,12 @@ Registration to **DisCoTec Conferences only** includes:
 * Lunches and coffee breaks on Tuesday 18, Wednesday 19 and Thursday 20. 
 * Free access to the online LNCS proceedings of Coordination, DAIS, and FORTE.
 * Welcome reception on Tuesday 18.
-* Social event and conference dinner on Wedneday 19.
+* Social event and conference dinner on Wednesday 19.
 
 Registration to **ICE workshop only** includes:
 * Access to all ICE sessions on Thursday 20 and Friday 21.
 * Access to DisCoTec 2019 afternoon keynote on Thursday 20.
-* Lunch and afternoon coffee break on Thursday 20.
+* Lunches and afternoon coffee break on Thursday 20.
 * Lunches and coffee breaks on Friday 20. 
 
 Registration to **DisCoRail workshop** includes:
@@ -37,4 +37,4 @@ Registration to **DisCoRail workshop** includes:
 
 Registration to **DisCoRail workshop and working dinner** includes:
 * All benefits of "DisCoRail workshop" (see above).
-* Working dinner on Monday 18.
+* Working dinner on Monday 17.
