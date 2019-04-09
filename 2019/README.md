@@ -91,7 +91,7 @@ The individual conferences will organise special issues of extended and selected
 
 ## Registration
 
-Registration site and details will be ready in week 15 (8-12 April 2019).
+Go to the [registration page](https://www.discotec.org/2019/registration).
 
 ## Accommodation and local information
 
