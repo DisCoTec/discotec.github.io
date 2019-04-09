@@ -8,13 +8,13 @@ The following programme is tentative but we hope it helps with planning your att
 
 |     | DisCoRail |
 | --- | --- |
-| 9:30-10:30 |  Session R1 |
+| 9:30-10:30 |  Session RAIL-1 |
 |   | break  |
-| 11:00-12:30 | Session R2 |
+| 11:00-12:30 | Session RAIL-2 |
 |   | lunch  |
-| 14:00-15:00 | Session R3 |
+| 14:00-15:00 | Session RAIL-3 |
 |   | break |
-| 15:30-17:00 | Session R4 |
+| 15:30-17:00 | Session RAIL-4 |
 
 ## Tuesday, June 18
 
@@ -22,11 +22,11 @@ The following programme is tentative but we hope it helps with planning your att
 | --- | --- | --- | --- |
 | 9:30-10:30 | Joint Keynote 1 | Joint Keynote 1 | Joint Keynote 1 |
 |   | break  | break | break |
-| 11:00-12:30 | Session C1  | Session D1 | Session F1 |
+| 11:00-12:30 | Session COORD-1  | Session DAIS-1 | Session FORTE-1 |
 |   | lunch  | lunch | lunch |
-| 14:00-15:00 | Session C2  | Session D2 | Session F2 |
+| 14:00-15:00 | Session COORD-2  | Session DAIS-2 | Session FORTE-2 |
 |   | break  | break | break |
-| 15:30-17:00 | Session C3  | Session D3 | Session F3 |
+| 15:30-17:00 | Session COORD-3  | Session DAIS-3 | Session FORTE-3 |
 
 A welcome reception will follow after the technical programme.
 
@@ -37,7 +37,7 @@ A welcome reception will follow after the technical programme.
 | 9:15-9:30 | Joint Introduction | Joint Introduction | Joint Introduction |
 | 9:30-10:30 | Joint Keynote 2 | Joint Keynote 2 | Joint Keynote 2 |
 |   | break  | break | break |
-| 11:00-12:30 | Session C4  | Session D4 | Session F4 |
+| 11:00-12:30 | Session COORD-4  | Session DAIS-4 | Session FORTE-4 |
 |   | lunch  | lunch | lunch |
 | 14:00-15:00 | Joint Keynote 3 | Joint Keynote 3 | Joint Keynote 3 |
 |   | break  | break | break |
@@ -51,20 +51,20 @@ A social event including dinner will follow after the technical programme.
 | --- | --- | --- | --- | --- |
 | 9:30-10:30 | Joint Keynote 4 | Joint Keynote 4 | Joint Keynote 4 |  |
 |   | break  | break | break |  |
-| 11:00-12:30 | Session C5  | Session D5 | Session F5 | Session F5 | Session I1
+| 11:00-12:30 | Session COORD-5  | Session DAIS-5 | Session FORTE-5 | Session ICE-1
 |   | lunch  | lunch | lunch | lunch |
 | 14:00-15:00 | Joint Keynote 5 | Joint Keynote 5 | Joint Keynote 5 | Joint Keynote 5 |
 |   | break  | break | break | break |
-| 15:30-17:00 | Session C6  | Session D6 | Session F6 | Session I2 |
+| 15:30-17:00 | Session COORD-6  | Session DAIS-6 | Session FORTE-6 | Session ICE-2 |
 
 ## Friday, June 21
 
 |     | ICE |
 | --- | --- |
-| 9:30-10:30 |  Session I3 |
+| 9:30-10:30 |  Session ICE-3 |
 |   | break  |
-| 11:00-12:30 | Session I4 |
+| 11:00-12:30 | Session ICE-4 |
 |   | lunch  |
-| 14:00-15:00 | Session I4 |
+| 14:00-15:00 | Session ICE-4 |
 |   | break  |
-| 15:30-17:00 | Session I5 |
+| 15:30-17:00 | Session ICE-5 |
