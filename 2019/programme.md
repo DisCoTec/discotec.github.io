@@ -20,7 +20,7 @@ The following programme is tentative but we hope it helps with planning your att
 
 |     | Coordination | DAIS | FORTE |
 | --- | --- | --- | --- |
-| 9:15-9:30 | Joint Introduction | Joint Introduction | Joint Introduction |
+| 9:15-9:30 | Opening | Opening | Opening |
 | 9:30-10:30 | Joint Keynote 1 | Joint Keynote 1 | Joint Keynote 1 |
 |   | break  | break | break |
 | 11:00-12:30 | Session COORD-1  | Session DAIS-1 | Session FORTE-1 |
