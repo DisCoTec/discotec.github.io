@@ -28,7 +28,7 @@ The following programme is tentative but we hope it helps with planning your att
 |   | break  | break | break |
 | 15:30-17:00 | Session COORD-3  | Session DAIS-3 | Session FORTE-3 |
 
-A welcome reception will follow after the technical programme.
+A light welcome reception will follow after the technical programme.
 
 ## Wednesday, June 19
 
@@ -65,6 +65,6 @@ A social event including dinner will follow after the technical programme.
 |   | break  |
 | 11:00-12:30 | Session ICE-4 |
 |   | lunch  |
-| 14:00-15:00 | Session ICE-4 |
+| 14:00-15:00 | Session ICE-5 |
 |   | break  |
-| 15:30-17:00 | Session ICE-5 |
+| 15:30-17:00 | Session ICE-6 |
