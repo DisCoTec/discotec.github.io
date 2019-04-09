@@ -2,13 +2,15 @@
 
 You can register for attending the conference at TBA.
 
-| | Early (until TBA)| Late (until TBA) | On site (until TBA) |
-| - | - | - | - | 
-| **DisCoTec Conferences + ICE workshop** | TBA | TBA | TBA |
-| **DisCoTec Conferences only** | TBA | TBA | TBA |
-| **ICE workshop only** | TBA | TBA | TBA |
-| **DisCoRail workshop** | TBA | TBA | TBA |
-| **DisCoRail workshop and social event** | TBA | TBA | TBA |
+| | Early (until May 15)| Regular (until May 31) | Late (after May 31) (*) |
+| - | -: | -: | -: | 
+| **DisCoTec Conferences + ICE workshop** | 4.900 DKK | 5.700 DKK | 6.500 DKK |
+| **DisCoTec Conferences only** | 4.000 DKK | 4.800 DKK | 5.600 DKK |
+| **ICE workshop only** | 1.100 DKK | 1.100 DKK | 1.500 DKK |
+| **DisCoRail workshop** | 650 DKK | 650 DKK | 1.050 DKK |
+| **DisCoRail workshop and social event** | 1.335 DKK | 1.335 DKK | 1.735 DKK |
+
+(*) Registration page may be closed after May 31, in which case you will have to contact us (albl@dtu.dk and adun@dtu.dk)
 
 Registration to **DisCoTec Conferences + ICE workshop** includes:
 * All benefits of "DisCoTec Conferences only" (see below).
@@ -31,8 +33,8 @@ Registration to **DisCoRail workshop** includes:
 * Access to all DisCoRail sessions on Monday 17.
 * Lunches and coffee breaks on Monday 17.
 
-Registration to **DisCoRail workshop and social event** includes:
+Registration to **DisCoRail workshop and working dinner** includes:
 * All benefits of "DisCoRail workshop" (see above).
-* Social event (dinner) on Monday 18.
+* Working dinner on Monday 18.
 
 Note: registration fees include 25% of VAT. 
