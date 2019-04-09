@@ -23,7 +23,7 @@ Registration to **DisCoTec Conferences only** includes:
 * Lunches and coffee breaks on Tuesday 18, Wednesday 19 and Thursday 20. 
 * Free access to the online LNCS proceedings of Coordination, DAIS, and FORTE.
 * Welcome reception on Tuesday 18.
-* Social event and conference dinner on Wednesday 19. If you need extra tickets for this please contact albl@dtu.dk and adun@dtu.dk.
+* Social event and conference dinner on Wednesday 19. If you need extra tickets please contact albl@dtu.dk and adun@dtu.dk.
 
 Registration to **ICE workshop only** includes:
 * Access to all ICE sessions on Thursday 20 and Friday 21.
