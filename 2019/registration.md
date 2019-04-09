@@ -2,7 +2,7 @@
 
 You can register for attending the conference at [this registration site](https://www.conferencemanager.dk/discotec2019).
 
-Note: all registration fees below include 25% of VAT. 
+NOTE: all registration fees below include 25% of VAT. 
 
 | | Early - until May 15 | Regular - until May 31 | Late - after May 31 (*) |
 | - | -: | -: | -: | 
