@@ -2,7 +2,7 @@
 
 You can register for attending the conference at TBA.
 
-| | Early (until May 15)| Regular (until May 31) | Late (after May 31) (*) |
+| | Early - until May 15 | Regular - until May 31 | Late - after May 31 (*) |
 | - | -: | -: | -: | 
 | **DisCoTec Conferences + ICE workshop** | 4.900 DKK | 5.700 DKK | 6.500 DKK |
 | **DisCoTec Conferences only** | 4.000 DKK | 4.800 DKK | 5.600 DKK |
