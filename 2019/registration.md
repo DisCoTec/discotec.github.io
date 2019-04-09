@@ -2,6 +2,8 @@
 
 You can register for attending the conference at TBA.
 
+Note: all registration fees below include 25% of VAT. 
+
 | | Early - until May 15 | Regular - until May 31 | Late - after May 31 (*) |
 | - | -: | -: | -: | 
 | **DisCoTec Conferences + ICE workshop** | 4.900 DKK | 5.500 DKK | 6.100 DKK |
@@ -36,5 +38,3 @@ Registration to **DisCoRail workshop** includes:
 Registration to **DisCoRail workshop and working dinner** includes:
 * All benefits of "DisCoRail workshop" (see above).
 * Working dinner on Monday 18.
-
-Note: registration fees include 25% of VAT. 
