@@ -37,9 +37,9 @@ A light welcome reception (no dinner) will follow after the technical programme.
 | --- | --- | --- | --- |
 | 9:30-10:30 | Joint Keynote 2 | Joint Keynote 2 | Joint Keynote 2 |
 |   | break  | break | break |
-| 11:00-12:30 | Session COORD-4  | Session DAIS-4 | Session FORTE-4 |
+| 11:00-12:30 | Joint Keynote 3  | Joint Keynote 3 | Joint Keynote 3 |
 |   | lunch  | lunch | lunch |
-| 14:00-15:00 | Joint Keynote 3 | Joint Keynote 3 | Joint Keynote 3 |
+| 14:00-15:00 | Joint Keynote 4 | Joint Keynote 4 | Joint Keynote 4 |
 |   | break  | break | break |
 | 15:30-17:00 | Joint Best Papers | Joint Best Papers | Joint Best Papers 
 
@@ -49,11 +49,11 @@ A social event including dinner will follow after the technical programme.
 
 |     | Coordination | DAIS | FORTE | ICE |
 | --- | --- | --- | --- | --- |
-| 9:30-10:30 | Joint Keynote 4 | Joint Keynote 4 | Joint Keynote 4 |  |
+| 9:30-10:30 | Joint Keynote 5 | Joint Keynote 5 | Joint Keynote 5 |  |
 |   | break  | break | break |  |
-| 11:00-12:30 | Session COORD-5  | Session DAIS-5 | Session FORTE-5 | Session ICE-1
+| 11:00-12:30 | Session COORD-4  | Session DAIS-4 | Session FORTE-4 | Session ICE-1
 |   | lunch  | lunch | lunch | lunch |
-| 14:00-15:00 | Joint Keynote 5 | Joint Keynote 5 | Joint Keynote 5 | Joint Keynote 5 |
+| 14:00-15:00 | Session COORD-5 | Session DAIS-5 | Session FORTE-5 | Joint Keynote 5 |
 |   | break  | break | break | break |
 | 15:30-17:00 | Session COORD-6  | Session DAIS-6 | Session FORTE-6 | Session ICE-2 |
 
