@@ -6,11 +6,11 @@ NOTE: all registration fees below include 25% of VAT.
 
 | | Early - until May 15 | Regular - until May 31 | Late - after May 31 (*) |
 | - | -: | -: | -: | 
-| **DisCoTec Conferences + ICE workshop** | 4.900 DKK | 5.500 DKK | 6.100 DKK |
-| **DisCoTec Conferences only** | 4.000 DKK | 4.600 DKK | 5.200 DKK |
-| **ICE workshop only** | 1.100 DKK | 1.100 DKK | 1.500 DKK |
-| **DisCoRail workshop** | 650 DKK | 650 DKK | 1.000 DKK |
-| **DisCoRail workshop and working dinner** | 1.335 DKK | 1.335 DKK | 1.700 DKK |
+| **DisCoTec Conferences + ICE workshop** | 4900 DKK | 5500 DKK | 6100 DKK |
+| **DisCoTec Conferences only** | 4000 DKK | 4600 DKK | 5200 DKK |
+| **ICE workshop only** | 1100 DKK | 1100 DKK | 1500 DKK |
+| **DisCoRail workshop** | 650 DKK | 650 DKK | 1000 DKK |
+| **DisCoRail workshop and working dinner** | 1335 DKK | 1335 DKK | 1700 DKK |
 
 (*) Registration page may be closed few days before the conference days, in which case you will have to contact us (albl@dtu.dk and adun@dtu.dk)
 
