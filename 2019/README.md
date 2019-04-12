@@ -118,6 +118,9 @@ Moving around
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
 [<img src="https://www.cybersec4europe.eu/wp-content/uploads/2019/03/CSfE_Logo.png" width="300">](https://www.cybersec4europe.eu/) 
 
+[<img src="./AlgorandLogo.png" width="300">](https://www.algorand.com/) 
+
+
 ## Further information 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
 
