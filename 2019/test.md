@@ -51,7 +51,7 @@ Coordination 2019 is one of the three conferences of [DisCoTec 2019](https://www
   <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
 
    <button type="button" class="btn btn-light" data-toggle="modal" data-target="#paper1">
-     Kiko Fernandez-Reyes, Dave Clarke, Elias Castegren and Huu-Phuc Vo. Forward to a Promising Future
+     Forward to a Promising Future. Kiko Fernandez-Reyes, Dave Clarke, Elias Castegren and Huu-Phuc Vo.
    </button>
    <!-- Modal -->
    <div class="modal fade" id="paper1" tabindex="-1" role="dialog" aria-labelledby="Forward-to-a-Promising-Future" aria-hidden="true">
@@ -80,7 +80,7 @@ Coordination 2019 is one of the three conferences of [DisCoTec 2019](https://www
      </div>
    </div>
    <button type="button" class="btn btn-light" data-toggle="modal" data-target="#paper2">
-     Linas Kaminskas and Alberto Lluch Lafuente. Aggregation policies for tuple spaces
+     Aggregation policies for tuple spaces. Linas Kaminskas and Alberto Lluch Lafuente.
    </button>
    <!-- Modal -->
    <div class="modal fade" id="paper2" tabindex="-1" role="dialog" aria-labelledby="Aggregation-policies-for-tuple-spaces" aria-hidden="true">
@@ -110,3 +110,60 @@ Coordination 2019 is one of the three conferences of [DisCoTec 2019](https://www
 
 </div>
 <!-- END TAB CONTENT -->
+
+## Program committee chairs
+* Emilio Tuosto (University of Leicester, UK - <emilio@le.ac.uk>)
+* Hanne Riis Nielson (DTU, Denmark - <hrni@dtu.dk>)
+
+## Program committee
+* Stephanie Balzer (CMU, USA)
+* Simon Bliudze (INRIA, France)
+* Laura Bocchi (University of Kent, UK)
+* Chiara Bodei (Università di Pisa, Italy)
+* Roberto Bruni (Università di Pisa, Italy)
+* Javier Camara (CMU, USA)
+* Giovanna Di Marzo Serugendo (University of Geneva, Switzerland)
+* Fatemeh Ghassemi (University of Tehran, Iran)
+* Elisa Gonzalez Boix (VUB, Belgium)
+* Roberto Guanciale (KTH, Sweden)
+* Ludovic Henrio (CNRS, France)
+* Thomas  Hildebrandt (University of Copenhagen, Denmark)
+* Omar Inverso (Gran Sasso Science Institute, Italy)
+* Jean-Marie Jacquet (University of Namur, Belgium)
+* Eva Kühn (Vienna University of Technology, Austria)
+* Michele Loreti (University of Camerino, Italy)
+* Mieke Massink (CNR-ISTI, Italy)
+* Hernan Melgratti (Universidad de Buenos Aires, Argentina)
+* Claudio Antares Mezzina (University of Leicester, UK)
+* Rumyana Neykova (Brunel University London, UK)
+* Luca Padovani (Università di Torino, Italy)
+* Danilo Pianini (University of Bologna, Italy)
+* Christian W. Probst (Unitec Institute of Technology, New Zealand)
+* Rene Rydhof Hansen (Aalborg University, Denmark)
+* Gwen Salaün (University of Grenoble Alpes, France)
+* Meng Sun (Peking University, China)
+* Carolyn Talcott (SRI International, USA)
+* Hugo Torres Vieira (IMT School for Advanced Studies Lucca, Italy)
+* Takuo Watanabe (Tokyo Institute of Technology, Japan)
+
+
+## Steering committee
+* Gul Agha, University of Illinois at Urbana Champaign, USA
+* Farhad Arbab, CWI and Leiden University, The Netherlands
+* Rocco De Nicola, IMT - School for Advanced Studies, Italy
+* Giovanna di Marzo Serugendo, Université de Genève, Switzerland
+* Tom Holvoet, KU Leuven, Belgium
+* Jean-Marie Jacquet, University of Namur, Belgium
+* Christine Julien, The University of Texas at Austin, USA
+* Eva Kühn, Vienna University of Technology, Austria
+* Alberto Lluch Lafuente, Technical University of Denmark, Denmark
+* Michele Loreti, University of Camerino, Italy
+* Mieke Massink, ISTI CNR, Italy
+* Wolfgang De Meuter, Vrije Universiteit Brussels, Belgium
+* Jose Proença, University of Minho, Portugal
+* Rosario Pugliese, Università di Firenze, Italy
+* Marjan Sirjani, Reykjavik University, Iceland
+* Carolyn Talcott, SRI International, California, USA
+* Vasco T. Vasconcelos, University of Lisbon, Portugal
+* Gianluigi Zavattaro, University of Bologna, Italy (Chair)
+* Mirko Viroli, University of Bologna, Italy
