@@ -2,26 +2,22 @@
 
 Coordination 2019 is one of the three conferences of [DisCoTec 2019](https://www.discotec.org/2019/).
 
-## Keynote Speakers
-* [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
-* [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
-* [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
-* [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)
-* [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
-
-
 <ul class="nav nav-tabs" id="myTab" role="tablist">
   <li class="nav-item">
-    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Home</a>
+    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Call for Papers</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Profile</a>
+    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Accepted Papers</a>
   </li>
 </ul>
 
+<!-- START TAB CONTENT -->
 <div class="tab-content" id="myTabContent">
+
+  <!-- START CALL FOR PAPERS TAB -->
   <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
 
+  <!-- HIGHLIGHTS -->
   <h2 id="highlights">Highlights<a class="anchorjs-link " href="#highlights" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em/1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
   <p>Two new categories of submissions added!</p>
   <ul>
@@ -29,11 +25,29 @@ Coordination 2019 is one of the three conferences of [DisCoTec 2019](https://www
     <li><strong><a href="#tool-papers">tool papers</a></strong>: we seek for video+paper submissions on tools related to coordination</li>
   </ul>
   <p>See the <a href="#submissions">submission section</a> below for details.</p>
+  <!-- END HIGHLIGHTS -->
+
+  <!-- KEYNOTE SPEAKERS -->
+  <h2 id="keynote-speakers">Keynote Speakers<a class="anchorjs-link " href="#keynote-speakers" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em/1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
+  <ul>
+  <li><a href="https://www.inf.ethz.ch/personal/basin/">David Basin</a> (ETH Zürich, Switzerland)</li>
+  <li><a href="https://www.irisa.fr/asap/?page_id=179">Anne-Marie Kermarrec</a> (INRIA Rennes, France)</li>
+  <li><a href="http://www.cs.ox.ac.uk/marta.kwiatkowska/">Marta Kwiatkowska</a> (University of Oxford, UK)</li>
+  <li><a href="https://people.csail.mit.edu/silvio/">Silvio Micali</a> (MIT, USA)</li>
+  <li><a href="https://www.sosy-lab.org/people/wirsing/">Martin Wirsing</a> (LMU, Germany)</li>
+  </ul>
+  <!-- END KEYNOTE -->
+
+  <!-- SCOPE -->
   <h2 id="scope">Scope<a class="anchorjs-link " href="#scope" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em/1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
   <p>Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today’s software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.</p>
+  <!-- END SCOPE -->
 
   </div>
+  <!-- END CALL FOR PAPERS TAB -->
 
+
+  <!-- START ACCEPTED PAPERS -->
   <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
 
    <button type="button" class="btn btn-light" data-toggle="modal" data-target="#paper1">
@@ -90,6 +104,9 @@ Coordination 2019 is one of the three conferences of [DisCoTec 2019](https://www
          </div>
        </div>
      </div>
+   </div>
   </div>
-  </div>
+  <!-- END ACCEPTED PAPERS -->
+
 </div>
+<!-- END TAB CONTENT -->
