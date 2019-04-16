@@ -39,4 +39,4 @@ Registration to **DisCoRail workshop and working dinner** includes:
 * All benefits of "DisCoRail workshop" (see above).
 * Working dinner on Monday 17.
 
-Similar to past editions, there are no special fees for students but we have a limited amount of student travel grants provided by IFIP. Please contact the General Chair, Alberto Lluch Lafuente ([albl@dtu.dk](mailto:albl@dtu.dk)) for details.
+Similar to past editions, there are no special fees for students but we have a limited amount of student travel grants provided by IFIP. Please contact the General Chair, Alberto Lluch Lafuente ([albl@dtu.dk](mailto:albl@dtu.dk)) before May 15 for details.
