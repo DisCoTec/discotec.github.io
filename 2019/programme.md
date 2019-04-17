@@ -24,6 +24,10 @@ The following programme is tentative but we hope it helps with planning your att
 [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany) <br/>
 [*Towards Formally Designing Collective Adaptive Systems*](https://www.discotec.org/2019/keynotes#martin-wirsing-lmu-germany)
 
+## Joint session: best papers
+
+TBA
+
 ## Coordination accepted papers
 
 TBA
