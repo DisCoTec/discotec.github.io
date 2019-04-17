@@ -20,7 +20,7 @@ ICE 2019 is a satellite workshop of [DisCoTec 2019](https://www.discotec.org/201
   * ~~April 20, 2019: paper submission~~ 
   * <span style="color:red">__April 26, 2019 - abstract submission for research papers (>5pp + references)__</span>
   * <span style="color:red">__April 29, 2019 - paper submission for research papers (>5pp + references)__</span>
-  <span style="color:red">__May 3, 2019 - abstract submission for oral communications and short papers (<=5pp + references)__</span>
+  * <span style="color:red">__May 3, 2019 - abstract submission for oral communications and short papers (<=5pp + references)__</span>
   * <span style="color:red">__May 6, 2019 - paper submission for oral communications and short papers (<=5pp + references)__</span>
   * May 24, 2019: notification
   * June 20-21, 2019: ICE workshop
