@@ -7,7 +7,25 @@ The following programme is tentative but we hope it helps with planning your att
 ![](./programme.png)
 
 
+## Keynotes
+
+[David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland) <br/>
+[*Model Checking Standards*](https://www.discotec.org/2019/keynotes#david-basin-eth-z%C3%BCrich-switzerland)
+
+[Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France) <br/>
+[*Making Sense of Fast Big Data*](https://www.discotec.org/2019/keynotes#anne-marie-kermarrec-inria-rennes-france)
+
+[Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK) <br/>
+[*Versatile Quantitative Modelling: Verification, Synthesis and Data Inference for Cyber-Physical Systems*](https://www.discotec.org/2019/keynotes#marta-kwiatkowska-university-of-oxford-uk)
+
+[Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA) <br/>
+[*ALGORAND - The Distributed Ledger for the Borderless Economy*](https://www.discotec.org/2019/keynotes#silvio-micali-mit-usa)
+
+[Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany) <br/>
+[*Towards Formally Designing Collective Adaptive Systems*](https://www.discotec.org/2019/keynotes#martin-wirsing-lmu-germany)
+
 ## Coordination accepted papers
+
 TBA
 
 ## DAIS accepted papers
