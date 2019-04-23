@@ -43,9 +43,9 @@ Johannes Åman Pohjola <br/>
 
 TBA
 
-## DAIS programme
+## DAIS accepted papers and programme
 
-### DAIS Best Paper
+### Joint session: Best Papers
 Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment <br/>
 *FOUGERE: User-Centric Location Privacy in Mobile Crowdsourcing Apps*
 
