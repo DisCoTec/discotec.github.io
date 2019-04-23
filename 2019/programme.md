@@ -24,9 +24,17 @@ The following programme is tentative but we hope it helps with planning your att
 [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany) <br/>
 [*Towards Formally Designing Collective Adaptive Systems*](https://www.discotec.org/2019/keynotes#martin-wirsing-lmu-germany)
 
-## Joint session: best papers
+## Joint session: Best Papers
 
-TBA
+Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment <br/>
+*FOUGERE: User-Centric Location Privacy in Mobile Crowdsourcing Apps*
+
+G. Michele Pinna <br/>
+*Representing dependencies in Event Structures*
+
+Johannes Åman Pohjola <br/>
+*Psi-Calculi Revisited: Connectivity and Compositionality*
+
 
 ## Coordination accepted papers
 
