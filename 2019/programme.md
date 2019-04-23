@@ -26,12 +26,15 @@ The following programme is tentative but we hope it helps with planning your att
 
 ## Joint session: Best Papers
 
-Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment <br/>
-*FOUGERE: User-Centric Location Privacy in Mobile Crowdsourcing Apps*
-
+**Coordination Best Paper** <br/>
 G. Michele Pinna <br/>
 *Representing dependencies in Event Structures*
 
+**DAIS Best Paper** <br/>
+Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment <br/>
+*FOUGERE: User-Centric Location Privacy in Mobile Crowdsourcing Apps*
+
+**FORTE Best Paper** <br/>
 Johannes Åman Pohjola <br/>
 *Psi-Calculi Revisited: Connectivity and Compositionality*
 
