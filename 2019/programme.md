@@ -139,7 +139,7 @@ Stefano Bistarelli, Claudio Pannacci and Francesco Santini<br/>
 Christian Göttel, Pascal Felber and Valerio Schiavoni<br/>
 *Developing Secure Services for IoT with OP-TEE: A First Look at Performance and Usability*
 
-## FORTE accepted papers
+## FORTE accepted papers and tentative program
 
 ### Joint session: Best Papers
 
@@ -154,7 +154,7 @@ Thomas Hildebrandt, Hugo A. López, Tijs Slaats, Søren Debois and Marco Carbone
 *Declarative Choreographies and Liveness*
 
 Giorgio Audrito, Mirko Viroli, Ferruccio Damiani, Danilo Pianini and Jacob Beal <br/>
-*On a Higher-order Calculus of Computational Fields * (Journal-first)
+*On a Higher-order Calculus of Computational Fields* (Journal-first)
 
 ### FORTE Session #2: Automata
 Étienne André, Didier Lime and Mathias Ramparison <br/>
@@ -194,7 +194,7 @@ Dung Tran, Luan Nguyen, Patrick Musau, Weiming Xiang and Taylor T Johnson <br/>
 *Decentralized Real-Time Safety Verification for Distributed Cyber-Physical Systems*
 
 Kim Völlinger <br/>
-*On Certifying Distributed Algorithms: Problem of Local Correctness *
+*On Certifying Distributed Algorithms: Problem of Local Correctness*
 
 ### FORTE Session #6: Model Checking and Verification (II)
 
