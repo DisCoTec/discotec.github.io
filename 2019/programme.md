@@ -49,10 +49,10 @@ G. Michele Pinna <br/>
 Marco Autili, Amleto Di Salle, Francesco Gallo, Claudio Pompilio and Massimo Tivoli <br/>
 *CHOReVOLUTION: automating the realization of highly-collaborative distributed applications*
 
-Roberto Casadei, Mirko Viroli, Giorgio Audrito, Danilo Pianini and Ferruccio Damiani
+Roberto Casadei, Mirko Viroli, Giorgio Audrito, Danilo Pianini and Ferruccio Damiani <br/>
 *Aggregate Processes in Field Calculus*
 
-Giorgio Audrito, Jacob Beal, Ferrucciodi Damiani, Danilo Pianini and Mirko Viroli<br/>
+Giorgio Audrito, Jacob Beal, Ferrucciodi Damiani, Danilo Pianini and Mirko Viroli <br/>
 *The share operator for field-based coordination*
    
 ### Coordination Session #2
@@ -93,7 +93,7 @@ Wen Kokke, J. Garrett Morris and Philip Wadler <br/>
 Roberto Guanciale <br/>
 *DiRPOMS: automatic checker of Distributed Realizability of POMSets*
 
-Guillermina Cledou, Jose Proenca, Bernhard Sputh and Eric Verhulst <br/>
+Guillermina Cledou, Jose Proença, Bernhard Sputh and Eric Verhulst <br/>
 *Coordination of tasks on a Real-Time OS*
 
 
