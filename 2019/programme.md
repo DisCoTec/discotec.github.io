@@ -38,10 +38,64 @@ Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment <br/>
 Johannes Åman Pohjola <br/>
 *Psi-Calculi Revisited: Connectivity and Compositionality*
 
+## Coordination accepted papers and programme
 
-## Coordination accepted papers
+### Joint session: Best Papers
+G. Michele Pinna <br/>
+*Representing dependencies in Event Structures*
 
-TBA
+### Coordination Session #1
+
+Marco Autili, Amleto Di Salle, Francesco Gallo, Claudio Pompilio and Massimo Tivoli <br/>
+*CHOReVOLUTION: automating the realization of highly-collaborative distributed applications*
+
+Roberto Casadei, Mirko Viroli, Giorgio Audrito, Danilo Pianini and Ferruccio Damiani
+*Aggregate Processes in Field Calculus*
+
+Giorgio Audrito, Jacob Beal, Ferrucciodi Damiani, Danilo Pianini and Mirko Viroli<br/>
+*The share operator for field-based coordination*
+   
+### Coordination Session #2
+
+Jean-Marie Jacquet and Manel Barkallah <br/>
+*Scan : a Simple Coordination Workbench*
+
+Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo <br/>
+*Automating Quality-of-Service evaluation in Service-Oriented Computing*
+   
+### Coordination Session #3
+
+Rocco De Nicola, Tan Duong and Michele Loreti <br/>
+*ABEL - A domain specific framework for programming with attribute-based communication*
+
+Simon Bliudze, Ludovic Henrio and Eric Madelaine <br/>
+*Verification of concurrent design patterns with data*
+
+Hernán Melgratti, Claudio Antares Mezzina and Irek Ulidowski <br/>
+*Reversing P/T Nets*
+
+### Coordination Session #4
+
+Maurizio Gabbrielli, Saverio Giallorenzo, Ivan Lanese, Fabrizio Montesi, Marco Peressotti and Stefano Pio Zingaro <br/>
+*No more, no less: a formal model for Serverless Computing*
+
+Roberto Casadei, Danilo Pianini, Mirko Viroli and Antonio Natali <br/>
+*Self-organising Coordination Regions: a Pattern for Edge Computing*
+
+Davide Basile, Maurice H. ter Beek and Rosario Pugliese <br/>
+*Bridging the Gap between Supervisory Control and Coordination of Services: Synthesis of Orchestrations and Choreographies*
+
+### Coordination Session #5
+
+Wen Kokke, J. Garrett Morris and Philip Wadler <br/>
+*Towards Races in Linear Logic*
+
+Roberto Guanciale <br/>
+*DiRPOMS: automatic checker of Distributed Realizability of POMSets*
+
+Guillermina Cledou, Jose Proenca, Bernhard Sputh and Eric Verhulst <br/>
+*Coordination of tasks on a Real-Time OS*
+
 
 ## DAIS accepted papers and programme
 
