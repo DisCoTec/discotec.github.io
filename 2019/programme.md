@@ -123,7 +123,7 @@ István Hegedűs, Gábor Danner and Mark Jelasity<br/>
 ### DAIS Session #3
 
 Carlos Segarra, Ricard Delgado-Gonzalo, Mathieu Lemay, Pierre-Louis Aublin, Peter Pietzuch and Valerio Schiavoni<br/>
-*MedSpark: Using Trusted Execution Environments for Secure Stream Processing of Medical Data*
+*Using Trusted Execution Environments for Secure Stream Processing of Medical Data*
 
 Zoltán Szabó, Árpád Berta, Krisztián Téglás, Márk Jelasity and Vilmos Bilicki<br/>
 *Stunner: A Smart Phone Trace for Developing Decentralized Edge Systems*
