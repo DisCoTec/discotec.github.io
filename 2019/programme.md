@@ -54,7 +54,7 @@ Wen Kokke, J. Garrett Morris and Philip Wadler <br/>
 Giorgio Audrito, Jacob Beal, Ferrucciodi Damiani, Danilo Pianini and Mirko Viroli <br/>
 *The share operator for field-based coordination*
 
-### Coordination Session #2: tools 1
+### Coordination Session #2: Tools 1
 
 Jean-Marie Jacquet and Manel Barkallah <br/>
 *Scan : a Simple Coordination Workbench*
