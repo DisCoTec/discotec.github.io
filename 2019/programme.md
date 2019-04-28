@@ -44,51 +44,50 @@ Johannes Åman Pohjola <br/>
 G. Michele Pinna <br/>
 *Representing dependencies in Event Structures*
 
-### Coordination Session #1
+### Coordination Session #1: Computational models
+Hernán Melgratti, Claudio Antares Mezzina and Irek Ulidowski <br/>
+*Reversing P/T Nets*
 
-Marco Autili, Amleto Di Salle, Francesco Gallo, Claudio Pompilio and Massimo Tivoli <br/>
-*CHOReVOLUTION: automating the realization of highly-collaborative distributed applications*
-
-Roberto Casadei, Mirko Viroli, Giorgio Audrito, Danilo Pianini and Ferruccio Damiani <br/>
-*Aggregate Processes in Field Calculus*
+Wen Kokke, J. Garrett Morris and Philip Wadler <br/>
+*Towards Races in Linear Logic*
 
 Giorgio Audrito, Jacob Beal, Ferrucciodi Damiani, Danilo Pianini and Mirko Viroli <br/>
 *The share operator for field-based coordination*
-   
-### Coordination Session #2
+
+### Coordination Session #2: tools 1
 
 Jean-Marie Jacquet and Manel Barkallah <br/>
 *Scan : a Simple Coordination Workbench*
 
-Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo <br/>
-*Automating Quality-of-Service evaluation in Service-Oriented Computing*
+Marco Autili, Amleto Di Salle, Francesco Gallo, Claudio Pompilio and Massimo Tivoli <br/>
+*CHOReVOLUTION: automating the realization of highly-collaborative distributed applications*
    
-### Coordination Session #3
+### Coordination Session #3: Special topics
 
 Rocco De Nicola, Tan Duong and Michele Loreti <br/>
 *ABEL - A domain specific framework for programming with attribute-based communication*
 
-Simon Bliudze, Ludovic Henrio and Eric Madelaine <br/>
-*Verification of concurrent design patterns with data*
-
-Hernán Melgratti, Claudio Antares Mezzina and Irek Ulidowski <br/>
-*Reversing P/T Nets*
-
-### Coordination Session #4
+Davide Basile, Maurice H. ter Beek and Rosario Pugliese <br/>
+*Bridging the Gap between Supervisory Control and Coordination of Services: Synthesis of Orchestrations and Choreographies*
 
 Maurizio Gabbrielli, Saverio Giallorenzo, Ivan Lanese, Fabrizio Montesi, Marco Peressotti and Stefano Pio Zingaro <br/>
 *No more, no less: a formal model for Serverless Computing*
 
+### Coordination Session #4: Coordination patterns
+
+Simon Bliudze, Ludovic Henrio and Eric Madelaine <br/>
+*Verification of concurrent design patterns with data*
+
 Roberto Casadei, Danilo Pianini, Mirko Viroli and Antonio Natali <br/>
 *Self-organising Coordination Regions: a Pattern for Edge Computing*
 
-Davide Basile, Maurice H. ter Beek and Rosario Pugliese <br/>
-*Bridging the Gap between Supervisory Control and Coordination of Services: Synthesis of Orchestrations and Choreographies*
+Roberto Casadei, Mirko Viroli, Giorgio Audrito, Danilo Pianini and Ferruccio Damiani <br/>
+*Aggregate Processes in Field Calculus*
 
-### Coordination Session #5
+### Coordination Session #5: Tools 2
 
-Wen Kokke, J. Garrett Morris and Philip Wadler <br/>
-*Towards Races in Linear Logic*
+Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo <br/>
+*Automating Quality-of-Service evaluation in Service-Oriented Computing*
 
 Roberto Guanciale <br/>
 *DiRPOMS: automatic checker of Distributed Realizability of POMSets*
