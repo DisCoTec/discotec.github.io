@@ -105,7 +105,6 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Laura Bocchi (University of Kent, UK)
 * Chiara Bodei (Università di Pisa, Italy)
 * Roberto Bruni (Università di Pisa, Italy)
-* Javier Camara (CMU, USA)
 * Giovanna Di Marzo Serugendo (University of Geneva, Switzerland)
 * Fatemeh Ghassemi (University of Tehran, Iran)
 * Elisa Gonzalez Boix (VUB, Belgium)
