@@ -7,8 +7,6 @@ Coordination 2019 is one of the three conferences of [DisCoTec 2019](https://www
 
 ## Highlights
 
-* **[Programme](https://www.discotec.org/2019/programme)**
-
 * Two new categories of submissions added!
 ** **[special topics](#special-topics)**: we seek for contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
 ** **[tool papers](#tool-papers)**: we seek for video+paper submissions on tools related to coordination
@@ -22,6 +20,10 @@ See the [submission section](#submissions) below for details.
 * [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
 * [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
 * [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
+
+## Programme
+The programme is [here](https://www.discotec.org/2019/programme)**
+
 
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
