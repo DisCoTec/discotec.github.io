@@ -22,7 +22,7 @@ See the [submission section](#submissions) below for details.
 * [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
 
 ## Programme
-The programme is [here](https://www.discotec.org/2019/programme)**
+The programme is [here](https://www.discotec.org/2019/programme)
 
 
 ## Scope
