@@ -17,7 +17,7 @@ The increasing importance of communication makes sources of uncertainty to be in
 The workshop intends to discuss these topics with experts from industry and academia that have addressed these aspects in research and development projects. The workshop will feature 20'-30' minutes presentations  of this kind (see preliminary program below), as well as a final discussion.
 
 ## Call for contributions
-We invite everyone else interested in these topics to actively participate to the discussion with a short presentation (5 minutes) describing own research activity. Please send the organizers a title and an abstract by the 1st of May to the organizers. The proposals will be selected basing on relevance and time availability.
+We invite everyone else interested in these topics to actively participate to the discussion with a short presentation (5 minutes) describing own research activity. Please send the organizers a title and an abstract by the 10th of May to the organizers. The proposals will be selected basing on relevance and time availability.
 
 ## Important dates
 * May 1st, abstract submission
