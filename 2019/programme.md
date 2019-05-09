@@ -54,7 +54,7 @@ Johannes Åman Pohjola <br/>
 G. Michele Pinna <br/>
 *Representing dependencies in Event Structures*
 
-### Coordination Session #1: Computational models
+### Coordination Session #1: Computational models (session chair: TBD)
 Hernán Melgratti, Claudio Antares Mezzina and Irek Ulidowski <br/>
 *Reversing P/T Nets*
 
@@ -64,7 +64,7 @@ Wen Kokke, J. Garrett Morris and Philip Wadler <br/>
 Giorgio Audrito, Jacob Beal, Ferrucciodi Damiani, Danilo Pianini and Mirko Viroli <br/>
 *The share operator for field-based coordination*
 
-### Coordination Session #2: Tools 1
+### Coordination Session #2: Tools 1 (session chair: TBD)
 
 Jean-Marie Jacquet and Manel Barkallah <br/>
 *Scan : a Simple Coordination Workbench*
@@ -72,7 +72,7 @@ Jean-Marie Jacquet and Manel Barkallah <br/>
 Marco Autili, Amleto Di Salle, Francesco Gallo, Claudio Pompilio and Massimo Tivoli <br/>
 *CHOReVOLUTION: automating the realization of highly-collaborative distributed applications*
    
-### Coordination Session #3: Special topics
+### Coordination Session #3: Special topics (session chair: TBD)
 
 Rocco De Nicola, Tan Duong and Michele Loreti <br/>
 *ABEL - A domain specific framework for programming with attribute-based communication*
@@ -83,7 +83,7 @@ Davide Basile, Maurice H. ter Beek and Rosario Pugliese <br/>
 Maurizio Gabbrielli, Saverio Giallorenzo, Ivan Lanese, Fabrizio Montesi, Marco Peressotti and Stefano Pio Zingaro <br/>
 *No more, no less: a formal model for Serverless Computing*
 
-### Coordination Session #4: Coordination patterns
+### Coordination Session #4: Coordination patterns (session chair: TBD)
 
 Simon Bliudze, Ludovic Henrio and Eric Madelaine <br/>
 *Verification of concurrent design patterns with data*
@@ -94,7 +94,7 @@ Roberto Casadei, Danilo Pianini, Mirko Viroli and Antonio Natali <br/>
 Roberto Casadei, Mirko Viroli, Giorgio Audrito, Danilo Pianini and Ferruccio Damiani <br/>
 *Aggregate Processes in Field Calculus*
 
-### Coordination Session #5: Tools 2
+### Coordination Session #5: Tools 2 (session chair: TBD)
 
 Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo <br/>
 *Automating Quality-of-Service evaluation in Service-Oriented Computing*
@@ -112,7 +112,7 @@ Guillermina Cledou, Jose Proença, Bernhard Sputh and Eric Verhulst <br/>
 Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment <br/>
 *FOUGERE: User-Centric Location Privacy in Mobile Crowdsourcing Apps*
 
-### DAIS Session #1
+### DAIS Session #1 (session chair: TBD)
 Marius Shekow<br/>
 *Syncpal: A simple and iterative reconciliation algorithm for file synchronizers*
 
@@ -122,14 +122,14 @@ Lance Lebanoff, Christina Peterson and Damian Dechev<br/>
 Kevin De Porre, Florian Myter, Christophe De Troyer, Christophe Scholliers, Wolfgang De Meuter and Elisa Gonzalez Boix<br/>
 *Putting Order in Strong Eventual Consistency*
 
-### DAIS Session #2
+### DAIS Session #2 (session chair: TBD)
 Sam Van den Vonder, Joeri De Koster and Wolfgang De Meuter<br/>
 *Composable Actor Behaviour*
 
 István Hegedűs, Gábor Danner and Mark Jelasity<br/>
 *Gossip Learning as a Decentralized Alternative to Federated Learning*
 
-### DAIS Session #3
+### DAIS Session #3 (session chair: TBD)
 
 Carlos Segarra, Ricard Delgado-Gonzalo, Mathieu Lemay, Pierre-Louis Aublin, Peter Pietzuch and Valerio Schiavoni<br/>
 *Using Trusted Execution Environments for Secure Stream Processing of Medical Data*
@@ -137,7 +137,7 @@ Carlos Segarra, Ricard Delgado-Gonzalo, Mathieu Lemay, Pierre-Louis Aublin, Pete
 Zoltán Szabó, Árpád Berta, Krisztián Téglás, Márk Jelasity and Vilmos Bilicki<br/>
 *Stunner: A Smart Phone Trace for Developing Decentralized Edge Systems*
 
-### DAIS Session #4
+### DAIS Session #4 (session chair: TBD)
 
 Julien Amacher and Valerio Schiavoni<br/>
 *On The Performance of ARM TrustZone*
@@ -155,7 +155,7 @@ Christian Göttel, Pascal Felber and Valerio Schiavoni<br/>
 Johannes Åman Pohjola <br/>
 *Psi-Calculi Revisited: Connectivity and Compositionality*
 
-### FORTE Session #1: Calculi and Languages
+### FORTE Session #1: Calculi and Languages (session chair: TBD)
 Ivan Lanese, Adrian Palacios and German Vidal <br/>
 *Causal-Consistent Replay Debugging for Message Passing Programs*
 
@@ -165,14 +165,14 @@ Thomas Hildebrandt, Hugo A. López, Tijs Slaats, Søren Debois and Marco Carbone
 Giorgio Audrito, Mirko Viroli, Ferruccio Damiani, Danilo Pianini and Jacob Beal <br/>
 *On a Higher-order Calculus of Computational Fields* (Journal-first)
 
-### FORTE Session #2: Automata
+### FORTE Session #2: Automata (session chair: TBD)
 Étienne André, Didier Lime and Mathias Ramparison <br/>
 *Parametric updates in parametric timed automata*
 
 The Anh Pham, Thierry Jéron and Martin Quinson <br/>
 *Unfolding-based Dynamic Partial Order Reduction of Asynchronous Distributed Programs*
 
-### FORTE Session #3: Security
+### FORTE Session #3: Security (session chair: TBD)
 
 Cristian Ene, Mounier Laurent and Marie-Laure Potet <br/>
 *Output-sensitive Information flow analysis*
@@ -183,7 +183,7 @@ Chandrika Bhardwaj and Sanjiva Prasad <br/>
 Stefano Calzavara, Alvise Rabitti and Michele Bugliesi <br/>
 *Semantically sound analysis of content security policies* (Journal-first)
 
-### FORTE Session #4: Components and Software Architectures
+### FORTE Session #4: Components and Software Architectures (session chair: TBD)
 
 Alexander Graf-Brill and Holger Hermanns <br/>
 *Component-aware Input-Output Conformance*
@@ -194,7 +194,7 @@ Jean-Bernard Stefani and Martin Vassor <br/>
 Diego Marmsoler <br/>
 *Towards Verified Blockchain Architectures: A Case Study on Interactive Architecture Verification*
 
-### FORTE Session #5: Model Checking and Verification (I)
+### FORTE Session #5: Model Checking and Verification (I) (session chair: TBD)
 
 Ran Bao, Christian Attiogbe, Benoit Delahaye, Paulin Fournier and Didier Lime <br/>
 *Parametric statistical model checking of UAV flight plan*
@@ -205,7 +205,7 @@ Dung Tran, Luan Nguyen, Patrick Musau, Weiming Xiang and Taylor T Johnson <br/>
 Kim Völlinger <br/>
 *On Certifying Distributed Algorithms: Problem of Local Correctness*
 
-### FORTE Session #6: Model Checking and Verification (II)
+### FORTE Session #6: Model Checking and Verification (II) (session chair: TBD)
 
 Maurice Laveaux, Jan Friso Groote and Tim A.C. Willemse <br/>
 *Correct and Efficient Antichain Algorithms for Refinement Checking*
