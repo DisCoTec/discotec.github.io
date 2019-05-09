@@ -9,10 +9,10 @@ All sessions from Monday to Thursday will take place at [DTU's Meeting Center](h
 
 - Joint sessions: Building 101, conference room M1, 1st floor.
 - Coordination: Building 101, room S09, ground flor.
-- DAIS: Building 101, room S01, ground flor.
-- FORTE: Building 101, room M1, ground flor.
-- DisCoRail: Building 101, room S01, ground flor.
-- ICE: Building 101, room S01, ground flor (Thursday) and Building 324, room 240, 2nd flor (Friday).
+- DAIS: Building 101, room S01, ground floor.
+- FORTE: Building 101, room M1, 1st floor.
+- DisCoRail: Building 101, room S01, ground floor.
+- ICE: Building 101, room S01, ground flor (Thursday) and Building 324, room 240, 2nd floor (Friday).
 - Coffee breaks: Building 101, foyer (right outside conference room M1), 1st floor.
 
 Details about the rooms are available [here](https://www.dtu.dk/english/About/CAMPUSES/DTU-LYNGBY-Campus/DTU-Meeting-Centre/oversigt).
