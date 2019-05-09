@@ -92,6 +92,9 @@ The individual conferences will organise special issues of extended and selected
 
 Go to the [registration page](https://www.discotec.org/2019/registration).
 
+## Social Event
+Information will follow.
+
 ## Accommodation and local information
 
 Hotels in Copenhagen (recommended)
