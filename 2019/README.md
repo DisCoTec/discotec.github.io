@@ -36,6 +36,13 @@ See [titles and abstracts](./keynotes).
 ## Programme
 The programme is available [here](programme). 
 
+## Registration
+
+Go to the [registration page](https://www.discotec.org/2019/registration).
+
+## Social Event
+Information will follow.
+
 ## Location
 
 [DTU Lyngby](https://www.google.com/maps/place/Danmarks+Tekniske+Universitet/@55.7855742,12.5191923,17z/data=!3m1!4b1!4m5!3m4!1s0x46524e6328b8bd5d:0xcf045cde0449c6c5!8m2!3d55.7855742!4d12.521381), 2800 Kongens Lyngby, Denmark
@@ -46,8 +53,8 @@ All sessions from Monday to Thursday will take place at [DTU's Meeting Center](h
 [DisCoTec 2019 Flyer](DisCoTec2019-flyer.pdf) 
 
 ## Organising Committee
-* [Alberto Lluch Lafuente](http://www.imm.dtu.dk/~albl/) (DTU, Denmark -- General chair)
-* Kiko Fernández-Reyes (Uppsala University — Publicity chair)
+* [Alberto Lluch Lafuente](http://www.imm.dtu.dk/~albl/) (DTU, Denmark - General chair)
+* Kiko Fernández-Reyes (Uppsala University - Publicity chair)
 * Francesco Tiezzi (University of Camerino — Publicity chair)
 * Andrea Vandin (DTU, Denmark — Workshops chair)
 * Maurice ter Beek (CNR, Italy — Workshops chair)
@@ -74,7 +81,6 @@ All sessions from Monday to Thursday will take place at [DTU's Meeting Center](h
 * Gianluigi Zavattaro (University of Bologna, Italy)
 
 ## Advisory board
-
 * Alain Girault (INRIA Grenoble, France)
 * Uwe Nestmann (TU Berlin, Germany)
 * Michele Loreti (University of Camerino, Italy)
@@ -90,13 +96,6 @@ The proceedings of the conference are planned to be published in [LNCS-IFIP](htt
 
 ## Special issues
 The individual conferences will organise special issues of extended and selected papers in reputable journal such as [Logical Methods in Computer Science](https://lmcs.episciences.org).
-
-## Registration
-
-Go to the [registration page](https://www.discotec.org/2019/registration).
-
-## Social Event
-Information will follow.
 
 ## Accommodation and local information
 
