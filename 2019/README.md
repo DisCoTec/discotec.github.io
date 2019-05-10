@@ -34,7 +34,7 @@ See [titles and abstracts](./keynotes).
 * ICE workshop: Thursday June 20 - Friday June 21, 2019
 
 ## Programme
-A tentative scheme for the programme is available [here](programme). 
+The programme is available [here](programme). 
 
 ## Location
 
