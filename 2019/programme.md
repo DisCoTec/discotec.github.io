@@ -20,7 +20,7 @@ Details about the rooms are available [here](https://www.dtu.dk/english/About/CA
 ## Keynotes
 
 [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland) <br/>
-[*Model Checking Standards*](https://www.discotec.org/2019/keynotes#david-basin-eth-z%C3%BCrich-switzerland)
+[*Security Protocols: Model Checking Standards*](https://www.discotec.org/2019/keynotes#david-basin-eth-z%C3%BCrich-switzerland)
 
 [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France) <br/>
 [*Making Sense of Fast Big Data*](https://www.discotec.org/2019/keynotes#anne-marie-kermarrec-inria-rennes-france)
