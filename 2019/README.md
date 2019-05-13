@@ -49,6 +49,7 @@ On Wednesday 19th of June we will have the DisCoTec 2019 social event in downtow
 
 #### Boat Trip
 * We will meet at 18:00 in Nyhavnsbroen [see in Google maps](https://goo.gl/maps/FdGLfMTVpQJuLi8q9)
+* From DTU, we suggest to reach Nørreport station using public transportation. From there, it is a pleasant 15 minutes walk  across the city center of Copenhagen [see the path in Google maps](https://goo.gl/maps/tyDPESMjCu5D9YpE8) - Alternatively, from Nørreport station you can switch on a metro towards Kongens Nytorv.
 * The boat trip will terminate at 19:15 in  Christianshavns Torv [see in Google maps](https://goo.gl/maps/fWVvuvAxJmZJxop58)
 
 #### Social Dinner
