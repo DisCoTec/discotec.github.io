@@ -34,6 +34,7 @@ See [titles and abstracts](./keynotes).
 * ICE workshop: Thursday June 20 - Friday June 21, 2019
 
 ## Programme
+
 The programme is available [here](programme). 
 
 ## Registration
@@ -41,7 +42,19 @@ The programme is available [here](programme).
 Go to the [registration page](https://www.discotec.org/2019/registration).
 
 ## Social Event
-Information will follow.
+
+On Wednesday 19th of June we will have the DisCoTec 2019 social event in downtown Copenhagen consisting of:
+* A boat trip in the beautiful Copenhagen canals
+* A social dinner with welcome drink and open bar in a traditional Danish restaurant
+
+#### Boat Trip
+* We will meet at 18:00 in Nyhavnsbroen [see in Google maps](https://goo.gl/maps/FdGLfMTVpQJuLi8q9)
+* The boat trip will terminate at 19:15 in  Christianshavns Torv [see in Google maps](https://goo.gl/maps/fWVvuvAxJmZJxop58)
+
+#### Social Dinner
+* The dinner will start at 19:30 in the restaurant [Ravelinen](https://ravelinen.dk/)
+* It is at 5 minutes walking from the destination of the boat trip [see path in Google maps](https://goo.gl/maps/LeAmZNNo7tUp2eqy7)
+
 
 ## Location
 
