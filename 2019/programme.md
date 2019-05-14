@@ -155,17 +155,17 @@ Christian Göttel, Pascal Felber and Valerio Schiavoni<br/>
 Johannes Åman Pohjola <br/>
 *Psi-Calculi Revisited: Connectivity and Compositionality*
 
-### FORTE Session #1: Calculi and Languages (session chair: TBD)
+### FORTE Session #1: Calculi, Languages, and Components (session chair: Jorge A. Pérez)
 Ivan Lanese, Adrian Palacios and German Vidal <br/>
 *Causal-Consistent Replay Debugging for Message Passing Programs*
 
 Thomas Hildebrandt, Hugo A. López, Tijs Slaats, Søren Debois and Marco Carbone <br/>
 *Declarative Choreographies and Liveness*
 
-Giorgio Audrito, Mirko Viroli, Ferruccio Damiani, Danilo Pianini and Jacob Beal <br/>
-*On a Higher-order Calculus of Computational Fields* (Journal-first)
+Alexander Graf-Brill and Holger Hermanns <br/>
+*Component-aware Input-Output Conformance*
 
-### FORTE Session #2: Automata (session chair: TBD)
+### FORTE Session #2: Automata (session chair: Thomas Hildebrandt)
 Étienne André, Didier Lime and Mathias Ramparison <br/>
 *Parametric updates in parametric timed automata*
 
@@ -183,10 +183,10 @@ Chandrika Bhardwaj and Sanjiva Prasad <br/>
 Stefano Calzavara, Alvise Rabitti and Michele Bugliesi <br/>
 *Semantically sound analysis of content security policies* (Journal-first)
 
-### FORTE Session #4: Components and Software Architectures (session chair: TBD)
+### FORTE Session #4: Software Architectures (session chair: TBD)
 
-Alexander Graf-Brill and Holger Hermanns <br/>
-*Component-aware Input-Output Conformance*
+Giorgio Audrito, Mirko Viroli, Ferruccio Damiani, Danilo Pianini and Jacob Beal <br/>
+*On a Higher-order Calculus of Computational Fields* (Journal-first)
 
 Jean-Bernard Stefani and Martin Vassor <br/>
 *Encapsulation and Sharing in Dynamic Software Architectures: The Hypercell Framework*
