@@ -11,14 +11,14 @@
 research issues. DisCoTec 2019 will take place at the [Technical University of Denmark](http://www.dtu.dk) in June 17-21, 2019.
 
 ## Conferences
-* [Coordination 2019](coordination) - International Conference on Coordination Models and Languages
-* [DAIS 2019](dais) - International Conference on Distributed Applications and Interoperable Systems
-* [FORTE 2019](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+* [Coordination 2019](https://www.discotec.org/2019/coordination) - International Conference on Coordination Models and Languages
+* [DAIS 2019](https://www.discotec.org/2019/dais) - International Conference on Distributed Applications and Interoperable Systems
+* [FORTE 2019](https://www.discotec.org/2019/forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 ## Satellite Events
-* [ICE 2019](ice) - Interaction and Concurrency Experience
-* [DisCoRail 2019](discorail) - International Workshop on Distributed Computing in Future Railway Systems
-* [Workshop, tutorial and tool tracks](satellite-events) - CFP for workhops, tutorial and tool tracks
+* [ICE 2019](https://www.discotec.org/2019/ice) - Interaction and Concurrency Experience
+* [DisCoRail 2019](https://www.discotec.org/2019/discorail) - International Workshop on Distributed Computing in Future Railway Systems
+* [Workshop, tutorial and tool tracks](https://www.discotec.org/2019/satellite-events) - CFP for workhops, tutorial and tool tracks
 
 ## Keynote Speakers
 * [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
@@ -40,7 +40,7 @@ See [titles and abstracts](./keynotes).
 
 ## Programme
 
-The programme is available [here](programme). 
+The programme is available [here](https://www.discotec.org/2019/programme). 
 
 ## Registration
 
