@@ -216,37 +216,37 @@ Karine Altisen, Pierre Corbineau and Stéphane Devismes <br/>
 Jannik Hüls and Anne Remke <br/>
 *Model checking HPnGs in multiple dimensions: representing state sets as convex polytopes*
 
-### DAIS Programme
+### DisCoRail Programme
 
-## 9:00-9:15 Registration
+#### 9:00-9:15 Registration
 
-## 9:15-10:45 Distributed Interlocking 
+#### 9:15-10:45 Distributed Interlocking 
 Jan Peleska, University of Bremen, Germany: New Distribution Paradigms for Railway Interlocking <br/>
 Signe Geisler, DTU Compute, Denmark: Stepwise Development and Model Checking of a Distributed Interlocking System - Using RAISE <br/>
 Per Lange Laursen and Van Anh Thi Trinh, DTU Compute, Denmark: Modelling and Verification of a Distributed Interlocking System - Using UPPAAL and UMC <br/>
 Paulius Stankaitis, Formal distributed protocol development for reservation of railway subsections <br/>
 
-## 10:45-11:10 Coffee break  
+#### 10:45-11:10 Coffee break  
 
 ## 11:10-12:00 Formal methods and tools 
 Thierry Lecomte, Clearsy, France: Formal Techniques for Safer Signalling Systems <br/>
 Anne Haxthausen, the RobustRailS tool set <br/>
 
-## 12.00-13:10 Lunch 
+#### 12.00-13:10 Lunch 
 
-## 13:10-14:10 Security and Blockchain technology  
+#### 13:10-14:10 Security and Blockchain technology  
 Jens Braband, Siemens Mobility GmbH, Germany: A Survey of Cybersecurity in Signaling <br/>
 Michael Kuperberg, Deutsche Bahn Systel Gmbh, Germany: Towards a Systematic Selection of a Blockchain Implementation for a Decentralized Rail Control System <br/>
 
-## 14:10-14:35 Coffee break  
+#### 14:10-14:35 Coffee break  
 
-## 14:35-16:15 Moving block, Virtual coupling and positioning systems  
+#### 14:35-16:15 Moving block, Virtual coupling and positioning systems  
 Francesco Flammini, Linnæus University, Sweden: Towards Railway Virtual Coupling <br/>
 Davide Basile, Univ. of Florence, Italy, Statistical model checking of hazards in an autonomous tramway positioning system <br/>
 Franco Mazzanti, ISTI-CNR, Italy, Modelling a Moving Block train control system: different techniques and tools <br/>
 Markus Roggenbach, Comparison of modelling ERTMS level 3 in Uppaal, Real-Time Maude, and Keymaera <br/>
 
-## 16:15-16:45 Discussions 
+#### 16:15-16:45 Discussions 
 
 
 
