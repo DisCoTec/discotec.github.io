@@ -221,30 +221,50 @@ Jannik Hüls and Anne Remke <br/>
 #### 9:00-9:15 Registration
 
 #### 9:15-10:45 Distributed Interlocking 
-Jan Peleska, University of Bremen, Germany: New Distribution Paradigms for Railway Interlocking <br/>
-Signe Geisler, DTU Compute, Denmark: Stepwise Development and Model Checking of a Distributed Interlocking System - Using RAISE <br/>
-Per Lange Laursen and Van Anh Thi Trinh, DTU Compute, Denmark: Modelling and Verification of a Distributed Interlocking System - Using UPPAAL and UMC <br/>
-Paulius Stankaitis, Formal distributed protocol development for reservation of railway subsections <br/>
+Jan Peleska, University of Bremen, Germany <br/>
+*New Distribution Paradigms for Railway Interlocking*
+
+Signe Geisler, DTU Compute, Denmark <br/>
+*Stepwise Development and Model Checking of a Distributed Interlocking System - Using RAISE*
+
+Per Lange Laursen and Van Anh Thi Trinh, DTU Compute, Denmark <br/>
+*Modelling and Verification of a Distributed Interlocking System - Using UPPAAL and UMC*
+
+Paulius Stankaitis <br/>
+*Formal distributed protocol development for reservation of railway subsections*
 
 #### 10:45-11:10 Coffee break  
 
-## 11:10-12:00 Formal methods and tools 
-Thierry Lecomte, Clearsy, France: Formal Techniques for Safer Signalling Systems <br/>
-Anne Haxthausen, the RobustRailS tool set <br/>
+#### 11:10-12:00 Formal methods and tools 
+Thierry Lecomte, Clearsy, France <br/>
+*Formal Techniques for Safer Signalling Systems*
+
+Anne Haxthausen <br/>
+*The RobustRailS tool set*
 
 #### 12.00-13:10 Lunch 
 
 #### 13:10-14:10 Security and Blockchain technology  
-Jens Braband, Siemens Mobility GmbH, Germany: A Survey of Cybersecurity in Signaling <br/>
-Michael Kuperberg, Deutsche Bahn Systel Gmbh, Germany: Towards a Systematic Selection of a Blockchain Implementation for a Decentralized Rail Control System <br/>
+Jens Braband, Siemens Mobility GmbH, Germany <br/>
+*A Survey of Cybersecurity in Signaling*
+
+Michael Kuperberg, Deutsche Bahn Systel Gmbh, Germany <br/>
+*Towards a Systematic Selection of a Blockchain Implementation for a Decentralized Rail Control System*
 
 #### 14:10-14:35 Coffee break  
 
 #### 14:35-16:15 Moving block, Virtual coupling and positioning systems  
-Francesco Flammini, Linnæus University, Sweden: Towards Railway Virtual Coupling <br/>
-Davide Basile, Univ. of Florence, Italy, Statistical model checking of hazards in an autonomous tramway positioning system <br/>
-Franco Mazzanti, ISTI-CNR, Italy, Modelling a Moving Block train control system: different techniques and tools <br/>
-Markus Roggenbach, Comparison of modelling ERTMS level 3 in Uppaal, Real-Time Maude, and Keymaera <br/>
+Francesco Flammini, Linnæus University, Sweden <br/>
+*Towards Railway Virtual Coupling*
+
+Davide Basile, Univ. of Florence, Italy <br/>
+*Statistical model checking of hazards in an autonomous tramway positioning system*
+
+Franco Mazzanti, ISTI-CNR, Italy <br/>
+*Modelling a Moving Block train control system: different techniques and tools*
+
+Markus Roggenbach <br/>
+*Comparison of modelling ERTMS level 3 in Uppaal, Real-Time Maude, and Keymaera*
 
 #### 16:15-16:45 Discussions 
 
