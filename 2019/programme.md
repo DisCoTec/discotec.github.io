@@ -17,6 +17,7 @@ All sessions from Monday to Thursday will take place at [DTU's Meeting Center](h
 
 Details about the rooms are available [here](https://www.dtu.dk/english/About/CAMPUSES/DTU-LYNGBY-Campus/DTU-Meeting-Centre/oversigt).
 
+## Location
 Information about the social event are given in the [main page](https://www.discotec.org/2019/)
 
 ## Keynotes
