@@ -88,6 +88,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Sophia Knight (University of Minnesota Duluth, USA)
   * Hernán Melgratti (University of Buenos Aires - Conicet, AR)
 
+See [titles and abstracts](./ice-keynotes).
 
 ## Programme Committee
 
