@@ -4,7 +4,7 @@
 
 ## [Fritz Henglein](http://hjemmesider.diku.dk/~henglein/) (University of Copenhagen and Deon Digital)
 
-<img src="https://inf.ethz.ch/content/specialinterest/infk/department/en/people/person-detail.person_image.jpeg?persid=MTEwNDA0" alt=""  height="300">
+<img src="img/Henglein.jpg" alt=""  height="300">
 
 **Title**: Smart digital contracts
 
