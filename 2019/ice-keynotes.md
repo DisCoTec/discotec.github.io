@@ -2,9 +2,21 @@
 
 # [DisCoTec 2019](https://www.discotec.org/2019)  - ICE Keynotes
 
+
+## [Dilian Gurov](https://www.csc.kth.se/~dilian/) (KTH, SE)
+
+<img src="img/Gurov.jpg" alt="" height="300">
+
+**Title**: Program Models for Compositional Verification 
+
+**Abstract**: Verification of procedural programs typically faces the problem of scalability. To tackle this problem, most tools for deductive verification are procedure-modular: every procedure is verified separately, in isolation, relying on the contracts of the procedures it calls. For temporal properties, however, modularity poses certain difficulties. In this talk we will show how procedure modularity can be achieved by using a program model called flow graphs. Flow graphs can be extracted from program code, but can also be constructed from logical specifications. In a first instalment of the framework, flow graphs will only model the control flow of programs. Extending the framework to also represent program data will lead us to use the concept of action, which in this context refers to a state change specified in logic. We will see that a similar approach allows us to also deal with concurrent programs, where actions model exclusive accesses to shared memory. 
+
+**Bio**: Dilian Gurov received his PhD in 1998 from the University of Victoria, Canada, where he worked on compositional model checking of process-algebra models against specifications written in the modal mu-calculus. During his postdoc stay in Stockholm he continued this line of research, targeting the verification of Erlang programs. After joining KTH Royal Institute of Technology in 2002, Dilian has worked on a number of topics. His main body of work lies in the area of compositional and procedure-modular verification of programs with procedures. In particular, he developed a technique based on maximal models, which allows temporal properties of a program to be verified relative to the local temporal properties of its procedures. More recently, Dilian is working on contract theories for software specification and verification, within a collaboration with Scania on verifying automotive embedded C code.
+
+
 ## [Fritz Henglein](http://hjemmesider.diku.dk/~henglein/) (University of Copenhagen and Deon Digital, DK)
 
-<img src="img/Henglein.jpg" alt=""  height="300">
+<img src="img/Henglein.jpg" alt="" height="300">
 
 **Title**: Smart digital contracts
 
@@ -15,7 +27,7 @@
 
 ## [Hernan Melgratti](http://lafhis.dc.uba.ar/en/~melgratti) (University of Buenos Aires - Conicet, AR)
 
-<img src="img/Melgratti.png" alt=""  height="300">
+<img src="img/Melgratti.png" alt="" height="300">
 
 **Title**: Petri nets, Probabilities and Bayesian reasoning
 
