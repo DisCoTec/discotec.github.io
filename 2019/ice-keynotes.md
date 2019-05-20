@@ -15,7 +15,7 @@
 
 ## [Hernan Melgratti](http://lafhis.dc.uba.ar/en/~melgratti) (University of Buenos Aires - Conicet, AR)
 
-<img src="img/Melgratti.jpg" alt=""  height="300">
+<img src="img/Melgratti.png" alt=""  height="300">
 
 **Title**: Petri nets, Probabilities and Bayesian reasoning
 
