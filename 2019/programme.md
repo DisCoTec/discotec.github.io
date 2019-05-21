@@ -151,7 +151,7 @@ Stefano Bistarelli, Claudio Pannacci and Francesco Santini<br/>
 Christian Göttel, Pascal Felber and Valerio Schiavoni<br/>
 *Developing Secure Services for IoT with OP-TEE: A First Look at Performance and Usability*
 
-## FORTE accepted papers and tentative program
+## FORTE program
 
 ### Joint session: Best Papers
 
@@ -208,7 +208,7 @@ Dung Tran, Luan Nguyen, Patrick Musau, Weiming Xiang and Taylor T Johnson <br/>
 Kim Völlinger <br/>
 *On Certifying Distributed Algorithms: Problem of Local Correctness*
 
-### FORTE Session #6: Model Checking and Verification (II) (session chair: TBD)
+### FORTE Session #6: Model Checking and Verification (II) (session chair: Sophia Knight)
 
 Maurice Laveaux, Jan Friso Groote and Tim A.C. Willemse <br/>
 *Correct and Efficient Antichain Algorithms for Refinement Checking*
