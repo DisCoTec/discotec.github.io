@@ -234,7 +234,7 @@ Signe Geisler, DTU Compute, Denmark <br/>
 Per Lange Laursen and Van Anh Thi Trinh, DTU Compute, Denmark <br/>
 *Modelling and Verification of a Distributed Interlocking System - Using UPPAAL and UMC*
 
-Paulius Stankaitis <br/>
+Paulius Stankaitis, Newcastle University, UK <br/>
 *Formal distributed protocol development for reservation of railway subsections*
 
 #### 10:45-11:10 Coffee break  
@@ -243,7 +243,7 @@ Paulius Stankaitis <br/>
 Thierry Lecomte, Clearsy, France <br/>
 *Formal Techniques for Safer Signalling Systems*
 
-Anne Haxthausen <br/>
+Anne Haxthausen, DTU VCompute, Denmark <br/>
 *The RobustRailS tool set*
 
 #### 12.00-13:10 Lunch 
@@ -267,7 +267,7 @@ Davide Basile, Univ. of Florence, Italy <br/>
 Franco Mazzanti, ISTI-CNR, Italy <br/>
 *Modelling a Moving Block train control system: different techniques and tools*
 
-Markus Roggenbach <br/>
+Markus Roggenbach, Swansea University, UK <br/>
 *Comparison of modelling ERTMS level 3 in Uppaal, Real-Time Maude, and Keymaera*
 
 #### 16:15-16:45 Discussions 
