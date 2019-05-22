@@ -219,7 +219,8 @@ Karine Altisen, Pierre Corbineau and Stéphane Devismes <br/>
 Jannik Hüls and Anne Remke <br/>
 *Model checking HPnGs in multiple dimensions: representing state sets as convex polytopes*
 
-### DisCoRail Programme
+### DisCoRail Programme (Monday 17 June)
+(see abstracts, coauthors and details [here](https://www.discotec.org/2019/DisCoRailAbstracts.pdf))
 
 #### 9:00-9:15 Registration
 
