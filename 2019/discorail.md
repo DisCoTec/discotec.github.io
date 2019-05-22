@@ -14,7 +14,7 @@ Several foreseen advances envisage a more dynamic network connection among mobil
 
 The increasing importance of communication makes sources of uncertainty to be increasingly present in a railway control system: safety in presence of distribution, mobility, uncertainty is currently one of the research challenges in the domain. Cybersecurity is also another main issue induced by communication-based control schemes.
 
-The workshop intends to discuss these topics with experts from industry and academia that have addressed these aspects in research and development projects. The workshop will feature regular presentations and short 5' pitches (see the program in the [main conference program page](https://www.discotec.org/2019/programme), and the [abstracts page](https://github.com/DisCoTec/discotec.github.io/blob/master/2019/DisCoRailAbstracts.pdf) ), as well as a final discussion.
+The workshop intends to discuss these topics with experts from industry and academia that have addressed these aspects in research and development projects. The workshop will feature regular presentations and short 5' pitches (see the program in the [main conference program page](https://www.discotec.org/2019/programme), and the [abstracts page](https://www.discotec.org/2019/DisCoRailAbstracts.pdf) ), as well as a final discussion.
 
 The workshop will continue over a dinner place, for those who are willing to taste some Danish cuisine and are able to stay overnight after the workshop (see [registration](https://www.discotec.org/2019/#registration) for details) 
 
