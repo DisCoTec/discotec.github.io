@@ -268,7 +268,7 @@ Franco Mazzanti, ISTI-CNR, Italy <br/>
 *Modelling a Moving Block train control system: different techniques and tools*
 
 Markus Roggenbach, Swansea University, UK <br/>
-*Comparison of modelling ERTMS level 3 in Uppaal, Real-Time Maude, and Keymaera*
+*Modelling and Verification of ERTMS – A Comparison of KeYmaera, Real-Time Maude, and UPPAAL*
 
 #### 16:15-16:45 Discussions 
 
