@@ -14,14 +14,10 @@ Several foreseen advances envisage a more dynamic network connection among mobil
 
 The increasing importance of communication makes sources of uncertainty to be increasingly present in a railway control system: safety in presence of distribution, mobility, uncertainty is currently one of the research challenges in the domain. Cybersecurity is also another main issue induced by communication-based control schemes.
 
-The workshop intends to discuss these topics with experts from industry and academia that have addressed these aspects in research and development projects. The workshop will feature 20'-30' minutes presentations  of this kind (see preliminary program below), as well as a final discussion.
+The workshop intends to discuss these topics with experts from industry and academia that have addressed these aspects in research and development projects. The workshop will feature regular presentations and short 5' pitches (see the program in the [main conference program page](https://www.discotec.org/2019/programme), and the [abstracts page] (https://github.com/DisCoTec/discotec.github.io/blob/master/2019/DisCoRailAbstracts.pdf) ), as well as a final discussion.
 
-## Call for contributions
-We invite everyone else interested in these topics to actively participate to the discussion with a short presentation (5 minutes) describing own research activity. Please send the organizers a title and an abstract by the 10th of May to the organizers. The proposals will be selected basing on relevance and time availability.
+The workshop will continue over a dinner place, for those who are willing to taste some Danish cuisine and are able to stay overnight after the workshop (see [registration](https://www.discotec.org/2019/#registration) for details) 
 
-## Important dates
-* May 1st, abstract submission
-* June 17th, workshop
 
 ## Publications
 We are currently studying the possibility to publish post-proceedings of the workshop as a special issue of a scientific journal or in a volume of Springer Lecture Notes in Computer Science.
@@ -43,17 +39,6 @@ Technical University of Denmark<br/>
 DK-2800 Lyngby - Denmark<br/>
 aeha@dtu.dk
 
-## Preliminary program:
-* Thierry Lecomte, Clearsy, France: Formal Techniques for Safer Signalling Systems
-* Jens Braband, Siemens Mobility GmbH, Germany: A survey of Cybersecurity in Signaling
-* Jan Peleska, University of Bremen, Germany: New Distribution Paradigms for Railway Interlocking
-* Michael Kuperberg, Deutsche Bahn Systel Gmbh, Germany: Towards a Systematic Selection of a Blockchain Implementation for a Decentralized Rail Control System
-* Franco Mazzanti, ISTI-CNR, Italy, Modelling a Moving Block train control system: different techniques and tools
-* Francesco Flammini, Linnæus University, Sweden: Towards Railway Virtual Coupling
-* Davide Basile, Univ. of Florence, Italy, Statistical model checking of hazards in an autonomous tramway positioning system
-* Signe Geisler, DTU Compute, Denmark: Stepwise Development and Model Checking of a Distributed Interlocking
-System - Using RAISE
-* Per Lange Laursen and Van Anh Thi Trinh, DTU Compute, Denmark: Modelling and Verification of a Distributed Interlocking System - Using UPPAAL and UMC
 
 The workshop will continue over a dinner place, for those who are willing to taste some Danish cuisine and are able to stay overnight after the workshop (see [registration](https://www.discotec.org/2019/#registration) for details) 
 
