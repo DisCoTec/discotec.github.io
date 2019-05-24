@@ -64,7 +64,7 @@ Hernán Melgratti, Claudio Antares Mezzina and Irek Ulidowski <br/>
 Wen Kokke, J. Garrett Morris and Philip Wadler <br/>
 *Towards Races in Linear Logic*
 
-Giorgio Audrito, Jacob Beal, Ferrucciodi Damiani, Danilo Pianini and Mirko Viroli <br/>
+Giorgio Audrito, Jacob Beal, Ferruccio Damiani, Danilo Pianini and Mirko Viroli <br/>
 *The share operator for field-based coordination*
 
 ### Coordination Session #2: Tools 1 (session chair: TBD)
@@ -243,7 +243,7 @@ Paulius Stankaitis, Newcastle University, UK <br/>
 Thierry Lecomte, Clearsy, France <br/>
 *Formal Techniques for Safer Signalling Systems*
 
-Anne Haxthausen, DTU VCompute, Denmark <br/>
+Anne Haxthausen, DTU Compute, Denmark <br/>
 *The RobustRailS tool set*
 
 #### 12.00-13:10 Lunch 
