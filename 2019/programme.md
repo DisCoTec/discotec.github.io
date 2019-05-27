@@ -45,6 +45,9 @@ G. Michele Pinna <br/>
 *Representing dependencies in Event Structures*
 
 ### Coordination Session #1: Computational models
+
+#### Chair: Emilio Tuosto
+
 Hernán Melgratti, Claudio Antares Mezzina and Irek Ulidowski <br/>
 *Reversing P/T Nets*
 
@@ -56,6 +59,8 @@ Giorgio Audrito, Jacob Beal, Ferrucciodi Damiani, Danilo Pianini and Mirko Virol
 
 ### Coordination Session #2: Tools 1
 
+#### Chair: Omar Inverso
+
 Jean-Marie Jacquet and Manel Barkallah <br/>
 *Scan : a Simple Coordination Workbench*
 
@@ -64,16 +69,17 @@ Marco Autili, Amleto Di Salle, Francesco Gallo, Claudio Pompilio and Massimo Tiv
    
 ### Coordination Session #3: Special topics
 
+#### Chair: Simon Bliudze
+
 Rocco De Nicola, Tan Duong and Michele Loreti <br/>
 *ABEL - A domain specific framework for programming with attribute-based communication*
 
 Davide Basile, Maurice H. ter Beek and Rosario Pugliese <br/>
 *Bridging the Gap between Supervisory Control and Coordination of Services: Synthesis of Orchestrations and Choreographies*
 
-Maurizio Gabbrielli, Saverio Giallorenzo, Ivan Lanese, Fabrizio Montesi, Marco Peressotti and Stefano Pio Zingaro <br/>
-*No more, no less: a formal model for Serverless Computing*
-
 ### Coordination Session #4: Coordination patterns
+
+#### Chair: Gianluigi Zavattaro
 
 Simon Bliudze, Ludovic Henrio and Eric Madelaine <br/>
 *Verification of concurrent design patterns with data*
@@ -86,6 +92,8 @@ Roberto Casadei, Mirko Viroli, Giorgio Audrito, Danilo Pianini and Ferruccio Dam
 
 ### Coordination Session #5: Tools 2
 
+#### Chair: Hugo Torres Vieira
+
 Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo <br/>
 *Automating Quality-of-Service evaluation in Service-Oriented Computing*
 
@@ -94,6 +102,26 @@ Roberto Guanciale <br/>
 
 Guillermina Cledou, Jose Proença, Bernhard Sputh and Eric Verhulst <br/>
 *Coordination of tasks on a Real-Time OS*
+
+
+### Coordination Session #6: Special topics and short talks
+
+#### Chair: Hernán Melgratti
+
+Maurizio Gabbrielli, Saverio Giallorenzo, Ivan Lanese, Fabrizio Montesi, Marco Peressotti and Stefano Pio Zingaro <br/>
+*No more, no less: a formal model for Serverless Computing*
+
+Carolyn Talcott
+*Towards Diagnosis for Soft Agent Systems: Protocols, Deviations, Blame*
+
+Ferruccio Damiani
+*On Adding support for Aggregate Programming to the Abstract Behavioural Specification Modelling Language*
+
+Tan Wang
+*A systematic approach to programming attribute-based communication systems*
+
+Thomas Hildebrandt
+*Timed Dynamic Condition Response (DCR) Graphs: Declarative, Flexible and Adaptable Coordination of Case Management that works in Practice*
 
 
 ## DAIS accepted papers and programme
