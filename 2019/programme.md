@@ -114,15 +114,19 @@ Maurizio Gabbrielli, Saverio Giallorenzo, Ivan Lanese, Fabrizio Montesi, Marco P
 
 Carolyn Talcott
 *Towards Diagnosis for Soft Agent Systems: Protocols, Deviations, Blame*
+<br/>(short talk)
 
 Ferruccio Damiani
 *On Adding support for Aggregate Programming to the Abstract Behavioural Specification Modelling Language*
+<br/>(short talk)
 
 Tan Wang
 *A systematic approach to programming attribute-based communication systems*
+<br/>(short talk)
 
 Thomas Hildebrandt
 *Timed Dynamic Condition Response (DCR) Graphs: Declarative, Flexible and Adaptable Coordination of Case Management that works in Practice*
+<br/>(short talk)
 
 
 ## DAIS accepted papers and programme
