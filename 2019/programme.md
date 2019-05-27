@@ -112,19 +112,19 @@ Guillermina Cledou, Jose Proença, Bernhard Sputh and Eric Verhulst <br/>
 Maurizio Gabbrielli, Saverio Giallorenzo, Ivan Lanese, Fabrizio Montesi, Marco Peressotti and Stefano Pio Zingaro <br/>
 *No more, no less: a formal model for Serverless Computing*
 
-Carolyn Talcott
+Carolyn Talcott  <br/>
 *Towards Diagnosis for Soft Agent Systems: Protocols, Deviations, Blame*
 <br/>(short talk)
 
-Ferruccio Damiani
+Ferruccio Damiani <br/>
 *On Adding support for Aggregate Programming to the Abstract Behavioural Specification Modelling Language*
 <br/>(short talk)
 
-Tan Wang
+Tan Wang <br/>
 *A systematic approach to programming attribute-based communication systems*
 <br/>(short talk)
 
-Thomas Hildebrandt
+Thomas Hildebrandt <br/>
 *Timed Dynamic Condition Response (DCR) Graphs: Declarative, Flexible and Adaptable Coordination of Case Management that works in Practice*
 <br/>(short talk)
 
