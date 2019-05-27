@@ -22,7 +22,7 @@ ICE 2019 is a satellite workshop of [DisCoTec 2019](https://www.discotec.org/201
   * <span style="color:red">__April 29, 2019 - paper submission for research papers (>5pp + references)__</span>
   * <span style="color:red">__May 3, 2019 - abstract submission for oral communications and short papers (<=5pp + references)__</span>
   * <span style="color:red">__May 6, 2019 - paper submission for oral communications and short papers (<=5pp + references)__</span>
-  * May 24, 2019: notification
+  * May 29, 2019: notification
   * June 20-21, 2019: ICE workshop
   * July 15, 2019: camera-ready for EPTCS post-proceedings
   
@@ -88,6 +88,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Sophia Knight (University of Minnesota Duluth, USA)
   * Hernán Melgratti (University of Buenos Aires - Conicet, AR)
 
+See [titles and abstracts](./ice-keynotes).
 
 ## Programme Committee
 

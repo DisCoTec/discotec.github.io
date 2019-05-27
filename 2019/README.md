@@ -6,14 +6,14 @@
 research issues. DisCoTec 2019 will take place at the [Technical University of Denmark](http://www.dtu.dk) in June 17-21, 2019.
 
 ## Conferences
-* [Coordination 2019](coordination) - International Conference on Coordination Models and Languages
-* [DAIS 2019](dais) - International Conference on Distributed Applications and Interoperable Systems
-* [FORTE 2019](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+* [Coordination 2019](https://www.discotec.org/2019/coordination) - International Conference on Coordination Models and Languages
+* [DAIS 2019](https://www.discotec.org/2019/dais) - International Conference on Distributed Applications and Interoperable Systems
+* [FORTE 2019](https://www.discotec.org/2019/forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 ## Satellite Events
-* [ICE 2019](ice) - Interaction and Concurrency Experience
-* [DisCoRail 2019](discorail) - International Workshop on Distributed Computing in Future Railway Systems
-* [Workshop, tutorial and tool tracks](satellite-events) - CFP for workhops, tutorial and tool tracks
+* [ICE 2019](https://www.discotec.org/2019/ice) - Interaction and Concurrency Experience
+* [DisCoRail 2019](https://www.discotec.org/2019/discorail) - International Workshop on Distributed Computing in Future Railway Systems
+* [Workshop, tutorial and tool tracks](https://www.discotec.org/2019/satellite-events) - CFP for workhops, tutorial and tool tracks
 
 ## Keynote Speakers
 * [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
@@ -34,17 +34,41 @@ See [titles and abstracts](./keynotes).
 * ICE workshop: Thursday June 20 - Friday June 21, 2019
 
 ## Programme
-A tentative scheme for the programme is available [here](programme). 
+
+The programme is available [here](https://www.discotec.org/2019/programme). 
+
+## Registration
+
+Go to the [registration page](https://www.discotec.org/2019/registration).
+
+## Social Event
+
+On Wednesday 19th of June we will have the DisCoTec 2019 social event in downtown Copenhagen consisting of:
+* A boat trip in the beautiful Copenhagen canals
+* A social dinner with welcome drink in a traditional Danish restaurant
+
+#### Boat Trip
+* We will meet at 18:00 in Nyhavnsbroen [see in Google maps](https://goo.gl/maps/FdGLfMTVpQJuLi8q9)
+* From DTU, we suggest to reach Nørreport station using public transportation. From there, it is a pleasant 15 minutes walk  across the city center of Copenhagen [see the path in Google maps](https://goo.gl/maps/tyDPESMjCu5D9YpE8) - Alternatively, from Nørreport station you can switch on a metro to Kongens Nytorv station.
+* The boat trip will terminate at 19:15 in  Christianshavns Torv [see in Google maps](https://goo.gl/maps/fWVvuvAxJmZJxop58)
+
+#### Social Dinner
+* The dinner will start at 19:30 in the restaurant [Ravelinen](https://ravelinen.dk/)
+* It is at 5 minutes walking from the destination of the boat trip [see path in Google maps](https://goo.gl/maps/LeAmZNNo7tUp2eqy7)
+
 
 ## Location
-* [DTU Lyngby](https://www.google.com/maps/place/Danmarks+Tekniske+Universitet/@55.7855742,12.5191923,17z/data=!3m1!4b1!4m5!3m4!1s0x46524e6328b8bd5d:0xcf045cde0449c6c5!8m2!3d55.7855742!4d12.521381), 2800 Kongens Lyngby, Denmark
+
+[DTU Lyngby](https://www.google.com/maps/place/Danmarks+Tekniske+Universitet/@55.7855742,12.5191923,17z/data=!3m1!4b1!4m5!3m4!1s0x46524e6328b8bd5d:0xcf045cde0449c6c5!8m2!3d55.7855742!4d12.521381), 2800 Kongens Lyngby, Denmark
+
+All sessions from Monday to Thursday will take place at [DTU's Meeting Center](https://www.dtu.dk/english/About/CAMPUSES/DTU-LYNGBY-Campus/DTU-Meeting-Centre/oversigt) in building 101 (see [map](https://www.google.com/maps/search/dtu+meeting+centre/@55.7853049,12.5181051,17z/data=!3m1!4b1)). ICE on Friday will be at DTU Compute, in building 324 (see [map](https://www.google.com/maps/place/DTU+Compute/@55.783851,12.5162676,17z/data=!3m1!4b1!4m5!3m4!1s0x46524e635a3d9edf:0x3f650147a3cddb16!8m2!3d55.783851!4d12.5184616)).
 
 ## Flyer
 [DisCoTec 2019 Flyer](DisCoTec2019-flyer.pdf) 
 
 ## Organising Committee
-* [Alberto Lluch Lafuente](http://www.imm.dtu.dk/~albl/) (DTU, Denmark -- General chair)
-* Kiko Fernández-Reyes (Uppsala University — Publicity chair)
+* [Alberto Lluch Lafuente](http://www.imm.dtu.dk/~albl/) (DTU, Denmark - General chair)
+* Kiko Fernández-Reyes (Uppsala University - Publicity chair)
 * Francesco Tiezzi (University of Camerino — Publicity chair)
 * Andrea Vandin (DTU, Denmark — Workshops chair)
 * Maurice ter Beek (CNR, Italy — Workshops chair)
@@ -71,7 +95,6 @@ A tentative scheme for the programme is available [here](programme).
 * Gianluigi Zavattaro (University of Bologna, Italy)
 
 ## Advisory board
-
 * Alain Girault (INRIA Grenoble, France)
 * Uwe Nestmann (TU Berlin, Germany)
 * Michele Loreti (University of Camerino, Italy)
@@ -88,19 +111,16 @@ The proceedings of the conference are planned to be published in [LNCS-IFIP](htt
 ## Special issues
 The individual conferences will organise special issues of extended and selected papers in reputable journal such as [Logical Methods in Computer Science](https://lmcs.episciences.org).
 
-## Registration
-
-Go to the [registration page](https://www.discotec.org/2019/registration).
-
 ## Accommodation and local information
 
 Hotels in Copenhagen (recommended)
 * We recommend to stay close to the Nørreport station, as it is central area of the city and it is very well connected with both the Airport (direct metro line, 15 minutes) and with the campus (bus lines 150S and 15E, 25 minutes). You will have to commute every day to the campus (half an hour each way) but it will be easier to enjoy the beautiful city of Copenhagen and to find nice restaurants for dinner.
-* A list of hotels in that area can be found in [booking.com](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggJCAlhYSDNYBGg9iAEBmAEGuAEHyAEM2AEB6AEBkgIBeagCAw&sid=526f40f28fb1d9d93bba8d197e3c8adb&class_interval=1&dest_id=1764&dest_type=landmark&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&lang=en-gb&map=1&no_rooms=1&offset=0&postcard=0&raw_dest_type=landmark&room1=A%2CA&sb_price_type=total&search_selected=1&soz=1&src=index&src_elem=sb&ss=N%C3%B8rreport%20Station%2C%20K%C3%B8benhavn%2C%20Region%20Hovedstaden%2C%20Danmark&ss_all=0&ss_raw=n%C3%B8rreport&ssb=empty&sshis=0&lang_click=top&cdl=da&lang_changed=1&nflt=#map_closed)
+* A list of hotels in that area can be found in [booking.com](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1BCAEoggJCAlhYSDNYBGg9iAEBmAEGuAEHyAEM2AEB6AEBkgIBeagCAw&sid=526f40f28fb1d9d93bba8d197e3c8adb&class_interval=1&dest_id=1764&dest_type=landmark&dtdisc=0&from_sf=1&group_adults=2&group_children=0&inac=0&index_postcard=0&label_click=undef&lang=en-gb&map=1&no_rooms=1&offset=0&postcard=0&raw_dest_type=landmark&room1=A%2CA&sb_price_type=total&search_selected=1&soz=1&src=index&src_elem=sb&ss=N%C3%B8rreport%20Station%2C%20K%C3%B8benhavn%2C%20Region%20Hovedstaden%2C%20Danmark&ss_all=0&ss_raw=n%C3%B8rreport&ssb=empty&sshis=0&lang_click=top&cdl=da&lang_changed=1&nflt=#map_closed). Remember to adapt the search criteria to your needs.
+* A list of AirBnB offers in that area can be found [here](https://www.airbnb.com/s/N%C3%B8rreport--K%C3%B8benhavn/homes?refinement_paths%5B%5D=%2Fhomes&query=N%C3%B8rreport%2C%20K%C3%B8benhavn&checkin=2019-06-17&checkout=2019-06-21&adults=0&children=0&infants=0&guests=0&place_id=ChIJXczOPQVTUkYRXL-Zn6CWj-4&click_referer=t%3ASEE_ALL%7Csid%3Ab200758b-2977-4c9e-bfd3-0ef71269554f%7Cst%3AMAGAZINE_HOMES&title_type=MAGAZINE_HOMES&search_type=SECTION_NAVIGATION&allow_override%5B%5D=&s_tag=djg7hbr8). Remember to adapt the search criteria to your needs.
 
 Hotels in Lyngby
-* If you prefer to stay close to the campus and avoid the commute we recommend the [Scandic Eremitage](https://www.scandichotels.dk/hoteller/danmark/kobenhavn/scandic-eremitage) (expensive, located in the center of Lyngby and with public transportation) and the [Hotel Fortunen](http://www.fortunen.dk/) (cozy and cheaper, better suited for bike commuting, not well connected with public transportation but you can rent bikes at the hotel).
-* Further options can be found in [booking.com](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1FCAEoggJCAlhYSDNYBGg9iAEBmAEGuAEHyAEM2AEB6AEB-AELkgIBeagCAw&sid=526f40f28fb1d9d93bba8d197e3c8adb&class_interval=1&dest_id=-2745593&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&lang=en-gb&no_rooms=1&offset=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&soz=1&src=index&src_elem=sb&ss=Kongens%20Lyngby%2C%20Region%20Hovedstaden%2C%20Danmark&ss_raw=lyngb&ssb=empty&lang_click=top&cdl=da&lang_changed=1&nflt=)
+* If you prefer to stay close to the campus and avoid the commute we recommend the [Scandic Eremitage](https://www.scandichotels.dk/hoteller/danmark/kobenhavn/scandic-eremitage) (expensive, located in the center of Lyngby, close to public transportation), [Post Gaarden](https://www.postgaardenhotel.dk/) (cheaper, located in the center of Lyngby, close to public transportation), and the [Hotel Fortunen](http://www.fortunen.dk/) (cozy and cheap, better suited for bike commuting, not well connected with public transportation but you can rent bikes at the hotel).
+* Further options can be found in [booking.com](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1FCAEoggJCAlhYSDNYBGg9iAEBmAEGuAEHyAEM2AEB6AEB-AELkgIBeagCAw&sid=526f40f28fb1d9d93bba8d197e3c8adb&class_interval=1&dest_id=-2745593&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&lang=en-gb&no_rooms=1&offset=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&soz=1&src=index&src_elem=sb&ss=Kongens%20Lyngby%2C%20Region%20Hovedstaden%2C%20Danmark&ss_raw=lyngb&ssb=empty&lang_click=top&cdl=da&lang_changed=1&nflt=).  Remember to adapt the search criteria to your needs.
 
 Moving around
 * To plan your travel around Copenhagen use this [journey planner](https://www.rejseplanen.dk/webapp/index.html?language=en_EN)
