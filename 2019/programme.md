@@ -206,7 +206,7 @@ Chandrika Bhardwaj and Sanjiva Prasad <br/>
 Stefano Calzavara, Alvise Rabitti and Michele Bugliesi <br/>
 *Semantically sound analysis of content security policies* (Journal-first)
 
-### FORTE Session #4: Software Architectures (session chair: TBD)
+### FORTE Session #4: Software Architectures (session chair: Ivan Lanese)
 
 Giorgio Audrito, Mirko Viroli, Ferruccio Damiani, Danilo Pianini and Jacob Beal <br/>
 *On a Higher-order Calculus of Computational Fields* (Journal-first)
@@ -217,7 +217,7 @@ Jean-Bernard Stefani and Martin Vassor <br/>
 Diego Marmsoler <br/>
 *Towards Verified Blockchain Architectures: A Case Study on Interactive Architecture Verification*
 
-### FORTE Session #5: Model Checking and Verification (I) (session chair: TBD)
+### FORTE Session #5: Model Checking and Verification (I) (session chair: Anne Remke)
 
 Ran Bao, Christian Attiogbe, Benoit Delahaye, Paulin Fournier and Didier Lime <br/>
 *Parametric statistical model checking of UAV flight plan*
