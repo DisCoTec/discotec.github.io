@@ -131,8 +131,10 @@ For beer lovers
 - [Mikkeller Viktoriagade/Øl&Brød/Hyggestue](http://mikkeller.dk/location/mikkeller-bar-viktoriagade-copenhagen/): three places next to each 
 others, a bar, a restaurant and a brunch place.
 - [Taphouse](https://taphouse.dk): maybe the most diverse offers, 61 taps.
-- [Peders](https://pederscph.dk/): small but cozy and closest to Nørreport.
+- [Peders](https://pederscph.dk/): small but cozy and closest to Nørreport station.
 - [Ramen To Bíiru](http://www.ramentobiiru.dk/): ramen restaurant with beer
+- [Kalaset](https://www.tripadvisor.com/Restaurant_Review-g189541-d877363-Reviews-Kalaset-Copenhagen_Zealand.html) cozy pub very close to Nørreport station. Good beers and organic burgers
+- If you have time (e.g. if you stay one extra day), you can visit the [museum of the old Carlsberg factory](https://www.visitcarlsberg.com/)
 
 ## Sponsors & Supporters
 [<img src="http://www.nordic-iot.org/wp-content/uploads/2018/08/iiotlogo_small.png" width="150">](http://www.nordic-iot.org/)
