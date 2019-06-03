@@ -25,7 +25,7 @@
 **Bio**: Fritz Henglein is Professor of Programming Languages and Systems at DIKU, the Department of Computer Science at the University of Copenhagen (UCPH) and Head of Research at Deon Digital AG, a start-up developing secure and scalable digital contract technology for both decentralized (blockchain, distributed ledger) and centralized systems. His research contributions are in semantic, logical and algorithmic aspects of programming languages, functional programming, domain-specific languages, digital contracts, reporting and analytics, smart contracts and blockchain/distributed ledger systems. Since 2015 he has served as general chair, program committee member and steering committee member of programming language conferences (including POPL, ICFP, PEPM, FHPC); as editor/ editorial board member of Journal of Functional Programming; as steering committee chair of the Danish Innovation Network for Finance IT; Kurator at Fraunhofer Institute of Software and Systems Technology; Mercator Fellow at TU Dortmund; member of IFIP Working Groups 2.1 and 2.8; co-founder and advisory board member of several start-ups; and in a variety of roles at the department, faculty and university level at the University of Copenhagen.
 
 
-## [Sophia Knight]() (University of Minnesota Duluth, USA)
+## [Sophia Knight](https://scse.d.umn.edu/computer-science-department/faculty-staff/dr-sophia-knight) (University of Minnesota Duluth, USA)
 
 <img src="img/Knight.jpg" alt="" height="300">
 
