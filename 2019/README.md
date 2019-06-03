@@ -127,6 +127,13 @@ Moving around
 * DTU's [guidelines to reach the campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus/getting-there)
 * Official information can be found in the [visit copenhagen site](https://www.visitcopenhagen.com/copenhagen/transportation/tickets-prices)
 
+For beer lovers
+- [Mikkeller Viktoriagade/Øl&Brød/Hyggestue](http://mikkeller.dk/location/mikkeller-bar-viktoriagade-copenhagen/): three places next to each 
+others, a bar, a restaurant and a brunch place.
+- [Taphouse](https://taphouse.dk): maybe the most diverse offers, 61 taps.
+- [Peders](https://pederscph.dk/): small but cozy and closest to Nørreport.
+- [Ramen To Bíiru](http://www.ramentobiiru.dk/): ramen restaurant with beer
+
 ## Sponsors & Supporters
 [<img src="http://www.nordic-iot.org/wp-content/uploads/2018/08/iiotlogo_small.png" width="150">](http://www.nordic-iot.org/)
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
