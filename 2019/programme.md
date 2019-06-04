@@ -292,13 +292,76 @@ Markus Roggenbach, Swansea University, UK <br/>
 
 #### 16:15-16:45 Discussions 
 
+## ICE Programme 
 
+### Thursday June 20
 
+#### 13:30 - 14:55 ICE Session #1: 
 
+Invited talk: [Hernán Melgratti](http://lafhis.dc.uba.ar/en/~melgratti) (University of Buenos Aires - Conicet, AR) <br/>
+[*Petri nets, Probabilities and Bayesian reasoning*](https://www.discotec.org/2019/ice-keynotes)
 
+Ronny Tredup <br/>
+*Tracking down the bad guys: reset and set make synthesis of flip-flop net derivatives np-complete*
 
+#### 14:55-15:30 Coffee break 
 
+#### 15:30 - 17:10 ICE Session #2: 
 
+Matteo Cimini <br/>
+*Towards Gradually Typed Capabilities in the Pi-calculus*
 
+Ivan Prokić <br/>
+*The Cpi-calculus: a Model for Confidential Name Passing*
 
+Wen Kokke <br/>
+*Rusty Variation: Deadlock-free Sessions with Failure in Rust*
+
+Franco Barbanera and Mariangiola Dezani <br/>
+*Open Multiparty Sessions*
+
+#### SOCIAL DINNER (20:00) not included in the registration fee
+
+### Friday June 22
+
+#### 09:30 - 10:30 ICE Session #3: 
+
+Invited talk: [Fritz Henglein](http://hjemmesider.diku.dk/~henglein/) (University of Copenhagen and Deon Digital, DK) <br/>
+[*Smart digital contracts*](https://www.discotec.org/2019/ice-keynotes)
+
+#### 10:30-11:00 Coffee break 
+
+#### 11:00 - 12:25 ICE Session #4: 
+
+Invited talk: [Dilian Gurov](https://www.csc.kth.se/~dilian/) (KTH, SE) <br/>
+[*Program Models for Compositional Verification*](https://www.discotec.org/2019/ice-keynotes)
+
+Diego Marmsoler and Ana Petrovska <br/>
+*Detecting Architectural Erosion using Runtime Verification*
+
+#### 12:25-13:30 Lunch break
+
+#### 13:30 - 14:55 ICE Session #5: 
+
+Invited talk: [Sophia Knight](https://scse.d.umn.edu/computer-science-department/faculty-staff/dr-sophia-knight) (University of Minnesota Duluth, USA) <br/>
+[*Toward a Formal Model of Social Networks and Polarization*](https://www.discotec.org/2019/ice-keynotes)
+
+Maurizio Murgia <br/>
+*A note on compliance relations and fixed points*
+
+#### 14:55-15:30 Coffee break 
+
+#### 15:30 - 17:10 ICE Session #6: 
+
+April Gonçalves <br/>
+*Handling monotonic state (oral communication)*
+
+Emilio Tuosto and Liu Zhao <br/>
+*Choreographic Testing (oral communication)*
+
+Hao Zeng, Alexander Kurz and Emilio Tuosto <br/>
+*Interface Automata for Choreographies*
+
+Xiao Yi and Emilio Tuosto <br/>
+*On Learning Nominal Automata with Binders*
 
