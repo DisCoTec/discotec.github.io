@@ -294,7 +294,7 @@ Markus Roggenbach, Swansea University, UK <br/>
 
 ## ICE Programme 
 
-### Thursday June 20
+### Thursday, June 20
 
 #### 13:30 - 14:55 ICE Session #1: 
 
@@ -322,7 +322,7 @@ Franco Barbanera and Mariangiola Dezani <br/>
 
 #### SOCIAL DINNER (20:00) not included in the registration fee
 
-### Friday June 22
+### Friday, June 21
 
 #### 09:30 - 10:30 ICE Session #3: 
 
