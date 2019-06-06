@@ -1,7 +1,5 @@
 [![](https://www.discotec.org/2019/discotec-banner.jpeg)](https://www.discotec.org/2019/)
 
-<span style="color:red">**We are experiencing a technical issue with the registration site. Unfortunately, we can only fix it on Monday. We have extended the regular deadline accordingly.**</span>
-
 You can register for attending the conference at [this registration site](https://www.conferencemanager.dk/discotec2019).
 
 NOTE: all registration fees below include 25% of VAT. 
