@@ -1,10 +1,12 @@
 [![](https://www.discotec.org/2019/discotec-banner.jpeg)](https://www.discotec.org/2019/)
 
+<span style="color:red">**We are experiencing a technical issue with the registration site. Unfortunately, we can only fix it on Monday. We have extended the regular deadline accordingly.**</span>
+
 You can register for attending the conference at [this registration site](https://www.conferencemanager.dk/discotec2019).
 
 NOTE: all registration fees below include 25% of VAT. 
 
-| | Early - until May 15 | Regular - until May 31 | Late - after May 31 (*) |
+| | Early - until May 15 | Regular - until June 4 | Late - after June 4 (*) |
 | - | -: | -: | -: | 
 | **DisCoTec Conferences + ICE workshop** | 4900 DKK | 5500 DKK | 6100 DKK |
 | **DisCoTec Conferences only** | 4000 DKK | 4600 DKK | 5200 DKK |
