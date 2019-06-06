@@ -306,7 +306,7 @@ Markus Roggenbach, Swansea University, UK <br/>
 
 ### Thursday, June 20
 
-#### 13:30 - 14:55 ICE Session #1: 
+#### 13:30 - 14:55 ICE Session #1 (session chair: Ivan Lanese): 
 
 Invited talk: [Hernán Melgratti](http://lafhis.dc.uba.ar/en/~melgratti) (University of Buenos Aires - Conicet, AR) <br/>
 [*Petri nets, Probabilities and Bayesian reasoning*](https://www.discotec.org/2019/ice-keynotes)
@@ -316,7 +316,7 @@ Ronny Tredup <br/>
 
 #### 14:55-15:30 Coffee break 
 
-#### 15:30 - 17:10 ICE Session #2: 
+#### 15:30 - 17:10 ICE Session #2 (session chair: Hugo Torres Vieira): 
 
 Matteo Cimini <br/>
 *Towards Gradually Typed Capabilities in the Pi-calculus*
@@ -341,7 +341,7 @@ Invited talk: [Fritz Henglein](http://hjemmesider.diku.dk/~henglein/) (Universit
 
 #### 10:30-11:00 Coffee break 
 
-#### 11:00 - 12:25 ICE Session #4: 
+#### 11:00 - 12:25 ICE Session #4 (session chair: Ludovic Henrio): 
 
 Invited talk: [Dilian Gurov](https://www.csc.kth.se/~dilian/) (KTH, SE) <br/>
 [*Program Models for Compositional Verification*](https://www.discotec.org/2019/ice-keynotes)
