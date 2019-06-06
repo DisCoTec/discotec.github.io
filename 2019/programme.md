@@ -51,6 +51,12 @@ Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment <br/>
 Johannes Åman Pohjola <br/>
 *Psi-Calculi Revisited: Connectivity and Compositionality*
 
+## Proceedings
+The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes: 
+* Coordination: [LNCS 11533](https://link.springer.com/book/10.1007%2F978-3-030-22397-7)
+* DAIS: [LNCS 11534](https://link.springer.com/book/10.1007%2F978-3-030-22496-7)
+* FORTE: [LNCS 11535](https://link.springer.com/book/10.1007%2F978-3-030-21759-4)
+
 ## Coordination accepted papers and programme
 
 ### Joint session: Best Papers
