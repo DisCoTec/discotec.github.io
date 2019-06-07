@@ -334,7 +334,7 @@ Franco Barbanera and Mariangiola Dezani <br/>
 
 ### Friday, June 21
 
-#### 09:30 - 10:30 ICE Session #3: 
+#### 09:30 - 10:30 ICE Session #3 (session chair: Massimo Bartoletti): 
 
 Invited talk: [Fritz Henglein](http://hjemmesider.diku.dk/~henglein/) (University of Copenhagen and Deon Digital, DK) <br/>
 [*Smart digital contracts*](https://www.discotec.org/2019/ice-keynotes)
@@ -351,7 +351,7 @@ Diego Marmsoler and Ana Petrovska <br/>
 
 #### 12:25-13:30 Lunch break
 
-#### 13:30 - 14:55 ICE Session #5: 
+#### 13:30 - 14:55 ICE Session #5 (session chair: Alceste Scalas): 
 
 Invited talk: [Sophia Knight](https://scse.d.umn.edu/computer-science-department/faculty-staff/dr-sophia-knight) (University of Minnesota Duluth, USA) <br/>
 [*Toward a Formal Model of Social Networks and Polarization*](https://www.discotec.org/2019/ice-keynotes)
@@ -374,4 +374,3 @@ Hao Zeng, Alexander Kurz and Emilio Tuosto <br/>
 
 Xiao Yi and Emilio Tuosto <br/>
 *On Learning Nominal Automata with Binders*
-
