@@ -188,7 +188,7 @@ Christian Göttel, Pascal Felber and Valerio Schiavoni<br/>
 Johannes Åman Pohjola <br/>
 *Psi-Calculi Revisited: Connectivity and Compositionality*
 
-### FORTE Session #1: Calculi, Languages, and Components (session chair: Jorge A. Pérez)
+### FORTE Session #1: Calculi, Languages, and Components (session chair: Jean-Bernard Stefani)
 Ivan Lanese, Adrian Palacios and German Vidal <br/>
 *Causal-Consistent Replay Debugging for Message Passing Programs*
 
@@ -205,7 +205,7 @@ Alexander Graf-Brill and Holger Hermanns <br/>
 The Anh Pham, Thierry Jéron and Martin Quinson <br/>
 *Unfolding-based Dynamic Partial Order Reduction of Asynchronous Distributed Programs*
 
-### FORTE Session #3: Security (session chair: TBD)
+### FORTE Session #3: Security (session chair: Jorge A. Pérez)
 
 Cristian Ene, Mounier Laurent and Marie-Laure Potet <br/>
 *Output-sensitive Information flow analysis*
