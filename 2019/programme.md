@@ -334,17 +334,17 @@ Franco Barbanera and Mariangiola Dezani <br/>
 
 ### Friday, June 21
 
-#### 09:30 - 10:30 ICE Session #3 (session chair: Massimo Bartoletti): 
-
-Invited talk: [Fritz Henglein](http://hjemmesider.diku.dk/~henglein/) (University of Copenhagen and Deon Digital, DK) <br/>
-[*Smart digital contracts*](https://www.discotec.org/2019/ice-keynotes)
-
-#### 10:30-11:00 Coffee break 
-
-#### 11:00 - 12:25 ICE Session #4 (session chair: Ludovic Henrio): 
+#### 09:30 - 10:30 ICE Session #3 (session chair: Ludovic Henrio): 
 
 Invited talk: [Dilian Gurov](https://www.csc.kth.se/~dilian/) (KTH, SE) <br/>
 [*Program Models for Compositional Verification*](https://www.discotec.org/2019/ice-keynotes)
+
+#### 10:30-11:00 Coffee break 
+
+#### 11:00 - 12:25 ICE Session #4 (session chair: Massimo Bartoletti): 
+
+Invited talk: [Fritz Henglein](http://hjemmesider.diku.dk/~henglein/) (University of Copenhagen and Deon Digital, DK) <br/>
+[*Smart digital contracts*](https://www.discotec.org/2019/ice-keynotes)
 
 Diego Marmsoler and Ana Petrovska <br/>
 *Detecting Architectural Erosion using Runtime Verification*
