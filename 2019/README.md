@@ -63,6 +63,19 @@ On Wednesday 19th of June we will have the DisCoTec 2019 social event in downtow
 
 All sessions from Monday to Thursday will take place at [DTU's Meeting Center](https://www.dtu.dk/english/About/CAMPUSES/DTU-LYNGBY-Campus/DTU-Meeting-Centre/oversigt) in building 101 (see [map](https://www.google.com/maps/search/dtu+meeting+centre/@55.7853049,12.5181051,17z/data=!3m1!4b1)). ICE on Friday will be at DTU Compute, in building 324 (see [map](https://www.google.com/maps/place/DTU+Compute/@55.783851,12.5162676,17z/data=!3m1!4b1!4m5!3m4!1s0x46524e635a3d9edf:0x3f650147a3cddb16!8m2!3d55.783851!4d12.5184616)).
 
+## Local transportation
+[This website](https://www.visitcopenhagen.com/copenhagen/transportation/tickets-prices) contains a good overview on public transportation in the area of greater Copenhagen, to which Lyngby belongs.
+
+### From Copenhagen to the Campus
+From Copenhagen, and in particular from Nørreport station, we recommend to take the bus 150S (or 15 in certain times of the day) to reach DTU. You should get off at Rævehøjvej, DTU. [See the journey on Goole Maps](https://goo.gl/maps/A27Zwxg7757rymMz8)
+
+### Tickets
+Regarding tickets, we recommend buying a [rejsekort anonymous](https://www.rejsekort.dk/koeb-rejsekort/salgssteder.aspx?sps=0edb084e941a4ebd878bdd1080538881%7C). It is a rechargable card which allows to pay tickets half price. E.g., a one way from Copenhagen to DTU costs about 4 EUR rather than 8 EUR (furthermore, there is a further 20% discount if travelling from 11 AM to 1 PM, from 6 PM to 6 AM, or during the weekends). The card costs about 10 EUR. Please remember that at least 70 DKK must be in the card in order to use it. Also, please note that it is not possible to recharge it at DTU campus.
+
+Another option is the [large citypass](https://dinoffentligetransport.dk/citypass). It can be done for 1,2,3,4, or 5 days. 5 days costs about 80 EUR, and allows you to travel freely in the greater Copenhagen area.
+
+If you are interested in visiting the many museums present in Copenhagen, then you might also consider a [Copenhagen Card](https://copenhagencard.com/free-public-transport). It is a more expensive version of the city pass which also grants you free access to several museums and attractions
+
 ## Flyer
 [DisCoTec 2019 Flyer](DisCoTec2019-flyer.pdf) 
 
