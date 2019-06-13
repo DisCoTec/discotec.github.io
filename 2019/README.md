@@ -139,6 +139,7 @@ Hotels in Lyngby
 * Further options can be found in [booking.com](https://www.booking.com/searchresults.en-gb.html?label=gen173nr-1FCAEoggJCAlhYSDNYBGg9iAEBmAEGuAEHyAEM2AEB6AEB-AELkgIBeagCAw&sid=526f40f28fb1d9d93bba8d197e3c8adb&class_interval=1&dest_id=-2745593&dest_type=city&from_sf=1&group_adults=2&group_children=0&label_click=undef&lang=en-gb&no_rooms=1&offset=0&raw_dest_type=city&room1=A%2CA&sb_price_type=total&search_selected=1&soz=1&src=index&src_elem=sb&ss=Kongens%20Lyngby%2C%20Region%20Hovedstaden%2C%20Danmark&ss_raw=lyngb&ssb=empty&lang_click=top&cdl=da&lang_changed=1&nflt=).  Remember to adapt the search criteria to your needs.
 
 Moving around
+* See the above section Local transportation for detailed information
 * To plan your travel around Copenhagen use this [journey planner](https://www.rejseplanen.dk/webapp/index.html?language=en_EN)
 * DTU's [guidelines to reach the campus](https://www.dtu.dk/english/about/campuses/dtu-lyngby-campus/getting-there)
 * Official information can be found in the [visit copenhagen site](https://www.visitcopenhagen.com/copenhagen/transportation/tickets-prices)
