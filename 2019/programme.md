@@ -5,7 +5,7 @@
 ![](./programme.png)
 
 ## Location
-All sessions from Monday to Thursday will take place at [DTU's Meeting Center](https://www.dtu.dk/english/About/CAMPUSES/DTU-LYNGBY-Campus/DTU-Meeting-Centre/oversigt) in building 101 (see [map](https://www.google.com/maps/search/dtu+meeting+centre/@55.7853049,12.5181051,17z/data=!3m1!4b1)). ICE on Friday will in building 303A (see [map](https://goo.gl/maps/eF5C1cSX4PbZVpUh9)).
+All sessions from Monday to Thursday will take place at [DTU's Meeting Center](https://www.dtu.dk/english/About/CAMPUSES/DTU-LYNGBY-Campus/DTU-Meeting-Centre/oversigt) in building 101 (see [map](https://www.google.com/maps/search/dtu+meeting+centre/@55.7853049,12.5181051,17z/data=!3m1!4b1)). ICE on Friday will be in building 303A (see [map](https://goo.gl/maps/eF5C1cSX4PbZVpUh9)).
 
 - Joint sessions: Building 101, conference room M1, 1st floor.
 - Coordination: Building 101, room S09, ground flor.
