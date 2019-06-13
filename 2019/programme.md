@@ -5,14 +5,14 @@
 ![](./programme.png)
 
 ## Location
-All sessions from Monday to Thursday will take place at [DTU's Meeting Center](https://www.dtu.dk/english/About/CAMPUSES/DTU-LYNGBY-Campus/DTU-Meeting-Centre/oversigt) in building 101 (see [map](https://www.google.com/maps/search/dtu+meeting+centre/@55.7853049,12.5181051,17z/data=!3m1!4b1)). ICE on Friday will be at DTU Compute, in building 324 (see [map](https://www.google.com/maps/place/DTU+Compute/@55.783851,12.5162676,17z/data=!3m1!4b1!4m5!3m4!1s0x46524e635a3d9edf:0x3f650147a3cddb16!8m2!3d55.783851!4d12.5184616)).
+All sessions from Monday to Thursday will take place at [DTU's Meeting Center](https://www.dtu.dk/english/About/CAMPUSES/DTU-LYNGBY-Campus/DTU-Meeting-Centre/oversigt) in building 101 (see [map](https://www.google.com/maps/search/dtu+meeting+centre/@55.7853049,12.5181051,17z/data=!3m1!4b1)). ICE on Friday will in building 303A (see [map](https://goo.gl/maps/eF5C1cSX4PbZVpUh9)).
 
 - Joint sessions: Building 101, conference room M1, 1st floor.
 - Coordination: Building 101, room S09, ground flor.
 - DAIS: Building 101, room S01, ground floor.
 - FORTE: Building 101, room M1, 1st floor.
 - DisCoRail: Building 101, room S01, ground floor.
-- ICE: Building 101, room S01, ground flor (Thursday) and Building 324, room 240, 2nd floor (Friday).
+- ICE: Building 101, room S01, ground flor (Thursday) and Building 303A, room 43 (Friday).
 - Coffee breaks: Building 101, foyer (right outside conference room M1), 1st floor.
 
 Details about the rooms are available [here](https://www.dtu.dk/english/About/CAMPUSES/DTU-LYNGBY-Campus/DTU-Meeting-Centre/oversigt).
