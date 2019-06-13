@@ -69,6 +69,9 @@ All sessions from Monday to Thursday will take place at [DTU's Meeting Center](h
 ### From Copenhagen to the Campus
 From Copenhagen, and in particular from Nørreport station, we recommend to take the bus 150S (or 15 in certain times of the day) to reach DTU. You should get off at Rævehøjvej, DTU. [See the journey on Goole Maps](https://goo.gl/maps/A27Zwxg7757rymMz8)
 
+### From Lyngby Station to the Campus
+In order to reach the campus from Lyngby station, you should take a bus (several cover this route, e.g. 30E, 190, 300S). You should get off at DTU (Anker Engelunds Vej). [See the journey on Goole Maps](https://goo.gl/maps/V1EynwTaQfT6bsNN9) 
+
 ### Tickets
 Regarding tickets, we recommend buying a [rejsekort anonymous](https://www.rejsekort.dk/koeb-rejsekort/salgssteder.aspx?sps=0edb084e941a4ebd878bdd1080538881%7C). It is a rechargable card which allows to pay tickets half price. E.g., a one way from Copenhagen to DTU costs about 4 EUR rather than 8 EUR (furthermore, there is a further 20% discount if travelling from 11 AM to 1 PM, from 6 PM to 6 AM, or during the weekends). The card costs about 10 EUR. Please remember that at least 70 DKK must be in the card in order to use it. Also, please note that it is not possible to recharge it at DTU campus.
 
