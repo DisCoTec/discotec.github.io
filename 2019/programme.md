@@ -255,7 +255,7 @@ Jannik Hüls and Anne Remke <br/>
 ## DisCoRail Programme (Monday 17 June)
 (see abstracts, coauthors and details [here](https://www.discotec.org/2019/DisCoRailAbstracts.pdf))
 
-#### 8:45-9:15 Registration
+#### 8:45-9:15 Registration and coffee & bread
 
 #### 9:15-10:45 Distributed Interlocking (session chair: Anne Haxthausen):
 Jan Peleska, University of Bremen, Germany <br/>
