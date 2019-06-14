@@ -148,7 +148,7 @@ Michele Loreti <br/>
 Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment <br/>
 *FOUGERE: User-Centric Location Privacy in Mobile Crowdsourcing Apps*
 
-### DAIS Session #1 (session chair: TBD)
+### DAIS Session #1 (session chair: Mark Jelasity)
 Marius Shekow<br/>
 *Syncpal: A simple and iterative reconciliation algorithm for file synchronizers*
 
@@ -158,14 +158,14 @@ Lance Lebanoff, Christina Peterson and Damian Dechev<br/>
 Kevin De Porre, Florian Myter, Christophe De Troyer, Christophe Scholliers, Wolfgang De Meuter and Elisa Gonzalez Boix<br/>
 *Putting Order in Strong Eventual Consistency*
 
-### DAIS Session #2 (session chair: TBD)
+### DAIS Session #2 (session chair: Valerio Schiavoni)
 Sam Van den Vonder, Joeri De Koster and Wolfgang De Meuter<br/>
 *Composable Actor Behaviour*
 
 István Hegedűs, Gábor Danner and Mark Jelasity<br/>
 *Gossip Learning as a Decentralized Alternative to Federated Learning*
 
-### DAIS Session #3 (session chair: TBD)
+### DAIS Session #3 (session chair: Jose Pereira)
 
 Carlos Segarra, Ricard Delgado-Gonzalo, Mathieu Lemay, Pierre-Louis Aublin, Peter Pietzuch and Valerio Schiavoni<br/>
 *Using Trusted Execution Environments for Secure Stream Processing of Medical Data*
@@ -173,7 +173,7 @@ Carlos Segarra, Ricard Delgado-Gonzalo, Mathieu Lemay, Pierre-Louis Aublin, Pete
 Zoltán Szabó, Árpád Berta, Krisztián Téglás, Márk Jelasity and Vilmos Bilicki<br/>
 *Stunner: A Smart Phone Trace for Developing Decentralized Edge Systems*
 
-### DAIS Session #4 (session chair: TBD)
+### DAIS Session #4 (session chair: Rui Oliveira)
 
 Julien Amacher and Valerio Schiavoni<br/>
 *On The Performance of ARM TrustZone*
