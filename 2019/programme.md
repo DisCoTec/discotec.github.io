@@ -255,9 +255,9 @@ Jannik Hüls and Anne Remke <br/>
 ## DisCoRail Programme (Monday 17 June)
 (see abstracts, coauthors and details [here](https://www.discotec.org/2019/DisCoRailAbstracts.pdf))
 
-#### 9:00-9:15 Registration
+#### 8:45-9:15 Registration
 
-#### 9:15-10:45 Distributed Interlocking 
+#### 9:15-10:45 Distributed Interlocking (session chair: Anne Haxthausen):
 Jan Peleska, University of Bremen, Germany <br/>
 *New Distribution Paradigms for Railway Interlocking*
 
@@ -272,25 +272,25 @@ Paulius Stankaitis, Newcastle University, UK <br/>
 
 #### 10:45-11:10 Coffee break  
 
-#### 11:10-12:00 Formal methods and tools 
+#### 11:10-12:00 Formal methods and tools (session chair: Franco Mazzanti)
 Thierry Lecomte, Clearsy, France <br/>
 *Formal Techniques for Safer Signalling Systems*
 
 Anne Haxthausen, DTU Compute, Denmark <br/>
 *The RobustRailS tool set*
 
-#### 12.00-13:10 Lunch 
+#### 12.00-13:05 Lunch 
 
-#### 13:10-14:10 Security and Blockchain technology  
+#### 13:05-14:05 Security and Blockchain technology (session chair: Alessandro Fantechi):
 Jens Braband, Siemens Mobility GmbH, Germany <br/>
 *A Survey of Cybersecurity in Signaling*
 
 Michael Kuperberg, Deutsche Bahn Systel Gmbh, Germany <br/>
 *Towards a Systematic Selection of a Blockchain Implementation for a Decentralized Rail Control System*
 
-#### 14:10-14:35 Coffee break  
+#### 14:05-14:25 Coffee break  
 
-#### 14:35-16:15 Moving block, Virtual coupling and positioning systems  
+#### 14:25-16:05 Moving block, Virtual coupling and positioning systems (session chair: Thierry Lecomte): 
 Francesco Flammini, Linnæus University, Sweden <br/>
 *Towards Railway Virtual Coupling*
 
@@ -303,7 +303,10 @@ Franco Mazzanti, ISTI-CNR, Italy <br/>
 Markus Roggenbach, Swansea University, UK <br/>
 *Modelling and Verification of ERTMS – A Comparison of KeYmaera, Real-Time Maude, and UPPAAL*
 
-#### 16:15-16:45 Discussions 
+#### 16:05-16:15 Short break  
+
+#### 16:15-16:45 Discussion  (session chair: Alessandro Fantechi)
+
 
 ## ICE Programme 
 
