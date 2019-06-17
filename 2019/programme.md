@@ -367,7 +367,7 @@ Maurizio Murgia <br/>
 
 #### 14:55-15:30 Coffee break 
 
-#### 15:30 - 17:10 ICE Session #6: 
+#### 15:30 - 17:10 ICE Session #6 (session chair: Sophia Knight): 
 
 April Gonçalves <br/>
 *Handling monotonic state (oral communication)*
