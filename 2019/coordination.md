@@ -7,6 +7,9 @@ Coordination 2019 is one of the three conferences of [DisCoTec 2019](https://www
 
 ## Highlights
 
+e-Proceedings now available
+* [click here](https://link.springer.com/book/10.1007%2F978-3-030-22397-7)
+
 Two new categories of submissions added!
 * **[special topics](#special-topics)**: we seek for contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
 * **[tool papers](#tool-papers)**: we seek for video+paper submissions on tools related to coordination
