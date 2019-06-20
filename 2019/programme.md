@@ -141,6 +141,10 @@ Michele Loreti <br/>
 *Coordination metrics*
 <br/>(short talk)
 
+Larisa Safina  <br/>
+*Ephemeral Data Handling in Microservices*
+<br/>(short talk)
+
 
 ## DAIS accepted papers and programme
 
