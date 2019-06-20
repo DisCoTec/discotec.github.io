@@ -137,7 +137,7 @@ Thomas Hildebrandt <br/>
 *Timed Dynamic Condition Response (DCR) Graphs: Declarative, Flexible and Adaptable Coordination of Case Management that works in Practice*
 <br/>(short talk)
 
-Michele Loreti <br/>
+Valentina Castiglioni, Michele Loreti, Simone Tini <br/>
 *Coordination metrics*
 <br/>(short talk)
 
