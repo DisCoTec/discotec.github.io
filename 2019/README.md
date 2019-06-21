@@ -61,7 +61,7 @@ On Wednesday 19th of June we will have the DisCoTec 2019 social event in downtow
 
 [DTU Lyngby](https://www.google.com/maps/place/Danmarks+Tekniske+Universitet/@55.7855742,12.5191923,17z/data=!3m1!4b1!4m5!3m4!1s0x46524e6328b8bd5d:0xcf045cde0449c6c5!8m2!3d55.7855742!4d12.521381), 2800 Kongens Lyngby, Denmark
 
-All sessions from Monday to Thursday will take place at [DTU's Meeting Center](https://www.dtu.dk/english/About/CAMPUSES/DTU-LYNGBY-Campus/DTU-Meeting-Centre/oversigt) in building 101 (see [map](https://www.google.com/maps/search/dtu+meeting+centre/@55.7853049,12.5181051,17z/data=!3m1!4b1)). ICE on Friday will be at DTU Compute, in building 324 (see [map](https://www.google.com/maps/place/DTU+Compute/@55.783851,12.5162676,17z/data=!3m1!4b1!4m5!3m4!1s0x46524e635a3d9edf:0x3f650147a3cddb16!8m2!3d55.783851!4d12.5184616)).
+All sessions from Monday to Thursday will take place at [DTU's Meeting Center](https://www.dtu.dk/english/About/CAMPUSES/DTU-LYNGBY-Campus/DTU-Meeting-Centre/oversigt) in building 101 (see [map](https://www.google.com/maps/search/dtu+meeting+centre/@55.7853049,12.5181051,17z/data=!3m1!4b1)). ICE on Friday will be in building 303A (see [map](https://goo.gl/maps/eF5C1cSX4PbZVpUh9)).
 
 ## Local transportation
 [This website](https://www.visitcopenhagen.com/copenhagen/transportation/tickets-prices) contains a good overview on public transportation in the area of greater Copenhagen, to which Lyngby belongs.
