@@ -62,6 +62,11 @@ All papers must be original, unpublished, and not submitted for publication else
 
 Contributions should be submitted electronically as PDF, using the Springer LNCS style to the conference submission website (<https://easychair.org/conferences/?conf=dais2019>). Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear. All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in the LNCS series. Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted.
 
+## Special Issue 
+Selected papers will be invited to the [Special Issue on "Distributed Applications and
+Interoperable Systems: Recent Advances and Future Trends"](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-applications-and-interoperable-systems) of the [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing).
+
+
 ## Program committee chairs
 * José Orlando Pereira (Universidade do Minho & INESC TEC, Portugal)
 * Laura Ricci (University of Pisa, Italy)

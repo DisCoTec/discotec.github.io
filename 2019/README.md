@@ -128,7 +128,7 @@ The proceedings of the conference are published in [LNCS-IFIP](https://www.sprin
 * FORTE: [LNCS 11535](https://link.springer.com/book/10.1007%2F978-3-030-21759-4)
 
 ## Special issues
-The individual conferences will organise special issues of extended and selected papers in reputable journal such as [Logical Methods in Computer Science](https://lmcs.episciences.org).
+The individual conferences will organise special issues of extended and selected papers in reputable journal such as [Logical Methods in Computer Science](https://lmcs.episciences.org) and [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing).
 
 ## Accommodation and local information
 
