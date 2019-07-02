@@ -257,7 +257,7 @@ Jannik Hüls and Anne Remke <br/>
 *Model checking HPnGs in multiple dimensions: representing state sets as convex polytopes*
 
 ## DisCoRail Programme (Monday 17 June)
-(see abstracts, coauthors and details [here](https://www.discotec.org/2019/DisCoRailAbstracts.pdf))
+(see abstracts, coauthors, details and slides [here](https://www.discotec.org/2019/DisCoRailProgramWithAbstracts.html))
 
 #### 8:45-9:15 Registration and coffee & bread
 
