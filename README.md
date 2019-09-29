@@ -9,7 +9,7 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 ranging from theoretical foundations and formal description techniques to systems
 research issues. 
 
-[DisCoTec 2019](/2019) will take place at the [Technical University of Denmark](http://www.dtu.dk) in June 17-21, 2019.
+[DisCoTec 2020](/2020) will take place in Malta in June 2020.
 
 ## Steering Committee
 * Rocco De Nicola (IMT Lucca, Italy)
@@ -35,6 +35,7 @@ research issues.
 * John Derrick (University of Sheffield, UK)
 
 ## DisCoTec editions
+* [DisCoTec 2020](http://www.discotec.org/2020) - Malta
 * [DisCoTec 2019](http://www.discotec.org/2019) - Kongens Lyngby, Denmark
 * [DisCoTec 2018](http://2018.discotec.org/) - Madrid, Spain
 * [DisCoTec 2017](http://2017.discotec.org/) - Neuchâtel, Switzerland
