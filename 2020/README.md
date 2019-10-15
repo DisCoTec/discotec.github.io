@@ -23,13 +23,13 @@ TBA
 ## Keynote Speakers
 
 TBA
+
 <!--
 * [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
 * [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
 * [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
 * [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
 * [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
-
 See [titles and abstracts](./keynotes).
 -->
 
@@ -87,7 +87,6 @@ On Wednesday 19th of June we will have the DisCoTec 2019 social event in downtow
 <!-- 
 * The dinner will start at 19:30 in the restaurant [Ravelinen](https://ravelinen.dk/)
 * It is at 5 minutes walking from the destination of the boat trip [see path in Google maps](https://goo.gl/maps/LeAmZNNo7tUp2eqy7)
-
 -->
 
 ## Location
@@ -171,8 +170,8 @@ If you are interested in visiting the many museums present in Copenhagen, then y
 
 ## Proceedings
 The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.
-<!-- 
-: 
+
+<!--  
 * Coordination: [LNCS 11533](https://link.springer.com/book/10.1007%2F978-3-030-22397-7)
 * DAIS: [LNCS 11534](https://link.springer.com/book/10.1007%2F978-3-030-22496-7)
 * FORTE: [LNCS 11535](https://link.springer.com/book/10.1007%2F978-3-030-21759-4)
