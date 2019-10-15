@@ -1,15 +1,15 @@
 # DisCoTec - International Federated Conference on Distributed Computing Techniques 
 
 The DisCoTec series of federated conferences is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)). It gathers three main conferences:
-* [Coordination](https://www.discotec.org/2019/coordination) (IFIP WG6.1 International Conference on Coordination Models and Languages)
-* [DAIS](https://www.discotec.org/2019/dais) (IFIP WG6.1 International Conference on Distributed Applications and Interoperable Systems)
-* [FORTE](https://www.discotec.org/2019/forte) (IFIP WG6.1 International Conference on Formal Techniques for Distributed Objects, Components, and Systems)
+* [Coordination](https://www.discotec.org/2020/coordination) (IFIP WG6.1 International Conference on Coordination Models and Languages)
+* [DAIS](https://www.discotec.org/2020/dais) (IFIP WG6.1 International Conference on Distributed Applications and Interoperable Systems)
+* [FORTE](https://www.discotec.org/2020/forte) (IFIP WG6.1 International Conference on Formal Techniques for Distributed Objects, Components, and Systems)
 
 Together, these conferences cover a broad spectrum of distributed computing subjects,
 ranging from theoretical foundations and formal description techniques to systems
 research issues. 
 
-[DisCoTec 2019](/2019) will take place at the [Technical University of Denmark](http://www.dtu.dk) in June 17-21, 2019.
+[DisCoTec 2020](/2020) will take place at the [University of Malta](http://www.um.edu.mt) in June 15-19, 2020.
 
 ## Steering Committee
 * Rocco De Nicola (IMT Lucca, Italy)
