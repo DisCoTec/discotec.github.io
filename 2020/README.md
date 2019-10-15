@@ -34,16 +34,15 @@ See [titles and abstracts](./keynotes).
 -->
 
 ## Important dates
-<!--
-* ~~February 3, 2020 - abstract submission~~ <span style="color:red">**February 15, 2020 - extended abstract submission**</span>
-* ~~February 8, 2020 - paper submission~~ <span style="color:red">**February 22, 2020 - extended paper submission**</span>
--->
+
 * February 3, 2020 - abstract submission 
 * February 14, 2020 - paper submission
 * April 10, 2020 - notification
 * April 24, 2020 - camera ready
   
 <!--
+* ~~February 3, 2020 - abstract submission~~ <span style="color:red">**February 15, 2020 - extended abstract submission**</span>
+* ~~February 8, 2020 - paper submission~~ <span style="color:red">**February 22, 2020 - extended paper submission**</span>
 * Conferences (DAIS, Coordination, FORTE): Tuesday June 18 - Thursday June 20, 2020
 * DisCoRail workshop: Monday June 17, 2020
 * ICE workshop: Thursday June 20 - Friday June 21, 2020
