@@ -25,11 +25,11 @@ TBA
 TBA
 
 <!--
-* [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
-* [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
-* [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
-* [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
-* [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
+ [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
+ [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
+ [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
+ [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
+ [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
 See [titles and abstracts](./keynotes).
 -->
 
@@ -42,6 +42,7 @@ See [titles and abstracts](./keynotes).
 * February 14, 2020 - paper submission
 * April 10, 2020 - notification
 * April 24, 2020 - camera ready
+  
 <!--
 * Conferences (DAIS, Coordination, FORTE): Tuesday June 18 - Thursday June 20, 2020
 * DisCoRail workshop: Monday June 17, 2020
