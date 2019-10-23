@@ -1,4 +1,4 @@
-[![](https://www.discotec.org/2020/discotec-banner.jpeg)](https://www.discotec.org/2020/)
+[![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
 
 # FORTE 2010 - 40th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
