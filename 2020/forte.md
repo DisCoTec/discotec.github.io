@@ -1,11 +1,11 @@
-[![](https://www.discotec.org/2019/discotec-banner.jpeg)](https://www.discotec.org/2019/)
+[![](https://www.discotec.org/2020/discotec-banner.jpeg)](https://www.discotec.org/2020/)
 
-# FORTE 2019 - 39th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+# FORTE 2010 - 40th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
-FORTE 2019 is one of the three conferences of [DisCoTec 2019](https://www.discotec.org/2019/), the 14th International Federated Conference on Distributed Computing Techniques.
+FORTE 2020 is one of the three conferences of [DisCoTec 2020](https://www.discotec.org/2020/), the 15th International Federated Conference on Distributed Computing Techniques.
 
 ### Quick Links:
-* [Important Dates (Extended!)](https://www.discotec.org/2019/#important-dates)
+* [Important Dates](https://www.discotec.org/2020/#important-dates)
 * [Topics of Interest](#main-topics-of-interest)
 * [Submission Categories](#submission-categories)
 * [Submission Link](#submission-link)
@@ -14,14 +14,10 @@ FORTE 2019 is one of the three conferences of [DisCoTec 2019](https://www.discot
 * [Contact](#more-information)
 
 ## Keynote Speakers
-* [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
-* [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
-* [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
-* [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
-* [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
+* TBA
 
 ## Scope
-FORTE 2019 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
+FORTE 2020 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
 
 The conference solicits original contributions that advance the science and technology for distributed systems, with special interest in:
 
@@ -67,7 +63,7 @@ Topics of interest include but are not limited to:
 
 ### Submission dates
 
-See the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). 
+See the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates). 
 
 ### Submission Guidelines
 Contributions must be written in English according to one of the three categories described below. They should report on original, unpublished work, not submitted for publication elsewhere (cf. [IFIP codes of conduct](http://www.ifip.org/index.php?option=com_content&task=view&id=219&Itemid=564), under Links).  
@@ -94,12 +90,12 @@ Notice that *short* and *journal-first* papers must be explicitly marked as such
 
 3. __"Journal First" papers__ (page limit: up to 2 pages, including references)
 
-   This is a new category, which aims at including published journal papers in the FORTE 2019 program. The objective is to offer FORTE attendees a richer program and further opportunities for interaction. 
+   This is a new category, which aims at including published journal papers in the FORTE 2020 program. The objective is to offer FORTE attendees a richer program and further opportunities for interaction. 
 
    Authors of published papers in high-quality journals can submit a proposal to present their journal paper in FORTE. The journal paper must adhere to the following four criteria:
 
    * It should be clearly in the scope of the conference.
-   * It should be recent: only journal papers available  after January 1, 2017 (online or paper) can be presented. 
+   * It should be recent: only journal papers available  after January 1, 2018 (online or paper) can be presented. 
    * It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).
    * It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.
    
@@ -108,56 +104,29 @@ Notice that *short* and *journal-first* papers must be explicitly marked as such
    Journal-first submissions must be marked as such in the submission's title, and must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program. 
 
 ### Publication 
-All accepted papers, regardless of category, will be published in the FORTE 2019 formal proceedings, which will appear in Springer's LNCS-IFIP volume series. 
-
-### Special Issue 
-Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
+All accepted papers, regardless of category, will be published in the FORTE 2020 formal proceedings, which will appear in Springer's LNCS-IFIP volume series. 
 
 ## Submission Link
-<https://easychair.org/conferences/?conf=forte19>
+<https://easychair.org/conferences/?conf=forte20>
 
 ## Program committee chairs
-* [Jorge A. Pérez](http://jperez.nl) (University of Groningen, The Netherlands)
-* [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/) (Imperial College London, UK)
+* [Alexey Gotsman](https://software.imdea.org/~gotsman/) (IMDEA Software Institute, Spain)
+* [Ana Sokolova](http://cs.uni-salzburg.at/~anas/) (University of Salzburg)
 
 ## Program comitteee members
-* [Samik	Basu](https://www.cs.iastate.edu/people/samik-basu-0)	(Iowa State University, USA)
-* [Annette	Bieniusa](https://softech.informatik.uni-kl.de/homepage/en/staff/AnnetteBieniusa)	(University of Kaiserslautern, Germany)
-* [Stefano	Calzavara](http://www.dais.unive.it/~calzavara)		(Università Ca' Foscari Venezia, Italy)	 
-* [Natalia	Chechina](https://staffprofiles.bournemouth.ac.uk/display/nchechina)	(Bournemouth University, UK)
-* [Mila	Dalla Preda](http://profs.sci.univr.it/~dallapre)	(University of Verona, Italy)
-* [Rayna	Dimitrova](https://raynadimitrova.github.io) (University of Leicester, UK)
-* [Patrick	Eugster](http://www.inf.usi.ch/faculty/eugstp)		(University of Lugano, Switzerland)	
-* [Ichiro	Hasuo](http://group-mmm.org/~ichiro)	(National Institute of Informatics, Japan)
-* [Thomas	Hildebrandt](http://www.itu.dk/~hilde)		(University of Copenhagen, Denmark)
-* [Sophia	Knight](https://scse.d.umn.edu/computer-science-department/faculty-staff/dr-sophia-knight)	(University of Minnesota Duluth, USA)
-* [Etienne	Lozes](http://www.i3s.unice.fr/~elozes)		(University of Nice & CNRS, France)
-* [Emanuela	Merelli](http://www.emanuelamerelli.eu)		(University of Camerino, Italy)
-* [Roland	Meyer](https://www.tcs.cs.tu-bs.de/group/meyer)	(TU Braunschweig, Germany)
-* [Uwe	Nestmann](https://www.mtv.tu-berlin.de/nestmann)	(TU Berlin, Germany)		
-* [Gustavo	Petri](https://gpetri.github.io)	(IRIF - Paris Diderot - Paris 7, France)
-* [Willard	Rafnsson](http://research.precise.li)	(IT University of Copenhagen, Denmark)
-* [Anne	Remke](http://wwwhome.cs.utwente.nl/~anne) (WWU Münster, Germany and University of Twente, The Netherlands)
-* [Guido	Salvaneschi](http://www.guidosalvaneschi.com)	(TU Darmstadt, Germany) 
-* [Cesar	Sanchez](http://software.imdea.org/~cesar)	(IMDEA Software Institute, Spain)
-* [Ana	Sokolova](http://cs.uni-salzburg.at/~anas)	(University of Salzburg, Austria)
-* [Alexander J.	Summers](http://people.inf.ethz.ch/summersa)	(ETH Zurich, Switzerland)
-* [Peter	Thiemann](http://www2.informatik.uni-freiburg.de/~thiemann)	(Universität Freiburg, Germany)
-* [Tim	Willemse](http://www.win.tue.nl/~timw)	(Eindhoven University of Technology, The Netherlands)
-* [Lukasz	Ziarek](https://cse.buffalo.edu/~lziarek)	(SUNY Buffalo, USA)
-* [Jaco	van de Pol](http://wwwhome.ewi.utwente.nl/~vdpol)	(Aarhus University, Denmark and University of Twente, The Netherlands)
+* TBA
 
 ## Steering committee
-* Erika Abraham (Aachen University, Germany)
-* Elvira Albert (Complutense University of Madrid, Spain)
-* Christel Baier (Universität Dresden, Germany)
+* Ahmed Bouajjani (University Paris Diderot, France)
+* Christel Baier (University Dresden, Germany)
 * Frank de Boer (CWI, Netherlands)
 * Luís Caires (Universidade Nova de Lisboa, Portugal)
 * Einar Broch Johnsen (University of Oslo, Norway)
-* Ivan Lanese (University of Bologna/INRIA, Italy)
-* Catuscia Palamidessi (INRIA Paris, France) 
-* Jean-Bernard Stefani (INRIA Grenoble, France) - Chair
+* Jorge A. Pérez (University of Groningen, The Netherlands)
+* Alexandra Silva (University College London, UK)
+* Jean-Bernard Stefani (INRIA Grenoble, France)
+* Nobuko Yoshida (Imperial College London, UK)
 * Heike Wehrheim (Paderborn University, Germany)
 
 ## More Information
-For additional information, please contact the Program Committee Co-chairs: <forte19@easychair.org>
+For additional information, please contact the Program Committee Co-chairs: <forte20@easychair.org>
