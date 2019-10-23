@@ -1,5 +1,6 @@
 [![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
 
+
 # DisCoTec 2020 - 15th International Federated Conference on Distributed Computing Techniques
 
 [DisCoTec](https://www.discotec.org) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)). It gathers several conferences and workshops that cover a broad spectrum of distributed computing subjects, ranging from theoretical foundations and formal description techniques to systems
