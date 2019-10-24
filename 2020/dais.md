@@ -2,7 +2,7 @@
 
 # DAIS 2020 - 20th International Conference on Distributed Applications and Interoperable Systems
 
-DAIS 2019 is one of the three conferences of [DisCoTec 2020](https://www.discotec.org/2020/).
+DAIS 2020 is one of the three conferences of [DisCoTec 2020](https://www.discotec.org/2020/).
 
 ## Keynote Speakers
 * [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
