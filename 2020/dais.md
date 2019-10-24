@@ -1,15 +1,12 @@
 [![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
 
-# DAIS 2020 - 20th International Conference on Distributed Applications and Interoperable Systems
+# DAIS 2020 - 19th International Conference on Distributed Applications and Interoperable Systems
 
 DAIS 2020 is one of the three conferences of [DisCoTec 2020](https://www.discotec.org/2020/).
 
 ## Keynote Speakers
-* [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
-* [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
-* [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
-* [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
-* [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
+* TBA
+
 
 # Scope
 The DAIS conference series addresses all practical and conceptual aspects of distributed applications, including their design, modeling, implementation and operation, the supporting middleware, appropriate software engineering methodologies and tools, as well as experimental studies and applications. Submissions will be judged on their originality, significance, clarity, relevance, and technical correctness.
@@ -50,7 +47,7 @@ System issues and design goals, including
 * tail-performance and energy-efficiency.
 
 ## Submission dates
-See the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). 
+See the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates). 
 
 ## Submission and Publication
 
@@ -60,63 +57,28 @@ All papers must be original, unpublished, and not submitted for publication else
 * Full practical experience reports, including experimental and evaluation studies, case studies, and practice reports in no more than 15 pages + 2 pages references.
 * Work-in-progress papers, describing ongoing work and interim results, in no more than 6 pages + 2 pages references.
 
-Contributions should be submitted electronically as PDF, using the Springer LNCS style to the conference submission website (<https://easychair.org/conferences/?conf=dais2019>). Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear. All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in the LNCS series. Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted.
+Contributions should be submitted electronically as PDF, using the Springer LNCS style to the conference submission website (<https://easychair.org/conferences/?conf=dais2020>). Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear. All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in the LNCS series. Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted.
 
 ## Special Issue 
-Selected papers will be invited to the [Special Issue on "Distributed Applications and
-Interoperable Systems: Recent Advances and Future Trends"](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing/call-for-papers/distributed-applications-and-interoperable-systems) of the [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing).
-
+Selected papers from DAIS'20 will be invited to a special issue of a reputed journal (to be announced soon).
 
 ## Program committee chairs
-* José Orlando Pereira (Universidade do Minho & INESC TEC, Portugal)
-* Laura Ricci (University of Pisa, Italy)
+* Anne Remke (University of Münster, Germany)
+* Valerio Schiavoni (University of Neuchâtel, Switzerland)
 
 ## Program committee
-* Altair Santin (PUCPR, Brazil)
-* Barbara Guidi (Department of Computer Science, University of Pisa, Italy)
-* Boris Koldehofe (TU Darmstadt, Germany)
-* Claudio Antares Mezzina (University of Leicester, UK)
-* Claudio Palazzi (University of Padova, Italy)
-* David Eyers (University of Otago, New Zealand)
-* Davide Frey (INRIA, France)
-* Emanuel Onica (Alexandru Ioan Cuza University of Iasi, Romania)
-* Etienne Rivière (Université Catholique de Louvain, Belgium)
-* Francesc D. Muñoz-Escoí (Instituto Tecnolgico de Informtica, UPV, Valencia, Spain, Spain)
-* Frank Eliassen (University of Oslo, Norway)
-* Hans P. Reiser (University of Passau, Germany)
-* Iberia Medeiros (LaSIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal)
-* João Paulo (University of Minho, Portugal)
-* Jordi Guitart (Universitat Politècnica de Catalunya, Spain)
-* Kostas Magoutis (University of Ioannina, Greece)
-* Manuel Bravo (IMDEA Software Institute, Madrid, Spain)
-* Marco Serafini (University of Massachusetts Amherst, USA)
-* Mark Jelasity (University of Szeged, Hungary)
-* Mark Little (RedHat, UK)
-* Marta Patino (Universidad Politécnica de Madrid, Spain)
-* Miguel Matos (IST, INESC-ID, U. Lisboa, Portugal)
-* Mohammed Erradi (ENSIAS Rabat, Morocco)
-* Sara Bouchenak (INSA Lyon, France)
-* Silvia Bonomi (Sapienza University of Rome, Italy)
-* Sonia Ben Mokhtar (LIRIS CNRS, France)
-* Valerio Schiavoni (University of Neuchatel, Switzerland)
-* Vana Kalogeraki (Athens University of Economics and Business, Greece)
+TBA
 
 ## Steering committee
-* Alysson Bessani (Universidade de Lisboa, Portugal)
-* Sara Bouchenak (INSA Lyon, France)
-* Lydia Y. Chen (IBM Research Zurich Lab, Switzerland)
-* Jim Dowling (Swedish Institute of Computer Science, Kista, Sweden)
+* Lydia Y. Chen (TU Delft, Netherlands)
 * Frank Eliassen (University of Oslo, Norway)
-* Pascal Felber (Université de Neuchâtel, Switzerland)
-* Karl M. Goeschka (FH Technikum Wien, Austria)
-* Evangelia Kalyvianaki (University of Cambridge, UK)
 * Rüdiger Kapitza (Technical University of Braunschweig, Germany)
-* Kostas Magoutis (FORTH-ICS, Greece)
-* Rui Oliveira (Universidade do Minho, Portugal -- Chair)
-* Peter Pietzuch (Imperial College London, UK)
+* Rui Oliveira (University of Minho / INESC TEC, Portugal -- Chair)
 * Hans P. Reiser (University of Passau, Germany)
-* Romain Rouvoy (University Lille 1, France)
-* François Taiani (Université de Rennes 1, France)
+* Laura Ricci (University of Pisa, Italy)
+* Silvia Bonomi (Università degli Studi di Roma "La Sapienza”, Italy)
+* Etienne Riviere (Ecole Polytechnique de Louvain. Belgium)
+* Jose Pereira (University of Minho / INESC TEC, Portugal)
 
 ## More Information
-For additional information, please contact the Program Committee Co-chairs: <dais2019@easychair.org>
+For additional information, please contact the Program Committee Co-chairs: <dais2020@easychair.org>
