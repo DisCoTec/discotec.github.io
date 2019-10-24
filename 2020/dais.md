@@ -1,4 +1,4 @@
-[![](https://www.discotec.org/2029/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
+[![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
 
 # DAIS 2020 - 20th International Conference on Distributed Applications and Interoperable Systems
 
