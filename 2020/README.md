@@ -3,7 +3,7 @@
 
 # DisCoTec 2020 - 15th International Federated Conference on Distributed Computing Techniques
 
-[DisCoTec](https://www.discotec.org) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)). It gathers conferences and workshops that cover a broad spectrum of distributed computing subjects, ranging from theoretical foundations and formal description techniques, to systems research issues. DisCoTec 2020 will take place at the [University of Malta](http://www.um.edu.mt), [Valletta](https://www.um.edu.mt/campuses/valletta), in June 15-19, 2020.
+[DisCoTec](https://www.discotec.org) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)). It gathers conferences and workshops covering a broad spectrum of distributed computing subjects, from theoretical foundations and formal description techniques, to systems research issues. DisCoTec 2020 will take place at the [University of Malta](http://www.um.edu.mt), [Valletta](https://www.um.edu.mt/campuses/valletta), in June 15-19, 2020.
 
 ## Conferences
 * [Coordination 2020](https://www.discotec.org/2020/coordination) - International Conference on Coordination Models and Languages
