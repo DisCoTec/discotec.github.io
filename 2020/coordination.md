@@ -1,8 +1,8 @@
-[![](https://www.discotec.org/2019/discotec-banner.jpeg)](https://www.discotec.org/2019/)
+[![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2019/)
 
-# COORDINATION 2019 - 21st International Conference on Coordination Models and Languages
+# COORDINATION 2020 - 22nd International Conference on Coordination Models and Languages
 
-Coordination 2019 is one of the three conferences of [DisCoTec 2019](https://www.discotec.org/2019/).
+Coordination 2020 is one of the three conferences of [DisCoTec 2020](https://www.discotec.org/2020/).
 
 
 ## Highlights
