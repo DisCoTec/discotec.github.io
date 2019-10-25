@@ -1,31 +1,15 @@
-[![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2019/)
+[![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
 
 # COORDINATION 2020 - 22nd International Conference on Coordination Models and Languages
 
 Coordination 2020 is one of the three conferences of [DisCoTec 2020](https://www.discotec.org/2020/).
 
-
-## Highlights
-
-e-Proceedings now available
-* [click here](https://link.springer.com/book/10.1007%2F978-3-030-22397-7)
-
-Two new categories of submissions added!
-* **[special topics](#special-topics)**: we seek for contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
-* **[tool papers](#tool-papers)**: we seek for video+paper submissions on tools related to coordination
-
-See the [submission section](#submissions) below for details.
-
-
 ## Keynote Speakers
-* [David Basin](https://www.inf.ethz.ch/personal/basin/) (ETH Zürich, Switzerland)
-* [Anne-Marie Kermarrec](https://www.irisa.fr/asap/?page_id=179) (INRIA Rennes, France)
-* [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/) (University of Oxford, UK)
-* [Silvio Micali](https://people.csail.mit.edu/silvio/) (MIT, USA)  
-* [Martin Wirsing](https://www.sosy-lab.org/people/wirsing/) (LMU, Germany)
+* TBA
+
 
 ## Programme
-The programme is [here](https://www.discotec.org/2019/programme)
+The programme will be available [here](https://www.discotec.org/2020/programme)
 
 
 ## Scope
@@ -40,7 +24,7 @@ Topics of interest encompass all areas of coordination, including (but not limit
 * Nature- and bio-inspired approaches to coordination;
 * Coordination of multiagent and collective systems: models, languages, infrastructures, self-adaptation, self-organisation, distributed solving, collective intelligence and emerging behaviour;
 * Coordination and modern distributed computing: web services, peer-to-peer networks, grid computing, context-awareness, ubiquitous computing, mobile computing;
-* Coordination platforms for infrastructures of emerging new application domains like IoT, fog- and edge- computing;
+* Coordination platforms for infrastructures of emerging new application domains like IoT, fog- and edge-computing;
 * Programming methodologies, languages, middleware, tools, and environments for the development and verification of coordinated applications;
 * Tools, languages and methodologies for secure coordination;
 * Industrial relevance of coordination and software architectures: programming in the large, domain-specific software architectures and coordination models, case studies;
@@ -49,39 +33,29 @@ Topics of interest encompass all areas of coordination, including (but not limit
 
 ### Special topics
 
-COORDINATION 2019 is seeking for contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
-For this we have identified the following topics
-* Exploring the frontiers between coordination and control systems (contact: Chiara Bodei <chiara.bodei@unipi.it> and Hugo Torres Vieira <hugotvieira@imtlucca.it>)
-
-Formal connections have recently been established between formal methods and the areas of supervisory control theory and reactive synthesis. For instance a reduction of the corresponding supervisory control problem to a problem of reactive synthesis a having CTL specification is given in the work of Ehlers, Lafortune, Tripakis, and Vardi (https://doi.org/10.3182/20140514-3-FR-4046.00018).
-Do the techniques typically applied to specify and verify the coordination of system have similar relationships? Are there coordination problems that could be reduced to problems in control theory?
-
-* Coordination of emerging parallel/distributed architectures (contact: Jean-Marie Jaquet <jean-marie.jacquet@unamur.be>)
-
-Blockchains, micro-services and socio-technological systems are novel distributed architectures that call for new research efforts in coordination. These include new models, new development methodologies, new expressiveness studies, new implementations as well as novel applications.
-
-* From coordination to verification and back (contact: Laura Bocchi <l.bocchi@kent.ac.uk>)
-
-Enhanced languages, models, and techniques for testing and verification can help taming the complexity of coordinating distributed software. These may include: the interplay between formal models and debugging or testing as well as the use of verification techniques to provide meaningful feedback. Promising research directions include (but are not limited to) formal approaches for static and dynamic analysis of open systems (eg in presence of components that are persistent, volatile, or relying on weak-memory models), and type-based approaches (eg, type-state programming). 
+COORDINATION 2020 is seeking for contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
 
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
+Currently, we are in the process of solliciting the Program Committee for topic proposals. Please check back with us shortly. 
 
 ### Tool papers
 
 We welcome tool papers that describe technological artefacts, including innovative prototypes, for modelling, analysing, simulating or testing systems in the scope of the research topics of COORDINATION. **Submissions must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process.** Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process. A dedicated special issue for accepted contributions is being planned.
 
-Interested authors can contact Omar Inverso <omar.inverso@gssi.it> and Hugo Torres Vieira <hugotvieira@imtlucca.it> for details.
+Tool papers presenting coordination APIs, allowing the broad community to easily utilise provided coordination mechanisms are particularly welcome. 
+
+Interested authors can contact Omar Inverso <omar.inverso@gssi.it> for details.
 
 ## Submissions
 
 ### Dates
 
-See the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). 
+See the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates). 
 
 ### Publication and Special Issues
 
-Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2019/#important-dates). Submissions are handled through the EasyChair conference management system, accessible from the conference web site: [https://easychair.org/conferences/?conf=coordination2019](https://easychair.org/conferences/?conf=coordination2019)
+Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates). Submissions are handled through the EasyChair conference management system, accessible from the conference web site: [https://easychair.org/conferences/?conf=coordination2020](https://easychair.org/conferences/?conf=coordination2020)
 
 Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). The submissions must not exceed the total page number limit (see below) prepared using Springer’s LNCS style. Submissions not adhering to the above specified constraints may be rejected without review.
 
@@ -100,19 +74,17 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ### Submission Link
 
-[https://easychair.org/conferences/?conf=coordination2019](https://easychair.org/conferences/?conf=coordination2019)
+[https://easychair.org/conferences/?conf=coordination2020](https://easychair.org/conferences/?conf=coordination2020)
 
 ## Program committee chairs
-* Emilio Tuosto (University of Leicester, UK - <emilio@le.ac.uk>)
-* Hanne Riis Nielson (DTU, Denmark - <hrni@dtu.dk>)
+* Simon Bliudze (Inria Lille - Nord Europe, France - <simon.bliudze@inria.fr>)
+* Laura Bocchi (University of Kent, UK - <l.bocchi@kent.ac.uk>)
 
-## Program committee
+## Tentative program committee (TBC)
 * Stephanie Balzer (CMU, USA)
-* Simon Bliudze (INRIA, France)
-* Laura Bocchi (University of Kent, UK)
 * Chiara Bodei (Università di Pisa, Italy)
+* Marius Bozga (Université Grenoble Alpes, France)
 * Roberto Bruni (Università di Pisa, Italy)
-* Giovanna Di Marzo Serugendo (University of Geneva, Switzerland)
 * Fatemeh Ghassemi (University of Tehran, Iran)
 * Elisa Gonzalez Boix (VUB, Belgium)
 * Roberto Guanciale (KTH, Sweden)
@@ -121,20 +93,24 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Omar Inverso (Gran Sasso Science Institute, Italy)
 * Jean-Marie Jacquet (University of Namur, Belgium)
 * Eva Kühn (Vienna University of Technology, Austria)
+* Ivan Lanese (University of Bologna, Italy)
+* Alberto Lluch Lafuente (DTU, Denmark)
 * Michele Loreti (University of Camerino, Italy)
+* Anastasia Mavridou (NASA Ames Research Center, USA)
 * Mieke Massink (CNR-ISTI, Italy)
 * Hernan Melgratti (Universidad de Buenos Aires, Argentina)
-* Claudio Antares Mezzina (University of Leicester, UK) 
+* Claudio Antares Mezzina (Università degli studi di Urbino, Italy)
+* Heather Miller (CMU, USA)
 * Rumyana Neykova (Brunel University London, UK)
 * Luca Padovani (Università di Torino, Italy)
 * Danilo Pianini (University of Bologna, Italy)
-* Christian W. Probst (Unitec Institute of Technology, New Zealand)
+* Hanne Riis Nielson (DTU, Denmark)
 * Rene Rydhof Hansen (Aalborg University, Denmark)
-* Gwen Salaün (University of Grenoble Alpes, France)
+* Gwen Salaün (Université Grenoble Alpes, France)
 * Meng Sun (Peking University, China)
 * Carolyn Talcott (SRI International, USA)
-* Hugo Torres Vieira (IMT School for Advanced Studies Lucca, Italy)
-* Takuo Watanabe (Tokyo Institute of Technology, Japan)
+* Hugo Torres Vieira (Universidade da Beira Interior, Portugal)
+* Emilio Tuosto (University of Leicester, UK & Gran Sasso Science Institute, Italy)
 
 
 ## Steering committee
