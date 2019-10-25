@@ -131,7 +131,8 @@ If you are interested in visiting the many museums present in Copenhagen, then y
 
 ## Organising Committee
 * [Adrian Francalanza](http://staff.um.edu.mt/afra1/) (University of Malta, Malta - General chair)
-  
+
+
 <!-- Kiko Fernández-Reyes (Uppsala University - Publicity chair)
  Francesco Tiezzi (University of Camerino — Publicity chair)
  Andrea Vandin (DTU, Denmark — Workshops chair)
