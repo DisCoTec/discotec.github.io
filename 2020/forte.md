@@ -13,9 +13,6 @@ FORTE 2020 is one of the three conferences of [DisCoTec 2020](https://www.discot
 * [Program Committee](#program-committee-chairs)
 * [Contact](#more-information)
 
-## Keynote Speakers
-* TBA
-
 ## Scope
 FORTE 2020 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
 
@@ -71,7 +68,7 @@ Contributions must be written in English according to one of the three categorie
 Submissions must be prepared as a PDF using Springer’s LNCS style. Submissions not adhering to the specified constraints of their respective category may be rejected without review. 
 
 ### Submission Categories
-This year, FORTE accepts contributions in three categories: __full papers__, __short papers__, and __journal-first papers__. These categories and their associated criteria are described in detail below. 
+FORTE accepts contributions in three categories: __full papers__, __short papers__, and __journal-first papers__. These categories and their associated criteria are described in detail below. 
 
 Notice that *short* and *journal-first* papers must be explicitly marked as such in the submission's title. 
 
@@ -90,7 +87,7 @@ Notice that *short* and *journal-first* papers must be explicitly marked as such
 
 3. __"Journal First" papers__ (page limit: up to 2 pages, including references)
 
-   This is a new category, which aims at including published journal papers in the FORTE 2020 program. The objective is to offer FORTE attendees a richer program and further opportunities for interaction. 
+   This category aims at including published journal papers in the FORTE 2020 program. The objective is to offer FORTE attendees a richer program and further opportunities for interaction. 
 
    Authors of published papers in high-quality journals can submit a proposal to present their journal paper in FORTE. The journal paper must adhere to the following four criteria:
 
@@ -106,15 +103,41 @@ Notice that *short* and *journal-first* papers must be explicitly marked as such
 ### Publication 
 All accepted papers, regardless of category, will be published in the FORTE 2020 formal proceedings, which will appear in Springer's LNCS-IFIP volume series. 
 
+### Special Issue 
+Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
+
 ## Submission Link
 <https://easychair.org/conferences/?conf=forte20>
 
 ## Program committee chairs
 * [Alexey Gotsman](https://software.imdea.org/~gotsman/) (IMDEA Software Institute, Spain)
-* [Ana Sokolova](http://cs.uni-salzburg.at/~anas/) (University of Salzburg)
+* [Ana Sokolova](http://cs.uni-salzburg.at/~anas/) (University of Salzburg, Austria)
 
 ## Program comitteee members
-* TBA
+* Marco Bernardo (University of Urbino, Italy)
+* Nathalie Bertrand (INRIA, France)
+* Marco Carbone (IT University of Copenhagen, Denmark)
+* Andrea Corradini (University of Pisa, Italy)
+* Cezara Dragoi (INRIA and ENS, France)
+* Constantin Enea (University Paris Diderot, France)
+* Javier Esparza (TU Munich, Germany)
+* Philipp Haller (KTH, Sweden)
+* Bart Jacobs (KU Leuven, Belgium)
+* Radha Jagadeesan (DePaul University, USA)
+* Akash Lal (Microsoft Research, India)
+* Mohsen Lesani (University of California, Riverside, USA)
+* Antoine Miné (UPMC, France)
+* Koko Muroya (RIMS Kyoto University, Japan)
+* Catuscia Palamidessi (INRIA and LIX, France)
+* Kirstin Peters (TU Darmstadt, Germany)
+* Tatjana Petrov (University of Konstanz, Germany)
+* Vincent Rahli (University of Birmingham, UK)
+* Tyler Sorensen (Princeton University, USA)
+* Marielle Stoelinga (TU Twente, The Netherlands)
+* Sara Tucci-Piergiovanni (CEA LIST, France)
+* Nikos Tzevelekos (Queen Mary University of London, UK)
+* Viktor Vafeiadis (MPI-SWS, Germany)
+* Josef Widder (TU Vienna and Interchain, Austria)
 
 ## Steering committee
 * Ahmed Bouajjani (University Paris Diderot, France)
@@ -124,9 +147,9 @@ All accepted papers, regardless of category, will be published in the FORTE 2020
 * Einar Broch Johnsen (University of Oslo, Norway)
 * Jorge A. Pérez (University of Groningen, The Netherlands)
 * Alexandra Silva (University College London, UK)
-* Jean-Bernard Stefani (INRIA Grenoble, France)
+* Jean-Bernard Stefani (INRIA, France)
 * Nobuko Yoshida (Imperial College London, UK)
 * Heike Wehrheim (Paderborn University, Germany)
 
 ## More Information
-For additional information, please contact the Program Committee Co-chairs: <forte20@easychair.org>
+For additional information, please contact the Program Committee Co-chairs: forte20 at easychair dot org

@@ -81,37 +81,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Laura Bocchi (University of Kent, UK - <l.bocchi@kent.ac.uk>)
 
 ## Tentative program committee (TBC)
-* Stephanie Balzer (CMU, USA)
-* Chiara Bodei (Università di Pisa, Italy)
-* Marius Bozga (Université Grenoble Alpes, France)
-* Roberto Bruni (Università di Pisa, Italy)
-* Fatemeh Ghassemi (University of Tehran, Iran)
-* Elisa Gonzalez Boix (VUB, Belgium)
-* Roberto Guanciale (KTH, Sweden)
-* Ludovic Henrio (CNRS, France)
-* Thomas  Hildebrandt (University of Copenhagen, Denmark)
-* Omar Inverso (Gran Sasso Science Institute, Italy)
-* Jean-Marie Jacquet (University of Namur, Belgium)
-* Eva Kühn (Vienna University of Technology, Austria)
-* Ivan Lanese (University of Bologna, Italy)
-* Alberto Lluch Lafuente (DTU, Denmark)
-* Michele Loreti (University of Camerino, Italy)
-* Anastasia Mavridou (NASA Ames Research Center, USA)
-* Mieke Massink (CNR-ISTI, Italy)
-* Hernan Melgratti (Universidad de Buenos Aires, Argentina)
-* Claudio Antares Mezzina (Università degli studi di Urbino, Italy)
-* Heather Miller (CMU, USA)
-* Rumyana Neykova (Brunel University London, UK)
-* Luca Padovani (Università di Torino, Italy)
-* Danilo Pianini (University of Bologna, Italy)
-* Hanne Riis Nielson (DTU, Denmark)
-* Rene Rydhof Hansen (Aalborg University, Denmark)
-* Gwen Salaün (Université Grenoble Alpes, France)
-* Meng Sun (Peking University, China)
-* Carolyn Talcott (SRI International, USA)
-* Hugo Torres Vieira (Universidade da Beira Interior, Portugal)
-* Emilio Tuosto (University of Leicester, UK & Gran Sasso Science Institute, Italy)
-
+TBA
 
 ## Steering committee
 * Gul Agha, University of Illinois at Urbana Champaign, USA
