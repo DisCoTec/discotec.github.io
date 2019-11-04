@@ -122,23 +122,21 @@ Regarding tickets, we recommend buying a [rejsekort anonymous](https://www.rejse
 Another option is the [large citypass](https://dinoffentligetransport.dk/citypass). It can be done for 1,2,3,4, or 5 days. 5 days costs about 80 EUR, and allows you to travel freely in the greater Copenhagen area.
 
 If you are interested in visiting the many museums present in Copenhagen, then you might also consider a [Copenhagen Card](https://copenhagencard.com/free-public-transport). It is a more expensive version of the city pass which also grants you free access to several museums and attractions.
--->
+
 
 
 ## Flyer
 [DisCoTec 2020 Flyer](DisCoTec2019-flyer.pdf) 
-
+-->
 
 ## Organising Committee
 * [Adrian Francalanza](http://staff.um.edu.mt/afra1/) (University of Malta, Malta - General chair)
-
-<!-- Kiko Fernández-Reyes (Uppsala University - Publicity chair)
- Francesco Tiezzi (University of Camerino — Publicity chair)
- Andrea Vandin (DTU, Denmark — Workshops chair)
- Maurice ter Beek (CNR, Italy — Workshops chair)
- Valerio Schiavoni (Université de Neuchâtel, Switzerland — Workshops chair)
- Ann-Cathrin Dunker (DTU — Logistics)
--->
+* Kiko Fernández-Reyes (Uppsala University, Sweden - Publicity chair)
+* Davide Basile (University of Pisa, Italy — Publicity chair)
+* Andrea Vandin (DTU, Denmark — Workshops chair)
+* Duncan Attard (University of Malta, Malta — Workshops chair)
+* Antonis Achilleos (Reykjavik University, Iceland — Workshops chair)
+* Lucienne Bugeja (University of Malta, Malta — Logistics)
 
 ## Scientific Committee
 * [Laura Bocchi](https://www.cs.kent.ac.uk/people/staff/lb514/) (University of Kent, UK - Coordination PC Chair)
