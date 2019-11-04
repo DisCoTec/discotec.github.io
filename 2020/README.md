@@ -129,15 +129,6 @@ If you are interested in visiting the many museums present in Copenhagen, then y
 [DisCoTec 2020 Flyer](DisCoTec2019-flyer.pdf) 
 -->
 
-## Organising Committee
-* [Adrian Francalanza](http://staff.um.edu.mt/afra1/) (University of Malta, Malta - General chair)
-* Kiko Fernández-Reyes (Uppsala University, Sweden - Publicity chair)
-* Davide Basile (University of Pisa, Italy — Publicity chair)
-* Andrea Vandin (DTU, Denmark — Workshops chair)
-* Duncan Attard (University of Malta, Malta — Workshops chair)
-* Antonis Achilleos (Reykjavik University, Iceland — Workshops chair)
-* Lucienne Bugeja (University of Malta, Malta — Logistics)
-
 ## Scientific Committee
 * [Laura Bocchi](https://www.cs.kent.ac.uk/people/staff/lb514/) (University of Kent, UK - Coordination PC Chair)
 * [Simon Bluidze](https://www.bliudze.me/simon/) (INRIA Lille, France - Coordination PC Chair)
@@ -145,6 +136,17 @@ If you are interested in visiting the many museums present in Copenhagen, then y
 * [Anne Remke](https://wwwhome.ewi.utwente.nl/~anne/) (University of Twente - DAIS PC Chair)
 * [Valerio Schiavoni](http://members.unine.ch/valerio.schiavoni/) (Université de Neuchâtel, Switzerland   - DAIS PC Chair)
 * [Ana Sokolova](http://cs.uni-salzburg.at/~anas/) (University of Salzburg, Austria - FORTE PC Chair)
+
+
+## Organising Committee
+* [Adrian Francalanza](http://staff.um.edu.mt/afra1/) (University of Malta, Malta - General chair)
+* Davide Basile (University of Pisa, Italy — Publicity chair)
+* Kiko Fernández-Reyes (Uppsala University, Sweden - Publicity chair)
+* Antonis Achilleos (Reykjavik University, Iceland — Workshops chair)
+* Duncan Attard (University of Malta, Malta — Workshops chair)
+* Ornela Dardha (University of Glasgow, United Kingdom — Workshops chair)
+* Lucienne Bugeja (University of Malta, Malta — Logistics)
+
 
 ## Steering Committee
 * Rocco De Nicola (IMT Lucca, Italy)
