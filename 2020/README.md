@@ -44,11 +44,11 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 
 ## Organising Committee
 * [Adrian Francalanza](http://staff.um.edu.mt/afra1/) (University of Malta, Malta - General chair)
-* [Davide Basile] (http://pages.di.unipi.it/basile/) (University of Pisa, Italy — Publicity chair)
-* [Kiko Fernández-Reyes] (https://www.plresearcher.com) (Uppsala University, Sweden - Publicity chair)
+* [Davide Basile](http://pages.di.unipi.it/basile/) (University of Pisa, Italy — Publicity chair)
+* [Kiko Fernández-Reyes](https://www.plresearcher.com) (Uppsala University, Sweden - Publicity chair)
 * Antonis Achilleos (Reykjavik University, Iceland — Workshops chair)
 * Duncan Attard (University of Malta, Malta — Workshops chair)
-* [Ornela Dardha] (http://www.dcs.gla.ac.uk/~ornela/) (University of Glasgow, United Kingdom — Workshops chair)
+* [Ornela Dardha](http://www.dcs.gla.ac.uk/~ornela/) (University of Glasgow, United Kingdom — Workshops chair)
 * Lucienne Bugeja (University of Malta, Malta — Logistics)
 
 
