@@ -59,7 +59,7 @@
 * Hugo Torres Vieira (Universidade da Beira Interior, Portugal)
 * Emilio Tuosto (University of Leicester, UK & Gran Sasso Science Institute, Italy)
 
-### DAIS Scientific Committee
+### DAIS
 
 #### Program committee chairs
 
