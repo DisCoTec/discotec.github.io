@@ -18,17 +18,19 @@
 * April 24, 2020 - camera ready
 
 
-## Coordination Scientific Committee
+## Scientific Committees
 
-### Program committee chairs
-* [Simon Bluidze](https://www.bliudze.me/simon/) (Inria Lille - Nord Europe, France - <simon.bliudze@inria.fr>)
-* [Laura Bocchi](https://www.cs.kent.ac.uk/people/staff/lb514/) (University of Kent, UK - <l.bocchi@kent.ac.uk>)
+### Coordination
 
-### Tool track chairs
+#### Program committee chairs
+* [Simon Bluidze](https://www.bliudze.me/simon/) (Inria Lille - Nord Europe, France)
+* [Laura Bocchi](https://www.cs.kent.ac.uk/people/staff/lb514/) (University of Kent, UK)
+
+#### Tool track chairs
 * Omar Inverso (Gran Sasso Science Institute, Italy - <omar.inverso@gssi.it>)
 * Hugo Torres Vieira (Universidade da Beira Interior, Portugal - <hugo.torres.vieira@ubi.pt>)
 
-### Program committee 
+#### Program committee 
 * Stephanie Balzer (CMU, USA)
 * Chiara Bodei (Università di Pisa, Italy)
 * Marius Bozga (Université Grenoble Alpes, France)
@@ -58,13 +60,13 @@
 * Emilio Tuosto (University of Leicester, UK & Gran Sasso Science Institute, Italy)
 
 
-## FORTE Scientific Committee
+### FORTE 
 
-### Program committee chairs
+#### Program committee chairs
 * [Alexey Gotsman](https://software.imdea.org/~gotsman/) (IMDEA Software Institute, Spain)
 * [Ana Sokolova](http://cs.uni-salzburg.at/~anas/) (University of Salzburg, Austria)
 
-### Program committee members
+#### Program committee members
 * Marco Bernardo (University of Urbino, Italy)
 * Nathalie Bertrand (INRIA, France)
 * Marco Carbone (IT University of Copenhagen, Denmark)
@@ -90,12 +92,12 @@
 * Viktor Vafeiadis (MPI-SWS, Germany)
 * Josef Widder (TU Vienna and Interchain, Austria)
 
-## DAIS Scientific Committee
+### DAIS Scientific Committee
 
-### Program committee chairs
+#### Program committee chairs
 
-* [Anne Remke](https://wwwhome.ewi.utwente.nl/~anne/) (University of Twente - DAIS PC Chair)
-* [Valerio Schiavoni](http://members.unine.ch/valerio.schiavoni/) (Université de Neuchâtel, Switzerland   - DAIS PC Chair)
+* [Anne Remke](https://wwwhome.ewi.utwente.nl/~anne/) (University of Twente)
+* [Valerio Schiavoni](http://members.unine.ch/valerio.schiavoni/) (Université de Neuchâtel, Switzerland)
 
 
 ## Programme
