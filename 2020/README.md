@@ -121,12 +121,12 @@ Valletta Malta VLT 1216.
 It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtoreachus).
 
 ## Organising Committee
-* [Adrian Francalanza](http://staff.um.edu.mt/afra1/) (University of Malta, Malta - General chair)
-* [Davide Basile][DavideWeb] (University of Pisa, Italy — Publicity chair)
-* [Kiko Fernández-Reyes][KikoWeb] (Uppsala University, Sweden - Publicity chair)
-* Antonis Achilleos (Reykjavik University, Iceland — Workshops chair)
-* Duncan Attard (University of Malta, Malta — Workshops chair)
-* [Ornela Dardha][OrnelaWeb] (University of Glasgow, United Kingdom — Workshops chair)
+* [Adrian Francalanza](http://staff.um.edu.mt/afra1/) (University of Malta, Malta - General Chair)
+* [Davide Basile][DavideWeb] (University of Pisa, Italy — Publicity Chair)
+* [Kiko Fernández-Reyes][KikoWeb] (Uppsala University, Sweden - Publicity Chair)
+* Antonis Achilleos (Reykjavik University, Iceland — Workshops Chair)
+* [Duncan Attard](https://github.com/duncanatt) (University of Malta, Malta — Workshops Chair)
+* [Ornela Dardha][OrnelaWeb] (University of Glasgow, United Kingdom — Workshops Chair)
 * Lucienne Bugeja (University of Malta, Malta — Logistics)
 
 [DavideWeb]: http://pages.di.unipi.it/basile/
@@ -160,4 +160,4 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 ## Further information 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
 
-For further information please contact the general chair at adrian.francalanza@um.edu.mt.
+For further information please contact the general chair at <adrian.francalanza@um.edu.mt>.
