@@ -59,6 +59,13 @@
 * Hugo Torres Vieira (Universidade da Beira Interior, Portugal)
 * Emilio Tuosto (University of Leicester, UK & Gran Sasso Science Institute, Italy)
 
+### DAIS Scientific Committee
+
+#### Program committee chairs
+
+* [Anne Remke](https://wwwhome.ewi.utwente.nl/~anne/) (University of Twente)
+* [Valerio Schiavoni](http://members.unine.ch/valerio.schiavoni/) (Université de Neuchâtel, Switzerland)
+
 
 ### FORTE 
 
@@ -92,12 +99,6 @@
 * Viktor Vafeiadis (MPI-SWS, Germany)
 * Josef Widder (TU Vienna and Interchain, Austria)
 
-### DAIS Scientific Committee
-
-#### Program committee chairs
-
-* [Anne Remke](https://wwwhome.ewi.utwente.nl/~anne/) (University of Twente)
-* [Valerio Schiavoni](http://members.unine.ch/valerio.schiavoni/) (Université de Neuchâtel, Switzerland)
 
 
 ## Programme
@@ -154,7 +155,6 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 * Farhad Arbab (CWI, The Netherlands)
 * Lea Kutvonen (University of Helsinki, Finland)
 * John Derrick (University of Sheffield, UK)
-
 
 
 ## Further information 
