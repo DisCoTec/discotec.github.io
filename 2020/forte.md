@@ -113,7 +113,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * [Alexey Gotsman](https://software.imdea.org/~gotsman/) (IMDEA Software Institute, Spain)
 * [Ana Sokolova](http://cs.uni-salzburg.at/~anas/) (University of Salzburg, Austria)
 
-## Program comitteee members
+## Program committee members
 * Marco Bernardo (University of Urbino, Italy)
 * Nathalie Bertrand (INRIA, France)
 * Marco Carbone (IT University of Copenhagen, Denmark)

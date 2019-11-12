@@ -10,15 +10,6 @@
 * [DAIS 2020](https://www.discotec.org/2020/dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2020](https://www.discotec.org/2020/forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
-## Scientific Committee
-* [Laura Bocchi](https://www.cs.kent.ac.uk/people/staff/lb514/) (University of Kent, UK - Coordination PC Chair)
-* [Simon Bluidze](https://www.bliudze.me/simon/) (INRIA Lille, France - Coordination PC Chair)
-* [Alexey Gotsman](http://software.imdea.org/~gotsman/) (IMDEA Software Institute, Spain - FORTE PC Chair)
-* [Anne Remke](https://wwwhome.ewi.utwente.nl/~anne/) (University of Twente - DAIS PC Chair)
-* [Valerio Schiavoni](http://members.unine.ch/valerio.schiavoni/) (Université de Neuchâtel, Switzerland   - DAIS PC Chair)
-* [Ana Sokolova](http://cs.uni-salzburg.at/~anas/) (University of Salzburg, Austria - FORTE PC Chair)
-
-
 ## Important dates
 
 * February 3, 2020 - abstract submission 
@@ -26,13 +17,94 @@
 * April 10, 2020 - notification
 * April 24, 2020 - camera ready
 
+
+## Coordination Scientific Committee
+
+### Program committee chairs
+* [Simon Bluidze](https://www.bliudze.me/simon/) (Inria Lille - Nord Europe, France - <simon.bliudze@inria.fr>)
+* [Laura Bocchi](https://www.cs.kent.ac.uk/people/staff/lb514/) (University of Kent, UK - <l.bocchi@kent.ac.uk>)
+
+### Tool track chairs
+* Omar Inverso (Gran Sasso Science Institute, Italy - <omar.inverso@gssi.it>)
+* Hugo Torres Vieira (Universidade da Beira Interior, Portugal - <hugo.torres.vieira@ubi.pt>)
+
+### Program committee 
+* Stephanie Balzer (CMU, USA)
+* Chiara Bodei (Università di Pisa, Italy)
+* Marius Bozga (Université Grenoble Alpes, France)
+* Roberto Bruni (Università di Pisa, Italy)
+* Ornela Dardha (University of Glasgow, UK)
+* Fatemeh Ghassemi (University of Tehran, Iran)
+* Roberto Guanciale (KTH, Sweden)
+* Ludovic Henrio (CNRS, France)
+* Omar Inverso (Gran Sasso Science Institute, Italy)
+* Jean-Marie Jacquet (University of Namur, Belgium)
+* Eva Kühn (Vienna University of Technology, Austria)
+* Ivan Lanese (University of Bologna, Italy)
+* Alberto Lluch Lafuente (DTU, Denmark)
+* Michele Loreti (University of Camerino, Italy)
+* Anastasia Mavridou (NASA Ames Research Center, USA)
+* Mieke Massink (CNR-ISTI, Italy)
+* Hernan Melgratti (Universidad de Buenos Aires, Argentina)
+* Claudio Antares Mezzina (Università degli studi di Urbino, Italy)
+* Rumyana Neykova (Brunel University London, UK)
+* Luca Padovani (Università di Torino, Italy)
+* Kirstin Peters (TU Darmstadt, Germany)
+* Danilo Pianini (University of Bologna, Italy)
+* Rene Rydhof Hansen (Aalborg University, Denmark)
+* Gwen Salaün (Université Grenoble Alpes, France)
+* Meng Sun (Peking University, China)
+* Hugo Torres Vieira (Universidade da Beira Interior, Portugal)
+* Emilio Tuosto (University of Leicester, UK & Gran Sasso Science Institute, Italy)
+
+
+## FORTE Scientific Committee
+
+### Program committee chairs
+* [Alexey Gotsman](https://software.imdea.org/~gotsman/) (IMDEA Software Institute, Spain)
+* [Ana Sokolova](http://cs.uni-salzburg.at/~anas/) (University of Salzburg, Austria)
+
+### Program committee members
+* Marco Bernardo (University of Urbino, Italy)
+* Nathalie Bertrand (INRIA, France)
+* Marco Carbone (IT University of Copenhagen, Denmark)
+* Andrea Corradini (University of Pisa, Italy)
+* Cezara Dragoi (INRIA and ENS, France)
+* Constantin Enea (University Paris Diderot, France)
+* Javier Esparza (TU Munich, Germany)
+* Philipp Haller (KTH, Sweden)
+* Bart Jacobs (KU Leuven, Belgium)
+* Radha Jagadeesan (DePaul University, USA)
+* Akash Lal (Microsoft Research, India)
+* Mohsen Lesani (University of California, Riverside, USA)
+* Antoine Miné (UPMC, France)
+* Koko Muroya (RIMS Kyoto University, Japan)
+* Catuscia Palamidessi (INRIA and LIX, France)
+* Kirstin Peters (TU Darmstadt, Germany)
+* Tatjana Petrov (University of Konstanz, Germany)
+* Vincent Rahli (University of Birmingham, UK)
+* Tyler Sorensen (Princeton University, USA)
+* Marielle Stoelinga (TU Twente, The Netherlands)
+* Sara Tucci-Piergiovanni (CEA LIST, France)
+* Nikos Tzevelekos (Queen Mary University of London, UK)
+* Viktor Vafeiadis (MPI-SWS, Germany)
+* Josef Widder (TU Vienna and Interchain, Austria)
+
+## DAIS Scientific Committee
+
+### Program committee chairs
+
+* [Anne Remke](https://wwwhome.ewi.utwente.nl/~anne/) (University of Twente - DAIS PC Chair)
+* [Valerio Schiavoni](http://members.unine.ch/valerio.schiavoni/) (Université de Neuchâtel, Switzerland   - DAIS PC Chair)
+
+
 ## Programme
 
 * June 15: DisCoTec Tutorials
 * June 16-18: Coordination/DAIS/FORTE
 * June 19: DisCoTec Workshops
   
-  
+
 ## Proceedings
 The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.
 

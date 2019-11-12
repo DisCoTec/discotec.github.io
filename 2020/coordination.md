@@ -84,7 +84,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Omar Inverso (Gran Sasso Science Institute, Italy - <omar.inverso@gssi.it>)
 * Hugo Torres Vieira (Universidade da Beira Interior, Portugal - <hugo.torres.vieira@ubi.pt>)
 
-## Program committee 
+## Program committee members
 * Stephanie Balzer (CMU, USA)
 * Chiara Bodei (Università di Pisa, Italy)
 * Marius Bozga (Université Grenoble Alpes, France)
