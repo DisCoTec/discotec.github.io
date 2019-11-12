@@ -45,7 +45,7 @@ We welcome tool papers that describe technological artefacts, including innovati
 
 Tool papers presenting coordination APIs, allowing the broad community to easily utilise provided coordination mechanisms are particularly welcome. 
 
-Interested authors can contact Omar Inverso <omar.inverso@gssi.it> for details.
+Interested authors can contact the tool track chairs (Omar Inverso <omar.inverso@gssi.it>, Hugo Torres Vieira <hugo.torres.vieira@ubi.pt>) for details.
 
 ## Submissions
 
@@ -80,12 +80,44 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Simon Bliudze (Inria Lille - Nord Europe, France - <simon.bliudze@inria.fr>)
 * Laura Bocchi (University of Kent, UK - <l.bocchi@kent.ac.uk>)
 
-## Tentative program committee (TBC)
-TBA
+## Tool track chairs
+* Omar Inverso (Gran Sasso Science Institute, Italy - <omar.inverso@gssi.it>)
+* Hugo Torres Vieira (Universidade da Beira Interior, Portugal - <hugo.torres.vieira@ubi.pt>)
+
+## Program committee 
+* Stephanie Balzer (CMU, USA)
+* Chiara Bodei (Università di Pisa, Italy)
+* Marius Bozga (Université Grenoble Alpes, France)
+* Roberto Bruni (Università di Pisa, Italy)
+* Ornela Dardha (University of Glasgow, UK)
+* Fatemeh Ghassemi (University of Tehran, Iran)
+* Roberto Guanciale (KTH, Sweden)
+* Ludovic Henrio (CNRS, France)
+* Omar Inverso (Gran Sasso Science Institute, Italy)
+* Jean-Marie Jacquet (University of Namur, Belgium)
+* Eva Kühn (Vienna University of Technology, Austria)
+* Ivan Lanese (University of Bologna, Italy)
+* Alberto Lluch Lafuente (DTU, Denmark)
+* Michele Loreti (University of Camerino, Italy)
+* Anastasia Mavridou (NASA Ames Research Center, USA)
+* Mieke Massink (CNR-ISTI, Italy)
+* Hernan Melgratti (Universidad de Buenos Aires, Argentina)
+* Claudio Antares Mezzina (Università degli studi di Urbino, Italy)
+* Rumyana Neykova (Brunel University London, UK)
+* Luca Padovani (Università di Torino, Italy)
+* Kirstin Peters (TU Darmstadt, Germany)
+* Danilo Pianini (University of Bologna, Italy)
+* Rene Rydhof Hansen (Aalborg University, Denmark)
+* Gwen Salaün (Université Grenoble Alpes, France)
+* Meng Sun (Peking University, China)
+* Hugo Torres Vieira (Universidade da Beira Interior, Portugal)
+* Emilio Tuosto (University of Leicester, UK & Gran Sasso Science Institute, Italy)
+
 
 ## Steering committee
 * Gul Agha, University of Illinois at Urbana Champaign, USA
 * Farhad Arbab, CWI and Leiden University, The Netherlands
+* Wolfgang De Meuter, Vrije Universiteit Brussels, Belgium
 * Rocco De Nicola, IMT - School for Advanced Studies, Italy
 * Giovanna di Marzo Serugendo, Université de Genève, Switzerland
 * Tom Holvoet, KU Leuven, Belgium
@@ -95,11 +127,12 @@ TBA
 * Alberto Lluch Lafuente, Technical University of Denmark, Denmark
 * Michele Loreti, University of Camerino, Italy
 * Mieke Massink, ISTI CNR, Italy
-* Wolfgang De Meuter, Vrije Universiteit Brussels, Belgium
 * Jose Proença, University of Minho, Portugal
 * Rosario Pugliese, Università di Firenze, Italy
+* Hanne Riis Nielson, DTU, Denmark
 * Marjan Sirjani, Reykjavik University, Iceland
 * Carolyn Talcott, SRI International, California, USA
+* Emilio Tuosto, University of Leicester, UK & Gran Sasso Science Institute, Italy
 * Vasco T. Vasconcelos, University of Lisbon, Portugal
-* Gianluigi Zavattaro, University of Bologna, Italy (Chair)
 * Mirko Viroli, University of Bologna, Italy
+* Gianluigi Zavattaro, University of Bologna, Italy (Chair)
