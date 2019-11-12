@@ -26,6 +26,13 @@
 * April 10, 2020 - notification
 * April 24, 2020 - camera ready
 
+## Programme
+
+* June 15: DisCoTec Tutorials
+* June 16-18: Coordination/DAIS/FORTE
+* June 19: DisCoTec Workshops
+  
+  
 ## Proceedings
 The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.
 
@@ -37,7 +44,7 @@ The individual conferences will organise special issues of extended and selected
 [University of Malta, Valletta Campus](https://www.um.edu.mt/campuses/valletta), 
 Old University Building St. Paul Street, 
 Valletta Malta VLT 1216. 
-It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtoreachus)
+It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtoreachus).
 
 ## Organising Committee
 * [Adrian Francalanza](http://staff.um.edu.mt/afra1/) (University of Malta, Malta - General chair)
