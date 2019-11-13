@@ -28,7 +28,7 @@
 
 #### Tool track chairs
 * Omar Inverso (Gran Sasso Science Institute, Italy - <omar.inverso@gssi.it>)
-* Hugo Torres Vieira (Universidade da Beira Interior, Portugal - <hugo.torres.vieira@ubi.pt>)
+* Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal - <hugo.torres.vieira@ubi.pt>)
 
 #### Program committee 
 * Stephanie Balzer (CMU, USA)
