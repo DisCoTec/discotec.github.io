@@ -130,7 +130,7 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 * [Ornela Dardha][OrnelaWeb] (University of Glasgow, United Kingdom — Workshops Chair)
 * Lucienne Bugeja (University of Malta, Malta — Logistics)
 
-[DavideWeb]: http://pages.di.unipi.it/basile/
+[DavideWeb]: https://www.disia.unifi.it/p-doc2-2017-000000-B-3f2b3d2d3a2b28-0.html
 [KikoWeb]: https://www.plresearcher.com
 [OrnelaWeb]: http://www.dcs.gla.ac.uk/~ornela/
 
