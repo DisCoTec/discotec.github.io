@@ -123,7 +123,7 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 
 ## Organising Committee
 * [Adrian Francalanza](http://staff.um.edu.mt/afra1/) (University of Malta, Malta - General Chair)
-* [Davide Basile][DavideWeb] (University of Pisa, Italy — Publicity Chair)
+* [Davide Basile][DavideWeb] (University of Florence, Italy — Publicity Chair)
 * [Kiko Fernández-Reyes][KikoWeb] (Uppsala University, Sweden - Publicity Chair)
 * Antonis Achilleos (Reykjavik University, Iceland — Workshops Chair)
 * [Duncan Attard](https://github.com/duncanatt) (University of Malta, Malta — Workshops Chair)
