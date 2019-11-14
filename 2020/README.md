@@ -27,8 +27,8 @@
 * [Laura Bocchi](https://www.cs.kent.ac.uk/people/staff/lb514/) (University of Kent, UK)
 
 #### Tool track chairs
-* Omar Inverso (Gran Sasso Science Institute, Italy - <omar.inverso@gssi.it>)
-* Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal - <hugo.torres.vieira@ubi.pt>)
+* [Omar Inverso](omar.inverso@gssi.it) (Gran Sasso Science Institute, Italy)
+* [Hugo Torres Vieira](hugo.torres.vieira@ubi.pt) (C4 - Universidade da Beira Interior, Portugal)
 
 #### Program committee 
 * Stephanie Balzer (CMU, USA)
@@ -126,22 +126,25 @@ Valletta Malta VLT 1216.
 It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtoreachus).
 
 ## Organising Committee
-* [Adrian Francalanza](http://staff.um.edu.mt/afra1/) (University of Malta, Malta - General Chair)
+* [Adrian Francalanza][AdrianWeb] (University of Malta, Malta — General Chair)
 * [Davide Basile][DavideWeb] (University of Florence & ISTI CNR Pisa, Italy — Publicity Chair)
-* [Kiko Fernández-Reyes][KikoWeb] (Uppsala University, Sweden - Publicity Chair)
+* [Kiko Fernández-Reyes][KikoWeb] (Uppsala University, Sweden — Publicity Chair)
 * Antonis Achilleos (Reykjavik University, Iceland — Workshops Chair)
-* [Duncan Attard](https://github.com/duncanatt) (University of Malta, Malta — Workshops Chair)
+* [Duncan Attard][DuncanWeb] (University of Malta, Malta — Workshops Chair)
 * [Ornela Dardha][OrnelaWeb] (University of Glasgow, United Kingdom — Workshops Chair)
 * Lucienne Bugeja (University of Malta, Malta — Logistics)
 
+[AdrianWeb]: http://staff.um.edu.mt/afra1/
 [DavideWeb]: https://www.disia.unifi.it/p-doc2-2017-000000-B-3f2b3d2d3a2b28-0.html
 [KikoWeb]: https://www.plresearcher.com
 [OrnelaWeb]: http://www.dcs.gla.ac.uk/~ornela/
+[DuncanWeb]: https://github.com/duncanatt
 
 ## Steering Committee
 * Rocco De Nicola (IMT Lucca, Italy)
 * Pascal Felber ( University of Neuchâtel, Switzerland)
 * Kurt Geihs (University of Kasel, Germany)
+* Alberto Lluch Lafuente (DTU, Denmark)
 * Kostas Magoutis (ICS-FORTH, Greece)
 * Elie Najm (Telecom Paris Tech, France — Chair)
 * Manuel Núñez (Universidad Complutense de Madrid, Spain)
