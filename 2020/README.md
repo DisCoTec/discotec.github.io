@@ -27,8 +27,8 @@
 * [Laura Bocchi](https://www.cs.kent.ac.uk/people/staff/lb514/) (University of Kent, UK)
 
 #### Tool track chairs
-* [Omar Inverso](omar.inverso@gssi.it) (Gran Sasso Science Institute, Italy)
-* [Hugo Torres Vieira](hugo.torres.vieira@ubi.pt) (C4 - Universidade da Beira Interior, Portugal)
+* [Omar Inverso](https://www.gssi.it/people/post-doc/post-doc-computer-science/item/1018-inverso-omar) (Gran Sasso Science Institute, Italy)
+* [Hugo Torres Vieira](https://sysma.imtlucca.it/people/hugo-torres-vieira/) (C4 - Universidade da Beira Interior, Portugal)
 
 #### Program committee 
 * Stephanie Balzer (CMU, USA)
