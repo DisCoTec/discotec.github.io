@@ -28,7 +28,7 @@
 
 #### Tool track chairs
 * Omar Inverso (Gran Sasso Science Institute, Italy - <omar.inverso@gssi.it>)
-* Hugo Torres Vieira (Universidade da Beira Interior, Portugal - <hugo.torres.vieira@ubi.pt>)
+* Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal - <hugo.torres.vieira@ubi.pt>)
 
 #### Program committee 
 * Stephanie Balzer (CMU, USA)
@@ -56,7 +56,7 @@
 * Rene Rydhof Hansen (Aalborg University, Denmark)
 * Gwen Salaün (Université Grenoble Alpes, France)
 * Meng Sun (Peking University, China)
-* Hugo Torres Vieira (Universidade da Beira Interior, Portugal)
+* Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal)
 * Emilio Tuosto (University of Leicester, UK & Gran Sasso Science Institute, Italy)
 
 ### DAIS
@@ -127,14 +127,14 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 
 ## Organising Committee
 * [Adrian Francalanza](http://staff.um.edu.mt/afra1/) (University of Malta, Malta - General Chair)
-* [Davide Basile][DavideWeb] (University of Pisa, Italy — Publicity Chair)
+* [Davide Basile][DavideWeb] (University of Florence & ISTI CNR Pisa, Italy — Publicity Chair)
 * [Kiko Fernández-Reyes][KikoWeb] (Uppsala University, Sweden - Publicity Chair)
 * Antonis Achilleos (Reykjavik University, Iceland — Workshops Chair)
 * [Duncan Attard](https://github.com/duncanatt) (University of Malta, Malta — Workshops Chair)
 * [Ornela Dardha][OrnelaWeb] (University of Glasgow, United Kingdom — Workshops Chair)
 * Lucienne Bugeja (University of Malta, Malta — Logistics)
 
-[DavideWeb]: http://pages.di.unipi.it/basile/
+[DavideWeb]: https://www.disia.unifi.it/p-doc2-2017-000000-B-3f2b3d2d3a2b28-0.html
 [KikoWeb]: https://www.plresearcher.com
 [OrnelaWeb]: http://www.dcs.gla.ac.uk/~ornela/
 

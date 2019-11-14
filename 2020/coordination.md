@@ -82,7 +82,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ## Tool track chairs
 * Omar Inverso (Gran Sasso Science Institute, Italy - <omar.inverso@gssi.it>)
-* Hugo Torres Vieira (Universidade da Beira Interior, Portugal - <hugo.torres.vieira@ubi.pt>)
+* Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal - <hugo.torres.vieira@ubi.pt>)
 
 ## Program committee members
 * Stephanie Balzer (CMU, USA)
@@ -110,7 +110,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Rene Rydhof Hansen (Aalborg University, Denmark)
 * Gwen Salaün (Université Grenoble Alpes, France)
 * Meng Sun (Peking University, China)
-* Hugo Torres Vieira (Universidade da Beira Interior, Portugal)
+* Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal)
 * Emilio Tuosto (University of Leicester, UK & Gran Sasso Science Institute, Italy)
 
 
