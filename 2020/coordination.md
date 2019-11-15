@@ -42,7 +42,7 @@ Currently, we are in the process of solliciting the Program Committee for topic 
 ### Tool papers
 
 
-We welcome tool papers that describe experience reports, technological artefacts and innovative prototypes (including engines, APIs, etc.), for coordinating, modelling, analysing, simulating or testing systems, as well as educational tools in the scope of the research topics of COORDINATION. In addition, we welcome submissions promoting the integration of existing tools relevant to the community. Submissions to the tool track must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process. Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process.
+We welcome tool papers that describe experience reports, technological artefacts and innovative prototypes (including engines, APIs, etc.), for coordinating, modelling, analysing, simulating or testing systems, as well as educational tools in the scope of the research topics of COORDINATION. In addition, we welcome submissions promoting the integration of existing tools relevant to the community. **Submissions to the tool track must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process.** Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process.
 
 <!--We welcome tool papers that describe technological artefacts, including innovative prototypes, for modelling, analysing, simulating or testing systems in the scope of the research topics of COORDINATION. **Submissions must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process.** Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process. A dedicated special issue for accepted contributions is being planned.
 Tool papers presenting coordination APIs, allowing the broad community to easily utilise provided coordination mechanisms are particularly welcome. -->
@@ -72,7 +72,9 @@ The conference proceedings, formed by accepted submissions will be published by 
 
 
 ### Special Issues
-Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org). A separate special issue dedicated to tool papers is being planned.
+Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org) and a separate special issue dedicated to tool papers is being planned. Special issues for last year's edition are under preparation in [**Logical Methods in Computer Science**](https://lmcs.episciences.org) for selected research papers, and in [**Science of Computer Programming**](https://www.journals.elsevier.com/science-of-computer-programming) for selected tool papers (as a collection of [**Original Software Publications**](https://www.elsevier.com/authors/author-resources/research-elements/software-articles/original-software-publications). 
+
+<!--Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org). A separate special issue dedicated to tool papers is being planned.-->
 
 ### Submission Link
 
