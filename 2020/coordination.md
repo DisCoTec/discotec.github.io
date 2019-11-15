@@ -41,9 +41,11 @@ Currently, we are in the process of solliciting the Program Committee for topic 
 
 ### Tool papers
 
-We welcome tool papers that describe technological artefacts, including innovative prototypes, for modelling, analysing, simulating or testing systems in the scope of the research topics of COORDINATION. **Submissions must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process.** Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process. A dedicated special issue for accepted contributions is being planned.
 
-Tool papers presenting coordination APIs, allowing the broad community to easily utilise provided coordination mechanisms are particularly welcome. 
+We welcome tool papers that describe experience reports, technological artefacts and innovative prototypes (including engines, APIs, etc.), for coordinating, modelling, analysing, simulating or testing systems, as well as educational tools in the scope of the research topics of COORDINATION. In addition, we welcome submissions promoting the integration of existing tools relevant to the community. Submissions to the tool track must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process. Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process.
+
+<!--We welcome tool papers that describe technological artefacts, including innovative prototypes, for modelling, analysing, simulating or testing systems in the scope of the research topics of COORDINATION. **Submissions must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process.** Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process. A dedicated special issue for accepted contributions is being planned.
+Tool papers presenting coordination APIs, allowing the broad community to easily utilise provided coordination mechanisms are particularly welcome. -->
 
 Interested authors can contact the tool track chairs (Omar Inverso <omar.inverso@gssi.it>, Hugo Torres Vieira <hugo.torres.vieira@ubi.pt>) for details.
 
