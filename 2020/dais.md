@@ -86,7 +86,6 @@ Selected papers from DAIS'20 will be invited to a special issue of a reputed jou
 * José Orlando Pereira, Universidade do Minho & INESC TEC, Portugal
 * Hans P. Reiser, University Passau, Germany
 * Romain Rouvoy,  University Lille, France
-ß
 
 
 ## Steering committee
