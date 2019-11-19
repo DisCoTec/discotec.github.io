@@ -67,7 +67,27 @@ Selected papers from DAIS'20 will be invited to a special issue of a reputed jou
 * Valerio Schiavoni (University of Neuchâtel, Switzerland)
 
 ## Program committee
-TBA
+* Pierre-Louis Aublin, Keio University, Japan
+* Sonia Ben Mokhtar, LIRIS CNRS, France
+* Sara Bouchenak, INSA Lyon, France
+* Antoine Boutet, INSA France
+* Sivlia Bonomi, Sapienza Universoty of Rome, Italy
+* Davie Frey, INRIA France
+* Paula Herber, University of Münster, Germany
+* Mark Jelasity, University of Szeged, Hungary
+* Rüdiger Kapitza, TU Braunschweig, Germany
+* João Leitão, , Universidade Nova de Lisboa, Portugal
+* Daniel Lucani, Aarhus University, Denmark
+* Miguel Matos, IST INESC-ID, University of Lisboa, Portugal
+* Kostas Magoutis, University of Ioannina, Greece
+* Claudio Antares Mezzina, University Urbino, Italy
+* Daniel O’Keeffe, Royal Holloway University of London, England
+* Emanuel Onica, Alexandru Ioan Cuza University of Iasi, Romania
+* José Orlando Pereira, Universidade do Minho & INESC TEC, Portugal
+* Hans P. Reiser, University Passau, Germany
+* Romain Rouvoy,  University Lille, France
+ß
+
 
 ## Steering committee
 * Lydia Y. Chen (TU Delft, Netherlands)

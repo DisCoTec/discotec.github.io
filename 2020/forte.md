@@ -126,6 +126,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Radha Jagadeesan (DePaul University, USA)
 * Akash Lal (Microsoft Research, India)
 * Mohsen Lesani (University of California, Riverside, USA)
+* Stephan Merz (INRIA, France)
 * Antoine Miné (UPMC, France)
 * Koko Muroya (RIMS Kyoto University, Japan)
 * Catuscia Palamidessi (INRIA and LIX, France)
