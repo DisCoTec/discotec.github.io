@@ -77,21 +77,23 @@
 * Paula Herber, University of Münster, Germany
 * Mark Jelasity, University of Szeged, Hungary
 * Evangelia Kalyvianaki, University of Cambridge, UK
-* Rüdiger Kapitza (Technical University of Braunschweig, Germany)
-* João Leitão, , Universidade Nova de Lisboa, Portugal
+* Vana Kalogeraki Athens University of Economics and Business, Greece
+* Rüdiger Kapitza Technical University of Braunschweig, Germany
+* João Leitão, Universidade Nova de Lisboa, Portugal
 * Daniel Lucani, Aarhus University, Denmark
 * Miguel Matos, IST INESC-ID, University of Lisboa, Portugal
 * Kostas Magoutis, University of Ioannina, Greece
 * Claudio Antares Mezzina, University Urbino, Italy
+* Alberto Montresor, University of Trento, Italy
 * Daniel O’Keeffe, Royal Holloway University of London, England
 * Emanuel Onica, Alexandru Ioan Cuza University of Iasi, Romania
 * Marta Patino, Universidad Politecnica de Madrid, Spain
 * José Orlando Pereira, Universidade do Minho & INESC TEC, Portugal
 * Hans P. Reiser, University Passau, Germany
-* Etienne Riviére, (Ecole Polytechnique de Louvain, Belgium)
+* Etienne Riviére, Ecole Polytechnique de Louvain, Belgium
 * Romain Rouvoy,  University Lille, France
-* Spyros Voulgaris  (Athens University of Economics and Business, Greece)
-
+* Pierre Sutra Telecom SudParis, France
+* Spyros Voulgaris,  Athens University of Economics and Business, Greece
 
 
 ### FORTE 

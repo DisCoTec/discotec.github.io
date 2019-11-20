@@ -1,6 +1,6 @@
 [![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
 
-# DAIS 2020 - 19th International Conference on Distributed Applications and Interoperable Systems
+# DAIS 2020 - 20th International Conference on Distributed Applications and Interoperable Systems
 
 DAIS 2020 is one of the three conferences of [DisCoTec 2020](https://www.discotec.org/2020/).
 
@@ -76,20 +76,26 @@ Selected papers from DAIS'20 will be invited to a special issue of a reputed jou
 * Paula Herber, University of Münster, Germany
 * Mark Jelasity, University of Szeged, Hungary
 * Evangelia Kalyvianaki, University of Cambridge, UK
-* Rüdiger Kapitza (Technical University of Braunschweig, Germany)
-* João Leitão, , Universidade Nova de Lisboa, Portugal
+* Vana Kalogeraki Athens University of Economics and Business, Greece
+* Rüdiger Kapitza Technical University of Braunschweig, Germany
+* João Leitão, Universidade Nova de Lisboa, Portugal
 * Daniel Lucani, Aarhus University, Denmark
 * Miguel Matos, IST INESC-ID, University of Lisboa, Portugal
 * Kostas Magoutis, University of Ioannina, Greece
 * Claudio Antares Mezzina, University Urbino, Italy
+* Alberto Montresor, University of Trento, Italy
 * Daniel O’Keeffe, Royal Holloway University of London, England
 * Emanuel Onica, Alexandru Ioan Cuza University of Iasi, Romania
 * Marta Patino, Universidad Politecnica de Madrid, Spain
 * José Orlando Pereira, Universidade do Minho & INESC TEC, Portugal
 * Hans P. Reiser, University Passau, Germany
-* Etienne Riviére, (Ecole Polytechnique de Louvain, Belgium)
+* Etienne Riviére, Ecole Polytechnique de Louvain, Belgium
 * Romain Rouvoy,  University Lille, France
-* Spyros Voulgaris  (Athens University of Economics and Business, Greece)
+* Pierre Sutra Telecom SudParis, France
+* Spyros Voulgaris,  Athens University of Economics and Business, Greece
+
+
+
 
 
 
