@@ -72,11 +72,12 @@
 * Sonia Ben Mokhtar, LIRIS CNRS, France
 * Sara Bouchenak, INSA Lyon, France
 * Antoine Boutet, INSA France
-* Sivlia Bonomi, Sapienza Universoty of Rome, Italy
-* Davie Frey, INRIA France
+* Silvia Bonomi, Sapienza University of Rome, Italy
+* Davide Frey, INRIA France
 * Paula Herber, University of Münster, Germany
 * Mark Jelasity, University of Szeged, Hungary
-* Rüdiger Kapitza, TU Braunschweig, Germany
+* Evangelia Kalyvianaki, University of Cambridge, UK
+* Rüdiger Kapitza (Technical University of Braunschweig, Germany)
 * João Leitão, , Universidade Nova de Lisboa, Portugal
 * Daniel Lucani, Aarhus University, Denmark
 * Miguel Matos, IST INESC-ID, University of Lisboa, Portugal
@@ -84,9 +85,13 @@
 * Claudio Antares Mezzina, University Urbino, Italy
 * Daniel O’Keeffe, Royal Holloway University of London, England
 * Emanuel Onica, Alexandru Ioan Cuza University of Iasi, Romania
+* Marta Patino, Universidad Politecnica de Madrid, Spain
 * José Orlando Pereira, Universidade do Minho & INESC TEC, Portugal
 * Hans P. Reiser, University Passau, Germany
+* Etienne Riviére, (Ecole Polytechnique de Louvain, Belgium)
 * Romain Rouvoy,  University Lille, France
+* Spyros Voulgaris  (Athens University of Economics and Business, Greece)
+
 
 
 ### FORTE 
