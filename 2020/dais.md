@@ -71,13 +71,13 @@ Selected papers from DAIS'20 will be invited to a special issue of a reputed jou
 * Sonia Ben Mokhtar, LIRIS CNRS, France
 * Sara Bouchenak, INSA Lyon, France
 * Antoine Boutet, INSA France
-* Silvia Bonomi, Sapienza University of Rome, Italy
+* Silvia Bonomi, Università degli Studi di Roma "La Sapienza”, Italy
 * Davide Frey, INRIA France
 * Paula Herber, University of Münster, Germany
 * Mark Jelasity, University of Szeged, Hungary
 * Evangelia Kalyvianaki, University of Cambridge, UK
-* Vana Kalogeraki Athens University of Economics and Business, Greece
-* Rüdiger Kapitza Technical University of Braunschweig, Germany
+* Vana Kalogeraki, Athens University of Economics and Business, Greece
+* Rüdiger Kapitza, Technical University of Braunschweig, Germany
 * João Leitão, Universidade Nova de Lisboa, Portugal
 * Daniel Lucani, Aarhus University, Denmark
 * Miguel Matos, IST INESC-ID, University of Lisboa, Portugal
@@ -90,9 +90,9 @@ Selected papers from DAIS'20 will be invited to a special issue of a reputed jou
 * José Orlando Pereira, Universidade do Minho & INESC TEC, Portugal
 * Hans P. Reiser, University Passau, Germany
 * Etienne Riviére, Ecole Polytechnique de Louvain, Belgium
-* Romain Rouvoy,  University Lille, France
-* Pierre Sutra Telecom SudParis, France
-* Spyros Voulgaris,  Athens University of Economics and Business, Greece
+* Romain Rouvoy, University of Lille 1, France
+* Pierre Sutra, Telecom SudParis, France
+* Spyros Voulgaris, Athens University of Economics and Business, Greece
 
 
 
@@ -100,15 +100,15 @@ Selected papers from DAIS'20 will be invited to a special issue of a reputed jou
 
 
 ## Steering committee
-* Lydia Y. Chen (TU Delft, Netherlands)
-* Frank Eliassen (University of Oslo, Norway)
-* Rüdiger Kapitza (Technical University of Braunschweig, Germany)
-* Rui Oliveira (University of Minho / INESC TEC, Portugal -- Chair)
-* Hans P. Reiser (University of Passau, Germany)
-* Laura Ricci (University of Pisa, Italy)
-* Silvia Bonomi (Università degli Studi di Roma "La Sapienza”, Italy)
-* Etienne Riviere (Ecole Polytechnique de Louvain. Belgium)
-* Jose Pereira (University of Minho / INESC TEC, Portugal)
+* Lydia Y. Chen, TU Delft, Netherlands
+* Frank Eliassen, University of Oslo, Norway
+* Rüdiger Kapitza, Technical University of Braunschweig, Germany
+* Rui Oliveira, University of Minho / INESC TEC, Portugal -- Chair
+* Hans P. Reiser, University of Passau, Germany
+* Laura Ricci, University of Pisa, Italy
+* Silvia Bonomi, Università degli Studi di Roma "La Sapienza”, Italy
+* Etienne Riviére, Ecole Polytechnique de Louvain, Belgium
+* Jose Pereira, University of Minho / INESC TEC, Portugal
 
 ## More Information
 For additional information, please contact the Program Committee Co-chairs: <dais2020@easychair.org>
