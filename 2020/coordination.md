@@ -37,7 +37,22 @@ COORDINATION 2020 is seeking for contributions that enable the cross-fertilisati
 
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
-Currently, we are in the process of solliciting the Program Committee for topic proposals. Please check back with us shortly. 
+1. Microservices
+
+    Microservices are a novel architectural style, taking to an extreme
+the ideas of service oriented computing. In microservices, applications
+are composed by loosely coupled entities, the microservices. Beyond
+that, single microservices should be small enough to be easily managed,
+modified, and if needed removed and rewritten from scratch.
+Microservices aim at obtaining high flexibility, reconfigurability and
+scalability, thanks also to the exploitation of containerization
+technologies such as Docker. Given that microservice-based applications
+are composed by many loosely-coupled microservices, techniques allowing
+one to coordinate their execution in order to obtain the desired
+behaviour are of paramount importance.
+
+    Contacts: Ivan Lanese (ivan.lanese@unibo.it) and Alberto Lluch
+Lafuente (albl@dtu.dk)
 
 ### Tool papers
 
