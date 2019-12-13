@@ -51,8 +51,8 @@ are composed by many loosely-coupled microservices, techniques allowing
 one to coordinate their execution in order to obtain the desired
 behaviour are of paramount importance.
 
-    Contacts: Ivan Lanese (ivan.lanese@unibo.it) and Alberto Lluch
-Lafuente (albl@dtu.dk)
+    Contacts: Ivan Lanese ([ivan.lanese@unibo.it](mailto:ivan.lanese@unibo.it)) and Alberto Lluch
+Lafuente ([albl@dtu.dk](mailto:albl@dtu.dk)).
 
 ### Tool papers
 
