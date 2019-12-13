@@ -153,7 +153,7 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 
 ## Organising Committee
 * [Adrian Francalanza][AdrianWeb] (University of Malta, Malta — General Chair)
-* [Davide Basile][DavideWeb] (University of Florence & ISTI CNR Pisa, Italy — Publicity Chair)
+* [Davide Basile][DavideWeb] (ISTI CNR Pisa, Italy — Publicity Chair)
 * [Kiko Fernández-Reyes][KikoWeb] (Uppsala University, Sweden — Publicity Chair)
 * Antonis Achilleos (Reykjavik University, Iceland — Workshops Chair)
 * [Duncan Attard][DuncanWeb] (University of Malta, Malta — Workshops Chair)
@@ -161,7 +161,7 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 * Lucienne Bugeja (University of Malta, Malta — Logistics)
 
 [AdrianWeb]: http://staff.um.edu.mt/afra1/
-[DavideWeb]: https://www.disia.unifi.it/p-doc2-2017-000000-B-3f2b3d2d3a2b28-0.html
+[DavideWeb]: https://www.cnr.it/people/davide.basile
 [KikoWeb]: https://www.plresearcher.com
 [OrnelaWeb]: http://www.dcs.gla.ac.uk/~ornela/
 [DuncanWeb]: https://github.com/duncanatt
