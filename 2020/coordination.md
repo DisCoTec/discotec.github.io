@@ -37,7 +37,28 @@ COORDINATION 2020 is seeking for contributions that enable the cross-fertilisati
 
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
-Currently, we are in the process of solliciting the Program Committee for topic proposals. Please check back with us shortly. 
+1. Microservices
+
+    Microservices are a novel architectural style, taking to an extreme
+the ideas of service oriented computing. In microservices, applications
+are composed by loosely coupled entities, the microservices. Beyond
+that, single microservices should be small enough to be easily managed,
+modified, and if needed removed and rewritten from scratch.
+Microservices aim at obtaining high flexibility, reconfigurability and
+scalability, thanks also to the exploitation of containerization
+technologies such as Docker. Given that microservice-based applications
+are composed by many loosely-coupled microservices, techniques allowing
+one to coordinate their execution in order to obtain the desired
+behaviour are of paramount importance.
+
+    Contacts: Ivan Lanese ([ivan.lanese@unibo.it](mailto:ivan.lanese@unibo.it)) and Alberto Lluch
+Lafuente ([albl@dtu.dk](mailto:albl@dtu.dk)).
+
+2. Techniques to reason about interacting digital contracts
+
+   With the rise of blockchains and cryptocurrencies, digital contracts have become popular in the form of smart contracts, which encode a financial transaction between possibly distrusting parties using a distributed consensus protocol.  Although smart contracts bear the potential to benefit society quite fundamentally (e.g., equalize access to financial infrastructure, increase fairness), the benefits are shadowed by the existence of severe security vulnerabilities in deployed smart contracts and smart contract languages.  In the 2020 instantiation of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques.
+
+   Contacts: Stephanie Balzer ([balzers@cs.cmu.edu](mailto:balzers@cs.cmu.edu)) and Anastasia Mavridou ([anastasia.mavridou@nasa.gov](mailto:anastasia.mavridou@nasa.gov))
 
 ### Tool papers
 
