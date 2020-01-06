@@ -73,6 +73,7 @@
 * Sara Bouchenak, INSA Lyon, France
 * Antoine Boutet, INSA France
 * Silvia Bonomi, Sapienza University of Rome, Italy
+* Damiano Di Francesco Maesa, University of Cambridge, UK 
 * Davide Frey, INRIA France
 * Paula Herber, University of Münster, Germany
 * Mark Jelasity, University of Szeged, Hungary

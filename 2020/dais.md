@@ -72,6 +72,7 @@ Selected papers from DAIS'20 will be invited to a special issue of a reputed jou
 * Sara Bouchenak, INSA Lyon, France
 * Antoine Boutet, INSA France
 * Silvia Bonomi, Università degli Studi di Roma "La Sapienza”, Italy
+* Damiano Di Francesco Maesa, University of Cambridge, UK 
 * Davide Frey, INRIA France
 * Paula Herber, University of Münster, Germany
 * Mark Jelasity, University of Szeged, Hungary
