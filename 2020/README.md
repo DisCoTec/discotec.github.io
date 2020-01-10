@@ -178,6 +178,7 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 * Rui Oliveira (University of Minho, Portugal)
 * Jean-Bernard Stefani (INRIA Grenoble, France)
 * Gianluigi Zavattaro (University of Bologna, Italy)
+* Alberto Lluch Lafuente (DTU, Denmark)
 
 ## Advisory board
 * Alain Girault (INRIA Grenoble, France)
