@@ -4,6 +4,13 @@
 
 FORTE 2020 is one of the three conferences of [DisCoTec 2020](https://www.discotec.org/2020/), the 15th International Federated Conference on Distributed Computing Techniques.
 
+## Keynote Speakers
+
+- Ken McMillan, Microsoft Research, Redmond
+- Peter Kriens, OSGi Alliance
+- Holger Hermanns, Saarland University
+
+
 ### Quick Links:
 * [Important Dates](https://www.discotec.org/2020/#important-dates)
 * [Topics of Interest](#main-topics-of-interest)
