@@ -17,6 +17,18 @@
 * April 10, 2020 - notification
 * April 24, 2020 - camera ready
 
+## Keynote Speakers
+
+- Ken McMillan, Microsoft Research, Redmond
+- Peter Kriens, OSGi Alliance
+- Holger Hermanns, Saarland University
+
+## Programme
+
+* June 15: DisCoTec Tutorials
+* June 16-18: Coordination/DAIS/FORTE
+* June 19: DisCoTec Workshops
+  
 
 ## Scientific Committees
 
@@ -132,12 +144,6 @@
 
 
 
-## Programme
-
-* June 15: DisCoTec Tutorials
-* June 16-18: Coordination/DAIS/FORTE
-* June 19: DisCoTec Workshops
-  
 
 ## Proceedings
 The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.

@@ -1,2 +1,31 @@
 Invited Speakers
+----------------
 
+(FORTE)
+Ken McMillan, Microsoft Research, Redmond. (Constraints?)
+
+(DAIS) 
+Holger Hermanns, Saarland University, (Wednesday/Thursday) 
+
+(COORDINATION) 
+Peter Kriens, OSGi Alliance (No constraints) - CONFIRMED
+
+Formal Specifications to Increase Understanding
+I've been active in the Alloy (MIT, Daniel Jackson) community the last few years. Alloy is an interactive formal specification tool using SAT and SMT to find counter examples. However, I am quite frustrated how the focus is on the least interesting aspects for me, 'proving' the correctness of a specification. It is for me the least interesting because it requires the spec to be correct (hard!) and it requires the implementation to follow the spec exactly. The people involved in this area seem to leave these all important aspects as a detail for the practitioners. Instead they focus on more and more esoteric things like beating the combinatorial explosion in the proving aspects. I think 'something' like Alloy could be eminently used is to define the semantics of APIs. Today, we define those semantics in comments or, worse, outside documents. Formally defining service APIs seems a low hanging fruit that would boost code writing. (As a developer you spend most of your time trying to understand the domain) and testing (the tool could generate test case data). The service API would make it modular which is an idea that seems to gain traction in the formal specification world to keep the models small enough for the SAT/SMT solvers. 
+
+
+Tutorials Day
+-------------
+
+CHOReVOLUTION IDR
+Massimo Tivoli & Marco Autili, Universita Degli Studi Dell'Aquila
+(Suggested by COORDINATION) - CONFIRMED
+
+STORM 
+Christian Hensel & Joost-Pieter Katoen
+A new probabilistic model checker developed  at RWTH Achen.  It complements and outperforms the well-established model checker PRISM, and provides great engineering results both in allowing model checking of new types of models, and in performance optimisations based on sound theoretical results. Christian Hensel just received the prestigious EAPLS PhD Thesis Award for his work on Storm. 
+(Suggested by FORTE) - CONFIRMED
+
+ByMC - Byzantine Model Checker 
+Developed at TU Vienna (https://forsyte.at/software/bymc/). This is the first-of-its-kind tool that allows for sound verification of parameterised Byzantine fault-tolerant distributed protocols. It has been applied to a number of case studies, including recent blockchain consensus protocols. The lead developers are Igor Konnov and Josef Widder, who are now applying such formal verification techniques at Interchain, a blockchain company.
+(Suggested by FORTE)
