@@ -19,9 +19,9 @@
 
 ## Keynote Speakers
 
-- Ken McMillan, Microsoft Research, Redmond
-- Peter Kriens, OSGi Alliance
-- Holger Hermanns, Saarland University
+* Holger Hermanns, Saarland University
+* Peter Kriens, OSGi Alliance
+* Ken McMillan, Microsoft Research, Redmond
 
 ## Programme
 
