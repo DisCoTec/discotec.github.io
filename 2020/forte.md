@@ -1,6 +1,6 @@
 [![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
 
-# FORTE 2010 - 40th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+# FORTE 2020 - 40th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 FORTE 2020 is one of the three conferences of [DisCoTec 2020](https://www.discotec.org/2020/), the 15th International Federated Conference on Distributed Computing Techniques.
 
@@ -108,7 +108,7 @@ Notice that *short* and *journal-first* papers must be explicitly marked as such
    Journal-first submissions must be marked as such in the submission's title, and must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program. 
 
 ### Publication 
-All accepted papers, regardless of category, will be published in the FORTE 2020 formal proceedings, which will appear in Springer's LNCS-IFIP volume series. 
+All accepted papers, except for the journal-first submissions, will be published in the FORTE 2020 formal proceedings, which will appear in Springer's LNCS-IFIP volume series. 
 
 ### Special Issue 
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
