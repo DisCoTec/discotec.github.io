@@ -41,10 +41,10 @@ COORDINATION 2020 is seeking for contributions that enable the cross-fertilisati
 
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
-<div>
+
 1. Microservices (in collaboration with the Microservices Community)
 
-
+<p>
   <div style="float: left; width: 83%">
 
     Microservices are a novel architectural style, taking to an extreme
@@ -61,11 +61,10 @@ behaviour are of paramount importance.
 
     Contacts: Ivan Lanese ([ivan.lanese@unibo.it](mailto:ivan.lanese@unibo.it)) and Alberto Lluch
 Lafuente ([albl@dtu.dk](mailto:albl@dtu.dk)).
-
   </div>
   <img style="float: left" alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
   <br style="clear: both;">
-</div>
+</p>
 
 2. Techniques to reason about interacting digital contracts
 
