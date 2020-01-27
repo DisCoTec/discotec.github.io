@@ -161,3 +161,9 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ## More Information
 For additional information, please contact the Program Committee Co-chairs: forte20 at easychair dot org
+
+## Sponsors & Supporters
+
+<a href="https://www.ifip.org">
+  <img alt"IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="250px">
+</a>

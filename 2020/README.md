@@ -199,10 +199,15 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 
 ## Sponsors & Supporters
 
-[![IFIP logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi =250px]](https://www.ifip.org)
-![Hauts-de-France Logo](https://i0.wp.com/www.bliudze.me/simon/wp-content/uploads/2019/02/hauts-de-france.jpg =250px)
-![MicroServices Badge](https://www.microservices.community/assets/images/badges/1-black.png =250px)
-![MicroServices Logo](https://www.microservices.community/assets/images/microservices.png =250px)
+<a href="https://www.ifip.org">
+  <img alt"IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="250px">
+</a>
+
+<img alt="Hauts-de-France Logo" src"https://i0.wp.com/www.bliudze.me/simon/wp-content/uploads/2019/02/hauts-de-france.jpg" width="250px">
+
+<img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="250px">
+
+<img alt="MicroServices Logo" src="https://www.microservices.community/assets/images/microservices.png" width="250px">
 
 
 ## Further information
