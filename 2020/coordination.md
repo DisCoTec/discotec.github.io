@@ -44,7 +44,7 @@ Depending on the quality of the contributions, we plan to have dedicated session
 
 1. Microservices (in collaboration with the Microservices Community)
 
-    Microservices are a novel architectural style, taking to an extreme
+   Microservices are a novel architectural style, taking to an extreme
 the ideas of service oriented computing. In microservices, applications
 are composed by loosely coupled entities, the microservices. Beyond
 that, single microservices should be small enough to be easily managed,
@@ -56,7 +56,7 @@ are composed by many loosely-coupled microservices, techniques allowing
 one to coordinate their execution in order to obtain the desired
 behaviour are of paramount importance.
 
-Contacts: Ivan Lanese ([ivan.lanese@unibo.it](mailto:ivan.lanese@unibo.it)) and Alberto Lluch
+   Contacts: Ivan Lanese ([ivan.lanese@unibo.it](mailto:ivan.lanese@unibo.it)) and Alberto Lluch
 Lafuente ([albl@dtu.dk](mailto:albl@dtu.dk)).
 
 2. Techniques to reason about interacting digital contracts
@@ -170,7 +170,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ## Sponsors & Supporters
 
 <a href="https://www.ifip.org">
-  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="150px">
+  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="350px">
 </a>
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <img alt="Hauts-de-France Logo" src="https://i0.wp.com/www.bliudze.me/simon/wp-content/uploads/2019/02/hauts-de-france.jpg" width="150px">
