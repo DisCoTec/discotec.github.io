@@ -7,7 +7,7 @@ FORTE 2020 is one of the three conferences of [DisCoTec 2020](https://www.discot
 ## Keynote Speakers
 
 * Holger Hermanns, Saarland University
-* Peter Kriens, OSGi Alliance
+* Peter Kriens, aQute & OSGi Alliance
 * Ken McMillan, Microsoft Research, Redmond
 
 
@@ -35,12 +35,12 @@ The conference solicits original contributions that advance the science and tech
 
 Aligned with the above, FORTE covers __models and formal specification__, __testing__ and __verification methods__ for distributed computing.  Application domains are multiple, and include all kinds of application-level distributed systems, telecommunication services, Internet, embedded and real-time systems, as well as networking and communication security and reliability.
 
-Contributions that __combine theory and practice__ and that exploit formal methods and theoretical foundations to present novel solutions to problems arising from the development of distributed systems are very much encouraged. 
+Contributions that __combine theory and practice__ and that exploit formal methods and theoretical foundations to present novel solutions to problems arising from the development of distributed systems are very much encouraged.
 
 ## Main Topics of Interest
 Topics of interest include but are not limited to:
  * __Languages and semantic foundations__
- 
+
    New modeling and language concepts for distribution and concurrency; semantics for different types of languages, including programming languages, modeling languages, and domain-specific languages; real-time and probability aspects
 
 * __Formal methods and techniques__
@@ -56,7 +56,7 @@ Topics of interest include but are not limited to:
   Applying formal methods and techniques for studying quality, reliability, availability, and safety of distributed systems
 
 * __Practical experience with formal methods__
- 
+
   Industrial applications, case studies and software tools for applying formal methods and description techniques to the development and analysis of real distributed systems.
 
 * __Emerging challenges and hot topics in distributed systems__ (broadly construed)
@@ -67,17 +67,17 @@ Topics of interest include but are not limited to:
 
 ### Submission dates
 
-See the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates). 
+See the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates).
 
 ### Submission Guidelines
-Contributions must be written in English according to one of the three categories described below. They should report on original, unpublished work, not submitted for publication elsewhere (cf. [IFIP codes of conduct](http://www.ifip.org/index.php?option=com_content&task=view&id=219&Itemid=564), under Links).  
+Contributions must be written in English according to one of the three categories described below. They should report on original, unpublished work, not submitted for publication elsewhere (cf. [IFIP codes of conduct](http://www.ifip.org/index.php?option=com_content&task=view&id=219&Itemid=564), under Links).
 
-Submissions must be prepared as a PDF using Springer’s LNCS style. Submissions not adhering to the specified constraints of their respective category may be rejected without review. 
+Submissions must be prepared as a PDF using Springer’s LNCS style. Submissions not adhering to the specified constraints of their respective category may be rejected without review.
 
 ### Submission Categories
-FORTE accepts contributions in three categories: __full papers__, __short papers__, and __journal-first papers__. These categories and their associated criteria are described in detail below. 
+FORTE accepts contributions in three categories: __full papers__, __short papers__, and __journal-first papers__. These categories and their associated criteria are described in detail below.
 
-Notice that *short* and *journal-first* papers must be explicitly marked as such in the submission's title. 
+Notice that *short* and *journal-first* papers must be explicitly marked as such in the submission's title.
 
 1. __Full papers__ (page limit: up to 15 pages + 2 pages references)
 
@@ -89,28 +89,28 @@ Notice that *short* and *journal-first* papers must be explicitly marked as such
    * *Rough diamonds*: Extended abstracts presenting innovative and promising ideas, possibly in an early form and without supporting evidence.
    * *Tool (demonstration) papers*: Extended abstracts describing (or demonstrating) new tools (or tool components) that implement (or build upon) theoretical foundations.
    * *Position papers* : Extended abstracts describing (i) calls to action,  or (ii) substantiated reflections on current and/or future research perspectives related to FORTE.
-   
+
    Short paper submissions must be marked as such in the submission's title.
 
 3. __"Journal First" papers__ (page limit: up to 2 pages, including references)
 
-   This category aims at including published journal papers in the FORTE 2020 program. The objective is to offer FORTE attendees a richer program and further opportunities for interaction. 
+   This category aims at including published journal papers in the FORTE 2020 program. The objective is to offer FORTE attendees a richer program and further opportunities for interaction.
 
    Authors of published papers in high-quality journals can submit a proposal to present their journal paper in FORTE. The journal paper must adhere to the following four criteria:
 
    * It should be clearly in the scope of the conference.
-   * It should be recent: only journal papers available  after January 1, 2018 (online or paper) can be presented. 
+   * It should be recent: only journal papers available  after January 1, 2018 (online or paper) can be presented.
    * It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).
    * It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.
-   
+
    A journal-first submission is a concise but compelling summary of the published journal paper, which makes it clear why a related presentation would enrich the program of FORTE.
 
-   Journal-first submissions must be marked as such in the submission's title, and must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program. 
+   Journal-first submissions must be marked as such in the submission's title, and must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program.
 
-### Publication 
-All accepted papers, except for the journal-first submissions, will be published in the FORTE 2020 formal proceedings, which will appear in Springer's LNCS-IFIP volume series. 
+### Publication
+All accepted papers, except for the journal-first submissions, will be published in the FORTE 2020 formal proceedings, which will appear in Springer's LNCS-IFIP volume series.
 
-### Special Issue 
+### Special Issue
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
 
 ## Submission Link

@@ -12,7 +12,7 @@
 
 ## Important dates
 
-* February 3, 2020 - abstract submission 
+* February 3, 2020 - abstract submission
 * February 14, 2020 - paper submission
 * April 10, 2020 - notification
 * April 24, 2020 - camera ready
@@ -28,7 +28,7 @@
 * June 15: DisCoTec Tutorials
 * June 16-18: Coordination/DAIS/FORTE
 * June 19: DisCoTec Workshops
-  
+
 
 ## Scientific Committees
 
@@ -42,7 +42,7 @@
 * [Omar Inverso](https://www.gssi.it/people/post-doc/post-doc-computer-science/item/1018-inverso-omar) (Gran Sasso Science Institute, Italy)
 * [Hugo Torres Vieira](https://sysma.imtlucca.it/people/hugo-torres-vieira/) (C4 - Universidade da Beira Interior, Portugal)
 
-#### Program committee 
+#### Program committee
 * Stephanie Balzer (CMU, USA)
 * Chiara Bodei (Università di Pisa, Italy)
 * Marius Bozga (Université Grenoble Alpes, France)
@@ -85,7 +85,7 @@
 * Sara Bouchenak, INSA Lyon, France
 * Antoine Boutet, INSA France
 * Silvia Bonomi, Sapienza University of Rome, Italy
-* Damiano Di Francesco Maesa, University of Cambridge, UK 
+* Damiano Di Francesco Maesa, University of Cambridge, UK
 * Davide Frey, INRIA France
 * Paula Herber, University of Münster, Germany
 * Mark Jelasity, University of Szeged, Hungary
@@ -109,7 +109,7 @@
 * Spyros Voulgaris,  Athens University of Economics and Business, Greece
 
 
-### FORTE 
+### FORTE
 
 #### Program committee chairs
 * [Alexey Gotsman](https://software.imdea.org/~gotsman/) (IMDEA Software Institute, Spain)
@@ -153,9 +153,9 @@ The individual conferences will organise special issues of extended and selected
 
 ## Location
 
-[University of Malta, Valletta Campus](https://www.um.edu.mt/campuses/valletta), 
-Old University Building St. Paul Street, 
-Valletta Malta VLT 1216. 
+[University of Malta, Valletta Campus](https://www.um.edu.mt/campuses/valletta),
+Old University Building St. Paul Street,
+Valletta Malta VLT 1216.
 It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtoreachus).
 
 ## Organising Committee
@@ -198,7 +198,7 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 * John Derrick (University of Sheffield, UK)
 
 
-## Further information 
+## Further information
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
 
 For further information please contact the general chair at <adrian.francalanza@um.edu.mt>.

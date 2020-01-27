@@ -7,7 +7,7 @@ Coordination 2020 is one of the three conferences of [DisCoTec 2020](https://www
 ## Keynote Speakers
 
 * Holger Hermanns, Saarland University
-* Peter Kriens, OSGi Alliance
+* Peter Kriens, aQute & OSGi Alliance
 * Ken McMillan, Microsoft Research, Redmond
 
 
@@ -41,7 +41,7 @@ COORDINATION 2020 is seeking for contributions that enable the cross-fertilisati
 
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
-1. Microservices
+1. Microservices (in collaboration with the Microservices Community)
 
     Microservices are a novel architectural style, taking to an extreme
 the ideas of service oriented computing. In microservices, applications
@@ -57,6 +57,9 @@ behaviour are of paramount importance.
 
     Contacts: Ivan Lanese ([ivan.lanese@unibo.it](mailto:ivan.lanese@unibo.it)) and Alberto Lluch
 Lafuente ([albl@dtu.dk](mailto:albl@dtu.dk)).
+
+![MicroServices Badge](https://www.microservices.community/assets/images/badges/1-black.png)
+![MicroServices Logo](https://www.microservices.community/assets/images/microservices.png)
 
 2. Techniques to reason about interacting digital contracts
 
@@ -78,7 +81,7 @@ Interested authors can contact the tool track chairs (Omar Inverso <omar.inverso
 
 ### Dates
 
-See the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates). 
+See the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates).
 
 ### Publication and Special Issues
 
@@ -89,7 +92,7 @@ Contributions must be written in English and report on original, unpublished wor
 Submission categories:
 * Full papers (up to 15 pages + 2 pages references): describing thorough and complete research results and experience reports.
 * Short papers (up to 6 pages + 2 pages references): describing research in progress or opinion papers on the past of Coordination research, on the current state of the art, or on prospects for the years to come.
-* Survey papers (up to 25 pages + 2 pages references): describing important results and successful stories that originated in the context of COORDINATION. 
+* Survey papers (up to 25 pages + 2 pages references): describing important results and successful stories that originated in the context of COORDINATION.
 * Tool papers (up to 6 pages + 2 pages references): describing technological artefacts in the scope of the research topics of COORDINATION. The paper must contain **a link to a publicly downloadable MPEG-4 demo video** of at most 10 minutes length.
 
 
@@ -97,7 +100,7 @@ The conference proceedings, formed by accepted submissions will be published by 
 
 
 ### Special Issues
-Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org) and a separate special issue dedicated to tool papers is being planned. Special issues for last year's edition are under preparation in [**Logical Methods in Computer Science**](https://lmcs.episciences.org) for selected research papers, and in [**Science of Computer Programming**](https://www.journals.elsevier.com/science-of-computer-programming) for selected tool papers (as a collection of [**Original Software Publications**](https://www.elsevier.com/authors/author-resources/research-elements/software-articles/original-software-publications). 
+Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org) and a separate special issue dedicated to tool papers is being planned. Special issues for last year's edition are under preparation in [**Logical Methods in Computer Science**](https://lmcs.episciences.org) for selected research papers, and in [**Science of Computer Programming**](https://www.journals.elsevier.com/science-of-computer-programming) for selected tool papers (as a collection of [**Original Software Publications**](https://www.elsevier.com/authors/author-resources/research-elements/software-articles/original-software-publications).
 
 <!--Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org). A separate special issue dedicated to tool papers is being planned.-->
 
@@ -165,3 +168,9 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Vasco T. Vasconcelos, University of Lisbon, Portugal
 * Mirko Viroli, University of Bologna, Italy
 * Gianluigi Zavattaro, University of Bologna, Italy (Chair)
+
+## Sponsors and Supporters
+
+![Hauts-de-France Logo](https://i0.wp.com/www.bliudze.me/simon/wp-content/uploads/2019/02/hauts-de-france.jpg)
+![MicroServices Badge](https://www.microservices.community/assets/images/badges/1-black.png)
+![MicroServices Logo](https://www.microservices.community/assets/images/microservices.png)

@@ -7,7 +7,7 @@ DAIS 2020 is one of the three conferences of [DisCoTec 2020](https://www.discote
 ## Keynote Speakers
 
 * Holger Hermanns, Saarland University
-* Peter Kriens, OSGi Alliance
+* Peter Kriens, aQute & OSGi Alliance
 * Ken McMillan, Microsoft Research, Redmond
 
 
@@ -50,7 +50,7 @@ System issues and design goals, including
 * tail-performance and energy-efficiency.
 
 ## Submission dates
-See the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates). 
+See the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates).
 
 ## Submission and Publication
 
@@ -62,7 +62,7 @@ All papers must be original, unpublished, and not submitted for publication else
 
 Contributions should be submitted electronically as PDF, using the Springer LNCS style to the conference submission website (<https://easychair.org/conferences/?conf=dais2020>). Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear. All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in the LNCS series. Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted.
 
-## Special Issue 
+## Special Issue
 Selected papers from DAIS'20 will be invited to a special issue of a reputed journal (to be announced soon).
 
 ## Program committee chairs
@@ -75,7 +75,7 @@ Selected papers from DAIS'20 will be invited to a special issue of a reputed jou
 * Sara Bouchenak, INSA Lyon, France
 * Antoine Boutet, INSA France
 * Silvia Bonomi, Università degli Studi di Roma "La Sapienza”, Italy
-* Damiano Di Francesco Maesa, University of Cambridge, UK 
+* Damiano Di Francesco Maesa, University of Cambridge, UK
 * Davide Frey, INRIA France
 * Paula Herber, University of Münster, Germany
 * Mark Jelasity, University of Szeged, Hungary
