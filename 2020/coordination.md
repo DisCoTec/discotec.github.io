@@ -44,9 +44,7 @@ Depending on the quality of the contributions, we plan to have dedicated session
 
 1. Microservices (in collaboration with the Microservices Community)
 
-<p>
-  <div style="float: left; width: 83%">
-
+  <!-- <div style="float: left; width: 83%"> -->
     Microservices are a novel architectural style, taking to an extreme
 the ideas of service oriented computing. In microservices, applications
 are composed by loosely coupled entities, the microservices. Beyond
@@ -61,10 +59,9 @@ behaviour are of paramount importance.
 
     Contacts: Ivan Lanese ([ivan.lanese@unibo.it](mailto:ivan.lanese@unibo.it)) and Alberto Lluch
 Lafuente ([albl@dtu.dk](mailto:albl@dtu.dk)).
-  </div>
-  <img style="float: left" alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
-  <br style="clear: both;">
-</p>
+<!--   </div> -->
+<!--   <img style="float: left" alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px"> -->
+<!--   <br style="clear: both;"> -->
 
 2. Techniques to reason about interacting digital contracts
 
