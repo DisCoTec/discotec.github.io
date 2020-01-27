@@ -41,10 +41,12 @@ COORDINATION 2020 is seeking for contributions that enable the cross-fertilisati
 
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
+<div>
 1. Microservices (in collaboration with the Microservices Community)
 
-<div>
-  <div style="float: left">
+
+  <div style="float: left; width: 83%">
+
     Microservices are a novel architectural style, taking to an extreme
 the ideas of service oriented computing. In microservices, applications
 are composed by loosely coupled entities, the microservices. Beyond
@@ -59,11 +61,9 @@ behaviour are of paramount importance.
 
     Contacts: Ivan Lanese ([ivan.lanese@unibo.it](mailto:ivan.lanese@unibo.it)) and Alberto Lluch
 Lafuente ([albl@dtu.dk](mailto:albl@dtu.dk)).
+
   </div>
-  <div style="float: left">
-    <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
-    <img alt="MicroServices Logo" src="https://www.microservices.community/assets/images/microservices.png" width="150px">
-  </div>
+  <img style="float: left" alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
   <br style="clear: both;">
 </div>
 
