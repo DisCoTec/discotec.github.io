@@ -58,8 +58,8 @@ behaviour are of paramount importance.
     Contacts: Ivan Lanese ([ivan.lanese@unibo.it](mailto:ivan.lanese@unibo.it)) and Alberto Lluch
 Lafuente ([albl@dtu.dk](mailto:albl@dtu.dk)).
 
-![MicroServices Badge](https://www.microservices.community/assets/images/badges/1-black.png)
-![MicroServices Logo](https://www.microservices.community/assets/images/microservices.png)
+![MicroServices Badge](https://www.microservices.community/assets/images/badges/1-black.png =150px)
+![MicroServices Logo](https://www.microservices.community/assets/images/microservices.png =150px)
 
 2. Techniques to reason about interacting digital contracts
 
@@ -171,6 +171,6 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ## Sponsors and Supporters
 
-![Hauts-de-France Logo](https://i0.wp.com/www.bliudze.me/simon/wp-content/uploads/2019/02/hauts-de-france.jpg)
-![MicroServices Badge](https://www.microservices.community/assets/images/badges/1-black.png)
-![MicroServices Logo](https://www.microservices.community/assets/images/microservices.png)
+![Hauts-de-France Logo](https://i0.wp.com/www.bliudze.me/simon/wp-content/uploads/2019/02/hauts-de-france.jpg =150px)
+![MicroServices Badge](https://www.microservices.community/assets/images/badges/1-black.png =150px)
+![MicroServices Logo](https://www.microservices.community/assets/images/microservices.png =150px)
