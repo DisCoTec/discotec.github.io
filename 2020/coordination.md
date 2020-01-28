@@ -218,9 +218,9 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
   <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
 </a>
 
- <script
-  src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
-  integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
+<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
   crossorigin="anonymous"></script>
 
 <script>
