@@ -210,10 +210,6 @@ For further information please contact the general chair at <adrian.francalanza@
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <img alt="Hauts-de-France Logo" src="https://i0.wp.com/www.bliudze.me/simon/wp-content/uploads/2019/02/hauts-de-france.jpg" width="150px">
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
-<a href="https://www.microservices.community">
+<a href="https://microservices.community/e/discotec2020/">
   <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
-</a>
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
-<a href="https://www.microservices.community">
-  <img alt="MicroServices Logo" src="https://www.microservices.community/assets/images/microservices.png" width="150px">
 </a>

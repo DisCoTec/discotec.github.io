@@ -52,7 +52,7 @@ Depending on the quality of the contributions, we plan to have dedicated session
   <li>
     <p>Microservices (in collaboration with the Microservices Community)</p>
 
-    <p style="float: left; width: 83%">Microservices are a novel architectural style, taking to an extreme
+    <p style="float: left; width: 63%">Microservices are a novel architectural style, taking to an extreme
 the ideas of service oriented computing. In microservices, applications
 are composed by loosely coupled entities, the microservices. Beyond
 that, single microservices should be small enough to be easily managed,
@@ -63,7 +63,10 @@ technologies such as Docker. Given that microservice-based applications
 are composed by many loosely-coupled microservices, techniques allowing
 one to coordinate their execution in order to obtain the desired
 behaviour are of paramount importance.</p>
-  <img style="float: left" alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
+<a href="https://microservices.community/e/discotec2020/">
+  <img style="float: left" alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="130px">
+</a>
+<div style="float: left" id="#microservices_community_events_upcoming"></div>
   <br style="clear: both;">
 
     <p>Contacts: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) and Alberto Lluch
@@ -211,10 +214,18 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <img alt="Hauts-de-France Logo" src="https://i0.wp.com/www.bliudze.me/simon/wp-content/uploads/2019/02/hauts-de-france.jpg" width="150px">
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
-<a href="https://www.microservices.community">
+<a href="https://microservices.community/e/discotec2020/">
   <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
 </a>
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
-<a href="https://www.microservices.community">
-  <img alt="MicroServices Logo" src="https://www.microservices.community/assets/images/microservices.png" width="150px">
-</a>
+
+ <script
+  src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+  integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8="
+  crossorigin="anonymous"></script>
+
+<script>
+function microservices_community_events(data) {
+  const upcoming = $("#microservices_community_events_upcoming") data.upcoming.forEach(element => { upcoming.append(` ${element.title} `) }); const past = $("#microservices_community_events_past") data.past.forEach((element, index) => { if (index > 2) { return } past.append(` ${element.title} `) });
+}
+$(document).ready(() => { const url = "https://www.microservices.community/events.json" $.ajax({ url: url, jsonp: "microservices_community_events", dataType: "jsonp" }) })
+</script>
