@@ -218,11 +218,6 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
   <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
 </a>
 
-<script
-  src="https://code.jquery.com/jquery-3.4.1.min.js"
-  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
-  crossorigin="anonymous"></script>
-
 <script>
 function microservices_community_events(data) {
   const upcoming = $("#microservices_community_events_upcoming") data.upcoming.forEach(element => { upcoming.append(` ${element.title} `) }); const past = $("#microservices_community_events_past") data.past.forEach((element, index) => { if (index > 2) { return } past.append(` ${element.title} `) });
