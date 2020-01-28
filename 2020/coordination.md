@@ -66,7 +66,7 @@ behaviour are of paramount importance.</p>
 <a href="https://microservices.community/e/discotec2020/">
   <img style="float: left" alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="130px">
 </a>
-<div style="float: left" id="#microservices_community_events_upcoming"></div>
+<div style="float: left" id="microservices_community_events_upcoming"></div>
   <br style="clear: both;">
 
     <p>Contacts: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) and Alberto Lluch
