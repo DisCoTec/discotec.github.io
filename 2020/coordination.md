@@ -41,13 +41,6 @@ COORDINATION 2020 is seeking for contributions that enable the cross-fertilisati
 
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
-<!-- <div style="float: left; width: 83%"> -->
-<!--   </div> -->
-<!--   <img style="float: left" alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px"> -->
-<!--   <br style="clear: both;"> -->
-
-
-
 <ol>
   <li>
     <p>Microservices (in collaboration with the Microservices Community)</p>
@@ -63,12 +56,40 @@ technologies such as Docker. Given that microservice-based applications
 are composed by many loosely-coupled microservices, techniques allowing
 one to coordinate their execution in order to obtain the desired
 behaviour are of paramount importance.</p>
-<a href="https://microservices.community/e/discotec2020/">
-  <img style="float: left" alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="130px">
-</a>
-<div style="float: left" id="microservices_community_events_upcoming"></div>
-  <br style="clear: both;">
 
+    <div class="pb-3" style="float:left">
+      <div class="container">
+        <div class="row">
+          <div class="col-3">
+            <a href="https://microservices.community/e/discotec2020/">
+            <img class="img-responsive align-middle" alt="Microservices Community Badge" src="https://www.microservices.community/assets/images/badges/1-black.png">
+            </a>
+          </div>
+          <div class="col-9">
+            <div class="small border" style="padding: 5px;">
+              <p><strong>Other events organised by the Microservices Community</strong></p>
+              <p>
+                <em>Upcoming Events</em>
+              </p>
+              <div>
+                <ul id="microservices_community_events_upcoming">
+                </ul>
+              </div>
+              <p></p>
+              <p>
+                <em>Past Events</em>
+              </p>
+              <div>
+                <ul id="microservices_community_events_past">
+                </ul>
+              </div>
+              <p></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="clear: both;"></div>
     <p>Contacts: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) and Alberto Lluch
 Lafuente (<a href="mailto:albl@dtu.dk">albl@dtu.dk</a>).</p>
   </li>
@@ -219,8 +240,29 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 </a>
 
 <script>
-function microservices_community_events(data) {
-  const upcoming = $("#microservices_community_events_upcoming") data.upcoming.forEach(element => { upcoming.append(` ${element.title} `) }); const past = $("#microservices_community_events_past") data.past.forEach((element, index) => { if (index > 2) { return } past.append(` ${element.title} `) });
-}
-$(document).ready(() => { const url = "https://www.microservices.community/events.json" $.ajax({ url: url, jsonp: "microservices_community_events", dataType: "jsonp" }) })
+  function microservices_community_events(data) {
+   const upcoming = $("#microservices_community_events_upcoming");
+   data.upcoming.forEach( element => {
+     upcoming.append(
+     `<li>
+       <a target="_blank" href="${ element.link }">${ element.title }</a>
+     </li>` )
+   });
+   const past = $("#microservices_community_events_past");
+   data.past.forEach( (element, index) => {
+     if (index > 2) { return }
+     past.append(
+     `<li>
+       <a target="_blank" href="${ element.link }">${ element.title }</a>
+     </li>` )
+   });
+ }
+ $( document ).ready( () => {
+     const url = "https://www.microservices.community/events.json";
+     $.ajax({
+       url: url,
+       jsonp: "microservices_community_events",
+       dataType: "jsonp"
+     })
+   })
 </script>
