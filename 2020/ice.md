@@ -79,9 +79,9 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 ## ICEcreamers
 
-* Larisa Safina (Inria, FR) - `larisa.safina (AT) inria.fr`
 * Julien Lange (University of Kent, UK) - `j.s.lange (AT) kent.ac.uk`
 * Anastasia Mavridou (NASA Ames, USA) - `anastasia.mavridou (AT) nasa.gov`
+* Larisa Safina (Inria, FR) - `larisa.safina (AT) inria.fr`
 * Alceste Scalas (Aston University, Birmingham, UK) - `a.scalas (AT) aston.ac.uk`
 
 ## Programme Committee
