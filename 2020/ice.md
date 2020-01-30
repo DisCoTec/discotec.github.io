@@ -1,26 +1,18 @@
-[![](https://www.discotec.org/2019/discotec-banner.jpeg)](https://www.discotec.org/2019/)
+[![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
 
-# ICE 2019 - 12th Interaction and Concurrency Experience
-ICE 2019 is a satellite workshop of [DisCoTec 2019](https://www.discotec.org/2019/), held on June 20-21, 2019 in Lyngby, Denmark.
+# ICE 2020 - 13th Interaction and Concurrency Experience
+ICE 2020 is a satellite workshop of [DisCoTec 2020](https://www.discotec.org/2020/), held on June 19-20 at the University of Malta, Valletta.
 
 ## Highlights
 * Distinctive selection procedure
 * ICE welcomes full papers to be included in the proceedings
 * ICE also welcomes oral communications of already published or preliminary work
-* Invited speakers: 
-    - Dilian Gurov (KTH, SE)
-    - Fritz Henglein (Deon Digital and University of Copenhagen, DK)
-    - Sophia Knight (University of Minnesota Duluth, USA)
-    - Hernán Melgratti (University of Buenos Aires - Conicet, AR)
+* Invited speakers: _TBA_
 * Publication in EPTCS
 * Special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier) (to be confirmed)
 
-## Programme
-
-The ICE 2019 programme is available [here](https://www.discotec.org/2019/programme#ice-programme).
-  
 ## Scope
-Interaction and Concurrency Experiences (ICEs) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for complex interactions.
+Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for complex interactions.
 
 The general scope of the venue includes theoretical and applied aspects of interactions and the synchronization mechanisms used among components of concurrent/distributed systems, related to several areas of computer science in the broad spectrum ranging from formal specification and analysis to studies inspired by emerging computational models.
 
@@ -38,16 +30,13 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 * Tools and techniques for automation
 * Synthesis techniques
 
-## Important dates
-  * ~~April 18, 2019: abstract submission~~ 
-  * ~~April 20, 2019: paper submission~~ 
-  * <span style="color:red">__April 26, 2019 - abstract submission for research papers (>5pp + references)__</span>
-  * <span style="color:red">__April 29, 2019 - paper submission for research papers (>5pp + references)__</span>
-  * <span style="color:red">__May 3, 2019 - abstract submission for oral communications and short papers (<=5pp + references)__</span>
-  * <span style="color:red">__May 6, 2019 - paper submission for oral communications and short papers (<=5pp + references)__</span>
-  * May 29, 2019: notification
-  * June 20-21, 2019: ICE workshop
-  * July 15, 2019: camera-ready for EPTCS post-proceedings
+## Important dates (to be confirmed)
+
+  * April 20, 2020: abstract submission
+  * April 22, 2020: paper submission
+  * May 18, 2020: notification
+  * June 19-20, 2020: ICE workshop
+  * July 13, 2020: camera-ready for EPTCS post-proceedings
 
 ## Selection Procedure
 
@@ -73,8 +62,7 @@ Papers in the “Oral communications” category need not be anonymized.  For an
 
 We are keen to enhance the balanced, inclusive and diverse nature of the ICE community, and would particularly encourage female colleagues and members of other underrepresented groups to submit their work.
 
-Submissions must be made electronically in PDF format via [EasyChair](https://easychair.org/conferences/?conf=ice20190).
-
+Submissions must be made electronically in PDF format via [OpenReview](https://openreview.net/group?id=DisCoTec.org/2020/Workshop/ICE).
 
 ## Publications
 
@@ -87,53 +75,50 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 ## Invited speakers 
 
-  * Dilian Gurov (KTH, SE)
-  * Fritz Henglein (Deon Digital and University of Copenhagen, DK)
-  * Sophia Knight (University of Minnesota Duluth, USA)
-  * Hernán Melgratti (University of Buenos Aires - Conicet, AR)
-
-See [titles and abstracts](./ice-keynotes).
-
-## Programme Committee
-
-* Aimée Borda (Trinity College Dublin, IE)
-* Matteo Cimini (University of Massachusetts Lowell, USA)
-* Corina Cirstea (University of Southampton, UK)
-* Ornela Dardha (University of Glasgow, UK)
-* Simon Fowler (University of Edinburgh, UK)
-* Svetlana Jakšić (Western Norway University of Applied Sciences, NO)
-* Sophia Knight (University of Minnesota Duluth, USA)
-* Ivan Lanese (University of Bologna, IT)
-* Julien Lange (University of Kent, UK)
-* Hugo-Andrés López (IT University of Copenhagen and DCR Solutions, DK)
-* Hernán Melgratti (University of Buenos Aires, AR)
-* Claudio Antares Mezzina (University of Leicester, UK)
-* Maurizio Murgia (University of Cagliari, IT)
-* Kristin Peters (TU Berlin, DE) 
-* Matteo Sammartino (University College London, UK)
-* Emmanouela Stachtiari (Aristotle University of Thessaloniki, GR)
-* Silvia Lizeth Tapia Tarifa (University of Oslo, NO)
-* Hugo Torres Vieira (IMT Lucca, IT)
-* Johannes Åman Pohjola (Data61/CSIRO, AU)
-
+  * _TBA_
 
 ## ICEcreamers
 
-* Massimo Bartoletti (University of Cagliari, IT)
-* Ludovic Henrio (CNRS, LIP, Lyon, FR) 
-* Anastasia Mavridou (NASA Ames, USA)
-* Alceste Scalas (Aston University, Birmingham, UK)
+* Larisa Safina (Inria, FR) - `larisa.safina (AT) inria.fr`
+* Julien Lange (University of Kent, UK) - `j.s.lange (AT) kent.ac.uk`
+* Anastasia Mavridou (NASA Ames, USA) - `anastasia.mavridou (AT) nasa.gov`
+* Alceste Scalas (Aston University, Birmingham, UK) - `a.scalas (AT) aston.ac.uk`
 
+## Programme Committee
+
+* Massimo Bartoletti (University of Cagliari, IT)
+* Chiara Bodei (Università di Pisa, Italy)
+* Aimée Borda (Trinity College Dublin, IE)
+* Matteo Cimini (University of Massachusetts Lowell, USA)
+* Corina Cirstea (University of Southampton, UK)
+* Simon Fowler (University of Edinburgh, UK)
+* Ludovic Henrio (ENS Lyon, FR)
+* Sung-Shik Jongmans (Open University of the Netherlands, NL)
+* Wen Kokke (University of Edinburgh, UK)
+* Ivan Lanese (University of Bologna, IT)
+* Alberto Lluch Lafuente (Technical University of Denmark, DK)
+* Diego Marmsoler (University of Exeter, UK)
+* Manuel Mazzara (Innopolis University, RU)
+* Hernán Melgratti (University of Buenos Aires, AR)
+* Claudio Antares Mezzina (University of Urbino, IT)
+* Maurizio Murgia (University of Trento, IT)
+* Rumyana Neykova (Brunel University London, UK)
+* Kirstin Peters (TU Berlin, DE)
+* Johannes Åman Pohjola (Data61/CSIRO, AU) 
+* Ivan Prokic (University of Novi Sad, RS)
+* Matteo Sammartino (Royal Holloway, University of London, UK)
+* Silvia Lizeth Tapia Tarifa (University of Oslo, NO)
+* Hugo Torres Vieira (University of Beira Interior, PT)
+* Laura Voinea (University of Glasgow, UK)
 
 ## Steering Committee
 
-* Simon Bliudze (Inria Lille - Nord Europe, FR)
-* Filippo Bonchi (University of Pisa, IT)
-* Roberto Bruni (University of Pisa, IT)
-* Alexandra Silva (University College London, UK)
-* Paola Spoletini (Kennesaw State University, USA)
-* Emilio Tuosto (University of Leicester, UK)
-
+* Massimo Bartoletti (University of Cagliari, IT)
+* Ludovic Henrio (ENS Lyon, FR)
+* Ivan Lanese (University of Bologna, IT)
+* Alberto Lluch Lafuente (Technical University of Denmark, DK)
+* Sophia Knight (University of Minnesota Duluth, USA)
+* Hugo Torres Vieira (University of Beira Interior, PT)
 
 ## Previous editions
 
@@ -149,7 +134,8 @@ The previous ten editions of ICE have been held on
 * [ICE'16](http://2016.discotec.org/index713e.html), June 21-22, 2016 in Heraklion, Greece, co-located with DisCoTec’16. The post-proceedings were published in EPTCS (vol. 223) and a special issue of JLAMP (Vol. 92).
 * [ICE'17](http://2017.discotec.org/workshops/ice-2017.html), June 21-22 2017 in Neuchâtel, Switzerland, co-located with DisCoTec’17. The post-proceedings were published in EPTCS (vol. 261) and a special issue of JLAMP is in preparation.
 * [ICE'18](http://2018.discotec.org/cfp_w_ice.html), June 20-21, 2018 in Madrid, Spain, co-located with DisCoTec'18. The post-proceedings were published in EPTCS (vol. 279) and a special issue of JLAMP is in preparation.
+* [ICE'19](http://www.discotec.org/2019/ice), June 20-21, 2019 in Lyngby, Denmark, co-located with DisCoTec'19. The post-proceedings were published in EPTCS (vol. 304) and a special issue of JLAMP is in preparation.
 
 ## More information
 
-For additional information, please contact the Program Committee co-chairs: [ice2019-0@easychair.org](mailto:ice2019-0@easychair.org)
+For additional information, please contact the ICEcreamers (see email addresses above).
