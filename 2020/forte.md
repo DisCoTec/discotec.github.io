@@ -6,10 +6,10 @@ FORTE 2020 is one of the three conferences of [DisCoTec 2020](https://www.discot
 
 ## Keynote Speakers
 
-* Holger Hermanns, Saarland University
-* Ken McMillan, Microsoft Research, Redmond
 * Nathalie Bertrand, INRIA Rennes Bretagne-Atlantique
+* Holger Hermanns, Saarland University
 * Peter Kriens, aQute & OSGi Alliance
+* Ken McMillan, Microsoft Research, Redmond
 
 ### Quick Links:
 * [Important Dates](https://www.discotec.org/2020/#important-dates)
