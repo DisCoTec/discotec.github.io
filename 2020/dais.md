@@ -7,8 +7,9 @@ DAIS 2020 is one of the three conferences of [DisCoTec 2020](https://www.discote
 ## Keynote Speakers
 
 * Holger Hermanns, Saarland University
-* Peter Kriens, aQute & OSGi Alliance
 * Ken McMillan, Microsoft Research, Redmond
+* Nathalie Bertrand, INRIA Rennes Bretagne-Atlantique
+* Peter Kriens, aQute & OSGi Alliance
 
 
 # Scope

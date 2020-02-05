@@ -20,8 +20,9 @@
 ## Keynote Speakers
 
 * Holger Hermanns, Saarland University
-* Peter Kriens, OSGi Alliance
 * Ken McMillan, Microsoft Research, Redmond
+* Nathalie Bertrand, INRIA Rennes Bretagne-Atlantique
+* Peter Kriens, aQute & OSGi Alliance
 
 ## Programme
 
