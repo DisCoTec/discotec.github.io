@@ -12,8 +12,8 @@
 
 ## Important dates
 
-* February 3, 2020 - abstract submission
-* February 14, 2020 - paper submission
+* February 17, 2020 - abstract submission - extended deadline
+* February 28, 2020 - paper submission - extended deadline
 * April 10, 2020 - notification
 * April 24, 2020 - camera ready
 
