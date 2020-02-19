@@ -123,7 +123,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 ## Previous editions
 
-The previous ten editions of ICE have been held on
+The previous editions of ICE have been held on
 * [ICE'08](http://ice08.dimi.uniud.it/), July 6, 2008 in Reykjavik, Iceland, co-located with ICALP'08. The post-proceedings were published in ENTCS (vol. 229-3).
 * [ICE'09](http://ice09.dimi.uniud.it/) August 31, 2009 in Bologna, Italy, co-located with CONCUR'09. The post-proceedings were published in EPTCS (vol. 12) and selected papers appeared in a joint special issue of MSCS (with EXPRESS’09 and SOS’09, Vol. 22, Number 2).
 * [ICE'10](http://www.artist-embedded.org/artist/-ICE-10-.html) June 10, 2010 in Amsterdam, The Netherlands, co-located with DisCoTec'10. The post-proceedings were published in EPTCS (vol. 38) and selected papers appeared in a joint special issue of SACS (with CAMPUS'10 and CS2BIO'10, Vol. XXI).
