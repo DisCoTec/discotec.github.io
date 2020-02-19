@@ -29,6 +29,11 @@
 * June 16-18: Coordination/DAIS/FORTE
 * June 19: DisCoTec Workshops
   
+## Registration
+
+Go to the [registration page](https://www.um.edu.mt/events/discotec2020/about/_nocache).
+
+
 
 ## Scientific Committees
 

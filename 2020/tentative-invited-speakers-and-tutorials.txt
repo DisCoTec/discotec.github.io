@@ -19,13 +19,35 @@ Tutorials Day
 
 CHOReVOLUTION IDR
 Massimo Tivoli & Marco Autili, Universita Degli Studi Dell'Aquila
+massimo.tivoli@univaq.it  and marco.autili@univaq.it
 (Suggested by COORDINATION) - CONFIRMED
 
 STORM 
 Christian Hensel & Joost-Pieter Katoen
+dehnert@cs.rwth-aachen.de katoen@cs.rwth-aachen.de
 A new probabilistic model checker developed  at RWTH Achen.  It complements and outperforms the well-established model checker PRISM, and provides great engineering results both in allowing model checking of new types of models, and in performance optimisations based on sound theoretical results. Christian Hensel just received the prestigious EAPLS PhD Thesis Award for his work on Storm. 
 (Suggested by FORTE) - CONFIRMED
 
 ByMC - Byzantine Model Checker 
+ta.etysrof@vonnok widder@ecs.tuwien.ac.at
 Developed at TU Vienna (https://forsyte.at/software/bymc/). This is the first-of-its-kind tool that allows for sound verification of parameterised Byzantine fault-tolerant distributed protocols. It has been applied to a number of case studies, including recent blockchain consensus protocols. The lead developers are Igor Konnov and Josef Widder, who are now applying such formal verification techniques at Interchain, a blockchain company.
-(Suggested by FORTE)
+(Suggested by FORTE) - CONFIRMED
+
+Angainor, the ThunderStorm tool
+miguel.marques.matos@tecnico.ulisboa.pt
+reproducible evaluation and fault injection of large-scale distributed systems.
+(Suggested by DAIS) - CONFIRMED
+
+Ornela Dardha and Adriana Laura voinea
+a.voinea.1@research.gla.ac.uk
+Mugno and MungoST tool for session type analysis of Java Programs
+
+
+Emilio Tuosto
+ChoGram
+
+
+
+
+
+
