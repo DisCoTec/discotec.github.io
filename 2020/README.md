@@ -51,17 +51,13 @@ Go to the [registration page](https://www.um.edu.mt/events/discotec2020/about/_n
 ### DAIS
 
 #### Program committee chairs
-
 * [Anne Remke](https://wwwhome.ewi.utwente.nl/~anne/) (University of Twente)
 * [Valerio Schiavoni](http://members.unine.ch/valerio.schiavoni/) (Université de Neuchâtel, Switzerland)
 
 ### FORTE
-
 #### Program committee chairs
 * [Alexey Gotsman](https://software.imdea.org/~gotsman/) (IMDEA Software Institute, Spain)
 * [Ana Sokolova](http://cs.uni-salzburg.at/~anas/) (University of Salzburg, Austria)
-
-
 
 
 ## Proceedings
