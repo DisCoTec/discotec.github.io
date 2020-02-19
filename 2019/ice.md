@@ -13,7 +13,7 @@ ICE 2019 is a satellite workshop of [DisCoTec 2019](https://www.discotec.org/201
     - Sophia Knight (University of Minnesota Duluth, USA)
     - Hernán Melgratti (University of Buenos Aires - Conicet, AR)
 * Publication in EPTCS
-* Special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier) (to be confirmed)
+* Special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier)
 
 ## Programme
 

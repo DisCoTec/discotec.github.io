@@ -6,10 +6,10 @@ Coordination 2020 is one of the three conferences of [DisCoTec 2020](https://www
 
 ## Keynote Speakers
 
+* Nathalie Bertrand, INRIA Rennes Bretagne-Atlantique
 * Holger Hermanns, Saarland University
-* Peter Kriens, OSGi Alliance
+* Peter Kriens, aQute & OSGi Alliance
 * Ken McMillan, Microsoft Research, Redmond
-
 
 
 ## Programme
@@ -41,9 +41,11 @@ COORDINATION 2020 is seeking for contributions that enable the cross-fertilisati
 
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
-1. Microservices
+<ol>
+  <li>
+    <p>Microservices (in collaboration with the Microservices Community)</p>
 
-    Microservices are a novel architectural style, taking to an extreme
+    <p style="float: left; width: 63%">Microservices are a novel architectural style, taking to an extreme
 the ideas of service oriented computing. In microservices, applications
 are composed by loosely coupled entities, the microservices. Beyond
 that, single microservices should be small enough to be easily managed,
@@ -53,16 +55,75 @@ scalability, thanks also to the exploitation of containerization
 technologies such as Docker. Given that microservice-based applications
 are composed by many loosely-coupled microservices, techniques allowing
 one to coordinate their execution in order to obtain the desired
-behaviour are of paramount importance.
+behaviour are of paramount importance.</p>
 
-    Contacts: Ivan Lanese ([ivan.lanese@unibo.it](mailto:ivan.lanese@unibo.it)) and Alberto Lluch
-Lafuente ([albl@dtu.dk](mailto:albl@dtu.dk)).
+    <div class="pb-3" style="float:left">
+      <div class="container">
+        <div class="row">
+          <div class="col-3">
+            <a href="https://microservices.community/e/discotec2020/">
+            <img class="img-responsive align-middle" alt="Microservices Community Badge" src="https://www.microservices.community/assets/images/badges/1-black.png">
+            </a>
+          </div>
+          <div class="col-9">
+            <div class="small border" style="padding: 5px;">
+              <p><strong>Other events organised by the Microservices Community</strong></p>
+              <p>
+                <em>Upcoming Events</em>
+              </p>
+              <div>
+                <ul id="microservices_community_events_upcoming">
+                </ul>
+              </div>
+              <p></p>
+              <p>
+                <em>Past Events</em>
+              </p>
+              <div>
+                <ul id="microservices_community_events_past">
+                </ul>
+              </div>
+              <p></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div style="clear: both;"></div>
+    <p>Contacts: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) and Alberto Lluch
+Lafuente (<a href="mailto:albl@dtu.dk">albl@dtu.dk</a>).</p>
+  </li>
+  <li>
+    <p>Techniques to reason about interacting digital contracts</p>
 
-2. Techniques to reason about interacting digital contracts
+    <p>With the rise of blockchains and cryptocurrencies, digital contracts have become popular in the form of smart contracts, which encode a financial transaction between possibly distrusting parties using a distributed consensus protocol.  Although smart contracts bear the potential to benefit society quite fundamentally (e.g., equalize access to financial infrastructure, increase fairness), the benefits are shadowed by the existence of severe security vulnerabilities in deployed smart contracts and smart contract languages.  In the 2020 instantiation of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques.</p>
 
-   With the rise of blockchains and cryptocurrencies, digital contracts have become popular in the form of smart contracts, which encode a financial transaction between possibly distrusting parties using a distributed consensus protocol.  Although smart contracts bear the potential to benefit society quite fundamentally (e.g., equalize access to financial infrastructure, increase fairness), the benefits are shadowed by the existence of severe security vulnerabilities in deployed smart contracts and smart contract languages.  In the 2020 instantiation of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques.
+    <p>Contacts: Stephanie Balzer (<a href="mailto:balzers@cs.cmu.edu">balzers@cs.cmu.edu</a>) and Anastasia Mavridou (<a href="mailto:anastasia.mavridou@nasa.gov">anastasia.mavridou@nasa.gov</a>)</p>
+  </li>
+</ol>
 
-   Contacts: Stephanie Balzer ([balzers@cs.cmu.edu](mailto:balzers@cs.cmu.edu)) and Anastasia Mavridou ([anastasia.mavridou@nasa.gov](mailto:anastasia.mavridou@nasa.gov))
+<!-- 1. Microservices (in collaboration with the Microservices Community) -->
+
+<!--    Microservices are a novel architectural style, taking to an extreme -->
+<!-- the ideas of service oriented computing. In microservices, applications -->
+<!-- are composed by loosely coupled entities, the microservices. Beyond -->
+<!-- that, single microservices should be small enough to be easily managed, -->
+<!-- modified, and if needed removed and rewritten from scratch. -->
+<!-- Microservices aim at obtaining high flexibility, reconfigurability and -->
+<!-- scalability, thanks also to the exploitation of containerization -->
+<!-- technologies such as Docker. Given that microservice-based applications -->
+<!-- are composed by many loosely-coupled microservices, techniques allowing -->
+<!-- one to coordinate their execution in order to obtain the desired -->
+<!-- behaviour are of paramount importance. -->
+
+<!--    Contacts: Ivan Lanese ([ivan.lanese@unibo.it](mailto:ivan.lanese@unibo.it)) and Alberto Lluch -->
+<!-- Lafuente ([albl@dtu.dk](mailto:albl@dtu.dk)). -->
+
+<!-- 2. Techniques to reason about interacting digital contracts -->
+
+<!--    With the rise of blockchains and cryptocurrencies, digital contracts have become popular in the form of smart contracts, which encode a financial transaction between possibly distrusting parties using a distributed consensus protocol.  Although smart contracts bear the potential to benefit society quite fundamentally (e.g., equalize access to financial infrastructure, increase fairness), the benefits are shadowed by the existence of severe security vulnerabilities in deployed smart contracts and smart contract languages.  In the 2020 instantiation of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques. -->
+
+<!--    Contacts: Stephanie Balzer ([balzers@cs.cmu.edu](mailto:balzers@cs.cmu.edu)) and Anastasia Mavridou ([anastasia.mavridou@nasa.gov](mailto:anastasia.mavridou@nasa.gov)) -->
 
 ### Tool papers
 
@@ -78,7 +139,7 @@ Interested authors can contact the tool track chairs (Omar Inverso <omar.inverso
 
 ### Dates
 
-See the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates). 
+See the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates).
 
 ### Publication and Special Issues
 
@@ -89,7 +150,7 @@ Contributions must be written in English and report on original, unpublished wor
 Submission categories:
 * Full papers (up to 15 pages + 2 pages references): describing thorough and complete research results and experience reports.
 * Short papers (up to 6 pages + 2 pages references): describing research in progress or opinion papers on the past of Coordination research, on the current state of the art, or on prospects for the years to come.
-* Survey papers (up to 25 pages + 2 pages references): describing important results and successful stories that originated in the context of COORDINATION. 
+* Survey papers (up to 25 pages + 2 pages references): describing important results and successful stories that originated in the context of COORDINATION.
 * Tool papers (up to 6 pages + 2 pages references): describing technological artefacts in the scope of the research topics of COORDINATION. The paper must contain **a link to a publicly downloadable MPEG-4 demo video** of at most 10 minutes length.
 
 
@@ -97,7 +158,7 @@ The conference proceedings, formed by accepted submissions will be published by 
 
 
 ### Special Issues
-Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org) and a separate special issue dedicated to tool papers is being planned. Special issues for last year's edition are under preparation in [**Logical Methods in Computer Science**](https://lmcs.episciences.org) for selected research papers, and in [**Science of Computer Programming**](https://www.journals.elsevier.com/science-of-computer-programming) for selected tool papers (as a collection of [**Original Software Publications**](https://www.elsevier.com/authors/author-resources/research-elements/software-articles/original-software-publications). 
+Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org) and a separate special issue dedicated to tool papers is being planned. Special issues for last year's edition are under preparation in [**Logical Methods in Computer Science**](https://lmcs.episciences.org) for selected research papers, and in [**Science of Computer Programming**](https://www.journals.elsevier.com/science-of-computer-programming) for selected tool papers (as a collection of [**Original Software Publications**](https://www.elsevier.com/authors/author-resources/research-elements/software-articles/original-software-publications).
 
 <!--Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org). A separate special issue dedicated to tool papers is being planned.-->
 
@@ -165,3 +226,43 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Vasco T. Vasconcelos, University of Lisbon, Portugal
 * Mirko Viroli, University of Bologna, Italy
 * Gianluigi Zavattaro, University of Bologna, Italy (Chair)
+
+## Sponsors & Supporters
+
+<a href="https://www.ifip.org">
+  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="350px">
+</a>
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
+<img alt="Hauts-de-France Logo" src="https://i0.wp.com/www.bliudze.me/simon/wp-content/uploads/2019/02/hauts-de-france.jpg" width="150px">
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
+<a href="https://microservices.community/e/discotec2020/">
+  <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
+</a>
+
+<script>
+  function microservices_community_events(data) {
+   const upcoming = $("#microservices_community_events_upcoming");
+   data.upcoming.forEach( element => {
+     upcoming.append(
+     `<li>
+       <a target="_blank" href="${ element.link }">${ element.title }</a>
+     </li>` )
+   });
+   const past = $("#microservices_community_events_past");
+   data.past.forEach( (element, index) => {
+     if (index > 2) { return }
+     past.append(
+     `<li>
+       <a target="_blank" href="${ element.link }">${ element.title }</a>
+     </li>` )
+   });
+ }
+ $( document ).ready( () => {
+     const url = "https://www.microservices.community/events.json";
+     $.ajax({
+       url: url,
+       jsonp: "microservices_community_events",
+       dataType: "jsonp"
+     })
+   })
+</script>

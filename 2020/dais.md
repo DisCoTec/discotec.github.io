@@ -6,8 +6,9 @@ DAIS 2020 is one of the three conferences of [DisCoTec 2020](https://www.discote
 
 ## Keynote Speakers
 
+* Nathalie Bertrand, INRIA Rennes Bretagne-Atlantique
 * Holger Hermanns, Saarland University
-* Peter Kriens, OSGi Alliance
+* Peter Kriens, aQute & OSGi Alliance
 * Ken McMillan, Microsoft Research, Redmond
 
 
@@ -50,7 +51,7 @@ System issues and design goals, including
 * tail-performance and energy-efficiency.
 
 ## Submission dates
-See the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates). 
+See the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates).
 
 ## Submission and Publication
 
@@ -62,7 +63,7 @@ All papers must be original, unpublished, and not submitted for publication else
 
 Contributions should be submitted electronically as PDF, using the Springer LNCS style to the conference submission website (<https://easychair.org/conferences/?conf=dais2020>). Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear. All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in the LNCS series. Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted.
 
-## Special Issue 
+## Special Issue
 Selected papers from DAIS'20 will be invited to a special issue of a reputed journal (to be announced soon).
 
 ## Program committee chairs
@@ -75,7 +76,7 @@ Selected papers from DAIS'20 will be invited to a special issue of a reputed jou
 * Sara Bouchenak, INSA Lyon, France
 * Antoine Boutet, INSA France
 * Silvia Bonomi, Università degli Studi di Roma "La Sapienza”, Italy
-* Damiano Di Francesco Maesa, University of Cambridge, UK 
+* Damiano Di Francesco Maesa, University of Cambridge, UK
 * Davide Frey, INRIA France
 * Paula Herber, University of Münster, Germany
 * Mark Jelasity, University of Szeged, Hungary
@@ -115,4 +116,17 @@ Selected papers from DAIS'20 will be invited to a special issue of a reputed jou
 * Jose Pereira, University of Minho / INESC TEC, Portugal
 
 ## More Information
+
 For additional information, please contact the Program Committee Co-chairs: <dais2020@easychair.org>
+
+## Sponsors & Supporters
+
+<a href="https://www.ifip.org">
+  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="350px">
+</a>
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
+<img alt="Hauts-de-France Logo" src="https://i0.wp.com/www.bliudze.me/simon/wp-content/uploads/2019/02/hauts-de-france.jpg" width="150px">
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
+<!--a href="https://microservices.community/e/discotec2020/">
+  <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
+</a-->

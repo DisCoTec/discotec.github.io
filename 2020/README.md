@@ -12,15 +12,16 @@
 
 ## Important dates
 
-* February 3, 2020 - abstract submission 
-* February 14, 2020 - paper submission
+* February 17, 2020 - abstract submission - extended deadline
+* February 28, 2020 - paper submission - extended deadline
 * April 10, 2020 - notification
 * April 24, 2020 - camera ready
 
 ## Keynote Speakers
 
+* Nathalie Bertrand, INRIA Rennes Bretagne-Atlantique
 * Holger Hermanns, Saarland University
-* Peter Kriens, OSGi Alliance
+* Peter Kriens, aQute & OSGi Alliance
 * Ken McMillan, Microsoft Research, Redmond
 
 ## Programme
@@ -47,7 +48,7 @@ Go to the [registration page](https://www.um.edu.mt/events/discotec2020/about/_n
 * [Omar Inverso](https://www.gssi.it/people/post-doc/post-doc-computer-science/item/1018-inverso-omar) (Gran Sasso Science Institute, Italy)
 * [Hugo Torres Vieira](https://sysma.imtlucca.it/people/hugo-torres-vieira/) (C4 - Universidade da Beira Interior, Portugal)
 
-#### Program committee 
+#### Program committee
 * Stephanie Balzer (CMU, USA)
 * Chiara Bodei (Università di Pisa, Italy)
 * Marius Bozga (Université Grenoble Alpes, France)
@@ -90,7 +91,7 @@ Go to the [registration page](https://www.um.edu.mt/events/discotec2020/about/_n
 * Sara Bouchenak, INSA Lyon, France
 * Antoine Boutet, INSA France
 * Silvia Bonomi, Sapienza University of Rome, Italy
-* Damiano Di Francesco Maesa, University of Cambridge, UK 
+* Damiano Di Francesco Maesa, University of Cambridge, UK
 * Davide Frey, INRIA France
 * Paula Herber, University of Münster, Germany
 * Mark Jelasity, University of Szeged, Hungary
@@ -114,7 +115,7 @@ Go to the [registration page](https://www.um.edu.mt/events/discotec2020/about/_n
 * Spyros Voulgaris,  Athens University of Economics and Business, Greece
 
 
-### FORTE 
+### FORTE
 
 #### Program committee chairs
 * [Alexey Gotsman](https://software.imdea.org/~gotsman/) (IMDEA Software Institute, Spain)
@@ -158,9 +159,9 @@ The individual conferences will organise special issues of extended and selected
 
 ## Location
 
-[University of Malta, Valletta Campus](https://www.um.edu.mt/campuses/valletta), 
-Old University Building St. Paul Street, 
-Valletta Malta VLT 1216. 
+[University of Malta, Valletta Campus](https://www.um.edu.mt/campuses/valletta),
+Old University Building St. Paul Street,
+Valletta Malta VLT 1216.
 It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtoreachus).
 
 ## Organising Committee
@@ -202,8 +203,19 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 * Lea Kutvonen (University of Helsinki, Finland)
 * John Derrick (University of Sheffield, UK)
 
-
-## Further information 
+## Further information
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
 
 For further information please contact the general chair at <adrian.francalanza@um.edu.mt>.
+
+## Sponsors & Supporters
+
+<a href="https://www.ifip.org">
+  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="350px">
+</a>
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
+<img alt="Hauts-de-France Logo" src="https://i0.wp.com/www.bliudze.me/simon/wp-content/uploads/2019/02/hauts-de-france.jpg" width="150px">
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
+<a href="https://microservices.community/e/discotec2020/">
+  <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
+</a>
