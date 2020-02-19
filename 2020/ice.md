@@ -8,7 +8,7 @@ ICE 2020 is a satellite workshop of [DisCoTec 2020](https://www.discotec.org/202
 * ICE welcomes full papers to be included in the proceedings
 * ICE also welcomes oral communications of already published or preliminary work
 * Invited speakers:
-  - Karoliina Lehtinen (University of Liverpool)
+  - Karoliina Lehtinen (University of Liverpool, UK)
 * Publication in EPTCS (to be confirmed)
 * Special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier) (to be confirmed)
 
