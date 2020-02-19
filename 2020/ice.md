@@ -76,7 +76,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 ## Invited speakers 
 
-  * _TBA_
+  * Karoliina Lehtinen (University of Liverpool, UK)
 
 ## ICEcreamers
 
