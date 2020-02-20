@@ -10,6 +10,11 @@
 * [DAIS 2020](https://www.discotec.org/2020/dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2020](https://www.discotec.org/2020/forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
+## Satellite Events
+* [ICE 2020](https://www.discotec.org/2020/ice) - Workshop on Interaction and Concurrency Experience
+* BehAPI 2020 - Workshop on Behavioural APIs
+
+
 ## Important dates
 
 * February 17, 2020 - abstract submission - extended deadline
