@@ -154,7 +154,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 
 
-  * _TBA_
+  * Karoliina Lehtinen (University of Liverpool, UK)
 
 
 
@@ -248,7 +248,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 
 
-The previous ten editions of ICE have been held on
+The previous editions of ICE have been held on:
 
 * [ICE'08](http://ice08.dimi.uniud.it/), July 6, 2008 in Reykjavik, Iceland, co-located with ICALP'08. The post-proceedings were published in ENTCS (vol. 229-3).
 
