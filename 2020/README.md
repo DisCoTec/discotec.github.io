@@ -13,6 +13,7 @@
 ## Satellite Events
 * [ICE 2020](https://www.discotec.org/2020/ice) - Workshop on Interaction and Concurrency Experience
 * BehAPI 2020 - Workshop on Behavioural APIs
+* FOCODILE 2020 - Workshop on the Foundations of Consensus and Distributed Ledgers
 
 
 ## Important dates
