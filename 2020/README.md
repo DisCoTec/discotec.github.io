@@ -11,6 +11,7 @@
 * [FORTE 2020](https://www.discotec.org/2020/forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 ## Satellite Events
+* [DisCoTec Tools](https://www.discotec.org/2020/tutorials) - Hands-on Tutorial Sessions 
 * [ICE 2020](https://www.discotec.org/2020/ice) - Workshop on Interaction and Concurrency Experience
 * BehAPI 2020 - Workshop on Behavioural APIs
 * FOCODILE 2020 - Workshop on the Foundations of Consensus and Distributed Ledgers
@@ -32,8 +33,10 @@
 
 ## Programme
 
-* June 15: DisCoTec Tutorials
-* June 16-18: Coordination/DAIS/FORTE
+* June 15: [DisCoTec Tools](https://www.discotec.org/2020/tutorials)
+* June 16: Coordination / DAIS / FORTE
+* June 17: Coordination / DAIS / FORTE
+* June 18: Coordination / DAIS / FORTE
 * June 19: DisCoTec Workshops
   
 ## Registration
