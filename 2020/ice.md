@@ -125,7 +125,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Ivan Prokic (University of Novi Sad, RS)
   * Matteo Sammartino (Royal Holloway, University of London, UK)
   * Silvia Lizeth Tapia Tarifa (University of Oslo, NO)
-  * Hugo Torres Vieira (University of Beira Interior, PT)
+  * Hugo Torres Vieira (C4 - University of Beira Interior, PT)
   * Laura Voinea (University of Glasgow, UK)
 
 
@@ -136,7 +136,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Ivan Lanese (University of Bologna, IT)
   * Alberto Lluch Lafuente (Technical University of Denmark, DK)
   * Sophia Knight (University of Minnesota Duluth, USA)
-  * Hugo Torres Vieira (University of Beira Interior, PT)
+  * Hugo Torres Vieira (C4 - University of Beira Interior, PT)
 
 
 ## Previous editions
