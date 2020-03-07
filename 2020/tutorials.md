@@ -53,8 +53,8 @@ Konnov worked as a researcher at Inria Nancy (France) and as a postdoc at TU
 Wien (Austria). He received his MSc and PhD in Applied Mathematics and Computer
 Science from Lomonosov Moscow State University (Russia) in 2003 and 2009. In
 2019, Igor received his Habilitation from TU Wien (Austria). 
-</br></br>
-*13.00-14.00*</br> 
+<br/><br/>
+*13.00-14.00*<br/> 
 ### CHOReVOLUTION IDRE: An Integrated Development and Run-time Environment for Automatically Realizing and Executing Distributed Applications.
 
 Since late 70’s, the development of concurrent and distributed systems has been receiving much attention from the research community. Choreographies are a form of distributed composition that model the external interaction of the participant services by specifying peer-to-peer message exchanges from a global perspective. When third-party services are to be composed, obtaining the distributed coordination logic required to enforce the realizability of the specified choreography is a non-trivial and error prone task. Automatic support is then needed. CHOReVOLUTION is a platform for the tool-assisted development and execution of choreography-based applications that leverage the distributed collaboration of services specified through service choreographies. It offers an Integrated Development and Runtime Environment (IDRE) comprising a wizard-aided development environment, a system monitoring console, and a back-end for managing the deployment and execution of the system. The tutorial introduces the fundamentals of service choreographies and the CHOReVOLUTION approach as first. Then the introduction of the approach is followed by hands on exercises, where every attendee takes part in developing sample choreography-based distributed applications by using the CHOReVOLUTION IDRE.<br/> 
@@ -63,8 +63,8 @@ Since late 70’s, the development of concurrent and distributed systems has bee
 Massimo's research focuses on component adaptation and coordination, connector synthesis, software model elicitation, and choreography synthesis. He received a PhD in computer science from the University of L’Aquila. He is co-author of more than 90 publications in leading international scientific journals and conference proceedings in the software engineering domain. He has been scientific coordinator of the EU H2020 CHOReVOLUTION project, and has been involved in several other international research projects with different leading roles. Massimo is, and has been, in the program committees of several international conferences. 
 Marco's research focusses on automated software synthesis for composing complex distributed systems, from system architecture to integration code, from coordination to protocol mediation/adaptation. He also works in modeling and analysis of complex distributed systems, automated synthesis of context-aware (mobile) applications, resource-oriented analysis of adaptable (mobile) applications and formal specification and checking of temporal properties. Recently, he is working on the definition of architectural patterns for creating robust, reliable and efficient microservice-based systems, and on the definition of methods and techniques to transform a monolithic system to a microservice-based one.
 The development team of CHOReVOLUTION IDRE includes also Amleto Di Salle and Claudio Pompilio.
-</br>
-</br>
+<br/>
+<br/>
 *14.30-16.00*
 ### The Probabilistic Model Checker Storm 
 
@@ -85,13 +85,13 @@ of solved benchmarks.
 In the tutorial we report on the main features of Storm and explain how to
 effectively use them.
 For more information on Storm we refer to our website
-http://www.stormchecker.org/ and our recent paper https://arxiv.org/abs/2002.07080.</br> 
-</br>
+http://www.stormchecker.org/ and our recent paper https://arxiv.org/abs/2002.07080.<br/> 
+<br/>
 *Biography:* Storm is developed at the Software Modeling and Verification group at RWTH
 Aachen University since 2012. The principal developers of Storm are Christian
 Hensel, Sebastian Junges, Joost-Pieter Katoen, Tim Quatmann and Matthias Volk.
-</br> 
-</br>
+<br/> 
+<br/>
 *14.30 -16.00*
 
 ### Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems
@@ -99,12 +99,12 @@ Hensel, Sebastian Junges, Joost-Pieter Katoen, Tim Quatmann and Matthias Volk.
 The systematic evaluation of distributed systems is a very challenging task as experimental results can be affected by a wide range of factors.
 In particular, the network and its dynamics, such as sudden changes in latency or available bandwidth have a significant impact on the performance of distributed systems. 
 In this tutorial we will do a hands-on demonstration of the capabilities of Kollaps/Thunderstorm, a set of tools that allow to deploy and evaluate unmodified off-the-shelf container applications under a controlled network environment.
-By the end of this tutorial, attendants will be able to apply these tools in their systems and, we hope, have a better toolset to evaluate the impact of the network in their systems behavior.</br>
-</br>
+By the end of this tutorial, attendants will be able to apply these tools in their systems and, we hope, have a better toolset to evaluate the impact of the network in their systems behavior.<br/>
+<br/>
 *Biography:* Miguel Matos is an assistant professor at the Engineering School of the University of Lisbon (Instituto Superior Técnico) and a Senior Researcher at INESC-ID.His research interests lie in the area of distributed systems, in the subjects of scalability, performance, correctness and systems evaluation. In particular, he is conducting research in blockchain and related problems,consistency and scalability in large scale databases, systems evaluation under faults and experimental reproducibility. His work has been published in venues such as TPDS, JPDC, Eurosys, IPDPS, Middleware, SRDS and DAIS.
 The presented work is the result of joint work between Miguel's team at U. Lisboa, Portugal and researchers from U. of Neuchâtel, Switzerland.
-</br>
-</br>
+<br/>
+<br/>
 *16.30-18.00*
 
 ### Typechecking Java protocols with Mungo/StMungo
@@ -125,8 +125,8 @@ and run as usual.
 We give an overview of the key stages of the Mungo/StMungo toolchain, from translating
 Scribble local protocol specifications to Java, to Java implementation, to Mungo
 typechecking, with examples. We then demonstrate the Scribble, StMungo and Mungo
-toolchain by specifying and implementing a domain name server(DNS), as a real-world use case.</br>
-</br>
+toolchain by specifying and implementing a domain name server(DNS), as a real-world use case.<br/>
+<br/>
 *Biography:* Ornela Dardha is an Assistant Professor at the School of Computing Science, University
 of Glasgow. She is a Co-Investigator within the UK EPSRC programme grant From Data
 Types to Session Types: A Basis for Concurrency and Distribution (ABCD), and a Site
