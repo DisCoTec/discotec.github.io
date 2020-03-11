@@ -18,7 +18,8 @@ Choreography envisages distributed coordination as determined by interactions th
 Recently choreographic approaches became popular in industrial contexts where reliability and scalability are crucial factors. This tutorial will review some recent ideas to harness choreographic development of message-passing software.
 <br/> <br/>
 *Biography:* 
-Emilio Tuosto is an associate professor. He graduated (1998) and got his PhD degree in Computer Science (2003) at the department of Computer Science, University of Pisa. Before joining Leicester, he has been a research associate (2003-2005) at the Dipartimento di Informatica (University of Pisa). Emilio's main research interests are in theoretical and applied aspects of complex distributed systems. Recently he has been working on automata- and behavioural type-based models of distributed choreographies, contract-based models of distributed interactions, and their application to the engineering of distributed and concurrent systems.
+Emilio Tuosto is an associate professor at the Gran Sasso Science Institue and the University of Leicester. He graduated (1998) and got his PhD degree in Computer Science (2003) at the department of Computer Science, University of Pisa. Before joining Leicester, he has been a research associate (2003-2005) at the Dipartimento di Informatica (University of Pisa). Emilio Tuosto's main research interests are in theoretical and applied aspects of complex distributed systems. Recently he has been working on automata- and behavioural type-based models of distributed choreographies, contract-based models of distributed interactions, and their application to software engineering of distributed and concurrent systems.
+
 <br/><br/>
 
 *10.30-12.00*<br/>
