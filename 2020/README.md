@@ -14,7 +14,7 @@
 * [DisCoTec Tools](https://www.discotec.org/2020/tutorials) - Hands-on Tutorial Sessions 
 * [ICE 2020](https://www.discotec.org/2020/ice) - Workshop on Interaction and Concurrency Experience
 * [BehAPI 2020](https://www.discotec.org/2020/behapi) - Workshop on Behavioural APIs
-* [FOCODILE 2020](https://www.discotec.org/2020/behapi) - Workshop on the Foundations of Consensus and Distributed Ledgers
+* [FOCODILE 2020](https://www.discotec.org/2020/focodile) - Workshop on the Foundations of Consensus and Distributed Ledgers
 
 
 ## Important dates
