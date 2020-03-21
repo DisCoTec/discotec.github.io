@@ -213,6 +213,17 @@ Emilio Tuosto
 ChoGram
 
 
+List of tutorial papers.
+
+1. Choreographic Development of Message-Passing Applications
+2. Parameterized Verification with Byzantine Model Checker
+3. CHOReVOLUTION IDRE: An Integrated Development and Run-time Environment for Automatically Realizing and Executing Distributed Applications
+4. Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems
+5. Typechecking Java protocols with Mungo/StMungo
+
+
+
+
 
 
 
