@@ -52,8 +52,8 @@ A submission should contain original, unpublished work, reporting results of new
 
 
 ## Program committee chairs
-* [Aris Pagourtzis](www.softlab.ntua.gr/~pagour/) National Technical University of Athens, Greece
-* [Petros Potikas](www.softlab.ntua.gr/~ppotik/) National Technical University of Athens, Greece
+* [Aris Pagourtzis](http://www.softlab.ntua.gr/~pagour/) National Technical University of Athens, Greece
+* [Petros Potikas](http://www.softlab.ntua.gr/~ppotik/) National Technical University of Athens, Greece
 
 
 
