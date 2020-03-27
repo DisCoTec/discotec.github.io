@@ -3,7 +3,7 @@
 # FOCODILE 2020 - 1st International Workshop on Foundations of Consensus and Distributed Ledgers
 
 
-It is one of the workshops at [DisCoTec 2020](https://www.discotec.org/2020/), the 15th International Federated Conference on Distributed Computing Techniques.
+FOCODILE 2020 is one of the workshops at [DisCoTec 2020](https://www.discotec.org/2020/), the 15th International Federated Conference on Distributed Computing Techniques. It will be held on June 19, 2020.
 
 ## Scope
 FOCODILE is a forum to exchange ideas and recent research findings on theoretical foundations of consensus and blockchain technology. Topics include, but are not limited to:
