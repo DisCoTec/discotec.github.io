@@ -3,7 +3,13 @@
 
 # DisCoTec 2020 - 15th International Federated Conference on Distributed Computing Techniques
 
-[DisCoTec](https://www.discotec.org) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)). It gathers conferences and workshops covering a broad spectrum of distributed computing subjects, from theoretical foundations and formal description techniques, to systems research issues. DisCoTec 2020 will take place at the [University of Malta](http://www.um.edu.mt), [Valletta](https://www.um.edu.mt/campuses/valletta), in June 15-19, 2020.
+[DisCoTec](https://www.discotec.org) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)). It gathers conferences and workshops covering a broad spectrum of distributed computing subjects, from theoretical foundations and formal description techniques, to systems research issues. 
+~~DisCoTec 2020 will take place at the [University of Malta](http://www.um.edu.mt), [Valletta](https://www.um.edu.mt/campuses/valletta), in June 15-19, 2020.~~
+
+## IMPORTANT NOTICE
+
+The DisCoTeC organisation committee has decided that, due to the current COVID-19 developments, the conference will be held **online**. Accepted papers will be published as planned, by June 2020, but no physical meeting/presentations will take place. Instead, the authors of accepted papers will record their talks and discuss them with the conference participants online.
+
 
 ## Conferences
 * [Coordination 2020](https://www.discotec.org/2020/coordination) - International Conference on Coordination Models and Languages
@@ -15,6 +21,8 @@
 * [ICE 2020](https://www.discotec.org/2020/ice) - Workshop on Interaction and Concurrency Experience
 * [BehAPI 2020](https://www.discotec.org/2020/behapi) - Workshop on Behavioural APIs
 * [FOCODILE 2020](https://www.discotec.org/2020/focodile) - Workshop on the Foundations of Consensus and Distributed Ledgers
+
+
 
 
 ## Important dates
