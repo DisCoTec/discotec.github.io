@@ -44,7 +44,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
   * Synthesis techniques
 
 
-## Important dates
+## Important dates (updated)
 
   * **Full papers:**
     * 1 May 2020: abstract submission
