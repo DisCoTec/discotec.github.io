@@ -2,7 +2,12 @@
 
 # ICE 2020 - 13th Interaction and Concurrency Experience
 
-ICE 2020 is a satellite workshop of [DisCoTec 2020](https://www.discotec.org/2020/), held on June 19-20 at the University of Malta, Valletta.
+ICE 2020 is a satellite workshop of [DisCoTec 2020](https://www.discotec.org/2020/), held on 19-20 June 2020.
+
+
+## COVID-19 update
+
+Due to the ongoing COVID-19 outbreak, ICE 2020 will be held **online**, as the rest of DisCoTec. Accepted papers will be published as planned, but no physical meeting/presentations will take place. Instead, the authors of accepted papers will give their talks remotely (or record their talks if they prefer), and discuss with the conference participants online. More details will follow.
 
 
 ## Highlights
@@ -41,11 +46,15 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 ## Important dates
 
-  * April 20, 2020: abstract submission
-  * April 22, 2020: paper submission
-  * May 18, 2020: notification
-  * June 19-20, 2020: ICE workshop
-  * July 13, 2020: camera-ready for EPTCS post-proceedings
+  * **Full papers:**
+    * 1 May 2020: abstract submission
+    * 4 May 2020: paper submission
+  * **Oral communications and short papers:**
+    * 8 May 2020: abstract submission
+    * 11 May 2020: paper submission
+  * 4 June 2020: notification
+  * 19-20 June 2020: ICE workshop
+  * 13 July 2020: camera-ready for EPTCS post-proceedings
 
 
 ## Selection Procedure
