@@ -18,7 +18,7 @@ Due to the ongoing COVID-19 outbreak, ICE 2020 will be held **online**, as the r
   * Invited speakers:
       - Cinzia Di Giusto (Université Côte d'Azur, CNRS, I3S, France)
       - Karoliina Lehtinen (University of Liverpool, UK)
-  * Publication in EPTCS (to be confirmed)
+  * Publication in [EPTCS](https://eptcs.org/)
   * Special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier) (to be confirmed)
 
 
@@ -91,7 +91,7 @@ We are keen to enhance the balanced, inclusive and diverse nature of the ICE com
 
 Accepted research papers and communications must be presented at the workshop by one of the authors.
 
-Accepted research papers will be published after the workshop in [Electronic Proceedings in Theoretical Computer Science](http://eptcs.org/) (to be confirmed).
+Accepted research papers will be published after the workshop in [Electronic Proceedings in Theoretical Computer Science](http://eptcs.org/).
 
 We plan to invite authors of selected papers and brief announcements to submit their work in a special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier). Such contributions will be regularly peer-reviewed according to the standard journal policy, but they will be handled in a shorter time than regular submissions. A list of published and in preparation special issues of previous ICE editions is reported below.
 
