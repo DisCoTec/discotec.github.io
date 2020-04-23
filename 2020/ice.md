@@ -2,7 +2,12 @@
 
 # ICE 2020 - 13th Interaction and Concurrency Experience
 
-ICE 2020 is a satellite workshop of [DisCoTec 2020](https://www.discotec.org/2020/), held on June 19-20 at the University of Malta, Valletta.
+ICE 2020 is a satellite workshop of [DisCoTec 2020](https://www.discotec.org/2020/), held on 19-20 June 2020.
+
+
+## COVID-19 update
+
+Due to the ongoing COVID-19 outbreak, ICE 2020 will be held **online**, as the rest of DisCoTec. Accepted papers will be published as planned, but no physical meeting/presentations will take place. Instead, the authors of accepted papers will give their talks remotely (or record their talks if they prefer), and discuss with the conference participants online. More details will follow.
 
 
 ## Highlights
@@ -13,7 +18,7 @@ ICE 2020 is a satellite workshop of [DisCoTec 2020](https://www.discotec.org/202
   * Invited speakers:
       - Cinzia Di Giusto (Université Côte d'Azur, CNRS, I3S, France)
       - Karoliina Lehtinen (University of Liverpool, UK)
-  * Publication in EPTCS (to be confirmed)
+  * Publication in [EPTCS](https://eptcs.org/)
   * Special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier) (to be confirmed)
 
 
@@ -39,13 +44,17 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
   * Synthesis techniques
 
 
-## Important dates
+## Important dates (updated)
 
-  * April 20, 2020: abstract submission
-  * April 22, 2020: paper submission
-  * May 18, 2020: notification
-  * June 19-20, 2020: ICE workshop
-  * July 13, 2020: camera-ready for EPTCS post-proceedings
+  * **Full papers:**
+    * 1 May 2020: abstract submission
+    * 4 May 2020: paper submission
+  * **Oral communications and short papers:**
+    * 8 May 2020: abstract submission
+    * 11 May 2020: paper submission
+  * 4 June 2020: notification
+  * 19-20 June 2020: ICE workshop
+  * 13 July 2020: camera-ready for EPTCS post-proceedings
 
 
 ## Selection Procedure
@@ -82,7 +91,7 @@ We are keen to enhance the balanced, inclusive and diverse nature of the ICE com
 
 Accepted research papers and communications must be presented at the workshop by one of the authors.
 
-Accepted research papers will be published after the workshop in [Electronic Proceedings in Theoretical Computer Science](http://eptcs.org/) (to be confirmed).
+Accepted research papers will be published after the workshop in [Electronic Proceedings in Theoretical Computer Science](http://eptcs.org/).
 
 We plan to invite authors of selected papers and brief announcements to submit their work in a special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier). Such contributions will be regularly peer-reviewed according to the standard journal policy, but they will be handled in a shorter time than regular submissions. A list of published and in preparation special issues of previous ICE editions is reported below.
 
