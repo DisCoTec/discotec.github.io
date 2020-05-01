@@ -38,7 +38,7 @@ A submission should contain original, unpublished work, reporting results of new
 * [Vassilis Zikas](https://www.vassiliszikas.com/) (University of Edinburgh)
 
 ### Program committee
-* [Moyad Alloqaily](https://carleton.ca/sce/people/aloqaily/) (Carleton University)
+* [Moayad Aloqaily](https://carleton.ca/sce/people/aloqaily/) (Carleton University)
 * [Neville Grech](https://www.nevillegrech.com/) (University of Athens and University of Malta)
 * [Aggelos Kiayias](http://www.kiayias.com/) (University of Edinburgh)
 * [Nikos Leonardos](http://users.uoa.gr/~nleon/) (National and Kapodistrian University of Athens)
