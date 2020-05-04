@@ -1,0 +1,28 @@
+The 15th International Federated Conference on Distributed Computing Techniques (DisCoTec) took place in June 15–19. It was organized by the Department of Computer Science at the University of Malta, but was held online due to the abnormal cirumstances worldwide affecting physical travel.
+
+The DisCoTec series is one of the major events sponsored by the International Federation for Information Processing (IFIP). It comprised three conferences:
+
+– COORDINATION, the IFIP WG 6.1 21st International Conference on Coordination Models and Languages
+– DAIS, the IFIP WG 6.1 19th International Conference on Distributed Applications and Interoperable Systems
+– FORTE, the IFIP WG 6.1 39th International Conference on Formal Techniques for Distributed Objects, Components and Systems
+
+Together, these conferences cover a broad spectrum of distributed computing subjects, ranging from theoretical foundations and formal description techniques to systems research issues.
+In addition to the individual sessions of each conference, the event included several plenary sessions that gathered attendants from the three conferences. This year, the general chair and the DisCoTec Steering Committee joined the three DisCoTec conferences in the selection and nomination of the plenary keynote speakers, whose number was accordingly increased from the traditional three to five. The five keynote speakers and the title of their talks are listed below:
+– Prof. David Basin (ETH Zürich, Switzerland) – “Security Protocols: Model Checking Standards”
+– Dr. Anne-Marie Kermarrec (Inria Rennes, France) – “Making Sense of Fast Big Data”
+– Prof. Marta Kwiatkowska (University of Oxford, UK) – “Versatile Quantitative Modelling: Verification, Synthesis and Data Inference for Cyber-Physical Systems”
+– Prof. Silvio Micali (MIT, USA)—“ALGORAND—The Distributed Ledger for the
+Borderless Economy”
+– Prof. Martin Wirsing (LMU, Germany) – “Toward Formally Designing Collective
+Adaptive Systems”
+As is traditional in DisCoTec, an additional joint session with the best papers from
+each conference was organized. The best papers were:
+– “Representing Dependencies in Event Structures” by G. Michele Pinna (Coordination)
+– “FOUGERE: User-Centric Location Privacy in Mobile Crowdsourcing Apps” by Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment (DAIS)
+vi Foreword
+– “Psi-Calculi Revisited: Connectivity and Compositionality” by Johannes Åman Pohjola (FORTE)
+Associated with the federated event were also two satellite events that took place:
+– ICE, the 12th International Workshop on Interaction and Concurrency Experience – DisCoRail, the First International Workshop on Distributed Computing in Future
+Railway Systems
+I would like to thank the Program Committee chairs of the different events for their help and cooperation during the preparation of the conference, and the Steering Committee and Advisory Boards of DisCoTec and their conferences for their guidance and support. The organization of DisCoTec 2019 was only possible thanks to the dedicated work of the Organizing Committee, including Francisco “Kiko” Fernández Reyes and Francesco Tiezzi (publicity chairs), Maurice ter Beek, Valerio Schiavoni, and Andrea Vandin (workshop chairs), Ann-Cathrin Dunker (logistics and finances), as well as all the students and colleagues who volunteered their time to help. Finally, I would like to thank IFIP WG 6.1 for sponsoring this event, Springer’s Lecture Notes in Computer Science team for their support and sponsorship, EasyChair for providing the reviewing infrastructure, the Nordic IoT Hub for their sponsorship, and the Technical University of Denmark for providing meeting rooms and additional support.
+June 2019 Alberto Lluch Lafuente
