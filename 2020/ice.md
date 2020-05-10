@@ -129,7 +129,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Claudio Antares Mezzina (University of Urbino, IT)
   * Maurizio Murgia (University of Trento, IT)
   * Rumyana Neykova (Brunel University London, UK)
-  * Kirstin Peters (TU Berlin, DE)
+  * Kirstin Peters (TU Darmstadt, DE)
   * Johannes Åman Pohjola (Data61/CSIRO, AU) 
   * Ivan Prokic (University of Novi Sad, RS)
   * Matteo Sammartino (Royal Holloway, University of London, UK)
