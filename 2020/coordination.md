@@ -25,7 +25,7 @@ Coordination languages
 
 Message-based communication
 
-- *Team Automata@Work: On Safe Communication* by Maurice Hter Beek, Rolf Hennicker and Jetty Kleijn
+- *Team Automata@Work: On Safe Communication* by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn
 - *Choreography Automata* by Franco Barbanera, Ivan Lanese and Emilio Tuosto
 - *A Choreography-Driven Approach to APIs: the OpenDXL Case Study* by Leonardo Frittelli, Facundo Maldonado, Hernan Melgratti and Emilio Tuosto
 
@@ -37,7 +37,7 @@ Communications: types & implementations
 
 Service-oriented computing
 
-- *Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices* by Espen Tønnessen Nordli, Phu HNguyen, Franck Chauvel and Hui Song
+- *Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices* by Espen Tønnessen Nordli, Phu H. Nguyen, Franck Chauvel and Hui Song
 - *Quality of Service ranking by quantifying partial compliance of
 requirements* by Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo
 
