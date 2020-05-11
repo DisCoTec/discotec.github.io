@@ -20,32 +20,32 @@ The programme will be available [here](https://www.discotec.org/2020/programme)
 
 Coordination languages
 
-- *ARx: Reactive Programming for Synchronous Connectors* by José Proença and Guillermina Cledou
+- *ARx: Reactive Programming for Synchronous Connectors* by José Proença and Guillermina Cledou (Tool paper)
 - *Towards Energy-, Time- and Security-aware Multi-core Coordination* by Julius Roeder, Benjamin Rouxel, Sebastian Altmeyer and Clemens Grelck
 
 Message-based communication
 
-- *Team Automata@Work: On Safe Communication* by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn
+- *Team Automata@Work: On Safe Communication* by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn (Short paper)
 - *Choreography Automata* by Franco Barbanera, Ivan Lanese and Emilio Tuosto
 - *A Choreography-Driven Approach to APIs: the OpenDXL Case Study* by Leonardo Frittelli, Facundo Maldonado, Hernan Melgratti and Emilio Tuosto
 
 Communications: types & implementations
 
-- *Implementation of Multiparty Session Types in Rust* by Nicolas Lagaillardie, Rumyana Neykova and Nobuko Yoshida
-- *GoPi: Compiling linear and static channels in Go* by Marco Giunti
-- *SFJ: An Implementation of Semantic Featherweight Java* by Artem Usov and Ornela Dardha
+- *Implementation of Multiparty Session Types in Rust* by Nicolas Lagaillardie, Rumyana Neykova and Nobuko Yoshida (Short paper)
+- *GoPi: Compiling linear and static channels in Go* by Marco Giunti (Tool paper)
+- *SFJ: An Implementation of Semantic Featherweight Java* by Artem Usov and Ornela Dardha (Tool paper)
 
 Service-oriented computing
 
-- *Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices* by Espen Tønnessen Nordli, Phu H. Nguyen, Franck Chauvel and Hui Song
+- *Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices* by Espen Tønnessen Nordli, Phu H. Nguyen, Franck Chauvel and Hui Song (Short paper)
 - *Quality of Service ranking by quantifying partial compliance of
-requirements* by Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo
+requirements* by Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo (Short paper)
 
 Large-scale decentralised systems
 
 - *Time-fluid field-based coordination* by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli
 - *Resilient Distributed Collection through Information Speed Thresholds* by Giorgio Audrito, Sergio Bergamini, Ferruccio Damiani and Mirko Viroli
-- *Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited* by Nicolas Gast, Diego Latella and Mieke Massink
+- *Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited* by Nicolas Gast, Diego Latella and Mieke Massink (Short paper)
 
 Smart contracts
 
@@ -60,9 +60,9 @@ Modelling
 
 Verification & analysis
 
-- *Towards a Formally Verified EVM in Production Environment* by Xiyue Zhang, Yi Li and Meng Sun
+- *Towards a Formally Verified EVM in Production Environment* by Xiyue Zhang, Yi Li and Meng Sun (Short paper)
 - *On Implementing Symbolic Controllability* by Adrian Francalanza and Jasmine Xuereb
-- *Combining SLiVER with CADP to Analyze Multi-agent Systems* by Luca Di Stefano, Frédéric Lang and Wendelin Serwe
+- *Combining SLiVER with CADP to Analyze Multi-agent Systems* by Luca Di Stefano, Frédéric Lang and Wendelin Serwe (Tool paper)
 - *Formal Modeling and Analysis of Medical Systems* by Mahsa Zarneshan, Fatemeh Ghassemi and Marjan Sirjani
 
 ## Scope
