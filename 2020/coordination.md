@@ -12,9 +12,58 @@ Coordination 2020 is one of the three conferences of [DisCoTec 2020](https://www
 * Ken McMillan, Microsoft Research, Redmond
 
 
-## Programme
+## List of accepted papers
+
+Below you will find the list of accepted papers ordered and grouped as they will appear in the proceedings.
+
 The programme will be available [here](https://www.discotec.org/2020/programme)
 
+Coordination languages
+
+- *ARx: Reactive Programming for Synchronous Connectors* by José Proença and Guillermina Cledou (Tool paper)
+- *Towards Energy-, Time- and Security-aware Multi-core Coordination* by Julius Roeder, Benjamin Rouxel, Sebastian Altmeyer and Clemens Grelck
+
+Message-based communication
+
+- *Team Automata@Work: On Safe Communication* by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn (Short paper)
+- *Choreography Automata* by Franco Barbanera, Ivan Lanese and Emilio Tuosto
+- *A Choreography-Driven Approach to APIs: the OpenDXL Case Study* by Leonardo Frittelli, Facundo Maldonado, Hernan Melgratti and Emilio Tuosto
+
+Communications: types & implementations
+
+- *Implementation of Multiparty Session Types in Rust* by Nicolas Lagaillardie, Rumyana Neykova and Nobuko Yoshida (Short paper)
+- *GoPi: Compiling linear and static channels in Go* by Marco Giunti (Tool paper)
+- *SFJ: An Implementation of Semantic Featherweight Java* by Artem Usov and Ornela Dardha (Tool paper)
+
+Service-oriented computing
+
+- *Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices* by Espen Tønnessen Nordli, Phu H. Nguyen, Franck Chauvel and Hui Song (Short paper)
+- *Quality of Service ranking by quantifying partial compliance of
+requirements* by Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo (Short paper)
+
+Large-scale decentralised systems
+
+- *Time-fluid field-based coordination* by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli
+- *Resilient Distributed Collection through Information Speed Thresholds* by Giorgio Audrito, Sergio Bergamini, Ferruccio Damiani and Mirko Viroli
+- *Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited* by Nicolas Gast, Diego Latella and Mieke Massink (Short paper)
+
+Smart contracts
+
+- *A true concurrent model of smart contracts executions* by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia
+- *Renegotiation and recursion in Bitcoin contracts* by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino
+
+Modelling
+
+- *Architecture modelling of parametric component-based systems* by Maria Pittou and George Rahonis
+- *Weighted PCL over product valuation monoids* by Vagia Karyoti and Paulina Paraponiari
+- *Operational representation of dependencies in Context-Dependent Event Structures* by G. Michele Pinna
+
+Verification & analysis
+
+- *Towards a Formally Verified EVM in Production Environment* by Xiyue Zhang, Yi Li and Meng Sun (Short paper)
+- *On Implementing Symbolic Controllability* by Adrian Francalanza and Jasmine Xuereb
+- *Combining SLiVER with CADP to Analyze Multi-agent Systems* by Luca Di Stefano, Frédéric Lang and Wendelin Serwe (Tool paper)
+- *Formal Modeling and Analysis of Medical Systems* by Mahsa Zarneshan, Fatemeh Ghassemi and Marjan Sirjani
 
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
