@@ -29,9 +29,12 @@ Submissions must be in English and in the form of an extended abstract of up to 
 
 A submission should contain original, unpublished work, reporting results of new, recent, or ongoing research. We also welcome submissions of abstracts based on work submitted or published elsewhere, provided that all relevant information is disclosed at submission time. Abstracts may be published on the workshop's webpage (subject to author's approval).
 
-### Important dates
-* May 15, 2020: abstract submission
-* May 31, 2020: author notification
+
+### Important dates (updated)
+* ~~May 15, 2020: abstract submission~~
+* **New Deadline May 24, 2020: abstract submission (AoE)**
+* ~~May 31, 2020: author notification~~
+* **New Deadline June 5, 2020: author notification**
 * June 19, 2020: FOCODILE workshop
 
 ### Keynote Speaker
