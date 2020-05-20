@@ -2,10 +2,10 @@
 
 # [DisCoTec 2020](https://www.discotec.org/2020/) programme
 
-To be announced soon
 
 
-|Header 1|Header 2|
-|--------|--------|
-|Item 1| Item 2|
-|Item 3| Item 4|
+
+|Time |COORD:Tue|DAIS:Tue|FORTE:Tue|COORD:Wed|DAIS:Wed|FORTE:Wed| 
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|Item 1|TEST|TEST|TEST|TEST|TEST|TEST|
+|Item 3|TEST|TEST|TEST|TEST|TEST|TEST|
