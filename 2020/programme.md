@@ -48,10 +48,10 @@ distributed algorithms
 |*11.00-11.30*||||*break*
 |**11.30-12.00**|    [A true concurrent model of smart contracts executions](#coordination-best-paper)    |    |     | 
 |**12.00-12.30**|   | [TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores](#dais-best-paper) |    | 
-|**12.30-13.00**|   |    | Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory|
+|**12.30-13.00**|   |    | [Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory](#forte-best-paper)
 |*13.00-14.00*||||*break*
-|**14.00-14.30**|    [Renegotiation and recursion in Bitcoin contract](#hyper-ledgers-and-virtual-machines)  |  [Towards hypervisor support for enhancing the performance of virtual machine introspection](#cloud-and-systems)  |  Derivation of Heard-Of Predicates From Elementary Behavioral Patterns |
-|**14.30-15.00**|  [Towards a Formally Verified EVM in Production Environment](#hyper-ledgers-and-virtual-machines)  | [Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment](#cloud-and-systems)  | Trace Equivalence and Epistemic Logic to Express Security Properties|
+|**14.00-14.30**|    [Renegotiation and recursion in Bitcoin contract](#hyper-ledgers-and-virtual-machines)  |  [Towards hypervisor support for enhancing the performance of virtual machine introspection](#cloud-and-systems)  |  [Derivation of Heard-Of Predicates From Elementary Behavioral Patterns](#program-logics) |
+|**14.30-15.00**|  [Towards a Formally Verified EVM in Production Environment](#hyper-ledgers-and-virtual-machines)  | [Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment](#cloud-and-systems)  | [Trace Equivalence and Epistemic Logic to Express Security Properties](#program-logics) |
 |*15.00-15.30*||||*break*
 |**15.30-16.00**| [GoPi: Compiling linear and static channels in Go](#tools)   |   [Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform](#fault-tolerance-and-reproducibilty)    |   A Formal Framework for Consent Management  |
 |**16.00-16.30**| [SFJ: An Implementation of Semantic Featherweight Java](#tools)   |   [A Comparison of Message Exchange Patterns in BFT Protocols](#fault-tolerance-and-reproducibilty)   |   Towards Bridging Time and Causal Reversibility|
@@ -230,3 +230,30 @@ Guillaume Fraysse, Jonathan Lejeune, Julien Sopena and Pierre Sens
 <br/><br/>
 *A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks*<br/>
 Hadid Rachid and Vincent Villain<br/><br/>
+
+
+## FORTE accepted papers and programme
+
+### FORTE Best Paper
+
+*Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory*<br/> 
+by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, and Heike Wehrheim
+<br/><br/>
+
+
+### Program Logics 
+*(session chair: TBA)*
+
+*Derivation of Heard-Of Predicates From Elementary Behavioral Patterns*<br/>
+by Adam Shimi, Aurélie Hurault and Philippe Queinnec<br/><br/>
+*Trace Equivalence and Epistemic Logic to Express Security Properties*<br/>
+by Kiraku Minami<br/><br/>
+
+### Formal Frameworks
+*(session chair: TBA)*
+
+
+*A Formal Framework for Consent Management*<br/>
+by Shukun Tokas and Olaf Owe<br/><br/>
+*Towards Bridging Time and Causal Reversibility*<br/>
+by Claudio Antares Mezzina and Marco Bernardo <br/><br/>
