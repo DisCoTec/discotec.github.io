@@ -15,6 +15,9 @@
 
 ## Tuesday 16 June
 
+### Invited Talk
+**10.00-11.00:** &nbsp;  *Peter Kriens*  &nbsp;  Formal Specifications to Increase Understanding 
+
 |Time |COORDINATION|DAIS|FORTE|  
 |:---:|:---:|:---:|:---:|
 |*11.00-11.30*|*break*|*break*|*break*|
@@ -32,6 +35,11 @@
 
 ## Wednesday 17 June
 
+### Invited Talk
+**10.00-11.00:** &nbsp;  *Nathalie Bertrand*  &nbsp;  Probabilistic threshold automata for modeling and verifying randomized
+distributed algorithms
+
+
 |Time |COORDINATION|DAIS|FORTE| | 
 |:---:|:---:|:---:|:---:|:---|
 |*11.00-11.30*||||*break*
@@ -47,6 +55,10 @@
 |**16.30-16.50**| Implementation of Multiparty Session Types in Rust
 
 ## Thursday 18 June
+
+### Invited Talk
+**10.00-11.00:** &nbsp;  *Holger Hermanns*  &nbsp;  Power-Optimal Scheduling of LEO Satellite Networks
+
 
 |Time |COORDINATION|DAIS|FORTE| | 
 |:---:|:---:|:---:|:---:|:---|
