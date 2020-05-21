@@ -18,8 +18,7 @@
 |*15.00-15.30*| *break* | *break*|
 |**15.30-17.00**| Typechecking Java protocols with Mungo/StMungo | Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems|
 
-
-
+<br/>
   
 
 ## Tuesday 16 June
@@ -449,12 +448,7 @@ by Kiraku Minami<br/><br/>
 *(session chair: TBA)*
 
   
-  
-
-*A Formal Framework for Consent Management*<br/>
-
-by Shukun Tokas and Olaf Owe<br/><br/>
-
-*Towards Bridging Time and Causal Reversibility*<br/>
-
-by Claudio Antares Mezzina and Marco Bernardo <br/><br/>
+- *A Formal Framework for Consent Management*
+    by Shukun Tokas and Olaf Owe
+- *Towards Bridging Time and Causal Reversibility*
+   by Claudio Antares Mezzina and Marco Bernardo
