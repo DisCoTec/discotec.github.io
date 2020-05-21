@@ -128,7 +128,7 @@ distributed algorithms
 - *A true concurrent model of smart contracts executions* <br/> by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia 
 
 
-### Modelling
+### Modelling 1
 
 *(session chair: TBA)*
 
@@ -137,7 +137,7 @@ distributed algorithms
 - *Architecture modelling of parametric component-based systems* <br/> by Maria Pittou and George Rahonis 
 
   
-### Modelling 2
+### Modelling 2 / Message-based communication 1
 
 *(session chair: TBA)*
 
@@ -148,7 +148,7 @@ distributed algorithms
 
   
 
-### Automata and Microservices 
+### Message-based communication 2 / Microservices
 (session chair: TBA)
   
 
@@ -159,7 +159,7 @@ distributed algorithms
 
   
 
-### Hyper Ledgers and Virtual Machines
+### Smart contracts
 
 *(session chair: TBA)*
 
@@ -169,7 +169,7 @@ distributed algorithms
 
   
 
-### Tools
+### Communications: types & implementations
 
 *(session chair: TBA)*
 
