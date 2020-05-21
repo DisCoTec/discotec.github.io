@@ -120,78 +120,42 @@ distributed algorithms
 
   
   
-  
-  
-  
 
 ## Coordination accepted papers and programme
 
-  
-
 ### Coordination Best Paper
 
-  
+- *A true concurrent model of smart contracts executions* <br/> by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia 
 
-*A true concurrent model of smart contracts executions* <br/>
-
-by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia <br/> <br/>
-
-  
 
 ### Modelling
 
 *(session chair: TBA)*
 
-  
 
-*Operational representation of dependencies in Context-Dependent Event Structures* <br/>
-
-by G. Michele Pinna <br/> <br/>
-
-*Architecture modelling of parametric component-based systems* <br/>
-
-by Maria Pittou and George Rahonis <br/> <br/>
+- *Operational representation of dependencies in Context-Dependent Event Structures* <br/> by G. Michele Pinna 
+- *Architecture modelling of parametric component-based systems* <br/> by Maria Pittou and George Rahonis 
 
   
-  
-
 ### Modelling 2
 
 *(session chair: TBA)*
 
   
 
-*Weighted PCL over product valuation monoids* <br/>
-
-by Vagia Karyoti and Paulina Paraponiari <br/><br/>
-
-*A Choreography-Driven Approach to APIs: the OpenDXL Case Study* <br/>
-
-by Leonardo Frittelli, Facundo Maldonado, Hernan Melgratti and Emilio Tuosto <br/> <br/>
+- *Weighted PCL over product valuation monoids* <br/> by Vagia Karyoti and Paulina Paraponiari 
+- *A Choreography-Driven Approach to APIs: the OpenDXL Case Study* <br/> by Leonardo Frittelli, Facundo Maldonado, Hernan Melgratti and Emilio Tuosto 
 
   
 
-### Automata and Microservices (session chair: TBA)
-
+### Automata and Microservices 
+(session chair: TBA)
   
 
-*Choreography Automata* <br/>
-
-by Franco Barbanera, Ivan Lanese and Emilio Tuosto
-
-<br/><br/>
-
-*Team Automata@Work: On Safe Communication* (Short paper) <br/>
-
-by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn <br/><br/>
-
-*Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices* (Short paper)<br/>
-
-by Espen Tønnessen Nordli, Phu H. Nguyen, Franck Chauvel and Hui Song <br/><br/>
-
-*Quality of Service ranking by quantifying partial compliance of requirements* (Short paper) <br/>
-
-by Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo <br/><br/>
+- *Choreography Automata* <br/> by Franco Barbanera, Ivan Lanese and Emilio Tuosto
+- *Team Automata@Work: On Safe Communication* (Short paper) <br/> by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn
+- *Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices* (Short paper) <br/> by Espen Tønnessen Nordli, Phu H. Nguyen, Franck Chauvel and Hui Song 
+- *Quality of Service ranking by quantifying partial compliance of requirements* (Short paper) <br/> by Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo 
 
   
 
@@ -200,16 +164,8 @@ by Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo <br/><br/>
 *(session chair: TBA)*
 
   
-
-*Renegotiation and recursion in Bitcoin contracts*
-
-<br/>
-
-by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino <br/><br/>
-
-*Towards a Formally Verified EVM in Production Environment* (Short paper) <br/>
-
-by Xiyue Zhang, Yi Li and Meng Sun <br/><br/>
+- *Renegotiation and recursion in Bitcoin contracts* <br/> by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino 
+- *Towards a Formally Verified EVM in Production Environment* (Short paper) <br/> by Xiyue Zhang, Yi Li and Meng Sun 
 
   
 
@@ -218,37 +174,18 @@ by Xiyue Zhang, Yi Li and Meng Sun <br/><br/>
 *(session chair: TBA)*
 
   
+- *GoPi: Compiling linear and static channels in Go* (Tool paper) <br/> by Marco Giunti
+- *SFJ: An Implementation of Semantic Featherweight Java* (Tool paper) <br/> by Artem Usov and Ornela Dardha 
+- *Implementation of Multiparty Session Types in Rust* (Short paper) <br/> by Nicolas Lagaillardie, Rumyana Neykova and Nobuko Yoshida 
 
-*GoPi: Compiling linear and static channels in Go* (Tool paper) <br/>
-
-by Marco Giunti <br/> <br/>
-
-*SFJ: An Implementation of Semantic Featherweight Java* (Tool paper) <br/>
-
-by Artem Usov and Ornela Dardha <br/><br/>
-
-*Implementation of Multiparty Session Types in Rust* (Short paper) <br/>
-
-by Nicolas Lagaillardie, Rumyana Neykova and Nobuko Yoshida <br/><br/>
-
-  
   
 
 ### Coordination Languages
 
 *(session chair: TBA)*
 
-  
-
-*Towards Energy-, Time- and Security-aware Multi-core Coordination* <br/>
-
-by Julius Roeder, Benjamin Rouxel, Sebastian Altmeyer and Clemens Grelck
-
-<br/><br/>
-
-*ARx: Reactive Programming for Synchronous Connectors* (Tool paper)<br/>
-
-by José Proença and Guillermina Cledou <br/><br/>
+- *Towards Energy-, Time- and Security-aware Multi-core Coordination* <br/> by Julius Roeder, Benjamin Rouxel, Sebastian Altmeyer and Clemens Grelck
+- *ARx: Reactive Programming for Synchronous Connectors* (Tool paper)<br/>  by José Proença and Guillermina Cledou 
 
   
   
@@ -258,18 +195,9 @@ by José Proença and Guillermina Cledou <br/><br/>
 *(session chair: TBA)*
 
   
-
-*Time-fluid field-based coordination* <br/>
-
-by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli <br/><br/>
-
-*Resilient Distributed Collection through Information Speed Thresholds* <br/>
-
-by Giorgio Audrito, Sergio Bergamini, Ferruccio Damiani and Mirko Viroli <br/><br/>
-
-*Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited* (Short paper) <br/>
-
-by Nicolas Gast, Diego Latella and Mieke Massink <br/><br/>
+- *Time-fluid field-based coordination* <br/> by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli 
+- *Resilient Distributed Collection through Information Speed Thresholds* <br/> by Giorgio Audrito, Sergio Bergamini, Ferruccio Damiani and Mirko Viroli 
+- *Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited* (Short paper) <br/> by Nicolas Gast, Diego Latella and Mieke Massink 
 
   
 
@@ -277,22 +205,11 @@ by Nicolas Gast, Diego Latella and Mieke Massink <br/><br/>
 
 *(session chair: TBA)*
 
-  
 
-*Formal Modeling and Analysis of Medical Systems* <br/>
+- *Formal Modeling and Analysis of Medical Systems* <br/> by Mahsa Zarneshan, Fatemeh Ghassemi and Marjan Sirjani 
+- *On Implementing Symbolic Controllability* <br/> by Adrian Francalanza and Jasmine Xuereb 
+- *Combining SLiVER with CADP to Analyze Multi-agent Systems* (Tool paper) <br/>  by Luca Di Stefano, Frédéric Lang and Wendelin Serwe 
 
-by Mahsa Zarneshan, Fatemeh Ghassemi and Marjan Sirjani <br/><br/>
-
-*On Implementing Symbolic Controllability* <br/>
-
-by Adrian Francalanza and Jasmine Xuereb <br/><br/>
-
-*Combining SLiVER with CADP to Analyze Multi-agent Systems* (Tool paper) <br/>
-
-by Luca Di Stefano, Frédéric Lang and Wendelin Serwe <br/><br/>
-
-  
-  
   
 
 ## DAIS accepted papers and programme
@@ -303,9 +220,7 @@ by Luca Di Stefano, Frédéric Lang and Wendelin Serwe <br/><br/>
 
   
 
-*TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores*<br/>
-
-by Vikas Jaiman, Etienne Rivière and Sonia Ben Mokhtar<br/><br/>
+- *TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores* <br/> by Vikas Jaiman, Etienne Rivière and Sonia Ben Mokhtar
 
   
   
@@ -314,40 +229,16 @@ by Vikas Jaiman, Etienne Rivière and Sonia Ben Mokhtar<br/><br/>
 
 *(session chair: TBA)*
 
-  
-
-*On the trade-offs of combining multiple secure processing primitives for data analytics*</br>
-
-by Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira
-
-<br/><br/>
-
-*Capturing Privacy-preserving User Contexts with IndoorHash*<br/>
-
-Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment
-
-<br/><br/>
-
-  
+- *On the trade-offs of combining multiple secure processing primitives for data analytics* </br> by Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira
+- *Capturing Privacy-preserving User Contexts with IndoorHash* <br/> Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment
 
 ### ML for Systems
 
 *(session chair: TBA)*
 
-  
-
-*Self-Tunable DBMS Replication with Reinforcement Learning*<br/>
-
+- *Self-Tunable DBMS Replication with Reinforcement Learning* <br/>
 Luis Ferreira, Fábio André Coelho and Jose Pereira
-
-<br/><br/>
-
-*DroidAutoML: A microservice architecture to automate the evaluation of Android machine learning detection systems*<br/>
-
-Yérom-David Bromberg and Louison Gitzinger
-
-<br/><br/>
-
+- *DroidAutoML: A microservice architecture to automate the evaluation of Android machine learning detection systems* <br/> Yérom-David Bromberg and Louison Gitzinger
   
 
 ### Cloud and Systems
@@ -355,41 +246,18 @@ Yérom-David Bromberg and Louison Gitzinger
 *(session chair: TBA)*
 
   
+- *Towards hypervisor support for enhancing the performance of virtual machine introspection* <br/> Benjamin Taubmann and Hans P. Reiser
+- *Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment* <br/> Ioannis Tzouros and Vana Kalogeraki
 
-*Towards hypervisor support for enhancing the performance of virtual machine introspection*<br/>
-
-Benjamin Taubmann and Hans P. Reiser
-
-<br/><br/>
-
-*Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment*<br/>
-
-Ioannis Tzouros and Vana Kalogeraki
-
-<br/><br/>
-
-  
 
 ### Fault-tolerance and Reproducibilty
 
 *(session chair: TBA)*
 
-  
 
-*Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform* (Experience Report)<br/>
+- *Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform* (Experience Report)<br/> João Abreu, Ana Nunes Alonso, David Nunes, Jose Pereira, Luiz Santos, Tércio Soares and Andre Vieira
+- *A Comparison of Message Exchange Patterns in BFT Protocols* (Experience Report) <br/> Fábio Silva, Ana Nunes Alonso, José Pereira and Rui Oliveira
 
-João Abreu, Ana Nunes Alonso, David Nunes, Jose Pereira, Luiz Santos, Tércio Soares and Andre Vieira
-
-<br/><br/>
-
-*A Comparison of Message Exchange Patterns in BFT Protocols* (Experience Report)<br/>
-
-Fábio Silva, Ana Nunes Alonso, José Pereira and Rui Oliveira
-
-<br/><br/>
-
-  
-  
 
 ### Distributed Algorithms
 
@@ -397,34 +265,19 @@ Fábio Silva, Ana Nunes Alonso, José Pereira and Rui Oliveira
 
   
 
-*A resource usage efficient distributed allocation algorithm for 5G Service Function Chains* <br/>
-
-Guillaume Fraysse, Jonathan Lejeune, Julien Sopena and Pierre Sens
-
-<br/><br/>
-
-*A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks*<br/>
-
-Hadid Rachid and Vincent Villain<br/><br/>
-
+- *A resource usage efficient distributed allocation algorithm for 5G Service Function Chains* <br/> Guillaume Fraysse, Jonathan Lejeune, Julien Sopena and Pierre Sens
+- *A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks* <br/> Hadid Rachid and Vincent Villain 
   
   
 
 ## FORTE accepted papers and programme
 
-  
-
 ### FORTE Best Paper
 
   
 
-*Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory*<br/>
-
+- *Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory*<br/>
 by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, and Heike Wehrheim
-
-<br/><br/>
-
-  
   
 
 ### Program Logics
@@ -433,13 +286,8 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
 
   
 
-*Derivation of Heard-Of Predicates From Elementary Behavioral Patterns*<br/>
-
-by Adam Shimi, Aurélie Hurault and Philippe Queinnec<br/><br/>
-
-*Trace Equivalence and Epistemic Logic to Express Security Properties*<br/>
-
-by Kiraku Minami<br/><br/>
+- *Derivation of Heard-Of Predicates From Elementary Behavioral Patterns* <br/> by Adam Shimi, Aurélie Hurault and Philippe Queinnec
+- *Trace Equivalence and Epistemic Logic to Express Security Properties* <br/> Kiraku Minami
 
   
 
