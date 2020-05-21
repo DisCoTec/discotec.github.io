@@ -11,12 +11,12 @@
 |**13.30-15.00**| CHOReVOLUTION IDRE: An Integrated Development and Run-time Environment for Automatically Realizing and Executing Distributed Applications   |   The Probabilistic Model Checker Storm
 |*15.00-15.30*| *break* | *break*|
 |**15.30-17.00**|   Typechecking Java protocols with Mungo/StMungo    |   Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems
-
+<br/>
 
 ## Tuesday 16 June
 
 ### Invited Talk
-**10.00-11.00:** &nbsp; &nbsp;  *Peter Kriens*  &nbsp;  Formal Specifications to Increase Understanding 
+**10.00-11.00:** &nbsp; &nbsp;  *Peter Kriens*  &nbsp;  Formal Specifications to Increase Understanding<br/><br/> 
 
 |Time |COORDINATION|DAIS|FORTE|  
 |:---:|:---:|:---:|:---:|
@@ -31,13 +31,13 @@
 |**16.00-16.20**|   [Team Automata@Work: On Safe Communication](#automata-and-microservices)
 |**16.20-16.40**|  [Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices](#automata-and-microservices)
 |**16.40-17.00**|  [Quality of Service ranking by quantifying partial compliance of requirements](#automata-and-microservices)
-
+<br/>
 
 ## Wednesday 17 June
 
 ### Invited Talk
 **10.00-11.00:** &nbsp; &nbsp;  *Nathalie Bertrand*  &nbsp;  Probabilistic threshold automata for modeling and verifying randomized
-distributed algorithms
+distributed algorithms<br/><br/>
 
 
 |Time |COORDINATION|DAIS|FORTE| | 
@@ -53,11 +53,12 @@ distributed algorithms
 |**15.30-16.00**| [GoPi: Compiling linear and static channels in Go](#tools)   |   [Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform](#fault-tolerance-and-reproducibilty)    |   A Formal Framework for Consent Management  |
 |**16.00-16.30**| [SFJ: An Implementation of Semantic Featherweight Java](#tools)   |   [A Comparison of Message Exchange Patterns in BFT Protocols](#fault-tolerance-and-reproducibilty)   |   Towards Bridging Time and Causal Reversibility|
 |**16.30-16.50**| [Implementation of Multiparty Session Types in Rust](#tools)
+<br/>
 
 ## Thursday 18 June
 
 ### Invited Talk
-**10.00-11.00:** &nbsp; &nbsp;  *Holger Hermanns*  &nbsp;  Power-Optimal Scheduling of LEO Satellite Networks
+**10.00-11.00:** &nbsp; &nbsp;  *Holger Hermanns*  &nbsp;  Power-Optimal Scheduling of LEO Satellite Networks<br/><br/>
 
 
 |Time |COORDINATION|DAIS|FORTE| | 
