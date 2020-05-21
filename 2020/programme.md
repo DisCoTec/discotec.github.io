@@ -37,7 +37,8 @@
 
 ### Invited Talk
 **10.00-11.00:** &nbsp; &nbsp;  *Nathalie Bertrand*  &nbsp;  Probabilistic threshold automata for modeling and verifying randomized
-distributed algorithms<br/><br/>
+distributed algorithms
+<br/><br/>
 
 
 |Time |COORDINATION|DAIS|FORTE| | 
@@ -58,7 +59,8 @@ distributed algorithms<br/><br/>
 ## Thursday 18 June
 
 ### Invited Talk
-**10.00-11.00:** &nbsp; &nbsp;  *Holger Hermanns*  &nbsp;  Power-Optimal Scheduling of LEO Satellite Networks<br/><br/>
+**10.00-11.00:** &nbsp; &nbsp;  *Holger Hermanns*  &nbsp;  Power-Optimal Scheduling of LEO Satellite Networks
+<br/><br/>
 
 
 |Time |COORDINATION|DAIS|FORTE| | 
@@ -74,7 +76,7 @@ distributed algorithms<br/><br/>
 |**15.30-16.00**| [Formal Modeling and Analysis of Medical Systems](#verification-and-analysis)    |    |  Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities |   
 |**16.00-16.30**|  [On Implementing Symbolic Controllability](#verification-and-analysis)  |    |  On Implementable Timed Automata| 
 |**16.30-17.00**|  [Combining SLiVER with CADP to Analyze Multi-agent Systems](#verification-and-analysis)   |    |    |  
-
+<br/>
 
 
 
