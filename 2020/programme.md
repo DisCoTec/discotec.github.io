@@ -16,7 +16,9 @@
 ## Tuesday 16 June
 
 ### Invited Talk
-**10.00-11.00:** &nbsp; &nbsp;  *Peter Kriens*  &nbsp;  Formal Specifications to Increase Understanding<br/><br/> 
+**10.00-11.00:** &nbsp; &nbsp;  *Peter Kriens*  &nbsp;  Formal Specifications to Increase Understanding
+
+### Conference Talks 
 
 |Time |COORDINATION|DAIS|FORTE|  
 |:---:|:---:|:---:|:---:|
@@ -38,8 +40,8 @@
 ### Invited Talk
 **10.00-11.00:** &nbsp; &nbsp;  *Nathalie Bertrand*  &nbsp;  Probabilistic threshold automata for modeling and verifying randomized
 distributed algorithms
-<br/><br/>
 
+### Conference Talks
 
 |Time |COORDINATION|DAIS|FORTE| | 
 |:---:|:---:|:---:|:---:|:---|
@@ -60,7 +62,8 @@ distributed algorithms
 
 ### Invited Talk
 **10.00-11.00:** &nbsp; &nbsp;  *Holger Hermanns*  &nbsp;  Power-Optimal Scheduling of LEO Satellite Networks
-<br/><br/>
+
+### Conference Talks
 
 
 |Time |COORDINATION|DAIS|FORTE| | 
