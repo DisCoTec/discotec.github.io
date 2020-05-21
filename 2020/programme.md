@@ -46,7 +46,7 @@
 |*12.30-13.30*||||*break*
 |**13.30-14.00**|  Time-fluid field-based coordination   |   | 
 |**14.00-14.30**|  Resilient Distributed Collection through Information Speed Thresholds   |   |    Towards Deep Statistical Model Checking  |    
-|**14.30-15.00**|   Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited |   Towards a Hybrid Verification Methodology for Communication Protocols |
+|**14.30-15.00**|   Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited |   | Towards a Hybrid Verification Methodology for Communication Protocols |
 |*15.00-15.30*||||*break*
 |**15.30-16.00**| Formal Modeling and Analysis of Medical Systems  |    |  Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities |   
 |**16.00-16.30**|  On Implementing Symbolic Controllability  |    |  On Implementable Timed Automata| 
