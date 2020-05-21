@@ -2,6 +2,16 @@
 
 # Programme
 
+## Monday 15 June
+
+|Time |Track 1| Track 2|  
+|:---:|:---:|:---:|
+|**10.30-12.00**| Choreographic Development of Message-Passing Applications    |   Parameterized Verification with Byzantine Model Checker | 
+|*12.00-13.30*| *break* | *break*| 
+|**13.30-15.00**| CHOReVOLUTION IDRE: An Integrated Development and Run-time Environment for Automatically Realizing and Executing Distributed Applications   |   The Probabilistic Model Checker Storm
+|*15.00-15.30*| *break* | *break*|
+|**15.30-17.00**|   Typechecking Java protocols with Mungo/StMungo    |   Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems
+
 
 ## Tuesday 16 June
 
@@ -28,7 +38,7 @@
 |**11.30-12.00**|    A true concurrent model of smart contracts executions    |    |     | 
 |**12.00-12.30**|   | TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores |    | 
 |**12.30-13.00**|   |    | Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory|
-|*12.30-14.00*||||*break*
+|*13.00-14.00*||||*break*
 |**14.00-14.30**|  Renegotiation and recursion in Bitcoin contract  |  Towards hypervisor support for enhancing the performance of virtual machine introspection  |  Derivation of Heard-Of Predicates From Elementary Behavioral Patterns |
 |**14.30-15.00**|  Towards a Formally Verified EVM in Production Environment  | Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment  | Trace Equivalence and Epistemic Logic to Express Security Properties|
 |*15.00-15.30*||||*break*
