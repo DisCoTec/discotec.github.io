@@ -21,11 +21,11 @@
 |Time |COORDINATION|DAIS|FORTE|  
 |:---:|:---:|:---:|:---:|
 |*11.00-11.30*|*break*|*break*|*break*|
-|**11.30-12.00**|  [Operational representation of dependencies in Context-Dependent Event Structures](#modelling)  |  On the trade-offs of combining multiple secure processing primitives for data analytics|
-|**12.00-12.30**|   [Architecture modelling of parametric component-based systems](#modelling)  |  Capturing Privacy-preserving User Contexts with IndoorHash
+|**11.30-12.00**|  [Operational representation of dependencies in Context-Dependent Event Structures](#modelling)  |   [On the trade-offs of combining multiple secure processing primitives for data analytics](#privacy-and-security)   |
+|**12.00-12.30**|   [Architecture modelling of parametric component-based systems](#modelling)  |  [Capturing Privacy-preserving User Contexts with IndoorHash](#privacy-and-security)
 |*12.30-14.00*|*break*|*break*|*break*|
-|**14.00-14.30**|  [Weighted PCL over product valuation monoids](#modelling-2)   |    Self-Tunable DBMS Replication with Reinforcement Learning
-|**14.30-15.00**|   [A Choreography-Driven Approach to APIs: the OpenDXL Case Study](#modelling-2)   |A microservice architecture to automate the evaluation of Android machine learning detection systems
+|**14.00-14.30**|  [Weighted PCL over product valuation monoids](#modelling-2)   |    [Self-Tunable DBMS Replication with Reinforcement Learning](#ml-for-systems)
+|**14.30-15.00**|   [A Choreography-Driven Approach to APIs: the OpenDXL Case Study](#modelling-2)   |  [A microservice architecture to automate the evaluation of Android machine learning detection systems](#ml-for-systems)
 |*15.00-15.30*|*break*|*break*|*break*|
 |**15.30-16.00**| [Choreography Automata](#automata-and-microservices)
 |**16.00-16.20**|   [Team Automata@Work: On Safe Communication](#automata-and-microservices)
@@ -44,14 +44,14 @@ distributed algorithms
 |:---:|:---:|:---:|:---:|:---|
 |*11.00-11.30*||||*break*
 |**11.30-12.00**|    [A true concurrent model of smart contracts executions](#coordination-best-paper)    |    |     | 
-|**12.00-12.30**|   | TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores |    | 
+|**12.00-12.30**|   | [TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores](#dais-best-paper) |    | 
 |**12.30-13.00**|   |    | Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory|
 |*13.00-14.00*||||*break*
-|**14.00-14.30**|    [Renegotiation and recursion in Bitcoin contract](#hyper-ledgers-and-virtual-machines)  |  Towards hypervisor support for enhancing the performance of virtual machine introspection  |  Derivation of Heard-Of Predicates From Elementary Behavioral Patterns |
-|**14.30-15.00**|  [Towards a Formally Verified EVM in Production Environment](#hyper-ledgers-and-virtual-machines)  | Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment  | Trace Equivalence and Epistemic Logic to Express Security Properties|
+|**14.00-14.30**|    [Renegotiation and recursion in Bitcoin contract](#hyper-ledgers-and-virtual-machines)  |  [Towards hypervisor support for enhancing the performance of virtual machine introspection](#cloud-and-systems)  |  Derivation of Heard-Of Predicates From Elementary Behavioral Patterns |
+|**14.30-15.00**|  [Towards a Formally Verified EVM in Production Environment](#hyper-ledgers-and-virtual-machines)  | [Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment](#cloud-and-systems)  | Trace Equivalence and Epistemic Logic to Express Security Properties|
 |*15.00-15.30*||||*break*
-|**15.30-16.00**| [GoPi: Compiling linear and static channels in Go](#tools)   |   Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform |   A Formal Framework for Consent Management  |
-|**16.00-16.30**| [SFJ: An Implementation of Semantic Featherweight Java](#tools)   |   A Comparison of Message Exchange Patterns in BFT Protocols   |   Towards Bridging Time and Causal Reversibility|
+|**15.30-16.00**| [GoPi: Compiling linear and static channels in Go](#tools)   |   [Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform](#fault-tolerance-and-reproducibilty)    |   A Formal Framework for Consent Management  |
+|**16.00-16.30**| [SFJ: An Implementation of Semantic Featherweight Java](#tools)   |   [A Comparison of Message Exchange Patterns in BFT Protocols](#fault-tolerance-and-reproducibilty)   |   Towards Bridging Time and Causal Reversibility|
 |**16.30-16.50**| [Implementation of Multiparty Session Types in Rust](#tools)
 
 ## Thursday 18 June
@@ -63,8 +63,8 @@ distributed algorithms
 |Time |COORDINATION|DAIS|FORTE| | 
 |:---:|:---:|:---:|:---:|:---|
 |*11.00-11.30*||||*break*
-|**11.30-12.00**| [Towards Energy-, Time- and Security-aware Multi-core Coordination](#coordination-languages)   |  A resource usage efficient distributed allocation algorithm for 5G Service Function Chains  |   Conformance-Based Doping Detection for Cyber-Physical Systems   | 
-|**12.00-12.30**|  [ARx: Reactive Programming for Synchronous Connectors](#coordination-languages)    |  A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks   |   Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego  |
+|**11.30-12.00**| [Towards Energy-, Time- and Security-aware Multi-core Coordination](#coordination-languages)   |  [A resource usage efficient distributed allocation algorithm for 5G Service Function Chains](#distributed-algorithms)  |   Conformance-Based Doping Detection for Cyber-Physical Systems   | 
+|**12.00-12.30**|  [ARx: Reactive Programming for Synchronous Connectors](#coordination-languages)    |  [A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks](#distributed-algorithms)   |   Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego  |
 |*12.30-13.30*||||*break*
 |**13.30-14.00**|  [Time-fluid field-based coordination](#large-scale-decentralised-systems)    |   | 
 |**14.00-14.30**|  [Resilient Distributed Collection through Information Speed Thresholds](#large-scale-decentralised-systems)    |   |    Towards Deep Statistical Model Checking  |    
@@ -165,3 +165,62 @@ by Adrian Francalanza and Jasmine Xuereb <br/><br/>
 *Combining SLiVER with CADP to Analyze Multi-agent Systems* (Tool paper) <br/> 
 by Luca Di Stefano, Frédéric Lang and Wendelin Serwe <br/><br/>
 
+
+
+## DAIS accepted papers and programme
+
+### DAIS Best Paper
+
+*TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores*<br/>
+by Vikas Jaiman, Etienne Rivière and Sonia Ben Mokhtar<br/><br/>
+
+
+### Privacy and Security 
+*(session chair: TBA)*
+
+*On the trade-offs of combining multiple secure processing primitives for data analytics*</br>
+by Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira
+<br/><br/>
+*Capturing Privacy-preserving User Contexts with IndoorHash*<br/>
+Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment
+<br/><br/>
+
+### ML for Systems 
+*(session chair: TBA)*
+
+*Self-Tunable DBMS Replication with Reinforcement Learning*<br/>
+Luis Ferreira, Fábio André Coelho and Jose Pereira
+<br/><br/>
+*DroidAutoML: A microservice architecture to automate the evaluation of Android machine learning detection systems*<br/>
+Yérom-David Bromberg and Louison Gitzinger
+<br/><br/>
+
+### Cloud and Systems
+*(session chair: TBA)*
+
+*Towards hypervisor support for enhancing the performance of virtual machine introspection*<br/>
+Benjamin Taubmann and Hans P. Reiser
+<br/><br/>
+*Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment*<br/>
+Ioannis Tzouros and Vana Kalogeraki
+<br/><br/>
+
+### Fault-tolerance and Reproducibilty
+*(session chair: TBA)*
+
+*Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform* (Experience Report)<br/>
+João Abreu, Ana Nunes Alonso, David Nunes, Jose Pereira, Luiz Santos, Tércio Soares and Andre Vieira
+<br/><br/>
+*A Comparison of Message Exchange Patterns in BFT Protocols* (Experience Report)<br/>
+Fábio Silva, Ana Nunes Alonso, José Pereira and Rui Oliveira
+<br/><br/>
+
+
+### Distributed Algorithms
+*(session chair: TBA)*
+
+*A resource usage efficient distributed allocation algorithm for 5G Service Function Chains* <br/>
+Guillaume Fraysse, Jonathan Lejeune, Julien Sopena and Pierre Sens
+<br/><br/>
+*A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks*<br/>
+Hadid Rachid and Vincent Villain<br/><br/>

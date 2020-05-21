@@ -17,12 +17,25 @@ The DisCoTeC organisation committee has decided that, due to the current COVID-1
 * [FORTE 2020](https://www.discotec.org/2020/forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 ## Satellite Events
-* [DisCoTec Tools](https://www.discotec.org/2020/tutorials) - Hands-on Tutorial Sessions 
+* [DisCoTec Tools](https://www.discotec.org/2020/tutorials) - Tutorial Sessions 
 * [ICE 2020](https://www.discotec.org/2020/ice) - Workshop on Interaction and Concurrency Experience
-* [BehAPI 2020](https://www.discotec.org/2020/behapi) - Workshop on Behavioural APIs
 * [FOCODILE 2020](https://www.discotec.org/2020/focodile) - Workshop on the Foundations of Consensus and Distributed Ledgers
+* ~~[BehAPI 2020](https://www.discotec.org/2020/behapi) - Workshop on Behavioural APIs~~
 
 
+## Keynote Speakers
+
+* Nathalie Bertrand, INRIA Rennes Bretagne-Atlantique
+* Holger Hermanns, Saarland University
+* Peter Kriens, aQute & OSGi Alliance
+
+## Programme
+
+Go to the [programme page](https://www.discotec.org/2020/programme)
+  
+## Registration
+
+Go to the [registration page](https://www.um.edu.mt/events/discotec2020/about/_nocache).
 
 
 ## Important dates
@@ -32,24 +45,6 @@ The DisCoTeC organisation committee has decided that, due to the current COVID-1
 * April 10, 2020 - notification
 * April 24, 2020 - camera ready
 
-## Keynote Speakers
-
-* Nathalie Bertrand, INRIA Rennes Bretagne-Atlantique
-* Holger Hermanns, Saarland University
-* Peter Kriens, aQute & OSGi Alliance
-* Ken McMillan, Microsoft Research, Redmond
-
-## Programme
-
-* June 15: [DisCoTec Tools](https://www.discotec.org/2020/tutorials)
-* June 16: Coordination / DAIS / FORTE
-* June 17: Coordination / DAIS / FORTE
-* June 18: Coordination / DAIS / FORTE
-* June 19: DisCoTec Workshops
-  
-## Registration
-
-Go to the [registration page](https://www.um.edu.mt/events/discotec2020/about/_nocache).
 
 
 
