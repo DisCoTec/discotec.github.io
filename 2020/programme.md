@@ -50,4 +50,4 @@
 |*15.00-15.30*||||*break*
 |**15.30-16.00**| Formal Modeling and Analysis of Medical Systems  |    |  Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities |   
 |**16.00-16.30**|  On Implementing Symbolic Controllability  |    |  On Implementable Timed Automata| 
-|**16.30-17.00**|  Combining SLiVER with CADP to Analyze Multi-agent Systems |    |    |  
+|**16.30-16.50**|  Combining SLiVER with CADP to Analyze Multi-agent Systems |    |    |  
