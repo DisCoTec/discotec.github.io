@@ -25,26 +25,29 @@
 |Time |COORDINATION|DAIS|FORTE| | 
 |:---:|:---:|:---:|:---:|:---|
 |*11.00-11.30*||||*break*
-|**11.30-12.00**|
-|**12.00-12.30**|
+|**11.30-12.00**|    A true concurrent model of smart contracts executions    |    |     | 
+|**12.00-12.30**|   | TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores |    | 
+|**12.30-13.00**|   |    | Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory|
 |*12.30-14.00*||||*break*
-|**14.00-14.30**|
-|**14.30-15.00**|
+|**14.00-14.30**|  Renegotiation and recursion in Bitcoin contract  |  Towards hypervisor support for enhancing the performance of virtual machine introspection  |  Derivation of Heard-Of Predicates From Elementary Behavioral Patterns |
+|**14.30-15.00**|  Towards a Formally Verified EVM in Production Environment  | Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment  | Trace Equivalence and Epistemic Logic to Express Security Properties|
 |*15.00-15.30*||||*break*
-|**15.30-16.00**|
-|**16.00-16.30**|
-|**16.30-16.50**|
+|**15.30-16.00**| GoPi: Compiling linear and static channels in Go   |   Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform |   A Formal Framework for Consent Management  |
+|**16.00-16.30**| SFJ: An Implementation of Semantic Featherweight Java   |   A Comparison of Message Exchange Patterns in BFT Protocols   |   Towards Bridging Time and Causal Reversibility|
+|**16.30-16.50**| Implementation of Multiparty Session Types in Rust
 
 ## Thursday 18 June
 
 |Time |COORDINATION|DAIS|FORTE| | 
 |:---:|:---:|:---:|:---:|:---|
 |*11.00-11.30*||||*break*
-|**11.30-12.00**|
-|**12.00-12.30**|
+|**11.30-12.00**| Towards Energy-, Time- and Security-aware Multi-core Coordination |  A resource usage efficient distributed allocation algorithm for 5G Service Function Chains  |   Conformance-Based Doping Detection for Cyber-Physical Systems   | 
+|**12.00-12.30**|  ARx: Reactive Programming for Synchronous Connectors  |  A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks   |   Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego  |
 |*12.30-14.00*||||*break*
-|**14.00-14.30**|
-|**14.30-15.00**|
+|**14.00-14.20**|  Time-fluid field-based coordination   |   | Towards Deep Statistical Model Checking  |    
+|**14.20-14.40**|  Resilient Distributed Collection through Information Speed Thresholds   |   | Towards a Hybrid Verification Methodology for Communication Protocols |
+|**14.40-15.00**|   Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited |
 |*15.00-15.30*||||*break*
-|**15.30-16.00**|
-|**16.00-16.30**|
+|**15.30-16.00**| Formal Modeling and Analysis of Medical Systems  |    |  Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities |   
+|**16.00-16.30**|  On Implementing Symbolic Controllability  |    |  On Implementable Timed Automata| 
+|**16.30-17.00**|  Combining SLiVER with CADP to Analyze Multi-agent Systems |    |    |  
