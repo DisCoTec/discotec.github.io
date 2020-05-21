@@ -7,11 +7,9 @@
 The DisCoTec Tutorial Day allows researchers to promote a *mature* tool that has been under development over the last few years. 
 Tutorial session are typically *hands-on*, providing the audience with the unique opportunity to try out the tool under the supervision of those who developed it. This rewards the tool developers for the effort invested in making their tool accessible to the community, fosters cross-fertilisation across the three DisCoTec conferences, and ultimately results in a higher adoption of the presented tools.
 
-## Programme
+## Titles
 
-**Monday, June 15th**<br/>
 
-*9.00-10.30*<br/>
 ### Choreographic Development of Message-Passing Applications
 
 Choreography envisages distributed coordination as determined by interactions that allow peer components to harmoniously realise a given task. Unlike in orchestration-based coordination, there is no special component directing the execution. 
@@ -20,9 +18,9 @@ Recently choreographic approaches became popular in industrial contexts where re
 *Biography:* 
 Emilio Tuosto is an associate professor at the Gran Sasso Science Institue and the University of Leicester. He graduated (1998) and got his PhD degree in Computer Science (2003) at the department of Computer Science, University of Pisa. Before joining Leicester, he has been a research associate (2003-2005) at the Dipartimento di Informatica (University of Pisa). Emilio Tuosto's main research interests are in theoretical and applied aspects of complex distributed systems. Recently he has been working on automata- and behavioural type-based models of distributed choreographies, contract-based models of distributed interactions, and their application to software engineering of distributed and concurrent systems.
 
-<br/><br/>
+<br/>
+<br/>
 
-*10.30-12.00*<br/>
 ### Parameterized Verification with Byzantine Model Checker
 
 Threshold guards are a basic primitive of many fault-tolerant algorithms that
@@ -53,20 +51,24 @@ algorithms. Before joining Informal Systems and Interchain Foundation, Igor
 Konnov worked as a researcher at Inria Nancy (France) and as a postdoc at TU
 Wien (Austria). He received his MSc and PhD in Applied Mathematics and Computer
 Science from Lomonosov Moscow State University (Russia) in 2003 and 2009. In
-2019, Igor received his Habilitation from TU Wien (Austria). 
-<br/><br/>
-*13.00-14.00*<br/> 
+2019, Igor received his Habilitation from TU Wien (Austria).
+
+<br/>
+<br/>
+
 ### CHOReVOLUTION IDRE: An Integrated Development and Run-time Environment for Automatically Realizing and Executing Distributed Applications.
 
-Since late 70’s, the development of concurrent and distributed systems has been receiving much attention from the research community. Choreographies are a form of distributed composition that model the external interaction of the participant services by specifying peer-to-peer message exchanges from a global perspective. When third-party services are to be composed, obtaining the distributed coordination logic required to enforce the realizability of the specified choreography is a non-trivial and error prone task. Automatic support is then needed. CHOReVOLUTION is a platform for the tool-assisted development and execution of choreography-based applications that leverage the distributed collaboration of services specified through service choreographies. It offers an Integrated Development and Runtime Environment (IDRE) comprising a wizard-aided development environment, a system monitoring console, and a back-end for managing the deployment and execution of the system. The tutorial introduces the fundamentals of service choreographies and the CHOReVOLUTION approach as first. Then the introduction of the approach is followed by hands on exercises, where every attendee takes part in developing sample choreography-based distributed applications by using the CHOReVOLUTION IDRE.<br/> 
+Since late 70’s, the development of concurrent and distributed systems has been receiving much attention from the research community. Choreographies are a form of distributed composition that model the external interaction of the participant services by specifying peer-to-peer message exchanges from a global perspective. When third-party services are to be composed, obtaining the distributed coordination logic required to enforce the realizability of the specified choreography is a non-trivial and error prone task. Automatic support is then needed. CHOReVOLUTION is a platform for the tool-assisted development and execution of choreography-based applications that leverage the distributed collaboration of services specified through service choreographies. It offers an Integrated Development and Runtime Environment (IDRE) comprising a wizard-aided development environment, a system monitoring console, and a back-end for managing the deployment and execution of the system. The tutorial introduces the fundamentals of service choreographies and the CHOReVOLUTION approach as first. Then the introduction of the approach is followed by hands on exercises, where every attendee takes part in developing sample choreography-based distributed applications by using the CHOReVOLUTION IDRE.
+<br/> 
 <br/>
 *Biography:* Massimo Tivoli and Marco Autili are both associate professors at the Department of Information Engineering, Computer Science, and Mathematics – University of L’Aquila. 
 Massimo's research focuses on component adaptation and coordination, connector synthesis, software model elicitation, and choreography synthesis. He received a PhD in computer science from the University of L’Aquila. He is co-author of more than 90 publications in leading international scientific journals and conference proceedings in the software engineering domain. He has been scientific coordinator of the EU H2020 CHOReVOLUTION project, and has been involved in several other international research projects with different leading roles. Massimo is, and has been, in the program committees of several international conferences. 
 Marco's research focusses on automated software synthesis for composing complex distributed systems, from system architecture to integration code, from coordination to protocol mediation/adaptation. He also works in modeling and analysis of complex distributed systems, automated synthesis of context-aware (mobile) applications, resource-oriented analysis of adaptable (mobile) applications and formal specification and checking of temporal properties. Recently, he is working on the definition of architectural patterns for creating robust, reliable and efficient microservice-based systems, and on the definition of methods and techniques to transform a monolithic system to a microservice-based one.
 The development team of CHOReVOLUTION IDRE includes also Amleto Di Salle and Claudio Pompilio.
+
 <br/>
 <br/>
-*14.30-16.00*
+
 ### The Probabilistic Model Checker Storm 
 
 We present the probabilistic model checker Storm.
@@ -91,9 +93,9 @@ http://www.stormchecker.org/ and our recent paper https://arxiv.org/abs/2002.070
 *Biography:* Storm is developed at the Software Modeling and Verification group at RWTH
 Aachen University since 2012. The principal developers of Storm are Christian
 Hensel, Sebastian Junges, Joost-Pieter Katoen, Tim Quatmann and Matthias Volk.
+
 <br/> 
 <br/>
-*14.30 -16.00*
 
 ### Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems
 
@@ -104,9 +106,9 @@ By the end of this tutorial, attendants will be able to apply these tools in the
 <br/>
 *Biography:* Miguel Matos is an assistant professor at the Engineering School of the University of Lisbon (Instituto Superior Técnico) and a Senior Researcher at INESC-ID.His research interests lie in the area of distributed systems, in the subjects of scalability, performance, correctness and systems evaluation. In particular, he is conducting research in blockchain and related problems,consistency and scalability in large scale databases, systems evaluation under faults and experimental reproducibility. His work has been published in venues such as TPDS, JPDC, Eurosys, IPDPS, Middleware, SRDS and DAIS.
 The presented work is the result of joint work between Miguel's team at U. Lisboa, Portugal and researchers from U. of Neuchâtel, Switzerland.
+
 <br/>
 <br/>
-*16.30-18.00*
 
 ### Typechecking Java protocols with Mungo/StMungo
 
