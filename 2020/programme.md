@@ -448,7 +448,5 @@ by Kiraku Minami<br/><br/>
 *(session chair: TBA)*
 
   
-- *A Formal Framework for Consent Management*
-    by Shukun Tokas and Olaf Owe
-- *Towards Bridging Time and Causal Reversibility*
-   by Claudio Antares Mezzina and Marco Bernardo
+- *A Formal Framework for Consent Management* <br/> by Shukun Tokas and Olaf Owe
+- *Towards Bridging Time and Causal Reversibility* <br/> by Claudio Antares Mezzina and Marco Bernardo
