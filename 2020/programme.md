@@ -43,10 +43,10 @@
 |*11.00-11.30*||||*break*
 |**11.30-12.00**| Towards Energy-, Time- and Security-aware Multi-core Coordination |  A resource usage efficient distributed allocation algorithm for 5G Service Function Chains  |   Conformance-Based Doping Detection for Cyber-Physical Systems   | 
 |**12.00-12.30**|  ARx: Reactive Programming for Synchronous Connectors  |  A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks   |   Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego  |
-|*12.30-14.00*||||*break*
-|**14.00-14.20**|  Time-fluid field-based coordination   |   | Towards Deep Statistical Model Checking  |    
-|**14.20-14.40**|  Resilient Distributed Collection through Information Speed Thresholds   |   | Towards a Hybrid Verification Methodology for Communication Protocols |
-|**14.40-15.00**|   Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited |
+|*12.30-13.30*||||*break*
+|**13.30-14.00**|  Time-fluid field-based coordination   |   | 
+|**14.00-14.30**|  Resilient Distributed Collection through Information Speed Thresholds   |   |    Towards Deep Statistical Model Checking  |    
+|**14.30-15.00**|   Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited |   Towards a Hybrid Verification Methodology for Communication Protocols |
 |*15.00-15.30*||||*break*
 |**15.30-16.00**| Formal Modeling and Analysis of Medical Systems  |    |  Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities |   
 |**16.00-16.30**|  On Implementing Symbolic Controllability  |    |  On Implementable Timed Automata| 
