@@ -16,7 +16,7 @@
 ## Tuesday 16 June
 
 ### Invited Talk
-**10.00-11.00:** &nbsp;  *Peter Kriens*  &nbsp;  Formal Specifications to Increase Understanding 
+**10.00-11.00:** &nbsp; &nbsp;  *Peter Kriens*  &nbsp;  Formal Specifications to Increase Understanding 
 
 |Time |COORDINATION|DAIS|FORTE|  
 |:---:|:---:|:---:|:---:|
@@ -36,7 +36,7 @@
 ## Wednesday 17 June
 
 ### Invited Talk
-**10.00-11.00:** &nbsp;  *Nathalie Bertrand*  &nbsp;  Probabilistic threshold automata for modeling and verifying randomized
+**10.00-11.00:** &nbsp; &nbsp;  *Nathalie Bertrand*  &nbsp;  Probabilistic threshold automata for modeling and verifying randomized
 distributed algorithms
 
 
@@ -57,7 +57,7 @@ distributed algorithms
 ## Thursday 18 June
 
 ### Invited Talk
-**10.00-11.00:** &nbsp;  *Holger Hermanns*  &nbsp;  Power-Optimal Scheduling of LEO Satellite Networks
+**10.00-11.00:** &nbsp; &nbsp;  *Holger Hermanns*  &nbsp;  Power-Optimal Scheduling of LEO Satellite Networks
 
 
 |Time |COORDINATION|DAIS|FORTE| | 
@@ -73,3 +73,90 @@ distributed algorithms
 |**15.30-16.00**| Formal Modeling and Analysis of Medical Systems  |    |  Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities |   
 |**16.00-16.30**|  On Implementing Symbolic Controllability  |    |  On Implementable Timed Automata| 
 |**16.30-17.00**|  Combining SLiVER with CADP to Analyze Multi-agent Systems |    |    |  
+
+
+
+
+
+
+## Coordination accepted papers and programme
+
+### Joint session: Best Papers
+
+*A true concurrent model of smart contracts executions* <br/>
+by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia <br/> <br/>
+
+### Coordination Session #1: Modelling (session chair: TBA)
+
+*Operational representation of dependencies in Context-Dependent Event Structures* <br/> 
+by G. Michele Pinna <br/> <br/>
+*Architecture modelling of parametric component-based systems* <br/>
+by Maria Pittou and George Rahonis <br/> <br/>
+
+
+### Coordination Session #2:  (session chair: TBA)
+
+*Weighted PCL over product valuation monoids* <br/>
+by Vagia Karyoti and Paulina Paraponiari <br/><br/>
+*A Choreography-Driven Approach to APIs: the OpenDXL Case Study* <br/>
+by Leonardo Frittelli, Facundo Maldonado, Hernan Melgratti and Emilio Tuosto <br/> <br/>
+
+### Coordination Session #3:  (session chair: TBA)
+
+*Choreography Automata* <br/>
+by Franco Barbanera, Ivan Lanese and Emilio Tuosto
+<br/><br/>
+*Team Automata@Work: On Safe Communication* (Short paper) <br/>
+by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn  <br/><br/>
+*Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices*  (Short paper)<br/>
+by Espen Tønnessen Nordli, Phu H. Nguyen, Franck Chauvel and Hui Song <br/><br/>
+*Quality of Service ranking by quantifying partial compliance of requirements* (Short paper) <br/>
+by Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo <br/><br/>
+
+### Coordination Session #4:  (session chair: TBA)
+
+*Renegotiation and recursion in Bitcoin contracts* 
+<br/>
+by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino <br/><br/>
+*Towards a Formally Verified EVM in Production Environment* (Short paper) <br/>
+by Xiyue Zhang, Yi Li and Meng Sun <br/><br/>
+
+### Coordination Session #5: Tools (session chair: TBA)
+
+
+*GoPi: Compiling linear and static channels in Go* (Tool paper) <br/>
+by Marco Giunti <br/> <br/>
+*SFJ: An Implementation of Semantic Featherweight Java* (Tool paper) <br/>
+by Artem Usov and Ornela Dardha <br/><br/>
+*Implementation of Multiparty Session Types in Rust* (Short paper) <br/>
+by Nicolas Lagaillardie, Rumyana Neykova and Nobuko Yoshida <br/><br/>
+
+
+### Coordination Session #6: Coordination Languages (session chair: TBA)
+
+*Towards Energy-, Time- and Security-aware Multi-core Coordination* <br/>
+by Julius Roeder, Benjamin Rouxel, Sebastian Altmeyer and Clemens Grelck
+<br/><br/>
+*ARx: Reactive Programming for Synchronous Connectors* (Tool paper)<br/>
+by José Proença and Guillermina Cledou <br/><br/>
+
+
+### Coordination Session #7: Large-scale Decentralised Systems (session chair: TBA)
+
+*Time-fluid field-based coordination* <br/>
+by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli <br/><br/>
+*Resilient Distributed Collection through Information Speed Thresholds* <br/>
+by Giorgio Audrito, Sergio Bergamini, Ferruccio Damiani and Mirko Viroli <br/><br/>
+*Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited* (Short paper) <br/> 
+by Nicolas Gast, Diego Latella and Mieke Massink <br/><br/>
+
+### Coordination Session #8: Verification & analysis
+ (session chair: TBA)
+
+*Formal Modeling and Analysis of Medical Systems* <br/>
+by Mahsa Zarneshan, Fatemeh Ghassemi and Marjan Sirjani <br/><br/>
+*On Implementing Symbolic Controllability* <br/>
+by Adrian Francalanza and Jasmine Xuereb <br/><br/>
+*Combining SLiVER with CADP to Analyze Multi-agent Systems* (Tool paper) <br/> 
+by Luca Di Stefano, Frédéric Lang and Wendelin Serwe <br/><br/>
+
