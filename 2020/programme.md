@@ -79,8 +79,8 @@ distributed algorithms
 |**14.00-14.30**| [Renegotiation and recursion in Bitcoin contract](#hyper-ledgers-and-virtual-machines) | [Towards hypervisor support for enhancing the performance of virtual machine introspection](#cloud-and-systems) | [Derivation of Heard-Of Predicates From Elementary Behavioral Patterns](#program-logics) |
 |**14.30-15.00**| [Towards a Formally Verified EVM in Production Environment](#hyper-ledgers-and-virtual-machines) | [Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment](#cloud-and-systems) | [Trace Equivalence and Epistemic Logic to Express Security Properties](#program-logics) |
 |*15.00-15.30*||||*break*|
-|**15.30-16.00**| [GoPi: Compiling linear and static channels in Go](#tools) | [Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform](#fault-tolerance-and-reproducibilty) | A Formal Framework for Consent Management |
-|**16.00-16.30**| [SFJ: An Implementation of Semantic Featherweight Java](#tools) | [A Comparison of Message Exchange Patterns in BFT Protocols](#fault-tolerance-and-reproducibilty) | Towards Bridging Time and Causal Reversibility|
+|**15.30-16.00**| [GoPi: Compiling linear and static channels in Go](#tools) | [Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform](#fault-tolerance-and-reproducibilty) | [A Formal Framework for Consent Management](#formal-frameworks) |
+|**16.00-16.30**| [SFJ: An Implementation of Semantic Featherweight Java](#tools) | [A Comparison of Message Exchange Patterns in BFT Protocols](#fault-tolerance-and-reproducibilty) | [Towards Bridging Time and Causal Reversibility](#formal-frameworks)  |
 |**16.30-16.50**| [Implementation of Multiparty Session Types in Rust](#tools)|
 
 <br/>
@@ -105,15 +105,15 @@ distributed algorithms
 |Time |COORDINATION|DAIS|FORTE| |
 |:---:|:---:|:---:|:---:|:---|
 |*11.00-11.30*||||*break*|
-|**11.30-12.00**| [Towards Energy-, Time- and Security-aware Multi-core Coordination](#coordination-languages) | [A resource usage efficient distributed allocation algorithm for 5G Service Function Chains](#distributed-algorithms) | Conformance-Based Doping Detection for Cyber-Physical Systems |
-|**12.00-12.30**| [ARx: Reactive Programming for Synchronous Connectors](#coordination-languages) | [A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks](#distributed-algorithms) | Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego |
+|**11.30-12.00**| [Towards Energy-, Time- and Security-aware Multi-core Coordination](#coordination-languages) | [A resource usage efficient distributed allocation algorithm for 5G Service Function Chains](#distributed-algorithms) | [Conformance-Based Doping Detection for Cyber-Physical Systems](#verification-1) |
+|**12.00-12.30**| [ARx: Reactive Programming for Synchronous Connectors](#coordination-languages) | [A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks](#distributed-algorithms) | [Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego](#verification-1)  |
 |*12.30-13.30*||||*break*|
 |**13.30-14.00**| [Time-fluid field-based coordination](#large-scale-decentralised-systems) | |
-|**14.00-14.30**| [Resilient Distributed Collection through Information Speed Thresholds](#large-scale-decentralised-systems) | | Towards Deep Statistical Model Checking |
-|**14.30-15.00**| [Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited](#large-scale-decentralised-systems) | | Towards a Hybrid Verification Methodology for Communication Protocols |
+|**14.00-14.30**| [Resilient Distributed Collection through Information Speed Thresholds](#large-scale-decentralised-systems) | | [Towards Deep Statistical Model Checking](#verification-2) |
+|**14.30-15.00**| [Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited](#large-scale-decentralised-systems) | | [Towards a Hybrid Verification Methodology for Communication Protocols](#verification-2) |
 |*15.00-15.30*||||*break*|
-|**15.30-16.00**| [Formal Modeling and Analysis of Medical Systems](#verification-and-analysis) | | Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities |
-|**16.00-16.30**| [On Implementing Symbolic Controllability](#verification-and-analysis) | | On Implementable Timed Automata|
+|**15.30-16.00**| [Formal Modeling and Analysis of Medical Systems](#verification-and-analysis) | | [Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities](#timed-automata) |
+|**16.00-16.30**| [On Implementing Symbolic Controllability](#verification-and-analysis) | | [On Implementable Timed Automata](#timed-automata)  |
 |**16.30-17.00**| [Combining SLiVER with CADP to Analyze Multi-agent Systems](#verification-and-analysis) | | |
 
 <br/>
@@ -298,3 +298,26 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
   
 - *A Formal Framework for Consent Management* <br/> by Shukun Tokas and Olaf Owe
 - *Towards Bridging Time and Causal Reversibility* <br/> by Claudio Antares Mezzina and Marco Bernardo
+
+### Verification 1
+ 
+*(session chair: TBA)*
+ 
+- *Conformance-Based Doping Detection for Cyber-Physical Systems* <br/> by Rayna Dimitrova, Maciej Gazda, Mohammadreza Mousavi, Sebastian Biewer and Holger Hermanns
+- *Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego* <br/> by Davide Basile, Maurice H. ter Beek and Axel Legay
+
+### Verification 2
+
+*(session chair: TBA)*
+
+- *Towards Deep Statistical Model Checking* <br/> Michaela Klauck, Timo P. Gros, Marcel Steinmetz, Jörg Hoffmann and Holger Hermanns
+-  *Towards a Hybrid Verification Methodology for Communication Protocols* <br/> Christian Bartolo Burlo, Adrian Francalanza and Alceste Scalas
+
+
+### Timed Automata
+
+*(session chair: TBA)*
+
+
+-  *Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities* <br/> Jeremy Sproston
+-  *On Implementable Timed Automata* <br/> Sergio Feo-Arenis, Milan Vujinovic and Bernd Westphal
