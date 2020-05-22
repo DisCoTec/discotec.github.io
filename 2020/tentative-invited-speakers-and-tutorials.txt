@@ -330,21 +330,3 @@ Find hosts
 
 
 
-14.00 - 15.00   Adam Shimi, Aurélie Hurault and Philippe Queinnec. Derivation of Heard-Of Predicates From Elementary Behavioral Patterns
-                        Kiraku Minami. Trace Equivalence and Epistemic Logic to Express Security Properties
-15.00 - 15.30   break
-15.30 - 16.30   Shukun Tokas and Olaf Owe. A Formal Framework for Consent Management
-                        Claudio Antares Mezzina and Marco Bernardo. Towards Bridging Time and Causal Reversibility
-
-Thursday 18/6/2020
-
-10.00 - 11.00   Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks
-11.00 - 11.30   break
-11.30 - 12.30   Rayna Dimitrova, Maciej Gazda, Mohammadreza Mousavi, Sebastian Biewer and Holger Hermanns. Conformance-Based Doping Detection for Cyber-Physical Systems
-                        Davide Basile, Maurice H. ter Beek and Axel Legay. Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego
-12.30 - 14.00   break
-14.00 - 15.00   Michaela Klauck, Timo P. Gros, Marcel Steinmetz, Jörg Hoffmann and Holger Hermanns. Towards Deep Statistical Model Checking
-                        Christian Bartolo Burlo, Adrian Francalanza and Alceste Scalas. Towards a Hybrid Verification Methodology for Communication Protocols
-15.00 - 15.30   break
-15.30 - 16.30   Jeremy Sproston. Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities
-                        Sergio Feo-Arenis, Milan Vujinovic and Bernd Westphal. On Implementable Timed Automata

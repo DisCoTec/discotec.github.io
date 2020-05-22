@@ -28,7 +28,7 @@
 
 ### Invited Talk
 
-**10.00-11.00:** &nbsp;  &nbsp; *Peter Kriens* &nbsp; Formal Specifications to Increase Understanding
+**10.00-11.00:** &nbsp;  &nbsp; *Peter Kriens* &nbsp; [Formal Specifications to Increase Understanding](invited#peter-kriens)
 
   
 
