@@ -8,15 +8,16 @@
 
 ## Monday 15 June
 
-  
+### Tutorials 
 
-|Time |Track 1| Track 2|
+
+|Time |Distributed Computing Track| Verification Track|
 |:---:|:---:|:---:|
-|**10.30-12.00**| Choreographic Development of Message-Passing Applications | Parameterized Verification with Byzantine Model Checker |
+|**10.30-12.00**| [Choreographic Development of Message-Passing Applications](tutorials#choreographic-development-of-message-passing-applications) | [Parameterized Verification with Byzantine Model Checker](https://www.discotec.org/2020/tutorials#parameterized-verification-with-byzantine-model-checker) |
 |*12.00-13.30*| *break* | *break*|
-|**13.30-15.00**| CHOReVOLUTION IDRE: An Integrated Development and Run-time Environment for Automatically Realizing and Executing Distributed Applications | The Probabilistic Model Checker Storm|
+|**13.30-15.00**| [CHOReVOLUTION IDRE: An Integrated Development and Run-time Environment for Automatically Realizing and Executing Distributed Applications](tutorials#chorevolution-idre-an-integrated-development-and-run-time-environment-for-automatically-realizing-and-executing-distributed-applications)   |    [The Probabilistic Model Checker Storm](tutorials#the-probabilistic-model-checker-storm)   |
 |*15.00-15.30*| *break* | *break*|
-|**15.30-17.00**| Typechecking Java protocols with Mungo/StMungo | Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems|
+|**15.30-17.00**|  [Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems](tutorials#kollapsthunderstorm-reproducible-evaluation-of-distributed-systems)   |  [Typechecking Java protocols with Mungo/StMungo](tutorials#typechecking-java-protocols-with-mungostmungo)   |
 
 <br/>
   
