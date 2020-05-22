@@ -60,9 +60,7 @@
 
 ### Invited Talk
 
-**10.00-11.00:** &nbsp;  &nbsp; *Nathalie Bertrand* &nbsp; Probabilistic threshold automata for modeling and verifying randomized
-
-distributed algorithms
+**10.00-11.00:** &nbsp;  &nbsp; *Nathalie Bertrand* &nbsp; [Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand)
 
   
 
@@ -94,7 +92,7 @@ distributed algorithms
 
 ### Invited Talk
 
-**10.00-11.00:** &nbsp;  &nbsp; *Holger Hermanns* &nbsp; Power-Optimal Scheduling of LEO Satellite Networks
+**10.00-11.00:** &nbsp;  &nbsp; *Holger Hermanns* &nbsp; [Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns)
 
   
 

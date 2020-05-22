@@ -25,9 +25,9 @@ The DisCoTeC organisation committee has decided that, due to the current COVID-1
 
 ## Keynote Speakers
 
-* Nathalie Bertrand, INRIA Rennes Bretagne-Atlantique
-* Holger Hermanns, Saarland University
-* Peter Kriens, aQute & OSGi Alliance
+* [Nathalie Bertrand](invited#nathalie-bertrand), INRIA Rennes Bretagne-Atlantique
+* [Holger Hermanns](invited#holger-hermanns), Saarland University
+* [Peter Kriens](invited#peter-kriens), aQute & OSGi Alliance
 
 ## Programme
 
