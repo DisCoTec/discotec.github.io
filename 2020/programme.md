@@ -75,8 +75,8 @@
 |**12.00-12.30**| | [TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores](#dais-best-paper) | |
 |**12.30-13.00**| | | [Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory](#forte-best-paper)|
 |*13.00-14.00*||||*break*
-|**14.00-14.30**| [Renegotiation and recursion in Bitcoin contract](#smart-contracts) | [Towards hypervisor support for enhancing the performance of virtual machine introspection](#cloud-and-systems) | [Derivation of Heard-Of Predicates From Elementary Behavioral Patterns](#program-logics) |
-|**14.30-15.00**| [Towards a Formally Verified EVM in Production Environment](#smart-contracts) | [Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment](#cloud-and-systems) | [Trace Equivalence and Epistemic Logic to Express Security Properties](#program-logics) |
+|**14.00-14.30**| [Renegotiation and recursion in Bitcoin contract](#digital-contracts) | [Towards hypervisor support for enhancing the performance of virtual machine introspection](#cloud-and-systems) | [Derivation of Heard-Of Predicates From Elementary Behavioral Patterns](#program-logics) |
+|**14.30-15.00**| [Towards a Formally Verified EVM in Production Environment](#digital-contracts) | [Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment](#cloud-and-systems) | [Trace Equivalence and Epistemic Logic to Express Security Properties](#program-logics) |
 |*15.00-15.30*||||*break*|
 |**15.30-16.00**| [GoPi: Compiling linear and static channels in Go](#communications-types--implementations) | [Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform](#fault-tolerance-and-reproducibilty) | [A Formal Framework for Consent Management](#formal-frameworks) |
 |**16.00-16.30**| [SFJ: An Implementation of Semantic Featherweight Java](#communications-types--implementations) | [A Comparison of Message Exchange Patterns in BFT Protocols](#fault-tolerance-and-reproducibilty) | [Towards Bridging Time and Causal Reversibility](#formal-frameworks)  |
@@ -158,7 +158,7 @@
 
   
 
-### Smart contracts
+### Digital contracts
 
 *(session chair: TBA)*
 
