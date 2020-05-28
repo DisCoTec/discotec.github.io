@@ -226,7 +226,7 @@
 
 ### Privacy and Security
 
-*(session chair: TBA)*
+*(session chair: Sonia Ben Mokthar)*
 
 - *On the trade-offs of combining multiple secure processing primitives for data analytics* </br> by Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira
 - *Capturing Privacy-preserving User Contexts with IndoorHash* <br/> Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment
@@ -242,7 +242,7 @@ Luis Ferreira, Fábio André Coelho and Jose Pereira
 
 ### Cloud and Systems
 
-*(session chair: Valerio Sciavoni)*
+*(session chair: Valerio Schiavoni)*
 
   
 - *Towards hypervisor support for enhancing the performance of virtual machine introspection* <br/> Benjamin Taubmann and Hans P. Reiser
