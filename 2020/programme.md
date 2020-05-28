@@ -242,7 +242,7 @@ Luis Ferreira, Fábio André Coelho and Jose Pereira
 
 ### Cloud and Systems
 
-*(session chair: TBA)*
+*(session chair: Valerio Sciavoni)*
 
   
 - *Towards hypervisor support for enhancing the performance of virtual machine introspection* <br/> Benjamin Taubmann and Hans P. Reiser
@@ -251,7 +251,7 @@ Luis Ferreira, Fábio André Coelho and Jose Pereira
 
 ### Fault-tolerance and Reproducibilty
 
-*(session chair: TBA)*
+*(session chair: Hans Reiser)*
 
 
 - *Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform* (Experience Report)<br/> João Abreu, Ana Nunes Alonso, David Nunes, Jose Pereira, Luiz Santos, Tércio Soares and Andre Vieira
@@ -260,7 +260,7 @@ Luis Ferreira, Fábio André Coelho and Jose Pereira
 
 ### Distributed Algorithms
 
-*(session chair: TBA)*
+*(session chair: Anne Remke)*
 
   
 
