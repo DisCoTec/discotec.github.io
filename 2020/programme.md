@@ -234,7 +234,7 @@
 
 ### ML for Systems
 
-*(session chair: TBA)*
+*(session chair: Vana Kalogeraki)*
 
 - *Self-Tunable DBMS Replication with Reinforcement Learning* <br/>
 Luis Ferreira, Fábio André Coelho and Jose Pereira
