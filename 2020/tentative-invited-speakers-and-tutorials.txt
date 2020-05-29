@@ -328,5 +328,130 @@ use Zoom webinars
 Find hosts
 
 
+FORTE Emails
+
+2	Kiraku Minami kminami@kurims.kyoto-u.ac.jp	Japan	Kyoto University
+3	Shukun Tokas	shukunt@ifi.uio.no	Norway	University of Oslo, Norway
+3	Olaf Owe	olaf@ifi.uio.no	Norway	Universitity of Oslo
+8	Rayna Dimitrova	dimitrova.rayna@gmail.com	United Kingdom	University of Sheffield
+8	Maciej Gazda	mg410@leicester.ac.uk	Ireland	University of Leicester
+8	Mohammadreza Mousavi	mm789@leicester.ac.uk	United Kingdom	University of Leicester
+8	Sebastian Biewer	biewer@depend.uni-saarland.de	Germany	Saarland University
+8	Holger Hermanns	hermanns@cs.uni-saarland.de	Germany	Saarland University
+9	Sergio Feo-Arenis	sergio.feo@gmail.com	Germany	Airbus
+9	Milan Vujinovic	milan.vujinovic@gmx.de	Germany	Daimler AG
+9	Bernd Westphal	westphal@informatik.uni-freiburg.de	Germany	Albert-Ludwigs-Universität Freiburg
+11	Claudio Antares Mezzina	cmezzina@gmail.com	Italy	Università di Urbino, Italy
+11	Marco Bernardo	marco.bernardo@uniurb.it	Italy	Università di Urbino, Italy
+18	Jeremy Sproston	sproston@di.unito.it	Italy	University of Turin
+20	Adam Shimi	adam.shimi@irit.fr	France	IRIT
+20	Aurélie Hurault	aurelie.hurault@irit.fr	France	IRIT
+20	Philippe Queinnec	Philippe.Queinnec@enseeiht.fr	France	IRIT - Université de Toulouse
+21	Michaela Klauck	klauck@depend.uni-saarland.de	Germany	Dependable System and Software, Saarland University, Saarland Informatics Campus
+21	Timo P. Gros	timopgros@cs.uni-saarland.de	Germany	Saarland University, Saarland Informatics Campus
+21	Marcel Steinmetz	steinmetz@cs.uni-saarland.de	Germany	Saarland University, Saarland Informatics Campus
+21	Jörg Hoffmann	hoffmann@cs.uni-saarland.de	Germany	Saarland University, Saarland Informatics Campus
+21	Holger Hermanns	hermanns@cs.uni-saarland.de	Germany	Saarland University, Saarland Informatics Campus
+26	Davide Basile	davide.basile@isti.cnr.it	Italy	ISTI CNR Pisa
+26	Maurice H. ter Beek	maurice.terbeek@isti.cnr.it	Italy	ISTI-CNR, Pisa, Italy
+26	Axel Legay	axel.legay@uclouvain.be	Belgium	UCLouvain
+28	Christian Bartolo Burlo	christian.bartolo.16@um.edu.mt	Malta	University of Malta
+28	Adrian Francalanza	adrian.francalanza@um.edu.mt	Malta	University of Malta
+28	Alceste Scalas	a.scalas@aston.ac.uk	United Kingdom	Aston University
+29	Eleni Bila	e.vafeiadibila@surrey.ac.uk	United Kingdom	The University of Surrey
+29	Simon Doherty	s.doherty@sheffield.ac.uk	United Kingdom	The University of Sheffield
+29	Brijesh Dongol	b.dongol@surrey.ac.uk	United Kingdom	University of Surrey
+29	John Derrick	J.Derrick@sheffield.ac.uk	United Kingdom	Unversity of Sheffield
+29	Gerhard Schellhorn	schellhorn@informatik.uni-augsburg.de	Germany	Universitaet Augsburg
+29	Heike Wehrheim	wehrheim@uni-paderborn.de	Germany	University of Paderborn
+
+
+------------------------------
+(1) CHOReVOLUTION: Hands-on In-service Training for Choreography-based Systems
+Marco Autili <marco.autili@univaq.it>, Massimo Tivoli <massimo.tivoli@univaq.it>
+------------------------------
+(18) Choreographic Development of Message-Passing Applications
+Alex Coto <alex.coto@gssi.it>, Emilio Tuosto <emilio.tuosto@gssi.it>
+------------------------------
+(35) ARx: Reactive Programming for Synchronous Connectors
+José Proença <jose@proenca.org>, Guillermina Cledou <guillecledou@gmail.com>
+------------------------------
+(53) Towards Energy-, Time- and Security-aware Multi-core Coordination
+Clemens Grelck <c.grelck@uva.nl>
+------------------------------
+(71) Team Automata@Work: On Safe Communication
+Maurice H. ter Beek <maurice.terbeek@isti.cnr.it>
+------------------------------
+(80) Choreography Automata
+Franco Barbanera <barba@dmi.unict.it>, Emilio Tuosto <emilio.tuosto@gssi.it>
+------------------------------
+(102) A Choreography-Driven Approach to APIs: the OpenDXL Case Study
+Hernan Melgratti <hmelgra@dc.uba.ar>, Emilio Tuosto <emilio.tuosto@gssi.it>
+------------------------------
+(120) Implementation of Multiparty Session Types in Rust
+Nicolas Lagaillardie <n.lagaillardie19@imperial.ac.uk>, Nobuko Yoshida <n.yoshida@imperial.ac.uk>
+------------------------------
+(130) GoPi: Compiling linear and static channels in Go
+Marco Giunti <marco.giunti@gmail.com>
+------------------------------
+(146) SFJ: An Implementation of Semantic Featherweight Java
+Artem Usov <2296905U@student.gla.ac.uk>, Ornela Dardha <ornela.dardha@gmail.com>
+------------------------------
+(161) Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices
+Phu H. Nguyen <Phu.Nguyen@sintef.no>
+------------------------------
+(171) Quality of Service ranking by quantifying partial compliance of requirements
+Agustín Eloy Martinez Suñé <aemartinez@dc.uba.ar>, Carlos Gustavo Lopez Pombo <clpombo@dc.uba.ar>
+------------------------------
+(180) Time-fluid field-based coordination
+Danilo Pianini <danilo.pianini@unibo.it>, 
+------------------------------
+(198) Resilient Distributed Collection through Information Speed Thresholds
+Giorgio Audrito <giorgio.audrito@unito.it>, Mirko Viroli <mirko.viroli@unibo.it>
+------------------------------
+(216) Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited
+Nicolas Gast <nicolas.gast@inria.fr>, Mieke Massink <mieke.massink@isti.cnr.it>
+------------------------------
+(226) A true concurrent model of smart contracts executions
+Massimo Bartoletti <bart@unica.it>, Letterio Galletta <letterio.galletta@imtlucca.it>
+------------------------------
+(244) Renegotiation and recursion in Bitcoin contracts
+Massimo Bartoletti <bart@unica.it>, Maurizio Murgia <maurizio.murgia@unitn.it>
+------------------------------
+(262) Architecture modelling of parametric component-based systems
+George Rahonis <grahonis@math.auth.gr>
+------------------------------
+(281) Weighted PCL over product valuation monoids
+Vagia Karyoti <vagiakaryo@math.auth.gr>, Paulina Paraponiari <parapavl@math.auth.gr>
+------------------------------
+(299) Operational representation of dependencies in  Context-Dependent Event Structures
+G. Michele Pinna <gmpinna@unica.it>
+------------------------------
+(318) Towards a Formally Verified EVM in Production Environment
+Meng Sun <sunmeng@math.pku.edu.cn>
+------------------------------
+(327) On Implementing Symbolic Controllability
+Adrian Francalanza <adrian.francalanza@um.edu.mt>, Jasmine Xuereb <jasmine.xuereb.15@um.edu.mt>
+------------------------------
+(346) Combining SLiVER with CADP to Analyze Multi-agent Systems
+Luca Di Stefano <luca.distefano@gssi.it>
+------------------------------
+(361) Formal Modeling and  Analysis of Medical Systems
+Mahsa Zarneshan <m.zarneshan@ut.ac.ir>, Fatemeh Ghassemi <fa.ghassemi@gmail.com>
+
+
+Contact author'e email	Paper title
+hugo.a.carvalho@inesctec.pt	On the trade-offs of combining multiple secure processing primitives for data analytics
+lakhdar.meftah@inria.fr	Capturing Privacy-preserving User Contexts with IndoorHash
+bt@sec.uni-passau.de 	Towards hypervisor support for enhancing the performance of virtual machine introspection
+tzouros@aueb.gr	Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment
+v.jaiman@maastrichtuniversity.nl	TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores
+ana.n.alonso@inesctec.pt	Building a Polyglot Data Access Layer for a Low-Code Application Development Platform (Experience Report)
+fabio.l.silva@inesctec.pt	A Comparison of Message Exchange Patterns in BFT Protocols (Experience Report)
+miguel.marques.matos@tecnico.ulisboa.pt	Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems
+fabio.a.coelho@inesctec.pt 	Self-Tunable DBMS Replication with Reinforcement Learning
+louison.gitzinger@inria.fr	DroidAutoML: A microservice architecture to automate the evaluation of Android machine learning detection systems
+guillaume.fraysse@orange.com 	A resource usage efficient distributed allocation algorithm for 5G Service Function Chains
+hadid.rashid@gmail.com	Self-Stabilizing One-To-Many Node Disjoint paths Routing Algorithm in Star Networks
 
 
