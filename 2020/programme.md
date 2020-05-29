@@ -75,12 +75,12 @@
 |**12.00-12.30**| | [TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores](#dais-best-paper) | |
 |**12.30-13.00**| | | [Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory](#forte-best-paper)|
 |*13.00-14.00*||||*break*
-|**14.00-14.30**| [Renegotiation and recursion in Bitcoin contract](#digital-contracts) | [Towards hypervisor support for enhancing the performance of virtual machine introspection](#cloud-and-systems) | [Derivation of Heard-Of Predicates From Elementary Behavioral Patterns](#program-logics) |
-|**14.30-15.00**| [Towards a Formally Verified EVM in Production Environment](#digital-contracts) | [Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment](#cloud-and-systems) | [Trace Equivalence and Epistemic Logic to Express Security Properties](#program-logics) |
+|**14.00-14.30**| [GoPi: Compiling linear and static channels in Go](#communications-types--implementations) | [Towards hypervisor support for enhancing the performance of virtual machine introspection](#cloud-and-systems) | [Derivation of Heard-Of Predicates From Elementary Behavioral Patterns](#program-logics) |
+|**14.30-15.00**| [SFJ: An Implementation of Semantic Featherweight Java](#communications-types--implementations) | [Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment](#cloud-and-systems) | [Trace Equivalence and Epistemic Logic to Express Security Properties](#program-logics) |
 |*15.00-15.30*||||*break*|
-|**15.30-16.00**| [GoPi: Compiling linear and static channels in Go](#communications-types--implementations) | [Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform](#fault-tolerance-and-reproducibilty) | [A Formal Framework for Consent Management](#formal-frameworks) |
-|**16.00-16.30**| [SFJ: An Implementation of Semantic Featherweight Java](#communications-types--implementations) | [A Comparison of Message Exchange Patterns in BFT Protocols](#fault-tolerance-and-reproducibilty) | [Towards Bridging Time and Causal Reversibility](#formal-frameworks)  |
-|**16.30-16.50**| [Implementation of Multiparty Session Types in Rust](#communications-types--implementations)|
+|**15.30-16.00**| [Implementation of Multiparty Session Types in Rust](#communications-types--implementations) | [Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform](#fault-tolerance-and-reproducibilty) | [A Formal Framework for Consent Management](#formal-frameworks) |
+|**16.00-16.30**| [Renegotiation and recursion in Bitcoin contract](#digital-contracts) | [A Comparison of Message Exchange Patterns in BFT Protocols](#fault-tolerance-and-reproducibilty) | [Towards Bridging Time and Causal Reversibility](#formal-frameworks)  |
+|**16.30-16.50**| [Towards a Formally Verified EVM in Production Environment](#digital-contracts) |
 
 <br/>
 
@@ -138,7 +138,7 @@
   
 ### Modelling 2 / Message-based communication 1
 
-*(session chair: TBA)*
+*(session chair: Roberto Guanciale)*
 
   
 
@@ -148,23 +148,13 @@
   
 
 ### Message-based communication 2 / Microservices
-(session chair: TBA)
+(session chair: Alberto Lluch Lafuente)
   
 
 - *Choreography Automata* <br/> by Franco Barbanera, Ivan Lanese and Emilio Tuosto
 - *Team Automata@Work: On Safe Communication* (Short paper) <br/> by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn
 - *Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices* (Short paper) <br/> by Espen Tønnessen Nordli, Phu H. Nguyen, Franck Chauvel and Hui Song 
 - *Quality of Service ranking by quantifying partial compliance of requirements* (Short paper) <br/> by Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo 
-
-  
-
-### Digital contracts
-
-*(session chair: TBA)*
-
-  
-- *Renegotiation and recursion in Bitcoin contracts* <br/> by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino 
-- *Towards a Formally Verified EVM in Production Environment* (Short paper) <br/> by Xiyue Zhang, Yi Li and Meng Sun 
 
   
 
@@ -179,9 +169,19 @@
 
   
 
+### Digital contracts
+
+*(session chair: Anastasia Mavridou)*
+
+  
+- *Renegotiation and recursion in Bitcoin contracts* <br/> by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino 
+- *Towards a Formally Verified EVM in Production Environment* (Short paper) <br/> by Xiyue Zhang, Yi Li and Meng Sun 
+
+  
+
 ### Coordination Languages
 
-*(session chair: TBA)*
+*(session chair: Jean-Marie Jacquet)*
 
 - *Towards Energy-, Time- and Security-aware Multi-core Coordination* <br/> by Julius Roeder, Benjamin Rouxel, Sebastian Altmeyer and Clemens Grelck
 - *ARx: Reactive Programming for Synchronous Connectors* (Tool paper)<br/>  by José Proença and Guillermina Cledou 
@@ -191,7 +191,7 @@
 
 ### Large Scale Decentralised Systems
 
-*(session chair: TBA)*
+*(session chair: Michele Loreti)*
 
   
 - *Time-fluid field-based coordination* <br/> by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli 
@@ -202,7 +202,7 @@
 
 ### Verification and Analysis
 
-*(session chair: TBA)*
+*(session chair: Mieke Massink)*
 
 
 - *Formal Modeling and Analysis of Medical Systems* <br/> by Mahsa Zarneshan, Fatemeh Ghassemi and Marjan Sirjani 
