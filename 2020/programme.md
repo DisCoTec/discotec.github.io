@@ -69,8 +69,8 @@
 
   
 
-|Time |COORDINATION|DAIS|FORTE| |
-|:---:|:---:|:---:|:---:|:---|
+|Time |COORDINATION|DAIS|FORTE| 
+|:---:|:---:|:---:|:---:|
 |*11.00-11.30*|*break*|*break*|*break*|
 |**11.30-12.00**| [A true concurrent model of smart contracts executions](#coordination-best-paper) | | |
 |**12.00-12.30**| | [TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores](#dais-best-paper) | |
@@ -102,8 +102,8 @@
   
   
 
-|Time |COORDINATION|DAIS|FORTE| |
-|:---:|:---:|:---:|:---:|:---|
+|Time |COORDINATION|DAIS|FORTE| 
+|:---:|:---:|:---:|:---:|
 |*11.00-11.30*|*break*|*break*|*break*|
 |**11.30-12.00**| [Towards Energy-, Time- and Security-aware Multi-core Coordination](#coordination-languages) | [A resource usage efficient distributed allocation algorithm for 5G Service Function Chains](#distributed-algorithms) | [Conformance-Based Doping Detection for Cyber-Physical Systems](#verification-1) |
 |**12.00-12.30**| [ARx: Reactive Programming for Synchronous Connectors](#coordination-languages) | [A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks](#distributed-algorithms) | [Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego](#verification-1)  |
