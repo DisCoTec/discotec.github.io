@@ -149,7 +149,8 @@
   
 
 ### Message-based communication 2 / Microservices
-(session chair: Alberto Lluch Lafuente)
+
+*(session chair: Alberto Lluch Lafuente)*
   
 
 - *Choreography Automata* <br/> by Franco Barbanera, Ivan Lanese and Emilio Tuosto
@@ -161,7 +162,7 @@
 
 ### Communications: types & implementations
 
-*(session chair: TBA)*
+*(session chair: Hugo Torres Vieira)*
 
   
 - *GoPi: Compiling linear and static channels in Go* (Tool paper) <br/> by Marco Giunti
