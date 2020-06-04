@@ -130,7 +130,7 @@
 
 ### Modelling 1
 
-*(session chair: TBA)*
+*(session chair: Chiara Bodei)*
 
 
 - *Operational representation of dependencies in Context-Dependent Event Structures* <br/> by G. Michele Pinna 
