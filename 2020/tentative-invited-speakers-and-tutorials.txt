@@ -455,3 +455,60 @@ guillaume.fraysse@orange.com 	A resource usage efficient distributed allocation 
 hadid.rashid@gmail.com	Self-Stabilizing One-To-Many Node Disjoint paths Routing Algorithm in Star Networks
 
 
+Tutorial Presentations
+-----------------------
+
+
+
+Invited Speaker Presentations
+-----------------------------
+
+
+COORDINATION Presentations
+---------------------------
+
+
+Tuesday 16 June
+11.30-12.30 Modelling 1
+Chiara Bodei <chiara.bodei@unipi.it>  
+14.00-15.00 Modelling 2 / Message-based communication 1
+Roberto Guanciale <robertog@kth.se>
+15.30-17:00 Message-based communication 2 / Microservices
+Alberto Lluch Lafuente <albertolluch@gmail.com>
+Wednesday 17 June
+14.00-15.00 & 15.30-15.50 Communications: types & implementations
+Hugo Torres Vieira <hugo.torres.vieira@ubi.pt>
+16:00-16:50 Digital contracts
+Anastasia Mavridou <anastasia.mavridou@nasa.gov>
+Thursday 18 June
+11.30-12.30 Coordination Languages
+Jean-Marie Jacquet <jean-marie.jacquet@unamur.be>
+13.30-15.00 Large Scale Decentralised Systems
+Michele Loreti <michele.loreti@unicam.it>
+15.30-17:00 Verification and Analysis
+Mieke Massink <Mieke.Massink@isti.cnr.it>
+
+
+Michele Pinna 
+Operational Representation of Dependencies in Context-Dependent Event Structures 
+https://youtu.be/C9xUBaIreY4
+
+
+
+
+DAIS Presentations
+------------------
+
+
+Benjamin Taubmann
+Towards hypervisor support for enhancing the performance of virtual machine introspection  
+https://www.youtube.com/watch?v=fY3aFt8dlE0
+
+
+
+FORTE Presentations
+--------------------
+
+Deep Statistical Model Checking by 
+Timo P. Gros, Holger Hermanns, Jörg Hoffmann, Michaela Klauck and Marcel Steinmetz, 
+https://youtu.be/V5QxOUnqHpk

@@ -282,7 +282,7 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
 
 ### Program Logics
 
-*(session chair: TBA)*
+*(session chair: [Cezara Dragoi](mailto:cezara.dragoi@inria.fr))*
 
   
 
@@ -293,7 +293,7 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
 
 ### Formal Frameworks
 
-*(session chair: TBA)*
+*(session chair: [Kirstin Peters](mailto:kirstin.peters@tps.tu-darmstadt.de))*
 
   
 - *A Formal Framework for Consent Management* <br/> by Shukun Tokas and Olaf Owe
@@ -301,14 +301,14 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
 
 ### Verification 1
  
-*(session chair: TBA)*
+*(session chair: [Stephan Merz](mailto:stephan.merz@loria.fr))*
  
 - *Conformance-Based Doping Detection for Cyber-Physical Systems* <br/> by Rayna Dimitrova, Maciej Gazda, Mohammadreza Mousavi, Sebastian Biewer and Holger Hermanns
 - *Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego* <br/> by Davide Basile, Maurice H. ter Beek and Axel Legay
 
 ### Verification 2
 
-*(session chair: TBA)*
+*(session chair: [Tatjana Petrov](mailto:tatjana.petrov@gmail.com))*
 
 - *Towards Deep Statistical Model Checking* <br/> Michaela Klauck, Timo P. Gros, Marcel Steinmetz, Jörg Hoffmann and Holger Hermanns
 -  *Towards a Hybrid Verification Methodology for Communication Protocols* <br/> Christian Bartolo Burlo, Adrian Francalanza and Alceste Scalas
@@ -316,7 +316,7 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
 
 ### Timed Automata
 
-*(session chair: TBA)*
+*(session chair: [Nikos Tzevelekos](mailto:nikos.tzevelekos@qmul.ac.uk))*
 
 
 -  *Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities* <br/> Jeremy Sproston
