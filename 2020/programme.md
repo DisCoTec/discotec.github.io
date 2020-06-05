@@ -130,7 +130,7 @@
 
 ### Modelling 1
 
-*(session chair: Chiara Bodei)*
+*(session chair: [Chiara Bodei](mailto:chiara.bodei@unipi.it))*
 
 
 - *Operational representation of dependencies in Context-Dependent Event Structures* <br/> by G. Michele Pinna 
@@ -139,7 +139,7 @@
   
 ### Modelling 2 / Message-based communication 1
 
-*(session chair: Roberto Guanciale)*
+*(session chair: [Roberto Guanciale](mailto:robertog@kth.se))*
 
   
 
@@ -150,7 +150,7 @@
 
 ### Message-based communication 2 / Microservices
 
-*(session chair: Alberto Lluch Lafuente)*
+*(session chair: [Alberto Lluch Lafuente](mailto:albertolluch@gmail.com))*
   
 
 - *Choreography Automata* <br/> by Franco Barbanera, Ivan Lanese and Emilio Tuosto
@@ -162,7 +162,7 @@
 
 ### Communications: types & implementations
 
-*(session chair: Hugo Torres Vieira)*
+*(session chair: [Hugo Torres Vieira](mailto:hugo.torres.vieira@ubi.pt))*
 
   
 - *GoPi: Compiling linear and static channels in Go* (Tool paper) <br/> by Marco Giunti
@@ -173,7 +173,7 @@
 
 ### Digital contracts
 
-*(session chair: Anastasia Mavridou)*
+*(session chair: [Anastasia Mavridou](mailto:anastasia.mavridou@nasa.gov))*
 
   
 - *Renegotiation and recursion in Bitcoin contracts* <br/> by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino 
@@ -183,7 +183,7 @@
 
 ### Coordination Languages
 
-*(session chair: Jean-Marie Jacquet)*
+*(session chair: [Jean-Marie Jacquet](mailto:jean-marie.jacquet@unamur.be))*
 
 - *Towards Energy-, Time- and Security-aware Multi-core Coordination* <br/> by Julius Roeder, Benjamin Rouxel, Sebastian Altmeyer and Clemens Grelck
 - *ARx: Reactive Programming for Synchronous Connectors* (Tool paper)<br/>  by José Proença and Guillermina Cledou 
@@ -193,7 +193,7 @@
 
 ### Large Scale Decentralised Systems
 
-*(session chair: Michele Loreti)*
+*(session chair: [Michele Loreti](mailto:michele.loreti@unicam.it))*
 
   
 - *Time-fluid field-based coordination* <br/> by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli 
@@ -204,7 +204,7 @@
 
 ### Verification and Analysis
 
-*(session chair: Mieke Massink)*
+*(session chair: [Mieke Massink](mailto:Mieke.Massink@isti.cnr.it))*
 
 
 - *Formal Modeling and Analysis of Medical Systems* <br/> by Mahsa Zarneshan, Fatemeh Ghassemi and Marjan Sirjani 
@@ -228,14 +228,14 @@
 
 ### Privacy and Security
 
-*(session chair: Sonia Ben Mokthar)*
+*(session chair: [Sonia Ben Mokhtar](sonia.ben-mokhtar@liris.cnrs.fr))*
 
 - *On the trade-offs of combining multiple secure processing primitives for data analytics* </br> by Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira
 - *Capturing Privacy-preserving User Contexts with IndoorHash* <br/> Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment
 
 ### ML for Systems
 
-*(session chair: Vana Kalogeraki)*
+*(session chair: [Vana Kalogeraki](mailto:vana@aueb.gr))*
 
 - *Self-Tunable DBMS Replication with Reinforcement Learning* <br/>
 Luis Ferreira, Fábio André Coelho and Jose Pereira
@@ -244,7 +244,7 @@ Luis Ferreira, Fábio André Coelho and Jose Pereira
 
 ### Cloud and Systems
 
-*(session chair: Valerio Schiavoni)*
+*(session chair: [Valerio Schiavoni](mailto:valerio.schiavoni@unine.ch))*
 
   
 - *Towards hypervisor support for enhancing the performance of virtual machine introspection* <br/> Benjamin Taubmann and Hans P. Reiser
@@ -253,7 +253,7 @@ Luis Ferreira, Fábio André Coelho and Jose Pereira
 
 ### Fault-tolerance and Reproducibilty
 
-*(session chair: Hans Reiser)*
+*(session chair: [Hans Reiser](mailto:hans.reiser@uni-passau.de))*
 
 
 - *Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform* (Experience Report)<br/> João Abreu, Ana Nunes Alonso, David Nunes, Jose Pereira, Luiz Santos, Tércio Soares and Andre Vieira
@@ -262,7 +262,7 @@ Luis Ferreira, Fábio André Coelho and Jose Pereira
 
 ### Distributed Algorithms
 
-*(session chair: Anne Remke)*
+*(session chair: [Anne Remke](mailto:anne.remke@uni-muenster.de))*
 
   
 
