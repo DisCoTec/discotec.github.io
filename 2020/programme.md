@@ -69,19 +69,19 @@
 
   
 
-|Time |COORDINATION|DAIS|FORTE| |
-|:---:|:---:|:---:|:---:|:---|
-|*11.00-11.30*||||*break*
+|Time |COORDINATION|DAIS|FORTE| 
+|:---:|:---:|:---:|:---:|
+|*11.00-11.30*|*break*|*break*|*break*|
 |**11.30-12.00**| [A true concurrent model of smart contracts executions](#coordination-best-paper) | | |
 |**12.00-12.30**| | [TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores](#dais-best-paper) | |
 |**12.30-13.00**| | | [Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory](#forte-best-paper)|
-|*13.00-14.00*||||*break*
-|**14.00-14.30**| [Renegotiation and recursion in Bitcoin contract](#digital-contracts) | [Towards hypervisor support for enhancing the performance of virtual machine introspection](#cloud-and-systems) | [Derivation of Heard-Of Predicates From Elementary Behavioral Patterns](#program-logics) |
-|**14.30-15.00**| [Towards a Formally Verified EVM in Production Environment](#digital-contracts) | [Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment](#cloud-and-systems) | [Trace Equivalence and Epistemic Logic to Express Security Properties](#program-logics) |
-|*15.00-15.30*||||*break*|
-|**15.30-16.00**| [GoPi: Compiling linear and static channels in Go](#communications-types--implementations) | [Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform](#fault-tolerance-and-reproducibilty) | [A Formal Framework for Consent Management](#formal-frameworks) |
-|**16.00-16.30**| [SFJ: An Implementation of Semantic Featherweight Java](#communications-types--implementations) | [A Comparison of Message Exchange Patterns in BFT Protocols](#fault-tolerance-and-reproducibilty) | [Towards Bridging Time and Causal Reversibility](#formal-frameworks)  |
-|**16.30-16.50**| [Implementation of Multiparty Session Types in Rust](#communications-types--implementations)|
+|*13.00-14.00*|*break*|*break*|*break*|
+|**14.00-14.30**| [GoPi: Compiling linear and static channels in Go](#communications-types--implementations) | [Towards hypervisor support for enhancing the performance of virtual machine introspection](#cloud-and-systems) | [Derivation of Heard-Of Predicates From Elementary Behavioral Patterns](#program-logics) |
+|**14.30-15.00**| [SFJ: An Implementation of Semantic Featherweight Java](#communications-types--implementations) | [Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment](#cloud-and-systems) | [Trace Equivalence and Epistemic Logic to Express Security Properties](#program-logics) |
+|*15.00-15.30*|*break*|*break*|*break*|
+|**15.30-16.00**| [Implementation of Multiparty Session Types in Rust](#communications-types--implementations)<br/> (10 min break at 15:50) | [Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform](#fault-tolerance-and-reproducibilty) | [A Formal Framework for Consent Management](#formal-frameworks) |
+|**16.00-16.30**| [Renegotiation and recursion in Bitcoin contract](#digital-contracts) | [A Comparison of Message Exchange Patterns in BFT Protocols](#fault-tolerance-and-reproducibilty) | [Towards Bridging Time and Causal Reversibility](#formal-frameworks)  |
+|**16.30-16.50**| [Towards a Formally Verified EVM in Production Environment](#digital-contracts) |
 
 <br/>
 
@@ -102,16 +102,16 @@
   
   
 
-|Time |COORDINATION|DAIS|FORTE| |
-|:---:|:---:|:---:|:---:|:---|
-|*11.00-11.30*||||*break*|
+|Time |COORDINATION|DAIS|FORTE| 
+|:---:|:---:|:---:|:---:|
+|*11.00-11.30*|*break*|*break*|*break*|
 |**11.30-12.00**| [Towards Energy-, Time- and Security-aware Multi-core Coordination](#coordination-languages) | [A resource usage efficient distributed allocation algorithm for 5G Service Function Chains](#distributed-algorithms) | [Conformance-Based Doping Detection for Cyber-Physical Systems](#verification-1) |
 |**12.00-12.30**| [ARx: Reactive Programming for Synchronous Connectors](#coordination-languages) | [A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks](#distributed-algorithms) | [Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego](#verification-1)  |
-|*12.30-13.30*||||*break*|
+|*12.30-13.30*|*break*|*break*|*break*|
 |**13.30-14.00**| [Time-fluid field-based coordination](#large-scale-decentralised-systems) | |
 |**14.00-14.30**| [Resilient Distributed Collection through Information Speed Thresholds](#large-scale-decentralised-systems) | | [Towards Deep Statistical Model Checking](#verification-2) |
 |**14.30-15.00**| [Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited](#large-scale-decentralised-systems) | | [Towards a Hybrid Verification Methodology for Communication Protocols](#verification-2) |
-|*15.00-15.30*||||*break*|
+|*15.00-15.30*|*break*|*break*|*break*|
 |**15.30-16.00**| [Formal Modeling and Analysis of Medical Systems](#verification-and-analysis) | | [Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities](#timed-automata) |
 |**16.00-16.30**| [On Implementing Symbolic Controllability](#verification-and-analysis) | | [On Implementable Timed Automata](#timed-automata)  |
 |**16.30-17.00**| [Combining SLiVER with CADP to Analyze Multi-agent Systems](#verification-and-analysis) | | |
@@ -130,7 +130,7 @@
 
 ### Modelling 1
 
-*(session chair: TBA)*
+*(session chair: Chiara Bodei)*
 
 
 - *Operational representation of dependencies in Context-Dependent Event Structures* <br/> by G. Michele Pinna 
@@ -139,7 +139,7 @@
   
 ### Modelling 2 / Message-based communication 1
 
-*(session chair: TBA)*
+*(session chair: Roberto Guanciale)*
 
   
 
@@ -149,7 +149,8 @@
   
 
 ### Message-based communication 2 / Microservices
-(session chair: TBA)
+
+*(session chair: Alberto Lluch Lafuente)*
   
 
 - *Choreography Automata* <br/> by Franco Barbanera, Ivan Lanese and Emilio Tuosto
@@ -159,19 +160,9 @@
 
   
 
-### Digital contracts
-
-*(session chair: TBA)*
-
-  
-- *Renegotiation and recursion in Bitcoin contracts* <br/> by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino 
-- *Towards a Formally Verified EVM in Production Environment* (Short paper) <br/> by Xiyue Zhang, Yi Li and Meng Sun 
-
-  
-
 ### Communications: types & implementations
 
-*(session chair: TBA)*
+*(session chair: Hugo Torres Vieira)*
 
   
 - *GoPi: Compiling linear and static channels in Go* (Tool paper) <br/> by Marco Giunti
@@ -180,9 +171,19 @@
 
   
 
+### Digital contracts
+
+*(session chair: Anastasia Mavridou)*
+
+  
+- *Renegotiation and recursion in Bitcoin contracts* <br/> by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino 
+- *Towards a Formally Verified EVM in Production Environment* (Short paper) <br/> by Xiyue Zhang, Yi Li and Meng Sun 
+
+  
+
 ### Coordination Languages
 
-*(session chair: TBA)*
+*(session chair: Jean-Marie Jacquet)*
 
 - *Towards Energy-, Time- and Security-aware Multi-core Coordination* <br/> by Julius Roeder, Benjamin Rouxel, Sebastian Altmeyer and Clemens Grelck
 - *ARx: Reactive Programming for Synchronous Connectors* (Tool paper)<br/>  by José Proença and Guillermina Cledou 
@@ -192,7 +193,7 @@
 
 ### Large Scale Decentralised Systems
 
-*(session chair: TBA)*
+*(session chair: Michele Loreti)*
 
   
 - *Time-fluid field-based coordination* <br/> by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli 
@@ -203,7 +204,7 @@
 
 ### Verification and Analysis
 
-*(session chair: TBA)*
+*(session chair: Mieke Massink)*
 
 
 - *Formal Modeling and Analysis of Medical Systems* <br/> by Mahsa Zarneshan, Fatemeh Ghassemi and Marjan Sirjani 
