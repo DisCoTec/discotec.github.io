@@ -28,6 +28,7 @@ The DisCoTeC organisation committee has decided that, due to the current COVID-1
 * [Nathalie Bertrand](invited#nathalie-bertrand), INRIA Rennes Bretagne-Atlantique
 * [Holger Hermanns](invited#holger-hermanns), Saarland University
 * [Peter Kriens](invited#peter-kriens), aQute & OSGi Alliance
+* [Kenneth McMillan](invited#kenneth-mcmillan), Microsoft Research Lab Redmond
 
 ## Programme
 

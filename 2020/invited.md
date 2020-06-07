@@ -59,6 +59,20 @@ Peter Kriens has been a software expert consulting for a large number of (some v
 
 
 
+## Kenneth McMillan
+
+[Microsoft Research Lab Redmond](mailto:kenmcmil@microsoft.com)
+
+### Ivy: A Verification Tool for Distributed Algorithms
+
+Ivy is an open-source, multi-modal verification tool for correct design and implementation of distributed algorithms, supporting modular
+specification, implementation and proof. The motivating principles of Ivy are predictability, stability and transparency. That is, automated proof steps should provide complexity bounds, should be insensitive to small perturbations, and when they fail should provide actionable feedback.  To the extent consistent with these principles, Ivy aims to maximize expressiveness and proof automation, and thus to achieve a high level of user
+productivity in designing, implementing and proving distributed programs.
+
+I will describe the principles of Ivy's design and describe how to use Ivy effectively to implement a verified distributed protocol.
+
+### Biography	
+
 
 
 

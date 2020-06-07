@@ -61,7 +61,8 @@
 
 ### Invited Talk
 
-**10.00-11.00:** &nbsp;  &nbsp; *Nathalie Bertrand* &nbsp; [Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand)
+**10.00-11.00:** &nbsp;  &nbsp; *Nathalie Bertrand* &nbsp; [Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand)<br/>
+**17.30-18.30:** &nbsp;  &nbsp; *Kenneth McMillan* &nbsp; [Ivy: A Verification tool for Distributed Algorithms](invited#kenneth-mcmillan)
 
   
 

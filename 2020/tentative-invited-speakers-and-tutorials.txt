@@ -494,6 +494,10 @@ Operational Representation of Dependencies in Context-Dependent Event Structures
 https://youtu.be/C9xUBaIreY4
 
 
+Nicolas Lagaillardie 
+"Implementation of Multiparty Session Types in Rust":
+ https://youtu.be/ej1FetN31H
+
 
 
 DAIS Presentations
@@ -508,6 +512,13 @@ https://www.youtube.com/watch?v=fY3aFt8dlE0
 
 FORTE Presentations
 --------------------
+
+Wednesday June 17, 2-3pm: Cezara Dragoi <cezara.dragoi@inria.fr>
+Wednesday June 17, 3:30-4:30pm: Kirstin Peters <kirstin.peters@tps.tu-darmstadt.de>
+Thursday June 18, 11:30am-12:30pm: Stephan Merz <stephan.merz@loria.fr>
+Thursday June 18, 2-3pm: Tatjana Petrov <tatjana.petrov@gmail.com>
+Thursday June 18, 3:30-4pm: Nikos Tzevelekos <nikos.tzevelekos@qmul.ac.uk>
+
 
 Deep Statistical Model Checking by 
 Timo P. Gros, Holger Hermanns, Jörg Hoffmann, Michaela Klauck and Marcel Steinmetz, 
