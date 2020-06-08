@@ -460,6 +460,23 @@ Tutorial Presentations
 
 
 
+“CHOReVOLUTION IDRE: An Integrated Development and Run-time Environment for Automatically Realizing and Executing Distributed Applications.”
+
+Slot 1: Marco Autili will introduce and overview the approach underlyining our tool, the CHOReVOLUTION IDRE
+Link to the related YouTube video: https://youtu.be/nPsi2EJFRGA
+ 
+Slot 2: Massimo Tivoli will discuss how the IDRE automatically generates the code of the software artifacts needed for realizing the specified choreography
+Link to the related YouTube video: https://youtu.be/xeHDPWz08WE
+ 
+Slot 3: Claudio Pompilio will give a practical demonstation of the IDRE at work on a running example, with the cooperation of Amleto Di Salle. They prepared the demo together.
+Link to the related YouTube video: https://youtu.be/RKlQoz2O3qw
+
+
+
+
+
+
+
 Invited Speaker Presentations
 -----------------------------
 
@@ -496,8 +513,45 @@ https://youtu.be/C9xUBaIreY4
 
 Nicolas Lagaillardie 
 "Implementation of Multiparty Session Types in Rust":
- https://youtu.be/ej1FetN31H
+https://youtu.be/JfaPzBnO08I
 
+Xiyue Zhang
+"Towards a Formally Verified EVM in Production Environment"
+https://youtu.be/KvuGPljmde0
+
+Mahsa Zarneshan
+"Formal modeling and analysis of medical systems"
+https://youtu.be/OuIr4pqOJcw
+
+
+Paulina Paraponiari
+"Weighted PCL over product valuation monoids"
+https://youtu.be/GIjND2fbRX0
+
+
+Maria Pittou
+Architecture modelling of parametric component-based systems
+https://www.youtube.com/watch?v=j2oq9MSMaD0
+
+
+Roberto Zunino, Maurizio Murgia and Massimo Bartoletti
+Renegotiation and recursion in Bitcoin contracts
+https://youtu.be/cThgRZCBp50
+
+
+Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited
+by Nicolas Gast, Diego Latella and Mieke Massink
+ https://youtu.be/nGk7sAUBWgI
+
+
+
+Roberto Zunino and Massimo Bartoletti
+A true concurrent model of smart contracts executions
+(LATE)
+
+Giorgio Audrito
+Resilient Distributed Collection through Information Speed Thresholds
+(LATE)
 
 
 DAIS Presentations
@@ -523,3 +577,13 @@ Thursday June 18, 3:30-4pm: Nikos Tzevelekos <nikos.tzevelekos@qmul.ac.uk>
 Deep Statistical Model Checking by 
 Timo P. Gros, Holger Hermanns, Jörg Hoffmann, Michaela Klauck and Marcel Steinmetz, 
 https://youtu.be/V5QxOUnqHpk
+
+
+Claudio Antares Mezzina
+"Towards Bridging Time and Causal Reversibility" 
+https://www.youtube.com/watch?v=yEy77WMD0MY&feature=youtu.be
+
+
+Kiraku Minami
+"Trace Equivalence and Epistemic Logic to Express Security Properties"
+https://www.youtube.com/watch?v=_qyWuAMqbzc
