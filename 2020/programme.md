@@ -353,13 +353,13 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
 
 ### Choreographies
 
-- *An Abstract Framework for Choreographic Testing * <br/> Emilio Tuosto, Roberto Guanciale, and Alex Coto
+- *An Abstract Framework for Choreographic Testing* <br/> Emilio Tuosto, Roberto Guanciale, and Alex Coto
 - *Towards Refinable Choreographies* <br/> Ugo de'Liguoro, Hernan Melgratti, and Emilio Tuosto
 
 ### Software Engineering
 
 - *Microservice Interface Based Deployment Orchestration* <br/> Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi, and Gianluigi Zavattaro
-- *Taming Software Development complexity via reversibility * <br/> Claudio Antares Mezzina
+- *Taming Software Development complexity via reversibility* <br/> Claudio Antares Mezzina
 
 ### Fundamental Models of Concurrency
 
