@@ -484,6 +484,7 @@ Invited Speaker Presentations
 COORDINATION Presentations
 ---------------------------
 
+Session Chairs
 
 Tuesday 16 June
 11.30-12.30 Modelling 1
@@ -558,9 +559,18 @@ DAIS Presentations
 ------------------
 
 
+
+
+Self-Tunable DBMS Replication with Reinforcement Learning 
+Luis Ferreira, Fábio André Coelho and Jose Pereira
+https://youtu.be/hx81-NjIKTs
+
+
 Benjamin Taubmann
 Towards hypervisor support for enhancing the performance of virtual machine introspection  
 https://www.youtube.com/watch?v=fY3aFt8dlE0
+
+
 
 
 
@@ -572,6 +582,12 @@ Wednesday June 17, 3:30-4:30pm: Kirstin Peters <kirstin.peters@tps.tu-darmstadt.
 Thursday June 18, 11:30am-12:30pm: Stephan Merz <stephan.merz@loria.fr>
 Thursday June 18, 2-3pm: Tatjana Petrov <tatjana.petrov@gmail.com>
 Thursday June 18, 3:30-4pm: Nikos Tzevelekos <nikos.tzevelekos@qmul.ac.uk>
+
+(Best Paper)
+Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory
+by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, and Heike Wehrheim
+ https://youtu.be/GA45k9tvPo4
+
 
 
 Deep Statistical Model Checking by 
@@ -587,3 +603,14 @@ https://www.youtube.com/watch?v=yEy77WMD0MY&feature=youtu.be
 Kiraku Minami
 "Trace Equivalence and Epistemic Logic to Express Security Properties"
 https://www.youtube.com/watch?v=_qyWuAMqbzc
+
+
+
+Mohammadreza Mousavi
+Conformance-Based Doping Detection of Cyber-Physical Systems
+https://youtu.be/ENCK5BO_F1E
+
+
+Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego 
+by Davide Basile, Maurice H. ter Beek and Axel Legay
+https://www.youtube.com/watch?v=Nc5rrkyWlb8
