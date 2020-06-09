@@ -458,6 +458,15 @@ hadid.rashid@gmail.com	Self-Stabilizing One-To-Many Node Disjoint paths Routing 
 Tutorial Presentations
 -----------------------
 
+"Parameterized Verification with Byzantine Model Checker"
+
+Part 1: https://youtu.be/S0VRE9PLViI
+
+Part 2: https://youtu.be/UOdHoJGg-vk
+
+Part 3: https://youtu.be/3anmrALqJW0
+
+
 
 
 “CHOReVOLUTION IDRE: An Integrated Development and Run-time Environment for Automatically Realizing and Executing Distributed Applications.”
@@ -471,7 +480,14 @@ Link to the related YouTube video: https://youtu.be/xeHDPWz08WE
 Slot 3: Claudio Pompilio will give a practical demonstation of the IDRE at work on a running example, with the cooperation of Amleto Di Salle. They prepared the demo together.
 Link to the related YouTube video: https://youtu.be/RKlQoz2O3qw
 
+"The Probabilistic Model Checker Storm"
 
+- Part 1: "What is Storm?" presented by Joost-Pieter Katoen
+https://www.youtube.com/watch?v=qqz457zYVFk
+- Part 2: "Introduction to Storm" presented by Matthias Volk
+https://www.youtube.com/watch?v=rCgoqV5hesQ
+- Part 3: "Advanced Features with Stormpy" presented by Matthias Volk
+https://www.youtube.com/watch?v=WR72wrvtta0
 
 
 

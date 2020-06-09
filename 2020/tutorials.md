@@ -16,7 +16,7 @@ Choreography envisages distributed coordination as determined by interactions th
 Recently choreographic approaches became popular in industrial contexts where reliability and scalability are crucial factors. This tutorial will review some recent ideas to harness choreographic development of message-passing software.
 <br/> <br/>
 *Biography:* 
-Emilio Tuosto is an associate professor at the Gran Sasso Science Institue and the University of Leicester. He graduated (1998) and got his PhD degree in Computer Science (2003) at the department of Computer Science, University of Pisa. Before joining Leicester, he has been a research associate (2003-2005) at the Dipartimento di Informatica (University of Pisa). Emilio Tuosto's main research interests are in theoretical and applied aspects of complex distributed systems. Recently he has been working on automata- and behavioural type-based models of distributed choreographies, contract-based models of distributed interactions, and their application to software engineering of distributed and concurrent systems.
+[Emilio Tuosto](mailto:emilio.tuosto@gssi.it) is an associate professor at the Gran Sasso Science Institue and the University of Leicester. He graduated (1998) and got his PhD degree in Computer Science (2003) at the department of Computer Science, University of Pisa. Before joining Leicester, he has been a research associate (2003-2005) at the Dipartimento di Informatica (University of Pisa). Emilio Tuosto's main research interests are in theoretical and applied aspects of complex distributed systems. Recently he has been working on automata- and behavioural type-based models of distributed choreographies, contract-based models of distributed interactions, and their application to software engineering of distributed and concurrent systems.
 <br/>
 <br/>
 
@@ -45,7 +45,7 @@ other contexts, for instance, for verification of randomized algorithms and
 verification of synchronous algorithms.
 <br/> 
 <br/>
-*Biography:* Igor Konnov is a senior research scientist at Informal Systems (Austria),
+*Biography:* [Igor Konnov](mailto:igor@interchain.io) is a senior research scientist at Informal Systems (Austria),
 spin-off of Interchain Foundation (Switzerland). He is developing model
 checking techniques for parameterized and fault-tolerant distributed
 algorithms. Before joining Informal Systems and Interchain Foundation, Igor
@@ -65,7 +65,7 @@ Science from Lomonosov Moscow State University (Russia) in 2003 and 2009. In
 Since late 70’s, the development of concurrent and distributed systems has been receiving much attention from the research community. Choreographies are a form of distributed composition that model the external interaction of the participant services by specifying peer-to-peer message exchanges from a global perspective. When third-party services are to be composed, obtaining the distributed coordination logic required to enforce the realizability of the specified choreography is a non-trivial and error prone task. Automatic support is then needed. CHOReVOLUTION is a platform for the tool-assisted development and execution of choreography-based applications that leverage the distributed collaboration of services specified through service choreographies. It offers an Integrated Development and Runtime Environment (IDRE) comprising a wizard-aided development environment, a system monitoring console, and a back-end for managing the deployment and execution of the system. The tutorial introduces the fundamentals of service choreographies and the CHOReVOLUTION approach as first. Then the introduction of the approach is followed by hands on exercises, where every attendee takes part in developing sample choreography-based distributed applications by using the CHOReVOLUTION IDRE.
 <br/> 
 <br/>
-*Biography:* Massimo Tivoli and Marco Autili are both associate professors at the Department of Information Engineering, Computer Science, and Mathematics – University of L’Aquila. 
+*Biography:* [Massimo Tivoli](mailto:massimo.tivoli@univaq.it) and [Marco Autili](mailto:marco.autili@univaq.it) are both associate professors at the Department of Information Engineering, Computer Science, and Mathematics – University of L’Aquila. 
 Massimo's research focuses on component adaptation and coordination, connector synthesis, software model elicitation, and choreography synthesis. He received a PhD in computer science from the University of L’Aquila. He is co-author of more than 90 publications in leading international scientific journals and conference proceedings in the software engineering domain. He has been scientific coordinator of the EU H2020 CHOReVOLUTION project, and has been involved in several other international research projects with different leading roles. Massimo is, and has been, in the program committees of several international conferences. 
 Marco's research focusses on automated software synthesis for composing complex distributed systems, from system architecture to integration code, from coordination to protocol mediation/adaptation. He also works in modeling and analysis of complex distributed systems, automated synthesis of context-aware (mobile) applications, resource-oriented analysis of adaptable (mobile) applications and formal specification and checking of temporal properties. Recently, he is working on the definition of architectural patterns for creating robust, reliable and efficient microservice-based systems, and on the definition of methods and techniques to transform a monolithic system to a microservice-based one.
 The development team of CHOReVOLUTION IDRE includes also Amleto Di Salle and Claudio Pompilio.
@@ -99,7 +99,7 @@ http://www.stormchecker.org/ and our recent paper https://arxiv.org/abs/2002.070
 <br/>
 *Biography:* Storm is developed at the Software Modeling and Verification group at RWTH
 Aachen University since 2012. The principal developers of Storm are Christian
-Hensel, Sebastian Junges, Joost-Pieter Katoen, Tim Quatmann and Matthias Volk.
+Hensel, Sebastian Junges, Joost-Pieter Katoen, Tim Quatmann and [Matthias Volk](mailto:matthias.volk@cs.rwth-aachen.de).
 
 <br/> 
 <br/>
@@ -113,7 +113,6 @@ By the end of this tutorial, attendants will be able to apply these tools in the
 <br/>
 *Biography:* Miguel Matos is an assistant professor at the Engineering School of the University of Lisbon (Instituto Superior Técnico) and a Senior Researcher at INESC-ID.His research interests lie in the area of distributed systems, in the subjects of scalability, performance, correctness and systems evaluation. In particular, he is conducting research in blockchain and related problems,consistency and scalability in large scale databases, systems evaluation under faults and experimental reproducibility. His work has been published in venues such as TPDS, JPDC, Eurosys, IPDPS, Middleware, SRDS and DAIS.
 The presented work is the result of joint work between Miguel's team at U. Lisboa, Portugal and researchers from U. of Neuchâtel, Switzerland.
-
 <br/>
 <br/>
 
@@ -137,7 +136,7 @@ Scribble local protocol specifications to Java, to Java implementation, to Mungo
 typechecking, with examples. We then demonstrate the Scribble, StMungo and Mungo
 toolchain by specifying and implementing a domain name server(DNS), as a real-world use case.<br/>
 <br/>
-*Biography:* Ornela Dardha is an Assistant Professor at the School of Computing Science, University
+*Biography:* [Ornela Dardha](mailto:Ornela.Dardha@glasgow.ac.uk) is an Assistant Professor at the School of Computing Science, University
 of Glasgow. She is a Co-Investigator within the UK EPSRC programme grant From Data
 Types to Session Types: A Basis for Concurrency and Distribution (ABCD), and a Site
 Leader of the European RISE Action Behavioural Application Program Interfaces (BehAPI.
@@ -147,7 +146,7 @@ She obtained my BSc (2008) and MSc (2010) in computing science both summa cum la
 Sapienza University of Rome, Italy.
 Simon Gay is a Professor of Computing Science and has been at the University of Glasgow since 2000.
 He is the Glasgow PI of the the UK EPSRC programme grant From Data Types to Session Types: A Basis for Concurrency and Distribution (ABCD). He has contributed to the study of session types in pi calculus, in functional languages, and in object-oriented languages; the latter work provides the
-foundation for Mungo. Laura Voinea is a Research Associate at the School of Computing Science,
+foundation for Mungo. [Laura Voinea](mailto:a.voinea.1@research.gla.ac.uk) is a Research Associate at the School of Computing Science,
 University of Glasgow, working on the ABCD project with Simon Gay and Ornela Dardha. She is finishing up my PhD in Computer Science at same university. 
 She has received my BSc and MSc in Computer Science at the University of Glasgow.
 
