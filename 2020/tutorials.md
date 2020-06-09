@@ -23,6 +23,8 @@ Emilio Tuosto is an associate professor at the Gran Sasso Science Institue and t
 
 ### Parameterized Verification with Byzantine Model Checker
 
+[Instructions to download and install the tool](https://github.com/konnov/bymc/blob/master/bymc/doc/forte20.md)
+<br/><br/>
 Threshold guards are a basic primitive of many fault-tolerant algorithms that
 solve the following classical problems of distributed computing: reliable
 broadcast, two-phase commit, and consensus. Moreover, threshold guards can be
