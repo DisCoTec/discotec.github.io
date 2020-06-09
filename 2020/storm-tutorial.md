@@ -12,9 +12,7 @@ yourself. Please perform the following installation steps.
 1. Install Docker for your OS according to [these instructions](https://docs.docker.com/get-docker/).
 
 2. Download and start the Docker container from the command line:
-`
-docker run -it -p 8080:8080 --name stormpyter movesrwth/stormpyter:discotec2020
-`
+`docker run -it -p 8080:8080 --name stormpyter movesrwth/stormpyter:discotec2020`
 Please note that the download with >1GB might take a while.
 
 3. Open the Jupyter website which is indicated in the command line and
