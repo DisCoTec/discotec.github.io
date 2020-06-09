@@ -483,7 +483,7 @@ Link to the related YouTube video: https://youtu.be/RKlQoz2O3qw
 "The Probabilistic Model Checker Storm"
 
 - Part 1: "What is Storm?" presented by Joost-Pieter Katoen
-https://www.youtube.com/watch?v=qqz457zYVFk
+https://www.youtube.com/watch?v=TTfSZGiCQ3I
 - Part 2: "Introduction to Storm" presented by Matthias Volk
 https://www.youtube.com/watch?v=rCgoqV5hesQ
 - Part 3: "Advanced Features with Stormpy" presented by Matthias Volk
@@ -584,7 +584,7 @@ https://youtu.be/jdIjn-P38rM
 
 Marco Giunti
 GoPi: Compiling linear and static channels in Go (Tool paper) 
-https://youtu.be/s1F_mzmrVYE
+https://youtu.be/0S6y0MamAnM
 
 
 Luca Di Stefano
