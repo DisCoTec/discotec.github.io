@@ -119,8 +119,26 @@
 
 <br/>
 
-  
-  
+## Friday 19 June
+
+|Time |ICE|
+|:---:|:---:|
+|**09.30-10.20**|Invited talk|
+|*10.20-10.40*|*break*|
+|**10.40-11.10**| [A type language for message passing component-based systems](#languages) | 
+|**11.10-11.40**| [Typestates to Automata and back: a tool](#languages) | 
+|**11.40-12.00**| [Purely Functional Message Passing](#languages) | 
+|*12.00-13.00*|*break*|
+|**13.00-13.30**| [An Abstract Framework for Choreographic Testing ](#choreographies) | 
+|**13.30-14.00**| [Towards Refinable Choreographies](#choreographies) |
+|**14.00-14.20**| [Microservice Interface Based Deployment Orchestration](#software-engineering) |
+|**14.20-14.40**| [Taming Software Development complexity via reversibility](#software-engineering) |
+|*14.40-15.00*|*break*| 
+|**15.00-15.50**|Invited talk|
+|**15.50-16.20**| [On the Parameterized Complexity of Synthesizing Boolean Petri Nets With Restricted Dependency](#fundamental-models-of-concurrency) |
+|**16.20-16.40**| [Comparing Session Type Interpretations of Linear Logic](#fundamental-models-of-concurrency) | 
+|**16.40-17.00**| [Structural Equivalences for Reversible Calculi of Communicating Systems](#fundamental-models-of-concurrency) | 
+
 
 ## Coordination accepted papers and programme
 
@@ -323,3 +341,30 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
 
 -  *Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities* <br/> Jeremy Sproston
 -  *On Implementable Timed Automata* <br/> Sergio Feo-Arenis, Milan Vujinovic and Bernd Westphal
+
+
+## ICE accepted papers and programme
+
+### Languages
+
+- *A type language for message passing component-based systems* <br/> Zorica Savanovic, Hugo Torres Vieira, and Letterio Galletta
+- *Typestates to Automata and back: a tool* <br/> João Mota, André Trindade, and António Ravara
+- *Purely Functional Message Passing* <br/> Seyed Hossein Haeri and Peter Van Roy
+
+### Choreographies
+
+- *An Abstract Framework for Choreographic Testing* <br/> Emilio Tuosto, Roberto Guanciale, and Alex Coto
+- *Towards Refinable Choreographies* <br/> Ugo de'Liguoro, Hernan Melgratti, and Emilio Tuosto
+
+### Software Engineering
+
+- *Microservice Interface Based Deployment Orchestration* <br/> Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi, and Gianluigi Zavattaro
+- *Taming Software Development complexity via reversibility* <br/> Claudio Antares Mezzina
+
+### Fundamental Models of Concurrency
+
+- *On the Parameterized Complexity of Synthesizing Boolean Petri Nets With Restricted Dependency* <br/> Ronny Tredup and Evgeny Erofeev
+- *Comparing Session Type Interpretations of Linear Logic* <br/> Bas van den Heuvel and Jorge A. Pérez
+- *Structural Equivalences for Reversible Calculi of Communicating Systems* <br/> Clément Aubert and Ioana Cristescu
+
+
