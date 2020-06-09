@@ -560,11 +560,18 @@ Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited
 by Nicolas Gast, Diego Latella and Mieke Massink
  https://youtu.be/nGk7sAUBWgI
 
+Team Automata@Work: On Safe Communication (Short paper) 
+by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn
+ https://youtu.be/hBkK6omKyS8
 
 Franco Barbanera, Ivan Lanese, Emilio Tuosto
 Choreography Automata
 https://youtu.be/ukzWeDZGKR0
 
+
+Jose Proenca
+ARx: Reactive Programming for Synchronous Connectors
+https://www.youtube.com/watch?v=74RUzfYneNI
 
 Agustín Martinez Suñé
 Quality of Service ranking by quantifying partial compliance of requirements
@@ -626,11 +633,14 @@ On the trade-offs of combining multiple secure processing primitives for data an
 https://youtu.be/2qWoRIv_63c
 
 
-
 Adam Shimi
 Derivation of Heard-Of Predicates From Elementary Behavioral Patterns
 https://www.youtube.com/watch?v=pPb3o0sx7hE
 
+
+Fábio Silva, Ana Nunes Alonso, José Pereira and Rui Oliveira
+A Comparison of Message Exchange Patterns in BFT Protocols (Experience Report) 
+ https://www.youtube.com/watch?v=MK1yE99YCuc
 
 
 FORTE Presentations
@@ -673,3 +683,8 @@ https://youtu.be/ENCK5BO_F1E
 Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego 
 by Davide Basile, Maurice H. ter Beek and Axel Legay
 https://www.youtube.com/watch?v=Nc5rrkyWlb8
+
+
+On Implementable Timed Automata 
+Sergio Feo-Arenis, Milan Vujinovic and Bernd Westphal
+ https://youtu.be/G4FrycUrkKs
