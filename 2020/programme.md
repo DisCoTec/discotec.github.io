@@ -130,15 +130,22 @@
 |**11.40-12.00**| [Purely Functional Message Passing](#languages) | 
 |*12.00-13.00*|*break*|*break*|
 |**13.00-13.30**| [An Abstract Framework for Choreographic Testing ](#choreographies) | 
-|**13.30-14.00**| [Towards Refinable Choreographies](#choreographies) |
-|**14.00-14.20**| [Microservice Interface Based Deployment Orchestration](#software-engineering) |
+|**13.30-14.00**| [Towards Refinable Choreographies](#choreographies) | [Proof of Burn](#session-1) |
+|**14.00-14.20**| [Microservice Interface Based Deployment Orchestration](#software-engineering) | [Formal Foundations for Hyperledger Avalon](#session-1) |
 |**14.20-14.40**| [Taming Software Development complexity via reversibility](#software-engineering) |
 |*14.40-15.00*|*break*|*break*| 
 |**15.00-15.50**|Invited talk|
-|**15.50-16.20**| [On the Parameterized Complexity of Synthesizing Boolean Petri Nets With Restricted Dependency](#fundamental-models-of-concurrency) |
-|**16.20-16.40**| [Comparing Session Type Interpretations of Linear Logic](#fundamental-models-of-concurrency) | 
+|**15.50-16.20**| [On the Parameterized Complexity of Synthesizing Boolean Petri Nets With Restricted Dependency](#fundamental-models-of-concurrency) | [Brick: Asynchronous Payment Channels](#session-2)|
+|**16.20-16.40**| [Comparing Session Type Interpretations of Linear Logic](#fundamental-models-of-concurrency) | [Catastrophe by Design: Destabilizing Wasteful Technologies and The Phase Transition from Proof of Work to Proof of Stake](#session-2)
 |**16.40-17.00**| [Structural Equivalences for Reversible Calculi of Communicating Systems](#fundamental-models-of-concurrency) | 
+|**17.00-18.00**|  | Invited Talk |
+|*18.00-18.30*|*break*|*break*|
+|**18.30-19.00**|  | [TontineCoin: Brief Description](#session-3)  |  
+|**19.00-19.30**|  | [On coercion resistance in decentralized voting](#session-3)  |
+|**18.30-20.00**|  | [Divide and Scale: Formalization of Distributed Ledger Sharding Protocols](#session-3)  |
 
+
+<br/><br/>
 
 ## Coordination accepted papers and programme
 
@@ -368,3 +375,26 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
 - *Structural Equivalences for Reversible Calculi of Communicating Systems* <br/> Clément Aubert and Ioana Cristescu
 
 
+## FOCODILE programme 
+
+
+
+### Session 1
+- *Proof-of-Burn* <br/> Kostis Karantias, Aggelos Kiayias and Dionysis Zindros
+- *Formal Foundations for Hyperledger Avalon* <br/> Muhammad Usama Sardar
+
+### Session 2
+
+- *Brick: Asynchronous Payment Channels* <br/> Zeta Avarikioti, Eleftherios Kokoris-Kogias and Roger Wattenhofer
+- *Catastrophe by Design: Destabilizing Wasteful Technologies and The Phase Transition from Proof of Work to Proof of Stake* <br/> Stefanos Leonardos, Iosif Sakos, Costas Courcoubetis and Georgios Piliouras
+
+
+### Plenary Session: Invited talk 
+
+- Vassilis Zikas
+
+### Session 3
+
+- *TontineCoin: Brief Description* <br/> Chris Pollett, Thomas H. Austin, Katerina Potika and Justin Rietz
+- *On coercion resistance in decentralized voting* <br/> Pourandokht Behrouz, Panagiotis Grontas and Marianna Spyrakou
+- *Divide and Scale: Formalization of Distributed Ledger Sharding Protocols* <br/> Zeta Avarikioti, Eleftherios Kokoris-Kogias and Roger Wattenhofer
