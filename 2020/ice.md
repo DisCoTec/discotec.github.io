@@ -21,6 +21,9 @@ Due to the ongoing COVID-19 outbreak, ICE 2020 will be held **online**, as the r
   * Publication in [EPTCS](https://eptcs.org/)
   * Special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier) (to be confirmed)
 
+## Programme
+
+The ICE 2020 programme is available [here](https://www.discotec.org/2020/programme#friday-19-june).
 
 ## Scope
 
