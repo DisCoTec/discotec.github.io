@@ -1,4 +1,6 @@
-# Getting Storm for this presentation
+[![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
+
+# Getting Storm for the DisCoTec Tutorial
 
 
 We will use a [Docker container](https://www.docker.com/) based on
