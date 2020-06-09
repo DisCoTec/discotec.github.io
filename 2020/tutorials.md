@@ -74,6 +74,9 @@ The development team of CHOReVOLUTION IDRE includes also Amleto Di Salle and Cla
 
 ### The Probabilistic Model Checker Storm 
 
+
+[Instructions to download and install the tool](storm-tutorial)
+<br/><br/>
 We present the probabilistic model checker Storm.
 Storm supports the analysis of discrete- and continuous-time variants of both
 Markov chains and Markov decision processes. 

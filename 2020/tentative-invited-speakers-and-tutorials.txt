@@ -545,6 +545,29 @@ by Nicolas Gast, Diego Latella and Mieke Massink
  https://youtu.be/nGk7sAUBWgI
 
 
+Franco Barbanera, Ivan Lanese, Emilio Tuosto
+Choreography Automata
+https://youtu.be/ukzWeDZGKR0
+
+
+Agustín Martinez Suñé
+Quality of Service ranking by quantifying partial compliance of requirements
+ https://youtu.be/-w5h3e8lEgc
+
+Phu H. Nguyen
+Event based Non intrusive Customization of Multi tenant SaaS Using Microservices
+https://youtu.be/jdIjn-P38rM
+
+
+Marco Giunti
+GoPi: Compiling linear and static channels in Go (Tool paper) 
+https://youtu.be/s1F_mzmrVYE
+
+
+Luca Di Stefano
+Combining SLiVER with CADP to Analyze Multi-agent Systems
+https://youtu.be/4D5KdkM9zA4 
+
 
 Roberto Zunino and Massimo Bartoletti
 A true concurrent model of smart contracts executions
@@ -555,9 +578,12 @@ Resilient Distributed Collection through Information Speed Thresholds
 (LATE)
 
 
+
+
+
+
 DAIS Presentations
 ------------------
-
 
 
 
@@ -569,6 +595,21 @@ https://youtu.be/hx81-NjIKTs
 Benjamin Taubmann
 Towards hypervisor support for enhancing the performance of virtual machine introspection  
 https://www.youtube.com/watch?v=fY3aFt8dlE0
+
+Vikas Jaiman, Sonia Ben Mokhtar, and Etienne Rivière 
+TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores
+https://youtu.be/BEEfVTjG6CY
+
+
+Ioannis Tzouros and Vana Kalogeraki
+Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment
+https://youtu.be/MAt4bWKnaI4
+
+Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira
+On the trade-offs of combining multiple secure processing primitives for data analytics
+https://youtu.be/2qWoRIv_63c
+
+
 
 
 

@@ -231,7 +231,7 @@
 
 *(session chair: [Sonia Ben Mokhtar](sonia.ben-mokhtar@liris.cnrs.fr))*
 
-- *On the trade-offs of combining multiple secure processing primitives for data analytics* </br> by Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira
+- *On the trade-offs of combining multiple secure processing primitives for data analytics* <br/> by Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira
 - *Capturing Privacy-preserving User Contexts with IndoorHash* <br/> Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment
 
 ### ML for Systems
