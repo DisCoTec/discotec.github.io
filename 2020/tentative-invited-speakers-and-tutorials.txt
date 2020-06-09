@@ -328,6 +328,27 @@ use Zoom webinars
 Find hosts
 
 
+First of all, congratulations again for the presentation accepted at FOCODILE 2020. We are really excited to hear your talk.
+
+The full programme for FOCODILE  (and the first four days of DisCoTec) has been updated here: https://www.discotec.org/2020/programme 
+
+ As you may already know, the conference will be online.  The conference registration can be found  here:  
+ https://www.um.edu.mt/events/discotec2020/registration
+
+ (It is still open till the 12th of June)
+ Since you have a presentation, then you need to pay a nominal registration fee (10Euros), but otherwise the registration is free of charge.  If the presentation has more than one author, only the presenter needs to pay the registration fee (the other authors can register free of charge).
+
+We are also attaching the following instructions and other practical information regarding your talk:
+1. The conference will be held online as a Zoom Webinar.   We envisage:
+	i)  normal presentations will last around 15 mins to allow for a Q&A session of 10 mins (5 minutes buffer will be used between talks).   
+	ii) short presentations will last around 10 mins to allow for a Q&A session of 5 mins (5 minutes buffer will be used between talks).  
+2. We would like you to pre-record your presentation using your favourite method/application and upload the video to YouTube as an *unlisted*  video.   Then, we would like you to send us the (unlisted) link to your video at adrian.francalanza@um.edu.mt by *Monday, June 15th, 2020*.
+3. On the day of your talk, we would ask you to attend the webinar.  Our IT assistants will play your talk from the link provided as part of the webinar. They will also be gathering questions while the presentation is ongoing, forwarding them to you as soon as they come in.  Once the presentation finishes, we will provide you with the opportunity to answer (a selection of) the questions that you received live.
+
+Please do not hesitate to ask us questions if you have any.
+
+
+
 FORTE Emails
 
 2	Kiraku Minami kminami@kurims.kyoto-u.ac.jp	Japan	Kyoto University
@@ -527,64 +548,95 @@ Michele Pinna
 Operational Representation of Dependencies in Context-Dependent Event Structures 
 https://youtu.be/C9xUBaIreY4
 
-
-Nicolas Lagaillardie 
-"Implementation of Multiparty Session Types in Rust":
-https://youtu.be/JfaPzBnO08I
-
-Xiyue Zhang
-"Towards a Formally Verified EVM in Production Environment"
-https://youtu.be/KvuGPljmde0
-
-Mahsa Zarneshan
-"Formal modeling and analysis of medical systems"
-https://youtu.be/OuIr4pqOJcw
-
-
-Paulina Paraponiari
-"Weighted PCL over product valuation monoids"
-https://youtu.be/GIjND2fbRX0
-
-
 Maria Pittou
 Architecture modelling of parametric component-based systems
 https://www.youtube.com/watch?v=j2oq9MSMaD0
 
 
-Roberto Zunino, Maurizio Murgia and Massimo Bartoletti
-Renegotiation and recursion in Bitcoin contracts
-https://youtu.be/cThgRZCBp50
+Paulina Paraponiari
+"Weighted PCL over product valuation monoids"
+https://youtu.be/GIjND2fbRX0A 
 
 
-Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited
-by Nicolas Gast, Diego Latella and Mieke Massink
- https://youtu.be/nGk7sAUBWgI
+Choreography-Driven Approach to APIs: the OpenDXL Case Study 
+by Leonardo Frittelli, Facundo Maldonado, Hernan Melgratti and Emilio Tuosto
+(NO PRES)
 
-Team Automata@Work: On Safe Communication (Short paper) 
-by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn
- https://youtu.be/hBkK6omKyS8
 
 Franco Barbanera, Ivan Lanese, Emilio Tuosto
 Choreography Automata
 https://youtu.be/ukzWeDZGKR0
 
 
-Jose Proenca
-ARx: Reactive Programming for Synchronous Connectors
-https://www.youtube.com/watch?v=74RUzfYneNI
+Team Automata@Work: On Safe Communication (Short paper) 
+by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn
+ https://youtu.be/hBkK6omKyS8
+
+
+Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices (Short paper) 
+by Espen Tønnessen Nordli, Phu H. Nguyen, Franck Chauvel and Hui Song
+https://youtu.be/jdIjn-P38rM
 
 Agustín Martinez Suñé
 Quality of Service ranking by quantifying partial compliance of requirements
  https://youtu.be/-w5h3e8lEgc
 
-Phu H. Nguyen
-Event based Non intrusive Customization of Multi tenant SaaS Using Microservices
-https://youtu.be/jdIjn-P38rM
-
+A true concurrent model of smart contracts executions 
+by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia
+(NO PRES)
 
 Marco Giunti
 GoPi: Compiling linear and static channels in Go (Tool paper) 
 https://youtu.be/0S6y0MamAnM
+
+SFJ: An Implementation of Semantic Featherweight Java (Tool paper) 
+by Artem Usov and Ornela Dardha
+(NO PRES)
+
+Nicolas Lagaillardie 
+"Implementation of Multiparty Session Types in Rust":
+https://youtu.be/JfaPzBnO08I
+
+
+Renegotiation and recursion in Bitcoin contracts
+Roberto Zunino, Maurizio Murgia and Massimo Bartoletti
+https://youtu.be/cThgRZCBp50
+
+Xiyue Zhang
+"Towards a Formally Verified EVM in Production Environment"
+https://youtu.be/KvuGPljmde0
+
+
+Towards Energy-, Time- and Security-aware Multi-core Coordination 
+by Julius Roeder, Benjamin Rouxel, Sebastian Altmeyer and Clemens Grelck
+(NO PRES)
+
+Jose Proenca
+ARx: Reactive Programming for Synchronous Connectors
+https://www.youtube.com/watch?v=74RUzfYneNI
+
+
+Time-fluid field-based coordination 
+by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli
+(NO PRES)
+
+Giorgio Audrito
+Resilient Distributed Collection through Information Speed Thresholds
+(LATE)
+
+Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited
+by Nicolas Gast, Diego Latella and Mieke Massink
+ https://youtu.be/nGk7sAUBWgI
+
+
+Mahsa Zarneshan
+"Formal modeling and analysis of medical systems"
+https://youtu.be/OuIr4pqOJcw
+
+
+On Implementing Symbolic Controllability 
+by Adrian Francalanza and Jasmine Xuereb
+(NO PRES)
 
 
 Luca Di Stefano
@@ -592,13 +644,8 @@ Combining SLiVER with CADP to Analyze Multi-agent Systems
 https://youtu.be/4D5KdkM9zA4 
 
 
-Roberto Zunino and Massimo Bartoletti
-A true concurrent model of smart contracts executions
-(LATE)
 
-Giorgio Audrito
-Resilient Distributed Collection through Information Speed Thresholds
-(LATE)
+
 
 
 
@@ -609,38 +656,60 @@ DAIS Presentations
 ------------------
 
 
+Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira
+On the trade-offs of combining multiple secure processing primitives for data analytics
+https://youtu.be/2qWoRIv_63c
+
+
+Capturing Privacy-preserving User Contexts with IndoorHash 
+Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment
+(NO PRES)
 
 Self-Tunable DBMS Replication with Reinforcement Learning 
 Luis Ferreira, Fábio André Coelho and Jose Pereira
 https://youtu.be/hx81-NjIKTs
 
 
-Benjamin Taubmann
-Towards hypervisor support for enhancing the performance of virtual machine introspection  
-https://www.youtube.com/watch?v=fY3aFt8dlE0
+DroidAutoML: A microservice architecture to automate the evaluation of Android machine learning detection systems 
+Yérom-David Bromberg and Louison Gitzinger
+(NO PRES)
 
+
+(Best Paper)
 Vikas Jaiman, Sonia Ben Mokhtar, and Etienne Rivière 
 TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores
 https://youtu.be/BEEfVTjG6CY
+
+
+Benjamin Taubmann and Hans P. Reiser
+Towards hypervisor support for enhancing the performance of virtual machine introspection  
+https://www.youtube.com/watch?v=fY3aFt8dlE0
 
 
 Ioannis Tzouros and Vana Kalogeraki
 Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment
 https://youtu.be/MAt4bWKnaI4
 
-Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira
-On the trade-offs of combining multiple secure processing primitives for data analytics
-https://youtu.be/2qWoRIv_63c
 
-
-Adam Shimi
-Derivation of Heard-Of Predicates From Elementary Behavioral Patterns
-https://www.youtube.com/watch?v=pPb3o0sx7hE
-
+Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform (Experience Report)
+João Abreu, Ana Nunes Alonso, David Nunes, Jose Pereira, Luiz Santos, Tércio Soares and Andre Vieira
+(NO PRES)
 
 Fábio Silva, Ana Nunes Alonso, José Pereira and Rui Oliveira
 A Comparison of Message Exchange Patterns in BFT Protocols (Experience Report) 
  https://www.youtube.com/watch?v=MK1yE99YCuc
+
+
+A resource usage efficient distributed allocation algorithm for 5G Service Function Chains 
+Guillaume Fraysse, Jonathan Lejeune, Julien Sopena and Pierre Sens
+(NO PRES)
+
+A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks 
+Hadid Rachid and Vincent Villain
+(NO PRES)
+
+
+
 
 
 FORTE Presentations
@@ -658,10 +727,18 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
  https://youtu.be/GA45k9tvPo4
 
 
+Adam Shimi
+Derivation of Heard-Of Predicates From Elementary Behavioral Patterns
+https://www.youtube.com/watch?v=pPb3o0sx7hE
 
-Deep Statistical Model Checking by 
-Timo P. Gros, Holger Hermanns, Jörg Hoffmann, Michaela Klauck and Marcel Steinmetz, 
-https://youtu.be/V5QxOUnqHpk
+Kiraku Minami
+"Trace Equivalence and Epistemic Logic to Express Security Properties"
+https://www.youtube.com/watch?v=_qyWuAMqbzc
+
+
+A Formal Framework for Consent Management 
+by Shukun Tokas and Olaf Owe
+(NO PRES)
 
 
 Claudio Antares Mezzina
@@ -669,20 +746,29 @@ Claudio Antares Mezzina
 https://www.youtube.com/watch?v=yEy77WMD0MY&feature=youtu.be
 
 
-Kiraku Minami
-"Trace Equivalence and Epistemic Logic to Express Security Properties"
-https://www.youtube.com/watch?v=_qyWuAMqbzc
-
-
 
 Mohammadreza Mousavi
 Conformance-Based Doping Detection of Cyber-Physical Systems
 https://youtu.be/ENCK5BO_F1E
 
-
 Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego 
 by Davide Basile, Maurice H. ter Beek and Axel Legay
 https://www.youtube.com/watch?v=Nc5rrkyWlb8
+
+
+Towards Deep Statistical Model Checking by 
+Timo P. Gros, Holger Hermanns, Jörg Hoffmann, Michaela Klauck and Marcel Steinmetz, 
+https://youtu.be/V5QxOUnqHpk
+
+
+Towards a Hybrid Verification Methodology for Communication Protocols 
+Christian Bartolo Burlo, Adrian Francalanza and Alceste Scalas
+https://youtu.be/FL_teSjllSE
+
+
+
+Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities 
+Jeremy Sproston
 
 
 On Implementable Timed Automata 
