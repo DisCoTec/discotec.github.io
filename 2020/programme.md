@@ -124,16 +124,16 @@
 |Time |ICE|FOCODILE|
 |:---:|:---:|:---:|
 |**09.30-10.20**|Invited talk|
-|*10.20-10.40*|*break*|
+|*10.20-10.40*|*break*|*break*|
 |**10.40-11.10**| [A type language for message passing component-based systems](#languages) | 
 |**11.10-11.40**| [Typestates to Automata and back: a tool](#languages) | 
 |**11.40-12.00**| [Purely Functional Message Passing](#languages) | 
-|*12.00-13.00*|*break*|
+|*12.00-13.00*|*break*|*break*|
 |**13.00-13.30**| [An Abstract Framework for Choreographic Testing ](#choreographies) | 
 |**13.30-14.00**| [Towards Refinable Choreographies](#choreographies) |
 |**14.00-14.20**| [Microservice Interface Based Deployment Orchestration](#software-engineering) |
 |**14.20-14.40**| [Taming Software Development complexity via reversibility](#software-engineering) |
-|*14.40-15.00*|*break*| 
+|*14.40-15.00*|*break*|*break*| 
 |**15.00-15.50**|Invited talk|
 |**15.50-16.20**| [On the Parameterized Complexity of Synthesizing Boolean Petri Nets With Restricted Dependency](#fundamental-models-of-concurrency) |
 |**16.20-16.40**| [Comparing Session Type Interpretations of Linear Logic](#fundamental-models-of-concurrency) | 
