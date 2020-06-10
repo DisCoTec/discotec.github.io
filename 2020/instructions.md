@@ -1,3 +1,5 @@
+[![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
+
 # Instructions for Attendees
 
 ## Tutorials
