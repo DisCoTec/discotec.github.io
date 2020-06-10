@@ -106,7 +106,6 @@ Hensel, Sebastian Junges, Joost-Pieter Katoen, Tim Quatmann and [Matthias Volk](
 
 ### Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems
 
-
 [Instructions to download and install the tool](https://github.com/miguelammatos/Kollaps#pre)
 <br/><br/>
 The systematic evaluation of distributed systems is a very challenging task as experimental results can be affected by a wide range of factors.
@@ -116,6 +115,7 @@ By the end of this tutorial, attendants will be able to apply these tools in the
 <br/>
 *Biography:* Miguel Matos is an assistant professor at the Engineering School of the University of Lisbon (Instituto Superior Técnico) and a Senior Researcher at INESC-ID.His research interests lie in the area of distributed systems, in the subjects of scalability, performance, correctness and systems evaluation. In particular, he is conducting research in blockchain and related problems,consistency and scalability in large scale databases, systems evaluation under faults and experimental reproducibility. His work has been published in venues such as TPDS, JPDC, Eurosys, IPDPS, Middleware, SRDS and DAIS.
 The presented work is the result of joint work between Miguel's team at U. Lisboa, Portugal and researchers from U. of Neuchâtel, Switzerland.
+
 <br/>
 <br/>
 

@@ -641,7 +641,7 @@ https://youtu.be/OuIr4pqOJcw
 
 On Implementing Symbolic Controllability 
 by Adrian Francalanza and Jasmine Xuereb
-(NO PRES)
+https://www.youtube.com/watch?v=N-tgb5QX4tE&feature=share
 
 
 Luca Di Stefano
@@ -707,7 +707,7 @@ A Comparison of Message Exchange Patterns in BFT Protocols (Experience Report)
 
 A resource usage efficient distributed allocation algorithm for 5G Service Function Chains 
 Guillaume Fraysse, Jonathan Lejeune, Julien Sopena and Pierre Sens
-(NO PRES)
+https://www.youtube.com/watch?v=dGzjklfyzlA
 
 A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks 
 Hadid Rachid and Vincent Villain
@@ -743,7 +743,7 @@ https://www.youtube.com/watch?v=_qyWuAMqbzc
 
 A Formal Framework for Consent Management 
 by Shukun Tokas and Olaf Owe
-(NO PRES)
+https://www.youtube.com/watch?v=edoxYSyUGWU&feature=youtu.be​
 
 
 Claudio Antares Mezzina
