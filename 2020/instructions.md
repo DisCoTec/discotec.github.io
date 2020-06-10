@@ -12,8 +12,7 @@ General and tutorial attendees should follow these instructions to set up Zoom. 
 
 2. The Zoom client window will pop up.
 
-    ![Client](screenshots/waiting.png)
-{:height="50%" width="50%"}
+    ![Client](screenshots/waiting.png){:height="50%" width="50%"}
 
 3. If the webinar has not yet started, wait fro the host to start the meeting.
 
