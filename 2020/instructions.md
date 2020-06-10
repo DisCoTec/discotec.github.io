@@ -18,14 +18,14 @@ General and tutorial attendees should follow these instructions to set up Zoom.
 
 4. Once the webinar starts, the presenter's screen is shared; questions can be asked by clicking the *Q&A* button.
 
-    ![Q&A](screenshots/questions.png){:height="50%" width="50%"}
+    ![Q&A](screenshots/q_and_a.png){:height="50%" width="50%"}
 
 
 ## Tutorials
 
-In the case of tutorials, the attendee may wish to share their screen. This can be done by clicking the *Raise Hand*. 
+In the case of tutorials, the attendee may wish to share their screen. This can be done by clicking *Raise Hand*. 
 
-![RaiseHand](screenshots/questions.png){:height="50%" width="50%"}
+![RaiseHand](screenshots/raise_hand.png){:height="50%" width="50%"}
 
 
 
