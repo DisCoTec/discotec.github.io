@@ -8,7 +8,7 @@ General and tutorial attendees should follow these instructions to set up Zoom. 
 
 1. To join the webinar, click the *Click Here to Join* link that you received via email.
 
-![Email Invite](screenshots/invite.png)
+![Email Invite](screenshots/invite.png){:height="50%" width="50%"}
 
 2. The Zoom client window will pop up.
 
