@@ -2,9 +2,33 @@
 
 # Instructions for Attendees
 
-## Tutorials
+If you have not yet installed the Zoom client, download and install it accordingly. 
+General and tutorial attendees should follow these instructions to set up Zoom. N
+
+
+1. To join the webinar, click the *Click Here to Join* link that you received via email.
+
+![Email Invite](screenshots/invite.png)
+
+2. The Zoom client window will pop up.
+
+![Client](screenshots/waiting.png)
+
+3. If the webinar has not yet started, wait fro the host to start the meeting.
+
+
+
 
 ## General
+
+
+
+
+## Tutorials
+
+
+
+
 
 
 
