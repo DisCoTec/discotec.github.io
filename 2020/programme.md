@@ -75,8 +75,9 @@
 |**15.30-16.00**| [Implementation of Multiparty Session Types in Rust](#communications-types--implementations)<br/> (10 min break at 15:50) | [Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform](#fault-tolerance-and-reproducibilty) | [A Formal Framework for Consent Management](#formal-frameworks) |
 |**16.00-16.30**| [Renegotiation and recursion in Bitcoin contract](#digital-contracts) | [A Comparison of Message Exchange Patterns in BFT Protocols](#fault-tolerance-and-reproducibilty) | [Towards Bridging Time and Causal Reversibility](#formal-frameworks)  |
 |**16.30-16.50**| [Towards a Formally Verified EVM in Production Environment](#digital-contracts) |
-|*16.50-17.30*|*break*|*break*|*break*|
+|*16.50-17.30*| *break* | *break* | *break* |
 |**17.30-18.30**| [(Invited Talk) Kenneth McMillan: Ivy: A Verification tool for Distributed Algorithms](invited#kenneth-mcmillan) | [(Invited Talk) Kenneth McMillan: Ivy: A Verification tool for Distributed Algorithms](invited#kenneth-mcmillan) | [(Invited Talk) Kenneth McMillan: Ivy: A Verification tool for Distributed Algorithms](invited#kenneth-mcmillan) | 
+
 <br/>
 
   
@@ -87,8 +88,6 @@
 
 ### Conference Talks
 
-  
-  
 
 |Time |COORDINATION|DAIS|FORTE| 
 |:---:|:---:|:---:|:---:|
