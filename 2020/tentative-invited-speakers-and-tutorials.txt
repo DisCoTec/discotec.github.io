@@ -489,7 +489,6 @@ Part 3: https://youtu.be/3anmrALqJW0
 
 
 
-
 “CHOReVOLUTION IDRE: An Integrated Development and Run-time Environment for Automatically Realizing and Executing Distributed Applications.”
 
 Slot 1: Marco Autili will introduce and overview the approach underlyining our tool, the CHOReVOLUTION IDRE
@@ -511,6 +510,12 @@ https://www.youtube.com/watch?v=rCgoqV5hesQ
 https://www.youtube.com/watch?v=WR72wrvtta0
 
 
+Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems
+
+Find below the links for the videos:
+Part I: https://youtu.be/j5vqLQjtyQo
+Part II: https://youtu.be/GMFvWBTZJ1M   
+Part III:  https://youtu.be/zA18Y9SC2xs
 
 
 
@@ -591,7 +596,7 @@ https://youtu.be/0S6y0MamAnM
 
 SFJ: An Implementation of Semantic Featherweight Java (Tool paper) 
 by Artem Usov and Ornela Dardha
-(NO PRES)
+ https://youtu.be/80lTpmNlots
 
 Nicolas Lagaillardie 
 "Implementation of Multiparty Session Types in Rust":
@@ -693,7 +698,7 @@ https://youtu.be/MAt4bWKnaI4
 
 Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform (Experience Report)
 João Abreu, Ana Nunes Alonso, David Nunes, Jose Pereira, Luiz Santos, Tércio Soares and Andre Vieira
-(NO PRES)
+https://youtu.be/lIzJtF7hhAI 
 
 Fábio Silva, Ana Nunes Alonso, José Pereira and Rui Oliveira
 A Comparison of Message Exchange Patterns in BFT Protocols (Experience Report) 

@@ -106,6 +106,9 @@ Hensel, Sebastian Junges, Joost-Pieter Katoen, Tim Quatmann and [Matthias Volk](
 
 ### Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems
 
+
+[Instructions to download and install the tool](https://github.com/miguelammatos/Kollaps#pre)
+<br/><br/>
 The systematic evaluation of distributed systems is a very challenging task as experimental results can be affected by a wide range of factors.
 In particular, the network and its dynamics, such as sudden changes in latency or available bandwidth have a significant impact on the performance of distributed systems. 
 In this tutorial we will do a hands-on demonstration of the capabilities of Kollaps/Thunderstorm, a set of tools that allow to deploy and evaluate unmodified off-the-shelf container applications under a controlled network environment.
