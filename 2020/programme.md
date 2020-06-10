@@ -27,10 +27,6 @@
 
   
 
-### Invited Talk
-
-**10.00-11.00:** &nbsp;  &nbsp; *Peter Kriens* &nbsp; [Formal Specifications to Increase Understanding](invited#peter-kriens)
-
   
 
 ### Conference Talks
@@ -39,6 +35,7 @@
 
 |Time |COORDINATION|DAIS|FORTE|
 |:---:|:---:|:---:|:---:|
+|**10.00-11.00**| [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) | [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) | [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) |
 |*11.00-11.30*|*break*|*break*|*break*|
 |**11.30-12.00**| [Operational representation of dependencies in Context-Dependent Event Structures](#modelling-1) | [On the trade-offs of combining multiple secure processing primitives for data analytics](#privacy-and-security) |
 |**12.00-12.30**| [Architecture modelling of parametric component-based systems](#modelling-1) | [Capturing Privacy-preserving User Contexts with IndoorHash](#privacy-and-security)|
@@ -57,12 +54,6 @@
 
 ## Wednesday 17 June
 
-  
-
-### Invited Talk
-
-**10.00-11.00:** &nbsp;  &nbsp; *Nathalie Bertrand* &nbsp; [Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand)<br/>
-**17.30-18.30:** &nbsp;  &nbsp; *Kenneth McMillan* &nbsp; [Ivy: A Verification tool for Distributed Algorithms](invited#kenneth-mcmillan)
 
   
 
@@ -72,6 +63,7 @@
 
 |Time |COORDINATION|DAIS|FORTE| 
 |:---:|:---:|:---:|:---:|
+|**10.00-11.00**| [(Invited Talk) Nathalie Bertrand: Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand) | [(Invited Talk) Nathalie Bertrand: Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand) | [(Invited Talk) Nathalie Bertrand: Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand) |
 |*11.00-11.30*|*break*|*break*|*break*|
 |**11.30-12.00**| [A true concurrent model of smart contracts executions](#coordination-best-paper) | | |
 |**12.00-12.30**| | [TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores](#dais-best-paper) | |
@@ -83,18 +75,13 @@
 |**15.30-16.00**| [Implementation of Multiparty Session Types in Rust](#communications-types--implementations)<br/> (10 min break at 15:50) | [Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform](#fault-tolerance-and-reproducibilty) | [A Formal Framework for Consent Management](#formal-frameworks) |
 |**16.00-16.30**| [Renegotiation and recursion in Bitcoin contract](#digital-contracts) | [A Comparison of Message Exchange Patterns in BFT Protocols](#fault-tolerance-and-reproducibilty) | [Towards Bridging Time and Causal Reversibility](#formal-frameworks)  |
 |**16.30-16.50**| [Towards a Formally Verified EVM in Production Environment](#digital-contracts) |
-
+|*16.50-17.30*|*break*|*break*|*break*|
+|**17.30-18.30**| [(Invited Talk) Kenneth McMillan: Ivy: A Verification tool for Distributed Algorithms](invited#kenneth-mcmillan) | [(Invited Talk) Kenneth McMillan: Ivy: A Verification tool for Distributed Algorithms](invited#kenneth-mcmillan) | [(Invited Talk) Kenneth McMillan: Ivy: A Verification tool for Distributed Algorithms](invited#kenneth-mcmillan) | 
 <br/>
 
   
 
 ## Thursday 18 June
-
-  
-
-### Invited Talk
-
-**10.00-11.00:** &nbsp;  &nbsp; *Holger Hermanns* &nbsp; [Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns)
 
   
 
@@ -105,6 +92,7 @@
 
 |Time |COORDINATION|DAIS|FORTE| 
 |:---:|:---:|:---:|:---:|
+|**10.00-11.00:**|  [(Invited Talk) Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns) |  [(Invited Talk) Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns) |  [(Invited Talk) Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns) |
 |*11.00-11.30*|*break*|*break*|*break*|
 |**11.30-12.00**| [Towards Energy-, Time- and Security-aware Multi-core Coordination](#coordination-languages) | [A resource usage efficient distributed allocation algorithm for 5G Service Function Chains](#distributed-algorithms) | [Conformance-Based Doping Detection for Cyber-Physical Systems](#verification-1) |
 |**12.00-12.30**| [ARx: Reactive Programming for Synchronous Connectors](#coordination-languages) | [A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks](#distributed-algorithms) | [Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego](#verification-1)  |
