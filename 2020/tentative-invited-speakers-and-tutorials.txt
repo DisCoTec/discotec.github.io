@@ -677,7 +677,7 @@ https://youtu.be/hx81-NjIKTs
 
 DroidAutoML: A microservice architecture to automate the evaluation of Android machine learning detection systems 
 Yérom-David Bromberg and Louison Gitzinger
-(NO PRES)
+https://youtu.be/65N6JHpp9Pw
 
 
 (Best Paper)
