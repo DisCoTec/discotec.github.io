@@ -29,21 +29,21 @@ For tutorials, attendees may wish to share their screen. Click *Raise Hand* to i
 
 
 
-# Instructions for Presenters
+# Instructions for Speakers
 
-Presentations will be hosted by helpers and shall be streamed via Zoom in the form of prerecorded videos. The video links will be made publicly available at the end of each day.
+Presentations will be hosted by helpers and shall be streamed via Zoom in the form of prerecorded videos. The video links will be made publicly available at the end of each day. Should you not wish to have your talk made public, please inform us accordingly via email. We however strongly encourage speakers to make their talk public.
 
-Before the start of each session, **session chairs** will be promoted to co-hosts in order to direct the session accordingly. **Speakers** will be promoted to panelists before their talk commences, so that they can manage and reply to question posed by the audience.
+Before the start of each session, **session chairs** will be promoted to co-hosts in order to direct the session accordingly. **Speakers** will be promoted to panelists before their talk commences, so that they can manage and reply to question posed by attendees.
+
+While both session chairs and speakers will be able to access all the questions, attendees will be able to see just the questions that have been answered. Attendees have been instructed to post questions using the *Q&A* functionality.
+
+Questions posed by attendees will appear in the *Q&A* popup window as shown. The popup has two tabs *XX* and *YY*; *XX* shows all the available questions which the speaker may choose to address or otherwise. Answered questions become visible by the audience once answered, and may be viewed in the *YY* tab.
+
+Speakers can answer questions as follows:
+
+1. Questions asked 
 
 
-
-
-
-During the course of a webinar, session chairs and presenters will be promoted accordingly to manage their 
-
-
-
-questions
 
 
 
