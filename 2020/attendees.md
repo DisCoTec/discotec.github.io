@@ -30,9 +30,13 @@ An ongoing Zoom webinar can be joined by following these instructions. Tutorial 
 
 8. A prompt to unmute your mic will appear; press *Unmute* to enable your mic.
 
-    IMG FOR UNMUTE
+    ![Q&A](screenshots/unmute.png){:height="50%" width="50%"}
 
 8. Once the question is concluded, the attendee will be muted automatically.
+
+
+Questions posed by attendees will appear in the *Q&A* popup window as shown. The popup has two tabs *All questions* and *My questions*; *All questions* shows all the available questions which the speaker may choose to address or otherwise. Answered questions become visible by the audience once answered, and may be viewed in the *My questions* tab.
+
 
 
 ## Tutorials
@@ -40,6 +44,8 @@ An ongoing Zoom webinar can be joined by following these instructions. Tutorial 
 For tutorials, attendees may wish to share their screen. 
 
 The above procedure for asking questions should be followed, and in addition, the attendee may request to their screen by asking the host over the mic.
+
+
 
 
 

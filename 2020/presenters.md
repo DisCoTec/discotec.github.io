@@ -1,15 +1,48 @@
 
 
+[![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
 
-# Instructions for Speakers
+# Instructions for Invited, Conference, Tutorial and Workshop Speakers
 
-Presentations will be hosted by helpers and shall be streamed via Zoom in the form of prerecorded videos. The video links will be made publicly available at the end of each day. Should you not wish to have your talk made public, please inform us accordingly via email. We however strongly encourage speakers to make their talk public.
+**Download and install the Zoom client if not yet installed.**
 
-Before the start of each session, **session chairs** will be promoted to co-hosts in order to direct the session accordingly. **Speakers** will be promoted to panelists before their talk commences, so that they can manage and reply to question posed by attendees.
+Presentations will be hosted by helpers and shall be streamed via Zoom in the form of prerecorded videos. The video links will be made publicly available at the end of each day. Should you **not** wish to have your talk made public, please inform us accordingly via email. We however strongly encourage presenters to make their talk public.
 
-While both session chairs and speakers will be able to access all the questions, attendees will be able to see just the questions that have been answered. Attendees have been instructed to post questions using the *Q&A* functionality.
+**Presenters** will be promoted to *Zoom panelists* before their talk commences, so that they can manage and reply to questions posed by attendees.
 
-Questions posed by attendees will appear in the *Q&A* popup window as shown. The popup has two tabs *All questions* and *My questions*; *All questions* shows all the available questions which the speaker may choose to address or otherwise. Answered questions become visible by the audience once answered, and may be viewed in the *My questions* tab.
+While both session chairs and presenters will be able to access all the questions, attendees can only see the questions that have been answered. Attendees have been instructed to post questions using the *Q&A* functionality.
+
+Questions posted by attendees can be accessed by clicking the *Q&A* button.
+
+IMG OF QA
+
+Once the *Q&A* popup appears, the following procedure should be used when addressing questions:
+
+
+
+
+
+
+The *Q&A* popup should appear.
+
+It is has three tabs *Open*, *Answered* and *Dismissed*.
+
+*Open* shows all the available questions which have not yet been answered.
+
+1. Presenters should answer a question over the mic by clicking *Answer live*; the speaker should make sure that his mic is unmuted.
+
+2. After the presenter has answered the question, it is important complete the question by clicking *Done*. The question will go to the *Answered* tab.
+
+3. The session host will allow the attendee to speak by unmuting the mic to as follow up questions if need be.
+
+4. After *Done* is pressed, the presenter can move on to answer the next question buy following step 1.
+
+
+
+
+
+
+
 
 Speakers should answer questions **live** as follows:
 
@@ -41,6 +74,11 @@ Speakers should answer questions **live** as follows:
 
 
 # Instructions for Session Chairs
+
+The session chair will have an open mic and can speak by unmuting his mic.
+
+Before the start of each session, **session chairs** will be promoted to Zoom panelists in order to oversee the session accordingly. They will have an open mic and can direct the discussion during the Q&A session.
+
 
 
 
