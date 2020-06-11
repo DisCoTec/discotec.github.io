@@ -1,10 +1,10 @@
 [![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
 
+Download and install the Zoom client if not yet installed.
+
 # Instructions for Attendees
 
-If you have not yet installed the Zoom client, download and install it accordingly. 
-General and tutorial attendees should follow these instructions to set up Zoom. 
-
+An ongoing Zoom webinar can be joined by following the instructions below. Tutorial attendees should in addition, follow the instructions found [below](#Tutorials).
 
 1. To join the webinar, click the *Click Here to Join* link that you received via email.
 
@@ -14,7 +14,7 @@ General and tutorial attendees should follow these instructions to set up Zoom.
 
     ![Client](screenshots/waiting.png){:height="50%" width="50%"}
 
-3. If the webinar has not yet started, wait for the host to start the meeting.
+3. If the webinar has not yet started, wait for the host to start the meeting, otherwise you will be connected automatically.
 
 4. Once the webinar starts, the presenter's screen is shared; questions can be asked by clicking the *Q&A* button.
 
@@ -23,7 +23,7 @@ General and tutorial attendees should follow these instructions to set up Zoom.
 
 ## Tutorials
 
-In the case of tutorials, the attendee may wish to share their screen. This can be done by clicking *Raise Hand*. 
+For tutorials, attendees may wish to share their screen. Click *Raise Hand* to inform the presenter that you would like to share your screen.
 
 ![RaiseHand](screenshots/raise_hand.png){:height="50%" width="50%"}
 
@@ -31,6 +31,19 @@ In the case of tutorials, the attendee may wish to share their screen. This can 
 
 # Instructions for Presenters
 
+Presentations will be hosted by helpers and shall be streamed via Zoom in the form of prerecorded videos. The video links will be made publicly available at the end of each day.
+
+Before the start of each session, **session chairs** will be promoted to co-hosts in order to direct the session accordingly. **Speakers** will be promoted to panelists before their talk commences, so that they can manage and reply to question posed by the audience.
+
+
+
+
+
+During the course of a webinar, session chairs and presenters will be promoted accordingly to manage their 
+
+
+
+questions
 
 
 
