@@ -75,6 +75,21 @@ I will describe the principles of Ivy's design and describe how to use Ivy effec
 
 
 
+## Vassilis Zikas
+
+[Blockchain Technology Lab](mailto:vzikas@inf.ed.ac.uk)
+
+###  From Blockchain to Global-Scale Trustworthy Infrastructure
+
+The wide adoption of global computer networks, such as the Internet, creates immense opportunities, and challenges the traditional centralized trust model. The idea of giving control of widely-used critical infrastructure to its users is becoming ever more popular. Blockchain and Distributed Ledger Technology (DLT) promise to bring the decentralization ideas to reality and disrupt traditional strongholds of trust in the financial, digital, biomedical, and manufacturing sectors, as well as in governance. This talk will discuss the basic principles of blockchain-based DLT, and how intensive research in cryptography, security, and distributed systems paves the path to global and sustainable decentralization. I will discuss novel design choices that go into blockchain-based DLT, and how these choices critically impact the security of the solutions and address implementation and deployment challenges. The talk will be self-contained and accessible to the general CS audience.
+
+
+### Biography 
+
+Prof. Vassilis Zikas is an Associate Professor (Sr. Lecturer) and the Vice Director of the Blockchain Technology Lab at the University of Edinburgh. His research on blockchain and cryptocurrencies has been published at the top venues in cryptography and security, and is being deployed in popular blockchain systems. Prior to his current appointment, Vassilis was a tenure-track Assistant Professor at RPI, Troy, NY, a Research Fellow at Simons Institute, UC Berkeley, a Senior Researcher at ETH Zurich, and postdoctoral researcher at UCLA and the University of Maryland. He has also been a research fellow and area leader for the leading research-and-development blockchain company IOHK and has received substantial industry support for his research on blockchain and decentralized ledgers. Vassilis is the recipient of a highly selective career development grant by the Swiss NSF, a Simons Institute Fellowship, and a Swiss NSF Fellowship.
+
+
+
 
 
 

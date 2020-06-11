@@ -668,7 +668,7 @@ https://youtu.be/2qWoRIv_63c
 
 Capturing Privacy-preserving User Contexts with IndoorHash 
 Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment
-(NO PRES)
+https://www.youtube.com/watch?v=c1UvQaYlAAs
 
 Self-Tunable DBMS Replication with Reinforcement Learning 
 Luis Ferreira, Fábio André Coelho and Jose Pereira
@@ -677,7 +677,7 @@ https://youtu.be/hx81-NjIKTs
 
 DroidAutoML: A microservice architecture to automate the evaluation of Android machine learning detection systems 
 Yérom-David Bromberg and Louison Gitzinger
-(NO PRES)
+https://youtu.be/65N6JHpp9Pw
 
 
 (Best Paper)
@@ -751,7 +751,6 @@ Claudio Antares Mezzina
 https://www.youtube.com/watch?v=yEy77WMD0MY&feature=youtu.be
 
 
-
 Mohammadreza Mousavi
 Conformance-Based Doping Detection of Cyber-Physical Systems
 https://youtu.be/ENCK5BO_F1E
@@ -771,9 +770,9 @@ Christian Bartolo Burlo, Adrian Francalanza and Alceste Scalas
 https://youtu.be/FL_teSjllSE
 
 
-
 Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities 
 Jeremy Sproston
+(LATE)
 
 
 On Implementable Timed Automata 

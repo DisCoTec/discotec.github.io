@@ -9,10 +9,15 @@
 
 ## Monday 15 June
 
+### Webinars
+
+- Distributed Computing Tutorial track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_WLioNnmqSJinDv9Blxjkig)
+- Verification Track Tutorial track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_YV_VItlZQ9eeQntUAXR3kA)
+
+
 ### Tutorials 
 
-
-|Time |Distributed Computing Track| Verification Track|
+|Time | [Distributed Computing Track](https://universityofmalta.zoom.us/webinar/register/WN_WLioNnmqSJinDv9Blxjkig) | [Verification Track](https://universityofmalta.zoom.us/webinar/register/WN_YV_VItlZQ9eeQntUAXR3kA) |
 |:---:|:---:|:---:|
 |**10.30-12.00**| [Choreographic Development of Message-Passing Applications](tutorials#choreographic-development-of-message-passing-applications) | [Parameterized Verification with Byzantine Model Checker](https://www.discotec.org/2020/tutorials#parameterized-verification-with-byzantine-model-checker) |
 |*12.00-13.30*| *break* | *break*|
@@ -26,14 +31,18 @@
 ## Tuesday 16 June
 
   
+### Webinars
 
+- DisCoTec Main track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_zpyypjBfQh6kPAI0hK_MPA) (Invited talk)
+- COORDINATION track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_uIC7mOktRoyuJ6aCtX4dEw)
+- DAIS track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_OPxCTRW9QU2Oii-v9zLUXA)
   
 
 ### Conference Talks
 
   
 
-|Time |COORDINATION|DAIS|FORTE|
+|Time |[COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_uIC7mOktRoyuJ6aCtX4dEw) | [DAIS](https://universityofmalta.zoom.us/webinar/register/WN_OPxCTRW9QU2Oii-v9zLUXA) | FORTE |
 |:---:|:---:|:---:|:---:|
 |**10.00-11.00**| [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) | [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) | [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) |
 |*11.00-11.30*|*break*|*break*|*break*|
@@ -125,7 +134,7 @@
 |**15.50-16.20**| [On the Parameterized Complexity of Synthesizing Boolean Petri Nets With Restricted Dependency](#fundamental-models-of-concurrency) | [Brick: Asynchronous Payment Channels](#session-2) |
 |**16.20-16.40**| [Comparing Session Type Interpretations of Linear Logic](#fundamental-models-of-concurrency) | [Catastrophe by Design: Destabilizing Wasteful Technologies and The Phase Transition from Proof of Work to Proof of Stake](#session-2) |
 |**16.40-17.00**| [Structural Equivalences for Reversible Calculi of Communicating Systems](#fundamental-models-of-concurrency) | 
-|**17.00-18.00**|  | Invited Talk |
+|**17.00-18.00**|  | [(Invited Talk) Vassilis Zikas: From Blockchain to Global-Scale Trustworthy Infrastructure](invited#vassilis-zikas)   |
 |*18.00-18.30*|*break*|*break*|
 |**18.30-19.00**|  | [TontineCoin: Brief Description](#session-3)  |  
 |**19.00-19.30**|  | [On coercion resistance in decentralized voting](#session-3)  |
