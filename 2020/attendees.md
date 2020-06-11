@@ -8,7 +8,7 @@ An ongoing Zoom webinar can be joined by following the instructions below. Tutor
 
 1. To join the webinar, click the *Click Here to Join* link that you received via email.
 
-    ![Email Invite](screenshots/invite.png){:height="50%" width="50%"}
+    ![Email Invite](screenshots/invite.png){:height="75%" width="75%"}
 
 2. The Zoom client window will pop up.
 
