@@ -1,10 +1,10 @@
 [![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
 
-Download and install the Zoom client if not yet installed.
-
 # Instructions for Attendees
 
-An ongoing Zoom webinar can be joined by following the instructions below. Tutorial attendees should in addition, follow the instructions found [below](#Tutorials).
+**Download and install the Zoom client if not yet installed.**
+
+An ongoing Zoom webinar can be joined by following these instructions. Tutorial attendees should in addition, follow the instructions found [below](#Tutorials).
 
 1. To join the webinar, click the *Click Here to Join* link that you received via email.
 
@@ -16,7 +16,7 @@ An ongoing Zoom webinar can be joined by following the instructions below. Tutor
 
 3. If the webinar has not yet started, wait for the host to start the meeting, otherwise you will be connected automatically.
 
-4. Once the webinar starts, the presenter's screen is shared; questions can be asked by clicking the *Q&A* button.
+4. During presentations, attendees may ask questions by clicking the *Q&A* button.
 
     ![Q&A](screenshots/q_and_a.png){:height="50%" width="50%"}
 
@@ -24,12 +24,25 @@ An ongoing Zoom webinar can be joined by following the instructions below. Tutor
 
     ![Q&A](screenshots/q_and_a_dialog.png){:height="50%" width="50%"}
 
+6. Questions will be answered by presenters live over the mic.
 
-6. Questions will be answered by the speakers live through voice and not text.
+7. Attendees whose question is chosen to be answered will be automatically given the opportunity to unmute themselves in order to ask follow up questions.
+
+8. A prompt to unmute your mic will appear; press *Unmute* to enable your mic.
+
+    IMG FOR UNMUTE
+
+8. Once the question is concluded, the attendee will be muted automatically.
 
 
 ## Tutorials
 
-For tutorials, attendees may wish to share their screen. Click *Raise Hand* to inform the presenter that you would like to share your screen.
+For tutorials, attendees may wish to share their screen. 
 
-![RaiseHand](screenshots/raise_hand.png){:height="50%" width="50%"}
+The above procedure for asking questions should be followed, and in addition, the attendee may request to their screen by asking the host over the mic.
+
+
+
+<!-- Click *Raise Hand* to inform the presenter that you would like to share your screen.
+
+![RaiseHand](screenshots/raise_hand.png){:height="50%" width="50%"} -->
