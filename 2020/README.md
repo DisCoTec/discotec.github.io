@@ -29,6 +29,8 @@ The DisCoTeC organisation committee has decided that, due to the current COVID-1
 * [Holger Hermanns](invited#holger-hermanns), Saarland University
 * [Peter Kriens](invited#peter-kriens), aQute & OSGi Alliance
 * [Kenneth McMillan](invited#kenneth-mcmillan), Microsoft Research Lab Redmond
+* [Vassilis Zikas](invited#vassilis-zikas), Blockchain Technology Lab Edinburgh  
+
 
 ## Programme
 

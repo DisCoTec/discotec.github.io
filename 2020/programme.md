@@ -125,7 +125,7 @@
 |**15.50-16.20**| [On the Parameterized Complexity of Synthesizing Boolean Petri Nets With Restricted Dependency](#fundamental-models-of-concurrency) | [Brick: Asynchronous Payment Channels](#session-2) |
 |**16.20-16.40**| [Comparing Session Type Interpretations of Linear Logic](#fundamental-models-of-concurrency) | [Catastrophe by Design: Destabilizing Wasteful Technologies and The Phase Transition from Proof of Work to Proof of Stake](#session-2) |
 |**16.40-17.00**| [Structural Equivalences for Reversible Calculi of Communicating Systems](#fundamental-models-of-concurrency) | 
-|**17.00-18.00**|  | Invited Talk |
+|**17.00-18.00**|  | [(Invited Talk) Vassilis Zikas: From Blockchain to Global-Scale Trustworthy Infrastructure](invited#vassilis-zikas)   |
 |*18.00-18.30*|*break*|*break*|
 |**18.30-19.00**|  | [TontineCoin: Brief Description](#session-3)  |  
 |**19.00-19.30**|  | [On coercion resistance in decentralized voting](#session-3)  |
