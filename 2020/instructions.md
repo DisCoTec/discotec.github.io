@@ -1,31 +1,3 @@
-[![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
-
-Download and install the Zoom client if not yet installed.
-
-# Instructions for Attendees
-
-An ongoing Zoom webinar can be joined by following the instructions below. Tutorial attendees should in addition, follow the instructions found [below](#Tutorials).
-
-1. To join the webinar, click the *Click Here to Join* link that you received via email.
-
-    ![Email Invite](screenshots/invite.png){:height="50%" width="50%"}
-
-2. The Zoom client window will pop up.
-
-    ![Client](screenshots/waiting.png){:height="50%" width="50%"}
-
-3. If the webinar has not yet started, wait for the host to start the meeting, otherwise you will be connected automatically.
-
-4. Once the webinar starts, the presenter's screen is shared; questions can be asked by clicking the *Q&A* button.
-
-    ![Q&A](screenshots/q_and_a.png){:height="50%" width="50%"}
-
-
-## Tutorials
-
-For tutorials, attendees may wish to share their screen. Click *Raise Hand* to inform the presenter that you would like to share your screen.
-
-![RaiseHand](screenshots/raise_hand.png){:height="50%" width="50%"}
 
 
 
@@ -37,11 +9,14 @@ Before the start of each session, **session chairs** will be promoted to co-host
 
 While both session chairs and speakers will be able to access all the questions, attendees will be able to see just the questions that have been answered. Attendees have been instructed to post questions using the *Q&A* functionality.
 
-Questions posed by attendees will appear in the *Q&A* popup window as shown. The popup has two tabs *XX* and *YY*; *XX* shows all the available questions which the speaker may choose to address or otherwise. Answered questions become visible by the audience once answered, and may be viewed in the *YY* tab.
+Questions posed by attendees will appear in the *Q&A* popup window as shown. The popup has two tabs *All questions* and *My questions*; *All questions* shows all the available questions which the speaker may choose to address or otherwise. Answered questions become visible by the audience once answered, and may be viewed in the *My questions* tab.
 
-Speakers can answer questions as follows:
+Speakers should answer questions **live** as follows:
 
-1. Questions asked 
+1. Questions asked must be answered live
+
+2. Once the question is chosen, the host will allow you to speak so that you can interact with the speaker and perhaps ask follow up questions.
+
 
 
 
@@ -56,6 +31,10 @@ Speakers can answer questions as follows:
 
 ## Conference Speakers
 
+1. Take question by question and answer live using voice not text.
+
+2. The attendee will be unmuted so that he can ask follow up questions.
+
 
 ## Workshop Speakers
 
@@ -64,4 +43,14 @@ Speakers can answer questions as follows:
 # Instructions for Session Chairs
 
 
+
+
+
+# Instructions for Us
+
+To handle questions:
+
+1. Once the speaker presses answer live, this will be shown on the screen
+
+2. We should unmute the asker of the question, so that he can ask follow up questions. Once the question has been answered we unmute the asker.
 
