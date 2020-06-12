@@ -25,6 +25,19 @@ Nathalie Bertrand got her PhD degree from ENS Cachan in 2006. Since 2007, she is
 Inria researcher at IRISA Rennes. Her expertise lies in formal methods, in
 particular model checking, with a special focus on probabilistic models.
 
+
+
+## Cinzia Di Giusto
+
+[(Université Côte d’Azur, CNRS, I3S, France)](mailto:cinzia.di-giusto@unice.fr)
+
+### Talk title: TBA
+
+### Biography
+
+Dr Cinzia Di Giusto received her PhD in Computer Science from the University of Bologna in 2009. She held post-doc positions at Inria-Grenoble (2010-2011) working on the modelling of components with concurrent languages, CEA (2012) on the modelling of reversible structures with categories, and University of Evry (2013) on the modelling and verification of bioinspired models. She joined the University of Nice-Sophia Antipolis (I3S Laboratory) in 2014 as associate professor. Her research interests hinge on the modelling and verification of concurrent and timed systems, especially using process algebra, behavioural types, rewriting systems, Petri nets and more recently communicating automata.
+
+
 ## Holger Hermanns 
 [Saarland University](mailto:hermanns@cs.uni-saarland.de)
 
@@ -56,6 +69,24 @@ I think 'something' like Alloy could be eminently useful if it is used to define
 ### Biography	
   
 Peter Kriens has been a software expert consulting for a large number of (some very) large companies like Ericsson, Intel, Adobe, Philips, etc. Over the past 20 years he has been one of the key people in the development of the OSGi specifications: a highly modular µ-service based component model for the Java world. Many innovations in this specification originated from him. Since 1980, he has been highly interested and engaged in finding ways to develop software _better_. He has mentored hundreds of people to do software engineering.  Up to this day, he is still very much driven by the idea that there should be a better way ... He is Dutch, but has been living in Sweden and now in the south of France.
+
+
+
+## Karoliina Lehtinen
+
+[University of Liverpool](mailto:k.lehtinen@liverpool.ac.uk)
+
+### Parity Games: The Quasi-polynomial Era
+
+Parity games are central to the verification and synthesis of reactive systems: various model-checking and synthesis problems reduce to solving these games. Solving parity games -- that is, deciding which player has a winning strategy -- is one of the few problems known to be in both UP and co-UP yet not known to be in P. So far, the quest for a polynomial algorithm has lasted over 25 years.
+
+In 2017 a major breakthrough occurred: parity games are solvable in quasi-polynomial time. Since then, several seemingly very distinct quasi-polynomial algorithms have been published, both by myself and others, and some of the novel ideas behind them have been applied to address other verification problems.
+
+This talk takes you on a high-level tour of what has been going on in the world of parity games since 2017 and where we are now. I will present one particularly straight-forward quasi-polynomial algorithm in more detail.
+
+### Biography
+
+Dr Karoliina Lehtinen is a Marie Skłodowska-Curie fellow at the University of Liverpool. Her main research interests are logic, games and automata in the context of verification. While she is perhaps best-known for her work on parity games and automata on infinite words, her research also spans topics such as synthesis and runtime verification. She did her doctorate on the modal mu calculus at the University of Edinburgh, UK. She then spent two years at the University of Kiel, Germany, as a postdoc, punctuated by a couple of months at IDC Herzliya, Israel, before moving to Liverpool, back in the UK.
 
 
 
