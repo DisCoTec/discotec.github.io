@@ -7,29 +7,25 @@ We strongly encourage you to download and install the [Zoom client](https://zoom
 
 Presentations will be hosted by *session hosts* and shall be streamed via Zoom in the form of **prerecorded videos**. The video links will be made publicly available at the end of each day. Should you **not** wish to have your talk made public, please inform us accordingly via email. We however strongly encourage presenters to make their talk public.
 
-**Presenters** will be promoted to the role of *Zoom panelist* before their talk commences. This enables them to manage and reply to questions posted by attendees.
+**Presenters** will be promoted to the role of *Zoom panelist* before their talk commences. This enables them to manage and reply to questions posted by attendees. **Session chairs** will be likewise promoted to the same role, but should refrain from answering or moderating questions unless necessary. 
 
-**Session chairs** will be likewise promoted to the same role, but should refrain from answering or moderating questions unless necessary. 
-
-
+![Zoom panelist](screenshots/zoom_panelist.png){:height="50%" width="50%"}
 
 While both session chairs and presenters will be able to access the questions posted, attendees will be able to see only the questions that the presenter has answered. Attendees have been instructed to post questions using the Q&A functionality.
 
-**Presenters** will be demoted back to the role of *attendee* once their talk ends.
+**Presenters** will be demoted back to the role of *attendee* once their talk ends. **Session chairs** will be demoted to said role once the session ends.
 
-**Session chairs** will be demoted to said role once the session ends.
-
-![Zoom panelist](screenshots/zoom_attendee.png){:height="50%" width="50%"}
+![Zoom attendee](screenshots/zoom_attendee.png){:height="50%" width="50%"}
 
 ## Presenting Content
 
 The prerecorded presentation videos shall be aired by the *session host* via screen share. Once the presentation is over, the *session host* will stop the screen sharing session. At this point, the presenter may start addressing the questions that were posted during whilst the presentation was underway. 
 
-## Presenter's checklist
+## Presenter's Checklist
 
 We recommend presenters to follow this checklist.
 
-### Before Presentation is Aired
+#### Before Presentation is Aired
 
 1. Alert the hosts via chat. The chat can be accessed via the `Chat` button. This should be done around 15 minutes before the start of the presentation. Alerting the hosts so that they are informed of whom to promote to the role of *Zoom panelist*.
 
@@ -37,7 +33,7 @@ We recommend presenters to follow this checklist.
 
 2. Have the presentation slides at hand, in case attendees post questions in reference to these slides.
 
-### After the Presentation is Aired
+#### After the Presentation is Aired
 
 Presenters can now start addressing questions. Refer to [below](#answering-questions) for instructions on how to answer questions.
 
@@ -84,7 +80,7 @@ Questions that remain unaddressed will not be visible to *attendees*, only to *s
 
 # Instructions for Session Chairs
 
-Before the start of each session, session chairs will be promoted to the role of *Zoom panelist*.
+Before the start of each session, *session chairs* will be promoted to the role of *Zoom panelist*.
 
 As a *session chair*, you will at all times, have an open mic to introduce presenters and steer the discussion during the Q&A session.
 
