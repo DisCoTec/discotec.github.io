@@ -20,7 +20,9 @@ An ongoing Zoom webinar can be joined by following these instructions.
 
 ## Asking Questions During Presentations
 
-1. During presentations, you may ask questions by clicking the `Q&A` from the Zoom dock. The dock is located at the top or bottom of your screen.
+The following procedure should be used to ask questions:
+
+1. Click the `Q&A` from the Zoom dock. The dock is located at the top or bottom of your screen.
 
     ![Q&A](screenshots/q_and_a.png){:height="50%" width="50%"}
 
