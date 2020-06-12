@@ -27,9 +27,7 @@ We recommend that *presenters* follow this checklist.
 
 #### Before Session Starts
 
-1. Alert the *session hosts* via chat. The chat can be accessed using the `Chat` button. This should be done around **15 minutes** before the start of the **session**. Please make sure to include the title of the presentation.
-
-This informs the *session hosts* of whom to promote to the role of *Zoom panelist*.
+1. Alert the *session hosts* via chat. The chat can be accessed using the `Chat` button. This should be done around **15 minutes** before the start of the **session**. Please make sure to include the title of the presentation. This informs the *session hosts* of whom to promote to the role of *Zoom panelist*.
 
     ![Q&A](screenshots/chat.png){:height="50%" width="50%"}
 
