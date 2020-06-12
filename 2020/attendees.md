@@ -18,13 +18,13 @@ An ongoing Zoom webinar can be joined by following these instructions. Individua
 
     ![Q&A](screenshots/q_and_a.png){:height="50%" width="50%"}
 
-4. The `Q&A` panel shown pops up. This panel organises questions in two tabs: `All questions` and `My questions`. 
+4. The `Q&A` panel pops up. This panel organises questions in two tabs: `All questions` and `My questions`. `All questions` lists the questions that **have been answered** by the presenter; these will be visible to all webinar attendees. The `My questions` tab shows the questions that you have asked. 
 
     ![Q&A](screenshots/q_and_a_dialog.png){:height="50%" width="50%"}
 
-    `All questions` lists the questions that **have been answered** by the presenter; these will be visible to all webinar attendees. The `My questions` tab shows the questions that you have asked. To pose a question to the presenter, simply type the question and press `Send`. The presenter receiving your question may then choose to address your question. Questions will be answered by presenters live over the mic. Any questions that remain unaddressed by presenters will only be visible in your `Q&A` panel, but are not seen by others.
+    To pose a question to the presenter, type the question and press `Send`. The presenter receiving your question may then choose to address your question. Questions will be answered by presenters live over the mic. Any questions that remain unaddressed by presenters will only be visible in your `Q&A` panel, and are not seen by others.
 
-5. If and when your question is addressed by the presenter, you will be automatically given the option to **unmute your mic** in case you wish to pose further follow up questions. Press `Unmute` to enable your mic.
+5. If and when your question is addressed by the presenter, you will be automatically given the option to **unmute your mic** in case you wish to ask further follow up questions. Press `Unmute` to enable your mic.
 
     ![Q&A](screenshots/unmute.png){:height="50%" width="50%"}
 
@@ -37,7 +37,7 @@ An ongoing Zoom webinar can be joined by following these instructions. Individua
 
 During tutorials, you may wish to share your screen when asking for detailed assistance.
 
-Follow steps 1-7 above when asking questions to tutors. To request a screen share, simply ask your host over the mic, and you will be granted permission accordingly.
+Follow steps 1-6 above when asking questions to tutors. To request a screen share, ask your host verbally over the mic.
 
 
 > **TODO:** Pic on how to share screen.
