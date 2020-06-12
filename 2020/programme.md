@@ -33,7 +33,7 @@
   
 ### Webinars
 
-- DisCoTec Main track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_zpyypjBfQh6kPAI0hK_MPA) (Invited talk)
+- DisCoTec [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_zpyypjBfQh6kPAI0hK_MPA) (Invited talk)
 - COORDINATION track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_uIC7mOktRoyuJ6aCtX4dEw)
 - DAIS track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_OPxCTRW9QU2Oii-v9zLUXA)
   
@@ -65,7 +65,7 @@
 
 ### Webinars
 
-- DisCoTec Main  webinar link (Invited talks, Best Papers)
+- DisCoTec webinar link (Invited talks, Best Papers)
 - COORDINATION webinar link
 - DAIS webinar link
 - FORTE webinar link
@@ -100,7 +100,7 @@
 
 ### Webinars
 
-- DisCoTec Main  webinar link (Invited talk)
+- DisCoTec webinar link (Invited talk)
 - COORDINATION webinar link
 - DAIS webinar link
 - FORTE webinar link
@@ -164,7 +164,7 @@
 
 ### Coordination Best Paper
 
-- *A true concurrent model of smart contracts executions* <br/> by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia 
+- *A true concurrent model of smart contracts executions* <br/> by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_16)
 
 
 ### Modelling 1
@@ -172,8 +172,8 @@
 *(session chair: [Chiara Bodei](mailto:chiara.bodei@unipi.it))*
 
 
-- *Operational representation of dependencies in Context-Dependent Event Structures* <br/> by G. Michele Pinna 
-- *Architecture modelling of parametric component-based systems* <br/> by Maria Pittou and George Rahonis 
+- *Operational representation of dependencies in Context-Dependent Event Structures* <br/> by G. Michele Pinna [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_20)
+- *Architecture modelling of parametric component-based systems* <br/> by Maria Pittou and George Rahonis [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_18)
 
   
 ### Modelling 2 / Message-based communication 1
@@ -182,8 +182,8 @@
 
   
 
-- *Weighted PCL over product valuation monoids* <br/> by Vagia Karyoti and Paulina Paraponiari 
-- *A Choreography-Driven Approach to APIs: the OpenDXL Case Study* <br/> by Leonardo Frittelli, Facundo Maldonado, Hernan Melgratti and Emilio Tuosto 
+- *Weighted PCL over product valuation monoids* <br/> by Vagia Karyoti and Paulina Paraponiari [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_19)
+- *A Choreography-Driven Approach to APIs: the OpenDXL Case Study* <br/> by Leonardo Frittelli, Facundo Maldonado, Hernan Melgratti and Emilio Tuosto [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_7)
 
   
 
@@ -192,10 +192,10 @@
 *(session chair: [Alberto Lluch Lafuente](mailto:albertolluch@gmail.com))*
   
 
-- *Choreography Automata* <br/> by Franco Barbanera, Ivan Lanese and Emilio Tuosto
-- *Team Automata@Work: On Safe Communication* (Short paper) <br/> by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn
-- *Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices* (Short paper) <br/> by Espen Tønnessen Nordli, Phu H. Nguyen, Franck Chauvel and Hui Song 
-- *Quality of Service ranking by quantifying partial compliance of requirements* (Short paper) <br/> by Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo 
+- *Choreography Automata* <br/> by Franco Barbanera, Ivan Lanese and Emilio Tuosto [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_6)
+- *Team Automata@Work: On Safe Communication* (Short paper) <br/> by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_5)
+- *Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices* (Short paper) <br/> by Espen Tønnessen Nordli, Phu H. Nguyen, Franck Chauvel and Hui Song  [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_11)
+- *Quality of Service ranking by quantifying partial compliance of requirements* (Short paper) <br/> by Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_12)
 
   
 
@@ -204,9 +204,9 @@
 *(session chair: [Hugo Torres Vieira](mailto:hugo.torres.vieira@ubi.pt))*
 
   
-- *GoPi: Compiling linear and static channels in Go* (Tool paper) <br/> by Marco Giunti
-- *SFJ: An Implementation of Semantic Featherweight Java* (Tool paper) <br/> by Artem Usov and Ornela Dardha 
-- *Implementation of Multiparty Session Types in Rust* (Short paper) <br/> by Nicolas Lagaillardie, Rumyana Neykova and Nobuko Yoshida 
+- *GoPi: Compiling linear and static channels in Go* (Tool paper) <br/> by Marco Giunti [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_9)
+- *SFJ: An Implementation of Semantic Featherweight Java* (Tool paper) <br/> by Artem Usov and Ornela Dardha [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_10)
+- *Implementation of Multiparty Session Types in Rust* (Short paper) <br/> by Nicolas Lagaillardie, Rumyana Neykova and Nobuko Yoshida [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_8)
 
   
 
@@ -215,8 +215,8 @@
 *(session chair: [Anastasia Mavridou](mailto:anastasia.mavridou@nasa.gov))*
 
   
-- *Renegotiation and recursion in Bitcoin contracts* <br/> by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino 
-- *Towards a Formally Verified EVM in Production Environment* (Short paper) <br/> by Xiyue Zhang, Yi Li and Meng Sun 
+- *Renegotiation and recursion in Bitcoin contracts* <br/> by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_17)
+- *Towards a Formally Verified EVM in Production Environment* (Short paper) <br/> by Xiyue Zhang, Yi Li and Meng Sun [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_21)
 
   
 
@@ -224,8 +224,8 @@
 
 *(session chair: [Jean-Marie Jacquet](mailto:jean-marie.jacquet@unamur.be))*
 
-- *Towards Energy-, Time- and Security-aware Multi-core Coordination* <br/> by Julius Roeder, Benjamin Rouxel, Sebastian Altmeyer and Clemens Grelck
-- *ARx: Reactive Programming for Synchronous Connectors* (Tool paper)<br/>  by José Proença and Guillermina Cledou 
+- *Towards Energy-, Time- and Security-aware Multi-core Coordination* <br/> by Julius Roeder, Benjamin Rouxel, Sebastian Altmeyer and Clemens Grelck [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_4)
+- *ARx: Reactive Programming for Synchronous Connectors* (Tool paper)<br/>  by José Proença and Guillermina Cledou [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_3)
 
   
   
@@ -235,9 +235,9 @@
 *(session chair: [Michele Loreti](mailto:michele.loreti@unicam.it))*
 
   
-- *Time-fluid field-based coordination* <br/> by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli 
-- *Resilient Distributed Collection through Information Speed Thresholds* <br/> by Giorgio Audrito, Sergio Bergamini, Ferruccio Damiani and Mirko Viroli 
-- *Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited* (Short paper) <br/> by Nicolas Gast, Diego Latella and Mieke Massink 
+- *Time-fluid field-based coordination* <br/> by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_13)
+- *Resilient Distributed Collection through Information Speed Thresholds* <br/> by Giorgio Audrito, Sergio Bergamini, Ferruccio Damiani and Mirko Viroli [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_14)
+- *Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited* (Short paper) <br/> by Nicolas Gast, Diego Latella and Mieke Massink [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_15)
 
   
 
@@ -246,9 +246,9 @@
 *(session chair: [Mieke Massink](mailto:Mieke.Massink@isti.cnr.it))*
 
 
-- *Formal Modeling and Analysis of Medical Systems* <br/> by Mahsa Zarneshan, Fatemeh Ghassemi and Marjan Sirjani 
-- *On Implementing Symbolic Controllability* <br/> by Adrian Francalanza and Jasmine Xuereb 
-- *Combining SLiVER with CADP to Analyze Multi-agent Systems* (Tool paper) <br/>  by Luca Di Stefano, Frédéric Lang and Wendelin Serwe 
+- *Formal Modeling and Analysis of Medical Systems* <br/> by Mahsa Zarneshan, Fatemeh Ghassemi and Marjan Sirjani [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_24)
+- *On Implementing Symbolic Controllability* <br/> by Adrian Francalanza and Jasmine Xuereb [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_22)
+- *Combining SLiVER with CADP to Analyze Multi-agent Systems* (Tool paper) <br/>  by Luca Di Stefano, Frédéric Lang and Wendelin Serwe [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_23)
 
   
 
