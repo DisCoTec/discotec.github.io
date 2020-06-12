@@ -11,12 +11,15 @@ Presentations will be hosted by *session hosts* and shall be streamed via Zoom i
 
 **Session chairs** will be likewise promoted to the same role, but should refrain from answering or moderating questions unless necessary. 
 
+
+
 While both session chairs and presenters will be able to access the questions posted, attendees will be able to see only the questions that the presenter has answered. Attendees have been instructed to post questions using the Q&A functionality.
 
 **Presenters** will be demoted back to the role of *attendee* once their talk ends.
 
 **Session chairs** will be demoted to said role once the session ends.
 
+![Zoom panelist](screenshots/zoom_attendee.png){:height="50%" width="50%"}
 
 ## Presenting Content
 
@@ -40,15 +43,11 @@ Presenters can now start addressing questions. Refer to [below](#answering-quest
 
 1. Enable the mic to respond to questions.
 
-    > PIC OF MIC
-
 2. Enable the webcam so that attendees can see the presenter.
-
-    > PIC OF WEBCAM
 
 3. You may start a screen sharing session when reference to the presentation is required.
 
-    > PIC OF SHARING
+    ![Share Screen](screenshots/share_screen.png){:height="75%" width="75%"}
 
 
 ## Answering Questions
