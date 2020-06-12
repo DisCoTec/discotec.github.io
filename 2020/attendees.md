@@ -20,7 +20,9 @@ An ongoing Zoom webinar can be joined by following these instructions.
 
 ## Asking Questions During Presentations
 
-1. During presentations, you may ask questions by clicking the `Q&A` from the Zoom dock. The dock is located at the top or bottom of your screen.
+The following procedure should be used to ask questions:
+
+1. Click the `Q&A` from the Zoom dock. The dock is located at the top or bottom of your screen.
 
     ![Q&A](screenshots/q_and_a.png){:height="50%" width="50%"}
 
@@ -36,14 +38,16 @@ An ongoing Zoom webinar can be joined by following these instructions.
 
     At any point, the *session chair* may intervene to help steer the discussion or provide additional clarification.    
 
-4. Once your question has been addressed, your mic will be muted automatically.
+4. Once the question has been answered, your mic will be muted automatically.
 
 
 ## Asking Questions During Tutorials
 
-During tutorials, you may wish to share your screen when asking for detailed assistance.
+During tutorials, you may wish to share your screen to ask for assistance.
 
-Follow steps 1-4 [above](#asking-questions-during-presentations). To request a screen share, ask your host verbally over the mic.
+Follow steps 1-4 [above](#asking-questions-during-presentations). To request that your screen is shared, ask your host verbally over the mic.
+
+Press `Share screen` to share your screen with the other attendees.
 
 > **TODO:** Pic on how to share screen.
 
