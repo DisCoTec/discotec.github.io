@@ -3,7 +3,7 @@
 
 # Instructions for Invited, Conference, Tutorial and Workshop Speakers
 
-We strongly encourage you to download and install the Zoom client before the conference, so that any unforeseen problems you might encounter can be resolved ahead of time. 
+We strongly encourage you to download and install the [Zoom client](https://zoom.us) before the conference, to resolve any unforeseen problems you may encounter ahead of time. 
 
 Presentations will be hosted by helpers and shall be streamed via Zoom in the form of **prerecorded videos**. The video links will be made publicly available at the end of each day. Should you **not** wish to have your talk made public, please inform us accordingly via email. We however strongly encourage presenters to make their talk public.
 
@@ -18,10 +18,14 @@ The following procedure should be used to address questions:
 
 1. Click the `Q&A` from the Zoom dock. The dock is located at the top or bottom part of your screen.
 
+    ![Client](screenshots/dock.png){:height="50%" width="50%"}
+
+2. The `Q&A` panel pops up. This panel organises questions in three tabs: ``
+
 
 Questions posted by attendees can be accessed by clicking the `Q&A` button.
 
-IMG OF QA
+
 
 The `Q&A` panel pops up. 
 
