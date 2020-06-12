@@ -24,7 +24,7 @@ The following procedure should be used to ask questions:
 
 1. Click the `Q&A` from the Zoom dock. The dock is located at the top or bottom part of your screen.
 
-    ![Q&A](screenshots/q_and_a.png){:height="50%" width="50%"}
+    ![Q&A](screenshots/q_and_a.png){:height="75%" width="75%"}
 
 2. The `Q&A` panel pops up. This panel organises questions in two tabs: `All questions` and `My questions`. `All questions` lists the questions that **have been answered** by the presenter; these will be visible to all webinar attendees. The `My questions` tab shows the questions that you have asked. 
 
@@ -43,13 +43,17 @@ The following procedure should be used to ask questions:
 
 ## Asking Questions During Tutorials
 
-During tutorials, you may wish to share your screen to ask for assistance. Use this as a last resort since this process is slow.
+During tutorials, you may wish to share your screen to ask for assistance. Use this option as a last resort since the process is slow.
 
-Follow steps 1-4 [above](#asking-questions-during-presentations). To request that your screen is shared, ask your host verbally over the mic.
+1. Follow steps 1-4 [above](#asking-questions-during-presentations). To request that your screen is shared, ask your host verbally over the mic.
 
-Press `Share Screen` to share your screen with the other attendees. Remember to unmute yourself or start a video session if necessary.
+2. You will be promoted to the role of *Zoom panelist*.
 
-![Q&A](screenshots/share_screen.png){:height="75%" width="75%"}
+    ![Zoom panelist](screenshots/zoom_panelist.png){:height="50%" width="50%"}
+
+3. Press `Share Screen` to share your screen with the other attendees. Remember to unmute yourself or start a video session if necessary.
+
+    ![Share Screen](screenshots/share_screen.png){:height="75%" width="75%"}
 
 
 
