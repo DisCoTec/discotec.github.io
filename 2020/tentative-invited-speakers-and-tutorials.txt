@@ -588,7 +588,7 @@ Quality of Service ranking by quantifying partial compliance of requirements
 
 A true concurrent model of smart contracts executions 
 by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia
-(Thursday 11)
+https://youtu.be/vgoDvMa69cU
 
 Marco Giunti
 GoPi: Compiling linear and static channels in Go (Tool paper) 
