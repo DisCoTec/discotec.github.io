@@ -260,7 +260,7 @@
 
   
 
-- *TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores* <br/> by Vikas Jaiman, Etienne Rivière and Sonia Ben Mokhtar
+- *TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores* <br/> by Vikas Jaiman, Etienne Rivière and Sonia Ben Mokhtar [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_5)
 
   
   
@@ -269,16 +269,16 @@
 
 *(session chair: [Sonia Ben Mokhtar](sonia.ben-mokhtar@liris.cnrs.fr))*
 
-- *On the trade-offs of combining multiple secure processing primitives for data analytics* <br/> by Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira
-- *Capturing Privacy-preserving User Contexts with IndoorHash* <br/> Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment
+- *On the trade-offs of combining multiple secure processing primitives for data analytics* <br/> by Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_1)
+- *Capturing Privacy-preserving User Contexts with IndoorHash* <br/> Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_2)
 
 ### ML for Systems
 
 *(session chair: [Vana Kalogeraki](mailto:vana@aueb.gr))*
 
 - *Self-Tunable DBMS Replication with Reinforcement Learning* <br/>
-Luis Ferreira, Fábio André Coelho and Jose Pereira
-- *DroidAutoML: A microservice architecture to automate the evaluation of Android machine learning detection systems* <br/> Yérom-David Bromberg and Louison Gitzinger
+Luis Ferreira, Fábio André Coelho and Jose Pereira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_9)
+- *DroidAutoML: A microservice architecture to automate the evaluation of Android machine learning detection systems* <br/> Yérom-David Bromberg and Louison Gitzinger [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_10)
   
 
 ### Cloud and Systems
@@ -286,8 +286,8 @@ Luis Ferreira, Fábio André Coelho and Jose Pereira
 *(session chair: [Valerio Schiavoni](mailto:valerio.schiavoni@unine.ch))*
 
   
-- *Towards hypervisor support for enhancing the performance of virtual machine introspection* <br/> Benjamin Taubmann and Hans P. Reiser
-- *Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment* <br/> Ioannis Tzouros and Vana Kalogeraki
+- *Towards hypervisor support for enhancing the performance of virtual machine introspection* <br/> Benjamin Taubmann and Hans P. Reiser [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_3)
+- *Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment* <br/> Ioannis Tzouros and Vana Kalogeraki [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_4)
 
 
 ### Fault-tolerance and Reproducibilty
@@ -295,8 +295,8 @@ Luis Ferreira, Fábio André Coelho and Jose Pereira
 *(session chair: [Hans Reiser](mailto:hans.reiser@uni-passau.de))*
 
 
-- *Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform* (Experience Report)<br/> João Abreu, Ana Nunes Alonso, David Nunes, Jose Pereira, Luiz Santos, Tércio Soares and Andre Vieira
-- *A Comparison of Message Exchange Patterns in BFT Protocols* (Experience Report) <br/> Fábio Silva, Ana Nunes Alonso, José Pereira and Rui Oliveira
+- *Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform* (Experience Report)<br/> João Abreu, Ana Nunes Alonso, David Nunes, Jose Pereira, Luiz Santos, Tércio Soares and Andre Vieira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_6)
+- *A Comparison of Message Exchange Patterns in BFT Protocols* (Experience Report) <br/> Fábio Silva, Ana Nunes Alonso, José Pereira and Rui Oliveira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_7)
 
 
 ### Distributed Algorithms
@@ -305,8 +305,8 @@ Luis Ferreira, Fábio André Coelho and Jose Pereira
 
   
 
-- *A resource usage efficient distributed allocation algorithm for 5G Service Function Chains* <br/> Guillaume Fraysse, Jonathan Lejeune, Julien Sopena and Pierre Sens
-- *A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks* <br/> Hadid Rachid and Vincent Villain 
+- *A resource usage efficient distributed allocation algorithm for 5G Service Function Chains* <br/> Guillaume Fraysse, Jonathan Lejeune, Julien Sopena and Pierre Sens [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_11)
+- *A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks* <br/> Hadid Rachid and Vincent Villain [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_12)
   
   
 
@@ -317,7 +317,7 @@ Luis Ferreira, Fábio André Coelho and Jose Pereira
   
 
 - *Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory*<br/>
-by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, and Heike Wehrheim
+by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, and Heike Wehrheim [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_3)
   
 
 ### Program Logics
@@ -326,8 +326,8 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
 
   
 
-- *Derivation of Heard-Of Predicates From Elementary Behavioral Patterns* <br/> by Adam Shimi, Aurélie Hurault and Philippe Queinnec
-- *Trace Equivalence and Epistemic Logic to Express Security Properties* <br/> Kiraku Minami
+- *Derivation of Heard-Of Predicates From Elementary Behavioral Patterns* <br/> by Adam Shimi, Aurélie Hurault and Philippe Queinnec [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_8)
+- *Trace Equivalence and Epistemic Logic to Express Security Properties* <br/> Kiraku Minami [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_7)
 
   
 
@@ -336,22 +336,22 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
 *(session chair: [Kirstin Peters](mailto:kirstin.peters@tps.tu-darmstadt.de))*
 
   
-- *A Formal Framework for Consent Management* <br/> by Shukun Tokas and Olaf Owe
-- *Towards Bridging Time and Causal Reversibility* <br/> by Claudio Antares Mezzina and Marco Bernardo
+- *A Formal Framework for Consent Management* <br/> by Shukun Tokas and Olaf Owe [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_10)
+- *Towards Bridging Time and Causal Reversibility* <br/> by Claudio Antares Mezzina and Marco Bernardo [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_2)
 
 ### Verification 1
  
 *(session chair: [Stephan Merz](mailto:stephan.merz@loria.fr))*
  
-- *Conformance-Based Doping Detection for Cyber-Physical Systems* <br/> by Rayna Dimitrova, Maciej Gazda, Mohammadreza Mousavi, Sebastian Biewer and Holger Hermanns
-- *Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego* <br/> by Davide Basile, Maurice H. ter Beek and Axel Legay
+- *Conformance-Based Doping Detection for Cyber-Physical Systems* <br/> by Rayna Dimitrova, Maciej Gazda, Mohammadreza Mousavi, Sebastian Biewer and Holger Hermanns [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_4)
+- *Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego* <br/> by Davide Basile, Maurice H. ter Beek and Axel Legay [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_1)
 
 ### Verification 2
 
 *(session chair: [Tatjana Petrov](mailto:tatjana.petrov@gmail.com))*
 
-- *Towards Deep Statistical Model Checking* <br/> Michaela Klauck, Timo P. Gros, Marcel Steinmetz, Jörg Hoffmann and Holger Hermanns
--  *Towards a Hybrid Verification Methodology for Communication Protocols* <br/> Christian Bartolo Burlo, Adrian Francalanza and Alceste Scalas
+- *Towards Deep Statistical Model Checking* <br/> Michaela Klauck, Timo P. Gros, Marcel Steinmetz, Jörg Hoffmann and Holger Hermanns [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_6)
+-  *Towards a Hybrid Verification Methodology for Communication Protocols* <br/> Christian Bartolo Burlo, Adrian Francalanza and Alceste Scalas [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_13)
 
 
 ### Timed Automata
@@ -359,8 +359,8 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
 *(session chair: [Nikos Tzevelekos](mailto:nikos.tzevelekos@qmul.ac.uk))*
 
 
--  *Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities* <br/> Jeremy Sproston
--  *On Implementable Timed Automata* <br/> Sergio Feo-Arenis, Milan Vujinovic and Bernd Westphal
+-  *Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities* <br/> Jeremy Sproston [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_9)
+-  *On Implementable Timed Automata* <br/> Sergio Feo-Arenis, Milan Vujinovic and Bernd Westphal [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_5)
 
 
 ## ICE accepted papers and programme

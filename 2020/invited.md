@@ -77,7 +77,7 @@ I will describe the principles of Ivy's design and describe how to use Ivy effec
 
 ## Vassilis Zikas
 
-[Blockchain Technology Lab](mailto:vzikas@inf.ed.ac.uk)
+[University of Edinburgh](mailto:vzikas@inf.ed.ac.uk)
 
 ###  From Blockchain to Global-Scale Trustworthy Infrastructure
 
