@@ -12,8 +12,8 @@ The DisCoTeC organisation committee has decided that, due to the current COVID-1
 
 ## Instructions for Attendees and Presenters
 
-- Attendee instructions may be found [here](https://www.discotec.org/2020/attendees). *Registered participants should have all received an email with the webinar invitations by now. In the eventuality that your email was lost or blocked, you can still register for the webinars from the links provided on the [programme page](https://www.discotec.org/2020/programme) on the day of the respective webinar.*
-- Presenter instructions will be posted soon.
+* Attendee instructions may be found [here](https://www.discotec.org/2020/attendees). *Registered participants should have all received an email with the webinar invitations by now. In the eventuality that your email was lost or blocked, you can still register for the webinars from the links provided on the [programme page](https://www.discotec.org/2020/programme) on the day of the respective webinar.*
+* Presenter instructions will be posted soon.
 
 <!-- Presenter instructions may be found [here](https://www.discotec.org/2020/presenters) -->
 
