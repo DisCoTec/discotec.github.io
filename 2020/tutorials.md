@@ -12,6 +12,10 @@ Tutorial session are typically *hands-on*, providing the audience with the uniqu
 
 ### Choreographic Development of Message-Passing Applications
 
+Instructions to download and install the tool
+<br/><br/>
+[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_2)
+<br/><br/>
 Choreography envisages distributed coordination as determined by interactions that allow peer components to harmoniously realise a given task. Unlike in orchestration-based coordination, there is no special component directing the execution. 
 Recently choreographic approaches became popular in industrial contexts where reliability and scalability are crucial factors. This tutorial will review some recent ideas to harness choreographic development of message-passing software.
 <br/> <br/>
@@ -23,6 +27,8 @@ Recently choreographic approaches became popular in industrial contexts where re
 ### Parameterized Verification with Byzantine Model Checker
 
 [Instructions to download and install the tool](https://github.com/konnov/bymc/blob/master/bymc/doc/forte20.md)
+<br/><br/>
+[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_11)
 <br/><br/>
 Threshold guards are a basic primitive of many fault-tolerant algorithms that
 solve the following classical problems of distributed computing: reliable
@@ -62,6 +68,8 @@ Science from Lomonosov Moscow State University (Russia) in 2003 and 2009. In
 [Instructions to download and install the tool](https://github.com/chorevolution/discotec-2020-tutorial)
 <br/>
 <br/>
+[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_1)
+<br/><br/>
 Since late 70’s, the development of concurrent and distributed systems has been receiving much attention from the research community. Choreographies are a form of distributed composition that model the external interaction of the participant services by specifying peer-to-peer message exchanges from a global perspective. When third-party services are to be composed, obtaining the distributed coordination logic required to enforce the realizability of the specified choreography is a non-trivial and error prone task. Automatic support is then needed. CHOReVOLUTION is a platform for the tool-assisted development and execution of choreography-based applications that leverage the distributed collaboration of services specified through service choreographies. It offers an Integrated Development and Runtime Environment (IDRE) comprising a wizard-aided development environment, a system monitoring console, and a back-end for managing the deployment and execution of the system. The tutorial introduces the fundamentals of service choreographies and the CHOReVOLUTION approach as first. Then the introduction of the approach is followed by hands on exercises, where every attendee takes part in developing sample choreography-based distributed applications by using the CHOReVOLUTION IDRE.
 <br/> 
 <br/>
@@ -108,6 +116,8 @@ Hensel, Sebastian Junges, Joost-Pieter Katoen, Tim Quatmann and [Matthias Volk](
 
 [Instructions to download and install the tool](https://github.com/miguelammatos/Kollaps#pre)
 <br/><br/>
+[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_8)
+<br/><br/>
 The systematic evaluation of distributed systems is a very challenging task as experimental results can be affected by a wide range of factors.
 In particular, the network and its dynamics, such as sudden changes in latency or available bandwidth have a significant impact on the performance of distributed systems. 
 In this tutorial we will do a hands-on demonstration of the capabilities of Kollaps/Thunderstorm, a set of tools that allow to deploy and evaluate unmodified off-the-shelf container applications under a controlled network environment.
@@ -121,6 +131,10 @@ The presented work is the result of joint work between Miguel's team at U. Lisbo
 
 ### Typechecking Java protocols with Mungo/StMungo
 
+Instructions to download and install the tool
+<br/><br/>
+[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_12)
+<br/><br/>
 This is a tutorial on using Mungo/StMungo, a toolchain based on multiparty session
 types and their connection with typestates, for distributed programming in Java.
 The first tool, Mungo, statically checks that methods are called in certain

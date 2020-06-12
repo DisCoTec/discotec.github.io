@@ -32,12 +32,23 @@ To be posted soon.
 * [Holger Hermanns](invited#holger-hermanns), Saarland University
 * [Peter Kriens](invited#peter-kriens), aQute & OSGi Alliance
 * [Kenneth McMillan](invited#kenneth-mcmillan), Microsoft Research Lab Redmond
-* [Vassilis Zikas](invited#vassilis-zikas), Blockchain Technology Lab Edinburgh  
+* [Vassilis Zikas](invited#vassilis-zikas), University of Edinburgh  
 
 
 ## Programme
 
 Go to the [programme page](https://www.discotec.org/2020/programme)
+
+## Proceedings
+The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes: 
+* Coordination: [LNCS 12134](https://link.springer.com/book/10.1007/978-3-030-50029-0)
+* DAIS: [LNCS 12135](https://link.springer.com/book/10.1007/978-3-030-50323-9)
+* FORTE: [LNCS 12136](https://link.springer.com/book/10.1007/978-3-030-50086-3)
+
+## Special issues
+The individual conferences will organise special issues of extended and selected papers in reputable journal such as [Logical Methods in Computer Science](https://lmcs.episciences.org) and [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing).
+
+
   
 ## Registration
 
@@ -78,11 +89,7 @@ Go to the [registration page](https://www.um.edu.mt/events/discotec2020/about/_n
 * [Ana Sokolova](http://cs.uni-salzburg.at/~anas/) (University of Salzburg, Austria)
 
 
-## Proceedings
-The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.
 
-## Special issues
-The individual conferences will organise special issues of extended and selected papers in reputable journal such as [Logical Methods in Computer Science](https://lmcs.episciences.org) and [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing).
 
 ## Location
 

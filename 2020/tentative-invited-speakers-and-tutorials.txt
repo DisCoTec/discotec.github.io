@@ -627,7 +627,7 @@ by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli
 
 Giorgio Audrito
 Resilient Distributed Collection through Information Speed Thresholds
-(LATE)
+ https://youtu.be/Dhs9ddjk0Ag
 
 Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited
 by Nicolas Gast, Diego Latella and Mieke Massink
