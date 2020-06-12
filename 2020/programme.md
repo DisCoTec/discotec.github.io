@@ -136,7 +136,7 @@
 
 |Time |ICE|FOCODILE|
 |:---:|:---:|:---:|
-|**09.30-10.20**| [(Invited Talk) Cinzia Di Giusto: TBA](invited#cinzia-di-giusto)|
+|**09.30-10.20**| [(Invited Talk) Cinzia Di Giusto: On the k-synchronizability of Distributed Systems](invited#cinzia-di-giusto)|
 |*10.20-10.40*|*break*|*break*|
 |**10.40-11.10**| [A type language for message passing component-based systems](#languages) | 
 |**11.10-11.40**| [Typestates to Automata and back: a tool](#languages) | 

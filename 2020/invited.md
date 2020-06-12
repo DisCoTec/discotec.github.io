@@ -31,7 +31,10 @@ particular model checking, with a special focus on probabilistic models.
 
 [(Université Côte d’Azur, CNRS, I3S, France)](mailto:cinzia.di-giusto@unice.fr)
 
-### Talk title: TBA
+### On the k-synchronizability of Distributed Systems
+
+I will discuss the notion of k-synchronizability: a system is k-synchronizable if any of its executions, up to reordering causally independent actions, can be divided into a succession of k-bounded interaction phases. We know that the reachability problem is decidable for k-synchronizable systems. Moreover, the membership problem (whether a system is k-synchronizable for a given k) is decidable as
+well. Our proofs fix several important issues in previous attempts to prove these two results for mailbox automata. Finally, I will point our last results on deciding whether there exists a k such that a system is k-synchronizable.
 
 ### Biography
 
