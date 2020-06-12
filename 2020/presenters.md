@@ -5,29 +5,31 @@
 
 We strongly encourage you to download and install the [Zoom client](https://zoom.us) before the conference, to resolve any unforeseen problems you may encounter ahead of time. 
 
-Presentations will be hosted by *session hosts* and shall be streamed via Zoom in the form of **prerecorded videos**. The video links will be made publicly available at the end of each day. Should you **not** wish to have your talk made public, please inform us accordingly via email. We however strongly encourage presenters to make their talk public.
+Presentations will be hosted by *session hosts* and shall be streamed via Zoom in the form of **prerecorded videos**. The video links will be made publicly available at the end of each day. Should you **not** wish to have your talk made public, please inform us accordingly via email. However, we strongly encourage presenters to make their talk public.
 
-**Presenters** will be promoted to the role of *Zoom panelist* before their talk commences. This enables them to manage and reply to questions posted by attendees. **Session chairs** will be likewise promoted to the same role, but should refrain from answering or moderating questions unless necessary. 
+*Presenters* will be promoted to the role of *Zoom panelist* before their talk commences. This enables them to manage and reply to questions posted by *attendees*. *Session chairs* will be likewise promoted, but should refrain from answering or moderating questions unless absolutely necessary. 
 
 ![Zoom panelist](screenshots/zoom_panelist.png){:height="50%" width="50%"}
 
-While both session chairs and presenters will be able to access the questions posted, attendees will be able to see only the questions that the presenter has answered. Attendees have been instructed to post questions using the Q&A functionality.
+While both *session chairs* and *presenters* can access the questions posted, *attendees* will be able to see only the questions that the *presenter* has answered. *Attendees* have been instructed to post questions using the Q&A functionality.
 
-**Presenters** will be demoted back to the role of *attendee* once their talk ends. **Session chairs** will be demoted to said role once the session ends.
+*Presenters* will be demoted back to the role of *attendee* once their talk ends. *Session chairs* will be demoted to said role once the session ends.
 
 ![Zoom attendee](screenshots/zoom_attendee.png){:height="50%" width="50%"}
 
 ## Presenting Content
 
-The prerecorded presentation videos shall be aired by the *session host* via screen share. Once the presentation is over, the *session host* will stop the screen sharing session. At this point, the presenter may start addressing the questions that were posted during whilst the presentation was underway. 
+The prerecorded presentation videos shall be aired by the *session host* via screen share. Once the presentation is over, the *session host* will stop the screen sharing session. At this point, the *presenter* may start addressing the questions that were posted whilst the presentation was in progress. 
 
 ## Presenter's Checklist
 
-We recommend presenters to follow this checklist.
+We recommend that *presenters* follow this checklist.
 
 #### Before Presentation is Aired
 
-1. Alert the hosts via chat. The chat can be accessed via the `Chat` button. This should be done around 15 minutes before the start of the presentation. Alerting the hosts so that they are informed of whom to promote to the role of *Zoom panelist*.
+1. Alert the *session hosts* via chat. The chat can be accessed using the `Chat` button. This should be done around **15 minutes** before the start of the **session**. Please make sure to include the title of the presentation.
+
+This informs the *session hosts* of whom to promote to the role of *Zoom panelist*.
 
     ![Q&A](screenshots/chat.png){:height="50%" width="50%"}
 
