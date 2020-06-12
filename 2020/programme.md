@@ -317,7 +317,7 @@ Luis Ferreira, Fábio André Coelho and Jose Pereira [(paper)](https://link.spri
   
 
 - *Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory*<br/>
-by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, and Heike Wehrheim
+by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, and Heike Wehrheim [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_3)
   
 
 ### Program Logics
@@ -326,8 +326,8 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
 
   
 
-- *Derivation of Heard-Of Predicates From Elementary Behavioral Patterns* <br/> by Adam Shimi, Aurélie Hurault and Philippe Queinnec
-- *Trace Equivalence and Epistemic Logic to Express Security Properties* <br/> Kiraku Minami
+- *Derivation of Heard-Of Predicates From Elementary Behavioral Patterns* <br/> by Adam Shimi, Aurélie Hurault and Philippe Queinnec [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_8)
+- *Trace Equivalence and Epistemic Logic to Express Security Properties* <br/> Kiraku Minami [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_7)
 
   
 
@@ -336,22 +336,22 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
 *(session chair: [Kirstin Peters](mailto:kirstin.peters@tps.tu-darmstadt.de))*
 
   
-- *A Formal Framework for Consent Management* <br/> by Shukun Tokas and Olaf Owe
-- *Towards Bridging Time and Causal Reversibility* <br/> by Claudio Antares Mezzina and Marco Bernardo
+- *A Formal Framework for Consent Management* <br/> by Shukun Tokas and Olaf Owe [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_10)
+- *Towards Bridging Time and Causal Reversibility* <br/> by Claudio Antares Mezzina and Marco Bernardo [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_2)
 
 ### Verification 1
  
 *(session chair: [Stephan Merz](mailto:stephan.merz@loria.fr))*
  
-- *Conformance-Based Doping Detection for Cyber-Physical Systems* <br/> by Rayna Dimitrova, Maciej Gazda, Mohammadreza Mousavi, Sebastian Biewer and Holger Hermanns
-- *Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego* <br/> by Davide Basile, Maurice H. ter Beek and Axel Legay
+- *Conformance-Based Doping Detection for Cyber-Physical Systems* <br/> by Rayna Dimitrova, Maciej Gazda, Mohammadreza Mousavi, Sebastian Biewer and Holger Hermanns [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_4)
+- *Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego* <br/> by Davide Basile, Maurice H. ter Beek and Axel Legay [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_1)
 
 ### Verification 2
 
 *(session chair: [Tatjana Petrov](mailto:tatjana.petrov@gmail.com))*
 
-- *Towards Deep Statistical Model Checking* <br/> Michaela Klauck, Timo P. Gros, Marcel Steinmetz, Jörg Hoffmann and Holger Hermanns
--  *Towards a Hybrid Verification Methodology for Communication Protocols* <br/> Christian Bartolo Burlo, Adrian Francalanza and Alceste Scalas
+- *Towards Deep Statistical Model Checking* <br/> Michaela Klauck, Timo P. Gros, Marcel Steinmetz, Jörg Hoffmann and Holger Hermanns [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_6)
+-  *Towards a Hybrid Verification Methodology for Communication Protocols* <br/> Christian Bartolo Burlo, Adrian Francalanza and Alceste Scalas [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_13)
 
 
 ### Timed Automata
@@ -359,8 +359,8 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
 *(session chair: [Nikos Tzevelekos](mailto:nikos.tzevelekos@qmul.ac.uk))*
 
 
--  *Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities* <br/> Jeremy Sproston
--  *On Implementable Timed Automata* <br/> Sergio Feo-Arenis, Milan Vujinovic and Bernd Westphal
+-  *Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities* <br/> Jeremy Sproston [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_9)
+-  *On Implementable Timed Automata* <br/> Sergio Feo-Arenis, Milan Vujinovic and Bernd Westphal [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_5)
 
 
 ## ICE accepted papers and programme

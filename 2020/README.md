@@ -29,8 +29,10 @@ To be posted soon.
 ## Keynote Speakers
 
 * [Nathalie Bertrand](invited#nathalie-bertrand), INRIA Rennes Bretagne-Atlantique
+* Cinzia Di Giusto, Université Côte d’Azur, CNRS
 * [Holger Hermanns](invited#holger-hermanns), Saarland University
 * [Peter Kriens](invited#peter-kriens), aQute & OSGi Alliance
+* Karoliina Lehtinen, University of Liverpool
 * [Kenneth McMillan](invited#kenneth-mcmillan), Microsoft Research Lab Redmond
 * [Vassilis Zikas](invited#vassilis-zikas), University of Edinburgh  
 
