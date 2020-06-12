@@ -260,7 +260,7 @@
 
   
 
-- *TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores* <br/> by Vikas Jaiman, Etienne Rivière and Sonia Ben Mokhtar
+- *TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores* <br/> by Vikas Jaiman, Etienne Rivière and Sonia Ben Mokhtar [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_5)
 
   
   
@@ -269,16 +269,16 @@
 
 *(session chair: [Sonia Ben Mokhtar](sonia.ben-mokhtar@liris.cnrs.fr))*
 
-- *On the trade-offs of combining multiple secure processing primitives for data analytics* <br/> by Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira
-- *Capturing Privacy-preserving User Contexts with IndoorHash* <br/> Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment
+- *On the trade-offs of combining multiple secure processing primitives for data analytics* <br/> by Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_1)
+- *Capturing Privacy-preserving User Contexts with IndoorHash* <br/> Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_2)
 
 ### ML for Systems
 
 *(session chair: [Vana Kalogeraki](mailto:vana@aueb.gr))*
 
 - *Self-Tunable DBMS Replication with Reinforcement Learning* <br/>
-Luis Ferreira, Fábio André Coelho and Jose Pereira
-- *DroidAutoML: A microservice architecture to automate the evaluation of Android machine learning detection systems* <br/> Yérom-David Bromberg and Louison Gitzinger
+Luis Ferreira, Fábio André Coelho and Jose Pereira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_9)
+- *DroidAutoML: A microservice architecture to automate the evaluation of Android machine learning detection systems* <br/> Yérom-David Bromberg and Louison Gitzinger [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_10)
   
 
 ### Cloud and Systems
@@ -286,8 +286,8 @@ Luis Ferreira, Fábio André Coelho and Jose Pereira
 *(session chair: [Valerio Schiavoni](mailto:valerio.schiavoni@unine.ch))*
 
   
-- *Towards hypervisor support for enhancing the performance of virtual machine introspection* <br/> Benjamin Taubmann and Hans P. Reiser
-- *Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment* <br/> Ioannis Tzouros and Vana Kalogeraki
+- *Towards hypervisor support for enhancing the performance of virtual machine introspection* <br/> Benjamin Taubmann and Hans P. Reiser [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_3)
+- *Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment* <br/> Ioannis Tzouros and Vana Kalogeraki [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_4)
 
 
 ### Fault-tolerance and Reproducibilty
@@ -295,8 +295,8 @@ Luis Ferreira, Fábio André Coelho and Jose Pereira
 *(session chair: [Hans Reiser](mailto:hans.reiser@uni-passau.de))*
 
 
-- *Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform* (Experience Report)<br/> João Abreu, Ana Nunes Alonso, David Nunes, Jose Pereira, Luiz Santos, Tércio Soares and Andre Vieira
-- *A Comparison of Message Exchange Patterns in BFT Protocols* (Experience Report) <br/> Fábio Silva, Ana Nunes Alonso, José Pereira and Rui Oliveira
+- *Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform* (Experience Report)<br/> João Abreu, Ana Nunes Alonso, David Nunes, Jose Pereira, Luiz Santos, Tércio Soares and Andre Vieira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_6)
+- *A Comparison of Message Exchange Patterns in BFT Protocols* (Experience Report) <br/> Fábio Silva, Ana Nunes Alonso, José Pereira and Rui Oliveira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_7)
 
 
 ### Distributed Algorithms
@@ -305,8 +305,8 @@ Luis Ferreira, Fábio André Coelho and Jose Pereira
 
   
 
-- *A resource usage efficient distributed allocation algorithm for 5G Service Function Chains* <br/> Guillaume Fraysse, Jonathan Lejeune, Julien Sopena and Pierre Sens
-- *A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks* <br/> Hadid Rachid and Vincent Villain 
+- *A resource usage efficient distributed allocation algorithm for 5G Service Function Chains* <br/> Guillaume Fraysse, Jonathan Lejeune, Julien Sopena and Pierre Sens [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_11)
+- *A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks* <br/> Hadid Rachid and Vincent Villain [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_12)
   
   
 
