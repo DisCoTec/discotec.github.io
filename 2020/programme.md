@@ -63,7 +63,12 @@
 
 ## Wednesday 17 June
 
+### Webinars
 
+- DisCoTec Main  webinar link (Invited talks, Best Papers)
+- COORDINATION webinar link
+- DAIS webinar link
+- FORTE webinar link
   
 
 ### Conference Talks
@@ -93,7 +98,12 @@
 
 ## Thursday 18 June
 
-  
+### Webinars
+
+- DisCoTec Main  webinar link (Invited talk)
+- COORDINATION webinar link
+- DAIS webinar link
+- FORTE webinar link
 
 ### Conference Talks
 
@@ -116,6 +126,13 @@
 <br/>
 
 ## Friday 19 June
+
+### Webinars
+
+- ICE webinar link
+- FOCODILE webinar link
+
+### Workshop Talks
 
 |Time |ICE|FOCODILE|
 |:---:|:---:|:---:|
