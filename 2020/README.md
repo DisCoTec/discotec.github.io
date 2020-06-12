@@ -10,7 +10,7 @@
 
 The DisCoTeC organisation committee has decided that, due to the current COVID-19 developments, the conference will be held **online**. Accepted papers will be published as planned, by June 2020, but no physical meeting/presentations will take place. Instead, the authors of accepted papers will record their talks and discuss them with the conference participants online.
 
-### Instructions for Attendees and Presenters
+## Instructions for Attendees and Presenters
 
 Attendee instructions may be found [here](https://www.discotec.org/2020/attendees)
 
