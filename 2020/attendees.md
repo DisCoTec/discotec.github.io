@@ -2,7 +2,7 @@
 
 # Instructions for all Attendees
 
-We strongly encourage you to download and install the Zoom client before the conference, so that any unforeseen problems you might encounter can be resolved ahead of time. 
+We strongly encourage you to download and install the [Zoom client](https://zoom.us) before the conference, to resolve any unforeseen problems you may encounter ahead of time. 
 
 
 ## Joining a Webinar
