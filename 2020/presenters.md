@@ -1,22 +1,36 @@
 
-
 [![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
 
 # Instructions for Invited, Conference, Tutorial and Workshop Speakers
 
-**Download and install the Zoom client if not yet installed.**
+We strongly encourage you to download and install the Zoom client before the conference, so that any unforeseen problems you might encounter can be resolved ahead of time. 
 
-Presentations will be hosted by helpers and shall be streamed via Zoom in the form of prerecorded videos. The video links will be made publicly available at the end of each day. Should you **not** wish to have your talk made public, please inform us accordingly via email. We however strongly encourage presenters to make their talk public.
+Presentations will be hosted by helpers and shall be streamed via Zoom in the form of **prerecorded videos**. The video links will be made publicly available at the end of each day. Should you **not** wish to have your talk made public, please inform us accordingly via email. We however strongly encourage presenters to make their talk public.
 
 **Presenters** will be promoted to *Zoom panelists* before their talk commences, so that they can manage and reply to questions posed by attendees.
 
-While both session chairs and presenters will be able to access all the questions, attendees can only see the questions that have been answered. Attendees have been instructed to post questions using the *Q&A* functionality.
+While both session chairs and presenters will be able to access the questions posted, attendees will be able to see only the questions that the presenter has answered. Attendees have been instructed to post questions using the Q&A functionality.
 
-Questions posted by attendees can be accessed by clicking the *Q&A* button.
+
+## Answering Questions
+
+The following procedure should be used to address questions:
+
+1. Click the `Q&A` from the Zoom dock. The dock is located at the top or bottom part of your screen.
+
+
+Questions posted by attendees can be accessed by clicking the `Q&A` button.
 
 IMG OF QA
 
-Once the *Q&A* popup appears, the following procedure should be used when addressing questions:
+The `Q&A` panel pops up. 
+
+
+
+
+
+
+Once the *Q&A* popup appears, the following procedure should be used to address questions:
 
 
 
