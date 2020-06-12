@@ -10,29 +10,27 @@ An ongoing Zoom webinar can be joined by following these instructions. Individua
 
     ![Email Invite](screenshots/invite.png){:height="75%" width="75%"}
 
-2. The Zoom client window should pop up.
+2. The Zoom client window should pop up. If the webinar has not yet started, wait for the host to start the meeting, otherwise you will be connected automatically.
 
     ![Client](screenshots/waiting.png){:height="50%" width="50%"}
 
-3. If the webinar has not yet started, wait for the host to start the meeting, otherwise you will be connected automatically.
-
-4. During presentations, attendees may ask questions by clicking the `Q&A` button.
+3. During presentations, attendees may ask questions by clicking the `Q&A` button.
 
     ![Q&A](screenshots/q_and_a.png){:height="50%" width="50%"}
 
-5. The `Q&A` panel shown pops up. This panel organises questions in two tabs: `All questions` and `My questions`. 
+4. The `Q&A` panel shown pops up. This panel organises questions in two tabs: `All questions` and `My questions`. 
 
     ![Q&A](screenshots/q_and_a_dialog.png){:height="50%" width="50%"}
 
     `All questions` lists the questions that **have been answered** by the presenter; these will be visible to all webinar attendees. The `My questions` tab shows the questions that you have asked. To pose a question to the presenter, simply type the question and press `Send`. The presenter receiving your question may then choose to address your question. Questions will be answered by presenters live over the mic. Any questions that remain unaddressed by presenters will only be visible in your `Q&A` panel, but are not seen by others.
 
-6. If and when your question is addressed by the presenter, you will be automatically given the option to **unmute your mic** in case you wish to pose further follow up questions. Press `Unmute` to enable your mic.
+5. If and when your question is addressed by the presenter, you will be automatically given the option to **unmute your mic** in case you wish to pose further follow up questions. Press `Unmute` to enable your mic.
 
     ![Q&A](screenshots/unmute.png){:height="50%" width="50%"}
 
     At any point, the *session chair* may intervene to help steer the discussion or provide additional clarification.    
 
-7. Once your question has been addressed, your mic will be muted automatically.
+6. Once your question has been addressed, your mic will be muted automatically.
 
 
 ## Tutorials
