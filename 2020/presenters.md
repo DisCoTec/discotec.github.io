@@ -27,19 +27,19 @@ We recommend that *presenters* follow this checklist.
 
 #### Before Session Starts
 
-1. Alert the *session hosts* via chat. The chat can be accessed using the `Chat` button. This should be done around **15 minutes** before the start of the **session**. Please make sure to include the title of the presentation. This informs the *session hosts* of whom to promote to the role of *Zoom panelist*.
+1. Alert the *session hosts* via chat. The chat can be accessed using the `Chat` button. This should be done around **15 minutes** before the start of your **session**. Please make sure to include the title of your presentation. This informs the *session hosts* of whom to promote to the role of *Zoom panelist*.
 
-    ![Q&A](screenshots/chat.png){:height="50%" width="50%"}
+    ![Q&A](screenshots/chat.png){:height="85%" width="85%"}
 
-2. Have the presentation slides at hand, in case attendees post questions in reference to these slides.
+2. Have the presentation slides at hand, in case *attendees* post questions in reference to these slides.
 
 #### After the Presentation is Aired
 
-Presenters can now start addressing questions. Refer to [below](#answering-questions) for instructions on how to answer questions.
+*Presenters* can now start addressing questions. Refer to [below](#answering-questions) for instructions on how to answer questions.
 
 1. Enable the mic to respond to questions.
 
-2. Enable the webcam so that attendees can see the presenter.
+2. Enable the webcam so that *attendees* can see the presenter.
 
 3. You may start a screen sharing session when reference to the presentation is required.
 
@@ -54,7 +54,7 @@ The following procedure should be used to address questions:
 
     ![Client](screenshots/dock.png){:height="75%" width="75%"}
 
-2. The `Q&A` panel pops up. This panel organises questions in three tabs: `Open`, `Answered` and `Dismissed`. `Open` lists the questions that have not yet been answered; these are visible **only** to the session chair and speaker. The `Answered` tab shows the questions that have already been answered, whereas dismissed questions can be found in the `Dismissed` tab.
+2. The `Q&A` panel pops up. This panel organises questions in three tabs: `Open`, `Answered` and `Dismissed`. `Open` lists the questions that have not been answered yet; these are visible **only** to the session chair and speaker. The `Answered` tab shows the questions that have already been answered, whereas dismissed questions can be found in the `Dismissed` tab.
 
     ![Q&A](screenshots/q_and_a_presenter_dialog.png){:height="50%" width="50%"}
     
@@ -64,7 +64,7 @@ The following procedure should be used to address questions:
 
 4. The *session host* will unmute the mic of the attendee asking the question in case follow up questions need to be asked verbally.
 
-5. After you have answered the question, together with any follow up questions, complete the answering process by clicking `Done`.
+5. After you have answered the question (together with any follow up questions), complete the answering process by clicking `Done`. Clicking `Done` alerts the session host to mute the *attendee* asking the question.
 
     ![Q&A](screenshots/after_answered_live.png){:height="50%" width="50%"}
 
@@ -79,8 +79,6 @@ The following procedure should be used to address questions:
 Questions that remain unaddressed will not be visible to *attendees*, only to *session chairs*.
 
 # Instructions for Session Chairs
-
-Before the start of each session, *session chairs* will be promoted to the role of *Zoom panelist*.
 
 As a *session chair*, you will at all times, have an open mic to introduce presenters and steer the discussion during the Q&A session.
 
