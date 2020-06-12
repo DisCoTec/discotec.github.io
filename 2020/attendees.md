@@ -34,7 +34,7 @@ The following procedure should be used to ask questions:
 
 3. If and when your question is addressed by the presenter, you will be automatically given the option to **unmute your mic** in case you wish to ask further follow up questions. Press `Unmute` to enable your mic.
 
-    ![Q&A](screenshots/unmute.png){:height="50%" width="50%"}
+    ![Unmute](screenshots/unmute.png){:height="50%" width="50%"}
 
     At any point, the *session chair* may intervene to help steer the discussion or provide additional clarification.    
 
@@ -43,13 +43,13 @@ The following procedure should be used to ask questions:
 
 ## Asking Questions During Tutorials
 
-During tutorials, you may wish to share your screen to ask for assistance.
+During tutorials, you may wish to share your screen to ask for assistance. Use this as a last resort since this process is slow.
 
 Follow steps 1-4 [above](#asking-questions-during-presentations). To request that your screen is shared, ask your host verbally over the mic.
 
-Press `Share screen` to share your screen with the other attendees.
+Press `Share Screen` to share your screen with the other attendees. Remember to unmute yourself or start a video session if necessary.
 
-> **TODO:** Pic on how to share screen.
+![Q&A](screenshots/share_screen.png){:height="75%" width="75%"}
 
 
 

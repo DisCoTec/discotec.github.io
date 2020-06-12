@@ -136,7 +136,7 @@
 
 |Time |ICE|FOCODILE|
 |:---:|:---:|:---:|
-|**09.30-10.20**|Invited talk: Cinzia Di Giusto (Université Côte d’Azur, CNRS, I3S, France)|
+|**09.30-10.20**| [(Invited Talk) Cinzia Di Giusto: On the k-synchronizability of Distributed Systems](invited#cinzia-di-giusto)|
 |*10.20-10.40*|*break*|*break*|
 |**10.40-11.10**| [A type language for message passing component-based systems](#languages) | 
 |**11.10-11.40**| [Typestates to Automata and back: a tool](#languages) | 
@@ -147,7 +147,7 @@
 |**14.00-14.20**| [Microservice Interface Based Deployment Orchestration](#software-engineering) |  [Proof of Burn](#session-1) |
 |**14.20-14.40**| [Taming Software Development complexity via reversibility](#software-engineering) |  [Formal Foundations for Hyperledger Avalon](#session-1) |
 |*14.40-15.00*|*break*|*break*| 
-|**15.00-15.50**|Invited talk: Karoliina Lehtinen (University of Liverpool, UK)|
+|**15.00-15.50**| [(Invited Talk) Karoliina Lehtinen: Parity Games: The Quasi-polynomial Era](invited#karoliina-lehtinen) |
 |**15.50-16.20**| [On the Parameterized Complexity of Synthesizing Boolean Petri Nets With Restricted Dependency](#fundamental-models-of-concurrency) | [Brick: Asynchronous Payment Channels](#session-2) |
 |**16.20-16.40**| [Comparing Session Type Interpretations of Linear Logic](#fundamental-models-of-concurrency) | [Catastrophe by Design: Destabilizing Wasteful Technologies and The Phase Transition from Proof of Work to Proof of Stake](#session-2) |
 |**16.40-17.00**| [Structural Equivalences for Reversible Calculi of Communicating Systems](#fundamental-models-of-concurrency) | 
