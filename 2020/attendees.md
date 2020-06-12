@@ -4,9 +4,11 @@
 
 **Download and install the Zoom client if not yet installed.**
 
-An ongoing Zoom webinar can be joined by following these instructions. Individuals who plan to attend the tutorials should, **in addition**, observe the instructions [below](#Tutorials).
+## Joining a Webinar
 
-1. To join a webinar, click the `Click Here to Join` link that you received in your email communication.
+An ongoing Zoom webinar can be joined by following these instructions. 
+
+1. Click the `Click Here to Join` link that you received in your email communication.
 
     ![Email Invite](screenshots/invite.png){:height="75%" width="75%"}
 
@@ -14,31 +16,33 @@ An ongoing Zoom webinar can be joined by following these instructions. Individua
 
     ![Client](screenshots/waiting.png){:height="50%" width="50%"}
 
-3. During presentations, attendees may ask questions by clicking the `Q&A` button.
+
+## Asking Questions During Presentations
+
+1. During presentations, attendees may ask questions by clicking the `Q&A` button.
 
     ![Q&A](screenshots/q_and_a.png){:height="50%" width="50%"}
 
-4. The `Q&A` panel pops up. This panel organises questions in two tabs: `All questions` and `My questions`. `All questions` lists the questions that **have been answered** by the presenter; these will be visible to all webinar attendees. The `My questions` tab shows the questions that you have asked. 
+2. The `Q&A` panel pops up. This panel organises questions in two tabs: `All questions` and `My questions`. `All questions` lists the questions that **have been answered** by the presenter; these will be visible to all webinar attendees. The `My questions` tab shows the questions that you have asked. 
 
     ![Q&A](screenshots/q_and_a_dialog.png){:height="50%" width="50%"}
 
     To pose a question to the presenter, type the question and press `Send`. The presenter receiving your question may then choose to address your question. Questions will be answered by presenters live over the mic. Any questions that remain unaddressed by presenters will only be visible in your `Q&A` panel, and are not seen by others.
 
-5. If and when your question is addressed by the presenter, you will be automatically given the option to **unmute your mic** in case you wish to ask further follow up questions. Press `Unmute` to enable your mic.
+3. If and when your question is addressed by the presenter, you will be automatically given the option to **unmute your mic** in case you wish to ask further follow up questions. Press `Unmute` to enable your mic.
 
     ![Q&A](screenshots/unmute.png){:height="50%" width="50%"}
 
     At any point, the *session chair* may intervene to help steer the discussion or provide additional clarification.    
 
-6. Once your question has been addressed, your mic will be muted automatically.
+4. Once your question has been addressed, your mic will be muted automatically.
 
 
-## Tutorials
+## Asking Questions During Tutorials
 
 During tutorials, you may wish to share your screen when asking for detailed assistance.
 
-Follow steps 1-6 above when asking questions to tutors. To request a screen share, ask your host verbally over the mic.
-
+Follow steps 1-4 [above](#asking-questions-during-presentations). To request a screen share, ask your host verbally over the mic.
 
 > **TODO:** Pic on how to share screen.
 
@@ -52,3 +56,5 @@ Follow steps 1-6 above when asking questions to tutors. To request a screen shar
 
 
 <!-- Questions posed by attendees will appear in the *Q&A* popup window as shown. The popup has two tabs *All questions* and *My questions*; *All questions* shows all the available questions which the speaker may choose to address or otherwise. Answered questions become visible by the audience once answered, and may be viewed in the *My questions* tab. -->
+
+<!-- Individuals who plan to attend the tutorials should, **in addition**, observe the instructions [below](#Tutorials). -->
