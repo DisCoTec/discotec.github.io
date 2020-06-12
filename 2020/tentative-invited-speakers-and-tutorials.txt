@@ -522,6 +522,9 @@ Part III:  https://youtu.be/zA18Y9SC2xs
 Invited Speaker Presentations
 -----------------------------
 
+Nathalie Bertrand 
+https://www.youtube.com/watch?v=xIOk6rFQkAc&feature=youtu.be
+
 
 COORDINATION Presentations
 ---------------------------
@@ -772,9 +775,18 @@ https://youtu.be/FL_teSjllSE
 
 Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities 
 Jeremy Sproston
-(LATE)
+https://youtu.be/nEBDzwaX3Nk
 
 
 On Implementable Timed Automata 
 Sergio Feo-Arenis, Milan Vujinovic and Bernd Westphal
  https://youtu.be/G4FrycUrkKs
+
+
+
+
+
+
+Co-Hosts
+
+ christian.bartolo.16@um.edu.mt,duncan.attard.01@um.edu.mt,jasmine.xuereb.15@um.edu.mt,caroline.r.caruana@um.edu.mt
