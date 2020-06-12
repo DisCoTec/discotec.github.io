@@ -22,7 +22,7 @@ An ongoing Zoom webinar can be joined by following these instructions.
 
 The following procedure should be used to ask questions:
 
-1. Click the `Q&A` from the Zoom dock. The dock is located at the top or bottom of your screen.
+1. Click the `Q&A` from the Zoom dock. The dock is located at the top or bottom part of your screen.
 
     ![Q&A](screenshots/q_and_a.png){:height="50%" width="50%"}
 
