@@ -568,7 +568,7 @@ https://youtu.be/GIjND2fbRX0A
 
 Choreography-Driven Approach to APIs: the OpenDXL Case Study 
 by Leonardo Frittelli, Facundo Maldonado, Hernan Melgratti and Emilio Tuosto
-(FRIDAY 12)
+https://www.youtube.com/watch?v=f4IOcKm1wjs&feature=youtu.be
 
 
 Franco Barbanera, Ivan Lanese, Emilio Tuosto
@@ -626,7 +626,7 @@ https://www.youtube.com/watch?v=74RUzfYneNI
 
 Time-fluid field-based coordination 
 by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli
-(FRIDAY 12)
+https://www.youtube.com/watch?v=nXaLqIzkvxc&feature=youtu.be
 
 Giorgio Audrito
 Resilient Distributed Collection through Information Speed Thresholds

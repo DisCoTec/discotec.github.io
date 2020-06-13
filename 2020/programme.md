@@ -19,6 +19,7 @@
 
 |Time | [Distributed Computing Track](https://universityofmalta.zoom.us/webinar/register/WN_WLioNnmqSJinDv9Blxjkig) | [Verification Track](https://universityofmalta.zoom.us/webinar/register/WN_YV_VItlZQ9eeQntUAXR3kA) |
 |:---:|:---:|:---:|
+|*10.20-10.30*| *welcome* | *welcome*|
 |**10.30-12.00**| [Choreographic Development of Message-Passing Applications](tutorials#choreographic-development-of-message-passing-applications) | [Parameterized Verification with Byzantine Model Checker](https://www.discotec.org/2020/tutorials#parameterized-verification-with-byzantine-model-checker) |
 |*12.00-13.30*| *break* | *break*|
 |**13.30-15.00**| [CHOReVOLUTION IDRE: An Integrated Development and Run-time Environment for Automatically Realizing and Executing Distributed Applications](tutorials#chorevolution-idre-an-integrated-development-and-run-time-environment-for-automatically-realizing-and-executing-distributed-applications)   |    [The Probabilistic Model Checker Storm](tutorials#the-probabilistic-model-checker-storm)   |
@@ -44,8 +45,10 @@
 
 |Time |[COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_uIC7mOktRoyuJ6aCtX4dEw) | [DAIS](https://universityofmalta.zoom.us/webinar/register/WN_OPxCTRW9QU2Oii-v9zLUXA) | FORTE |
 |:---:|:---:|:---:|:---:|
+|*09.45-10.00*| *welcome* | *welcome*| *welcome*|
 |**10.00-11.00**| [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) | [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) | [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) |
-|*11.00-11.30*|*break*|*break*|*break*|
+|*11.00-11.15*|*break*|*break*|*break*|
+|*11.15-11.30*|*welcome*|*welcome*|*break*|
 |**11.30-12.00**| [Operational representation of dependencies in Context-Dependent Event Structures](#modelling-1) | [On the trade-offs of combining multiple secure processing primitives for data analytics](#privacy-and-security) |
 |**12.00-12.30**| [Architecture modelling of parametric component-based systems](#modelling-1) | [Capturing Privacy-preserving User Contexts with IndoorHash](#privacy-and-security)|
 |*12.30-14.00*|*break*|*break*|*break*|
@@ -78,11 +81,12 @@
 |Time |COORDINATION|DAIS|FORTE| 
 |:---:|:---:|:---:|:---:|
 |**10.00-11.00**| [(Invited Talk) Nathalie Bertrand: Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand) | [(Invited Talk) Nathalie Bertrand: Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand) | [(Invited Talk) Nathalie Bertrand: Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand) |
-|*11.00-11.30*|*break*|*break*|*break*|
+|*11.00-11.15*|*break*|*break*|*break*|
 |**11.30-12.00**| [A true concurrent model of smart contracts executions](#coordination-best-paper) | | |
 |**12.00-12.30**| | [TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores](#dais-best-paper) | |
 |**12.30-13.00**| | | [Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory](#forte-best-paper)|
-|*13.00-14.00*|*break*|*break*|*break*|
+|*13.00-13.40*|*break*|*break*|*break*|
+|*13.45-14.00*|*break*|*break*|*welcome*|
 |**14.00-14.30**| [GoPi: Compiling linear and static channels in Go](#communications-types--implementations) | [Towards hypervisor support for enhancing the performance of virtual machine introspection](#cloud-and-systems) | [Derivation of Heard-Of Predicates From Elementary Behavioral Patterns](#program-logics) |
 |**14.30-15.00**| [SFJ: An Implementation of Semantic Featherweight Java](#communications-types--implementations) | [Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment](#cloud-and-systems) | [Trace Equivalence and Epistemic Logic to Express Security Properties](#program-logics) |
 |*15.00-15.30*|*break*|*break*|*break*|
@@ -136,6 +140,7 @@
 
 |Time |ICE|FOCODILE|
 |:---:|:---:|:---:|
+|*09.20-09.30*|*welcome*|*break*|
 |**09.30-10.20**| [(Invited Talk) Cinzia Di Giusto: On the k-synchronizability of Distributed Systems](invited#cinzia-di-giusto)|
 |*10.20-10.40*|*break*|*break*|
 |**10.40-11.10**| [A type language for message passing component-based systems](#languages) | 
@@ -143,7 +148,7 @@
 |**11.40-12.00**| [Purely Functional Message Passing](#languages) | 
 |*12.00-13.00*|*break*|*break*|
 |**13.00-13.30**| [An Abstract Framework for Choreographic Testing ](#choreographies) | 
-|**13.30-14.00**| [Towards Refinable Choreographies](#choreographies) | 
+|**13.30-14.00**| [Towards Refinable Choreographies](#choreographies) | *welcome* |
 |**14.00-14.20**| [Microservice Interface Based Deployment Orchestration](#software-engineering) |  [Proof of Burn](#session-1) |
 |**14.20-14.40**| [Taming Software Development complexity via reversibility](#software-engineering) |  [Formal Foundations for Hyperledger Avalon](#session-1) |
 |*14.40-15.00*|*break*|*break*| 
@@ -267,7 +272,7 @@
 
 ### Privacy and Security
 
-*(session chair: [Sonia Ben Mokhtar](sonia.ben-mokhtar@liris.cnrs.fr))*
+*(session chair: [Sonia Ben Mokhtar](mailto:sonia.ben-mokhtar@liris.cnrs.fr))*
 
 - *On the trade-offs of combining multiple secure processing primitives for data analytics* <br/> by Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_1)
 - *Capturing Privacy-preserving User Contexts with IndoorHash* <br/> Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_2)
