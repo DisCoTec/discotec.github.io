@@ -13,7 +13,7 @@ An ongoing Zoom webinar can be joined by following these instructions.
 
     ![Email Invite](screenshots/invite.png){:height="75%" width="75%"}
 
-2. The Zoom client window should pop up. If the webinar has not yet started, wait for the host to start the meeting, otherwise you will be connected automatically.
+2. The Zoom client window pop ups. If the webinar has not yet started, wait for the *session host* to start it, otherwise you will be connected automatically.
 
     ![Client](screenshots/waiting.png){:height="50%" width="50%"}
 
@@ -26,13 +26,13 @@ The following procedure should be used to ask questions:
 
     ![Q&A](screenshots/q_and_a.png){:height="75%" width="75%"}
 
-2. The `Q&A` panel pops up. This panel organises questions in two tabs: `All questions` and `My questions`. `All questions` lists the questions that **have been answered** by the presenter; these will be visible to all webinar attendees. The `My questions` tab shows the questions that you have asked. 
+2. The `Q&A` panel pops up. This panel organises questions in two tabs: `All questions` and `My questions`. `All questions` lists the questions that **have been answered** by the *presenter*; these will be visible to all webinar *attendees*. The `My questions` tab shows the questions that you have asked. 
 
     ![Q&A](screenshots/q_and_a_dialog.png){:height="50%" width="50%"}
 
-    To pose a question to the presenter, type the question and press `Send`. The presenter receiving your question may then choose to address your question. Questions will be answered by presenters live over the mic. Any questions that remain unaddressed by presenters will only be visible in your `Q&A` panel, and are not seen by others.
+    To pose a question to the *presenter*, type the question and press `Send`. The *presenter* receiving your question may then choose to address your question. Questions will be answered by *presenters* live over the mic. Any questions that remain unaddressed by *presenters* will only be visible in your `Q&A` panel, and are not seen by others.
 
-3. If and when your question is addressed by the presenter, you will be automatically given the option to **unmute your mic** in case you wish to ask further follow up questions. Press `Unmute` to enable your mic.
+3. If and when your question is addressed by the *presenter*, you will be automatically given the option to **unmute your mic** in case you wish to ask further follow up questions. Press `Unmute` to enable your mic.
 
     ![Unmute](screenshots/unmute.png){:height="50%" width="50%"}
 
