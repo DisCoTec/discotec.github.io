@@ -24,6 +24,10 @@ FOCODILE is a forum to exchange ideas and recent research findings on theoretica
 
 Contributions from doctoral students and young researchers are particularly encouraged.
 
+### Programme 
+
+Go to the [workshop programme page](https://www.discotec.org/2020/programme#friday-19-june)
+
 ### Submission Guidelines
 Submissions must be in English and in the form of an extended abstract of up to 6 pages (+ 2 pages references). All abstracts should be submitted through Easychair ([submission link](https://easychair.org/conferences/?conf=focodile2020)).
 
