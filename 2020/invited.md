@@ -107,7 +107,9 @@ I will describe the principles of Ivy's design and describe how to use Ivy effec
 
 ### Biography	
 
-
+Ken McMillan is a researcher at Microsoft Research in Redmond, Washington.  He works in formal verification and light-weight formal methods, particularly in applications to hardware and distributed protocols. His main interest is in tools, languages and methodologies that can be applied practically in an engineering environment. His current work in verification centers on a tool called Ivy, whose design goal is to make maximally effective use of proof automation in
+the verification of distributed systems. His past work includes the development of Symbolic Model Checking and Craig interpolation methods in model checking. He holds a BS in electrical engineering from the University of Illinois at Urbana (1984), an MS in electrical engineering from Stanford (1986) and a Ph.D. in computer science from Carnegie Mellon (1992). He is the author of the book "Symbolic Model Checking", and the SMV symbolic model checking system.  For his work
+in model checking, he has received the ACM doctoral dissertation award, the SRC technical excellence award, the ACM Paris Kannelakis award, the Alan Newell award from Carnegie Mellon and the CAV award. He was formerly a member of the technical staff at AT&T Bell Laboratories and a fellow at Cadence Research Labs.
 
 ## Vassilis Zikas
 
