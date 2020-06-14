@@ -138,7 +138,7 @@
 
 ### Workshop Talks
 
-|Time |ICE|FOCODILE|
+|Time |[ICE](https://www.discotec.org/2020/ice)|[FOCODILE](https://www.discotec.org/2020/focodile)|
 |:---:|:---:|:---:|
 |*09.20-09.30*|*welcome*|*break*|
 |**09.30-10.20**| [(Invited Talk) Cinzia Di Giusto: On the k-synchronizability of Distributed Systems](invited#cinzia-di-giusto)|
