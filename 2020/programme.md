@@ -150,7 +150,7 @@
 |**13.00-13.30**| [An Abstract Framework for Choreographic Testing ](#choreographies) | 
 |**13.30-14.00**| [Towards Refinable Choreographies](#choreographies) | *welcome* |
 |**14.00-14.20**| [Microservice Interface Based Deployment Orchestration](#software-engineering) |  [Proof of Burn](#session-1) |
-|**14.20-14.40**| [Taming Software Development complexity via reversibility](#software-engineering) |  [Formal Foundations for Hyperledger Avalon](#session-1) |
+|**14.20-14.40**| [Taming Software Development complexity via reversibility](#software-engineering) |  [Formal Foundations for Attestation in Hyperledger Avalon](#session-1) |
 |*14.40-15.00*|*break*|*break*| 
 |**15.00-15.50**| [(Invited Talk) Karoliina Lehtinen: Parity Games: The Quasi-polynomial Era](invited#karoliina-lehtinen) |
 |**15.50-16.20**| [On the Parameterized Complexity of Synthesizing Boolean Petri Nets With Restricted Dependency](#fundamental-models-of-concurrency) | [Brick: Asynchronous Payment Channels](#session-2) |
@@ -399,7 +399,7 @@ by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, 
 
 ### Session 1
 - *Proof-of-Burn* **(14:00-14:30)**  <br/> Kostis Karantias, Aggelos Kiayias and Dionysis Zindros
-- *Formal Foundations for Hyperledger Avalon* **(14:30-15:00)** <br/> Muhammad Usama Sardar
+- *Formal Foundations for Attestation in Hyperledger Avalon* **(14:30-15:00)** <br/> Muhammad Usama Sardar and Christof Fetzer
 
 ### Session 2
 
