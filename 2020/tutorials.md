@@ -14,7 +14,7 @@ Tutorial session are typically *hands-on*, providing the audience with the uniqu
 
 Instructions to download and install the tool
 <br/><br/>
-[Tutorial Slides](https://www.cs.le.ac.uk/people/et52/tutorial.pdf)
+[Tutorial slides](https://www.cs.le.ac.uk/people/et52/tutorial.pdf)
 <br/><br/>
 [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_2)
 <br/><br/>
