@@ -68,10 +68,10 @@
 
 ### Webinars
 
-- DisCoTec webinar link (Invited talks, Best Papers)
-- COORDINATION webinar link
-- DAIS webinar link
-- FORTE webinar link
+- DisCoTec [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_P1w7dLV7TtyjhnPklwVhmg) (Invited talks, Best Paper Joint Session)
+- COORDINATION [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_5ZpCN0pARmKDwvMlYapFKg)
+- DAIS [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_w-o2M3rKRxWrjtZvW6sWlQ)
+- FORTE [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_PbPq4EANS524_X8-SOzZHw)
   
 
 ### Conference Talks
