@@ -12,7 +12,8 @@ Tutorial session are typically *hands-on*, providing the audience with the uniqu
 
 ### Choreographic Development of Message-Passing Applications
 
-Instructions to download and install the tool
+[Instructions to download and install the tool](https://bitbucket.org/emlio_tuosto/chorgram/src/master/tutorial.md
+)
 <br/><br/>
 [Tutorial slides](https://www.cs.le.ac.uk/people/et52/tutorial.pdf)
 <br/><br/>
