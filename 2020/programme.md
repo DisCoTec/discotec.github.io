@@ -11,7 +11,7 @@
 
 ### Webinars
 
-- Distributed Computing Tutorial track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_WLioNnmqSJinDv9Blxjkig)
+- Distributed Computing Tutorial track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_mZXKJ49FQkmBYSXi_0gv4Q)
 - Verification Track Tutorial track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_YV_VItlZQ9eeQntUAXR3kA)
 
 
