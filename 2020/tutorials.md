@@ -122,6 +122,8 @@ Hensel, Sebastian Junges, Joost-Pieter Katoen, Tim Quatmann and [Matthias Volk](
 
 [Instructions to download and install the tool](https://github.com/miguelammatos/Kollaps#pre)
 <br/><br/>
+[Tutorial slides](tutorial-material/kollaps.pdf)
+<br/><br/>
 [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_8)
 <br/><br/>
 The systematic evaluation of distributed systems is a very challenging task as experimental results can be affected by a wide range of factors.
