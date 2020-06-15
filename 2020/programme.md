@@ -149,7 +149,7 @@
 |*12.00-13.00*|*break*|*break*|
 |**13.00-13.30**| [An Abstract Framework for Choreographic Testing ](#choreographies) | 
 |**13.30-14.00**| [Towards Refinable Choreographies](#choreographies) | *welcome* |
-|**14.00-14.20**| [Microservice Interface Based Deployment Orchestration](#software-engineering) |  [Proof of Burn](#session-1) |
+|**14.00-14.20**| [Microservice Interface Based Deployment Orchestration](#software-engineering) |  [Proof-of-Burn](#session-1) |
 |**14.20-14.40**| [Taming Software Development complexity via reversibility](#software-engineering) |  [Formal Foundations for Attestation in Hyperledger Avalon](#session-1) |
 |*14.40-15.00*|*break*|*break*| 
 |**15.00-15.50**| [(Invited Talk) Karoliina Lehtinen: Parity Games: The Quasi-polynomial Era](invited#karoliina-lehtinen) |
