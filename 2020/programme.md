@@ -104,10 +104,10 @@
 
 ### Webinars
 
-- DisCoTec webinar link (Invited talk)
-- COORDINATION webinar link
-- DAIS webinar link
-- FORTE webinar link
+- [DisCoTec webinar link (Invited talk)](https://universityofmalta.zoom.us/s/99952043619)
+- [COORDINATION webinar link](https://universityofmalta.zoom.us/s/98508209028)
+- [DAIS webinar link](https://universityofmalta.zoom.us/s/94826805242)
+- [FORTE webinar link](https://universityofmalta.zoom.us/s/98401621647)
 
 ### Conference Talks
 
@@ -133,8 +133,8 @@
 
 ### Webinars
 
-- ICE webinar link
-- FOCODILE webinar link
+- [ICE webinar link](https://universityofmalta.zoom.us/s/93346436438)
+- [FOCODILE webinar link](https://universityofmalta.zoom.us/s/92510481332)
 
 ### Workshop Talks
 
