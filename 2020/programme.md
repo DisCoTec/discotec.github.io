@@ -4,7 +4,7 @@
 
 # Programme
 
-*All times are listed for* **CET+1** *(Central European Summer Time)*
+*All times are listed for* **CEST+1** *(Central European Summer Time)*
   
 
 ## Monday 15 June
