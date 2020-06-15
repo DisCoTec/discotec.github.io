@@ -134,7 +134,7 @@ The presented work is the result of joint work between Miguel's team at U. Lisbo
 
 ### Typechecking Java protocols with Mungo/StMungo
 
-Instructions to download and install the tool
+[Instructions to download and install the tool](https://bitbucket.org/abcd-glasgow/mungo-tools/src/master/)
 <br/><br/>
 [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_12)
 <br/><br/>
