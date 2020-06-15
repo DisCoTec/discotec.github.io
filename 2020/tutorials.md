@@ -24,6 +24,7 @@ Recently choreographic approaches became popular in industrial contexts where re
 <br/> <br/>
 *Biography:* 
 [Emilio Tuosto](mailto:emilio.tuosto@gssi.it) is an associate professor at the Gran Sasso Science Institue and the University of Leicester. He graduated (1998) and got his PhD degree in Computer Science (2003) at the department of Computer Science, University of Pisa. Before joining Leicester, he has been a research associate (2003-2005) at the Dipartimento di Informatica (University of Pisa). Emilio Tuosto's main research interests are in theoretical and applied aspects of complex distributed systems. Recently he has been working on automata- and behavioural type-based models of distributed choreographies, contract-based models of distributed interactions, and their application to software engineering of distributed and concurrent systems.
+
 <br/>
 <br/>
 
