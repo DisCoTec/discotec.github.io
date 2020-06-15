@@ -32,6 +32,8 @@ Recently choreographic approaches became popular in industrial contexts where re
 
 [Instructions to download and install the tool](https://github.com/konnov/bymc/blob/master/bymc/doc/forte20.md)
 <br/><br/>
+Tutorial slides [(part 1)](tutorial-material/ByMC-part1.pdf) [(part 2)](tutorial-material/ByMC-part2.pdf) [(part 3)](tutorial-material/ByMC-part3.pdf)
+<br/><br/>
 [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_11)
 <br/><br/>
 Threshold guards are a basic primitive of many fault-tolerant algorithms that
@@ -136,6 +138,8 @@ The presented work is the result of joint work between Miguel's team at U. Lisbo
 ### Typechecking Java protocols with Mungo/StMungo
 
 [Instructions to download and install the tool](https://bitbucket.org/abcd-glasgow/mungo-tools/src/master/)
+<br/><br/>
+[Tutorial slides](tutorial-material/mungo-slides.pdf)
 <br/><br/>
 [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_12)
 <br/><br/>
