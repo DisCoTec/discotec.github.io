@@ -35,7 +35,7 @@
 ### Webinars
 
 - DisCoTec [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_zpyypjBfQh6kPAI0hK_MPA) (Invited talk)
-- COORDINATION track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_uIC7mOktRoyuJ6aCtX4dEw)
+- COORDINATION track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_1ibVOhJ7Q7ORzoxcriI6ow)
 - DAIS track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_xME8H0crRxW_MtBBT6oN7g)
   
 
@@ -43,7 +43,7 @@
 
   
 
-|Time |[COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_uIC7mOktRoyuJ6aCtX4dEw) | [DAIS](https://universityofmalta.zoom.us/webinar/register/WN_xME8H0crRxW_MtBBT6oN7g) | FORTE |
+|Time |[COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_1ibVOhJ7Q7ORzoxcriI6ow) | [DAIS](https://universityofmalta.zoom.us/webinar/register/WN_xME8H0crRxW_MtBBT6oN7g) | FORTE |
 |:---:|:---:|:---:|:---:|
 |*09.45-10.00*| *welcome* | *welcome*| *welcome*|
 |**10.00-11.00**| [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) | [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) | [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) |
@@ -69,9 +69,9 @@
 ### Webinars
 
 - DisCoTec [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_P1w7dLV7TtyjhnPklwVhmg) (Invited talks, Best Paper Joint Session)
-- COORDINATION [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_5ZpCN0pARmKDwvMlYapFKg)
-- DAIS [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_w-o2M3rKRxWrjtZvW6sWlQ)
-- FORTE [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_PbPq4EANS524_X8-SOzZHw)
+- COORDINATION [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_lr6EM8GRQRmuny9wWrvOtw)
+- DAIS [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_ie3n4vu0SESXycZPbKqo1A)
+- FORTE [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_s4cFRx-tTz-Zq7biiAfEyA)
   
 
 ### Conference Talks
@@ -104,10 +104,10 @@
 
 ### Webinars
 
-- [DisCoTec webinar link (Invited talk)](https://universityofmalta.zoom.us/s/99952043619)
-- [COORDINATION webinar link](https://universityofmalta.zoom.us/s/98508209028)
-- [DAIS webinar link](https://universityofmalta.zoom.us/s/94826805242)
-- [FORTE webinar link](https://universityofmalta.zoom.us/s/98401621647)
+- [DisCoTec webinar link (Invited talk)](https://universityofmalta.zoom.us/webinar/register/WN_TejuCHd9RVe4E0goRo5cqw)
+- [COORDINATION webinar link](https://universityofmalta.zoom.us/webinar/register/WN_qgFfHKGvTPG35VMuJUbN6g)
+- [DAIS webinar link](https://universityofmalta.zoom.us/webinar/register/WN_E7baFYLySw-OvZzToh6a6g)
+- [FORTE webinar link](https://universityofmalta.zoom.us/webinar/register/WN_zQWcMY2UTeycG8QxNGhpAw)
 
 ### Conference Talks
 
