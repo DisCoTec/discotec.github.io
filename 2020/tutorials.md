@@ -144,7 +144,7 @@ The presented work is the result of joint work between Miguel's team at U. Lisbo
 
 [Instructions to download and install the tool](https://bitbucket.org/abcd-glasgow/mungo-tools/src/master/)
 <br/><br/>
-Tutorial slides[(all)](tutorial-material/mungo-slides.pdf) and video presentations [(part 1)](https://youtu.be/Z8xLJei9mtM) [(part 2)](https://youtu.be/eVW2yGUd7i8) [(part 3)](https://youtu.be/NjvQq4tINyA)
+Tutorial slides [(all)](tutorial-material/mungo-slides.pdf) and video presentations [(part 1)](https://youtu.be/Z8xLJei9mtM) [(part 2)](https://youtu.be/eVW2yGUd7i8) [(part 3)](https://youtu.be/NjvQq4tINyA)
 <br/><br/>
 [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_12)
 <br/><br/>
