@@ -36,14 +36,14 @@
 
 - DisCoTec [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_zpyypjBfQh6kPAI0hK_MPA) (Invited talk)
 - COORDINATION track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_uIC7mOktRoyuJ6aCtX4dEw)
-- DAIS track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_OPxCTRW9QU2Oii-v9zLUXA)
+- DAIS track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_xME8H0crRxW_MtBBT6oN7g)
   
 
 ### Conference Talks
 
   
 
-|Time |[COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_uIC7mOktRoyuJ6aCtX4dEw) | [DAIS](https://universityofmalta.zoom.us/webinar/register/WN_OPxCTRW9QU2Oii-v9zLUXA) | FORTE |
+|Time |[COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_uIC7mOktRoyuJ6aCtX4dEw) | [DAIS](https://universityofmalta.zoom.us/webinar/register/WN_xME8H0crRxW_MtBBT6oN7g) | FORTE |
 |:---:|:---:|:---:|:---:|
 |*09.45-10.00*| *welcome* | *welcome*| *welcome*|
 |**10.00-11.00**| [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) | [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) | [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) |
