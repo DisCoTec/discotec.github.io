@@ -48,7 +48,7 @@
 |*09.45-10.00*| *welcome* | *welcome*| *welcome*|
 |**10.00-11.00**| [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) | [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) | [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) |
 |*11.00-11.25*|*break*|*break*|*break*|
-|*11.25-11.30*|*welcome*|*welcome*|*break*|
+|*11.25-11.30*|*welcome*|*break*|*break*|
 |**11.30-12.00**| [Operational representation of dependencies in Context-Dependent Event Structures](#modelling-1) | [On the trade-offs of combining multiple secure processing primitives for data analytics](#privacy-and-security) |
 |**12.00-12.30**| [Architecture modelling of parametric component-based systems](#modelling-1) | [Capturing Privacy-preserving User Contexts with IndoorHash](#privacy-and-security)|
 |*12.30-14.00*|*break*|*break*|*break*|
@@ -86,7 +86,7 @@
 |**12.00-12.30**| | [TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores](#dais-best-paper) | |
 |**12.30-13.00**| | | [Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory](#forte-best-paper)|
 |*13.00-13.55*|*break*|*break*|*break*|
-|*13.55-14.00*|*break*|*break*|*welcome*|
+|*13.55-14.00*|*break*|*welcome*|*welcome*|
 |**14.00-14.30**| [GoPi: Compiling linear and static channels in Go](#communications-types--implementations) | [Towards hypervisor support for enhancing the performance of virtual machine introspection](#cloud-and-systems) | [Derivation of Heard-Of Predicates From Elementary Behavioral Patterns](#program-logics) |
 |**14.30-15.00**| [SFJ: An Implementation of Semantic Featherweight Java](#communications-types--implementations) | [Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment](#cloud-and-systems) | [Trace Equivalence and Epistemic Logic to Express Security Properties](#program-logics) |
 |*15.00-15.30*|*break*|*break*|*break*|
