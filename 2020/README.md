@@ -42,7 +42,7 @@ The DisCoTeC organisation committee has decided that, due to the current COVID-1
 
 ## Programme
 
-Go to the [programme page](https://www.discotec.org/2020/programme)
+Go to the [programme page](https://www.discotec.org/2020/programme). *All times are listed for* **CET+1** *(Central European **Summer** Time)* 
 
 ## Proceedings
 The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes: 
