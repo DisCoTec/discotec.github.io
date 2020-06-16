@@ -15,7 +15,7 @@ Tutorial session are typically *hands-on*, providing the audience with the uniqu
 [Instructions to download and install the tool](https://bitbucket.org/emlio_tuosto/chorgram/src/master/tutorial.md
 )
 <br/><br/>
-[Tutorial slides](https://www.cs.le.ac.uk/people/et52/tutorial.pdf)
+Tutorial slides [(all)](https://www.cs.le.ac.uk/people/et52/tutorial.pdf) and video presentations [(part 1)](https://www.youtube.com/watch?v=OWzi8ktUhVQ) [(part 2)](https://www.youtube.com/watch?v=l3a3QOMYslc) [(part 3)](https://www.youtube.com/watch?v=qNCAocb_xm8)
 <br/><br/>
 [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_2)
 <br/><br/>
@@ -32,7 +32,7 @@ Recently choreographic approaches became popular in industrial contexts where re
 
 [Instructions to download and install the tool](https://github.com/konnov/bymc/blob/master/bymc/doc/forte20.md)
 <br/><br/>
-Tutorial slides [(part 1)](tutorial-material/ByMC-part1.pdf) [(part 2)](tutorial-material/ByMC-part2.pdf) [(part 3)](tutorial-material/ByMC-part3.pdf)
+Tutorial slides [(part 1)](tutorial-material/ByMC-part1.pdf) [(part 2)](tutorial-material/ByMC-part2.pdf) [(part 3)](tutorial-material/ByMC-part3.pdf) and video presentations [(part 1)](https://www.youtube.com/watch?v=S0VRE9PLViI&feature=youtu.be) [(part 2)](https://www.youtube.com/watch?v=UOdHoJGg-vk&feature=youtu.be) [(part 3)](https://www.youtube.com/watch?v=3anmrALqJW0&feature=youtu.be)
 <br/><br/>
 [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_11)
 <br/><br/>
@@ -72,8 +72,9 @@ Science from Lomonosov Moscow State University (Russia) in 2003 and 2009. In
 ### CHOReVOLUTION IDRE: An Integrated Development and Run-time Environment for Automatically Realizing and Executing Distributed Applications.
 
 [Instructions to download and install the tool](https://github.com/chorevolution/discotec-2020-tutorial)
-<br/>
-<br/>
+<br/><br/>
+Video presentations [(part 1)](https://www.youtube.com/watch?v=nPsi2EJFRGA&feature=youtu.be) [(part 2)](https://www.youtube.com/watch?v=xeHDPWz08WE&feature=youtu.be) [(part 3)](https://www.youtube.com/watch?v=RKlQoz2O3qw&feature=youtu.be)
+<br/><br/>
 [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_1)
 <br/><br/>
 Since late 70’s, the development of concurrent and distributed systems has been receiving much attention from the research community. Choreographies are a form of distributed composition that model the external interaction of the participant services by specifying peer-to-peer message exchanges from a global perspective. When third-party services are to be composed, obtaining the distributed coordination logic required to enforce the realizability of the specified choreography is a non-trivial and error prone task. Automatic support is then needed. CHOReVOLUTION is a platform for the tool-assisted development and execution of choreography-based applications that leverage the distributed collaboration of services specified through service choreographies. It offers an Integrated Development and Runtime Environment (IDRE) comprising a wizard-aided development environment, a system monitoring console, and a back-end for managing the deployment and execution of the system. The tutorial introduces the fundamentals of service choreographies and the CHOReVOLUTION approach as first. Then the introduction of the approach is followed by hands on exercises, where every attendee takes part in developing sample choreography-based distributed applications by using the CHOReVOLUTION IDRE.
@@ -91,6 +92,8 @@ The development team of CHOReVOLUTION IDRE includes also Amleto Di Salle and Cla
 
 
 [Instructions to download and install the tool](storm-tutorial)
+<br/><br/>
+Video presentations [(part 1)](https://www.youtube.com/watch?v=TTfSZGiCQ3I) [(part 2)](https://www.youtube.com/watch?v=rCgoqV5hesQ) [(part 3)](https://www.youtube.com/watch?v=WR72wrvtta0)
 <br/><br/>
 We present the probabilistic model checker Storm.
 Storm supports the analysis of discrete- and continuous-time variants of both
@@ -122,7 +125,7 @@ Hensel, Sebastian Junges, Joost-Pieter Katoen, Tim Quatmann and [Matthias Volk](
 
 [Instructions to download and install the tool](https://github.com/miguelammatos/Kollaps#pre)
 <br/><br/>
-[Tutorial slides](tutorial-material/kollaps.pdf)
+Tutorial slides [(all)](tutorial-material/kollaps.pdf) and video presentations [(part 1)](https://www.youtube.com/watch?v=j5vqLQjtyQo&feature=youtu.be) [(part 2)](https://www.youtube.com/watch?v=GMFvWBTZJ1M&feature=youtu.be) [(part 3)](https://www.youtube.com/watch?v=zA18Y9SC2xs&feature=youtu.be)
 <br/><br/>
 [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_8)
 <br/><br/>
@@ -141,7 +144,7 @@ The presented work is the result of joint work between Miguel's team at U. Lisbo
 
 [Instructions to download and install the tool](https://bitbucket.org/abcd-glasgow/mungo-tools/src/master/)
 <br/><br/>
-[Tutorial slides](tutorial-material/mungo-slides.pdf)
+Tutorial slides[(all)](tutorial-material/mungo-slides.pdf) and video presentations [(part 1)](https://youtu.be/Z8xLJei9mtM) [(part 2)](https://youtu.be/eVW2yGUd7i8) [(part 3)](https://youtu.be/NjvQq4tINyA)
 <br/><br/>
 [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_12)
 <br/><br/>
