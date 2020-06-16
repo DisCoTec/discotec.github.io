@@ -10,6 +10,7 @@
 
 The DisCoTeC organisation committee has decided that, due to the current COVID-19 developments, the conference will be held **online**. Accepted papers will be published as planned, by June 2020, but no physical meeting/presentations will take place. Instead, the authors of accepted papers will record their talks and discuss them with the conference participants online.
 
+
 ## Instructions for Attendees and Presenters
 
 * Attendee instructions may be found [here](https://www.discotec.org/2020/attendees). *Registered participants should have all received an email with the webinar invitations by now. In the eventuality that your email was lost or blocked, you can still register for the webinars from the links provided on the [programme page](https://www.discotec.org/2020/programme) on the day of the respective webinar.*
@@ -48,6 +49,11 @@ The proceedings of the conference are published in [LNCS-IFIP](https://www.sprin
 * Coordination: [LNCS 12134](https://link.springer.com/book/10.1007/978-3-030-50029-0)
 * DAIS: [LNCS 12135](https://link.springer.com/book/10.1007/978-3-030-50323-9)
 * FORTE: [LNCS 12136](https://link.springer.com/book/10.1007/978-3-030-50086-3)
+
+## Discussions
+
+Go to the [DisCoTec2020 Slack workspace](https://join.slack.com/t/discotec2020/shared_invite/zt-f51st5iq-mGFKdQ3HY2Pk4OJtWih3cg)
+
 
 ## Special issues
 The individual conferences will organise special issues of extended and selected papers in reputable journal such as [Logical Methods in Computer Science](https://lmcs.episciences.org) and [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing).
