@@ -16,6 +16,7 @@ The DisCoTeC organisation committee has decided that, due to the current COVID-1
 * Attendee instructions may be found [here](https://www.discotec.org/2020/attendees). *Registered participants should have all received an email with the webinar invitations by now. In the eventuality that your email was lost or blocked, you can still register for the webinars from the links provided on the [programme page](https://www.discotec.org/2020/programme) on the day of the respective webinar.*
 * Presenter instructions may be found [here](https://www.discotec.org/2020/presenters#instructions-for-invited,-conference,-tutorial-and-workshop-speakers).
 * Session Chair instructions may be found [here](https://www.discotec.org/2020/presenters#instructions-for-session-chairs).
+* Any technical difficulties may be posted on the dedicated [Slack channel](https://join.slack.com/t/discotec2020/shared_invite/zt-f51st5iq-mGFKdQ3HY2Pk4OJtWih3cg)
 
 ## Conferences
 * [Coordination 2020](https://www.discotec.org/2020/coordination) - International Conference on Coordination Models and Languages
