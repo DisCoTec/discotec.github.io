@@ -45,15 +45,16 @@ The DisCoTeC organisation committee has decided that, due to the current COVID-1
 
 Go to the [programme page](https://www.discotec.org/2020/programme). *All times are listed for* **CET+1** *(Central European **Summer** Time)* 
 
+## Discussions
+
+Go to the [DisCoTec2020 Slack workspace](https://join.slack.com/t/discotec2020/shared_invite/zt-f51st5iq-mGFKdQ3HY2Pk4OJtWih3cg)
+
+
 ## Proceedings
 The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes: 
 * Coordination: [LNCS 12134](https://link.springer.com/book/10.1007/978-3-030-50029-0)
 * DAIS: [LNCS 12135](https://link.springer.com/book/10.1007/978-3-030-50323-9)
 * FORTE: [LNCS 12136](https://link.springer.com/book/10.1007/978-3-030-50086-3)
-
-## Discussions
-
-Go to the [DisCoTec2020 Slack workspace](https://join.slack.com/t/discotec2020/shared_invite/zt-f51st5iq-mGFKdQ3HY2Pk4OJtWih3cg)
 
 
 ## Special issues

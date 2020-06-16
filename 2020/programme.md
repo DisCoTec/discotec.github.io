@@ -78,7 +78,7 @@
 
   
 
-|Time |COORDINATION|DAIS|FORTE| 
+|Time | [COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_lr6EM8GRQRmuny9wWrvOtw) | [DAIS](https://universityofmalta.zoom.us/webinar/register/WN_ie3n4vu0SESXycZPbKqo1A) | [FORTE](https://universityofmalta.zoom.us/webinar/register/WN_s4cFRx-tTz-Zq7biiAfEyA) | 
 |:---:|:---:|:---:|:---:|
 |**10.00-11.00**| [(Invited Talk) Nathalie Bertrand: Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand) | [(Invited Talk) Nathalie Bertrand: Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand) | [(Invited Talk) Nathalie Bertrand: Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand) |
 |*11.00-11.15*|*break*|*break*|*break*|
@@ -112,7 +112,7 @@
 ### Conference Talks
 
 
-|Time |COORDINATION|DAIS|FORTE| 
+|Time |[COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_qgFfHKGvTPG35VMuJUbN6g)|[DAIS](https://universityofmalta.zoom.us/webinar/register/WN_E7baFYLySw-OvZzToh6a6g)|[FORTE](https://universityofmalta.zoom.us/webinar/register/WN_zQWcMY2UTeycG8QxNGhpAw)| 
 |:---:|:---:|:---:|:---:|
 |**10.00-11.00:**|  [(Invited Talk) Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns) |  [(Invited Talk) Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns) |  [(Invited Talk) Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns) |
 |*11.00-11.30*|*break*|*break*|*break*|
