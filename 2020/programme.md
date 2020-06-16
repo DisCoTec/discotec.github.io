@@ -43,7 +43,7 @@
 
   
 
-|Time |[COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_uIC7mOktRoyuJ6aCtX4dEw) | [DAIS](https://universityofmalta.zoom.us/webinar/register/WN_OPxCTRW9QU2Oii-v9zLUXA) | FORTE |
+|Time |[COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_1ibVOhJ7Q7ORzoxcriI6ow) | [DAIS](https://universityofmalta.zoom.us/webinar/register/WN_ie3n4vu0SESXycZPbKqo1A) | FORTE |
 |:---:|:---:|:---:|:---:|
 |*09.45-10.00*| *welcome* | *welcome*| *welcome*|
 |**10.00-11.00**| [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) | [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) | [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) |
