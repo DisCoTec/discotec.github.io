@@ -80,8 +80,9 @@
 
 |Time | [COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_lr6EM8GRQRmuny9wWrvOtw) | [DAIS](https://universityofmalta.zoom.us/webinar/register/WN_ie3n4vu0SESXycZPbKqo1A) | [FORTE](https://universityofmalta.zoom.us/webinar/register/WN_s4cFRx-tTz-Zq7biiAfEyA) | 
 |:---:|:---:|:---:|:---:|
+|**09.55-10.00**| Announcements | Announcements | Announcements |
 |**10.00-11.00**| [(Invited Talk) Nathalie Bertrand: Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand) | [(Invited Talk) Nathalie Bertrand: Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand) | [(Invited Talk) Nathalie Bertrand: Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand) |
-|*11.00-11.15*|*break*|*break*|*break*|
+|*11.00-11.30*|*break*|*break*|*break*|
 |**11.30-12.00**| [A true concurrent model of smart contracts executions](#coordination-best-paper) | | |
 |**12.00-12.30**| | [TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores](#dais-best-paper) | |
 |**12.30-13.00**| | | [Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory](#forte-best-paper)|
@@ -114,7 +115,7 @@
 
 |Time |[COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_qgFfHKGvTPG35VMuJUbN6g)|[DAIS](https://universityofmalta.zoom.us/webinar/register/WN_E7baFYLySw-OvZzToh6a6g)|[FORTE](https://universityofmalta.zoom.us/webinar/register/WN_zQWcMY2UTeycG8QxNGhpAw)| 
 |:---:|:---:|:---:|:---:|
-|**10.00-11.00:**|  [(Invited Talk) Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns) |  [(Invited Talk) Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns) |  [(Invited Talk) Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns) |
+|**10.00-11.00**|  [(Invited Talk) Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns) |  [(Invited Talk) Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns) |  [(Invited Talk) Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns) |
 |*11.00-11.30*|*break*|*break*|*break*|
 |**11.30-12.00**| [Towards Energy-, Time- and Security-aware Multi-core Coordination](#coordination-languages) | [A resource usage efficient distributed allocation algorithm for 5G Service Function Chains](#distributed-algorithms) | [Conformance-Based Doping Detection for Cyber-Physical Systems](#verification-1) |
 |**12.00-12.30**| [ARx: Reactive Programming for Synchronous Connectors](#coordination-languages) | [A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks](#distributed-algorithms) | [Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego](#verification-1)  |
