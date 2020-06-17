@@ -9,7 +9,7 @@
 ###  Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms
 
 <br/>
-Presentation slides [(all)](./slidestoshare/DisCoTec20-NB.pdf)
+Presentation slides [(all)](./slides/invited/DisCoTec20-NB.pdf)
  
 Randomisation is a powerful tool to solve computationally hard problems: in
 distributed computing, probabilities can even permit to solve problems that are
