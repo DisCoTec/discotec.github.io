@@ -137,12 +137,12 @@
 <!-- - [ICE webinar link](https://universityofmalta.zoom.us/s/93346436438)
 - [FOCODILE webinar link](https://universityofmalta.zoom.us/s/92510481332) -->
 
-- [ICE webinar link]()
-- [FOCODILE webinar link]()
+- [ICE Webinar link](https://universityofmalta.zoom.us/j/97470142926)
+- [FOCODILE Webinar link](https://universityofmalta.zoom.us/j/95543045483)
 
 ### Workshop Talks
 
-|Time |[ICE]()|[FOCODILE]()|
+|Time |[ICE](https://universityofmalta.zoom.us/j/97470142926)|[FOCODILE](https://universityofmalta.zoom.us/j/95543045483)|
 |:---:|:---:|:---:|
 |*09.20-09.30*|*welcome*|*break*|
 |**09.30-10.20**| [(Invited Talk) Cinzia Di Giusto: On the k-synchronizability of Distributed Systems](invited#cinzia-di-giusto)|
@@ -244,7 +244,7 @@
 *(session chair: [Michele Loreti](mailto:michele.loreti@unicam.it))*
 
   
-- *Time-fluid field-based coordination* <br/> by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_13) and [(video)](https://www.youtube.com/watch?v=nXaLqIzkvxc&feature=youtu.be)
+- *Time-fluid field-based coordination* <br/> by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_13), [(slides)](https://danysk.github.io/Slides-2020-Coordination-TimeFluid/#/) and [(video)](https://www.youtube.com/watch?v=nXaLqIzkvxc&feature=youtu.be)
 - *Resilient Distributed Collection through Information Speed Thresholds* <br/> by Giorgio Audrito, Sergio Bergamini, Ferruccio Damiani and Mirko Viroli [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_14) and [(video)](https://www.youtube.com/watch?v=Dhs9ddjk0Ag&feature=youtu.be)
 - *Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited* (Short paper) <br/> by Nicolas Gast, Diego Latella and Mieke Massink [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_15) and [(video)](https://www.youtube.com/watch?v=nGk7sAUBWgI&feature=youtu.be)
 
