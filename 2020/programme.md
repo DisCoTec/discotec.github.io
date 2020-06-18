@@ -374,21 +374,29 @@
 
 ### Languages
 
+*(session chair: [Simon Fowler](mailto:simon.fowler@ed.ac.uk))*
+
 - *A type language for message passing component-based systems* <br/> Zorica Savanovic, Hugo Torres Vieira, and Letterio Galletta
 - *Typestates to Automata and back: a tool* <br/> João Mota, André Trindade, and António Ravara
 - *Purely Functional Message Passing* <br/> Seyed Hossein Haeri and Peter Van Roy
 
 ### Choreographies
 
+*(session chair: [Sung-Shik Jongmans](mailto:ssj@ou.nl))*
+
 - *An Abstract Framework for Choreographic Testing* <br/> Emilio Tuosto, Roberto Guanciale, and Alex Coto
 - *Towards Refinable Choreographies* <br/> Ugo de'Liguoro, Hernan Melgratti, and Emilio Tuosto
 
 ### Software Engineering
 
+*(session chair: [Sung-Shik Jongmans](mailto:ssj@ou.nl))*
+
 - *Microservice Interface Based Deployment Orchestration* <br/> Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi, and Gianluigi Zavattaro
 - *Taming Software Development complexity via reversibility* <br/> Claudio Antares Mezzina
 
 ### Fundamental Models of Concurrency
+
+*(session chair: [Julien Lange](J.S.Lange@kent.ac.uk))*
 
 - *On the Parameterized Complexity of Synthesizing Boolean Petri Nets With Restricted Dependency* <br/> Ronny Tredup and Evgeny Erofeev
 - *Comparing Session Type Interpretations of Linear Logic* <br/> Bas van den Heuvel and Jorge A. Pérez
