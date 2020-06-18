@@ -400,12 +400,12 @@
 
 
 ### Session 1
-- *Proof-of-Burn* **(14:00-14:30)**  <br/> Kostis Karantias, Aggelos Kiayias and Dionysis Zindros
+- *Proof-of-Burn* **(14:00-14:30)**  <br/> Kostis Karantias, Aggelos Kiayias and Dionysis Zindros [(paper)](https://eprint.iacr.org/2019/1096.pdf)
 - *Formal Foundations for Attestation in Hyperledger Avalon* **(14:30-15:00)** <br/> Muhammad Usama Sardar and Christof Fetzer
 
 ### Session 2
 
-- *Brick: Asynchronous Payment Channels* <br/> Zeta Avarikioti, Eleftherios Kokoris-Kogias and Roger Wattenhofer
+- *Brick: Asynchronous Payment Channels* <br/> Zeta Avarikioti, Eleftherios Kokoris-Kogias and Roger Wattenhofer [(paper)](https://arxiv.org/abs/1905.11360)
 - *Catastrophe by Design: Destabilizing Wasteful Technologies and The Phase Transition from Proof of Work to Proof of Stake*  **(16:20-16:50)** <br/> Stefanos Leonardos, Iosif Sakos, Costas Courcoubetis and Georgios Piliouras 
 
 
