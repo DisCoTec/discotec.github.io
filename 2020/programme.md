@@ -424,5 +424,5 @@
 ### Session 3
 
 - *TontineCoin: Brief Description* <br/> Chris Pollett, Thomas H. Austin, Katerina Potika and Justin Rietz
-- *On coercion resistance in decentralized voting* <br/> Pourandokht Behrouz, Panagiotis Grontas and Marianna Spyrakou
+- *On coercion resistance in decentralized voting* <br/> Pourandokht Behrouz, Panagiotis Grontas and Marianna Spyrakou [(paper)](https://www.corelab.ntua.gr/~pgrontas/focodile2020/on_decr.pdf)
 - *Divide and Scale: Formalization of Distributed Ledger Sharding Protocols* <br/> Zeta Avarikioti, Eleftherios Kokoris-Kogias and Roger Wattenhofer
