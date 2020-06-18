@@ -137,8 +137,8 @@
 <!-- - [ICE webinar link](https://universityofmalta.zoom.us/s/93346436438)
 - [FOCODILE webinar link](https://universityofmalta.zoom.us/s/92510481332) -->
 
-- [ICE Webinar link](https://universityofmalta.zoom.us/j/97470142926)
-- [FOCODILE Webinar link](https://universityofmalta.zoom.us/j/95543045483)
+- [ICE meeting link](https://universityofmalta.zoom.us/j/97470142926)
+- [FOCODILE meeting link](https://universityofmalta.zoom.us/j/95543045483)
 
 ### Workshop Talks
 
