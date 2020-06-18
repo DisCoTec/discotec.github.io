@@ -134,12 +134,15 @@
 
 ### Webinars
 
-- [ICE webinar link](https://universityofmalta.zoom.us/s/93346436438)
-- [FOCODILE webinar link](https://universityofmalta.zoom.us/s/92510481332)
+<!-- - [ICE webinar link](https://universityofmalta.zoom.us/s/93346436438)
+- [FOCODILE webinar link](https://universityofmalta.zoom.us/s/92510481332) -->
+
+- [ICE webinar link]()
+- [FOCODILE webinar link]()
 
 ### Workshop Talks
 
-|Time |[ICE](https://www.discotec.org/2020/ice)|[FOCODILE](https://www.discotec.org/2020/focodile)|
+|Time |[ICE]()|[FOCODILE]()|
 |:---:|:---:|:---:|
 |*09.20-09.30*|*welcome*|*break*|
 |**09.30-10.20**| [(Invited Talk) Cinzia Di Giusto: On the k-synchronizability of Distributed Systems](invited#cinzia-di-giusto)|
