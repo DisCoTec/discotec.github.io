@@ -58,8 +58,7 @@ Dr Cinzia Di Giusto received her PhD in Computer Science from the University of 
 ### Power-Optimal Scheduling of LEO Satellite Networks
 
 <br/>
-<!-- Presentation slides [(all)](./slides/invited/) -->
-Presentation slides to be linked soon
+Presentation slides [(all)](./slides/invited/2020-06-18-holger-hermanns-discotec-malta.pdf)
 <br/>
 Presentation video [YouTube](https://youtu.be/kHEi6ViqPoc)
 
