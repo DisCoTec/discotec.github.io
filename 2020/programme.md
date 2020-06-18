@@ -91,7 +91,7 @@
 |**14.00-14.30**| [GoPi: Compiling linear and static channels in Go](#communications-types--implementations) | [Towards hypervisor support for enhancing the performance of virtual machine introspection](#cloud-and-systems) | [Derivation of Heard-Of Predicates From Elementary Behavioral Patterns](#program-logics) |
 |**14.30-15.00**| [SFJ: An Implementation of Semantic Featherweight Java](#communications-types--implementations) | [Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment](#cloud-and-systems) | [Trace Equivalence and Epistemic Logic to Express Security Properties](#program-logics) |
 |*15.00-15.30*|*break*|*break*|*break*|
-|**15.30-16.00**| [Implementation of Multiparty Session Types in Rust](#communications-types--implementations)<br/> (10 min break at 15:50) | [Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform](#fault-tolerance-and-reproducibilty) | [A Formal Framework for Consent Management](#formal-frameworks) |
+|**15.30-16.00**| [Implementation of Multiparty Session Types in Rust](#communications-types--implementations)<br/> (10 min break at 15:50) | [Building a Polyglot Data Access Layer for a Low-Code Application Development Platform](#fault-tolerance-and-reproducibilty) | [A Formal Framework for Consent Management](#formal-frameworks) |
 |**16.00-16.30**| [Renegotiation and recursion in Bitcoin contract](#digital-contracts) | [A Comparison of Message Exchange Patterns in BFT Protocols](#fault-tolerance-and-reproducibilty) | [Towards Bridging Time and Causal Reversibility](#formal-frameworks)  |
 |**16.30-16.50**| [Towards a Formally Verified EVM in Production Environment](#digital-contracts) |
 |*16.50-17.30*| *break* | *break* | *break* |
@@ -300,8 +300,8 @@
 *(session chair: [Hans Reiser](mailto:hans.reiser@uni-passau.de))*
 
 
-- *Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform* (Experience Report)<br/> João Abreu, Ana Nunes Alonso, David Nunes, Jose Pereira, Luiz Santos, Tércio Soares and Andre Vieira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_6) and [(video)](https://www.youtube.com/watch?v=lIzJtF7hhAI&feature=youtu.be)
-- *A Comparison of Message Exchange Patterns in BFT Protocols* (Experience Report) <br/> Fábio Silva, Ana Nunes Alonso, José Pereira and Rui Oliveira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_7) and [(video)](https://www.youtube.com/watch?v=lIzJtF7hhAI&feature=youtu.be)
+- *Building a Polyglot Data Access Layer for a Low-Code Application Development Platform* (Experience Report)<br/> João Abreu, Ana Nunes Alonso, David Nunes, Jose Pereira, Luiz Santos, Tércio Soares and Andre Vieira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_6) and [(video)](https://www.youtube.com/watch?v=lIzJtF7hhAI&feature=youtu.be)
+- *A Comparison of Message Exchange Patterns in BFT Protocols* (Experience Report) <br/> Fábio Silva, Ana Nunes Alonso, José Pereira and Rui Oliveira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_7) and [(video)](https://www.youtube.com/watch?v=MK1yE99YCuc)
 
 
 ### Distributed Algorithms
