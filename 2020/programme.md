@@ -121,7 +121,7 @@
 |**12.00-12.30**| [ARx: Reactive Programming for Synchronous Connectors](#coordination-languages) | [A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks](#distributed-algorithms) | [Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego](#verification-1)  |
 |*12.30-13.30*|*break*|*break*|*break*|
 |**13.30-14.00**| [Time-fluid field-based coordination](#large-scale-decentralised-systems) | |
-|**14.00-14.30**| [Resilient Distributed Collection through Information Speed Thresholds](#large-scale-decentralised-systems) | | [Towards Deep Statistical Model Checking](#verification-2) |
+|**14.00-14.30**| [Resilient Distributed Collection through Information Speed Thresholds](#large-scale-decentralised-systems) | | [Deep Statistical Model Checking](#verification-2) |
 |**14.30-15.00**| [Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited](#large-scale-decentralised-systems) | | [Towards a Hybrid Verification Methodology for Communication Protocols](#verification-2) |
 |*15.00-15.30*|*break*|*break*|*break*|
 |**15.30-16.00**| [Formal Modeling and Analysis of Medical Systems](#verification-and-analysis) | | [Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities](#timed-automata) |
@@ -354,7 +354,7 @@
 
 *(session chair: [Tatjana Petrov](mailto:tatjana.petrov@gmail.com))*
 
-- *Towards Deep Statistical Model Checking* <br/> Michaela Klauck, Timo P. Gros, Marcel Steinmetz, Jörg Hoffmann and Holger Hermanns [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_6) and [(video)](https://www.youtube.com/watch?v=V5QxOUnqHpk&feature=youtu.be)
+- *Deep Statistical Model Checking* <br/> Michaela Klauck, Timo P. Gros, Marcel Steinmetz, Jörg Hoffmann and Holger Hermanns [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_6) and [(video)](https://www.youtube.com/watch?v=V5QxOUnqHpk&feature=youtu.be)
 - *Towards a Hybrid Verification Methodology for Communication Protocols* <br/> Christian Bartolo Burlo, Adrian Francalanza and Alceste Scalas [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_13) and [(video)](https://www.youtube.com/watch?v=FL_teSjllSE&feature=youtu.be)
 
 
