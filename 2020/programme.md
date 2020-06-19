@@ -414,7 +414,7 @@
 ### Session 2
 
 - *Brick: Asynchronous Payment Channels* <br/> Zeta Avarikioti, Eleftherios Kokoris-Kogias and Roger Wattenhofer [(paper)](https://arxiv.org/abs/1905.11360)
-- *Catastrophe by Design: Destabilizing Wasteful Technologies and The Phase Transition from Proof of Work to Proof of Stake*  **(16:20-16:50)** <br/> Stefanos Leonardos, Iosif Sakos, Costas Courcoubetis and Georgios Piliouras [(slides)](./slides/focodile/Catastrophe_by_Design_Destabilizing_Wasteful_Technologies_in_the_Presence_of_Network_Effects.pdf)
+- *Catastrophe by Design: Destabilizing Wasteful Technologies and The Phase Transition from Proof of Work to Proof of Stake*  **(16:20-16:50)** <br/> Stefanos Leonardos, Iosif Sakos, Costas Courcoubetis and Georgios Piliouras [(paper)](./slides/focodile/Catastrophe_by_Design_-_Manuscript.pdf), [(slides)](./slides/focodile/Catastrophe_by_Design_Destabilizing_Wasteful_Technologies_in_the_Presence_of_Network_Effects.pdf)
 
 
 ### Plenary Session: Invited talk 
@@ -423,6 +423,6 @@
 
 ### Session 3
 
-- *TontineCoin: Brief Description* <br/> Chris Pollett, Thomas H. Austin, Katerina Potika and Justin Rietz
+- *TontineCoin: Brief Description* <br/> Chris Pollett, Thomas H. Austin, Katerina Potika and Justin Rietz [(paper)](https://www.sjsu.edu/people/katerina.potika/publications/TontineCoin-8page.pdf)
 - *On coercion resistance in decentralized voting* <br/> Pourandokht Behrouz, Panagiotis Grontas and Marianna Spyrakou [(paper)](https://www.corelab.ntua.gr/~pgrontas/focodile2020/on_decr.pdf)
-- *Divide and Scale: Formalization of Distributed Ledger Sharding Protocols* <br/> Zeta Avarikioti, Eleftherios Kokoris-Kogias and Roger Wattenhofer
+- *Divide and Scale: Formalization of Distributed Ledger Sharding Protocols* <br/> Zeta Avarikioti, Eleftherios Kokoris-Kogias and Roger Wattenhofer [(paper)](https://arxiv.org/pdf/1910.10434.pdf)
