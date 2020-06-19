@@ -378,7 +378,7 @@
 
 - *A type language for message passing component-based systems* [(preprint)](ice-preprints/a_type_language_for_message_passing_component_based_systems.pdf)<br/> Zorica Savanovic, Hugo Torres Vieira, and Letterio Galletta
 - *Typestates to Automata and back: a tool* <br/> João Mota, André Trindade, and António Ravara
-- *Purely Functional Message Passing* (oral contribution) <br/> Seyed Hossein Haeri and Peter Van Roy
+- *Purely Functional Message Passing* (oral contribution) [(slides)](slides/ice/ICE-2020-PurelyFunc-slides.pdf) <br/> Seyed Hossein Haeri and Peter Van Roy
 
 ### Choreographies
 
