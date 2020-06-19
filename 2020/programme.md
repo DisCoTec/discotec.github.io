@@ -295,7 +295,7 @@
 
   
 - *Towards hypervisor support for enhancing the performance of virtual machine introspection* <br/> Benjamin Taubmann and Hans P. Reiser [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_3) and [(video)](https://www.youtube.com/watch?v=fY3aFt8dlE0)
-- *Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment* <br/> Ioannis Tzouros and Vana Kalogeraki [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_4), [(slides)](./slides/focodile/DAIS20-Presentation.pdf) and [(video)](https://www.youtube.com/watch?v=MAt4bWKnaI4&feature=youtu.be)
+- *Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment* <br/> Ioannis Tzouros and Vana Kalogeraki [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_4), [(slides)](./slides/forte/DAIS20-Presentation.pdf) and [(video)](https://www.youtube.com/watch?v=MAt4bWKnaI4&feature=youtu.be)
 
 
 ### Fault-tolerance and Reproducibilty
