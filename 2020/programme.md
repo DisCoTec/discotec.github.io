@@ -149,17 +149,17 @@
 |*10.20-10.40*|*break*|*break*|
 |**10.40-11.10**| [A type language for message passing component-based systems](#languages) | 
 |**11.10-11.40**| [Typestates to Automata and back: a tool](#languages) | 
-|**11.40-12.00**| [Purely Functional Message Passing](#languages) | 
+|**11.40-12.00**| [Purely Functional Message Passing (oral contribution)](#languages) | 
 |*12.00-13.00*|*break*|*break*|
-|**13.00-13.30**| [An Abstract Framework for Choreographic Testing ](#choreographies) | 
+|**13.00-13.30**| [An Abstract Framework for Choreographic Testing](#choreographies) | 
 |**13.30-14.00**| [Towards Refinable Choreographies](#choreographies) | *welcome* |
-|**14.00-14.20**| [Microservice Interface Based Deployment Orchestration](#software-engineering) |  [Proof-of-Burn](#session-1) |
-|**14.20-14.40**| [Taming Software Development complexity via reversibility](#software-engineering) |  [Formal Foundations for Attestation in Hyperledger Avalon](#session-1) |
+|**14.00-14.20**| [Microservice Interface Based Deployment Orchestration (oral contribution)](#software-engineering) |  [Proof-of-Burn](#session-1) |
+|**14.20-14.40**| [Taming Software Development complexity via reversibility (oral contribution)](#software-engineering) |  [Formal Foundations for Attestation in Hyperledger Avalon](#session-1) |
 |*14.40-15.00*|*break*|*break*| 
 |**15.00-15.50**| [(Invited Talk) Karoliina Lehtinen: Parity Games: The Quasi-polynomial Era](invited#karoliina-lehtinen) |
 |**15.50-16.20**| [On the Parameterized Complexity of Synthesizing Boolean Petri Nets With Restricted Dependency](#fundamental-models-of-concurrency) | [Brick: Asynchronous Payment Channels](#session-2) |
-|**16.20-16.40**| [Comparing Session Type Interpretations of Linear Logic](#fundamental-models-of-concurrency) | [Catastrophe by Design: Destabilizing Wasteful Technologies and The Phase Transition from Proof of Work to Proof of Stake](#session-2) |
-|**16.40-17.00**| [Structural Equivalences for Reversible Calculi of Communicating Systems](#fundamental-models-of-concurrency) | 
+|**16.20-16.40**| [Comparing Session Type Interpretations of Linear Logic (oral contribution)](#fundamental-models-of-concurrency) | [Catastrophe by Design: Destabilizing Wasteful Technologies and The Phase Transition from Proof of Work to Proof of Stake](#session-2) |
+|**16.40-17.00**| [Structural Equivalences for Reversible Calculi of Communicating Systems (oral contribution)](#fundamental-models-of-concurrency) | 
 |**17.00-18.00**|  | [(Invited Talk) Vassilis Zikas: From Blockchain to Global-Scale Trustworthy Infrastructure](invited#vassilis-zikas)   |
 |*18.00-18.30*|*break*|*break*|
 |**18.30-19.00**|  | [TontineCoin: Brief Description](#session-3)  |  
@@ -376,9 +376,9 @@
 
 *(session chair: [Simon Fowler](mailto:simon.fowler@ed.ac.uk))*
 
-- *A type language for message passing component-based systems* <br/> Zorica Savanovic, Hugo Torres Vieira, and Letterio Galletta
+- *A type language for message passing component-based systems* [(preprint)](ice-preprints/a_type_language_for_message_passing_component_based_systems.pdf)<br/> Zorica Savanovic, Hugo Torres Vieira, and Letterio Galletta
 - *Typestates to Automata and back: a tool* <br/> João Mota, André Trindade, and António Ravara
-- *Purely Functional Message Passing* <br/> Seyed Hossein Haeri and Peter Van Roy
+- *Purely Functional Message Passing* (oral contribution) <br/> Seyed Hossein Haeri and Peter Van Roy
 
 ### Choreographies
 
@@ -391,16 +391,16 @@
 
 *(session chair: [Sung-Shik Jongmans](mailto:ssj@ou.nl))*
 
-- *Microservice Interface Based Deployment Orchestration* <br/> Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi, and Gianluigi Zavattaro
-- *Taming Software Development complexity via reversibility* <br/> Claudio Antares Mezzina
+- *Microservice Interface Based Deployment Orchestration* (oral contribution) <br/> Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi, and Gianluigi Zavattaro
+- *Taming Software Development complexity via reversibility* (oral contribution) <br/> Claudio Antares Mezzina
 
 ### Fundamental Models of Concurrency
 
 *(session chair: [Julien Lange](J.S.Lange@kent.ac.uk))*
 
 - *On the Parameterized Complexity of Synthesizing Boolean Petri Nets With Restricted Dependency* <br/> Ronny Tredup and Evgeny Erofeev
-- *Comparing Session Type Interpretations of Linear Logic* <br/> Bas van den Heuvel and Jorge A. Pérez
-- *Structural Equivalences for Reversible Calculi of Communicating Systems* <br/> Clément Aubert and Ioana Cristescu
+- *Comparing Session Type Interpretations of Linear Logic* (oral contribution) <br/> Bas van den Heuvel and Jorge A. Pérez
+- *Structural Equivalences for Reversible Calculi of Communicating Systems* (oral contribution) <br/> Clément Aubert and Ioana Cristescu
 
 
 ## FOCODILE programme 
