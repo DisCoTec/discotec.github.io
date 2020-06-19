@@ -385,7 +385,7 @@
 *(session chair: [Sung-Shik Jongmans](mailto:ssj@ou.nl))*
 
 - *An Abstract Framework for Choreographic Testing* <br/> Emilio Tuosto, Roberto Guanciale, and Alex Coto
-- *Towards Refinable Choreographies* <br/> Ugo de'Liguoro, Hernan Melgratti, and Emilio Tuosto
+- *Towards Refinable Choreographies* [(slides)](slides/ice/ICE-2020-RefiningChor-slides.pdf) <br/> Ugo de'Liguoro, Hernan Melgratti, and Emilio Tuosto
 
 ### Software Engineering
 
