@@ -173,7 +173,7 @@
 
 ### Coordination Best Paper
 
-- *A true concurrent model of smart contracts executions* <br/> by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_16) and [(video)](https://www.youtube.com/watch?v=vgoDvMa69cU&feature=youtu.be)
+- *A true concurrent model of smart contracts executions* <br/> by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_16)  [(video)](https://www.youtube.com/watch?v=vgoDvMa69cU&feature=youtu.be)
 
 
 ### Modelling 1
@@ -181,8 +181,8 @@
 *(session chair: [Chiara Bodei](mailto:chiara.bodei@unipi.it))*
 
 
-- *Operational representation of dependencies in Context-Dependent Event Structures* <br/> by G. Michele Pinna [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_20) and [(video)](https://www.youtube.com/watch?v=C9xUBaIreY4&feature=youtu.be)
-- *Architecture modelling of parametric component-based systems* <br/> by Maria Pittou and George Rahonis [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_18) and [(video)](https://www.youtube.com/watch?v=j2oq9MSMaD0)
+- *Operational representation of dependencies in Context-Dependent Event Structures* <br/> by G. Michele Pinna [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_20)  [(video)](https://www.youtube.com/watch?v=C9xUBaIreY4&feature=youtu.be)
+- *Architecture modelling of parametric component-based systems* <br/> by Maria Pittou and George Rahonis [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_18)  [(video)](https://www.youtube.com/watch?v=j2oq9MSMaD0)
 
   
 ### Modelling 2 / Message-based communication 1
@@ -191,8 +191,8 @@
 
   
 
-- *Weighted PCL over product valuation monoids* <br/> by Vagia Karyoti and Paulina Paraponiari [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_19) and [(video)](https://www.youtube.com/watch?v=GIjND2fbRX0)
-- *A Choreography-Driven Approach to APIs: the OpenDXL Case Study* <br/> by Leonardo Frittelli, Facundo Maldonado, Hernan Melgratti and Emilio Tuosto [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_7) and [(video)](https://www.youtube.com/watch?v=f4IOcKm1wjs&feature=youtu.be)
+- *Weighted PCL over product valuation monoids* <br/> by Vagia Karyoti and Paulina Paraponiari [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_19) [(video)](https://www.youtube.com/watch?v=GIjND2fbRX0)
+- *A Choreography-Driven Approach to APIs: the OpenDXL Case Study* <br/> by Leonardo Frittelli, Facundo Maldonado, Hernan Melgratti and Emilio Tuosto [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_7) [(video)](https://www.youtube.com/watch?v=f4IOcKm1wjs&feature=youtu.be)
 
   
 
@@ -201,10 +201,10 @@
 *(session chair: [Alberto Lluch Lafuente](mailto:albertolluch@gmail.com))*
   
 
-- *Choreography Automata* <br/> by Franco Barbanera, Ivan Lanese and Emilio Tuosto [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_6) and [(video)](https://www.youtube.com/watch?v=ukzWeDZGKR0&feature=youtu.be)
-- *Team Automata@Work: On Safe Communication* (Short paper) <br/> by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_5) and [(video)](https://www.youtube.com/watch?v=hBkK6omKyS8&feature=youtu.be)
-- *Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices* (Short paper) <br/> by Espen Tønnessen Nordli, Phu H. Nguyen, Franck Chauvel and Hui Song  [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_11) and [(video)](https://www.youtube.com/watch?v=jdIjn-P38rM&feature=youtu.be)
-- *Quality of Service ranking by quantifying partial compliance of requirements* (Short paper) <br/> by Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_12) and [(video)](https://www.youtube.com/watch?v=-w5h3e8lEgc&feature=youtu.be)
+- *Choreography Automata* <br/> by Franco Barbanera, Ivan Lanese and Emilio Tuosto [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_6)  [(video)](https://www.youtube.com/watch?v=ukzWeDZGKR0&feature=youtu.be)
+- *Team Automata@Work: On Safe Communication* (Short paper) <br/> by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_5)  [(video)](https://www.youtube.com/watch?v=hBkK6omKyS8&feature=youtu.be)
+- *Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices* (Short paper) <br/> by Espen Tønnessen Nordli, Phu H. Nguyen, Franck Chauvel and Hui Song  [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_11)  [(video)](https://www.youtube.com/watch?v=jdIjn-P38rM&feature=youtu.be)
+- *Quality of Service ranking by quantifying partial compliance of requirements* (Short paper) <br/> by Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_12)  [(video)](https://www.youtube.com/watch?v=-w5h3e8lEgc&feature=youtu.be)
 
   
 
@@ -213,9 +213,9 @@
 *(session chair: [Hugo Torres Vieira](mailto:hugo.torres.vieira@ubi.pt))*
 
   
-- *GoPi: Compiling linear and static channels in Go* (Tool paper) <br/> by Marco Giunti [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_9) and [(video)](https://www.youtube.com/watch?v=0S6y0MamAnM&feature=youtu.be)
-- *SFJ: An Implementation of Semantic Featherweight Java* (Tool paper) <br/> by Artem Usov and Ornela Dardha [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_10) and [(video 1)](https://www.youtube.com/watch?v=80lTpmNlots&feature=youtu.be) and [(video 2)](https://www.youtube.com/watch?v=oTFIjm0A2O8&feature=youtu.be)
-- *Implementation of Multiparty Session Types in Rust* (Short paper) <br/> by Nicolas Lagaillardie, Rumyana Neykova and Nobuko Yoshida [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_8) and [(video)](https://www.youtube.com/watch?v=JfaPzBnO08I&feature=youtu.be)
+- *GoPi: Compiling linear and static channels in Go* (Tool paper) <br/> by Marco Giunti [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_9)  [(video)](https://www.youtube.com/watch?v=0S6y0MamAnM&feature=youtu.be)
+- *SFJ: An Implementation of Semantic Featherweight Java* (Tool paper) <br/> by Artem Usov and Ornela Dardha [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_10)  [(video 1)](https://www.youtube.com/watch?v=80lTpmNlots&feature=youtu.be)  [(video 2)](https://www.youtube.com/watch?v=oTFIjm0A2O8&feature=youtu.be)
+- *Implementation of Multiparty Session Types in Rust* (Short paper) <br/> by Nicolas Lagaillardie, Rumyana Neykova and Nobuko Yoshida [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_8)  [(video)](https://www.youtube.com/watch?v=JfaPzBnO08I&feature=youtu.be)
 
   
 
@@ -224,8 +224,8 @@
 *(session chair: [Anastasia Mavridou](mailto:anastasia.mavridou@nasa.gov))*
 
   
-- *Renegotiation and recursion in Bitcoin contracts* <br/> by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_17) and [(video)](https://www.youtube.com/watch?v=cThgRZCBp50&feature=youtu.be)
-- *Towards a Formally Verified EVM in Production Environment* (Short paper) <br/> by Xiyue Zhang, Yi Li and Meng Sun [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_21) and [(video)](https://www.youtube.com/watch?v=KvuGPljmde0&feature=youtu.be)
+- *Renegotiation and recursion in Bitcoin contracts* <br/> by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_17)  [(video)](https://www.youtube.com/watch?v=cThgRZCBp50&feature=youtu.be)
+- *Towards a Formally Verified EVM in Production Environment* (Short paper) <br/> by Xiyue Zhang, Yi Li and Meng Sun [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_21) [(video)](https://www.youtube.com/watch?v=KvuGPljmde0&feature=youtu.be)
 
   
 
@@ -233,8 +233,8 @@
 
 *(session chair: [Jean-Marie Jacquet](mailto:jean-marie.jacquet@unamur.be))*
 
-- *Towards Energy-, Time- and Security-aware Multi-core Coordination* <br/> by Julius Roeder, Benjamin Rouxel, Sebastian Altmeyer and Clemens Grelck [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_4) and [(video)](https://youtu.be/qtBin3j4qHc)
-- *ARx: Reactive Programming for Synchronous Connectors* (Tool paper)<br/>  by José Proença and Guillermina Cledou [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_3) and [(video)](https://www.youtube.com/watch?v=74RUzfYneNI)
+- *Towards Energy-, Time- and Security-aware Multi-core Coordination* <br/> by Julius Roeder, Benjamin Rouxel, Sebastian Altmeyer and Clemens Grelck [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_4)  [(video)](https://youtu.be/qtBin3j4qHc)
+- *ARx: Reactive Programming for Synchronous Connectors* (Tool paper)<br/>  by José Proença and Guillermina Cledou [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_3) [(video)](https://www.youtube.com/watch?v=74RUzfYneNI)
 
   
   
@@ -244,9 +244,9 @@
 *(session chair: [Michele Loreti](mailto:michele.loreti@unicam.it))*
 
   
-- *Time-fluid field-based coordination* <br/> by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_13), [(slides)](https://danysk.github.io/Slides-2020-Coordination-TimeFluid/#/) and [(video)](https://www.youtube.com/watch?v=nXaLqIzkvxc&feature=youtu.be)
-- *Resilient Distributed Collection through Information Speed Thresholds* <br/> by Giorgio Audrito, Sergio Bergamini, Ferruccio Damiani and Mirko Viroli [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_14) and [(video)](https://www.youtube.com/watch?v=Dhs9ddjk0Ag&feature=youtu.be)
-- *Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited* (Short paper) <br/> by Nicolas Gast, Diego Latella and Mieke Massink [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_15) and [(video)](https://www.youtube.com/watch?v=nGk7sAUBWgI&feature=youtu.be)
+- *Time-fluid field-based coordination* <br/> by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_13) [(slides)](https://danysk.github.io/Slides-2020-Coordination-TimeFluid/#/) [(video)](https://www.youtube.com/watch?v=nXaLqIzkvxc&feature=youtu.be)
+- *Resilient Distributed Collection through Information Speed Thresholds* <br/> by Giorgio Audrito, Sergio Bergamini, Ferruccio Damiani and Mirko Viroli [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_14)  [(video)](https://www.youtube.com/watch?v=Dhs9ddjk0Ag&feature=youtu.be)
+- *Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited* (Short paper) <br/> by Nicolas Gast, Diego Latella and Mieke Massink [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_15) [(video)](https://www.youtube.com/watch?v=nGk7sAUBWgI&feature=youtu.be)
 
   
 
@@ -255,9 +255,9 @@
 *(session chair: [Mieke Massink](mailto:Mieke.Massink@isti.cnr.it))*
 
 
-- *Formal Modeling and Analysis of Medical Systems* <br/> by Mahsa Zarneshan, Fatemeh Ghassemi and Marjan Sirjani [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_24) and [(video)](https://www.youtube.com/watch?v=OuIr4pqOJcw&feature=youtu.be)
-- *On Implementing Symbolic Controllability* <br/> by Adrian Francalanza and Jasmine Xuereb [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_22) and [(video)](https://www.youtube.com/watch?v=N-tgb5QX4tE&feature=share)
-- *Combining SLiVER with CADP to Analyze Multi-agent Systems* (Tool paper) <br/>  by Luca Di Stefano, Frédéric Lang and Wendelin Serwe [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_23) and [(video)](https://www.youtube.com/watch?v=4D5KdkM9zA4&feature=youtu.be)
+- *Formal Modeling and Analysis of Medical Systems* <br/> by Mahsa Zarneshan, Fatemeh Ghassemi and Marjan Sirjani [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_24)  [(video)](https://www.youtube.com/watch?v=OuIr4pqOJcw&feature=youtu.be)
+- *On Implementing Symbolic Controllability* <br/> by Adrian Francalanza and Jasmine Xuereb [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_22)  [(video)](https://www.youtube.com/watch?v=N-tgb5QX4tE&feature=share)
+- *Combining SLiVER with CADP to Analyze Multi-agent Systems* (Tool paper) <br/>  by Luca Di Stefano, Frédéric Lang and Wendelin Serwe [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_23)  [(video)](https://www.youtube.com/watch?v=4D5KdkM9zA4&feature=youtu.be)
 
   
 
@@ -269,7 +269,7 @@
 
   
 
-- *TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores* <br/> by Vikas Jaiman, Etienne Rivière and Sonia Ben Mokhtar [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_5) and [(video)](https://www.youtube.com/watch?v=BEEfVTjG6CY&feature=youtu.be)
+- *TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores* <br/> by Vikas Jaiman, Etienne Rivière and Sonia Ben Mokhtar [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_5) [(video)](https://www.youtube.com/watch?v=BEEfVTjG6CY&feature=youtu.be)
 
   
   
@@ -278,15 +278,15 @@
 
 *(session chair: [Sonia Ben Mokhtar](mailto:sonia.ben-mokhtar@liris.cnrs.fr))*
 
-- *On the trade-offs of combining multiple secure processing primitives for data analytics* <br/> by Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_1) and [(video)](https://www.youtube.com/watch?v=2qWoRIv_63c&feature=youtu.be)
-- *Capturing Privacy-preserving User Contexts with IndoorHash* <br/> Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_2) and [(video)](https://www.youtube.com/watch?v=c1UvQaYlAAs)
+- *On the trade-offs of combining multiple secure processing primitives for data analytics* <br/> by Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_1)  [(video)](https://www.youtube.com/watch?v=2qWoRIv_63c&feature=youtu.be)
+- *Capturing Privacy-preserving User Contexts with IndoorHash* <br/> Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_2)  [(video)](https://www.youtube.com/watch?v=c1UvQaYlAAs)
 
 ### ML for Systems
 
 *(session chair: [Vana Kalogeraki](mailto:vana@aueb.gr))*
 
-- *Self-Tunable DBMS Replication with Reinforcement Learning* <br/>Luis Ferreira, Fábio André Coelho and Jose Pereira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_9) and [(video)](https://www.youtube.com/watch?v=hx81-NjIKTs&feature=youtu.be)
-- *DroidAutoML: A microservice architecture to automate the evaluation of Android machine learning detection systems* <br/> Yérom-David Bromberg and Louison Gitzinger [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_10) and [(video)](https://www.youtube.com/watch?v=65N6JHpp9Pw&feature=youtu.be)
+- *Self-Tunable DBMS Replication with Reinforcement Learning* <br/>Luis Ferreira, Fábio André Coelho and Jose Pereira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_9) [(video)](https://www.youtube.com/watch?v=hx81-NjIKTs&feature=youtu.be)
+- *DroidAutoML: A microservice architecture to automate the evaluation of Android machine learning detection systems* <br/> Yérom-David Bromberg and Louison Gitzinger [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_10) [(video)](https://www.youtube.com/watch?v=65N6JHpp9Pw&feature=youtu.be)
   
 
 ### Cloud and Systems
@@ -294,8 +294,8 @@
 *(session chair: [Valerio Schiavoni](mailto:valerio.schiavoni@unine.ch))*
 
   
-- *Towards hypervisor support for enhancing the performance of virtual machine introspection* <br/> Benjamin Taubmann and Hans P. Reiser [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_3) and [(video)](https://www.youtube.com/watch?v=fY3aFt8dlE0)
-- *Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment* <br/> Ioannis Tzouros and Vana Kalogeraki [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_4), [(slides)](./slides/forte/DAIS20-Presentation.pdf) and [(video)](https://www.youtube.com/watch?v=MAt4bWKnaI4&feature=youtu.be)
+- *Towards hypervisor support for enhancing the performance of virtual machine introspection* <br/> Benjamin Taubmann and Hans P. Reiser [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_3)  [(video)](https://www.youtube.com/watch?v=fY3aFt8dlE0)
+- *Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment* <br/> Ioannis Tzouros and Vana Kalogeraki [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_4) [(slides)](./slides/forte/DAIS20-Presentation.pdf) [(video)](https://www.youtube.com/watch?v=MAt4bWKnaI4&feature=youtu.be)
 
 
 ### Fault-tolerance and Reproducibilty
@@ -303,8 +303,8 @@
 *(session chair: [Hans Reiser](mailto:hans.reiser@uni-passau.de))*
 
 
-- *Building a Polyglot Data Access Layer for a Low-Code Application Development Platform* (Experience Report)<br/> João Abreu, Ana Nunes Alonso, David Nunes, Jose Pereira, Luiz Santos, Tércio Soares and Andre Vieira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_6) and [(video)](https://www.youtube.com/watch?v=lIzJtF7hhAI&feature=youtu.be)
-- *A Comparison of Message Exchange Patterns in BFT Protocols* (Experience Report) <br/> Fábio Silva, Ana Nunes Alonso, José Pereira and Rui Oliveira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_7) and [(video)](https://www.youtube.com/watch?v=MK1yE99YCuc)
+- *Building a Polyglot Data Access Layer for a Low-Code Application Development Platform* (Experience Report)<br/> João Abreu, Ana Nunes Alonso, David Nunes, Jose Pereira, Luiz Santos, Tércio Soares and Andre Vieira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_6)  [(video)](https://www.youtube.com/watch?v=lIzJtF7hhAI&feature=youtu.be)
+- *A Comparison of Message Exchange Patterns in BFT Protocols* (Experience Report) <br/> Fábio Silva, Ana Nunes Alonso, José Pereira and Rui Oliveira [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_7)  [(video)](https://www.youtube.com/watch?v=MK1yE99YCuc)
 
 
 ### Distributed Algorithms
@@ -313,8 +313,8 @@
 
   
 
-- *A resource usage efficient distributed allocation algorithm for 5G Service Function Chains* <br/> Guillaume Fraysse, Jonathan Lejeune, Julien Sopena and Pierre Sens [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_11) and [(video)](https://www.youtube.com/watch?v=dGzjklfyzlA)
-- *A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks* <br/> Hadid Rachid and Vincent Villain [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_12) and [(video)](https://www.youtube.com/watch?v=s0nXwl-Doq4&feature=youtu.be)
+- *A resource usage efficient distributed allocation algorithm for 5G Service Function Chains* <br/> Guillaume Fraysse, Jonathan Lejeune, Julien Sopena and Pierre Sens [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_11)  [(video)](https://www.youtube.com/watch?v=dGzjklfyzlA)
+- *A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks* <br/> Hadid Rachid and Vincent Villain [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_12)  [(video)](https://www.youtube.com/watch?v=s0nXwl-Doq4&feature=youtu.be)
   
   
 
@@ -324,7 +324,7 @@
 
   
 
-- *Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory*<br/> Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, and Heike Wehrheim [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_3) and [(video)](https://www.youtube.com/watch?v=GA45k9tvPo4&feature=youtu.be)
+- *Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory*<br/> Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, and Heike Wehrheim [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_3) [(video)](https://www.youtube.com/watch?v=GA45k9tvPo4&feature=youtu.be)
   
 
 ### Program Logics
@@ -333,8 +333,8 @@
 
   
 
-- *Derivation of Heard-Of Predicates From Elementary Behavioral Patterns* <br/> by Adam Shimi, Aurélie Hurault and Philippe Queinnec [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_8) and [(video)](https://www.youtube.com/watch?v=pPb3o0sx7hE)
-- *Trace Equivalence and Epistemic Logic to Express Security Properties* <br/> Kiraku Minami [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_7) and [(video)](https://www.youtube.com/watch?v=_qyWuAMqbzc)
+- *Derivation of Heard-Of Predicates From Elementary Behavioral Patterns* <br/> by Adam Shimi, Aurélie Hurault and Philippe Queinnec [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_8)  [(video)](https://www.youtube.com/watch?v=pPb3o0sx7hE)
+- *Trace Equivalence and Epistemic Logic to Express Security Properties* <br/> Kiraku Minami [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_7) [(video)](https://www.youtube.com/watch?v=_qyWuAMqbzc)
 
   
 
@@ -343,22 +343,22 @@
 *(session chair: [Kirstin Peters](mailto:kirstin.peters@tps.tu-darmstadt.de))*
 
   
-- *A Formal Framework for Consent Management* <br/> by Shukun Tokas and Olaf Owe [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_10) and [(video)](https://www.youtube.com/watch?v=edoxYSyUGWU&feature=youtu.be​)
-- *Towards Bridging Time and Causal Reversibility* <br/> by Claudio Antares Mezzina and Marco Bernardo [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_2) and [(video)](https://www.youtube.com/watch?v=yEy77WMD0MY&feature=youtu.be)
+- *A Formal Framework for Consent Management* <br/> by Shukun Tokas and Olaf Owe [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_10) [(video)](https://www.youtube.com/watch?v=edoxYSyUGWU&feature=youtu.be​)
+- *Towards Bridging Time and Causal Reversibility* <br/> by Claudio Antares Mezzina and Marco Bernardo [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_2) [(video)](https://www.youtube.com/watch?v=yEy77WMD0MY&feature=youtu.be)
 
 ### Verification 1
  
 *(session chair: [Stephan Merz](mailto:stephan.merz@loria.fr))*
  
-- *Conformance-Based Doping Detection for Cyber-Physical Systems* <br/> by Rayna Dimitrova, Maciej Gazda, Mohammadreza Mousavi, Sebastian Biewer and Holger Hermanns [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_4) and [(video)](https://www.youtube.com/watch?v=ENCK5BO_F1E&feature=youtu.be)
-- *Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego* <br/> by Davide Basile, Maurice H. ter Beek and Axel Legay [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_1) and [(video)](https://www.youtube.com/watch?v=Nc5rrkyWlb8)
+- *Conformance-Based Doping Detection for Cyber-Physical Systems* <br/> by Rayna Dimitrova, Maciej Gazda, Mohammadreza Mousavi, Sebastian Biewer and Holger Hermanns [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_4)  [(video)](https://www.youtube.com/watch?v=ENCK5BO_F1E&feature=youtu.be)
+- *Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego* <br/> by Davide Basile, Maurice H. ter Beek and Axel Legay [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_1)  [(video)](https://www.youtube.com/watch?v=Nc5rrkyWlb8)
 
 ### Verification 2
 
 *(session chair: [Tatjana Petrov](mailto:tatjana.petrov@gmail.com))*
 
-- *Deep Statistical Model Checking* <br/> Michaela Klauck, Timo P. Gros, Marcel Steinmetz, Jörg Hoffmann and Holger Hermanns [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_6) and [(video)](https://www.youtube.com/watch?v=V5QxOUnqHpk&feature=youtu.be)
-- *Towards a Hybrid Verification Methodology for Communication Protocols* <br/> Christian Bartolo Burlo, Adrian Francalanza and Alceste Scalas [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_13) and [(video)](https://www.youtube.com/watch?v=FL_teSjllSE&feature=youtu.be)
+- *Deep Statistical Model Checking* <br/> Michaela Klauck, Timo P. Gros, Marcel Steinmetz, Jörg Hoffmann and Holger Hermanns [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_6)  [(video)](https://www.youtube.com/watch?v=V5QxOUnqHpk&feature=youtu.be)
+- *Towards a Hybrid Verification Methodology for Communication Protocols* <br/> Christian Bartolo Burlo, Adrian Francalanza and Alceste Scalas [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_13)  [(video)](https://www.youtube.com/watch?v=FL_teSjllSE&feature=youtu.be)
 
 
 ### Timed Automata
@@ -366,8 +366,8 @@
 *(session chair: [Nikos Tzevelekos](mailto:nikos.tzevelekos@qmul.ac.uk))*
 
 
--  *Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities* <br/> Jeremy Sproston [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_9) and [(video)](https://www.youtube.com/watch?v=nEBDzwaX3Nk&feature=youtu.be)
--  *On Implementable Timed Automata* <br/> Sergio Feo-Arenis, Milan Vujinovic and Bernd Westphal [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_5) and [(video)](https://www.youtube.com/watch?v=G4FrycUrkKs&feature=youtu.be)
+-  *Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities* <br/> Jeremy Sproston [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_9)  [(video)](https://www.youtube.com/watch?v=nEBDzwaX3Nk&feature=youtu.be)
+-  *On Implementable Timed Automata* <br/> Sergio Feo-Arenis, Milan Vujinovic and Bernd Westphal [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_5)  [(video)](https://www.youtube.com/watch?v=G4FrycUrkKs&feature=youtu.be)
 
 
 ## ICE accepted papers and programme
@@ -376,9 +376,9 @@
 
 *(session chair: [Simon Fowler](mailto:simon.fowler@ed.ac.uk))*
 
-- *A type language for message passing component-based systems* [(preprint)](ice-preprints/a_type_language_for_message_passing_component_based_systems.pdf)<br/> Zorica Savanovic, Hugo Torres Vieira, and Letterio Galletta [(video)](https://youtu.be/adEuDRs3yAY)
+- *A type language for message passing component-based systems* <br/> Zorica Savanovic, Hugo Torres Vieira, and Letterio Galletta [(preprint)](ice-preprints/a_type_language_for_message_passing_component_based_systems.pdf) [(video)](https://youtu.be/adEuDRs3yAY)
 - *Typestates to Automata and back: a tool* <br/> João Mota, André Trindade, and António Ravara [(video)](https://youtu.be/GCSPPtOgZqw)
-- *Purely Functional Message Passing* (oral contribution) [(slides)](slides/ice/ICE-2020-PurelyFunc-slides.pdf) <br/> Seyed Hossein Haeri and Peter Van Roy [(video)](https://youtu.be/GBq7CI0OK9A)
+- *Purely Functional Message Passing* (oral contribution)  <br/> Seyed Hossein Haeri and Peter Van Roy [(slides)](slides/ice/ICE-2020-PurelyFunc-slides.pdf) [(video)](https://youtu.be/GBq7CI0OK9A)
 
 ### Choreographies
 
@@ -408,14 +408,14 @@
 
 
 ### Session 1
-- *Proof-of-Burn* **(14:00-14:30)**  <br/> Kostis Karantias, Aggelos Kiayias and Dionysis Zindros [(paper)](https://eprint.iacr.org/2019/1096.pdf)
-- *Formal Foundations for Attestation in Hyperledger Avalon* **(14:30-15:00)** <br/> Muhammad Usama Sardar and Christof Fetzer
+- *Proof-of-Burn* **(14:00-14:30)**  <br/> Kostis Karantias, Aggelos Kiayias and Dionysis Zindros [(paper)](https://eprint.iacr.org/2019/1096.pdf)  [(video)](https://www.youtube.com/watch?v=7C_e2yWi628)
+- *Formal Foundations for Attestation in Hyperledger Avalon*  <br/> Muhammad Usama Sardar and Christof Fetzer [(video)](https://www.youtube.com/watch?v=0p8Nk9Xk7Jo&feature=youtu.be)
 
 ### Session 2
 
-- *Brick: Asynchronous Payment Channels* <br/> Zeta Avarikioti, Eleftherios Kokoris-Kogias and Roger Wattenhofer [(paper)](https://arxiv.org/abs/1905.11360)
-- *Catastrophe by Design: Destabilizing Wasteful Technologies and The Phase Transition from Proof of Work to Proof of Stake*  **(16:20-16:50)** <br/> Stefanos Leonardos, Iosif Sakos, Costas Courcoubetis and Georgios Piliouras [(paper)](./slides/focodile/Catastrophe_by_Design_-_Manuscript.pdf), [(slides)](./slides/focodile/Catastrophe_by_Design_Destabilizing_Wasteful_Technologies_in_the_Presence_of_Network_Effects.pdf)
-
+- *Brick: Asynchronous Payment Channels* <br/> Zeta Avarikioti, Eleftherios Kokoris-Kogias and Roger Wattenhofer [(paper)](https://arxiv.org/abs/1905.11360)  [(video)](https://www.youtube.com/watch?v=qttQeYfvMGU)
+- *Catastrophe by Design: Destabilizing Wasteful Technologies and The Phase Transition from Proof of Work to Proof of Stake*  <br/> Stefanos Leonardos, Iosif Sakos, Costas Courcoubetis and Georgios Piliouras [(paper)](./slides/focodile/Catastrophe_by_Design_-_Manuscript.pdf) [(slides)](./slides/focodile/Catastrophe_by_Design_Destabilizing_Wasteful_Technologies_in_the_Presence_of_Network_Effects.pdf)
+  [(video)](https://www.youtube.com/watch?v=TS559zMHFeU&feature=youtu.be)
 
 ### Plenary Session: Invited talk 
 
@@ -423,6 +423,6 @@
 
 ### Session 3
 
-- *TontineCoin: Brief Description* <br/> Chris Pollett, Thomas H. Austin, Katerina Potika and Justin Rietz [(paper)](https://www.sjsu.edu/people/katerina.potika/publications/TontineCoin-8page.pdf)
-- *On coercion resistance in decentralized voting* <br/> Pourandokht Behrouz, Panagiotis Grontas and Marianna Spyrakou [(paper)](https://www.corelab.ntua.gr/~pgrontas/focodile2020/on_decr.pdf)
-- *Divide and Scale: Formalization of Distributed Ledger Sharding Protocols* <br/> Zeta Avarikioti, Eleftherios Kokoris-Kogias and Roger Wattenhofer [(paper)](https://arxiv.org/pdf/1910.10434.pdf)
+- *TontineCoin: Brief Description* <br/> Chris Pollett, Thomas H. Austin, Katerina Potika and Justin Rietz [(paper)](https://www.sjsu.edu/people/katerina.potika/publications/TontineCoin-8page.pdf)  [(video)](https://www.youtube.com/watch?v=D_XIKKgOtGM&feature=youtu.be)
+- *On coercion resistance in decentralized voting* <br/> Pourandokht Behrouz, Panagiotis Grontas and Marianna Spyrakou [(paper)](https://www.corelab.ntua.gr/~pgrontas/focodile2020/on_decr.pdf)  [(video)](https://www.youtube.com/watch?v=ZBWcI0FE9bQ&feature=youtu.be)
+- *Divide and Scale: Formalization of Distributed Ledger Sharding Protocols* <br/> Zeta Avarikioti, Eleftherios Kokoris-Kogias and Roger Wattenhofer [(paper)](https://arxiv.org/pdf/1910.10434.pdf)  [(video)](https://youtu.be/_A2MN4DruNc)

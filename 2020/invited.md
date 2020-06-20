@@ -8,10 +8,9 @@
 
 ###  Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms
 
-<br/>
-Presentation slides [(all)](./slides/invited/DisCoTec20-NB.pdf)
-<br/>
-Presentation video [YouTube](https://www.youtube.com/watch?v=xIOk6rFQkAc&feature=youtu.be)
+
+Presentation 
+[slides](./slides/invited/DisCoTec20-NB.pdf) and [video](https://www.youtube.com/watch?v=xIOk6rFQkAc&feature=youtu.be)
  
 Randomisation is a powerful tool to solve computationally hard problems: in
 distributed computing, probabilities can even permit to solve problems that are
@@ -38,11 +37,7 @@ particular model checking, with a special focus on probabilistic models.
 
 ### On the k-synchronizability of Distributed Systems
 
-<br/>
-<!-- Presentation slides [(all)](./slides/invited/) -->
-Presentation slides to be linked soon
-<!-- <br/>
-Presentation video [YouTube](https://youtu.be/v3S6lhKOFPU) -->
+Presentation [video](https://youtu.be/v3S6lhKOFPU) 
 
 I will discuss the notion of k-synchronizability: a system is k-synchronizable if any of its executions, up to reordering causally independent actions, can be divided into a succession of k-bounded interaction phases. We know that the reachability problem is decidable for k-synchronizable systems. Moreover, the membership problem (whether a system is k-synchronizable for a given k) is decidable as
 well. Our proofs fix several important issues in previous attempts to prove these two results for mailbox automata. Finally, I will point our last results on deciding whether there exists a k such that a system is k-synchronizable.
@@ -57,10 +52,9 @@ Dr Cinzia Di Giusto received her PhD in Computer Science from the University of 
 
 ### Power-Optimal Scheduling of LEO Satellite Networks
 
-<br/>
-Presentation slides [(all)](./slides/invited/2020-06-18-holger-hermanns-discotec-malta.pdf)
-<br/>
-Presentation video [YouTube](https://youtu.be/kHEi6ViqPoc)
+Presentation 
+[slides](./slides/invited/2020-06-18-holger-hermanns-discotec-malta.pdf)
+and  [video](https://youtu.be/kHEi6ViqPoc)
 
 Size and weight limitations of Low-Earth Orbit (LEO) small satellites make their operation rest on a fine balance between solar power infeed and power demands of payload and communication technologies on board, buffered by on-board battery storage. As a result, the problem of managing battery-powered payload utilization together with inter-satellite communication is extremely intricate. Nevertheless, there is a growing trend towards constellations and mega-constellations that are to be managed using sophisticated software support.
 
@@ -79,11 +73,7 @@ Holger Hermanns is Professor in Computer Science at Saarland University in Germa
 
 ### Formal Specifications to Increase Understanding
 
-<br/>
-<!-- Presentation slides [(all)](./slides/invited/) -->
-Presentation slides to be linked soon
-<br/>
-Presentation video [YouTube](https://www.youtube.com/watch?v=_j3SdIGqYG8&feature=youtu.be)
+Presentation  [video](https://www.youtube.com/watch?v=_j3SdIGqYG8&feature=youtu.be)
 
 I have been active in the Alloy (MIT, Daniel Jackson) community for the last few years. Alloy is an interactive formal specification tool using SAT and SMT to find counterexamples. However, despite my enthusiasm, I am also quite frustrated with how the focus is on the least interesting aspects for me: *proving* the correctness of a specification. It is for me the least interesting because it requires the spec to be correct, which is very hard. However, even harder, it requires the implementation to follow the spec exactly. The people involved in this area seem to leave these all-important aspects as a detail for the practitioners. Instead, they focus on the more  esoteric things like overcoming the combinatorial explosion when proving specifications. 
 
@@ -101,11 +91,7 @@ Peter Kriens has been a software expert consulting for a large number of (some v
 
 ### Parity Games: The Quasi-polynomial Era
 
-<br/>
-<!-- Presentation slides [(all)](./slides/invited/) -->
-Presentation slides to be linked soon
-<!-- <br/>
-Presentation video [YouTube](https://youtu.be/TjGBEfjKoJ0) -->
+Presentation [video](https://youtu.be/TjGBEfjKoJ0) 
 
 Parity games are central to the verification and synthesis of reactive systems: various model-checking and synthesis problems reduce to solving these games. Solving parity games -- that is, deciding which player has a winning strategy -- is one of the few problems known to be in both UP and co-UP yet not known to be in P. So far, the quest for a polynomial algorithm has lasted over 25 years.
 
@@ -125,11 +111,8 @@ Dr Karoliina Lehtinen is a Marie Skłodowska-Curie fellow at the University of L
 
 ### Ivy: A Verification Tool for Distributed Algorithms
 
-<br/>
-<!-- Presentation slides [(all)](./slides/invited/) -->
-Presentation slides to be linked soon
-<br/>
-Presentation video [YouTube](https://www.youtube.com/watch?v=gR8xRg_EqDI&feature=youtu.be)
+
+Presentation [video](https://www.youtube.com/watch?v=gR8xRg_EqDI&feature=youtu.be)
 
 Ivy is an open-source, multi-modal verification tool for correct design and implementation of distributed algorithms, supporting modular
 specification, implementation and proof. The motivating principles of Ivy are predictability, stability and transparency. That is, automated proof steps should provide complexity bounds, should be insensitive to small perturbations, and when they fail should provide actionable feedback.  To the extent consistent with these principles, Ivy aims to maximize expressiveness and proof automation, and thus to achieve a high level of user
@@ -149,11 +132,7 @@ in model checking, he has received the ACM doctoral dissertation award, the SRC 
 
 ###  From Blockchain to Global-Scale Trustworthy Infrastructure
 
-<br/>
-<!-- Presentation slides [(all)](./slides/invited/) -->
-Presentation slides to be linked soon
-<!-- <br/>
-Presentation video [YouTube](https://youtu.be/X3cG6-t9sJo) -->
+Presentation [video](https://youtu.be/X3cG6-t9sJo)
 
 The wide adoption of global computer networks, such as the Internet, creates immense opportunities, and challenges the traditional centralized trust model. The idea of giving control of widely-used critical infrastructure to its users is becoming ever more popular. Blockchain and Distributed Ledger Technology (DLT) promise to bring the decentralization ideas to reality and disrupt traditional strongholds of trust in the financial, digital, biomedical, and manufacturing sectors, as well as in governance. This talk will discuss the basic principles of blockchain-based DLT, and how intensive research in cryptography, security, and distributed systems paves the path to global and sustainable decentralization. I will discuss novel design choices that go into blockchain-based DLT, and how these choices critically impact the security of the solutions and address implementation and deployment challenges. The talk will be self-contained and accessible to the general CS audience.
 
