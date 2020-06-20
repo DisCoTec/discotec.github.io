@@ -11,12 +11,7 @@
 The DisCoTeC organisation committee has decided that, due to the current COVID-19 developments, the conference will be held **online**. Accepted papers will be published as planned, by June 2020, but no physical meeting/presentations will take place. Instead, the authors of accepted papers will record their talks and discuss them with the conference participants online.
 
 
-## Instructions for Attendees and Presenters
 
-* Attendee instructions may be found [here](https://www.discotec.org/2020/attendees). *Registered participants should have all received an email with the webinar invitations by now. In the eventuality that your email was lost or blocked, you can still register for the webinars from the links provided on the [programme page](https://www.discotec.org/2020/programme) on the day of the respective webinar.*
-* Presenter instructions may be found [here](https://www.discotec.org/2020/presenters#instructions-for-invited,-conference,-tutorial-and-workshop-speakers).
-* Session Chair instructions may be found [here](https://www.discotec.org/2020/presenters#instructions-for-session-chairs).
-* Any technical difficulties may be posted on the dedicated [Slack channel](https://join.slack.com/t/discotec2020/shared_invite/zt-f51st5iq-mGFKdQ3HY2Pk4OJtWih3cg)
 
 ## Conferences
 * [Coordination 2020](https://www.discotec.org/2020/coordination) - International Conference on Coordination Models and Languages
@@ -27,8 +22,6 @@ The DisCoTeC organisation committee has decided that, due to the current COVID-1
 * [DisCoTec Tools](https://www.discotec.org/2020/tutorials) - Tutorial Sessions 
 * [ICE 2020](https://www.discotec.org/2020/ice) - Workshop on Interaction and Concurrency Experience
 * [FOCODILE 2020](https://www.discotec.org/2020/focodile) - Workshop on the Foundations of Consensus and Distributed Ledgers
-* ~~[BehAPI 2020](https://www.discotec.org/2020/behapi) - Workshop on Behavioural APIs~~
-
 
 ## Keynote Speakers
 
@@ -41,6 +34,19 @@ The DisCoTeC organisation committee has decided that, due to the current COVID-1
 * [Vassilis Zikas](invited#vassilis-zikas), University of Edinburgh  
 
 
+## IFIP Best Paper Award
+
+- *A true concurrent model of smart contracts executions* <br/> by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia <br/> 
+ [Paper](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_16) and [Presentation](https://www.youtube.com/watch?v=vgoDvMa69cU&feature=youtu.be)
+
+
+## Proceedings
+The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes: 
+* Coordination: [LNCS 12134](https://link.springer.com/book/10.1007/978-3-030-50029-0)
+* DAIS: [LNCS 12135](https://link.springer.com/book/10.1007/978-3-030-50323-9)
+* FORTE: [LNCS 12136](https://link.springer.com/book/10.1007/978-3-030-50086-3)
+
+
 ## Programme
 
 Go to the [programme page](https://www.discotec.org/2020/programme). *All times are listed for* **CET+1** *(Central European **Summer** Time)* 
@@ -50,11 +56,6 @@ Go to the [programme page](https://www.discotec.org/2020/programme). *All times 
 Go to the [DisCoTec2020 Slack workspace](https://join.slack.com/t/discotec2020/shared_invite/zt-f51st5iq-mGFKdQ3HY2Pk4OJtWih3cg)
 
 
-## Proceedings
-The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes: 
-* Coordination: [LNCS 12134](https://link.springer.com/book/10.1007/978-3-030-50029-0)
-* DAIS: [LNCS 12135](https://link.springer.com/book/10.1007/978-3-030-50323-9)
-* FORTE: [LNCS 12136](https://link.springer.com/book/10.1007/978-3-030-50086-3)
 
 
 ## Special issues
@@ -65,6 +66,13 @@ The individual conferences will organise special issues of extended and selected
 ## Registration
 
 Go to the [registration page](https://www.um.edu.mt/events/discotec2020/about/_nocache).
+
+## Instructions for Attendees and Presenters
+
+* Attendee instructions may be found [here](https://www.discotec.org/2020/attendees). *Registered participants should have all received an email with the webinar invitations by now. In the eventuality that your email was lost or blocked, you can still register for the webinars from the links provided on the [programme page](https://www.discotec.org/2020/programme) on the day of the respective webinar.*
+* Presenter instructions may be found [here](https://www.discotec.org/2020/presenters#instructions-for-invited,-conference,-tutorial-and-workshop-speakers).
+* Session Chair instructions may be found [here](https://www.discotec.org/2020/presenters#instructions-for-session-chairs).
+* Any technical difficulties may be posted on the dedicated [Slack channel](https://join.slack.com/t/discotec2020/shared_invite/zt-f51st5iq-mGFKdQ3HY2Pk4OJtWih3cg)
 
 
 ## Important dates

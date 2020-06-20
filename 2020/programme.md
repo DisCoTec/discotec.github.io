@@ -376,31 +376,31 @@
 
 *(session chair: [Simon Fowler](mailto:simon.fowler@ed.ac.uk))*
 
-- *A type language for message passing component-based systems* [(preprint)](ice-preprints/a_type_language_for_message_passing_component_based_systems.pdf)<br/> Zorica Savanovic, Hugo Torres Vieira, and Letterio Galletta
-- *Typestates to Automata and back: a tool* <br/> João Mota, André Trindade, and António Ravara
-- *Purely Functional Message Passing* (oral contribution) [(slides)](slides/ice/ICE-2020-PurelyFunc-slides.pdf) <br/> Seyed Hossein Haeri and Peter Van Roy
+- *A type language for message passing component-based systems* [(preprint)](ice-preprints/a_type_language_for_message_passing_component_based_systems.pdf)<br/> Zorica Savanovic, Hugo Torres Vieira, and Letterio Galletta [(video)](https://youtu.be/adEuDRs3yAY)
+- *Typestates to Automata and back: a tool* <br/> João Mota, André Trindade, and António Ravara [(video)](https://youtu.be/GCSPPtOgZqw)
+- *Purely Functional Message Passing* (oral contribution) [(slides)](slides/ice/ICE-2020-PurelyFunc-slides.pdf) <br/> Seyed Hossein Haeri and Peter Van Roy [(video)](https://youtu.be/GBq7CI0OK9A)
 
 ### Choreographies
 
 *(session chair: [Sung-Shik Jongmans](mailto:ssj@ou.nl))*
 
-- *An Abstract Framework for Choreographic Testing* <br/> Emilio Tuosto, Roberto Guanciale, and Alex Coto
-- *Towards Refinable Choreographies* [(slides)](slides/ice/ICE-2020-RefiningChor-slides.pdf) <br/> Ugo de'Liguoro, Hernan Melgratti, and Emilio Tuosto
+- *An Abstract Framework for Choreographic Testing* <br/> Emilio Tuosto, Roberto Guanciale, and Alex Coto [(video)](https://www.youtube.com/watch?v=4p5cp4YYidg&feature=youtu.be)
+- *Towards Refinable Choreographies* [(slides)](slides/ice/ICE-2020-RefiningChor-slides.pdf) <br/> Ugo de'Liguoro, Hernan Melgratti, and Emilio Tuosto [(video)](https://youtu.be/laWFIji4Eto)
 
 ### Software Engineering
 
 *(session chair: [Sung-Shik Jongmans](mailto:ssj@ou.nl))*
 
-- *Microservice Interface Based Deployment Orchestration* (oral contribution) <br/> Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi, and Gianluigi Zavattaro
-- *Taming Software Development complexity via reversibility* (oral contribution) <br/> Claudio Antares Mezzina
+- *Microservice Interface Based Deployment Orchestration* (oral contribution) <br/> Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi, and Gianluigi Zavattaro [(video)](https://youtu.be/sKH_UfwepN0)
+- *Taming Software Development complexity via reversibility* (oral contribution) <br/> Claudio Antares Mezzina [(video)](https://youtu.be/zvy4KytdWhw)
 
 ### Fundamental Models of Concurrency
 
 *(session chair: [Julien Lange](J.S.Lange@kent.ac.uk))*
 
-- *On the Parameterized Complexity of Synthesizing Boolean Petri Nets With Restricted Dependency* <br/> Ronny Tredup and Evgeny Erofeev
-- *Comparing Session Type Interpretations of Linear Logic* (oral contribution) <br/> Bas van den Heuvel and Jorge A. Pérez
-- *Structural Equivalences for Reversible Calculi of Communicating Systems* (oral contribution) <br/> Clément Aubert and Ioana Cristescu
+- *On the Parameterized Complexity of Synthesizing Boolean Petri Nets With Restricted Dependency* <br/> Ronny Tredup and Evgeny Erofeev [(video)](https://youtu.be/rLkqGxeMyCo)
+- *Comparing Session Type Interpretations of Linear Logic* (oral contribution) <br/> Bas van den Heuvel and Jorge A. Pérez [(video)](https://youtu.be/hfP2kKhKUKI)
+- *Structural Equivalences for Reversible Calculi of Communicating Systems* (oral contribution) <br/> Clément Aubert and Ioana Cristescu [(video)](https://youtu.be/yJdBw82ZwHg)
 
 
 ## FOCODILE programme 
