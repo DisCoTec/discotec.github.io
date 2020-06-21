@@ -132,6 +132,7 @@ in model checking, he has received the ACM doctoral dissertation award, the SRC 
 
 ###  From Blockchain to Global-Scale Trustworthy Infrastructure
 
+
 Presentation [video](https://youtu.be/X3cG6-t9sJo)
 
 The wide adoption of global computer networks, such as the Internet, creates immense opportunities, and challenges the traditional centralized trust model. The idea of giving control of widely-used critical infrastructure to its users is becoming ever more popular. Blockchain and Distributed Ledger Technology (DLT) promise to bring the decentralization ideas to reality and disrupt traditional strongholds of trust in the financial, digital, biomedical, and manufacturing sectors, as well as in governance. This talk will discuss the basic principles of blockchain-based DLT, and how intensive research in cryptography, security, and distributed systems paves the path to global and sustainable decentralization. I will discuss novel design choices that go into blockchain-based DLT, and how these choices critically impact the security of the solutions and address implementation and deployment challenges. The talk will be self-contained and accessible to the general CS audience.
