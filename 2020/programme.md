@@ -409,7 +409,9 @@
 
 ### Session 1
 - *Proof-of-Burn* **(14:00-14:30)**  <br/> Kostis Karantias, Aggelos Kiayias and Dionysis Zindros [(paper)](https://eprint.iacr.org/2019/1096.pdf)  [(video)](https://www.youtube.com/watch?v=7C_e2yWi628)
-- *Formal Foundations for Attestation in Hyperledger Avalon*  <br/> Muhammad Usama Sardar and Christof Fetzer [(video)](https://www.youtube.com/watch?v=0p8Nk9Xk7Jo&feature=youtu.be)
+- *Formal Foundations for Attestation in Hyperledger Avalon*  <br/> Muhammad Usama Sardar and Christof Fetzer 
+
+
 
 ### Session 2
 
