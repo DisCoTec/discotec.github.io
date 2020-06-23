@@ -154,7 +154,7 @@
 |**13.00-13.30**| [An Abstract Framework for Choreographic Testing](#choreographies) | 
 |**13.30-14.00**| [Towards Refinable Choreographies](#choreographies) | *welcome* |
 |**14.00-14.20**| [Microservice Interface Based Deployment Orchestration (oral contribution)](#software-engineering) |  [Proof-of-Burn](#session-1) |
-|**14.20-14.40**| [Taming Software Development complexity via reversibility (oral contribution)](#software-engineering) |  [Formal Foundations for Attestation in Hyperledger Avalon](#session-1) |
+|**14.20-14.40**| [Taming Software Development Complexity via Reversibility (oral contribution)](#software-engineering) |  [Formal Foundations for Attestation in Hyperledger Avalon](#session-1) |
 |*14.40-15.00*|*break*|*break*| 
 |**15.00-15.50**| [(Invited Talk) Karoliina Lehtinen: Parity Games: The Quasi-polynomial Era](invited#karoliina-lehtinen) |
 |**15.50-16.20**| [On the Parameterized Complexity of Synthesizing Boolean Petri Nets With Restricted Dependency](#fundamental-models-of-concurrency) | [Brick: Asynchronous Payment Channels](#session-2) |
@@ -376,7 +376,7 @@
 
 *(session chair: [Simon Fowler](mailto:simon.fowler@ed.ac.uk))*
 
-- *A type language for message passing component-based systems* <br/> Zorica Savanovic, Hugo Torres Vieira, and Letterio Galletta [(preprint)](ice-preprints/a_type_language_for_message_passing_component_based_systems.pdf) [(video)](https://youtu.be/adEuDRs3yAY)
+- *A type language for message passing component-based systems* <br/> Zorica Savanovic, Hugo Torres Vieira, and Letterio Galletta [(preprint)](ice-preprints/a_type_language_for_message_passing_component_based_systems.pdf) [(slides)](slides/ice/ICE-2020-TypeLangMsgPass.pdf) [(video)](https://youtu.be/adEuDRs3yAY)
 - *Typestates to Automata and back: a tool* <br/> João Mota, André Trindade, and António Ravara [(video)](https://youtu.be/GCSPPtOgZqw)
 - *Purely Functional Message Passing* (oral contribution)  <br/> Seyed Hossein Haeri and Peter Van Roy [(slides)](slides/ice/ICE-2020-PurelyFunc-slides.pdf) [(video)](https://youtu.be/GBq7CI0OK9A)
 
@@ -385,14 +385,14 @@
 *(session chair: [Sung-Shik Jongmans](mailto:ssj@ou.nl))*
 
 - *An Abstract Framework for Choreographic Testing* <br/> Emilio Tuosto, Roberto Guanciale, and Alex Coto [(video)](https://www.youtube.com/watch?v=4p5cp4YYidg&feature=youtu.be)
-- *Towards Refinable Choreographies* [(slides)](slides/ice/ICE-2020-RefiningChor-slides.pdf) <br/> Ugo de'Liguoro, Hernan Melgratti, and Emilio Tuosto [(video)](https://youtu.be/laWFIji4Eto)
+- *Towards Refinable Choreographies* [(preprint)](ice-preprints/TowardsRefChor.pdf) [(slides)](slides/ice/ICE-2020-RefiningChor-slides.pdf) <br/> Ugo de'Liguoro, Hernan Melgratti, and Emilio Tuosto [(video)](https://youtu.be/laWFIji4Eto)
 
 ### Software Engineering
 
 *(session chair: [Sung-Shik Jongmans](mailto:ssj@ou.nl))*
 
-- *Microservice Interface Based Deployment Orchestration* (oral contribution) <br/> Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi, and Gianluigi Zavattaro [(video)](https://youtu.be/sKH_UfwepN0)
-- *Taming Software Development complexity via reversibility* (oral contribution) <br/> Claudio Antares Mezzina [(video)](https://youtu.be/zvy4KytdWhw)
+- *Microservice Interface Based Deployment Orchestration* (oral contribution) <br/> Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi, and Gianluigi Zavattaro [(slides)](slides/ice/ICE-2020-MicroservDeployment.pdf) [(video)](https://youtu.be/sKH_UfwepN0)
+- *Taming Software Development Complexity via Reversibility* (oral contribution) <br/> Claudio Antares Mezzina [(slides)](slides/ice/ICE-2020-TamingComplexity.pdf) [(video)](https://youtu.be/zvy4KytdWhw)
 
 ### Fundamental Models of Concurrency
 
