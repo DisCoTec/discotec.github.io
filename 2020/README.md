@@ -4,11 +4,9 @@
 # DisCoTec 2020 - 15th International Federated Conference on Distributed Computing Techniques
 
 [DisCoTec](https://www.discotec.org) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)). It gathers conferences and workshops covering a broad spectrum of distributed computing subjects, from theoretical foundations and formal description techniques, to systems research issues. 
-~~DisCoTec 2020 will take place at the [University of Malta](http://www.um.edu.mt), [Valletta](https://www.um.edu.mt/campuses/valletta), in June 15-19, 2020.~~
 
-## IMPORTANT NOTICE
+~~DisCoTec 2020 will take place at the [University of Malta](http://www.um.edu.mt), [Valletta](https://www.um.edu.mt/campuses/valletta), in June 15-19, 2020~~.  Due to the current COVID-19 developments, the conference is still hosted by the [University of Malta](http://www.um.edu.mt) but it will be held **online**.  Instead of physical meeting/presentations, the authors of accepted papers have recorded their talks to discuss them with the conference participants online.
 
-The DisCoTeC organisation committee has decided that, due to the current COVID-19 developments, the conference will be held **online**. Accepted papers will be published as planned, by June 2020, but no physical meeting/presentations will take place. Instead, the authors of accepted papers will record their talks and discuss them with the conference participants online.
 
 
 
@@ -37,7 +35,7 @@ The DisCoTeC organisation committee has decided that, due to the current COVID-1
 ## IFIP Best Paper Award
 
 - *A true concurrent model of smart contracts executions* <br/> by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia <br/> 
- [Paper](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_16) and [Presentation](https://www.youtube.com/watch?v=vgoDvMa69cU&feature=youtu.be)
+ [Paper](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_16), [presentation](https://www.youtube.com/watch?v=vgoDvMa69cU&feature=youtu.be) and [award](DisCoTec-bpa-certificate.pdf)
 
 
 ## Proceedings
@@ -77,12 +75,26 @@ Go to the [registration page](https://www.um.edu.mt/events/discotec2020/about/_n
 
 ## Important dates
 
-* February 17, 2020 - abstract submission - extended deadline
-* February 28, 2020 - paper submission - extended deadline
+* February 17, 2020 - abstract submission 
+* February 28, 2020 - paper submission 
 * April 10, 2020 - notification
 * April 24, 2020 - camera ready
 
 
+## Organising Committee
+* [Adrian Francalanza][AdrianWeb] (University of Malta, Malta — General Chair)
+* [Davide Basile][DavideWeb] (ISTI CNR Pisa, Italy — Publicity Chair)
+* [Kiko Fernández-Reyes][KikoWeb] (Uppsala University, Sweden — Publicity Chair)
+* Antonis Achilleos (Reykjavik University, Iceland — Workshops Chair)
+* [Duncan Attard][DuncanWeb] (University of Malta, Malta — Workshops Chair)
+* [Ornela Dardha][OrnelaWeb] (University of Glasgow, United Kingdom — Workshops Chair)
+* Lucienne Bugeja (University of Malta, Malta — Logistics)
+
+[AdrianWeb]: http://staff.um.edu.mt/afra1/
+[DavideWeb]: https://www.cnr.it/people/davide.basile
+[KikoWeb]: https://www.plresearcher.com
+[OrnelaWeb]: http://www.dcs.gla.ac.uk/~ornela/
+[DuncanWeb]: https://github.com/duncanatt
 
 
 ## Scientific Committees
@@ -118,20 +130,7 @@ Old University Building St. Paul Street,
 Valletta Malta VLT 1216.
 It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtoreachus).
 
-## Organising Committee
-* [Adrian Francalanza][AdrianWeb] (University of Malta, Malta — General Chair)
-* [Davide Basile][DavideWeb] (ISTI CNR Pisa, Italy — Publicity Chair)
-* [Kiko Fernández-Reyes][KikoWeb] (Uppsala University, Sweden — Publicity Chair)
-* Antonis Achilleos (Reykjavik University, Iceland — Workshops Chair)
-* [Duncan Attard][DuncanWeb] (University of Malta, Malta — Workshops Chair)
-* [Ornela Dardha][OrnelaWeb] (University of Glasgow, United Kingdom — Workshops Chair)
-* Lucienne Bugeja (University of Malta, Malta — Logistics)
 
-[AdrianWeb]: http://staff.um.edu.mt/afra1/
-[DavideWeb]: https://www.cnr.it/people/davide.basile
-[KikoWeb]: https://www.plresearcher.com
-[OrnelaWeb]: http://www.dcs.gla.ac.uk/~ornela/
-[DuncanWeb]: https://github.com/duncanatt
 
 ## Steering Committee
 * Rocco De Nicola (IMT Lucca, Italy)
