@@ -61,17 +61,6 @@ The individual conferences will organise special issues of extended and selected
 
 
   
-## Registration
-
-Go to the [registration page](https://www.um.edu.mt/events/discotec2020/about/_nocache).
-
-## Instructions for Attendees and Presenters
-
-* Attendee instructions may be found [here](https://www.discotec.org/2020/attendees). *Registered participants should have all received an email with the webinar invitations by now. In the eventuality that your email was lost or blocked, you can still register for the webinars from the links provided on the [programme page](https://www.discotec.org/2020/programme) on the day of the respective webinar.*
-* Presenter instructions may be found [here](https://www.discotec.org/2020/presenters#instructions-for-invited,-conference,-tutorial-and-workshop-speakers).
-* Session Chair instructions may be found [here](https://www.discotec.org/2020/presenters#instructions-for-session-chairs).
-* Any technical difficulties may be posted on the dedicated [Slack channel](https://join.slack.com/t/discotec2020/shared_invite/zt-f51st5iq-mGFKdQ3HY2Pk4OJtWih3cg)
-
 
 ## Important dates
 
@@ -123,13 +112,11 @@ Go to the [registration page](https://www.um.edu.mt/events/discotec2020/about/_n
 
 
 
-## Location
-
+<!-- ## Location
 [University of Malta, Valletta Campus](https://www.um.edu.mt/campuses/valletta),
 Old University Building St. Paul Street,
 Valletta Malta VLT 1216.
-It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtoreachus).
-
+It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtoreachus). -->
 
 
 ## Steering Committee
@@ -155,6 +142,20 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 * Farhad Arbab (CWI, The Netherlands)
 * Lea Kutvonen (University of Helsinki, Finland)
 * John Derrick (University of Sheffield, UK)
+
+## Registration
+
+Go to the [registration page](https://www.um.edu.mt/events/discotec2020/about/_nocache).
+
+## Instructions for Attendees and Presenters
+
+* Attendee instructions may be found [here](https://www.discotec.org/2020/attendees). *Registered participants should have all received an email with the webinar invitations by now. In the eventuality that your email was lost or blocked, you can still register for the webinars from the links provided on the [programme page](https://www.discotec.org/2020/programme) on the day of the respective webinar.*
+* Presenter instructions may be found [here](https://www.discotec.org/2020/presenters#instructions-for-invited,-conference,-tutorial-and-workshop-speakers).
+* Session Chair instructions may be found [here](https://www.discotec.org/2020/presenters#instructions-for-session-chairs).
+* Any technical difficulties may be posted on the dedicated [Slack channel](https://join.slack.com/t/discotec2020/shared_invite/zt-f51st5iq-mGFKdQ3HY2Pk4OJtWih3cg)
+
+
+
 
 ## Further information
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
