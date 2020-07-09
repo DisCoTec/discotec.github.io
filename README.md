@@ -12,19 +12,21 @@ research issues.
 [DisCoTec 2020](/2020) will take place at the [University of Malta](http://www.um.edu.mt) in June 15-19, 2020.
 
 ## Steering Committee
+* Gianluigi Zavattaro (University of Bologna, Italy) 
 * Rocco De Nicola (IMT Lucca, Italy)
-* Pascal Felber ( University of Neuchâtel, Switzerland)
 * Kurt Geihs (University of Kasel, Germany)
-* Kostas Magoutis (ICS-FORTH, Greece)
-* Elie Najm (Telecom Paris Tech, France — Chair)
+* Elie Najm (Telecom Paris Tech, France)
+* Mieke Masink (CNR, Italy)
+* Ivan Lanese (University of Bologna, Italy)
+* Luís Antunes Veiga (Technical University of Lisbon, Portugal)
 * Manuel Núñez (Universidad Complutense de Madrid, Spain)
-* Rui Oliveira (University of Minho, Portugal)
-* Jean-Bernard Stefani (INRIA Grenoble, France)
-* Gianluigi Zavattaro (University of Bologna, Italy)
+* Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
+* Adrian Francalanza (University of Malta)
 
 ## Advisory board
-
+* Pascal Felber ( University of Neuchâtel, Switzerland)
 * Alain Girault (INRIA Grenoble, France)
+* Kostas Magoutis (ICS-FORTH, Greece)
 * Uwe Nestmann (TU Berlin, Germany)
 * Michele Loreti (University of Camerino, Italy)
 * Jim Dowling (RISE & KTH, Sweden)
@@ -33,6 +35,9 @@ research issues.
 * Farhad Arbab (CWI, The Netherlands)
 * Lea Kutvonen (University of Helsinki, Finland)
 * John Derrick (University of Sheffield, UK)
+* Rui Oliveira (University of Minho, Portugal)
+* Jean-Bernard Stefani (INRIA Grenoble, France)
+
 
 ## DisCoTec editions
 * [DisCoTec 2020](http://www.discotec.org/2020) - Malta
