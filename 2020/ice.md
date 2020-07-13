@@ -57,7 +57,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
     * 11 May 2020: paper submission
   * 4 June 2020: notification
   * 19-20 June 2020: ICE workshop
-  * 13 July 2020: camera-ready for EPTCS post-proceedings
+  * 31 July 2020: camera-ready for EPTCS post-proceedings
 
 
 ## Selection Procedure
