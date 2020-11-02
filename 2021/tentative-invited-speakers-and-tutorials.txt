@@ -1,0 +1,792 @@
+Invited Speakers
+----------------
+
+(FORTE)
+Ken McMillan, Microsoft Research, Redmond. (Constraints?)  kenmcmil@microsoft.com
+
+(DAIS) 
+Holger Hermanns, Saarland University, (Wednesday/Thursday) hermanns@cs.uni-saarland.de
+
+
+Title:
+Power-Optimal Scheduling of LEO Satellite Networks
+
+Abstract:
+Size and weight limitations of Low-Earth Orbit (LEO) small satellites make their operation rest on a fine balance between solar power infeed and power demands of payload and communication technologies on board, buffered by on-board battery storage. As a result, the problem of managing battery-powered payload utilization together with inter-satellite communication is extremely intricate. Nevertheless, there is a growing trend towards constellations and mega-constellations that are to be managed using sophisticated software support.
+
+This invited talk provides a survey of our recent and ongoing work harvesting formal methods research and tool support to master the problem of optimal, effective, scalable, usable, and robust managment of LEO satellite networks. We will discuss how timed-automata modelling, dynamic programming, stochastic-kinetic battery representations, receding-horizon scheduling and well-designed abstract programming interfaces play together in the optimal automated managment of the GomX-4 satellite family currently in orbit. The approach has been validated in an extensive campaign focussing on applicability, scalability, optimality, and timeliness with respect to the operational requirements and constraints of LEO constellations.
+
+joint work with Fakhri Babayev, Morten Bisgaard, Eduardo Cruz, Juan A. Fraire, Carsten Gerstacker, Gilles Nies, Gregory Stock, Tobias Mömke
+
+Bio:
+Holger Hermanns is Professor in Computer Science at Saarland University in Germany, heading the Dependable Systems and Software group, and Distinguished Professor at Institute of Intelligent Software, Guangzhou. He has previously held positions at Universität Erlangen-Nürnberg, Germany, at Universiteit Twente, the Netherlands, and at INRIA Grenoble Rhône-Alpes, France.
+
+His research interests include modeling and verification of concurrent systems, resource-aware embedded systems, compositional performance and dependability evaluation, and their applications to energy informatics. He is an outspoken proponent of proactive algorithmic accountability and distinguished expert on ethics for nerds.
+
+Holger Hermanns has authored or co-authored more than 220 peer-reviewed scientific papers (ha-index 92, h-index 54). He co-chaired the program committees of major international conferences such as CAV, CONCUR, TACAS and QEST, and delivered keynotes at about a dozen international conferences and symposia. He serves on the steering committees of ETAPS, LICS and TACAS, is an ERC Advanced Grantee, member of Academia Europaea, spokesperson of TRR 248 on a Science of Perspicuous Computing, and president of the association "Friends of Dagstuhl e.V.".
+
+
+(COORDINATION) 
+Peter Kriens, OSGi Alliance (No constraints) - CONFIRMED peter.kriens@aqute.biz
+Formal Specifications to Increase Understanding
+I've been active in the Alloy (MIT, Daniel Jackson) community the last few years. Alloy is an interactive formal specification tool using SAT and SMT to find counter examples. However, I am quite frustrated how the focus is on the least interesting aspects for me, 'proving' the correctness of a specification. It is for me the least interesting because it requires the spec to be correct (hard!) and it requires the implementation to follow the spec exactly. The people involved in this area seem to leave these all important aspects as a detail for the practitioners. Instead they focus on more and more esoteric things like beating the combinatorial explosion in the proving aspects. I think 'something' like Alloy could be eminently used is to define the semantics of APIs. Today, we define those semantics in comments or, worse, outside documents. Formally defining service APIs seems a low hanging fruit that would boost code writing. (As a developer you spend most of your time trying to understand the domain) and testing (the tool could generate test case data). The service API would make it modular which is an idea that seems to gain traction in the formal specification world to keep the models small enough for the SAT/SMT solvers. 
+
+
+title:		Formal Specifications to Increase Understanding
+
+	abstract:	I've been active in the Alloy (MIT, Daniel Jackson) community for the last few years. Alloy is an interactive formal specification tool using SAT and SMT to find counterexamples. However, despite my enthusiasm, I am also quite frustrated with how the focus is on the least interesting aspects for me: 'proving' the correctness of a specification. It is for me the least interesting because it requires the spec to be correct, which is very hard. However, even harder, it requires the implementation to follow the spec exactly. The people involved in this area seem to leave these all-important aspects as a detail for the practitioners. Instead, they focus on the more and more esoteric things like beating the combinatorial explosion in the proving aspects. I think 'something' like Alloy could be eminently useful if it is used to define the semantics of APIs. Today, we define those semantics in comments or, worse, some external Word document. Formally defining service APIs seems a low hanging fruit that would boost development productivity significantly. (As a developer you spend most of your time trying to understand the domain) and testing (the tool could generate test case data). Using the service API as an anchor point of such a tool would make it modular, allowing larger specifications that could still be proven. This presentation will explore how such a tool could look like.
+
+	bio		Peter Kriens has been a software expert consulting for a large number of (some very) large companies like Ericsson, Intel, Adobe, Philips, etc. Over the past 20 years he has been one of the key people in the development of the OSGi specifications; A highly modular µ-service based component model for the Java world. Many innovations in this specification originated from him. Already since 1980 highly interested and engaged in finding ways to develop software _better_. He has mentored hundreds of people to do software engineering. Still very much driven by the idea that there should be a better way ... He is Dutch but has been living in Sweden and now already 17 years in the south of France.
+
+	photo		https://www.aqute.biz/img/portrait.jpg
+
+
+
+(General)
+Nathalie Bertrand, INRIA Rennes Bretagne-Atlantique,  nathalie.bertrand@inria.fr   
+
+
+
+Title/ 
+Probabilistic threshold automata for modeling and verifying randomized
+distributed algorithms
+
+/Abstract/ 
+Randomisation is a powerful tool to solve computationally hard problems: in
+distributed computing, probabilities can even permit to solve problems that are
+otherwise unsolvable, such as the consensus problem for asynchronous message-
+passing systems. 
+Threshold automata were introduced by Konnov et al. to automatically prove
+safety and liveness properties in fault-tolerant non-probabilistic distributed
+algorithms. They fall short at representing randomized behaviours and algorithms
+working in rounds. We introduced a probabilistic variant of threshold automata,
+and designed model-checking algorithms to automatically verify whether given
+properties hold almost-surely (i.e. with probability 1). These are first steps
+towards the automated verification of randomised distributed algorithms. 
+
+/Short bio/
+Nathalie Bertrand got her PhD degree from ENS Cachan in 2006. Since 2007, she is
+Inria researcher at IRISA Rennes. Her expertise lies in formal methods, in
+particular model checking, with a special focus on probabilistic models.
+
+
+
+
+
+
+
+
+
+Tutorials Day
+-------------
+
+9.00-10.30 (BehAPI- yes)
+Title: Choreographic development of message-passing applications
+
+Abstract
+Choreography envisages distributed coordination as determined by interations that allow peer components to harmoniously realise a given task. Unlike in orchestration-based coordination, there is no special component directing the execution. 
+Recently choreographic approaches became popular in industrial contexts where reliability and scalability are crucial factors.
+This tutorial will review some recent ideas to harness choreographic development of message-passing software.
+
+Bio
+Emilio Tuosto is an associate professor. He graduated (1998) and got his PhD degree in Computer Science (2003) at the department of Computer Science, University of Pisa. Before joining Leicester, he has been a research associate (2003-2005) at the Dipartimento di Informatica (University of Pisa).
+
+Emilio's main research interests are in theoretical and applied aspects of complex distributed systems. Recently he has been working on automata- and behavioural type-based models of distributed choreographies, contract-based models of distributed interactions, and their application to the engineering of distributed and concurrent systems.
+
+
+
+10.30-12.00 (FORTE - yes)
+Parameterized verification with Byzantine Model Checker
+
+Threshold guards are a basic primitive of many fault-tolerant algorithms that
+solve the following classical problems of distributed computing: reliable
+broadcast, two-phase commit, and consensus. Moreover, threshold guards can be
+found in recent Blockchain algorithms such as Tendermint consensus.
+
+Byzantine Model Checker (ByMC) implements several techniques for automatic
+verification of threshold-guarded distributed algorithms. These algorithms have
+the following features: (1) up to t of processes may crash or behave Byzantine;
+(2) the correct processes count messages and progress when they receive
+sufficiently many messages, e.g., at least t+1; (3) the number n of processes
+in the system is a parameter, as well as t; (4) and the parameters are
+restricted by a resilience condition, e.g., n > 3t.  Nowadays these algorithms
+are implemented in the distributed systems that involve from hundreds to
+thousands of computers. To make sure that these algorithms are still correct
+for that scale it is imperative to verify them for all combinations of the
+parameters.
+
+In this tutorial, we give an overview of the techniques implemented in ByMC.
+We demonstrate how to use ByMC for parameterized verification of asynchronous
+fault-tolerant distributed algorithms. We show how to apply our techniques in
+other contexts, for instance, for verification of randomized algorithms and
+verification of synchronous algorithms.
+
+Bio: Igor Konnov is a senior research scientist at Informal Systems (Austria),
+spin-off of Interchain Foundation (Switzerland). He is developing model
+checking techniques for parameterized and fault-tolerant distributed
+algorithms. Before joining Informal Systems and Interchain Foundation, Igor
+Konnov worked as a researcher at Inria Nancy (France) and as a postdoc at TU
+Wien (Austria). He received his MSc and PhD in Applied Mathematics and Computer
+Science from Lomonosov Moscow State University (Russia) in 2003 and 2009. In
+2019, Igor received his Habilitation from TU Wien (Austria). 
+
+
+
+
+13.00-14.00 (Coordination -yes)
+TITLE:
+CHOReVOLUTION IDRE: an Integrated Development and Run-time Environment for automatically realizing and executing distributed applications.
+
+PRESENTERS:
+Marco Autili and Massimo Tivoli.
+
+DEVELOPMENT TEAM:
+Marco Autili, Amleto Di Salle, Claudio Pompilio, Massimo Tivoli.
+
+ABSTRACT:
+Since late 70’s, the development of concurrent and distributed systems has been receiving much attention from the research community. Choreographies are a form of distributed composition that model the external interaction of the participant services by specifying peer-to-peer message exchanges from a global perspective. When third-party services are to be composed, obtaining the distributed coordination logic required to enforce the realizability of the specified choreography is a non-trivial and error prone task. Automatic support is then needed. CHOReVOLUTION is a platform for the tool-assisted development and execution of choreography-based applications that leverage the distributed collaboration of services specified through service choreographies. It offers an Integrated Development and Runtime Environment (IDRE) comprising a wizard-aided development environment, a system monitoring console, and a back-end for managing the deployment and execution of the system. The tutorial introduces the fundamentals of service choreographies and the CHOReVOLUTION approach as first. Then the introduction of the approach is followed by hands on exercises, where every attendee takes part in developing sample choreography-based distributed applications by using the CHOReVOLUTION IDRE.
+
+14.30-16.00 (FORTE - no)
+Title: The Probabilistic Model Checker Storm 
+Abstract:
+We present the probabilistic model checker Storm.
+Storm supports the analysis of discrete- and continuous-time variants of both
+Markov chains and Markov decision processes. 
+Storm has three major distinguishing features.
+It supports multiple input languages for Markov models, including the JANI and
+PRISM modeling languages, dynamic fault trees, generalized stochastic Petri nets
+and the probabilistic guarded command language.
+It has a modular set-up in which solvers and symbolic engines can easily be
+exchanged.
+Its Python API allows for rapid prototyping by encapsulating Storm’s fast and
+scalable algorithms.
+Empirical evaluation of Storm within the QComp 2019 competition showed that the
+tool is state-of-the-art and performed best with regards to runtime and number
+of solved benchmarks.
+
+In the tutorial we report on the main features of Storm and explain how to
+effectively use them.
+
+For more information on Storm we refer to our website
+http://www.stormchecker.org/ and our recent paper https://arxiv.org/abs/2002.07080.
+
+Short Bio:
+Storm is developed at the Software Modeling and Verification group at RWTH
+Aachen University since 2012. The principal developers of Storm are Christian
+Hensel, Sebastian Junges, Joost-Pieter Katoen, Tim Quatmann and Matthias Volk.
+
+
+14.30 -16.00 (DAIS - yes)
+Title: Kollaps/Thunderstorm: reproducible evaluation of distributed systems
+
+Abstract:
+The systematic evaluation of distributed systems is a very challenging task as experimental results can be affected by a wide range of factors.
+In particular, the network and its dynamics, such as sudden changes in latency or available bandwidth have a significant impact on the performance of distributed systems. 
+
+In this tutorial we will do a hands-on demonstration of the capabilities of Kollaps/Thunderstorm, a set of tools that allow to deploy and evaluate unmodified off-the-shelf container applications under a controlled network environment.
+By the end of this tutorial, attendants will be able to apply these tools in their systems and, we hope, have a better toolset to evaluate the impact of the network in their systems behavior.
+
+
+
+Bio:
+
+Miguel Matos is an assistant professor at the Engineering School of the University of Lisbon (Instituto Superior Técnico) and a Senior Researcher at INESC-ID.His research interests lie in the area of distributed systems, in the subjects of scalability, performance, correctness and systems evaluation. In particular, he is conducting research in blockchain and related problems,consistency and scalability in large scale databases, systems evaluation under faults and experimental reproducibility. His work has been published in venues such as TPDS, JPDC, Eurosys, IPDPS, Middleware, SRDS and DAIS.
+The presented work is the result of joint work between Miguel's team at U. Lisboa, Portugal and researchers from U. of Neuchâtel, Switzerland.
+
+16.30-18.00 (BehAPI - yes)
+Title: Typechecking Java protocols with Mungo/StMungo
+Abstract: 
+This is a tutorial on using Mungo/StMungo, a toolchain based on multiparty session
+types and their connection with typestates, for distributed programming in Java.
+The first tool, Mungo, statically checks that methods are called in certain
+permitted sequences, according to a typestate specification. An
+application of this is to communication protocols, since send and
+receive methods must be called in sequences that are allowed by the
+protocol. Mungo extends Java with an optional typestate definition, which defines
+an object protocol as a state machine, specifying the permitted sequences of method calls.
+The second tool, StMungo(“Scribble-to-Mungo”) helps with instantiating the typestate
+definition for communication protocols, by translating from Scribble and generating
+Java skeleton code. The resulting prototype can be further implemented, typechecked
+by Mungo to ensure that the implementation follows the protocol, and then compiled
+and run as usual.
+
+We give an overview of the key stages of the Mungo/StMungo toolchain, from translating
+Scribble local protocol specifications to Java, to Java implementation, to Mungo
+typechecking, with examples. We then demonstrate the Scribble, StMungo and Mungo
+toolchain by specifying and implementing a domain name server(DNS), as a real-world use case.
+
+Bio for the team:
+Dr. Ornela Dardha: Is a Lecturer (Assistant Professor) at the School of Computing Science, University
+of Glasgow. She is a Co-Investigator within the UK EPSRC programme grant From Data
+Types to Session Types: A Basis for Concurrency and Distribution (ABCD), and a Site
+Leader of the European RISE Action Behavioural Application Program Interfaces (BehAPI.
+
+Previously, she was a Postdoctoral Researcher (Jan 2014 - Apr 2018) within the ABCD
+project. She obtained my PhD in computing science from the University of Bologna, Italy.
+She obtained my BSc (2008) and MSc (2010) in computing science both summa cum laude from
+Sapienza University of Rome, Italy.
+You can find more detailed information at: http://www.dcs.gla.ac.uk/~ornela/
+
+Prof. Simon Gay: Is a Professor of Computing Science and has been at the University of Glasgow since 2000.
+He is the Glasgow PI of the the UK EPSRC programme grant From Data
+Types to Session Types: A Basis for Concurrency and Distribution (ABCD).
+He has contributed to the study of session types in pi calculus, in functional
+languages, and in object-oriented languages; the latter work provides the
+foundation for Mungo.
+You can find more detailed information at: http://www.dcs.gla.ac.uk/~simon/
+
+Laura Voinea: Is a Research Associate at the School of Computing Science,
+University of Glasgow, working on the ABCD project with Simon Gay and Ornela Dardha.
+She is finishing up my PhD in Computer Science at the University of Glasgow, under
+the supervision of Simon Gay an Ornela Dardha.
+She has received my BSc and MSc in Computer Science at the University of Glasgow.
+You can find more detailed information at: https://lauravoinea.github.io
+
+
+
+--------------------Summary------------------------------------
+
+CHOReVOLUTION IDR
+Massimo Tivoli & Marco Autili, Universita Degli Studi Dell'Aquila
+massimo.tivoli@univaq.it  and marco.autili@univaq.it
+(Suggested by COORDINATION) - CONFIRMED
+
+STORM 
+Christian Hensel & Joost-Pieter Katoen
+dehnert@cs.rwth-aachen.de katoen@cs.rwth-aachen.de
+A new probabilistic model checker developed  at RWTH Achen.  It complements and outperforms the well-established model checker PRISM, and provides great engineering results both in allowing model checking of new types of models, and in performance optimisations based on sound theoretical results. Christian Hensel just received the prestigious EAPLS PhD Thesis Award for his work on Storm. 
+(Suggested by FORTE) - CONFIRMED
+
+ByMC - Byzantine Model Checker 
+ta.etysrof@vonnok widder@ecs.tuwien.ac.at
+Developed at TU Vienna (https://forsyte.at/software/bymc/). This is the first-of-its-kind tool that allows for sound verification of parameterised Byzantine fault-tolerant distributed protocols. It has been applied to a number of case studies, including recent blockchain consensus protocols. The lead developers are Igor Konnov and Josef Widder, who are now applying such formal verification techniques at Interchain, a blockchain company.
+(Suggested by FORTE) - CONFIRMED
+
+Angainor, the ThunderStorm tool
+miguel.marques.matos@tecnico.ulisboa.pt
+reproducible evaluation and fault injection of large-scale distributed systems.
+(Suggested by DAIS) - CONFIRMED
+
+Ornela Dardha and Adriana Laura voinea
+a.voinea.1@research.gla.ac.uk
+Mugno and MungoST tool for session type analysis of Java Programs
+
+
+Emilio Tuosto
+ChoGram
+
+
+List of tutorial papers.
+
+1. Choreographic Development of Message-Passing Applications
+2. Parameterized Verification with Byzantine Model Checker
+3. CHOReVOLUTION IDRE: An Integrated Development and Run-time Environment for Automatically Realizing and Executing Distributed Applications
+4. Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems
+5. Typechecking Java protocols with Mungo/StMungo
+
+
+
+
+
+
+Tuesday 16/6/2020
+
+10.00 - 11.00   Peter Kriens: Formal Specifications to Increase Understanding
+11.00 - 11.30   break
+11.30 - 12.30   2 presentations
+12.30 - 14.00   break
+14.00 - 15.00   2 presentations
+15.00 - 15.30   break
+15.30 - 16.30   2 presentations (or three short presentations for the short papers)
+
+Wednesday 17/6/2020
+
+10.00 - 11.00   Nathalie Bertrand : TBA
+11.00 - 11.30   break
+11.30 - 13.00   Best Paper Presentations
+13.00 - 14.00   break
+14.00 - 15.00   2 presentations
+15.00 - 15.30   break
+15.30 - 16.30   2 presentations (or three short presentations for the short papers)
+
+Thursday 18/6/2020
+
+10.00 - 11.00   Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks
+11.00 - 11.30   break
+11.30 - 12.30   2 presentations
+12.30 - 14.00   break
+14.00 - 15.00   2 presentations
+15.00 - 15.30   break
+15.30 - 16.30   2 presentations (or three short presentations for the short papers)
+
+
+https://slack.com/apps/A5GE9BMQC-zoom 
+https://applications.zoom.us/slack/api/slackIntegration
+
+Upload video on youtube as private.
+use Zoom webinars
+Find hosts
+
+
+First of all, congratulations again for the presentation accepted at FOCODILE 2020. We are really excited to hear your talk.
+
+The full programme for FOCODILE  (and the first four days of DisCoTec) has been updated here: https://www.discotec.org/2020/programme 
+
+ As you may already know, the conference will be online.  The conference registration can be found  here:  
+ https://www.um.edu.mt/events/discotec2020/registration
+
+ (It is still open till the 12th of June)
+ Since you have a presentation, then you need to pay a nominal registration fee (10Euros), but otherwise the registration is free of charge.  If the presentation has more than one author, only the presenter needs to pay the registration fee (the other authors can register free of charge).
+
+We are also attaching the following instructions and other practical information regarding your talk:
+1. The conference will be held online as a Zoom Webinar.   We envisage:
+	i)  normal presentations will last around 15 mins to allow for a Q&A session of 10 mins (5 minutes buffer will be used between talks).   
+	ii) short presentations will last around 10 mins to allow for a Q&A session of 5 mins (5 minutes buffer will be used between talks).  
+2. We would like you to pre-record your presentation using your favourite method/application and upload the video to YouTube as an *unlisted*  video.   Then, we would like you to send us the (unlisted) link to your video at adrian.francalanza@um.edu.mt by *Monday, June 15th, 2020*.
+3. On the day of your talk, we would ask you to attend the webinar.  Our IT assistants will play your talk from the link provided as part of the webinar. They will also be gathering questions while the presentation is ongoing, forwarding them to you as soon as they come in.  Once the presentation finishes, we will provide you with the opportunity to answer (a selection of) the questions that you received live.
+
+Please do not hesitate to ask us questions if you have any.
+
+
+
+FORTE Emails
+
+2	Kiraku Minami kminami@kurims.kyoto-u.ac.jp	Japan	Kyoto University
+3	Shukun Tokas	shukunt@ifi.uio.no	Norway	University of Oslo, Norway
+3	Olaf Owe	olaf@ifi.uio.no	Norway	Universitity of Oslo
+8	Rayna Dimitrova	dimitrova.rayna@gmail.com	United Kingdom	University of Sheffield
+8	Maciej Gazda	mg410@leicester.ac.uk	Ireland	University of Leicester
+8	Mohammadreza Mousavi	mm789@leicester.ac.uk	United Kingdom	University of Leicester
+8	Sebastian Biewer	biewer@depend.uni-saarland.de	Germany	Saarland University
+8	Holger Hermanns	hermanns@cs.uni-saarland.de	Germany	Saarland University
+9	Sergio Feo-Arenis	sergio.feo@gmail.com	Germany	Airbus
+9	Milan Vujinovic	milan.vujinovic@gmx.de	Germany	Daimler AG
+9	Bernd Westphal	westphal@informatik.uni-freiburg.de	Germany	Albert-Ludwigs-Universität Freiburg
+11	Claudio Antares Mezzina	cmezzina@gmail.com	Italy	Università di Urbino, Italy
+11	Marco Bernardo	marco.bernardo@uniurb.it	Italy	Università di Urbino, Italy
+18	Jeremy Sproston	sproston@di.unito.it	Italy	University of Turin
+20	Adam Shimi	adam.shimi@irit.fr	France	IRIT
+20	Aurélie Hurault	aurelie.hurault@irit.fr	France	IRIT
+20	Philippe Queinnec	Philippe.Queinnec@enseeiht.fr	France	IRIT - Université de Toulouse
+21	Michaela Klauck	klauck@depend.uni-saarland.de	Germany	Dependable System and Software, Saarland University, Saarland Informatics Campus
+21	Timo P. Gros	timopgros@cs.uni-saarland.de	Germany	Saarland University, Saarland Informatics Campus
+21	Marcel Steinmetz	steinmetz@cs.uni-saarland.de	Germany	Saarland University, Saarland Informatics Campus
+21	Jörg Hoffmann	hoffmann@cs.uni-saarland.de	Germany	Saarland University, Saarland Informatics Campus
+21	Holger Hermanns	hermanns@cs.uni-saarland.de	Germany	Saarland University, Saarland Informatics Campus
+26	Davide Basile	davide.basile@isti.cnr.it	Italy	ISTI CNR Pisa
+26	Maurice H. ter Beek	maurice.terbeek@isti.cnr.it	Italy	ISTI-CNR, Pisa, Italy
+26	Axel Legay	axel.legay@uclouvain.be	Belgium	UCLouvain
+28	Christian Bartolo Burlo	christian.bartolo.16@um.edu.mt	Malta	University of Malta
+28	Adrian Francalanza	adrian.francalanza@um.edu.mt	Malta	University of Malta
+28	Alceste Scalas	a.scalas@aston.ac.uk	United Kingdom	Aston University
+29	Eleni Bila	e.vafeiadibila@surrey.ac.uk	United Kingdom	The University of Surrey
+29	Simon Doherty	s.doherty@sheffield.ac.uk	United Kingdom	The University of Sheffield
+29	Brijesh Dongol	b.dongol@surrey.ac.uk	United Kingdom	University of Surrey
+29	John Derrick	J.Derrick@sheffield.ac.uk	United Kingdom	Unversity of Sheffield
+29	Gerhard Schellhorn	schellhorn@informatik.uni-augsburg.de	Germany	Universitaet Augsburg
+29	Heike Wehrheim	wehrheim@uni-paderborn.de	Germany	University of Paderborn
+
+
+------------------------------
+(1) CHOReVOLUTION: Hands-on In-service Training for Choreography-based Systems
+Marco Autili <marco.autili@univaq.it>, Massimo Tivoli <massimo.tivoli@univaq.it>
+------------------------------
+(18) Choreographic Development of Message-Passing Applications
+Alex Coto <alex.coto@gssi.it>, Emilio Tuosto <emilio.tuosto@gssi.it>
+------------------------------
+(35) ARx: Reactive Programming for Synchronous Connectors
+José Proença <jose@proenca.org>, Guillermina Cledou <guillecledou@gmail.com>
+------------------------------
+(53) Towards Energy-, Time- and Security-aware Multi-core Coordination
+Clemens Grelck <c.grelck@uva.nl>
+------------------------------
+(71) Team Automata@Work: On Safe Communication
+Maurice H. ter Beek <maurice.terbeek@isti.cnr.it>
+------------------------------
+(80) Choreography Automata
+Franco Barbanera <barba@dmi.unict.it>, Emilio Tuosto <emilio.tuosto@gssi.it>
+------------------------------
+(102) A Choreography-Driven Approach to APIs: the OpenDXL Case Study
+Hernan Melgratti <hmelgra@dc.uba.ar>, Emilio Tuosto <emilio.tuosto@gssi.it>
+------------------------------
+(120) Implementation of Multiparty Session Types in Rust
+Nicolas Lagaillardie <n.lagaillardie19@imperial.ac.uk>, Nobuko Yoshida <n.yoshida@imperial.ac.uk>
+------------------------------
+(130) GoPi: Compiling linear and static channels in Go
+Marco Giunti <marco.giunti@gmail.com>
+------------------------------
+(146) SFJ: An Implementation of Semantic Featherweight Java
+Artem Usov <2296905U@student.gla.ac.uk>, Ornela Dardha <ornela.dardha@gmail.com>
+------------------------------
+(161) Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices
+Phu H. Nguyen <Phu.Nguyen@sintef.no>
+------------------------------
+(171) Quality of Service ranking by quantifying partial compliance of requirements
+Agustín Eloy Martinez Suñé <aemartinez@dc.uba.ar>, Carlos Gustavo Lopez Pombo <clpombo@dc.uba.ar>
+------------------------------
+(180) Time-fluid field-based coordination
+Danilo Pianini <danilo.pianini@unibo.it>, 
+------------------------------
+(198) Resilient Distributed Collection through Information Speed Thresholds
+Giorgio Audrito <giorgio.audrito@unito.it>, Mirko Viroli <mirko.viroli@unibo.it>
+------------------------------
+(216) Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited
+Nicolas Gast <nicolas.gast@inria.fr>, Mieke Massink <mieke.massink@isti.cnr.it>
+------------------------------
+(226) A true concurrent model of smart contracts executions
+Massimo Bartoletti <bart@unica.it>, Letterio Galletta <letterio.galletta@imtlucca.it>
+------------------------------
+(244) Renegotiation and recursion in Bitcoin contracts
+Massimo Bartoletti <bart@unica.it>, Maurizio Murgia <maurizio.murgia@unitn.it>
+------------------------------
+(262) Architecture modelling of parametric component-based systems
+George Rahonis <grahonis@math.auth.gr>
+------------------------------
+(281) Weighted PCL over product valuation monoids
+Vagia Karyoti <vagiakaryo@math.auth.gr>, Paulina Paraponiari <parapavl@math.auth.gr>
+------------------------------
+(299) Operational representation of dependencies in  Context-Dependent Event Structures
+G. Michele Pinna <gmpinna@unica.it>
+------------------------------
+(318) Towards a Formally Verified EVM in Production Environment
+Meng Sun <sunmeng@math.pku.edu.cn>
+------------------------------
+(327) On Implementing Symbolic Controllability
+Adrian Francalanza <adrian.francalanza@um.edu.mt>, Jasmine Xuereb <jasmine.xuereb.15@um.edu.mt>
+------------------------------
+(346) Combining SLiVER with CADP to Analyze Multi-agent Systems
+Luca Di Stefano <luca.distefano@gssi.it>
+------------------------------
+(361) Formal Modeling and  Analysis of Medical Systems
+Mahsa Zarneshan <m.zarneshan@ut.ac.ir>, Fatemeh Ghassemi <fa.ghassemi@gmail.com>
+
+
+Contact author'e email	Paper title
+hugo.a.carvalho@inesctec.pt	On the trade-offs of combining multiple secure processing primitives for data analytics
+lakhdar.meftah@inria.fr	Capturing Privacy-preserving User Contexts with IndoorHash
+bt@sec.uni-passau.de 	Towards hypervisor support for enhancing the performance of virtual machine introspection
+tzouros@aueb.gr	Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment
+v.jaiman@maastrichtuniversity.nl	TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores
+ana.n.alonso@inesctec.pt	Building a Polyglot Data Access Layer for a Low-Code Application Development Platform (Experience Report)
+fabio.l.silva@inesctec.pt	A Comparison of Message Exchange Patterns in BFT Protocols (Experience Report)
+miguel.marques.matos@tecnico.ulisboa.pt	Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems
+fabio.a.coelho@inesctec.pt 	Self-Tunable DBMS Replication with Reinforcement Learning
+louison.gitzinger@inria.fr	DroidAutoML: A microservice architecture to automate the evaluation of Android machine learning detection systems
+guillaume.fraysse@orange.com 	A resource usage efficient distributed allocation algorithm for 5G Service Function Chains
+hadid.rashid@gmail.com	Self-Stabilizing One-To-Many Node Disjoint paths Routing Algorithm in Star Networks
+
+
+Tutorial Presentations
+-----------------------
+
+"Parameterized Verification with Byzantine Model Checker"
+
+Part 1: https://youtu.be/S0VRE9PLViI
+
+Part 2: https://youtu.be/UOdHoJGg-vk
+
+Part 3: https://youtu.be/3anmrALqJW0
+
+
+
+“CHOReVOLUTION IDRE: An Integrated Development and Run-time Environment for Automatically Realizing and Executing Distributed Applications.”
+
+Slot 1: Marco Autili will introduce and overview the approach underlyining our tool, the CHOReVOLUTION IDRE
+Link to the related YouTube video: https://youtu.be/nPsi2EJFRGA
+ 
+Slot 2: Massimo Tivoli will discuss how the IDRE automatically generates the code of the software artifacts needed for realizing the specified choreography
+Link to the related YouTube video: https://youtu.be/xeHDPWz08WE
+ 
+Slot 3: Claudio Pompilio will give a practical demonstation of the IDRE at work on a running example, with the cooperation of Amleto Di Salle. They prepared the demo together.
+Link to the related YouTube video: https://youtu.be/RKlQoz2O3qw
+
+"The Probabilistic Model Checker Storm"
+
+- Part 1: "What is Storm?" presented by Joost-Pieter Katoen
+https://www.youtube.com/watch?v=TTfSZGiCQ3I
+- Part 2: "Introduction to Storm" presented by Matthias Volk
+https://www.youtube.com/watch?v=rCgoqV5hesQ
+- Part 3: "Advanced Features with Stormpy" presented by Matthias Volk
+https://www.youtube.com/watch?v=WR72wrvtta0
+
+
+Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems
+
+Find below the links for the videos:
+Part I: https://youtu.be/j5vqLQjtyQo
+Part II: https://youtu.be/GMFvWBTZJ1M   
+Part III:  https://youtu.be/zA18Y9SC2xs
+
+
+
+Invited Speaker Presentations
+-----------------------------
+
+Nathalie Bertrand 
+https://www.youtube.com/watch?v=xIOk6rFQkAc&feature=youtu.be
+
+
+COORDINATION Presentations
+---------------------------
+
+Session Chairs
+
+Tuesday 16 June
+11.30-12.30 Modelling 1
+Chiara Bodei <chiara.bodei@unipi.it>  
+14.00-15.00 Modelling 2 / Message-based communication 1
+Roberto Guanciale <robertog@kth.se>
+15.30-17:00 Message-based communication 2 / Microservices
+Alberto Lluch Lafuente <albertolluch@gmail.com>
+Wednesday 17 June
+14.00-15.00 & 15.30-15.50 Communications: types & implementations
+Hugo Torres Vieira <hugo.torres.vieira@ubi.pt>
+16:00-16:50 Digital contracts
+Anastasia Mavridou <anastasia.mavridou@nasa.gov>
+Thursday 18 June
+11.30-12.30 Coordination Languages
+Jean-Marie Jacquet <jean-marie.jacquet@unamur.be>
+13.30-15.00 Large Scale Decentralised Systems
+Michele Loreti <michele.loreti@unicam.it>
+15.30-17:00 Verification and Analysis
+Mieke Massink <Mieke.Massink@isti.cnr.it>
+
+
+Michele Pinna 
+Operational Representation of Dependencies in Context-Dependent Event Structures 
+https://youtu.be/C9xUBaIreY4
+
+Maria Pittou
+Architecture modelling of parametric component-based systems
+https://www.youtube.com/watch?v=j2oq9MSMaD0
+
+
+Paulina Paraponiari
+"Weighted PCL over product valuation monoids"
+https://youtu.be/GIjND2fbRX0A 
+
+
+Choreography-Driven Approach to APIs: the OpenDXL Case Study 
+by Leonardo Frittelli, Facundo Maldonado, Hernan Melgratti and Emilio Tuosto
+https://www.youtube.com/watch?v=f4IOcKm1wjs&feature=youtu.be
+
+
+Franco Barbanera, Ivan Lanese, Emilio Tuosto
+Choreography Automata
+https://youtu.be/ukzWeDZGKR0
+
+
+Team Automata@Work: On Safe Communication (Short paper) 
+by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn
+ https://youtu.be/hBkK6omKyS8
+
+
+Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices (Short paper) 
+by Espen Tønnessen Nordli, Phu H. Nguyen, Franck Chauvel and Hui Song
+https://youtu.be/jdIjn-P38rM
+
+Agustín Martinez Suñé
+Quality of Service ranking by quantifying partial compliance of requirements
+ https://youtu.be/-w5h3e8lEgc
+
+A true concurrent model of smart contracts executions 
+by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia
+https://youtu.be/vgoDvMa69cU
+
+Marco Giunti
+GoPi: Compiling linear and static channels in Go (Tool paper) 
+https://youtu.be/0S6y0MamAnM
+
+SFJ: An Implementation of Semantic Featherweight Java (Tool paper) 
+by Artem Usov and Ornela Dardha
+ https://youtu.be/80lTpmNlots
+
+Nicolas Lagaillardie 
+"Implementation of Multiparty Session Types in Rust":
+https://youtu.be/JfaPzBnO08I
+
+
+Renegotiation and recursion in Bitcoin contracts
+Roberto Zunino, Maurizio Murgia and Massimo Bartoletti
+https://youtu.be/cThgRZCBp50
+
+Xiyue Zhang
+"Towards a Formally Verified EVM in Production Environment"
+https://youtu.be/KvuGPljmde0
+
+
+Towards Energy-, Time- and Security-aware Multi-core Coordination 
+by Julius Roeder, Benjamin Rouxel, Sebastian Altmeyer and Clemens Grelck
+(LATE)
+
+Jose Proenca
+ARx: Reactive Programming for Synchronous Connectors
+https://www.youtube.com/watch?v=74RUzfYneNI
+
+
+Time-fluid field-based coordination 
+by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli
+https://www.youtube.com/watch?v=nXaLqIzkvxc&feature=youtu.be
+
+Giorgio Audrito
+Resilient Distributed Collection through Information Speed Thresholds
+ https://youtu.be/Dhs9ddjk0Ag
+
+Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited
+by Nicolas Gast, Diego Latella and Mieke Massink
+ https://youtu.be/nGk7sAUBWgI
+
+
+Mahsa Zarneshan
+"Formal modeling and analysis of medical systems"
+https://youtu.be/OuIr4pqOJcw
+
+
+On Implementing Symbolic Controllability 
+by Adrian Francalanza and Jasmine Xuereb
+https://www.youtube.com/watch?v=N-tgb5QX4tE&feature=share
+
+
+Luca Di Stefano
+Combining SLiVER with CADP to Analyze Multi-agent Systems
+https://youtu.be/4D5KdkM9zA4 
+
+
+
+
+
+
+
+
+
+
+DAIS Presentations
+------------------
+
+
+Hugo Carvalho, Daniel Cruz, Rogério Pontes, João Paulo and Rui Oliveira
+On the trade-offs of combining multiple secure processing primitives for data analytics
+https://youtu.be/2qWoRIv_63c
+
+
+Capturing Privacy-preserving User Contexts with IndoorHash 
+Lakhdar Meftah, Romain Rouvoy and Isabelle Chrisment
+https://www.youtube.com/watch?v=c1UvQaYlAAs
+
+Self-Tunable DBMS Replication with Reinforcement Learning 
+Luis Ferreira, Fábio André Coelho and Jose Pereira
+https://youtu.be/hx81-NjIKTs
+
+
+DroidAutoML: A microservice architecture to automate the evaluation of Android machine learning detection systems 
+Yérom-David Bromberg and Louison Gitzinger
+https://youtu.be/65N6JHpp9Pw
+
+
+(Best Paper)
+Vikas Jaiman, Sonia Ben Mokhtar, and Etienne Rivière 
+TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores
+https://youtu.be/BEEfVTjG6CY
+
+
+Benjamin Taubmann and Hans P. Reiser
+Towards hypervisor support for enhancing the performance of virtual machine introspection  
+https://www.youtube.com/watch?v=fY3aFt8dlE0
+
+
+Ioannis Tzouros and Vana Kalogeraki
+Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment
+https://youtu.be/MAt4bWKnaI4
+
+
+Towards a Polyglot Data Access Layer for a Low-Code Application Development Platform (Experience Report)
+João Abreu, Ana Nunes Alonso, David Nunes, Jose Pereira, Luiz Santos, Tércio Soares and Andre Vieira
+https://youtu.be/lIzJtF7hhAI 
+
+Fábio Silva, Ana Nunes Alonso, José Pereira and Rui Oliveira
+A Comparison of Message Exchange Patterns in BFT Protocols (Experience Report) 
+ https://www.youtube.com/watch?v=MK1yE99YCuc
+
+
+A resource usage efficient distributed allocation algorithm for 5G Service Function Chains 
+Guillaume Fraysse, Jonathan Lejeune, Julien Sopena and Pierre Sens
+https://www.youtube.com/watch?v=dGzjklfyzlA
+
+A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks 
+Hadid Rachid and Vincent Villain
+(NO PRES)
+
+
+
+
+
+FORTE Presentations
+--------------------
+
+Wednesday June 17, 2-3pm: Cezara Dragoi <cezara.dragoi@inria.fr>
+Wednesday June 17, 3:30-4:30pm: Kirstin Peters <kirstin.peters@tps.tu-darmstadt.de>
+Thursday June 18, 11:30am-12:30pm: Stephan Merz <stephan.merz@loria.fr>
+Thursday June 18, 2-3pm: Tatjana Petrov <tatjana.petrov@gmail.com>
+Thursday June 18, 3:30-4pm: Nikos Tzevelekos <nikos.tzevelekos@qmul.ac.uk>
+
+(Best Paper)
+Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory
+by Eleni Bila, Simon Doherty, Brijesh Dongol, John Derrick, Gerhard Schellhorn, and Heike Wehrheim
+ https://youtu.be/GA45k9tvPo4
+
+
+Adam Shimi
+Derivation of Heard-Of Predicates From Elementary Behavioral Patterns
+https://www.youtube.com/watch?v=pPb3o0sx7hE
+
+Kiraku Minami
+"Trace Equivalence and Epistemic Logic to Express Security Properties"
+https://www.youtube.com/watch?v=_qyWuAMqbzc
+
+
+A Formal Framework for Consent Management 
+by Shukun Tokas and Olaf Owe
+https://www.youtube.com/watch?v=edoxYSyUGWU&feature=youtu.be​
+
+
+Claudio Antares Mezzina
+"Towards Bridging Time and Causal Reversibility" 
+https://www.youtube.com/watch?v=yEy77WMD0MY&feature=youtu.be
+
+
+Mohammadreza Mousavi
+Conformance-Based Doping Detection of Cyber-Physical Systems
+https://youtu.be/ENCK5BO_F1E
+
+Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego 
+by Davide Basile, Maurice H. ter Beek and Axel Legay
+https://www.youtube.com/watch?v=Nc5rrkyWlb8
+
+
+Towards Deep Statistical Model Checking by 
+Timo P. Gros, Holger Hermanns, Jörg Hoffmann, Michaela Klauck and Marcel Steinmetz, 
+https://youtu.be/V5QxOUnqHpk
+
+
+Towards a Hybrid Verification Methodology for Communication Protocols 
+Christian Bartolo Burlo, Adrian Francalanza and Alceste Scalas
+https://youtu.be/FL_teSjllSE
+
+
+Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities 
+Jeremy Sproston
+https://youtu.be/nEBDzwaX3Nk
+
+
+On Implementable Timed Automata 
+Sergio Feo-Arenis, Milan Vujinovic and Bernd Westphal
+ https://youtu.be/G4FrycUrkKs
+
+
+
+
+
+
+Co-Hosts
+
+christian.bartolo.16@um.edu.mt,duncan.attard.01@um.edu.mt,jasmine.xuereb.15@um.edu.mt,caroline.r.caruana@um.edu.mt
