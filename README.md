@@ -9,7 +9,7 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 ranging from theoretical foundations and formal description techniques to systems
 research issues. 
 
-[DisCoTec 2020](/2020) will take place at the [University of Malta](http://www.um.edu.mt) in June 15-19, 2020.
+[DisCoTec 2021](/2021) will take place at the [University of Malta](http://www.um.edu.mt) in June 14-18, 2020.
 
 ## Steering Committee
 * Gianluigi Zavattaro (University of Bologna, Italy) 
