@@ -1,4 +1,4 @@
-[![](https://www.discotec.org/2021/discotec2020-banner.jpeg)](https://www.discotec.org/2021/)
+[![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2021/)
 
 
 # DisCoTec 2021 - 16th International Federated Conference on Distributed Computing Techniques
