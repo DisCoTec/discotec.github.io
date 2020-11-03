@@ -239,10 +239,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ## Tool track chairs
 * TBA
 
-<!--
-* Omar Inverso (Gran Sasso Science Institute, Italy - <omar.inverso@gssi.it>)
-* Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal - <hugo.torres.vieira@ubi.pt>)
--->
+
 
 ## Program committee members
 * TBA
