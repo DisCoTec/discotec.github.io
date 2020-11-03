@@ -238,6 +238,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ## Tool track chairs
 * TBA
+
 <!--
 * Omar Inverso (Gran Sasso Science Institute, Italy - <omar.inverso@gssi.it>)
 * Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal - <hugo.torres.vieira@ubi.pt>)
@@ -246,35 +247,6 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ## Program committee members
 * TBA
 
-<!--
-* Stephanie Balzer (CMU, USA)
-* Chiara Bodei (Università di Pisa, Italy)
-* Marius Bozga (Université Grenoble Alpes, France)
-* Roberto Bruni (Università di Pisa, Italy)
-* Ornela Dardha (University of Glasgow, UK)
-* Fatemeh Ghassemi (University of Tehran, Iran)
-* Roberto Guanciale (KTH, Sweden)
-* Ludovic Henrio (CNRS, France)
-* Omar Inverso (Gran Sasso Science Institute, Italy)
-* Jean-Marie Jacquet (University of Namur, Belgium)
-* Eva Kühn (Vienna University of Technology, Austria)
-* Ivan Lanese (University of Bologna, Italy)
-* Alberto Lluch Lafuente (DTU, Denmark)
-* Michele Loreti (University of Camerino, Italy)
-* Anastasia Mavridou (NASA Ames Research Center, USA)
-* Mieke Massink (CNR-ISTI, Italy)
-* Hernan Melgratti (Universidad de Buenos Aires, Argentina)
-* Claudio Antares Mezzina (Università degli studi di Urbino, Italy)
-* Rumyana Neykova (Brunel University London, UK)
-* Luca Padovani (Università di Torino, Italy)
-* Kirstin Peters (TU Darmstadt, Germany)
-* Danilo Pianini (University of Bologna, Italy)
-* Rene Rydhof Hansen (Aalborg University, Denmark)
-* Gwen Salaün (Université Grenoble Alpes, France)
-* Meng Sun (Peking University, China)
-* Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal)
-* Emilio Tuosto (University of Leicester, UK & Gran Sasso Science Institute, Italy)
--->
 
 
 ## Steering committee
