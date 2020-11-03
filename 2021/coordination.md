@@ -93,7 +93,7 @@ Topics of interest encompass all areas of coordination, including (but not limit
 
 ### Special topics
 
-COORDINATION 2020 is seeking for contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
+COORDINATION 2021 is seeking for contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
 
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
@@ -243,7 +243,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ## Program committee members
 * TBA
-<--
+<!--
 * Stephanie Balzer (CMU, USA)
 * Chiara Bodei (Università di Pisa, Italy)
 * Marius Bozga (Université Grenoble Alpes, France)
@@ -297,7 +297,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Mirko Viroli, University of Bologna, Italy
 * Gianluigi Zavattaro, University of Bologna, Italy (Chair)
 
-<! --
+<!--
 
 ## Sponsors & Supporters
 
