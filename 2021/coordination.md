@@ -1,6 +1,6 @@
 [![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2021/)
 
-# COORDINATION 2020 - 22nd International Conference on Coordination Models and Languages
+# COORDINATION 2021 - 23nd International Conference on Coordination Models and Languages
 
 Coordination 2021 is one of the three conferences of [DisCoTec 2021](https://www.discotec.org/2021/).
 
