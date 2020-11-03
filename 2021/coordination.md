@@ -2,21 +2,26 @@
 
 # COORDINATION 2020 - 22nd International Conference on Coordination Models and Languages
 
-Coordination 2020 is one of the three conferences of [DisCoTec 2020](https://www.discotec.org/2020/).
+Coordination 2021 is one of the three conferences of [DisCoTec 2021](https://www.discotec.org/2021/).
 
 ## Keynote Speakers
 
+* TBA 
+
+<!--
 * Nathalie Bertrand, INRIA Rennes Bretagne-Atlantique
 * Holger Hermanns, Saarland University
 * Peter Kriens, aQute & OSGi Alliance
 * Ken McMillan, Microsoft Research, Redmond
+-->
 
+<!--
 
 ## List of accepted papers
 
 Below you will find the list of accepted papers ordered and grouped as they will appear in the proceedings.
 
-The programme will be available [here](https://www.discotec.org/2020/programme)
+The programme will be available [here](https://www.discotec.org/2021/programme)
 
 Coordination languages
 
@@ -65,6 +70,8 @@ Verification & analysis
 - *Combining SLiVER with CADP to Analyze Multi-agent Systems* by Luca Di Stefano, Frédéric Lang and Wendelin Serwe (Tool paper)
 - *Formal Modeling and Analysis of Medical Systems* by Mahsa Zarneshan, Fatemeh Ghassemi and Marjan Sirjani
 
+-->
+
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
 
@@ -89,6 +96,8 @@ Topics of interest encompass all areas of coordination, including (but not limit
 COORDINATION 2020 is seeking for contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
 
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
+
+<!--
 
 <ol>
   <li>
@@ -151,6 +160,8 @@ Lafuente (<a href="mailto:albl@dtu.dk">albl@dtu.dk</a>).</p>
   </li>
 </ol>
 
+-->
+
 <!-- 1. Microservices (in collaboration with the Microservices Community) -->
 
 <!--    Microservices are a novel architectural style, taking to an extreme -->
@@ -182,17 +193,21 @@ We welcome tool papers that describe experience reports, technological artefacts
 <!--We welcome tool papers that describe technological artefacts, including innovative prototypes, for modelling, analysing, simulating or testing systems in the scope of the research topics of COORDINATION. **Submissions must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process.** Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process. A dedicated special issue for accepted contributions is being planned.
 Tool papers presenting coordination APIs, allowing the broad community to easily utilise provided coordination mechanisms are particularly welcome. -->
 
-Interested authors can contact the tool track chairs (Omar Inverso <omar.inverso@gssi.it>, Hugo Torres Vieira <hugo.torres.vieira@ubi.pt>) for details.
+Interested authors can contact the tool track chairs 
+<!--
+(Omar Inverso <omar.inverso@gssi.it>, Hugo Torres Vieira <hugo.torres.vieira@ubi.pt>) 
+-->
+for details.
 
 ## Submissions
 
 ### Dates
 
-See the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates).
+See the [DisCoTec submission dates](https://www.discotec.org/2021/#important-dates).
 
 ### Publication and Special Issues
 
-Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates). Submissions are handled through the EasyChair conference management system, accessible from the conference web site: [https://easychair.org/conferences/?conf=coordination2020](https://easychair.org/conferences/?conf=coordination2020)
+Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2021/#important-dates). Submissions are handled through the EasyChair conference management system, accessible from the conference web site: [https://easychair.org/conferences/?conf=coordination2021](https://easychair.org/conferences/?conf=coordination2021)
 
 Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). The submissions must not exceed the total page number limit (see below) prepared using Springer’s LNCS style. Submissions not adhering to the above specified constraints may be rejected without review.
 
@@ -205,7 +220,7 @@ Submission categories:
 
 The conference proceedings, formed by accepted submissions will be published by Springer in the LNCS Series.
 
-
+<!--
 ### Special Issues
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org) and a separate special issue dedicated to tool papers is being planned. Special issues for last year's edition are under preparation in [**Logical Methods in Computer Science**](https://lmcs.episciences.org) for selected research papers, and in [**Science of Computer Programming**](https://www.journals.elsevier.com/science-of-computer-programming) for selected tool papers (as a collection of [**Original Software Publications**](https://www.elsevier.com/authors/author-resources/research-elements/software-articles/original-software-publications).
 
@@ -213,17 +228,22 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ### Submission Link
 
-[https://easychair.org/conferences/?conf=coordination2020](https://easychair.org/conferences/?conf=coordination2020)
+[https://easychair.org/conferences/?conf=coordination2021](https://easychair.org/conferences/?conf=coordination2021)
 
 ## Program committee chairs
-* Simon Bliudze (Inria Lille - Nord Europe, France - <simon.bliudze@inria.fr>)
-* Laura Bocchi (University of Kent, UK - <l.bocchi@kent.ac.uk>)
+* Ferruccio Damiani (University of Torino, IT - <ferruccio.damiani@unito.it>)
+* Ornela Dardha (University of Glasgow, UK- <Ornela.Dardha@glasgow.ac.uk>)
 
 ## Tool track chairs
+* TBA
+<!--
 * Omar Inverso (Gran Sasso Science Institute, Italy - <omar.inverso@gssi.it>)
 * Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal - <hugo.torres.vieira@ubi.pt>)
+-->
 
 ## Program committee members
+* TBA
+<--
 * Stephanie Balzer (CMU, USA)
 * Chiara Bodei (Università di Pisa, Italy)
 * Marius Bozga (Université Grenoble Alpes, France)
@@ -251,6 +271,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Meng Sun (Peking University, China)
 * Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal)
 * Emilio Tuosto (University of Leicester, UK & Gran Sasso Science Institute, Italy)
+-->
 
 
 ## Steering committee
@@ -275,6 +296,8 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Vasco T. Vasconcelos, University of Lisbon, Portugal
 * Mirko Viroli, University of Bologna, Italy
 * Gianluigi Zavattaro, University of Bologna, Italy (Chair)
+
+<! --
 
 ## Sponsors & Supporters
 
@@ -315,3 +338,5 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
      })
    })
 </script>
+
+-->
