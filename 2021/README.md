@@ -82,11 +82,11 @@ Go to the [DisCoTec2020 Slack workspace](https://join.slack.com/t/discotec2020/s
 
 ### Coordination Program Committee Chairs
 * [Ferruccio Damiani][FerruccioWeb] (University of Torino, IT)
-* [Ornela Dardha][OrnelaWeb] (University of Glasgow, United Kingdom)
+* [Ornela Dardha][OrnelaWeb] (University of Glasgow, UK)
 
 
 ### DAIS Program Committee Chairs
-* [Fabíola Gonçalves Pereira Greve][FabiolaWeb] (Federal University of Bahia, Brazil)
+* [Fabíola Gonçalves Pereira Greve][FabiolaWeb] (Federal University of Bahia, BR)
 * [Miguel Matos][MiguelWeb] (Inesc ID Lisboa, PT)
 
 ### FORTE Program Committee Chairs
@@ -127,27 +127,28 @@ Valletta Malta VLT 1216.
 It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtoreachus). 
 
 ## Steering Committee
-* Rocco De Nicola (IMT Lucca, Italy)
-* Pascal Felber ( University of Neuchâtel, Switzerland)
-* Kurt Geihs (University of Kasel, Germany)
-* Alberto Lluch Lafuente (DTU, Denmark)
-* Kostas Magoutis (ICS-FORTH, Greece)
-* Elie Najm (Telecom Paris Tech, France — Chair)
-* Manuel Núñez (Universidad Complutense de Madrid, Spain)
-* Rui Oliveira (University of Minho, Portugal)
-* Jean-Bernard Stefani (INRIA Grenoble, France)
-* Gianluigi Zavattaro (University of Bologna, Italy)
-* Alberto Lluch Lafuente (DTU, Denmark)
+* Rocco De Nicola (IMT Lucca, IT)
+* Pascal Felber (University of Neuchâtel, CH)
+* Adrian Francalanza (University of Malta, MT) 
+* Kurt Geihs (University of Kasel, DE)
+* Alberto Lluch Lafuente (Technical University of Denmark (DTU), DK)
+* Kostas Magoutis (ICS-FORTH, GR)
+* Elie Najm (Telecom Paris Tech, FR — Chair)
+* Manuel Núñez (Universidad Complutense de Madrid, ES)
+* Rui Oliveira (University of Minho, PT)
+* Jean-Bernard Stefani (INRIA Grenoble, FR)
+* Gianluigi Zavattaro (University of Bologna, IT)
+
 
 ## Advisory board
-* Alain Girault (INRIA Grenoble, France)
-* Uwe Nestmann (TU Berlin, Germany)
-* Michele Loreti (University of Camerino, Italy)
-* Jim Dowling (RISE & KTH, Sweden)
-* Marjan Sirjani (University of Malarden, Sweden)
-* Frank de Boer (CWI, The Netherlands)
-* Farhad Arbab (CWI, The Netherlands)
-* Lea Kutvonen (University of Helsinki, Finland)
+* Alain Girault (INRIA Grenoble, FR)
+* Uwe Nestmann (TU Berlin, DE)
+* Michele Loreti (University of Camerino, IT)
+* Jim Dowling (RISE & KTH, SE)
+* Marjan Sirjani (University of Malarden, SE)
+* Frank de Boer (Centrum Wiskunde & Informatica (CWI), NL)
+* Farhad Arbab (Centrum Wiskunde & Informatica (CWI), NL)
+* Lea Kutvonen (University of Helsinki, FI)
 * John Derrick (University of Sheffield, UK)
 
 <!-- 
