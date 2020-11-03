@@ -233,8 +233,8 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 [https://easychair.org/conferences/?conf=coordination2021](https://easychair.org/conferences/?conf=coordination2021)
 
 ## Program committee chairs
-* Ferruccio Damiani (University of Torino, IT - <ferruccio.damiani@unito.it>)
-* Ornela Dardha (University of Glasgow, UK- <Ornela.Dardha@glasgow.ac.uk>)
+* [Ferruccio Damiani](http://www.di.unito.it/~damiani/) (University of Torino, IT)
+* [Ornela Dardha](http://www.dcs.gla.ac.uk/~ornela/)  (University of Glasgow, UK) 
 
 ## Tool track chairs
 * TBA
