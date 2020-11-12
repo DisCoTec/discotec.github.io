@@ -150,6 +150,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Frank de Boer (CWI, Netherlands)
 * Luís Caires (Universidade Nova de Lisboa, Portugal)
 * Einar Broch Johnsen (University of Oslo, Norway)
+* Ivan Lanese (University of Bologna/INRIA, Italy)
 * Jorge A. Pérez (University of Groningen, The Netherlands)
 * Alexandra Silva (University College London, UK)
 * Jean-Bernard Stefani (INRIA, France)
