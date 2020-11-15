@@ -97,9 +97,12 @@ COORDINATION 2021 is seeking for contributions that enable the cross-fertilisati
 
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
-<!--
+
 
 <ol>
+
+<!--
+
   <li>
     <p>Microservices (in collaboration with the Microservices Community)</p>
 
@@ -158,9 +161,22 @@ Lafuente (<a href="mailto:albl@dtu.dk">albl@dtu.dk</a>).</p>
 
     <p>Contacts: Stephanie Balzer (<a href="mailto:balzers@cs.cmu.edu">balzers@cs.cmu.edu</a>) and Anastasia Mavridou (<a href="mailto:anastasia.mavridou@nasa.gov">anastasia.mavridou@nasa.gov</a>)</p>
   </li>
-</ol>
 
 -->
+
+<li>
+    <p>Configurable Systems</p>
+
+    <p>Highly configurable software systems, such as software product lines, call for automatic mechanisms that allow to tame the complexity and variability. DevOps have pushed forward the importance of automating every step of the software development process, including the management of configurable systems. In this special topic, we welcome submissions addressing novel techniques and methodologies for the COORDINATION of automatic configuration tasks or for the COORDINATION of the various phases from development to deployment supporting the continuous release of software/products.</p>
+
+    <p>Contacts: Maurice ter Beek (<a href="mailto:maurice.terbeek@isti.cnr.it">maurice.terbeek@isti.cnr.it</a>) and Hugo Torres Vieira (<a href="mailto:hugo.torres.vieira@ubi.pt">hugo.torres.vieira@ubi.pt</a>)</p>
+  </li>
+
+
+
+</ol>
+
+
 
 <!-- 1. Microservices (in collaboration with the Microservices Community) -->
 
