@@ -101,7 +101,7 @@ Depending on the quality of the contributions, we plan to have dedicated session
 
 <ol>
 
-<!--
+
 
   <li>
     <p>Microservices (in collaboration with the Microservices Community)</p>
@@ -151,9 +151,12 @@ behaviour are of paramount importance.</p>
       </div>
     </div>
     <div style="clear: both;"></div>
-    <p>Contacts: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) and Alberto Lluch
-Lafuente (<a href="mailto:albl@dtu.dk">albl@dtu.dk</a>).</p>
+    <p>Contacts: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) 
+and Larisa Safina (<a href="larisa.safina@inria.fr">larisa.safina@inria.fr</a>).</p>
   </li>
+
+
+<!--
   <li>
     <p>Techniques to reason about interacting digital contracts</p>
 
