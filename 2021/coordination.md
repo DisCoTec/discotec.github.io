@@ -258,6 +258,8 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 
 ## Program committee 
+* TBA
+<!--
 * Zena M. Ariola (University of Oregon, USA)
 * Robert Atkey (University of Strathclyde, UK)
 * Giorgio Audrito (University of Turin, Italy)
@@ -288,6 +290,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal)
 * Tarmo Uustalu (Reykjavik University, Iceland)
 * Maurice H. ter Beek (CNR-ISTI, Italy)
+-->
 
 
 ## Steering committee
