@@ -336,6 +336,8 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
   <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
 </a>
 
+-->
+
 <script>
   function microservices_community_events(data) {
    const upcoming = $("#microservices_community_events_upcoming");
@@ -364,4 +366,4 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
    })
 </script>
 
--->
+
