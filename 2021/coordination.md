@@ -259,6 +259,37 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 
 ## Program committee 
+* Zena M. Ariola (University of Oregon, USA)
+* Robert Atkey (University of Strathclyde, UK)
+* Giorgio Audrito (University of Turin, Italy)
+* Stephanie Balzer (CMU, USA)
+* Simon Bliudze (Inria Lille - Nord Europe, France)
+* Laura Bocchi (University of Kent, UK)
+* Roberto Casadei (University of Bologna, Italy)
+* Vashti Galpin (University of Edinburgh, UK)
+* Fatemeh Ghassemi (University of Tehran, Iran)
+* Elisa Gonzalez Boix (Vrije Universiteit Brussel, Belgium)
+* Omar Inverso (Gran Sasso Science Institute, Italy)
+* Jean-Marie Jacquet (University of Namur, Belgium)
+* Eva Kühn (Vienna University of Technology, Austria)
+* Ivan Lanese (University of Bologna, Italy)
+* Alberto Lluch Lafuente (DTU, Denmark)
+* Michele Loreti (University of Camerino, Italy)
+* Mieke Massink (CNR-ISTI, Italy)
+* Anastasia Mavridou (NASA Ames Research Center, USA)
+* Hernan Melgratti (Universidad de Buenos Aires, Argentina)
+* Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
+* Larisa Safina (Inria - Lille Nord Europe, France)
+* Gwen Salaün (Université Grenoble Alpes, France)
+* Meng Sun (Peking University, China)
+* Carolyn Talcott (SRI International, California, USA)
+* Vasco T. Vasconcelos (University of Lisbon, Portugal)
+* Silvia Lizeth Tapia Tarifa (University of Oslo, Norway)
+* Peter Thieman (Universität Freiburg, Germany)
+* Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal)
+* Tarmo Uustalu (Reykjavik University, Iceland)
+* Maurice H. ter Beek (CNR-ISTI, Italy)
+ 
  
 
 
