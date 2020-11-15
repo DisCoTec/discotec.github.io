@@ -302,6 +302,8 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ## Steering committee
 * Gul Agha, University of Illinois at Urbana Champaign, USA
 * Farhad Arbab, CWI and Leiden University, The Netherlands
+* Simon Bliudze - Inria Lille - Nord Europe, France
+* Laura Bocchi - University of Kent, UK
 * Wolfgang De Meuter, Vrije Universiteit Brussels, Belgium
 * Rocco De Nicola, IMT - School for Advanced Studies, Italy
 * Giovanna di Marzo Serugendo, Université de Genève, Switzerland
@@ -311,7 +313,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Eva Kühn, Vienna University of Technology, Austria
 * Alberto Lluch Lafuente, Technical University of Denmark, Denmark
 * Michele Loreti, University of Camerino, Italy
-* Mieke Massink, ISTI CNR, Italy
+* Mieke Massink, ISTI CNR, Italy (Chair)
 * Jose Proença, University of Minho, Portugal
 * Rosario Pugliese, Università di Firenze, Italy
 * Hanne Riis Nielson, DTU, Denmark
@@ -320,7 +322,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Emilio Tuosto, University of Leicester, UK & Gran Sasso Science Institute, Italy
 * Vasco T. Vasconcelos, University of Lisbon, Portugal
 * Mirko Viroli, University of Bologna, Italy
-* Gianluigi Zavattaro, University of Bologna, Italy (Chair)
+* Gianluigi Zavattaro, University of Bologna, Italy
 
 <!--
 
