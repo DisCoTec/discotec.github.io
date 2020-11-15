@@ -257,7 +257,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 
 
-## Program committee members
+## Program committee 
 * Zena M. Ariola (University of Oregon, USA)
 * Robert Atkey (University of Strathclyde, UK)
 * Giorgio Audrito (University of Turin, Italy)
@@ -283,7 +283,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Meng Sun (Peking University, China)
 * Carolyn Talcott (SRI International, California, USA)
 * Vasco T. Vasconcelos ( University of Lisbon, Portugal)
-* Silvia Lizeth Tapia Tarifa	 (University of Oslo, Norway)
+* Silvia Lizeth Tapia Tarifa (University of Oslo, Norway)
 * Peter Thiemann	 (Universität Freiburg, Germany)
 * Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal)
 * Tarmo Uustalu (Reykjavik University, Iceland)
