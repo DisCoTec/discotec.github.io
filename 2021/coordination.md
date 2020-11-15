@@ -241,6 +241,7 @@ The conference proceedings, formed by accepted submissions will be published by 
 <!--
 ### Special Issues
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org) and a separate special issue dedicated to tool papers is being planned. Special issues for last year's edition are under preparation in [**Logical Methods in Computer Science**](https://lmcs.episciences.org) for selected research papers, and in [**Science of Computer Programming**](https://www.journals.elsevier.com/science-of-computer-programming) for selected tool papers (as a collection of [**Original Software Publications**](https://www.elsevier.com/authors/author-resources/research-elements/software-articles/original-software-publications).
+-->
 
 <!--Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org). A separate special issue dedicated to tool papers is being planned.-->
 
@@ -258,39 +259,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 
 ## Program committee 
-* TBA
-<!--
-* Zena M. Ariola (University of Oregon, USA)
-* Robert Atkey (University of Strathclyde, UK)
-* Giorgio Audrito (University of Turin, Italy)
-* Stephanie Balzer (CMU, USA)
-* Simon Bliudze (Inria Lille - Nord Europe, France)
-* Laura Bocchi (University of Kent, UK)
-* Roberto Casadei, University of Bologna, Italy
-* Vashti Galpin (University of Edinburgh, UK)
-* Fatemeh	Ghassemi (University of Tehran, Iran)
-* Elisa Gonzalez Boix (Vrije Universiteit Brussel, Belgium)
-* Omar Inverso (Gran Sasso Science Institute, Italy)
-* Jean-Marie Jacquet (University of Namur, Belgium)
-* Eva Kühn (Vienna University of Technology, Austria)
-* Ivan Lanese (University of Bologna, Italy)
-* Alberto Lluch Lafuente (DTU, Denmark)
-* Michele Loreti (University of Camerino, Italy)
-* Mieke Massink (CNR-ISTI, Italy)
-* Anastasia Mavridou (NASA Ames Research Center, USA)
-* Hernan Melgratti (Universidad de Buenos Aires, Argentina)
-* Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
-* Larisa Safina (Inria - Lille Nord Europe, France)
-* Gwen Salaün (Université Grenoble Alpes, France)
-* Meng Sun (Peking University, China)
-* Carolyn Talcott (SRI International, California, USA)
-* Vasco T. Vasconcelos (University of Lisbon, Portugal)
-* Silvia Lizeth Tapia Tarifa (University of Oslo, Norway)
-* Peter Thiemann	 (Universität Freiburg, Germany)
-* Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal)
-* Tarmo Uustalu (Reykjavik University, Iceland)
-* Maurice H. ter Beek (CNR-ISTI, Italy)
--->
+ 
 
 
 ## Steering committee
