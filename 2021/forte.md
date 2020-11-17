@@ -89,7 +89,7 @@ Notice that *short* and *journal-first* papers must be explicitly marked as such
 
    Short paper submissions must be marked as such in the submission's title.
 
-3. __"Journal First" papers__ (page limit: up to 2 pages, including references)
+3. __"Journal First" papers__ (page limit: up to 4 pages, including references)
 
    This category aims at including published journal papers in the FORTE 2021 program. The objective is to offer FORTE attendees a richer program and further opportunities for interaction.
 
@@ -105,7 +105,8 @@ Notice that *short* and *journal-first* papers must be explicitly marked as such
    Journal-first submissions must be marked as such in the submission's title, and must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program.
 
 ### Publication
-All accepted papers, except for the journal-first submissions, will be published in the FORTE 2021 formal proceedings, which will appear in Springer's LNCS-IFIP volume series.
+All accepted papers, including short papers and journal-first submissions, will be published in the FORTE 2021 formal proceedings, which will appear in Springer's LNCS-IFIP volume series.
+
 
 ### Special Issue
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
