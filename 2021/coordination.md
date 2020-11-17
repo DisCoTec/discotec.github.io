@@ -103,9 +103,18 @@ Depending on the quality of the contributions, we plan to have dedicated session
 
 
 <li>
-    <p>Configurable Systems</p>
+    <p>Configurable Systems in the DevOps Era</p>
 
-    <p>Highly configurable software systems, such as software product lines, call for automatic mechanisms that allow to tame the complexity and variability. DevOps have pushed forward the importance of automating every step of the software development process, including the management of configurable systems. In this special topic, we welcome submissions addressing novel techniques and methodologies for the COORDINATION of automatic configuration tasks or for the COORDINATION of the various phases from development to deployment supporting the continuous release of software/products.</p>
+    <p>Highly configurable software systems, such as software product lines, 
+call for automatic mechanisms that allow to tame the complexity and variability. 
+DevOps have pushed forward the importance of automating every step 
+of the software development process, including the management of configurable systems. 
+In this special topic, we welcome submissions addressing novel techniques and methodologies 
+for the COORDINATION of automatic configuration tasks or for the COORDINATION 
+of the various phases from development to deployment supporting the continuous 
+release of software/products. 
+Given the relevance of the topic to industry and aligned with the main topics of COORDINATION, 
+we encourage submissions of industry-led efforts, including case studies.</p>
 
     <p>Contacts: Maurice ter Beek (<a href="mailto:maurice.terbeek@isti.cnr.it">maurice.terbeek@isti.cnr.it</a>) and Hugo Torres Vieira (<a href="mailto:hugo.torres.vieira@ubi.pt">hugo.torres.vieira@ubi.pt</a>)</p>
   </li>
