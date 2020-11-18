@@ -1,22 +1,27 @@
 [![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2021/)
 
-# COORDINATION 2020 - 22nd International Conference on Coordination Models and Languages
+# COORDINATION 2021 - 23nd International Conference on Coordination Models and Languages
 
-Coordination 2020 is one of the three conferences of [DisCoTec 2020](https://www.discotec.org/2020/).
+Coordination 2021 is one of the three conferences of [DisCoTec 2021](https://www.discotec.org/2021/).
 
 ## Keynote Speakers
 
+* TBA 
+
+<!--
 * Nathalie Bertrand, INRIA Rennes Bretagne-Atlantique
 * Holger Hermanns, Saarland University
 * Peter Kriens, aQute & OSGi Alliance
 * Ken McMillan, Microsoft Research, Redmond
+-->
 
+<!--
 
 ## List of accepted papers
 
 Below you will find the list of accepted papers ordered and grouped as they will appear in the proceedings.
 
-The programme will be available [here](https://www.discotec.org/2020/programme)
+The programme will be available [here](https://www.discotec.org/2021/programme)
 
 Coordination languages
 
@@ -65,6 +70,8 @@ Verification & analysis
 - *Combining SLiVER with CADP to Analyze Multi-agent Systems* by Luca Di Stefano, Frédéric Lang and Wendelin Serwe (Tool paper)
 - *Formal Modeling and Analysis of Medical Systems* by Mahsa Zarneshan, Fatemeh Ghassemi and Marjan Sirjani
 
+-->
+
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
 
@@ -86,11 +93,34 @@ Topics of interest encompass all areas of coordination, including (but not limit
 
 ### Special topics
 
-COORDINATION 2020 is seeking for contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
+COORDINATION 2021 is seeking for contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
 
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
+
+
 <ol>
+
+
+<li>
+    <p>Configurable Systems in the DevOps Era</p>
+
+    <p>Highly configurable software systems, such as software product lines, 
+call for automatic mechanisms that allow to tame the complexity and variability. 
+DevOps have pushed forward the importance of automating every step 
+of the software development process, including the management of configurable systems. 
+In this special topic, we welcome submissions addressing novel techniques and methodologies 
+for the COORDINATION of automatic configuration tasks or for the COORDINATION 
+of the various phases from development to deployment supporting the continuous 
+release of software/products. 
+Given the relevance of the topic to industry and aligned with the main topics of COORDINATION, 
+we encourage submissions of industry-led efforts, including case studies.</p>
+
+    <p>Contacts: Maurice ter Beek (<a href="mailto:maurice.terbeek@isti.cnr.it">maurice.terbeek@isti.cnr.it</a>) and Hugo Torres Vieira (<a href="mailto:hugo.torres.vieira@ubi.pt">hugo.torres.vieira@ubi.pt</a>)</p>
+  </li>
+
+
+
   <li>
     <p>Microservices (in collaboration with the Microservices Community)</p>
 
@@ -139,9 +169,12 @@ behaviour are of paramount importance.</p>
       </div>
     </div>
     <div style="clear: both;"></div>
-    <p>Contacts: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) and Alberto Lluch
-Lafuente (<a href="mailto:albl@dtu.dk">albl@dtu.dk</a>).</p>
+    <p>Contacts: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) 
+and Larisa Safina (<a href="larisa.safina@inria.fr">larisa.safina@inria.fr</a>).</p>
   </li>
+
+
+<!--
   <li>
     <p>Techniques to reason about interacting digital contracts</p>
 
@@ -149,7 +182,16 @@ Lafuente (<a href="mailto:albl@dtu.dk">albl@dtu.dk</a>).</p>
 
     <p>Contacts: Stephanie Balzer (<a href="mailto:balzers@cs.cmu.edu">balzers@cs.cmu.edu</a>) and Anastasia Mavridou (<a href="mailto:anastasia.mavridou@nasa.gov">anastasia.mavridou@nasa.gov</a>)</p>
   </li>
+
+-->
+
+
+
+
+
 </ol>
+
+
 
 <!-- 1. Microservices (in collaboration with the Microservices Community) -->
 
@@ -182,17 +224,23 @@ We welcome tool papers that describe experience reports, technological artefacts
 <!--We welcome tool papers that describe technological artefacts, including innovative prototypes, for modelling, analysing, simulating or testing systems in the scope of the research topics of COORDINATION. **Submissions must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process.** Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process. A dedicated special issue for accepted contributions is being planned.
 Tool papers presenting coordination APIs, allowing the broad community to easily utilise provided coordination mechanisms are particularly welcome. -->
 
-Interested authors can contact the tool track chairs (Omar Inverso <omar.inverso@gssi.it>, Hugo Torres Vieira <hugo.torres.vieira@ubi.pt>) for details.
+Interested authors can contact the tool track chairs
+ 
+<!--
+(Omar Inverso <omar.inverso@gssi.it>, Hugo Torres Vieira <hugo.torres.vieira@ubi.pt>) 
+-->
+
+for details.
 
 ## Submissions
 
 ### Dates
 
-See the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates).
+See the [DisCoTec submission dates](https://www.discotec.org/2021/#important-dates).
 
 ### Publication and Special Issues
 
-Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates). Submissions are handled through the EasyChair conference management system, accessible from the conference web site: [https://easychair.org/conferences/?conf=coordination2020](https://easychair.org/conferences/?conf=coordination2020)
+Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2021/#important-dates). Submissions are handled through the EasyChair conference management system, accessible from the conference web site: [https://easychair.org/conferences/?conf=coordination2021](https://easychair.org/conferences/?conf=coordination2021)
 
 Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). The submissions must not exceed the total page number limit (see below) prepared using Springer’s LNCS style. Submissions not adhering to the above specified constraints may be rejected without review.
 
@@ -205,57 +253,66 @@ Submission categories:
 
 The conference proceedings, formed by accepted submissions will be published by Springer in the LNCS Series.
 
-
+<!--
 ### Special Issues
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org) and a separate special issue dedicated to tool papers is being planned. Special issues for last year's edition are under preparation in [**Logical Methods in Computer Science**](https://lmcs.episciences.org) for selected research papers, and in [**Science of Computer Programming**](https://www.journals.elsevier.com/science-of-computer-programming) for selected tool papers (as a collection of [**Original Software Publications**](https://www.elsevier.com/authors/author-resources/research-elements/software-articles/original-software-publications).
+-->
 
 <!--Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org). A separate special issue dedicated to tool papers is being planned.-->
 
 ### Submission Link
 
-[https://easychair.org/conferences/?conf=coordination2020](https://easychair.org/conferences/?conf=coordination2020)
+[https://easychair.org/conferences/?conf=coordination2021](https://easychair.org/conferences/?conf=coordination2021)
 
 ## Program committee chairs
-* Simon Bliudze (Inria Lille - Nord Europe, France - <simon.bliudze@inria.fr>)
-* Laura Bocchi (University of Kent, UK - <l.bocchi@kent.ac.uk>)
+* [Ferruccio Damiani](http://www.di.unito.it/~damiani/) (University of Turin, Italy)
+* [Ornela Dardha](http://www.dcs.gla.ac.uk/~ornela/)  (University of Glasgow, UK) 
 
 ## Tool track chairs
-* Omar Inverso (Gran Sasso Science Institute, Italy - <omar.inverso@gssi.it>)
-* Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal - <hugo.torres.vieira@ubi.pt>)
+* TBA
 
-## Program committee members
+
+
+## Program committee 
+* Zena M. Ariola (University of Oregon, USA)
+* Robert Atkey (University of Strathclyde, UK)
+* Giorgio Audrito (University of Turin, Italy)
 * Stephanie Balzer (CMU, USA)
-* Chiara Bodei (Università di Pisa, Italy)
-* Marius Bozga (Université Grenoble Alpes, France)
-* Roberto Bruni (Università di Pisa, Italy)
-* Ornela Dardha (University of Glasgow, UK)
+* Simon Bliudze (Inria Lille - Nord Europe, France)
+* Laura Bocchi (University of Kent, UK)
+* Roberto Casadei (University of Bologna, Italy)
+* Vashti Galpin (University of Edinburgh, UK)
 * Fatemeh Ghassemi (University of Tehran, Iran)
-* Roberto Guanciale (KTH, Sweden)
-* Ludovic Henrio (CNRS, France)
+* Elisa Gonzalez Boix (Vrije Universiteit Brussel, Belgium)
 * Omar Inverso (Gran Sasso Science Institute, Italy)
 * Jean-Marie Jacquet (University of Namur, Belgium)
 * Eva Kühn (Vienna University of Technology, Austria)
 * Ivan Lanese (University of Bologna, Italy)
 * Alberto Lluch Lafuente (DTU, Denmark)
 * Michele Loreti (University of Camerino, Italy)
-* Anastasia Mavridou (NASA Ames Research Center, USA)
 * Mieke Massink (CNR-ISTI, Italy)
+* Anastasia Mavridou (NASA Ames Research Center, USA)
 * Hernan Melgratti (Universidad de Buenos Aires, Argentina)
-* Claudio Antares Mezzina (Università degli studi di Urbino, Italy)
-* Rumyana Neykova (Brunel University London, UK)
-* Luca Padovani (Università di Torino, Italy)
-* Kirstin Peters (TU Darmstadt, Germany)
-* Danilo Pianini (University of Bologna, Italy)
-* Rene Rydhof Hansen (Aalborg University, Denmark)
+* Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
+* Larisa Safina (Inria - Lille Nord Europe, France)
 * Gwen Salaün (Université Grenoble Alpes, France)
 * Meng Sun (Peking University, China)
+* Carolyn Talcott (SRI International, California, USA)
+* Vasco T. Vasconcelos (University of Lisbon, Portugal)
+* Silvia Lizeth Tapia Tarifa (University of Oslo, Norway)
+* Peter Thieman (Universität Freiburg, Germany)
 * Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal)
-* Emilio Tuosto (University of Leicester, UK & Gran Sasso Science Institute, Italy)
+* Tarmo Uustalu (Reykjavik University, Iceland)
+* Maurice H. ter Beek (CNR-ISTI, Italy)
+ 
+ 
 
 
 ## Steering committee
 * Gul Agha, University of Illinois at Urbana Champaign, USA
 * Farhad Arbab, CWI and Leiden University, The Netherlands
+* Simon Bliudze - Inria Lille - Nord Europe, France
+* Laura Bocchi - University of Kent, UK
 * Wolfgang De Meuter, Vrije Universiteit Brussels, Belgium
 * Rocco De Nicola, IMT - School for Advanced Studies, Italy
 * Giovanna di Marzo Serugendo, Université de Genève, Switzerland
@@ -265,7 +322,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Eva Kühn, Vienna University of Technology, Austria
 * Alberto Lluch Lafuente, Technical University of Denmark, Denmark
 * Michele Loreti, University of Camerino, Italy
-* Mieke Massink, ISTI CNR, Italy
+* Mieke Massink, ISTI CNR, Italy (Chair)
 * Jose Proença, University of Minho, Portugal
 * Rosario Pugliese, Università di Firenze, Italy
 * Hanne Riis Nielson, DTU, Denmark
@@ -274,7 +331,9 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Emilio Tuosto, University of Leicester, UK & Gran Sasso Science Institute, Italy
 * Vasco T. Vasconcelos, University of Lisbon, Portugal
 * Mirko Viroli, University of Bologna, Italy
-* Gianluigi Zavattaro, University of Bologna, Italy (Chair)
+* Gianluigi Zavattaro, University of Bologna, Italy
+
+<!--
 
 ## Sponsors & Supporters
 
@@ -287,6 +346,8 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 <a href="https://microservices.community/e/discotec2020/">
   <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
 </a>
+
+-->
 
 <script>
   function microservices_community_events(data) {
@@ -315,3 +376,5 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
      })
    })
 </script>
+
+

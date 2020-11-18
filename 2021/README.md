@@ -91,7 +91,7 @@ Go to the [DisCoTec2020 Slack workspace](https://join.slack.com/t/discotec2020/s
 
 ### FORTE Program Committee Chairs
 * [Kirstin Peters][KirstinWeb] (Technical University of Darmstadt, DE)
-* [Tim Willemse](http://cs.uni-salzburg.at/~anas/) (Eindhoven University of Technology, NL)
+* [Tim Willemse][TimWeb] (Eindhoven University of Technology, NL)
 
 
   
