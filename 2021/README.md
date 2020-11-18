@@ -86,7 +86,7 @@ Go to the [DisCoTec2020 Slack workspace](https://join.slack.com/t/discotec2020/s
 
 
 ### DAIS Program Committee Chairs
-* [Fabíola Gonçalves Pereira Greve][FabiolaWeb] (Federal University of Bahia, BR)
+* [Fabíola Greve][FabiolaWeb] (Federal University of Bahia, BR)
 * [Miguel Matos][MiguelWeb] (Inesc ID Lisboa, PT)
 
 ### FORTE Program Committee Chairs
@@ -179,6 +179,10 @@ For further information please contact the general chair at <adrian.francalanza@
 
 <a href="https://www.ifip.org">
   <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="350px">
+</a>
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
+<a href="https://eapls.org">
+<img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" width="150px">
 </a>
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <img alt="Hauts-de-France Logo" src="https://i0.wp.com/www.bliudze.me/simon/wp-content/uploads/2019/02/hauts-de-france.jpg" width="150px">
