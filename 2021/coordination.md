@@ -1,15 +1,17 @@
 [![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2021/)
 
-# COORDINATION 2021 - 23nd International Conference on Coordination Models and Languages
+# COORDINATION 2021 - 23rd International Conference on Coordination Models and Languages
 
 Coordination 2021 is one of the three conferences of [DisCoTec 2021](https://www.discotec.org/2021/).
 
 ## Keynote Speakers
 
-* TBA 
+* Mira Mezini, Technical University of Darmstadt
+* TBA
+* TBA
+* TBA
 
 <!--
-* Nathalie Bertrand, INRIA Rennes Bretagne-Atlantique
 * Holger Hermanns, Saarland University
 * Peter Kriens, aQute & OSGi Alliance
 * Ken McMillan, Microsoft Research, Redmond
@@ -174,7 +176,7 @@ and Larisa Safina (<a href="larisa.safina@inria.fr">larisa.safina@inria.fr</a>).
   </li>
 
 
-<!--
+
   <li>
     <p>Techniques to reason about interacting digital contracts</p>
 
@@ -183,7 +185,7 @@ and Larisa Safina (<a href="larisa.safina@inria.fr">larisa.safina@inria.fr</a>).
     <p>Contacts: Stephanie Balzer (<a href="mailto:balzers@cs.cmu.edu">balzers@cs.cmu.edu</a>) and Anastasia Mavridou (<a href="mailto:anastasia.mavridou@nasa.gov">anastasia.mavridou@nasa.gov</a>)</p>
   </li>
 
--->
+
 
 
 
@@ -225,11 +227,7 @@ We welcome tool papers that describe experience reports, technological artefacts
 Tool papers presenting coordination APIs, allowing the broad community to easily utilise provided coordination mechanisms are particularly welcome. -->
 
 Interested authors can contact the tool track chairs
- 
-<!--
-(Omar Inverso <omar.inverso@gssi.it>, Hugo Torres Vieira <hugo.torres.vieira@ubi.pt>) 
--->
-
+(Giorgio Audrito <giorgio.audrito@unito.it>, Silvia Lizeth Tapia Tarifa <sltarifa@ifi.uio.no>) 
 for details.
 
 ## Submissions
@@ -239,6 +237,7 @@ for details.
 See the [DisCoTec submission dates](https://www.discotec.org/2021/#important-dates).
 
 ### Publication and Special Issues
+
 
 Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2021/#important-dates). Submissions are handled through the EasyChair conference management system, accessible from the conference web site: [https://easychair.org/conferences/?conf=coordination2021](https://easychair.org/conferences/?conf=coordination2021)
 
@@ -252,6 +251,11 @@ Submission categories:
 
 
 The conference proceedings, formed by accepted submissions will be published by Springer in the LNCS Series.
+
+Following the tradition of previous editions of COORDINATION, 
+according to the quality and number of the submission, 
+we will organise special issues of extended and selected Full/Short/Survey/Tool papers 
+in reputable journals such as LMCS and SCP.
 
 <!--
 ### Special Issues
@@ -269,7 +273,8 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * [Ornela Dardha](http://www.dcs.gla.ac.uk/~ornela/)  (University of Glasgow, UK) 
 
 ## Tool track chairs
-* TBA
+* [Giorgio Audrito](https://giorgio.audrito.info/#!/research) (University of Turin, Italy)
+* [Silvia Lizeth Tapia Tarifa](https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html)  (University of Oslo, Norway) 
 
 
 
