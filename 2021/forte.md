@@ -168,8 +168,6 @@ For additional information, please contact the Program Committee Co-chairs: fort
   <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="350px">
 </a>
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
-<img alt="Hauts-de-France Logo" src="https://i0.wp.com/www.bliudze.me/simon/wp-content/uploads/2019/02/hauts-de-france.jpg" width="150px">
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
-<!--a href="https://microservices.community/e/discotec2020/">
-  <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
-</a-->
+<a href="https://eapls.org">
+<img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" width="350px">
+</a>
