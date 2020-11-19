@@ -249,9 +249,9 @@ Submission categories:
 * Survey papers (up to 25 pages + 2 pages references): describing important results and successful stories that originated in the context of COORDINATION.
 * Tool papers (up to 6 pages + 2 pages references): describing technological artefacts in the scope of the research topics of COORDINATION. The paper must contain **a link to a publicly downloadable MPEG-4 demo video** of at most 10 minutes length.
 
-The authors of accepted papers (of any category) are encouraged 
+The authors of accepted papers (in any submission category) will be encouraged
 to make their artefacts publicly available using permanent repositories such as Zenodo etc.
-(for Tool paper, the tool should already be available at submission time for reviewing purposes,
+(for Tool papers, the tool should already be available at submission time for reviewing purposes,
  but not necessarily via a permanent archive with a DOI).
 
 The conference proceedings, formed by accepted submissions will be published by Springer in the LNCS Series.
