@@ -180,7 +180,8 @@ and Larisa Safina (<a href="larisa.safina@inria.fr">larisa.safina@inria.fr</a>).
   <li>
     <p>Techniques to reason about interacting digital contracts</p>
 
-    <p>With the rise of blockchains and cryptocurrencies, digital contracts have become popular in the form of smart contracts, which encode a financial transaction between possibly distrusting parties using a distributed consensus protocol.  Although smart contracts bear the potential to benefit society quite fundamentally (e.g., equalize access to financial infrastructure, increase fairness), the benefits are shadowed by the existence of severe security vulnerabilities in deployed smart contracts and smart contract languages.  In the 2020 instantiation of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques.</p>
+    <p>With the rise of blockchains and cryptocurrencies, digital contracts have become popular in the form of smart contracts, which encode a financial transaction between possibly distrusting parties using a distributed consensus protocol.  Although smart contracts bear the potential to benefit society quite fundamentally (e.g., equalize access to financial infrastructure, increase fairness), the benefits are shadowed by the existence of severe security vulnerabilities in deployed smart contracts and smart contract languages.  
+In the 2021 edition of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques.</p>
 
     <p>Contacts: Stephanie Balzer (<a href="mailto:balzers@cs.cmu.edu">balzers@cs.cmu.edu</a>) and Anastasia Mavridou (<a href="mailto:anastasia.mavridou@nasa.gov">anastasia.mavridou@nasa.gov</a>)</p>
   </li>
@@ -214,7 +215,8 @@ and Larisa Safina (<a href="larisa.safina@inria.fr">larisa.safina@inria.fr</a>).
 
 <!-- 2. Techniques to reason about interacting digital contracts -->
 
-<!--    With the rise of blockchains and cryptocurrencies, digital contracts have become popular in the form of smart contracts, which encode a financial transaction between possibly distrusting parties using a distributed consensus protocol.  Although smart contracts bear the potential to benefit society quite fundamentally (e.g., equalize access to financial infrastructure, increase fairness), the benefits are shadowed by the existence of severe security vulnerabilities in deployed smart contracts and smart contract languages.  In the 2020 instantiation of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques. -->
+<!--    With the rise of blockchains and cryptocurrencies, digital contracts have become popular in the form of smart contracts, which encode a financial transaction between possibly distrusting parties using a distributed consensus protocol.  Although smart contracts bear the potential to benefit society quite fundamentally (e.g., equalize access to financial infrastructure, increase fairness), the benefits are shadowed by the existence of severe security vulnerabilities in deployed smart contracts and smart contract languages.  
+In the 2021 edition of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques. -->
 
 <!--    Contacts: Stephanie Balzer ([balzers@cs.cmu.edu](mailto:balzers@cs.cmu.edu)) and Anastasia Mavridou ([anastasia.mavridou@nasa.gov](mailto:anastasia.mavridou@nasa.gov)) -->
 
@@ -287,6 +289,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Robert Atkey (University of Strathclyde, UK)
 * Giorgio Audrito (University of Turin, Italy)
 * Stephanie Balzer (CMU, USA)
+* Maurice H. ter Beek (CNR-ISTI, Italy)
 * Simon Bliudze (Inria Lille - Nord Europe, France)
 * Laura Bocchi (University of Kent, UK)
 * Roberto Casadei (University of Bologna, Italy)
@@ -306,13 +309,13 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Larisa Safina (Inria - Lille Nord Europe, France)
 * Gwen Salaün (Université Grenoble Alpes, France)
 * Meng Sun (Peking University, China)
-* Carolyn Talcott (SRI International, California, USA)
 * Vasco T. Vasconcelos (University of Lisbon, Portugal)
+* Carolyn Talcott (SRI International, California, USA)
 * Silvia Lizeth Tapia Tarifa (University of Oslo, Norway)
 * Peter Thieman (Universität Freiburg, Germany)
 * Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal)
 * Tarmo Uustalu (Reykjavik University, Iceland)
-* Maurice H. ter Beek (CNR-ISTI, Italy)
+
  
  
 
