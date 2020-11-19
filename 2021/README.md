@@ -33,18 +33,12 @@ TBA
 * [FOCODILE 2020](https://www.discotec.org/2020/focodile) - Workshop on the Foundations of Consensus and Distributed Ledgers
 -->
 
-<!-- 
 ## Keynote Speakers
 
-* [Nathalie Bertrand](invited#nathalie-bertrand), INRIA Rennes Bretagne-Atlantique
-* [Cinzia Di Giusto](invited#cinzia-di-giusto), Université Côte d’Azur, CNRS
-* [Holger Hermanns](invited#holger-hermanns), Saarland University
-* [Peter Kriens](invited#peter-kriens), aQute & OSGi Alliance
-* [Karoliina Lehtinen](invited#karoliina-lehtinen), University of Liverpool
-* [Kenneth McMillan](invited#kenneth-mcmillan), Microsoft Research Lab Redmond
-* [Vassilis Zikas](invited#vassilis-zikas), University of Edinburgh  
+* [Mira Mezini](https://www.stg.tu-darmstadt.de/staff/mira_mezini/), Technical University of Darmstadt, DE
+* [Alexandra Silva](https://alexandrasilva.org/#/main.html), University College London, UK 
 
--->
+
 
 <!-- 
 ## IFIP Best Paper Award
