@@ -172,7 +172,7 @@ behaviour are of paramount importance.</p>
     </div>
     <div style="clear: both;"></div>
     <p>Contacts: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) 
-and Larisa Safina (<a href="larisa.safina@inria.fr">larisa.safina@inria.fr</a>).</p>
+and Larisa Safina (<a href="mailto:larisa.safina@inria.fr">larisa.safina@inria.fr</a>).</p>
   </li>
 
 
