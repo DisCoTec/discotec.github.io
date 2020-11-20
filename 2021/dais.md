@@ -60,8 +60,10 @@ All papers must be original, unpublished, and not submitted for publication else
 
 Contributions should be submitted electronically as PDF, using the Springer LNCS style to the conference submission website (<https://easychair.org/conferences/?conf=dais2021>). Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear. All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in the LNCS series. Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted.
 
-[//]: # (Special Issue)
-[//]: # (Selected papers from DAIS'21 will be invited to a special issue of a reputed journal (to be announced soon).
+<!---
+##Special Issue
+Selected papers from DAIS'21 will be invited to a special issue of a reputed journal (to be announced soon).
+--->
 
 ## Program committee chairs
 * Fabíola Greve (Universidade Federal da Bahia, Brazil)
@@ -122,7 +124,7 @@ Contributions should be submitted electronically as PDF, using the Springer LNCS
 
 ## More Information
 
-For additional information, please contact the Program Committee Co-chairs: <dais2020@easychair.org>
+For additional information, please contact the Program Committee Co-chairs: <dais2021@easychair.org>
 
 ## Sponsors & Supporters
 
