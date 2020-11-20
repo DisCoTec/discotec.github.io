@@ -1,15 +1,12 @@
 [![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2021/)
 
-# DAIS 2020 - 20th International Conference on Distributed Applications and Interoperable Systems
+# DAIS 2021 - 20th International Conference on Distributed Applications and Interoperable Systems
 
-DAIS 2020 is one of the three conferences of [DisCoTec 2020](https://www.discotec.org/2020/).
+DAIS 2021 is one of the three conferences of [DisCoTec 2021](https://www.discotec.org/2021/).
 
 ## Keynote Speakers
 
-* Nathalie Bertrand, INRIA Rennes Bretagne-Atlantique
-* Holger Hermanns, Saarland University
-* Peter Kriens, aQute & OSGi Alliance
-* Ken McMillan, Microsoft Research, Redmond
+* To be announced 
 
 
 # Scope
@@ -51,26 +48,32 @@ System issues and design goals, including
 * tail-performance and energy-efficiency.
 
 ## Submission dates
-See the [DisCoTec submission dates](https://www.discotec.org/2020/#important-dates).
+See the [DisCoTec submission dates](https://www.discotec.org/2021/#important-dates).
 
 ## Submission and Publication
 
-All papers must be original, unpublished, and not submitted for publication elsewhere. DAIS 2019 offers three submission tracks:
+All papers must be original, unpublished, and not submitted for publication elsewhere. DAIS 2021 offers three submission tracks:
 
 * Full research papers in no more than 15 pages + 2 pages references.
 * Full practical experience reports, including experimental and evaluation studies, case studies, and practice reports in no more than 15 pages + 2 pages references.
 * Work-in-progress papers, describing ongoing work and interim results, in no more than 6 pages + 2 pages references.
 
-Contributions should be submitted electronically as PDF, using the Springer LNCS style to the conference submission website (<https://easychair.org/conferences/?conf=dais2020>). Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear. All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in the LNCS series. Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted.
+Contributions should be submitted electronically as PDF, using the Springer LNCS style to the conference submission website (<https://easychair.org/conferences/?conf=dais2021>). Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear. All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in the LNCS series. Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted.
 
-## Special Issue
-Selected papers from DAIS'20 will be invited to a special issue of a reputed journal (to be announced soon).
+<!---
+##Special Issue
+Selected papers from DAIS'21 will be invited to a special issue of a reputed journal (to be announced soon).
+--->
 
 ## Program committee chairs
-* Anne Remke (University of Münster, Germany)
-* Valerio Schiavoni (University of Neuchâtel, Switzerland)
+* Fabíola Greve (Universidade Federal da Bahia, Brazil)
+* Miguel Matos (University of Lisbon & INESC-ID, Portugal)
 
 ## Program committee
+* To be Announced
+
+<!---
+
 * Pierre-Louis Aublin, Keio University, Japan
 * Sonia Ben Mokhtar, LIRIS CNRS, France
 * Sara Bouchenak, INSA Lyon, France
@@ -103,6 +106,10 @@ Selected papers from DAIS'20 will be invited to a special issue of a reputed jou
 
 
 
+---> 
+
+
+
 
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands
@@ -117,7 +124,7 @@ Selected papers from DAIS'20 will be invited to a special issue of a reputed jou
 
 ## More Information
 
-For additional information, please contact the Program Committee Co-chairs: <dais2020@easychair.org>
+For additional information, please contact the Program Committee Co-chairs: <dais2021@easychair.org>
 
 ## Sponsors & Supporters
 
