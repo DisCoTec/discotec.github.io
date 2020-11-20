@@ -268,7 +268,7 @@ according to the quality and number of the submission,
 we will organise special issues of extended and selected Full/Short/Survey/Tool papers 
 in reputable journals such as LMCS and SCP.
 
-Special issues for last year’s edition are under preparation and we will advertise them here.
+Special issues for last year's edition are under preparation (we will advertise them here).
 
 <!--
 ### Special Issues
