@@ -345,7 +345,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Jose Proença, University of Minho, Portugal
 * Rosario Pugliese, Università di Firenze, Italy
 * Hanne Riis Nielson, DTU, Denmark
-* Marjan Sirjani, Reykjavik University, Iceland
+* Marjan Sirjani, Mälardalen University, Sweden
 * Carolyn Talcott, SRI International, California, USA
 * Emilio Tuosto, University of Leicester, UK & Gran Sasso Science Institute, Italy
 * Vasco T. Vasconcelos, University of Lisbon, Portugal
