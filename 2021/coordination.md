@@ -305,7 +305,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Elisa Gonzalez Boix (Vrije Universiteit Brussel, Belgium)
 * Omar Inverso (Gran Sasso Science Institute, Italy)
 * Jean-Marie Jacquet (University of Namur, Belgium)
-* Eva Kühn (Vienna University of Technology, Austria)
+* eva Kühn (Vienna University of Technology, Austria)
 * Ivan Lanese (University of Bologna, Italy)
 * Alberto Lluch Lafuente (DTU, Denmark)
 * Michele Loreti (University of Camerino, Italy)
@@ -338,7 +338,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Tom Holvoet (KU Leuven, Belgium)
 * Jean-Marie Jacquet (University of Namur, Belgium)
 * Christine Julien (The University of Texas at Austin, USA)
-* Eva Kühn (Vienna University of Technology, Austria)
+* eva Kühn (Vienna University of Technology, Austria)
 * Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
 * Michele Loreti (University of Camerino, Italy)
 * Mieke Massink (ISTI CNR, Italy) - Chair
