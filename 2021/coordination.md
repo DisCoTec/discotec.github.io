@@ -299,7 +299,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Maurice H. ter Beek (CNR-ISTI, Italy)
 * Simon Bliudze (Inria Lille - Nord Europe, France)
 * Laura Bocchi (University of Kent, UK)
-* Roberto Casadei (University of Bologna, Italy)
+* Roberto Casadei (Alma Mater Studiorum - Università di Bologna, Italy)
 * Vashti Galpin (University of Edinburgh, UK)
 * Fatemeh Ghassemi (University of Tehran, Iran)
 * Elisa Gonzalez Boix (Vrije Universiteit Brussel, Belgium)
@@ -328,29 +328,29 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 
 ## Steering committee
-* Gul Agha, University of Illinois at Urbana Champaign, USA
-* Farhad Arbab, CWI and Leiden University, The Netherlands
-* Simon Bliudze - Inria Lille - Nord Europe, France
-* Laura Bocchi - University of Kent, UK
-* Wolfgang De Meuter, Vrije Universiteit Brussels, Belgium
-* Rocco De Nicola, IMT - School for Advanced Studies, Italy
-* Giovanna di Marzo Serugendo, Université de Genève, Switzerland
-* Tom Holvoet, KU Leuven, Belgium
-* Jean-Marie Jacquet, University of Namur, Belgium
-* Christine Julien, The University of Texas at Austin, USA
-* Eva Kühn, Vienna University of Technology, Austria
-* Alberto Lluch Lafuente, Technical University of Denmark, Denmark
-* Michele Loreti, University of Camerino, Italy
-* Mieke Massink, ISTI CNR, Italy (Chair)
-* Jose Proença, University of Minho, Portugal
+* Gul Agha (University of Illinois at Urbana Champaign, USA)
+* Farhad Arbab (CWI and Leiden University, The Netherlands)
+* Simon Bliudze (Inria Lille - Nord Europe, France)
+* Laura Bocchi (University of Kent, UK)
+* Wolfgang De Meuter (Vrije Universiteit Brussels, Belgium)
+* Rocco De Nicola (IMT - School for Advanced Studies, Italy)
+* Giovanna di Marzo Serugendo (Université de Genève, Switzerland)
+* Tom Holvoet (KU Leuven, Belgium)
+* Jean-Marie Jacquet (University of Namur, Belgium)
+* Christine Julien (The University of Texas at Austin, USA)
+* Eva Kühn (Vienna University of Technology, Austria)
+* Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
+* Michele Loreti (University of Camerino, Italy)
+* Mieke Massink (ISTI CNR, Italy) - Chair
+* José Proença (CISTER, ISEP, Portugal)
 * Rosario Pugliese, Università di Firenze, Italy
 * Hanne Riis Nielson, DTU, Denmark
-* Marjan Sirjani, Mälardalen University, Sweden
-* Carolyn Talcott, SRI International, California, USA
-* Emilio Tuosto, University of Leicester, UK & Gran Sasso Science Institute, Italy
-* Vasco T. Vasconcelos, University of Lisbon, Portugal
-* Mirko Viroli, University of Bologna, Italy
-* Gianluigi Zavattaro, University of Bologna, Italy
+* Marjan Sirjani (Mälardalen University, Sweden)
+* Carolyn Talcott (SRI International, California, USA)
+* Emilio Tuosto (Gran Sasso Science Institute, Italy)
+* Vasco T. Vasconcelos (University of Lisbon, Portugal)
+* Mirko Viroli (Alma Mater Studiorum - Università di Bologna, Italy)
+* Gianluigi Zavattaro (Alma Mater Studiorum - Università di Bologna, Italy)
 
 ## Sponsors & Supporters
 
