@@ -333,7 +333,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Simon Bliudze (Inria Lille - Nord Europe, France)
 * Laura Bocchi (University of Kent, UK)
 * Wolfgang De Meuter (Vrije Universiteit Brussels, Belgium)
-* Rocco De Nicola (IMT - School for Advanced Studies, Italy)
+* Rocco De Nicola (IMT - School for Advanced Studies Lucca, Italy)
 * Giovanna di Marzo Serugendo (Université de Genève, Switzerland)
 * Tom Holvoet (KU Leuven, Belgium)
 * Jean-Marie Jacquet (University of Namur, Belgium)
