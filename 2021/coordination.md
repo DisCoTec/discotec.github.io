@@ -118,7 +118,7 @@ release of software/products.
 
 <br>
 
-Given the relevance of the topic to industry and aligned with the main topics of COORDINATION, 
+Moreover, given the relevance of the topic to industry and aligned with the main topics of COORDINATION, 
 we encourage submissions of efforts carried out in collaboration with industry, 
 including case studies.</p>
 
