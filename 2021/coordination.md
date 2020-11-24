@@ -114,11 +114,17 @@ of the software development process, including the management of configurable sy
 In this special topic, we welcome submissions addressing novel techniques and methodologies 
 for the COORDINATION of automatic configuration tasks or for the COORDINATION 
 of the various phases from development to deployment supporting the continuous 
-release of software/products. 
-Given the relevance of the topic to industry and aligned with the main topics of COORDINATION, 
-we encourage submissions of industry-led efforts, including case studies.</p>
+release of software/products.
 
-    <p>Contacts: Maurice ter Beek (<a href="mailto:maurice.terbeek@isti.cnr.it">maurice.terbeek@isti.cnr.it</a>) and Hugo Torres Vieira (<a href="mailto:hugo.torres.vieira@ubi.pt">hugo.torres.vieira@ubi.pt</a>)</p>
+<br>
+
+Given the relevance of the topic to industry and aligned with the main topics of COORDINATION, 
+we encourage submissions of efforts carried out in collaboration with industry, 
+including case studies.</p>
+
+    <p>Contacts: 
+Maurice ter Beek (<a href="mailto:maurice.terbeek@isti.cnr.it">maurice.terbeek@isti.cnr.it</a>) 
+and Hugo Torres Vieira (<a href="mailto:hugo.torres.vieira@ubi.pt">hugo.torres.vieira@ubi.pt</a>)</p>
   </li>
 
 
