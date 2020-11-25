@@ -6,7 +6,9 @@ DAIS 2021 is one of the three conferences of [DisCoTec 2021](https://www.discote
 
 ## Keynote Speakers
 
-* To be announced 
+* [Gilles Fedak](https://fr.linkedin.com/in/gilles-fedak-4a303a5b), iExec, FR
+* [Mira Mezini](https://www.stg.tu-darmstadt.de/staff/mira_mezini/), Technical University of Darmstadt, DE
+* [Alexandra Silva](https://alexandrasilva.org/#/main.html), University College London, UK 
 
 
 # Scope
