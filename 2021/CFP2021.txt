@@ -25,7 +25,7 @@ DisCoTec 2021 is one of the major events sponsored by the International Federati
  
   - DAIS (https://www.discotec.org/2021/dais)
     21st International Conference on Distributed Applications and Interoperable Systems
-    PC Chairs: Fabíola Greve (Federal University of Bahia, BR) and Miguel Matos (Inesc ID Lisboa, PT)
+    PC Chairs: Fabíola Greve (Federal University of Bahia, BR) and Miguel Matos (University of Lisboa & INESC-ID, PT)
 
  
   - FORTE (https://www.discotec.org/2021/forte)

@@ -69,7 +69,7 @@ Selected papers from DAIS'21 will be invited to a special issue of a reputed jou
 
 ## Program committee chairs
 * Fabíola Greve (Universidade Federal da Bahia, Brazil)
-* Miguel Matos (University of Lisbon & INESC-ID, Portugal)
+* Miguel Matos (University of Lisboa & INESC-ID, Portugal)
 
 ## Program committee
 * To be Announced
