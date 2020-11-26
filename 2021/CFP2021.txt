@@ -90,12 +90,12 @@ Authors are invited to submit their contributions electronically in PDF using a 
  
 Contributions must be written in English and report on original, unpublished work that has not been submitted for publication elsewhere (cf. IFIP's Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). The submissions — prepared using Springer’s LNCS style — must not exceed the total page limit, including figures and references. Submissions not adhering to the above-specified constraints may be rejected without review.
   
-For each accepted paper, one of the authors must register to DisCoTec 2021 and attend the corresponding conference to present the paper.
+For each accepted paper, one of the authors must register to DisCoTec 2021, and attend the corresponding conference to present the paper.
  
 
 * Satellite Events *
  
-DisCoTec features also workshops, tutorials and a tool track. Workshops, tutorials and tools demonstrations should fall in the areas of the DisCoTec conferences. For more information refer to the website: http://www.discotec.org/2021#satellite-events 
+DisCoTec also features workshops, tutorials, and a tool track. Workshops, tutorials, and tools demonstrations should fall in the areas of the DisCoTec conferences. For more information refer to the website: http://www.discotec.org/2021#satellite-events 
  
 
 * Organising Committee *
@@ -114,7 +114,7 @@ DisCoTec features also workshops, tutorials and a tool track. Workshops, tutoria
   - Pascal Felber (University of Neuchâtel, CH)
   - Adrian Francalanza (University of Malta, MT)
   - Kurt Geihs (University of Kasel, DE)
-  - Alberto Lluch Lafuente (Technical University of Denmark (DTU), DK)
+  - Alberto Lluch Lafuente (Technical University of Denmark, DK)
   - Kostas Magoutis (ICS-FORTH, GR)
   - Elie Najm (Telecom Paris Tech, FR)
   - Manuel Núñez (Universidad Complutense de Madrid, ES)
