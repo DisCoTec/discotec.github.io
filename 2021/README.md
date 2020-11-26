@@ -99,9 +99,9 @@ Go to the [DisCoTec2020 Slack workspace](https://join.slack.com/t/discotec2020/s
 ## Organising Committee
 * [Adrian Francalanza][AdrianWeb] (University of Malta, MT — General Chair)
 * Caroline Caruana (University of Malta, MT — Publicity Chair)
-* [Jasmine Xuereb][KikoWeb] (University of Malta, MT — Publicity Chair)
+* [Jasmine Xuereb][JasmineWeb] (University of Malta, MT — Publicity Chair)
 * [Duncan Attard][DuncanWeb] (University of Malta, MT — Workshops Chair)
-* [Christian Bartolo Burlo][OrnelaWeb] (Gran Sasso Science Institute, IT — Workshops Chair)
+* [Christian Bartolo Burlo][ChristianWeb] (Gran Sasso Science Institute, IT — Workshops Chair)
 * Lucienne Bugeja (University of Malta, MT — Logistics)
 
 [AdrianWeb]: http://staff.um.edu.mt/afra1/
