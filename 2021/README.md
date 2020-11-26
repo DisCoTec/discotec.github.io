@@ -3,7 +3,9 @@
 
 # DisCoTec 2021 - 16th International Federated Conference on Distributed Computing Techniques
 
-[DisCoTec](https://www.discotec.org) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)). It gathers conferences and workshops covering a broad spectrum of distributed computing subjects, from theoretical foundations and formal description techniques, to systems research issues. DisCoTec 2021 will take place at the [University of Malta](http://www.um.edu.mt), [Valletta](https://www.um.edu.mt/campuses/valletta), in June 14-18, 2021.  
+[DisCoTec](https://www.discotec.org) 2021 is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)) and the European Association for Programming Languages and Systems ([EAPLS](https://eapls.org)). It gathers conferences and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+
+DisCoTec 2021 will take place at the [University of Malta](http://www.um.edu.mt), [Valletta](https://www.um.edu.mt/campuses/valletta), between June 14-18, 2021.
 
 <!-- Due to the current COVID-19 developments, the conference is still hosted by the [University of Malta](http://www.um.edu.mt) but it will be held **online**.  Instead of physical meeting/presentations, the authors of accepted papers have recorded their talks to discuss them with the conference participants online.  -->
 
@@ -12,7 +14,7 @@
 
 
 ## Conferences
-* [Coordination 2021](https://www.discotec.org/2021/coordination) - International Conference on Coordination Models and Languages
+* [COORDINATION 2021](https://www.discotec.org/2021/coordination) - International Conference on Coordination Models and Languages
 * [DAIS 2021](https://www.discotec.org/2021/dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2021](https://www.discotec.org/2021/forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
@@ -20,12 +22,12 @@
 
 TBA
 
-## Important dates
+## Important Dates
 
-* February 3, 2021 - abstract submission 
-* February 12, 2021 - paper submission 
-* April 9, 2021 - notification
-* April 23, 2021 - camera ready
+* February 3, 2021 - Abstract submission 
+* February 12, 2021 - Paper submission 
+* April 9, 2021 - Notification of accepted papers
+* April 23, 2021 - Camera-ready papers
 
 <!-- 
 * [DisCoTec Tools](https://www.discotec.org/2020/tutorials) - Tutorial Sessions 
