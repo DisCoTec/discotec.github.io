@@ -1,4 +1,4 @@
- [Apologies for multiple postings]
+[Apologies for multiple postings]
  
 ************************************************************************
  
@@ -14,14 +14,14 @@
    
 ************************************************************************
  
-DisCoTec 2021 is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS). It gathers conferences and workshops that cover a broad spectrum of distributed computing subjects, from theoretical foundations and formal description techniques, testing and verification methods, as well as language design and system implementation approaches. 
+DisCoTec 2021 is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS). It gathers conferences and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches. 
 
  
 * Main Conferences *
  
   - COORDINATION (https://www.discotec.org/2021/coordination)
     23rd International Conference on Coordination Models and Languages
-    PC Chairs: Ferruccio Damiani (University of Turin, Italy) and Ornela Dardha (University of Glasgow, UK)
+    PC Chairs: Ferruccio Damiani (University of Turin, IT) and Ornela Dardha (University of Glasgow, UK)
  
   - DAIS (https://www.discotec.org/2021/dais)
     21st International Conference on Distributed Applications and Interoperable Systems
@@ -35,32 +35,32 @@ DisCoTec 2021 is one of the major events sponsored by the International Federati
  
 * Important Dates (for all main conferences) *
  
-  - February 3, 2021: Submission of abstract
-  - February 12, 2021: Submission of papers
+  - February 3, 2021: Abstract submission
+  - February 12, 2021: Paper submission
   - April 9, 2021: Notification of accepted papers
-  - April 23, 2021:  Camera ready
+  - April 23, 2021:  Camera ready papers
   - June 14-18, 2021: Conferences and Workshops
  
 
 * Keynote Speakers *
   
-  - Gilles Fedak, iExec, FR
-  - Mira Mezini, Technical University of Darmstadt, DE
-  - Alexandra Silva, University College London, UK
+  - Gilles Fedak (iExec, FR)
+  - Mira Mezini (Technical University of Darmstadt, DE)
+  - Alexandra Silva (University College London, UK)
  
 
 * Submission Categories *
  
 COORDINATION
 
-  - Full papers (up to 15 pages + 2 pages references), 
-  - Short papers (up to 6 pages + 2 pages references),
-  - Survey papers (up to 25 pages + 2 pages references),
-  - Tool papers (up to 6 pages + 2 pages references + 10min demo video).
+  - Full papers (up to 15 pages + 2 pages references)
+  - Short papers (up to 6 pages + 2 pages references)
+  - Survey papers (up to 25 pages + 2 pages references)
+  - Tool papers (up to 6 pages + 2 pages references + 10 minute demo video)
  
 DAIS
 
-  - Full papers (up to 15 pages + 2 pages references).
+  - Full papers (up to 15 pages + 2 pages references)
   - Full practical experience reports (up to 15 pages + 2 pages references)
   - Work-in-progress (up to 6 pages + 2 pages references)
  
@@ -88,14 +88,14 @@ Authors are invited to submit their contributions electronically in PDF using a 
   - https://easychair.org/conferences/?conf=forte21
   - https://easychair.org/conferences/?conf=coordination2021
  
-Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP's Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). The submissions must not exceed the total page number limit, including figures and references, prepared using Springer’s LNCS style. Submissions not adhering to the above-specified constraints may be rejected without review.
+Contributions must be written in English and report on original, unpublished work that has not been submitted for publication elsewhere (cf. IFIP's Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). The submissions — prepared using Springer’s LNCS style — must not exceed the total page limit, including figures and references. Submissions not adhering to the above-specified constraints may be rejected without review.
   
 For each accepted paper, one of the authors must register to DisCoTec 2021 and attend the corresponding conference to present the paper.
  
 
 * Satellite Events *
  
-DisCoTec features also workshops, tutorials and a tool track. Workshops, tutorials and tools demonstrations should fall in the areas of the DisCoTec conferences. For more information, check the website: http://www.discotec.org/2021#satellite-events 
+DisCoTec features also workshops, tutorials and a tool track. Workshops, tutorials and tools demonstrations should fall in the areas of the DisCoTec conferences. For more information refer to the website: http://www.discotec.org/2021#satellite-events 
  
 
 * Organising Committee *
@@ -103,7 +103,7 @@ DisCoTec features also workshops, tutorials and a tool track. Workshops, tutoria
   - Adrian Francalanza (University of Malta, MT — General Chair)
   - Caroline Caruana (University of Malta, MT — Publicity Chair)
   - Jasmine Xuereb (University of Malta, MT — Publicity Chair)
-  - Duncan Attard (University of Malta, MT — Workshops Chair)
+  - Duncan Paul Attard (University of Malta, MT — Workshops Chair)
   - Christian Bartolo Burlo (Gran Sasso Science Institute, IT — Workshops Chair)
   - Lucienne Bugeja (University of Malta, MT — Logistics)
 
@@ -116,24 +116,12 @@ DisCoTec features also workshops, tutorials and a tool track. Workshops, tutoria
   - Kurt Geihs (University of Kasel, DE)
   - Alberto Lluch Lafuente (Technical University of Denmark (DTU), DK)
   - Kostas Magoutis (ICS-FORTH, GR)
-  - Elie Najm (Telecom Paris Tech, FR — Chair)
+  - Elie Najm (Telecom Paris Tech, FR)
   - Manuel Núñez (Universidad Complutense de Madrid, ES)
   - Rui Oliveira (University of Minho, PT)
   - Jean-Bernard Stefani (INRIA Grenoble, FR)
-  - Gianluigi Zavattaro (University of Bologna, IT)
-
- 
-* Advisory Board *
- 
-  - Alain Girault (INRIA Grenoble, FR)
-  - Uwe Nestmann (TU Berlin, DE)
-  - Michele Loreti (University of Camerino, IT)
-  - Jim Dowling (RISE & KTH, SE)
-  - Marjan Sirjani (University of Malarden, SE)
-  - Frank de Boer (Centrum Wiskunde & Informatica (CWI), NL)
-  - Farhad Arbab (Centrum Wiskunde & Informatica (CWI), NL)
-  - Lea Kutvonen (University of Helsinki, FI)
-  - John Derrick (University of Sheffield, UK)
+  - Gianluigi Zavattaro (University of Bologna, IT — Chair)
 
  
 To receive live, up to date information, follow us on Twitter: https://twitter.com/DisCoTecConf
+
