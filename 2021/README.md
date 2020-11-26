@@ -109,6 +109,8 @@ Go to the [DisCoTec2020 Slack workspace](https://join.slack.com/t/discotec2020/s
 [KikoWeb]: https://www.plresearcher.com
 [OrnelaWeb]: http://www.dcs.gla.ac.uk/~ornela/
 [DuncanWeb]: https://github.com/duncanatt
+[JasmineWeb]: https://github.com/jasmine97xuereb
+[ChristianWeb]: https://github.com/chrisbartoloburlo
 [FerruccioWeb]: http://www.di.unito.it/~damiani/
 [MiguelWeb]: https://www.gsd.inesc-id.pt/~mm/
 [FabiolaWeb]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4723012U6
