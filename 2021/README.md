@@ -84,7 +84,7 @@ Go to the [DisCoTec2020 Slack workspace](https://join.slack.com/t/discotec2020/s
 
 ### DAIS Program Committee Chairs
 * [Fabíola Greve][FabiolaWeb] (Federal University of Bahia, BR)
-* [Miguel Matos][MiguelWeb] (Inesc ID Lisboa, PT)
+* [Miguel Matos][MiguelWeb] (University of Lisboa & INESC-ID, PT)
 
 ### FORTE Program Committee Chairs
 * [Kirstin Peters][KirstinWeb] (Technical University of Darmstadt, DE)
