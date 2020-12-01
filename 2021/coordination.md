@@ -367,6 +367,9 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <a href="https://eapls.org">
 <img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" width="350px">
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
+<a href="https://microservices.community/e/discotec2020/">
+  <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
 </a>
 
 
