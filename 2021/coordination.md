@@ -271,7 +271,7 @@ The conference proceedings, formed by accepted submissions will be published by 
 Following the tradition of previous editions of COORDINATION, 
 according to the quality and number of the submission, 
 we will organise special issues of extended and selected Full/Short/Survey/Tool papers 
-in reputable journals such as LMCS and SCP.
+in reputable journals such as Logical Methods in Computer Science and Science of Computer Programming.
 
 Special issues for last year's edition are under preparation (we will advertise them here).
 
@@ -357,6 +357,8 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Mirko Viroli (Alma Mater Studiorum - Università di Bologna, Italy)
 * Gianluigi Zavattaro (Alma Mater Studiorum - Università di Bologna, Italy)
 
+<!--
+
 ## Sponsors & Supporters
 
 <a href="https://www.ifip.org">
@@ -367,8 +369,8 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 <img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" width="350px">
 </a>
 
+-->
 
-<!--
 
 ## Sponsors & Supporters
 
@@ -382,7 +384,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
   <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
 </a>
 
--->
+
 
 <script>
   function microservices_community_events(data) {
