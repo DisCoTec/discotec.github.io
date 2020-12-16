@@ -282,7 +282,12 @@ according to the quality and number of the submission,
 we will organise special issues of extended and selected Full/Short/Survey/Tool papers 
 in reputable journals such as Logical Methods in Computer Science and Science of Computer Programming.
 
+[The special issue for COORDINATION 2019 has already been published 
+in Logical Methods in Computer Science (LMCS).](https://lmcs.episciences.org/volume/view/id/377) 
+
+<!--
 Special issues for last year's edition are under preparation (we will advertise them here).
+-->
 
 <!--
 ### Special Issues
