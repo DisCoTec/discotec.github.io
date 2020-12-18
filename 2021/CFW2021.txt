@@ -1,0 +1,98 @@
+************************************************************************
+
+ Call for Satellite Events: Workshops, Tutorials and Tool Tracks
+
+ 16th International Federated Conference on Distributed Computing Techniques
+ 
+ DisCoTec 2021
+ 
+ Valletta, Malta, 14-18 June 2021
+ 
+ https://www.discotec.org/2021
+
+************************************************************************
+
+DisCoTec 2021 is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS). It gathers conferences and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+
+
+* Main Conferences *
+ 
+  - COORDINATION (https://www.discotec.org/2021/coordination)
+    23rd International Conference on Coordination Models and Languages
+    PC Chairs: Ferruccio Damiani (University of Turin, IT) and Ornela Dardha (University of Glasgow, UK)
+ 
+  - DAIS (https://www.discotec.org/2021/dais)
+    21st International Conference on Distributed Applications and Interoperable Systems
+    PC Chairs: Fabíola Greve (Federal University of Bahia, BR) and Miguel Matos (University of Lisboa & INESC-ID, PT)
+
+  - FORTE (https://www.discotec.org/2021/forte)
+    41st International Conference on Formal Techniques for Distributed Objects, Components and Systems
+    PC Chairs: Kirstin Peters (Technical University of Darmstadt, DE) and Tim Willemse (Eindhoven University of Technology, NL)
+
+
+* Workshops *
+
+The DisCoTec 2021 organising committee invites proposals for workshops to complement the three main conferences. These workshops should fall in the areas of the DisCoTec conferences. The aim is to provide a vivid and open forum for discussions, presentations of preliminary research results and ongoing work, as well as presentations of research work to a focused audience.
+
+The workshops will be held in conjunction with the main events. Prospective workshop organisers should contact the workshops chairs and provide the following information:
+  - contact information of the organisers
+  - name of the satellite event
+  - number of participants (expected)
+  - brief description of the topic of the event (max. 500 words)
+  - any other relevant information (e.g., invited speakers)
+  - duration of the workshop and dates (14-18 June), in order of preference
+
+Important dates (for all workshops):
+  - January 10, 2020: Workshop proposal submission deadline
+  - January 31, 2020: Notification of accepted workshop proposals
+  - Mid April 2020: Workshop paper submission deadline
+  - Mid May 2020: Notification of accepted workshop papers
+  - June 14-18, 2021: Conferences and workshops
+
+The submission and notification deadlines of the workshops are at the discretion of the individual workshop organisers. However, the notification must be no later than the early registration deadline for DisCoTec 2021 (to be announced).
+
+
+* Tutorials *
+
+The DisCoTec 2021 organising committee invites proposals for tutorials on topics related to those of the three main conferences of DisCoTec. 
+
+The tutorials will be held in conjunction with the main events. Prospective speakers should contact the workshops chairs and provide the following information:
+  - contact information of the speaker
+  - title of the tutorial
+  - abstract of the tutorial (max. 500 words)
+  - description of the tutorial (max. two A4 pages)
+  - duration of the tutorial and dates (14-18 June), in order of preference
+
+Important dates:
+  - April 10, 2020: Tutorial proposal submission deadline
+  - May 1, 2020: Notification of accepted tutorials
+  - June 14-18, 2021: Conferences and tutorials
+
+
+* Tool Track *
+
+The DisCoTec 2021 organising committee invites proposals for tool demonstrations on topics related to those of the three main conferences of DisCoTec. This call is open to anyone. However, authors of the papers accepted at DisCoTec are strongly encouraged to present the tool accompanying their publication. 
+
+The tool demos will be held in conjunction with the main events. Prospective speakers should contact the workshops chairs and provide the following information:
+  - contact information of the speaker
+  - title of the demo and tool
+  - brief description of the actual demo (max. three A4 pages)
+
+Important dates:
+  - April 24, 2020: Demo proposal submission deadline
+  - May 8, 2020: Notification of accepted demos
+  - June 14-18, 2021: Conferences and tool demos
+
+
+* DisCoTec 2021 Workshops Chairs *
+
+  - Duncan Paul Attard (University of Malta, MT)
+  - Christian Bartolo Burló (Gran Sasso Science Institute, IT)
+
+
+* Further Information *
+
+For further information please contact the workshops chairs at <discotec2021@easychair.org>.
+
+
+To receive live, up-to-date information, follow us on Twitter @DisCoTecConf.
