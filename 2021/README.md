@@ -24,9 +24,9 @@ TBA
 
 ## Important Dates
 
-* February 3, 2021 - Abstract submission 
-* February 12, 2021 - Paper submission 
-* April 9, 2021 - Notification of accepted papers
+* January 29, 2021 - Abstract submission 
+* February 5, 2021 - Paper submission 
+* April 2, 2021 - Notification of accepted papers
 * April 23, 2021 - Camera-ready papers
 
 <!-- 

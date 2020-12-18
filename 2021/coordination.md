@@ -228,7 +228,16 @@ In the 2021 edition of COORDINATION, we are soliciting contributions on new prog
 ### Tool papers
 
 
-We welcome tool papers that describe experience reports, technological artefacts and innovative prototypes (including engines, APIs, etc.), for coordinating, modelling, analysing, simulating or testing systems, as well as educational tools in the scope of the research topics of COORDINATION. In addition, we welcome submissions promoting the integration of existing tools relevant to the community. **Submissions to the tool track must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process.** Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process.
+We welcome tool papers that describe experience reports, technological artefacts and innovative prototypes 
+(including engines, APIs, etc.), for coordinating, modelling, analysing, simulating or testing systems, 
+as well as educational tools in the scope of the research topics of COORDINATION. 
+In addition, we welcome submissions promoting the integration of existing tools relevant to the community. 
+**Submissions to the tool track must include a tool paper and a link to a demo video that previews the potential tool presentation at the conference. 
+Both the tool paper and the video will be decisive criteria in the selection process.** 
+Authors of accepted contributions 
+will be able (and encouraged) to extend their tool paper to a (regular) full paper before appearance
+ in the conference proceedings, 
+which will be subject to a lightweight revision process.
 
 <!--We welcome tool papers that describe technological artefacts, including innovative prototypes, for modelling, analysing, simulating or testing systems in the scope of the research topics of COORDINATION. **Submissions must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process.** Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process. A dedicated special issue for accepted contributions is being planned.
 Tool papers presenting coordination APIs, allowing the broad community to easily utilise provided coordination mechanisms are particularly welcome. -->
@@ -271,9 +280,14 @@ The conference proceedings, formed by accepted submissions will be published by 
 Following the tradition of previous editions of COORDINATION, 
 according to the quality and number of the submission, 
 we will organise special issues of extended and selected Full/Short/Survey/Tool papers 
-in reputable journals such as LMCS and SCP.
+in reputable journals such as Logical Methods in Computer Science and Science of Computer Programming.
 
+[The special issue for COORDINATION 2019 has now been published 
+in Logical Methods in Computer Science (LMCS).](https://lmcs.episciences.org/volume/view/id/377) 
+
+<!--
 Special issues for last year's edition are under preparation (we will advertise them here).
+-->
 
 <!--
 ### Special Issues
@@ -357,6 +371,8 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Mirko Viroli (Alma Mater Studiorum - Università di Bologna, Italy)
 * Gianluigi Zavattaro (Alma Mater Studiorum - Università di Bologna, Italy)
 
+
+
 ## Sponsors & Supporters
 
 <a href="https://www.ifip.org">
@@ -365,7 +381,11 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <a href="https://eapls.org">
 <img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" width="350px">
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
+<a href="https://microservices.community/e/discotec2020/">
+  <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
 </a>
+
 
 
 <!--
@@ -383,6 +403,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 </a>
 
 -->
+
 
 <script>
   function microservices_community_events(data) {

@@ -1,6 +1,6 @@
 [![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2021/)
 
-# DAIS 2021 - 20th International Conference on Distributed Applications and Interoperable Systems
+# DAIS 2021 - 21st International Conference on Distributed Applications and Interoperable Systems
 
 DAIS 2021 is one of the three conferences of [DisCoTec 2021](https://www.discotec.org/2021/).
 
@@ -72,25 +72,18 @@ Selected papers from DAIS'21 will be invited to a special issue of a reputed jou
 * Miguel Matos (University of Lisboa & INESC-ID, Portugal)
 
 ## Program committee
-* To be Announced
 
-<!---
-
+* Eduardo	Alchieri, Universidade de Brasília, Brazil 
 * Pierre-Louis Aublin, Keio University, Japan
-* Sonia Ben Mokhtar, LIRIS CNRS, France
-* Sara Bouchenak, INSA Lyon, France
-* Antoine Boutet, INSA France
 * Silvia Bonomi, Università degli Studi di Roma "La Sapienza”, Italy
 * Damiano Di Francesco Maesa, University of Cambridge, UK
-* Davide Frey, INRIA France
+* Davide Frey, INRIA, France
 * Paula Herber, University of Münster, Germany
 * Mark Jelasity, University of Szeged, Hungary
 * Evangelia Kalyvianaki, University of Cambridge, UK
-* Vana Kalogeraki, Athens University of Economics and Business, Greece
-* Rüdiger Kapitza, Technical University of Braunschweig, Germany
+* Fábio	Kon, University of São Paulo
 * João Leitão, Universidade Nova de Lisboa, Portugal
 * Daniel Lucani, Aarhus University, Denmark
-* Miguel Matos, IST INESC-ID, University of Lisboa, Portugal
 * Kostas Magoutis, University of Ioannina, Greece
 * Claudio Antares Mezzina, University Urbino, Italy
 * Alberto Montresor, University of Trento, Italy
@@ -99,17 +92,10 @@ Selected papers from DAIS'21 will be invited to a special issue of a reputed jou
 * Marta Patino, Universidad Politecnica de Madrid, Spain
 * José Orlando Pereira, Universidade do Minho & INESC TEC, Portugal
 * Hans P. Reiser, University Passau, Germany
-* Etienne Riviére, Ecole Polytechnique de Louvain, Belgium
 * Romain Rouvoy, University of Lille 1, France
+* Valerio	Schiavoni, University of Neuchâtel, Switzerland
 * Pierre Sutra, Telecom SudParis, France
 * Spyros Voulgaris, Athens University of Economics and Business, Greece
-
-
-
-
-
----> 
-
 
 
 
