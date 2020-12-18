@@ -26,20 +26,18 @@ DisCoTec 2021 is one of the major events sponsored by the International Federati
   - DAIS (https://www.discotec.org/2021/dais)
     21st International Conference on Distributed Applications and Interoperable Systems
     PC Chairs: Fabíola Greve (Federal University of Bahia, BR) and Miguel Matos (University of Lisboa & INESC-ID, PT)
-
  
   - FORTE (https://www.discotec.org/2021/forte)
     41st International Conference on Formal Techniques for Distributed Objects, Components and Systems
     PC Chairs: Kirstin Peters (Technical University of Darmstadt, DE) and Tim Willemse (Eindhoven University of Technology, NL)
 
+Important dates (for all main conferences):
  
-* Important Dates (for all main conferences) *
- 
-  - February 3, 2021: Abstract submission
-  - February 12, 2021: Paper submission
-  - April 9, 2021: Notification of accepted papers
-  - April 23, 2021:  Camera-ready papers
-  - June 14-18, 2021: Conferences and Workshops
+  - January 29, 2021: Abstract submission deadline
+  - February 5, 2021: Paper submission deadline
+  - April 2, 2021: Notification of accepted papers
+  - April 23, 2021:  Camera-ready papers deadline
+  - June 14-18, 2021: Conferences and workshops
  
 
 * Keynote Speakers *
@@ -73,12 +71,12 @@ FORTE
  
 * Proceedings *
  
-The proceedings of DisCoTec 2021 main conferences will be published in Springer's LNCS-IFIP volumes.
+The proceedings of the DisCoTec 2021 main conferences will be published in Springer's LNCS-IFIP volumes.
  
 
 * Special issue *
  
-The individual conferences will organise special issues of extended and selected papers in a reputable journal such as Logical Methods in Computer Science and the Journal of Parallel and Distributed Computing. More information is available at the conference website.
+The individual conferences will organise special issues of extended and selected papers in a reputable journal such as Logical Methods in Computer Science and the Journal of Parallel and Distributed Computing. More information is available on the conference website.
  
 
 * Submission Instructions *
@@ -104,7 +102,7 @@ DisCoTec also features workshops, tutorials, and a tool track. Workshops, tutori
   - Caroline Caruana (University of Malta, MT — Publicity Chair)
   - Jasmine Xuereb (University of Malta, MT — Publicity Chair)
   - Duncan Paul Attard (University of Malta, MT — Workshops Chair)
-  - Christian Bartolo Burlo (Gran Sasso Science Institute, IT — Workshops Chair)
+  - Christian Bartolo Burló (Gran Sasso Science Institute, IT — Workshops Chair)
   - Lucienne Bugeja (University of Malta, MT — Logistics)
 
 
@@ -123,5 +121,5 @@ DisCoTec also features workshops, tutorials, and a tool track. Workshops, tutori
   - Gianluigi Zavattaro (University of Bologna, IT — Chair)
 
  
-To receive live, up to date information, follow us on Twitter: https://twitter.com/DisCoTecConf
+To receive live, up-to-date information, follow us on Twitter @DisCoTecConf.
 
