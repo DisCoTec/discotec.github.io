@@ -36,8 +36,8 @@ The DisCoTec 2021 organising committee invites proposals for workshops to comple
 
 The workshops will be held in conjunction with the main events. Prospective workshop chairs should contact the organisers and provide the following information:
   - contact information of the workshop chairs
-  - name of the satellite event
-  - number of participants (expected)
+  - name of the workshop
+  - number of (expected) participants
   - brief description of the topic of the event (max. 500 words)
   - any other relevant information (e.g., invited speakers)
   

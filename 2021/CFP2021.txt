@@ -81,7 +81,7 @@ The individual conferences will organise special issues of extended and selected
 
 * Submission Instructions *
  
-Authors are invited to submit their contributions electronically in PDF using a two-phase online submission process. The registration of the paper information and abstract (max. 250 words) must be completed before February 3, 2021. Submission of the manuscript is due by no later than February 12, 2021. Submissions are handled through the EasyChair conference management system:
+Authors are invited to submit their contributions electronically in PDF using a two-phase online submission process. The registration of the paper information and abstract (max. 250 words) must be completed before January 29, 2021. Submission of the manuscript is due by no later than February 5, 2021. Submissions are handled through the EasyChair conference management system:
   - https://easychair.org/conferences/?conf=dais2021
   - https://easychair.org/conferences/?conf=forte21
   - https://easychair.org/conferences/?conf=coordination2021
@@ -93,7 +93,7 @@ For each accepted paper, one of the authors must register to DisCoTec 2021, and 
 
 * Satellite Events *
  
-DisCoTec also features workshops, tutorials, and a tool track. Workshops, tutorials, and tools demonstrations should fall in the areas of the DisCoTec conferences. For more information refer to the website: http://www.discotec.org/2021#satellite-events 
+DisCoTec also features workshops, tutorials, and a tool track. Workshops, tutorials, and tools demonstrations should fall in the areas of the DisCoTec conferences. For more information refer to the website.
  
 
 * Organising Committee *
