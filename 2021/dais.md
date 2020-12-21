@@ -80,12 +80,14 @@ Selected papers from DAIS'21 will be invited to a special issue of a reputed jou
 * Davide Frey, INRIA, France
 * Paula Herber, University of Münster, Germany
 * Mark Jelasity, University of Szeged, Hungary
+* Vana Kalogeraki, Athens University of Economics and Business, Greece
 * Evangelia Kalyvianaki, University of Cambridge, UK
 * Fábio	Kon, University of São Paulo
 * João Leitão, Universidade Nova de Lisboa, Portugal
 * Daniel Lucani, Aarhus University, Denmark
 * Kostas Magoutis, University of Ioannina, Greece
 * Claudio Antares Mezzina, University Urbino, Italy
+* Hein	Meling, University of Stavanger, Norway
 * Alberto Montresor, University of Trento, Italy
 * Daniel O’Keeffe, Royal Holloway University of London, England
 * Emanuel Onica, Alexandru Ioan Cuza University of Iasi, Romania
