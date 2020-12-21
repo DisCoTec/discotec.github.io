@@ -32,24 +32,23 @@ DisCoTec 2021 is one of the major events sponsored by the International Federati
 
 * Workshops *
 
-The DisCoTec 2021 organising committee invites proposals for workshops to complement the three main conferences. These workshops should fall in the areas of the DisCoTec conferences. The aim is to provide a vivid and open forum for discussions, presentations of preliminary research results and ongoing work, as well as presentations of research work to a focused audience.
+The DisCoTec 2021 organising committee invites proposals for workshops to complement the three main conferences. The aim is to provide a vivid and open forum for discussions, presentations of preliminary research results and ongoing work, as well as presentations of research work to a focusssed audience.
 
-The workshops will be held in conjunction with the main events. Prospective workshop organisers should contact the workshops chairs and provide the following information:
-  - contact information of the organisers
+The workshops will be held in conjunction with the main events. Prospective workshop chairs should contact the organisers and provide the following information:
+  - contact information of the workshop chairs
   - name of the satellite event
   - number of participants (expected)
   - brief description of the topic of the event (max. 500 words)
   - any other relevant information (e.g., invited speakers)
-  - duration of the workshop and dates (14-18 June), in order of preference
-
+  
 Important dates (for all workshops):
-  - January 10, 2020: Workshop proposal submission deadline
-  - January 31, 2020: Notification of accepted workshop proposals
-  - Mid April 2020: Workshop paper submission deadline
-  - Mid May 2020: Notification of accepted workshop papers
+  - January 20, 2021: Workshop proposal submission deadline
+  - January 31, 2021: Notification of accepted workshop proposals
+  - Mid April 2021: Workshop paper submission deadline
+  - Mid May 2021: Notification of accepted workshop papers
   - June 14-18, 2021: Conferences and workshops
 
-The submission and notification deadlines of the workshops are at the discretion of the individual workshop organisers. However, the notification must be no later than the early registration deadline for DisCoTec 2021 (to be announced).
+The submission and notification deadlines of the workshops are at the discretion of the individual workshop chairs. However, the notification must be no later than the early registration deadline for DisCoTec 2021 (to be announced).
 
 
 * Tutorials *
@@ -84,7 +83,7 @@ Important dates:
   - June 14-18, 2021: Conferences and tool demos
 
 
-* DisCoTec 2021 Workshops Chairs *
+* DisCoTec 2021 Workshop Organisers *
 
   - Duncan Paul Attard (University of Malta, MT)
   - Christian Bartolo Burló (Gran Sasso Science Institute, IT)
