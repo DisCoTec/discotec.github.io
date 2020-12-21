@@ -32,7 +32,7 @@ DisCoTec 2021 is one of the major events sponsored by the International Federati
 
 * Workshops *
 
-The DisCoTec 2021 organising committee invites proposals for workshops to complement the three main conferences. The aim is to provide a vivid and open forum for discussions, presentations of preliminary research results and ongoing work, as well as presentations of research work to a focusssed audience.
+The DisCoTec 2021 organising committee invites proposals for workshops to complement the three main conferences. The aim is to provide a vivid and open forum for discussions, presentations of preliminary research results and ongoing work, as well as presentations of research work to a focussed audience.
 
 The workshops will be held in conjunction with the main events. Prospective workshop chairs should contact the organisers and provide the following information:
   - contact information of the workshop chairs
@@ -60,8 +60,7 @@ The tutorials will be held in conjunction with the main events. Prospective spea
   - title of the tutorial
   - abstract of the tutorial (max. 500 words)
   - description of the tutorial (max. two A4 pages)
-  - duration of the tutorial and dates (14-18 June), in order of preference
-
+  
 Important dates:
   - April 10, 2020: Tutorial proposal submission deadline
   - May 1, 2020: Notification of accepted tutorials
