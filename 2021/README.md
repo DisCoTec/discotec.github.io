@@ -9,25 +9,32 @@ DisCoTec 2021 will take place at the [University of Malta](http://www.um.edu.mt)
 
 <!-- Due to the current COVID-19 developments, the conference is still hosted by the [University of Malta](http://www.um.edu.mt) but it will be held **online**.  Instead of physical meeting/presentations, the authors of accepted papers have recorded their talks to discuss them with the conference participants online.  -->
 
-
-
-
-
 ## Conferences
 * [COORDINATION 2021](https://www.discotec.org/2021/coordination) - International Conference on Coordination Models and Languages
 * [DAIS 2021](https://www.discotec.org/2021/dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2021](https://www.discotec.org/2021/forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
-## Satellite Events
+### Important Dates
 
-TBA
-
-## Important Dates
-
-* January 29, 2021 - Abstract submission 
-* February 5, 2021 - Paper submission 
+* January 29, 2021 - Abstract submission deadline
+* February 5, 2021 - Paper submission deadline
 * April 2, 2021 - Notification of accepted papers
 * April 23, 2021 - Camera-ready papers
+
+<!--## Satellite Events-->
+
+## Workshops
+
+### Important Dates
+
+* January 20, 2021 - Workshop proposal submission deadline
+* January 31, 2021 - Notification of accepted workshop proposals
+* Mid April 2021 - Workshop paper submission deadline
+* Mid May 2021 - Notification of accepted workshop papers
+
+## Tutorials
+
+*TBD*
 
 <!-- 
 * [DisCoTec Tools](https://www.discotec.org/2020/tutorials) - Tutorial Sessions 
