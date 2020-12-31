@@ -105,12 +105,13 @@ Selected papers from DAIS'21 will be invited to a special issue of a reputed jou
 * Lydia Y. Chen, TU Delft, Netherlands
 * Frank Eliassen, University of Oslo, Norway
 * Rüdiger Kapitza, Technical University of Braunschweig, Germany
-* Rui Oliveira, University of Minho / INESC TEC, Portugal -- Chair
+* Rui Oliveira, University of Minho / INESC TEC, Portugal 
 * Hans P. Reiser, University of Passau, Germany
 * Laura Ricci, University of Pisa, Italy
 * Silvia Bonomi, Università degli Studi di Roma "La Sapienza”, Italy
 * Etienne Riviére, Ecole Polytechnique de Louvain, Belgium
 * Jose Pereira, University of Minho / INESC TEC, Portugal
+* Luís Veiga, INESC-ID, Universidade de Lisboa, Portugal -- Chair
 
 ## More Information
 
