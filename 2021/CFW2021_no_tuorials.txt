@@ -48,7 +48,7 @@ Important dates (for all workshops):
  - February 1, 2021: Notification of accepted workshop proposals
  - Mid April, 2021: Workshop paper submission deadline
  - Mid May, 2021: Notification of accepted workshop papers
- - June 18, 2021: Conferences and workshops
+ - June 18, 2021: Workshops
 
 The submission and notification deadlines of the workshops are at the discretion of the individual workshop chairs. However, the notification must be no later than the early registration deadline for DisCoTec 2021 (to be announced).
 
