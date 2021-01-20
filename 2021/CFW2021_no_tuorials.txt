@@ -1,6 +1,8 @@
+ERRATUM: Please note that the DisCoTec tutorials will be organised via a different selection process.
+
 ************************************************************************
 
-Call for Satellite Events: Workshops, Tutorials and Tool Tracks
+Call for Satellite Events: Workshops
 
 16th International Federated Conference on Distributed Computing Techniques
 
@@ -42,8 +44,8 @@ The workshops will be held in conjunction with the main events. Prospective work
  - any other relevant information (e.g., invited speakers)
 
 Important dates (for all workshops):
- - January 20, 2021: Workshop proposal submission deadline
- - January 31, 2021: Notification of accepted workshop proposals
+ - January 27, 2021: Workshop proposal submission deadline
+ - February 1, 2021: Notification of accepted workshop proposals
  - Mid April, 2021: Workshop paper submission deadline
  - Mid May, 2021: Notification of accepted workshop papers
  - June 18, 2021: Conferences and workshops
