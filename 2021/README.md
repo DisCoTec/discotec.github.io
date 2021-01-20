@@ -27,10 +27,10 @@ DisCoTec 2021 will take place at the [University of Malta](http://www.um.edu.mt)
 
 ### Important Dates
 
-* January 20, 2021 - Workshop proposal submission deadline
-* January 31, 2021 - Notification of accepted workshop proposals
-* Mid April 2021 - Workshop paper submission deadline
-* Mid May 2021 - Notification of accepted workshop papers
+* January 27, 2021 - Workshop proposal submission deadline
+* February 1, 2021 - Notification of accepted workshop proposals
+* Mid April, 2021 - Workshop paper submission deadline
+* Mid May, 2021 - Notification of accepted workshop papers
 
 ## Tutorials
 
