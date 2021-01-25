@@ -133,17 +133,17 @@ Valletta Malta VLT 1216.
 It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtoreachus). 
 
 ## Steering Committee
+* Gianluigi Zavattaro (University of Bologna, IT — Chair)
 * Rocco De Nicola (IMT Lucca, IT)
-* Pascal Felber (University of Neuchâtel, CH)
-* Adrian Francalanza (University of Malta, MT) 
 * Kurt Geihs (University of Kasel, DE)
-* Alberto Lluch Lafuente (Technical University of Denmark (DTU), DK)
-* Kostas Magoutis (ICS-FORTH, GR)
-* Elie Najm (Telecom Paris Tech, FR — Chair)
+* Elie Najm (Telecom Paris Tech, FR)
+* Mieke Massink (CNR-ISTI, IT)
+* Luís Veiga (INESC-ID, Universidade de Lisboa, PT)
+* Ivan Lanese (University of Bologna/INRIA, IT)
 * Manuel Núñez (Universidad Complutense de Madrid, ES)
-* Rui Oliveira (University of Minho, PT)
-* Jean-Bernard Stefani (INRIA Grenoble, FR)
-* Gianluigi Zavattaro (University of Bologna, IT)
+* Alberto Lluch Lafuente (Technical University of Denmark, DK)
+* Adrian Francalanza (University of Malta, MT)
+
 
 
 ## Advisory board
@@ -156,6 +156,13 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 * Farhad Arbab (Centrum Wiskunde & Informatica (CWI), NL)
 * Lea Kutvonen (University of Helsinki, FI)
 * John Derrick (University of Sheffield, UK)
+* Pascal Felber (University of Neuchâtel, CH) 
+* Kostas Magoutis (ICS-FORTH, GR)
+* Rui Oliveira (University of Minho, PT)
+* Jean-Bernard Stefani (INRIA Grenoble, FR)
+
+
+
 
 <!-- 
 ## Registration
