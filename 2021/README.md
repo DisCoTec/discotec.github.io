@@ -58,7 +58,7 @@ DisCoTec 2021 will take place at the [University of Malta](http://www.um.edu.mt)
 -->
 
 ## Proceedings
-The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.
+The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. These shall be open access from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
 
 ## Special issues
 The individual conferences will organise special issues of extended and selected papers in reputable journal such as [Logical Methods in Computer Science](https://lmcs.episciences.org) and [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing).
