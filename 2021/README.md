@@ -18,8 +18,8 @@ DisCoTec 2021 will take place at the [University of Malta](http://www.um.edu.mt)
 
 ### Important Dates
 
-* ~~January 29, 2021~~  February 12, 2021- Abstract submission deadline (extended)
-* ~~February 5, 2021~~  February 19, 2021 - Paper submission deadline (extended)
+* ~~January 29, 2021~~  **February 12, 2021**- Abstract submission deadline **(extended)**
+* ~~February 5, 2021~~  **February 19, 2021** - Paper submission deadline **(extended)**
 * April 2, 2021 - Notification of accepted papers
 * April 23, 2021 - Camera-ready papers
 
