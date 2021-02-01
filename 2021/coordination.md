@@ -258,15 +258,24 @@ and Special Issues
 -->
 
 
-Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2021/#important-dates). Submissions are handled through the EasyChair conference management system, accessible from the conference web site: [https://easychair.org/conferences/?conf=coordination2021](https://easychair.org/conferences/?conf=coordination2021)
+Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. 
+Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2021/#important-dates). 
+Submissions are handled through the EasyChair conference management system, accessible from the conference web site: [https://easychair.org/conferences/?conf=coordination2021](https://easychair.org/conferences/?conf=coordination2021)
 
-Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). The submissions must not exceed the total page number limit (see below) prepared using Springer’s LNCS style. Submissions not adhering to the above specified constraints may be rejected without review.
+Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere
+ (cf. IFIP’s Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). 
+The submissions must not exceed the total page number limit (see below) prepared using Springer’s LNCS style. 
+Submissions not adhering to the above specified constraints may be rejected without review.
 
 Submission categories:
 * Full papers (up to 15 pages + 2 pages references): describing thorough and complete research results and experience reports.
 * Short papers (up to 6 pages + 2 pages references): describing research in progress or opinion papers on the past of Coordination research, on the current state of the art, or on prospects for the years to come.
 * Survey papers (up to 25 pages + 2 pages references): describing important results and successful stories that originated in the context of COORDINATION.
 * Tool papers (up to 6 pages + 2 pages references): describing technological artefacts in the scope of the research topics of COORDINATION. The paper must contain **a link to a publicly downloadable MPEG-4 demo video** of at most 10 minutes length.
+
+<b>ATTENTION:</b> if you believe that your submission is related to one of the three special topics 
+(<b>Configurable Systems in the DevOps Era</b>, <b>Microservices</b>, <b>Techniques to reason about interacting digital contracts</b>), then
+please indicate the name of the special topic as the first of the <i>Author keywords</i> in the onlinesubmission system.
 
 The authors of accepted papers (in any submission category) will be encouraged
 to make their artefacts publicly available using permanent repositories such as Zenodo etc.
