@@ -1,0 +1,66 @@
+[Apologies for multiple postings]
+
+ERRATUM: Please note that the DisCoTec tutorials will be organised via a different selection process. 
+
+We would also like to announce that the workshop proposal submission deadline has been extended to January 27, 2021.
+
+************************************************************************
+
+Call for Satellite Events: Workshops
+
+16th International Federated Conference on Distributed Computing Techniques
+
+DisCoTec 2021
+
+Valletta, Malta, 14-18 June 2021
+
+https://www.discotec.org/2021
+
+************************************************************************
+
+DisCoTec 2021 is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS). It gathers conferences and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+
+
+* Main Conferences *
+
+ - COORDINATION (https://www.discotec.org/2021/coordination)
+   23rd International Conference on Coordination Models and Languages
+   PC Chairs: Ferruccio Damiani (University of Turin, IT) and Ornela Dardha (University of Glasgow, UK)
+
+ - DAIS (https://www.discotec.org/2021/dais)
+   21st International Conference on Distributed Applications and Interoperable Systems
+   PC Chairs: Fabíola Greve (Federal University of Bahia, BR) and Miguel Matos (University of Lisboa & INESC-ID, PT)
+
+ - FORTE (https://www.discotec.org/2021/forte)
+   41st International Conference on Formal Techniques for Distributed Objects, Components and Systems
+   PC Chairs: Kirstin Peters (Technical University of Darmstadt, DE) and Tim Willemse (Eindhoven University of Technology, NL)
+
+
+* Workshops *
+
+The DisCoTec 2021 organising committee invites proposals for workshops to complement the three main conferences. The aim is to provide a vivid and open forum for discussions, presentations of preliminary research results and ongoing work, as well as presentations of research work to a focussed audience.
+
+The workshops will be held in conjunction with the main events. Prospective workshop chairs should contact the organisers and provide the following information:
+ - contact information of the workshop chairs
+ - name of the workshop
+ - number of (expected) participants
+ - brief description of the topic of the event (max. 500 words)
+ - any other relevant information (e.g., invited speakers)
+
+Important dates (for all workshops):
+ - January 27, 2021: Workshop proposal submission deadline
+ - February 1, 2021: Notification of accepted workshop proposals
+ - Mid April, 2021: Workshop paper submission deadline
+ - Mid May, 2021: Notification of accepted workshop papers
+ - June 18, 2021: Workshops
+
+The submission and notification deadlines of the workshops are at the discretion of the individual workshop chairs. However, the notification will be no later than the early registration deadline for DisCoTec 2021 (to be announced).
+
+
+* DisCoTec 2021 Workshop Organisers *
+
+ - Duncan Paul Attard (University of Malta, MT), duncan.attard.01@um.edu.mt
+ - Christian Bartolo Burló (Gran Sasso Science Institute, IT), christian.bartolo@gssi.it
+
+
+To receive live, up-to-date information, follow us on Twitter @DisCoTecConf.

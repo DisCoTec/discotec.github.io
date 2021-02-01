@@ -44,9 +44,9 @@ The workshops will be held in conjunction with the main events. Prospective work
 Important dates (for all workshops):
   - January 20, 2021: Workshop proposal submission deadline
   - January 31, 2021: Notification of accepted workshop proposals
-  - Mid April 2021: Workshop paper submission deadline
-  - Mid May 2021: Notification of accepted workshop papers
-  - June 14-18, 2021: Conferences and workshops
+  - Mid April, 2021: Workshop paper submission deadline
+  - Mid May, 2021: Notification of accepted workshop papers
+  - June 18, 2021: Conferences and workshops
 
 The submission and notification deadlines of the workshops are at the discretion of the individual workshop chairs. However, the notification must be no later than the early registration deadline for DisCoTec 2021 (to be announced).
 
@@ -84,13 +84,8 @@ Important dates:
 
 * DisCoTec 2021 Workshop Organisers *
 
-  - Duncan Paul Attard (University of Malta, MT)
-  - Christian Bartolo Burló (Gran Sasso Science Institute, IT)
-
-
-* Further Information *
-
-For further information please contact the workshops chairs at <discotec2021@easychair.org>.
+  - Duncan Paul Attard (University of Malta, MT), duncan.attard.01@um.edu.mt
+  - Christian Bartolo Burló (Gran Sasso Science Institute, IT), christian.bartolo@gssi.it
 
 
 To receive live, up-to-date information, follow us on Twitter @DisCoTecConf.

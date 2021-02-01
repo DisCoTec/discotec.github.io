@@ -7,6 +7,8 @@
 
 DisCoTec 2021 will take place at the [University of Malta](http://www.um.edu.mt), [Valletta](https://www.um.edu.mt/campuses/valletta), between June 14-18, 2021.
 
+*COVID-19:* We are continually monitoring the current COVID-19 situation. Depending on how this unfolds in the coming months, we may decide to switch to an online event, although we still hope to be able to organise a physical event. In the latter case, we would be happy to support remote presentations as well should participants be unable to travel safely.
+
 <!-- Due to the current COVID-19 developments, the conference is still hosted by the [University of Malta](http://www.um.edu.mt) but it will be held **online**.  Instead of physical meeting/presentations, the authors of accepted papers have recorded their talks to discuss them with the conference participants online.  -->
 
 ## Conferences
@@ -27,10 +29,10 @@ DisCoTec 2021 will take place at the [University of Malta](http://www.um.edu.mt)
 
 ### Important Dates
 
-* January 20, 2021 - Workshop proposal submission deadline
-* January 31, 2021 - Notification of accepted workshop proposals
-* Mid April 2021 - Workshop paper submission deadline
-* Mid May 2021 - Notification of accepted workshop papers
+* January 27, 2021 - Workshop proposal submission deadline
+* February 1, 2021 - Notification of accepted workshop proposals
+* Mid April, 2021 - Workshop paper submission deadline
+* Mid May, 2021 - Notification of accepted workshop papers
 
 ## Tutorials
 
@@ -58,7 +60,7 @@ DisCoTec 2021 will take place at the [University of Malta](http://www.um.edu.mt)
 -->
 
 ## Proceedings
-The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.
+The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. These shall be open access from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
 
 ## Special issues
 The individual conferences will organise special issues of extended and selected papers in reputable journal such as [Logical Methods in Computer Science](https://lmcs.episciences.org) and [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing).
@@ -133,17 +135,17 @@ Valletta Malta VLT 1216.
 It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtoreachus). 
 
 ## Steering Committee
+* Gianluigi Zavattaro (University of Bologna, IT — Chair)
 * Rocco De Nicola (IMT Lucca, IT)
-* Pascal Felber (University of Neuchâtel, CH)
-* Adrian Francalanza (University of Malta, MT) 
 * Kurt Geihs (University of Kasel, DE)
-* Alberto Lluch Lafuente (Technical University of Denmark (DTU), DK)
-* Kostas Magoutis (ICS-FORTH, GR)
-* Elie Najm (Telecom Paris Tech, FR — Chair)
+* Elie Najm (Telecom Paris Tech, FR)
+* Mieke Massink (CNR-ISTI, IT)
+* Luís Veiga (INESC-ID, Universidade de Lisboa, PT)
+* Ivan Lanese (University of Bologna/INRIA, IT)
 * Manuel Núñez (Universidad Complutense de Madrid, ES)
-* Rui Oliveira (University of Minho, PT)
-* Jean-Bernard Stefani (INRIA Grenoble, FR)
-* Gianluigi Zavattaro (University of Bologna, IT)
+* Alberto Lluch Lafuente (Technical University of Denmark, DK)
+* Adrian Francalanza (University of Malta, MT)
+
 
 
 ## Advisory board
@@ -156,6 +158,13 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 * Farhad Arbab (Centrum Wiskunde & Informatica (CWI), NL)
 * Lea Kutvonen (University of Helsinki, FI)
 * John Derrick (University of Sheffield, UK)
+* Pascal Felber (University of Neuchâtel, CH) 
+* Kostas Magoutis (ICS-FORTH, GR)
+* Rui Oliveira (University of Minho, PT)
+* Jean-Bernard Stefani (INRIA Grenoble, FR)
+
+
+
 
 <!-- 
 ## Registration
