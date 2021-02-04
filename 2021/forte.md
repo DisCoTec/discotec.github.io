@@ -3,7 +3,8 @@
 # FORTE 2021 - 41st International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 FORTE 2021 is one of the three conferences of [DisCoTec 2021](https://www.discotec.org/2021/), the 16th International Federated Conference on Distributed Computing Techniques.
-### News: submission deadline dates have been updated, see [DisCoTec 2021](https://www.discotec.org/2021/)
+### (1 Feb) News: submission deadline dates have been updated, see [DisCoTec 2021](https://www.discotec.org/2021/)
+
 
 ## Keynote Speakers
 
