@@ -7,7 +7,7 @@ ICE 2021 is a satellite workshop of [DisCoTec 2021](https://www.discotec.org/202
 
 ## COVID-19
 
-The ICE and DisCoTec organisers are continually monitoring the current COVID-19 situation. Depending on how this unfolds in the coming months, we may switch to an online event, although we still hope to be able to organise a physical event. In the latter case, we would support remote presentations as well should participants be unable to travel safely.
+The ICE and DisCoTec organisers are monitoring the current COVID-19 situation. Depending on how this unfolds in the coming months, we may switch to an online event, although we still hope to be able to organise a physical event. In the latter case, we would support remote presentations as well should participants be unable to travel safely.
 
 
 ## Highlights
