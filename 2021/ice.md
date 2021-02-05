@@ -69,7 +69,7 @@ Submissions must be made electronically in PDF format via **[OpenReview](https:/
 
 We invite two types of submissions:
 
-* **Research papers**, original contributions that will be published in the workshop post-proceedings. Research papers must not be simultaneously submitted to other conferences/workshops with refereed proceedings. Research papers should be 3-16 pages plus at most 2 pages of references. Short research papers are welcome; for example a 5 page short paper fits this category perfectly.
+* **Research papers**, original contributions that will be published in the workshop post-proceedings. Research papers must not be simultaneously submitted to other conferences/workshops with refereed proceedings. Research papers should be 3-16 pages plus at most 2 pages of references. Short research papers are welcome; for example a 5 page short paper fits this category perfectly. The submitted PDF can use any LaTeX style (but the post-proceedings will use the [EPTCS style](http://style.eptcs.org/)).
 
 * **Oral communications** will be presented at the workshop, but will not appear in the post-proceedings. This type of contribution includes e.g. previously published contributions, preliminary work, and position papers. There is no strict page limit for this kind of submission but papers of 1-5 pages would be appreciated. For example, a one page summary of previously published work is welcome in this category.
 
