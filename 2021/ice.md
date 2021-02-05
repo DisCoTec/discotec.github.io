@@ -114,6 +114,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Ivan Lanese (University of Bologna, IT)
   * Karoliina Lehtinen (CNRS - LIS, Aix-Marseille University, FR)
   * Alberto Lluch Lafuente (Technical University of Denmark, DK)
+  * Hernán Melgratti (University of Buenos Aires, AR)
   * Maurizio Murgia (University of Trento, IT)
   * Kirstin Peters (TU Darmstadt, DE)
   * Johannes Åman Pohjola (Data61/CSIRO, AU) 
