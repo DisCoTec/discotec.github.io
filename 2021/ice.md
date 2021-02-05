@@ -2,7 +2,7 @@
 
 # ICE 2021 - 14th Interaction and Concurrency Experience
 
-ICE 2021 is a satellite workshop of [DisCoTec 2021](https://www.discotec.org/2021/), held on 18 June 2020 _(date TBC)_.
+ICE 2021 is a satellite workshop of [DisCoTec 2021](https://www.discotec.org/2021/), held on 18 June 2021 _(date TBC)_.
 
 
 ## COVID-19
@@ -49,7 +49,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
   * 19 April 2021: paper submission
   * 18 May 2021: notification
   * 18 June 2021: ICE workshop
-  * 12 July 2020: camera-ready for EPTCS post-proceedings
+  * 12 July 2021: camera-ready for EPTCS post-proceedings
 
 
 ## Selection Procedure
@@ -58,7 +58,7 @@ Since its first edition in 2008, the distinguishing feature of ICE has been an i
 
 During the review phase, each submission is published in a dedicated discussion forum. The discussion forum can be accessed by the authors of the submission and by all PC members not in conflict with the submission (the forum preserves anonymity). The forum is used by reviewers to ask questions, clarifications, and modifications from the authors, allowing them better to explain and to improve all aspects of their submission. The evaluation of the submission will take into account not only the reviews, but also the outcome of the discussion.
 
-As witnessed by the past nine editions of ICE, this procedure considerably improves the accuracy of the reviews, the fairness of the selection, the quality of camera-ready papers, and the discussion during the workshop.
+As witnessed by the past editions of ICE, this procedure considerably improves the accuracy of the reviews, the fairness of the selection, the quality of camera-ready papers, and the discussion during the workshop.
 
 ICE adopts a light double-blind reviewing process, detailed below.
 
@@ -138,9 +138,9 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 The previous editions of ICE have been held on:
 
-* [ICE'20](http://www.discotec.org/2020/ice), June 19, 2020, on-line event co-located with DisCoTec'20. The post-proceedings were published in EPTCS (vol. 324) and a special issue of JLAMP is in preparation.
+* [ICE'20](http://www.discotec.org/2020/ice), June 19, 2020, online event co-located with DisCoTec'20. The post-proceedings were published in EPTCS (vol. 324) and a special issue of JLAMP is in preparation.
 * [ICE'19](http://www.discotec.org/2019/ice), June 20-21, 2019 in Lyngby, Denmark, co-located with DisCoTec'19. The post-proceedings were published in EPTCS (vol. 304) and a special issue of JLAMP is being finalised (all articles are [published](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/101ZSK6ZFQ4)).
-* [ICE'18](http://2018.discotec.org/cfp_w_ice.html), June 20-21, 2018 in Madrid, Spain, co-located with DisCoTec'18. The post-proceedings were published in EPTCS (vol. 279) and a special issue of JLAMP is in preparation (all articles are [published](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/10XN45J051V))
+* [ICE'18](http://2018.discotec.org/cfp_w_ice.html), June 20-21, 2018 in Madrid, Spain, co-located with DisCoTec'18. The post-proceedings were published in EPTCS (vol. 279) and a special issue of JLAMP is being finalised (all articles are [published](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/10XN45J051V))
 * [ICE'17](http://2017.discotec.org/workshops/ice-2017.html), June 21-22 2017 in Neuchâtel, Switzerland, co-located with DisCoTec’17. The post-proceedings were published in EPTCS (vol. 261) and a special issue of JLAMP (Vol. 109).
 * [ICE'16](http://2016.discotec.org/index713e.html), June 21-22, 2016 in Heraklion, Greece, co-located with DisCoTec’16. The post-proceedings were published in EPTCS (vol. 223) and a special issue of JLAMP (Vol. 92).
 * [ICE'15](http://discotec2015.inria.fr/workshops/ice-2015/), June 4-5, 2015 in Grenoble, France, co-located with DisCoTec’15. The post-proceedings were published in EPTCS (vol. 189) and selected papers appeared in a special issue of JLAMP (Vol. 86, Number 1).
