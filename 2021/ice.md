@@ -108,6 +108,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Cinzia Di Giusto (Université Côte d’Azur, CNRS, I3S, FR)
   * Simon Fowler (University of Glasgow, UK)
   * Eva Graversen (University of Southern Denmark, DK)
+  * Ludovic Henrio (ENS Lyon, FR)
   * Keigo Imai (Gifu University, JP)
   * Sung-Shik Jongmans (Open University of the Netherlands, NL)
   * Sophia Knight (University of Minnesota Duluth, US)
