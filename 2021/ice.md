@@ -111,6 +111,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Keigo Imai (Gifu University, JP)
   * Sung-Shik Jongmans (Open University of the Netherlands, NL)
   * Sophia Knight (University of Minnesota Duluth, US)
+  * Wen Kokke (University of Edinburgh, UK)
   * Ivan Lanese (University of Bologna, IT)
   * Karoliina Lehtinen (CNRS - LIS, Aix-Marseille University, FR)
   * Alberto Lluch Lafuente (Technical University of Denmark, DK)
