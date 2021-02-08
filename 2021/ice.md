@@ -105,6 +105,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 ## Programme Committee (under construction)
 
   * Massimo Bartoletti (University of Cagliari, IT)
+  * Matteo Cimini (University of Massachusetts Lowell, USA)
   * Cinzia Di Giusto (Université Côte d’Azur, CNRS, I3S, FR)
   * Simon Fowler (University of Glasgow, UK)
   * Eva Graversen (University of Southern Denmark, DK)
@@ -116,6 +117,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Ivan Lanese (University of Bologna, IT)
   * Karoliina Lehtinen (CNRS - LIS, Aix-Marseille University, FR)
   * Alberto Lluch Lafuente (Technical University of Denmark, DK)
+  * Diego Marmsoler (University of Exeter, UK)
   * Hernán Melgratti (University of Buenos Aires, AR)
   * Maurizio Murgia (University of Trento, IT)
   * Kirstin Peters (TU Darmstadt, DE)
