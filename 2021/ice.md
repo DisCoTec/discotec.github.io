@@ -2,12 +2,12 @@
 
 # ICE 2021 - 14th Interaction and Concurrency Experience
 
-ICE 2021 is a satellite workshop of [DisCoTec 2021](https://www.discotec.org/2021/), held on 18 June 2021 _(date TBC)_.
+Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. ICE 2021 is a satellite workshop of [DisCoTec 2021](https://www.discotec.org/2021/), held on 18 June 2021 _(date TBC)_.
 
 
 ## COVID-19
 
-The ICE and DisCoTec organisers are monitoring the current COVID-19 situation. Depending on how this unfolds in the coming months, we may switch to an online event, although we still hope to be able to organise a physical event. In the latter case, we would support remote presentations as well should participants be unable to travel safely.
+The ICE and DisCoTec organisers are monitoring the COVID-19 situation. Depending on how this unfolds in the coming months, we may switch to an online event, although we still hope to be able to organise a physical event. In any case, we will support remote presentations for participants unable to travel safely.
 
 
 ## Highlights
@@ -22,8 +22,6 @@ The ICE and DisCoTec organisers are monitoring the current COVID-19 situation. D
 
 
 ## Scope
-
-Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for complex interactions.
 
 The general scope of the venue includes theoretical and applied aspects of interactions and the synchronization mechanisms used among components of concurrent/distributed systems, related to several areas of computer science in the broad spectrum ranging from formal specification and analysis to studies inspired by emerging computational models.
 
