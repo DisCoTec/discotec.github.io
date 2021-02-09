@@ -105,6 +105,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 ## Programme Committee (under construction)
 
   * Massimo Bartoletti (University of Cagliari, IT)
+  * Chiara Bodei (Università di Pisa, IT)
   * Matteo Cimini (University of Massachusetts Lowell, USA)
   * Cinzia Di Giusto (Université Côte d’Azur, CNRS, I3S, FR)
   * Simon Fowler (University of Glasgow, UK)
