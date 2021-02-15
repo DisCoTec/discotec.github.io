@@ -36,7 +36,8 @@ DisCoTec 2021 will take place at the [University of Malta](http://www.um.edu.mt)
 
 ## Tutorials
 
-*TBD*
+<!-- *TBD* -->
+* [DisCoTec Tools](https://www.discotec.org/2021/tutorials) - Tutorial Sessions 
 
 <!-- 
 * [DisCoTec Tools](https://www.discotec.org/2020/tutorials) - Tutorial Sessions 

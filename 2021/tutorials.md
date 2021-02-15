@@ -1,4 +1,4 @@
-[![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
+[![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2021/)
 
 # Tutorials
 
@@ -7,178 +7,80 @@
 The DisCoTec Tutorial Day allows researchers to promote a *mature* tool that has been under development over the last few years. 
 Tutorial session are typically *hands-on*, providing the audience with the unique opportunity to try out the tool under the supervision of those who developed it. This rewards the tool developers for the effort invested in making their tool accessible to the community, fosters cross-fertilisation across the three DisCoTec conferences, and ultimately results in a higher adoption of the presented tools.
 
+
 ## Titles
 
+### ABS: Modeling and analysis with resource-sensitive actors
 
-### Choreographic Development of Message-Passing Applications
-
-[Instructions to download and install the tool](https://bitbucket.org/emlio_tuosto/chorgram/src/master/tutorial.md
+[Instructions to download and install the tool](https://abs-models.org/getting_started/
 )
 <br/><br/>
-Tutorial slides [(all)](https://www.cs.le.ac.uk/people/et52/tutorial.pdf) and video presentations [(part 1)](https://www.youtube.com/watch?v=OWzi8ktUhVQ) [(part 2)](https://www.youtube.com/watch?v=l3a3QOMYslc) [(part 3)](https://www.youtube.com/watch?v=qNCAocb_xm8)
+Actor languages decouple communication from synchronisation, which makes them suitable for distributed and scalable applications with flexible synchronisation patterns, but also facilitates analysis.  
+ABS is a timed actor-based modeling language which supports cooperative scheduling and the specification of timing- and resource-aware behavior.  
+Cooperative scheduling allows a process which is executing in an actor to be suspended while it is waiting for an event to occur, such that another process which is able to make progress can execute. 
+Timed semantics allows the specification of the temporal behavior of the modeled system. 
+Resource-aware behavior takes a supply and demand perspective of execution, relating cost centers which provision resources to processes which require them. These modelling concepts have been used in ABS to model cloud computing, e.g., data-processing applications running on the Hadoop platform and micro-services running on containers orchestrated by Kubernetes. 
+In this tutorial, we present ABS and its execution environment, and discuss the use of cooperative scheduling and resources in modeling cyber-physical systems and applications deployed on virtualised infrastructure.
 <br/><br/>
-[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_2)
-<br/><br/>
-Choreography envisages distributed coordination as determined by interactions that allow peer components to harmoniously realise a given task. Unlike in orchestration-based coordination, there is no special component directing the execution. 
-Recently choreographic approaches became popular in industrial contexts where reliability and scalability are crucial factors. This tutorial will review some recent ideas to harness choreographic development of message-passing software.
-<br/> <br/>
 *Biography:* 
-[Emilio Tuosto](mailto:emilio.tuosto@gssi.it) is an associate professor at the Gran Sasso Science Institue and the University of Leicester. He graduated (1998) and got his PhD degree in Computer Science (2003) at the department of Computer Science, University of Pisa. Before joining Leicester, he has been a research associate (2003-2005) at the Dipartimento di Informatica (University of Pisa). Emilio Tuosto's main research interests are in theoretical and applied aspects of complex distributed systems. Recently he has been working on automata- and behavioural type-based models of distributed choreographies, contract-based models of distributed interactions, and their application to software engineering of distributed and concurrent systems.
-
-<br/>
-<br/>
-
-### Parameterized Verification with Byzantine Model Checker
-
-[Instructions to download and install the tool](https://github.com/konnov/bymc/blob/master/bymc/doc/forte20.md)
+[Einar Broch Johnsen](mailto:) is a professor at the Department of Informatics, University of Oslo. Einar's research focusses on programming models, specification and verification, in particular for concurrent and distributed systems. 
+Einar was the coordinator of the EU FP7 project Envisage on formal methods for virtualised services.
+[Rudolf Schlatte](mailto:) is a researcher at the Department of Informatics, University of Oslo. His research interests include programming language semantics and compiler implementations.  
+He is the principal maintainer of the ABS toolchain.
+The ABS modeling language has been developed in collaboration between the University of Oslo, the Technical University of Darmstadt, CWI Amsterdam with contributions from the University of Bologna, the University of Turin, and the Complutense University of Madrid.
 <br/><br/>
-Tutorial slides [(part 1)](tutorial-material/ByMC-part1.pdf) [(part 2)](tutorial-material/ByMC-part2.pdf) [(part 3)](tutorial-material/ByMC-part3.pdf) and video presentations [(part 1)](https://www.youtube.com/watch?v=S0VRE9PLViI&feature=youtu.be) [(part 2)](https://www.youtube.com/watch?v=UOdHoJGg-vk&feature=youtu.be) [(part 3)](https://www.youtube.com/watch?v=3anmrALqJW0&feature=youtu.be)
+
+
+### Simulation of large scale computational ecosystems with Alchemist: a tutorial
+
+<!-- [Instructions to download and install the tool](https://abs-models.org/getting_started/ -->
+<!-- ) -->
+<!-- <br/><br/> -->
+Many interesting systems in several disciplines can be modeled as networks of nodes that can store and exchange data: pervasive systems, edge computing scenarios, and even biological and bio-inspired systems. 
+These systems feature inherent complexity, and often simulation is the preferred (and sometimes the only) way of investigating their behaviour; this is true both in the design phase and in the verification and testing phase. 
+In this tutorial paper, we provide a guide to the simulation of such systems by leveraging Alchemist, an existing research tool used in several works in the literature. 
+We introduce its meta-model and its extensible architecture; we discuss reference examples of increasing complexity; and we finally show how to configure the tool to automatically execute multiple repetitions of simulations with different controlled variables, achieving reliable and reproducible results.
 <br/><br/>
-[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_11)
+<!-- *Biography:* 
+[Danilo Pianini](mailto:danilo.pianini@unibo.it) 
+<br/><br/> -->
+
+
+### Tutorial: Designing Distributed Software in mCRL2
+
+<!-- [Instructions to download and install the tool](https://abs-models.org/getting_started/ -->
+<!-- ) -->
+<!-- <br/><br/> -->
+Distributed software is very tricky to implement correctly as there are many hard to foresee possible execution orders. 
+Proving correctness of such software is hard and time consuming using, for instance, assertional techniques. 
+However, behavioural modelling and model checking come to the rescue, as they have become very expressive over the years and are supplied with more than capable tools that allow proving properties quickly. Model checking is generally restricted to finite instances of the models of the software, but in our experience this is not at all a real issue. 
+Most correctness problems manifest themselves in these limited instances.
+In this tutorial we show how to create behavioural models of distributed software, how to specify requirements using modal formulas, and how to verify these. 
+For that we use the mCRL2 language and toolset (www.mcrl2.org), which is open access and has no restrictions on its use. 
+We discuss the design of a number of distributed systems, and how these designs are shaped by the understanding gained through counterexamples.
 <br/><br/>
-Threshold guards are a basic primitive of many fault-tolerant algorithms that
-solve the following classical problems of distributed computing: reliable
-broadcast, two-phase commit, and consensus. Moreover, threshold guards can be
-found in recent Blockchain algorithms such as Tendermint consensus.
-Byzantine Model Checker (ByMC) implements several techniques for automatic
-verification of threshold-guarded distributed algorithms. These algorithms have
-the following features: (1) up to t of processes may crash or behave Byzantine;
-(2) the correct processes count messages and progress when they receive
-sufficiently many messages, e.g., at least t+1; (3) the number n of processes
-in the system is a parameter, as well as t; (4) and the parameters are
-restricted by a resilience condition, e.g., n > 3t.  Nowadays these algorithms
-are implemented in the distributed systems that involve from hundreds to
-thousands of computers. To make sure that these algorithms are still correct
-for that scale it is imperative to verify them for all combinations of the
-parameters. In this tutorial, we give an overview of the techniques implemented in ByMC.
-We demonstrate how to use ByMC for parameterized verification of asynchronous
-fault-tolerant distributed algorithms. We show how to apply our techniques in
-other contexts, for instance, for verification of randomized algorithms and
-verification of synchronous algorithms.
-<br/> 
-<br/>
-*Biography:* [Igor Konnov](mailto:igor@interchain.io) is a senior research scientist at Informal Systems (Austria),
-spin-off of Interchain Foundation (Switzerland). He is developing model
-checking techniques for parameterized and fault-tolerant distributed
-algorithms. Before joining Informal Systems and Interchain Foundation, Igor
-Konnov worked as a researcher at Inria Nancy (France) and as a postdoc at TU
-Wien (Austria). He received his MSc and PhD in Applied Mathematics and Computer
-Science from Lomonosov Moscow State University (Russia) in 2003 and 2009. In
-2019, Igor received his Habilitation from TU Wien (Austria).
+<!-- *Biography:* 
+[Jan Friso Groote](mailto:)
+[Jeroen J.A. Keiren](mailto:) 
+<br/><br/> -->
 
-<br/>
-<br/>
 
-### CHOReVOLUTION IDRE: An Integrated Development and Run-time Environment for Automatically Realizing and Executing Distributed Applications.
+### DetectEr: A Runtime Verification Tool for Concurrent Components
 
-[Instructions to download and install the tool](https://github.com/chorevolution/discotec-2020-tutorial)
+<!-- [Instructions to download and install the tool](https://abs-models.org/getting_started/ -->
+<!-- ) -->
+<!-- <br/><br/> -->
+We introduce DetectEr, a runtime verification tool developed over the last 5 years with the aim of monitoring concurrent systems written for the Erlang ecosystem (and beyond).  // cheeky comment but I like a bit of attitude
+DetectEr supports three types of monitoring methods: inline, outline, and offline monitoring.
+In *inline monitoring*, the tool statically instruments the system under scrutiny by weaving the monitoring instructions via code injection. 
+The ensuing runtime analysis is performed as the weaved system components execute.
+*Outline monitoring* allows DetectEr to take a dynamic approach that treats the system as a black box. 
+It leverages the tracing infrastructure provided by the Erlang Virtual Machine to gather trace events that are analysed by independent component monitors.
+DetectEr also extends outline monitoring to the *offline* case, where events read from a trace dump are replayed to emulate the interaction between concurrent system components.
+In this tutorial, we discuss the inline, outline, and offline monitoring functionality of the tool, demonstrating how each can be employed to monitor systems that are subject to specific deployment and runtime constraints.
 <br/><br/>
-Video presentations [(part 1)](https://www.youtube.com/watch?v=nPsi2EJFRGA&feature=youtu.be) [(part 2)](https://www.youtube.com/watch?v=xeHDPWz08WE&feature=youtu.be) [(part 3)](https://www.youtube.com/watch?v=RKlQoz2O3qw&feature=youtu.be)
+*Biography:* 
+[Duncan Paul Attard](https://duncanatt.github.io) is a researcher with the ICE-TCS research group at Reykjavík University. 
+He is the principal developer of DetectEr, a runtime verification tool developed as part of the [TheoFoMon](http://icetcs.ru.is/theofomon/)---and more recently---the [MoVeMnt](https://sites.google.com/view/antonisachilleos/movemnt) projects.
+Prior to rejoining academia, Duncan worked as a software developer in Telecoms and Online payment industry for seven years.
 <br/><br/>
-[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_1)
-<br/><br/>
-Since late 70’s, the development of concurrent and distributed systems has been receiving much attention from the research community. Choreographies are a form of distributed composition that model the external interaction of the participant services by specifying peer-to-peer message exchanges from a global perspective. When third-party services are to be composed, obtaining the distributed coordination logic required to enforce the realizability of the specified choreography is a non-trivial and error prone task. Automatic support is then needed. CHOReVOLUTION is a platform for the tool-assisted development and execution of choreography-based applications that leverage the distributed collaboration of services specified through service choreographies. It offers an Integrated Development and Runtime Environment (IDRE) comprising a wizard-aided development environment, a system monitoring console, and a back-end for managing the deployment and execution of the system. The tutorial introduces the fundamentals of service choreographies and the CHOReVOLUTION approach as first. Then the introduction of the approach is followed by hands on exercises, where every attendee takes part in developing sample choreography-based distributed applications by using the CHOReVOLUTION IDRE.
-<br/> 
-<br/>
-*Biography:* [Massimo Tivoli](mailto:massimo.tivoli@univaq.it) and [Marco Autili](mailto:marco.autili@univaq.it) are both associate professors at the Department of Information Engineering, Computer Science, and Mathematics – University of L’Aquila. 
-Massimo's research focuses on component adaptation and coordination, connector synthesis, software model elicitation, and choreography synthesis. He received a PhD in computer science from the University of L’Aquila. He is co-author of more than 90 publications in leading international scientific journals and conference proceedings in the software engineering domain. He has been scientific coordinator of the EU H2020 CHOReVOLUTION project, and has been involved in several other international research projects with different leading roles. Massimo is, and has been, in the program committees of several international conferences. 
-Marco's research focusses on automated software synthesis for composing complex distributed systems, from system architecture to integration code, from coordination to protocol mediation/adaptation. He also works in modeling and analysis of complex distributed systems, automated synthesis of context-aware (mobile) applications, resource-oriented analysis of adaptable (mobile) applications and formal specification and checking of temporal properties. Recently, he is working on the definition of architectural patterns for creating robust, reliable and efficient microservice-based systems, and on the definition of methods and techniques to transform a monolithic system to a microservice-based one.
-The development team of CHOReVOLUTION IDRE includes also Amleto Di Salle and Claudio Pompilio.
-
-<br/>
-<br/>
-
-### The Probabilistic Model Checker Storm 
-
-
-[Instructions to download and install the tool](storm-tutorial)
-<br/><br/>
-Video presentations [(part 1)](https://www.youtube.com/watch?v=TTfSZGiCQ3I) [(part 2)](https://www.youtube.com/watch?v=rCgoqV5hesQ) [(part 3)](https://www.youtube.com/watch?v=WR72wrvtta0)
-<br/><br/>
-We present the probabilistic model checker Storm.
-Storm supports the analysis of discrete- and continuous-time variants of both
-Markov chains and Markov decision processes. 
-Storm has three major distinguishing features.
-It supports multiple input languages for Markov models, including the JANI and
-PRISM modeling languages, dynamic fault trees, generalized stochastic Petri nets
-and the probabilistic guarded command language.
-It has a modular set-up in which solvers and symbolic engines can easily be
-exchanged.
-Its Python API allows for rapid prototyping by encapsulating Storm’s fast and
-scalable algorithms.
-Empirical evaluation of Storm within the QComp 2019 competition showed that the
-tool is state-of-the-art and performed best with regards to runtime and number
-of solved benchmarks. 
-In the tutorial we report on the main features of Storm and explain how to
-effectively use them.
-For more information on Storm we refer to our website
-http://www.stormchecker.org/ and our recent paper https://arxiv.org/abs/2002.07080.<br/> 
-<br/>
-*Biography:* Storm is developed at the Software Modeling and Verification group at RWTH
-Aachen University since 2012. The principal developers of Storm are Christian
-Hensel, Sebastian Junges, Joost-Pieter Katoen, Tim Quatmann and [Matthias Volk](mailto:matthias.volk@cs.rwth-aachen.de).
-
-<br/> 
-<br/>
-
-### Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems
-
-[Instructions to download and install the tool](https://github.com/miguelammatos/Kollaps#pre)
-<br/><br/>
-Tutorial slides [(all)](tutorial-material/kollaps.pdf) and video presentations [(part 1)](https://www.youtube.com/watch?v=j5vqLQjtyQo&feature=youtu.be) [(part 2)](https://www.youtube.com/watch?v=GMFvWBTZJ1M&feature=youtu.be) [(part 3)](https://www.youtube.com/watch?v=zA18Y9SC2xs&feature=youtu.be)
-<br/><br/>
-[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50323-9_8)
-<br/><br/>
-The systematic evaluation of distributed systems is a very challenging task as experimental results can be affected by a wide range of factors.
-In particular, the network and its dynamics, such as sudden changes in latency or available bandwidth have a significant impact on the performance of distributed systems. 
-In this tutorial we will do a hands-on demonstration of the capabilities of Kollaps/Thunderstorm, a set of tools that allow to deploy and evaluate unmodified off-the-shelf container applications under a controlled network environment.
-By the end of this tutorial, attendants will be able to apply these tools in their systems and, we hope, have a better toolset to evaluate the impact of the network in their systems behavior.<br/>
-<br/>
-*Biography:* Miguel Matos is an assistant professor at the Engineering School of the University of Lisbon (Instituto Superior Técnico) and a Senior Researcher at INESC-ID.His research interests lie in the area of distributed systems, in the subjects of scalability, performance, correctness and systems evaluation. In particular, he is conducting research in blockchain and related problems,consistency and scalability in large scale databases, systems evaluation under faults and experimental reproducibility. His work has been published in venues such as TPDS, JPDC, Eurosys, IPDPS, Middleware, SRDS and DAIS.
-The presented work is the result of joint work between Miguel's team at U. Lisboa, Portugal and researchers from U. of Neuchâtel, Switzerland.
-
-<br/>
-<br/>
-
-### Typechecking Java protocols with Mungo/StMungo
-
-[Instructions to download and install the tool](https://bitbucket.org/abcd-glasgow/mungo-tools/src/master/)
-<br/><br/>
-Tutorial slides [(all)](tutorial-material/mungo-slides.pdf) and video presentations [(part 1)](https://youtu.be/Z8xLJei9mtM) [(part 2)](https://youtu.be/eVW2yGUd7i8) [(part 3)](https://youtu.be/NjvQq4tINyA)
-<br/><br/>
-[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-50086-3_12)
-<br/><br/>
-This is a tutorial on using Mungo/StMungo, a toolchain based on multiparty session
-types and their connection with typestates, for distributed programming in Java.
-The first tool, Mungo, statically checks that methods are called in certain
-permitted sequences, according to a typestate specification. An
-application of this is to communication protocols, since send and
-receive methods must be called in sequences that are allowed by the
-protocol. Mungo extends Java with an optional typestate definition, which defines
-an object protocol as a state machine, specifying the permitted sequences of method calls.
-The second tool, StMungo(“Scribble-to-Mungo”) helps with instantiating the typestate
-definition for communication protocols, by translating from Scribble and generating
-Java skeleton code. The resulting prototype can be further implemented, typechecked
-by Mungo to ensure that the implementation follows the protocol, and then compiled
-and run as usual.
-We give an overview of the key stages of the Mungo/StMungo toolchain, from translating
-Scribble local protocol specifications to Java, to Java implementation, to Mungo
-typechecking, with examples. We then demonstrate the Scribble, StMungo and Mungo
-toolchain by specifying and implementing a domain name server(DNS), as a real-world use case.<br/>
-<br/>
-*Biography:* [Ornela Dardha](mailto:Ornela.Dardha@glasgow.ac.uk) is an Assistant Professor at the School of Computing Science, University
-of Glasgow. She is a Co-Investigator within the UK EPSRC programme grant From Data
-Types to Session Types: A Basis for Concurrency and Distribution (ABCD), and a Site
-Leader of the European RISE Action Behavioural Application Program Interfaces (BehAPI.
-Previously, she was a Postdoctoral Researcher (Jan 2014 - Apr 2018) within the ABCD
-project. She obtained my PhD in computing science from the University of Bologna, Italy.
-She obtained my BSc (2008) and MSc (2010) in computing science both summa cum laude from
-Sapienza University of Rome, Italy.
-Simon Gay is a Professor of Computing Science and has been at the University of Glasgow since 2000.
-He is the Glasgow PI of the the UK EPSRC programme grant From Data Types to Session Types: A Basis for Concurrency and Distribution (ABCD). He has contributed to the study of session types in pi calculus, in functional languages, and in object-oriented languages; the latter work provides the
-foundation for Mungo. [Laura Voinea](mailto:a.voinea.1@research.gla.ac.uk) is a Research Associate at the School of Computing Science,
-University of Glasgow, working on the ABCD project with Simon Gay and Ornela Dardha. She is finishing up my PhD in Computer Science at same university. 
-She has received my BSc and MSc in Computer Science at the University of Glasgow.
-
-
-
