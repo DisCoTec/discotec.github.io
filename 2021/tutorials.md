@@ -23,9 +23,9 @@ Resource-aware behavior takes a supply and demand perspective of execution, rela
 In this tutorial, we present ABS and its execution environment, and discuss the use of cooperative scheduling and resources in modeling cyber-physical systems and applications deployed on virtualised infrastructure.
 <br/><br/>
 *Biography:* 
-[Einar Broch Johnsen](mailto:) is a professor at the Department of Informatics, University of Oslo. Einar's research focusses on programming models, specification and verification, in particular for concurrent and distributed systems. 
+[Einar Broch Johnsen](mailto:einarj@ifi.uio.no) is a professor at the Department of Informatics, University of Oslo. Einar's research focusses on programming models, specification and verification, in particular for concurrent and distributed systems. 
 Einar was the coordinator of the EU FP7 project Envisage on formal methods for virtualised services.
-[Rudolf Schlatte](mailto:) is a researcher at the Department of Informatics, University of Oslo. His research interests include programming language semantics and compiler implementations.  
+[Rudolf Schlatte](mailto:rudi@ifi.uio.no) is a researcher at the Department of Informatics, University of Oslo. His research interests include programming language semantics and compiler implementations.  
 He is the principal maintainer of the ABS toolchain.
 The ABS modeling language has been developed in collaboration between the University of Oslo, the Technical University of Darmstadt, CWI Amsterdam with contributions from the University of Bologna, the University of Turin, and the Complutense University of Madrid.
 <br/><br/>
