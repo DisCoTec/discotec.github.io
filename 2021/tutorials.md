@@ -70,11 +70,11 @@ We discuss the design of a number of distributed systems, and how these designs 
 <!-- [Instructions to download and install the tool](https://abs-models.org/getting_started/ -->
 <!-- ) -->
 <!-- <br/><br/> -->
-We introduce DetectEr, a runtime verification tool developed over the last 5 years with the aim of monitoring concurrent systems written for the Erlang ecosystem (and beyond). 
+We introduce DetectEr, a runtime verification tool developed over the last 5 years with the aim of monitoring concurrent systems written for the Erlang ecosystem.
 DetectEr supports three types of monitoring methods: inline, outline, and offline monitoring.
-In *inline monitoring*, the tool statically instruments the system under scrutiny by weaving the monitoring instructions via code injection. 
+In *inline monitoring*, the tool statically instruments the system under scrutiny by weaving the monitoring instructions via code injection. 
 The ensuing runtime analysis is performed as the weaved system components execute.
-*Outline monitoring* allows DetectEr to take a dynamic approach that treats the system as a black box. 
+*Outline monitoring* allows DetectEr to take a dynamic approach that treats the system as a black box. 
 It leverages the tracing infrastructure provided by the Erlang Virtual Machine to gather trace events that are analysed by independent component monitors.
 DetectEr also extends outline monitoring to the *offline* case, where events read from a trace dump are replayed to emulate the interaction between concurrent system components.
 In this tutorial, we discuss the inline, outline, and offline monitoring functionality of the tool, demonstrating how each can be employed to monitor systems that are subject to specific deployment and runtime constraints.
