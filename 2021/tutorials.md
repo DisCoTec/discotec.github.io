@@ -41,9 +41,11 @@ These systems feature inherent complexity, and often simulation is the preferred
 In this tutorial paper, we provide a guide to the simulation of such systems by leveraging Alchemist, an existing research tool used in several works in the literature. 
 We introduce its meta-model and its extensible architecture; we discuss reference examples of increasing complexity; and we finally show how to configure the tool to automatically execute multiple repetitions of simulations with different controlled variables, achieving reliable and reproducible results.
 <br/><br/>
-<!-- *Biography:* 
-[Danilo Pianini](mailto:danilo.pianini@unibo.it) 
-<br/><br/> -->
+*Biography:* 
+[Danilo Pianini](mailto:danilo.pianini@unibo.it) is a post-doctoral researcher at DISI, the Department of Computer Science and Engineering of the University of Bologna, in Italy. 
+He holds a Ph.D. in Computer Science and Engineering, and his main research interests include simulation, (self-organizing) coordination, aggregate computing, pervasive systems, software engineering, agile techniques, and DevOps. On those subjects, he published over 50 articles in international journals and conferences.
+He is the lead designer of dozens of open-source software tools, among which the Alchemist simulation platform and the Protelis aggregate programming language.
+<br/><br/>
 
 
 ### Tutorial: Designing Distributed Software in mCRL2
