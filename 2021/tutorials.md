@@ -55,17 +55,25 @@ He is the lead designer of dozens of open-source software tools, among which the
 <!-- <br/><br/> -->
 Distributed software is very tricky to implement correctly as there are many hard to foresee possible execution orders. 
 Proving correctness of such software is hard and time consuming using, for instance, assertional techniques. 
-However, behavioural modelling and model checking come to the rescue, as they have become very expressive over the years and are supplied with more than capable tools that allow proving properties quickly. Model checking is generally restricted to finite instances of the models of the software, but in our experience this is not at all a real issue. 
+However, behavioural modelling and model checking come to the rescue, as they have become very expressive over the years and are supplied with more than capable tools that allow proving properties quickly. 
+Model checking is generally restricted to finite instances of the models of the software, but in our experience this is not at all a real issue. 
 Most correctness problems manifest themselves in these limited instances.
 In this tutorial we show how to create behavioural models of distributed software, how to specify requirements using modal formulas, and how to verify these. 
 For that we use the mCRL2 language and toolset (www.mcrl2.org), which is open access and has no restrictions on its use. 
 We discuss the design of a number of distributed systems, and how these designs are shaped by the understanding gained through counterexamples.
 <br/><br/>
-<!-- *Biography:* 
-[Jan Friso Groote](mailto:)
-[Jeroen J.A. Keiren](mailto:) 
-<br/><br/> -->
-
+*Biography:* 
+[Jan Friso Groote](mailto:j.f.groote@tue.nl) studied computer science at Twente University. 
+He obtained his PhD at the University of Amsterdam on process algebra and operational semantics. 
+Since 1998 he has been full professor in formal methods at Eindhoven University of Technology. 
+His work focusses on methods to improve the quality of software by making models of distributed systems and analyzing such models by mathematical means. 
+For this he mostly uses the mCRL2 toolset which contains very expressive model languages and powerful analysis algorithms.
+[Jeroen Keiren](mailto:j.j.a.keiren@tue.nl) studied computer science at Eindhoven University of Technology, where he also obtained his PhD on reduction techniques in model checking. 
+He has been assistant professor since 2015, and at Eindhoven University of Technology since 2019. 
+His work focuses on the development and application of formal methods for the design of reliable software and hardware. 
+A common theme in his research is reducing the structures generated in model checking, e.g. using bisimulation methods.
+His specific areas of expertise include (explicit state) model checking and parity games.
+<br/><br/>
 
 ### DetectEr: A Runtime Verification Tool for Concurrent Components
 
