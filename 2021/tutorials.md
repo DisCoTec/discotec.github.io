@@ -59,7 +59,7 @@ However, behavioural modelling and model checking come to the rescue, as they h
 Model checking is generally restricted to finite instances of the models of the software, but in our experience this is not at all a real issue. 
 Most correctness problems manifest themselves in these limited instances.
 In this tutorial we show how to create behavioural models of distributed software, how to specify requirements using modal formulas, and how to verify these. 
-For that we use the mCRL2 language and toolset [mCRL2](www.mcrl2.org), which is open access and has no restrictions on its use. 
+For that we use the [mCRL2](www.mcrl2.org) language and toolset, which is open access and has no restrictions on its use. 
 We discuss the design of a number of distributed systems, and how these designs are shaped by the understanding gained through counterexamples.
 <br/><br/>
 *Biography:* 
