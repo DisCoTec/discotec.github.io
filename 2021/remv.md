@@ -2,11 +2,11 @@
 
 # Robotics, Electronics and Machine Vision
 
+The seminar "Robotics, Electronics and Machine Vision" is one of the workshops at [DisCoTec 2021](https://www.discotec.org/2021/), the 16th International Federated Conference on Distributed Computing Techniques and invites you to participate in the discussion of issues related to robotics, electronics and machine vision in its various aspects at all levels and in all contexts.
+
 Web address: <http://www.fa.ru/org/dep/findata/Pages/research-and-development.aspx>
 
 Contact phone: +7 (929) 7733555, Korchagin Sergey Alekseevich, <SAKorchagin@fa.ru>.
-
-The seminar "Robotics, Electronics and Machine Vision" will be organized within the framework of the Workshop at the DisCoTec 2021 - 16th International Federated Conference on Distributed Computing Techniques  (<https://www.discotec.org/2021/>) and invites you to participate in the discussion of issues related to robotics, electronics and machine vision in its various aspects at all levels and in all contexts.
 
 The seminar is aimed at discussing with the professional community the latest achievements in the field of robotic systems, intelligent electronics, the development of machine vision systems, the application of the achievements of robotics, electronics and machine vision in the field of agriculture, mechanical engineering, medicine, sports, etc.
 

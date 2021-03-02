@@ -1,8 +1,8 @@
-![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2021/)
+[![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2021/)
 
 ## FOCODILE 2021 - 2nd International Workshop on Foundations of Consensus and Distributed Ledgers
 
-FOCODILE 2021 is one of the workshops at DisCoTec 2021, the 16th International Federated Conference on Distributed Computing Techniques. It will be held on June 18, 2021. 
+FOCODILE 2021 is one of the workshops at [DisCoTec 2021](https://www.discotec.org/2021/), the 16th International Federated Conference on Distributed Computing Techniques. It will be held on June 18, 2021. 
 
 COVID-19 update: in case of a physical event, remote participation will be possible. Please check the DisCoTec 2021 main page for more details.
 
