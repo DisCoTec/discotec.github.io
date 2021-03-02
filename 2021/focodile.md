@@ -29,13 +29,9 @@ Researchers interested to present new, recent, or ongoing work should submit an 
 
 
 ### Important dates
-_TBA_
-
-<!-- 
-* April 20, 2021: abstract submission
-* May 20, 2021: speaker notification
+* April 19, 2021: abstract submission
+* May 18, 2021: notification
 * June 18, 2021: FOCODILE 2021 workshop 
--->
 
 
 ### Organising committee

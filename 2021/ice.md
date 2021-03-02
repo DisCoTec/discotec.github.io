@@ -42,15 +42,11 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 
 ## Important dates
-_TBA_
-
-<!--   
-* 15 April 2021: abstract submission
-* 19 April 2021: paper submission
-* 18 May 2021: notification
-* 18 June 2021: ICE workshop
-* 12 July 2021: camera-ready for EPTCS post-proceedings 
--->
+  * 15 April 2021: abstract submission
+  * 19 April 2021: paper submission
+  * 18 May 2021: notification
+  * 18 June 2021: ICE workshop
+  * 12 July 2021: camera-ready for EPTCS post-proceedings 
 
 
 ## Selection Procedure
