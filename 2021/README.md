@@ -23,21 +23,24 @@ DisCoTec 2021 will take place at the [University of Malta](http://www.um.edu.mt)
 * April 2, 2021 - Notification of accepted papers
 * April 23, 2021 - Camera-ready papers
 
-<!--## Satellite Events-->
+## Satellite Events
 
-## Workshops
+### Tutorials
 
-### Important Dates
+* [DisCoTec Tools](https://www.discotec.org/2021/tutorials) - Tutorial Sessions 
 
-* January 27, 2021 - Workshop proposal submission deadline
+### Workshops
+
+* [ICE 2021](https://www.discotec.org/2021/ice) - Workshop on Interaction and Concurrency Experience
+* [FOCODILE 2021](https://www.discotec.org/2021/focodile) - Workshop on the Foundations of Consensus and Distributed Ledgers
+* [Robotics, Electronics and Machine Vision](https://www.discotec.org/2021/remv)
+
+
+<!-- ### Important Dates -->
+<!-- * January 27, 2021 - Workshop proposal submission deadline
 * February 1, 2021 - Notification of accepted workshop proposals
 * Mid April, 2021 - Workshop paper submission deadline
-* Mid May, 2021 - Notification of accepted workshop papers
-
-## Tutorials
-
-<!-- *TBD* -->
-* [DisCoTec Tools](https://www.discotec.org/2021/tutorials) - Tutorial Sessions 
+* Mid May, 2021 - Notification of accepted workshop papers -->
 
 <!-- 
 * [DisCoTec Tools](https://www.discotec.org/2020/tutorials) - Tutorial Sessions 
