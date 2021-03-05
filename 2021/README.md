@@ -33,7 +33,7 @@ DisCoTec 2021 will take place at the [University of Malta](http://www.um.edu.mt)
 
 * [ICE 2021](https://www.discotec.org/2021/ice) - Workshop on Interaction and Concurrency Experience
 * [FOCODILE 2021](https://www.discotec.org/2021/focodile) - Workshop on the Foundations of Consensus and Distributed Ledgers
-* [Robotics, Electronics and Machine Vision](https://www.discotec.org/2021/remv)
+* [REMV 2021](https://www.discotec.org/2021/remv) - Workshop on Robotics, Electronics and Machine Vision
 
 
 <!-- ### Important Dates -->

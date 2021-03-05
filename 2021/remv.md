@@ -4,7 +4,7 @@
 
 The seminar "Robotics, Electronics and Machine Vision" is one of the workshops at [DisCoTec 2021](https://www.discotec.org/2021/), the 16th International Federated Conference on Distributed Computing Techniques and invites you to participate in the discussion of issues related to robotics, electronics and machine vision in its various aspects at all levels and in all contexts.
 
-Web address: <http://www.fa.ru/org/dep/findata/Pages/research-and-development.aspx>
+Web address: <https://en.fa.ru/about/news/international-affairs/?ELEMENT_ID=757>
 
 Contact phone: +7 (929) 7733555, Korchagin Sergey Alekseevich, <SAKorchagin@fa.ru>.
 
@@ -20,19 +20,13 @@ The Seminar can cover various topics, not limited to, including innovative resea
 * legal aspects of computer vision and robotics.
 
 ## Important dates
-_TBA_
-
-<!-- 
-Application deadline: February 27, 2021
-Acceptance Notice: April 19, 2021
-Workshop day: May 18, 2021
-Conference: May 19-21, 2021
-Seminar Proceedings Published: June 18, 2021
--->
-<!-- Seminar applications must be submitted as a PDF file for the workshop: https://www.discotec.org/2021/. -->
+* 15 April 2021: abstract submission
+* 19 April 2021: paper submission
+* 18 May 2021: notification
+* 18 June 2021: REMV workshop
 
 ## Article submission
-Abstracts, manuscripts up to 12 pages and short articles up to 6 pages, written in English and formatted according to EasyChair templates, must be submitted electronically. At the time of submission, you can choose to publish "Full Article" or "Short Article". Articles must be based on unpublished original work.
+Abstracts, manuscripts up to 12 pages and short articles up to 6 pages, written in English and formatted according to EasyChair templates and must be submitted electronically by sending them to SAKorchagin@fa.ru. Please indicate whether it is a "Full Article" or a "Short Article". Articles must be based on unpublished original work.
 
 ## Program committee
 * Soloviev Vladimir Igorevich, Doctor of Economics, Head of the Department of Data Analysis and Machine Learning, Financial University under the Government of the Russian Federation, Russian Federation, vsoloviev@fa.ru
