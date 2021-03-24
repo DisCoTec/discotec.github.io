@@ -118,7 +118,6 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Diego Marmsoler (University of Exeter, UK)
   * Hernán Melgratti (University of Buenos Aires, AR)
   * Maurizio Murgia (University of Trento, IT)
-  * Rumyana Neykova (Brunel University London, UK)
   * Kirstin Peters (TU Darmstadt, DE)
   * Johannes Åman Pohjola (Data61/CSIRO, AU) 
   * Ivan Prokic (University of Novi Sad, RS)
