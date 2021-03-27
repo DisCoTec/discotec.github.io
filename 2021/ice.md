@@ -99,7 +99,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Alceste Scalas (Technical University of Denmark, DK) - `alcsc (AT) dtu.dk`
 
 
-## Programme Committee (under construction)
+## Programme Committee
 
   * Massimo Bartoletti (University of Cagliari, IT)
   * Chiara Bodei (Università di Pisa, IT)
