@@ -17,7 +17,7 @@ The ICE and DisCoTec organisers are monitoring the COVID-19 situation. Depending
   * ICE also welcomes oral communications of already published or preliminary work
   * Invited speakers:
       - _TBA_
-  * Publication in [EPTCS](https://eptcs.org/) _(to be confirmed)_
+  * Publication in [EPTCS](https://eptcs.org/)
   * Special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier) _(to be confirmed)_
 
 
@@ -81,7 +81,7 @@ We are keen to enhance the balanced, inclusive and diverse nature of the ICE com
 
 Accepted research papers and communications must be presented at the workshop by one of the authors.
 
-Accepted research papers will be published after the workshop in [Electronic Proceedings in Theoretical Computer Science](http://eptcs.org/) _(to be confirmed)_.
+Accepted research papers will be published after the workshop in [Electronic Proceedings in Theoretical Computer Science](http://eptcs.org/).
 
 We plan to invite authors of selected papers and brief announcements to submit their work in a special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier). Such contributions will be regularly peer-reviewed according to the standard journal policy, but they will be handled in a shorter time than regular submissions. A list of published and in preparation special issues of previous ICE editions is reported below.
 
