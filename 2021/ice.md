@@ -16,7 +16,8 @@ The ICE and DisCoTec organisers are monitoring the COVID-19 situation. Depending
   * ICE welcomes full papers to be included in the proceedings
   * ICE also welcomes oral communications of already published or preliminary work
   * Invited speakers:
-      - _TBA_
+      - [Helene Coullon](http://helene-coullon.fr/) (IMT Atlantique)
+      - _More TBA_
   * Publication in [EPTCS](https://eptcs.org/)
   * Special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier) _(to be confirmed)_
 
