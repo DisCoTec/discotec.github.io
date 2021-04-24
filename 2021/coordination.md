@@ -16,62 +16,47 @@ Coordination 2021 is one of the three conferences of [DisCoTec 2021](https://www
 * Ken McMillan, Microsoft Research, Redmond
 -->
 
-<!--
+
 
 ## List of accepted papers
 
-Below you will find the list of accepted papers ordered and grouped as they will appear in the proceedings.
+Below you will find the list of accepted papers grouped by submission category and orderes as they were submitted.
+
+<!--
+
+Below you will find the list of accepted papers ordered by and grouped as they will appear in the proceedings.
 
 The programme will be available [here](https://www.discotec.org/2021/programme)
 
-Coordination languages
-
-- *ARx: Reactive Programming for Synchronous Connectors* by José Proença and Guillermina Cledou (Tool paper)
-- *Towards Energy-, Time- and Security-aware Multi-core Coordination* by Julius Roeder, Benjamin Rouxel, Sebastian Altmeyer and Clemens Grelck
-
-Message-based communication
-
-- *Team Automata@Work: On Safe Communication* by Maurice H. ter Beek, Rolf Hennicker and Jetty Kleijn (Short paper)
-- *Choreography Automata* by Franco Barbanera, Ivan Lanese and Emilio Tuosto
-- *A Choreography-Driven Approach to APIs: the OpenDXL Case Study* by Leonardo Frittelli, Facundo Maldonado, Hernan Melgratti and Emilio Tuosto
-
-Communications: types & implementations
-
-- *Implementation of Multiparty Session Types in Rust* by Nicolas Lagaillardie, Rumyana Neykova and Nobuko Yoshida (Short paper)
-- *GoPi: Compiling linear and static channels in Go* by Marco Giunti (Tool paper)
-- *SFJ: An Implementation of Semantic Featherweight Java* by Artem Usov and Ornela Dardha (Tool paper)
-
-Service-oriented computing
-
-- *Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices* by Espen Tønnessen Nordli, Phu H. Nguyen, Franck Chauvel and Hui Song (Short paper)
-- *Quality of Service ranking by quantifying partial compliance of
-requirements* by Agustín Eloy Martinez Suñé and Carlos Gustavo Lopez Pombo (Short paper)
-
-Large-scale decentralised systems
-
-- *Time-fluid field-based coordination* by Danilo Pianini, Stefano Mariani, Mirko Viroli and Franco Zambonelli
-- *Resilient Distributed Collection through Information Speed Thresholds* by Giorgio Audrito, Sergio Bergamini, Ferruccio Damiani and Mirko Viroli
-- *Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited* by Nicolas Gast, Diego Latella and Mieke Massink (Short paper)
-
-Smart contracts
-
-- *A true concurrent model of smart contracts executions* by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia
-- *Renegotiation and recursion in Bitcoin contracts* by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino
-
-Modelling
-
-- *Architecture modelling of parametric component-based systems* by Maria Pittou and George Rahonis
-- *Weighted PCL over product valuation monoids* by Vagia Karyoti and Paulina Paraponiari
-- *Operational representation of dependencies in Context-Dependent Event Structures* by G. Michele Pinna
-
-Verification & analysis
-
-- *Towards a Formally Verified EVM in Production Environment* by Xiyue Zhang, Yi Li and Meng Sun (Short paper)
-- *On Implementing Symbolic Controllability* by Adrian Francalanza and Jasmine Xuereb
-- *Combining SLiVER with CADP to Analyze Multi-agent Systems* by Luca Di Stefano, Frédéric Lang and Wendelin Serwe (Tool paper)
-- *Formal Modeling and Analysis of Medical Systems* by Mahsa Zarneshan, Fatemeh Ghassemi and Marjan Sirjani
-
 -->
+
+Full papers
+
+- *The Structure of Concurrent Process Histories* by Chad Nester	
+- *Deconfined Global Types for Asynchronous Sessions* by Francesco Dagnino, Paola Giannini and Mariangiola Dezani-Ciancaglini
+- *Relating Functional and Imperative Session Types* by Hannes Saffrich and Peter Thiemann
+- *Manifestly Phased Communication via Shared Session Types* by Chuta Sano, Stephanie Balzer and Frank Pfenning
+- *Microservice Dynamic Architecture-Level Deployment Orchestration* by Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi and Gianluigi Zavattaro
+- *A theory of Automated Market Makers in DeFi* by Massimo Bartoletti, James Hsin-Yu Chiang and Alberto Lluch Lafuente
+- *ReGraDa: Reactive Graph Data* by Leandro Galrinho, João Costa Seco, Søren Debois, Thomas Hildebrandt, Håkon Norman and Tijs Slaats
+- *Tuple-based coordination in large-scale situated systems* by Roberto Casadei, Mirko Viroli, Alessandro Ricci and Giorgio Audrito	
+
+Short papers
+
+- *Jolie & LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices* by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti, Florian Rademacher and Sabine Sachweh
+- *Safe Session-Based Asynchronous Coordination in Rust* by Zak Cutner and Nobuko Yoshida
+
+Tool papers
+
+- *Java Typestate Checker* by João Mota, Marco Giunti and António Ravara
+- *Asynchronous global types in co-logic programming* by Riccardo Bianchini and Francesco Dagnino
+- *A Clean and Efficient Implementation of Choreography Synthesis for Behavioural Contracts* by Davide Basile and Maurice H. ter Beek
+- *A Session Subtyping Tool* by Lorenzo Bacchiani, Mario Bravetti, Julien Lange and Gianluigi Zavattaro
+- *A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator* by Eva Maria Kuehn	
+- *ScaFi-Web: a Web-based Application for Field-based Coordination Programming* by Gianluca Aguzzi, Roberto Casadei, Niccolò Maltoni, Danilo Pianini and Mirko Viroli
+- *Towards Probabilistic Session-Type Monitoring* by Christian Bartolo Burlò, Adrian Francalanza, Alceste Scalas, Emilio Tuosto and Catia Trubiani
+
+
 
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
