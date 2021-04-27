@@ -33,8 +33,8 @@ DisCoTec 2021 is one of the major events sponsored by the International Federati
 
 Important dates (for all main conferences):
  
-  - January 29, 2021: Abstract submission deadline
-  - February 5, 2021: Paper submission deadline
+  - February 12, 2021: Abstract submission deadline (EXTENDED)
+  - February 19, 2021: Paper submission deadline (EXTENDED)
   - April 2, 2021: Notification of accepted papers
   - April 23, 2021:  Camera-ready papers deadline
   - June 14-18, 2021: Conferences and workshops
@@ -108,17 +108,16 @@ DisCoTec also features workshops, tutorials, and a tool track. Workshops, tutori
 
 * Steering Committee *
  
-  - Rocco De Nicola (IMT Lucca, IT)
-  - Pascal Felber (University of Neuchâtel, CH)
-  - Adrian Francalanza (University of Malta, MT)
-  - Kurt Geihs (University of Kasel, DE)
-  - Alberto Lluch Lafuente (Technical University of Denmark, DK)
-  - Kostas Magoutis (ICS-FORTH, GR)
-  - Elie Najm (Telecom Paris Tech, FR)
-  - Manuel Núñez (Universidad Complutense de Madrid, ES)
-  - Rui Oliveira (University of Minho, PT)
-  - Jean-Bernard Stefani (INRIA Grenoble, FR)
   - Gianluigi Zavattaro (University of Bologna, IT — Chair)
+  - Rocco De Nicola (IMT Lucca, IT)
+  - Kurt Geihs (University of Kasel, DE)
+  - Elie Najm (Telecom Paris Tech, FR)
+  - Mieke Massink (CNR-ISTI, IT)
+  - Luís Veiga (INESC-ID, Universidade de Lisboa, PT)
+  - Ivan Lanese (University of Bologna/INRIA, IT)
+  - Manuel Núñez (Universidad Complutense de Madrid, ES)
+  - Alberto Lluch Lafuente (Technical University of Denmark, DK)
+  - Adrian Francalanza (University of Malta, MT)
 
  
 To receive live, up-to-date information, follow us on Twitter @DisCoTecConf.
