@@ -40,7 +40,7 @@ research issues.
 
 
 ## DisCoTec editions
-* [DisCoTec 2021](http://www.discotec.org/2021) - Valletta,Malta
+* [DisCoTec 2021](http://www.discotec.org/2021) - Malta (Virtual)
 * [DisCoTec 2020](http://www.discotec.org/2020) - Malta (Virtual)
 * [DisCoTec 2019](http://www.discotec.org/2019) - Kongens Lyngby, Denmark
 * [DisCoTec 2018](http://2018.discotec.org/) - Madrid, Spain
