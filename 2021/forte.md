@@ -3,14 +3,27 @@
 # FORTE 2021 - 41st International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 FORTE 2021 is one of the three conferences of [DisCoTec 2021](https://www.discotec.org/2021/), the 16th International Federated Conference on Distributed Computing Techniques.
-### (1 Feb) News: submission deadline dates have been updated, see [DisCoTec 2021](https://www.discotec.org/2021/)
-
 
 ## Keynote Speakers
 
 * [Gilles Fedak](https://fr.linkedin.com/in/gilles-fedak-4a303a5b), iExec, FR
 * [Mira Mezini](https://www.stg.tu-darmstadt.de/staff/mira_mezini/), Technical University of Darmstadt, DE
 * [Alexandra Silva](https://alexandrasilva.org/#/main.html), University College London, UK 
+
+### Accepted Papers
+* On Bidirectional Runtime Enforcement, _Luca Aceto, Ian Cassar, Adrian Francalanza and Anna Ingolfsdottir_
+* A Multi-Agent Model for Polarization under Confirmation Bias in Social Networks, _Mário S. Alvim, Bernardo Amorim, Sophia Knight, Santiago Quintero and Frank Valencia_
+* A Formalisation of SysML State Machines in mCRL2	Mark Bouwman, _Bas Luttik and Djurre van der Wal_
+* How Adaptive and Reliable is your Program?, _Valentina Castiglioni, Michele Loreti and Simone Tini_
+* Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves, _Roberto Gorrieri_
+* Prioritise the Best Variation, _Wen Kokke and Ornela Dardha_
+* Introduction and preservation analysis of refinement relations in CCSL, _Mathieu Montin and Marc Pantel_
+* A case study on parametric verification of failure detectors, _Thanh-Hai Tran, Igor Konnov and Josef Widder_
+* π with leftovers: a mechanisation in Agda, _Uma Zalakain and Ornela Dardha_
+* Supervisory Synthesis of Configurable Behavioural Contracts with Modalities, _Davide Basile, Maurice H. ter Beek, Pierpaolo Degano, Axel Legay, Gianluigi Ferrari, Stefania Gnesi and Felicita Di Giandomenico_
+* Off-the-shelf Automated Analysis of Liveness Properties for Just Paths, _Mark Bouwman, Bas Luttik and Tim Willemse_
+* Towards a spatial model checker on GPU, _Laura Bussi, Vincenzo Ciancia and Fabio Gadducci_
+* Formal verification of HotStuff, _Leander Jehl_
 
 ### Quick Links:
 * [Important Dates](https://www.discotec.org/2021/#important-dates)
