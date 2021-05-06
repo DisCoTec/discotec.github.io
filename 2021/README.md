@@ -52,8 +52,8 @@
 ## Keynote Speakers
 
 * [Gilles Fedak](https://fr.linkedin.com/in/gilles-fedak-4a303a5b), iExec, FR
-* [Mira Mezini](https://www.stg.tu-darmstadt.de/staff/mira_mezini/), Technical University of Darmstadt, DE
-* [Alexandra Silva](https://alexandrasilva.org/#/main.html), University College London, UK 
+* [Mira Mezini](invited#mira-mezini), Technical University of Darmstadt, DE
+* [Alexandra Silva](invited#alexandra-silva), University College London, UK 
 
 
 
