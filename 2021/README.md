@@ -174,7 +174,7 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 
 ## Registration
 
-Go to the [registration page](https://www.um.edu.mt/events/discotec2021/about/_nocache).
+Go to the [registration page](https://www.um.edu.mt/events/discotec2021/registration).
 
 
 <!-- 
