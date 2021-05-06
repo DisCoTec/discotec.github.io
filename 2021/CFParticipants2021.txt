@@ -2,7 +2,7 @@
  
 ************************************************************************
 
-   Call for Participation: DisCoTec 2021
+   Call for Participants: DisCoTec 2021
    
    16th International Federated Conference on Distributed Computing Techniques 
    
@@ -10,9 +10,7 @@
 
 ************************************************************************
 
-INTRODUCTION
-
-DisCoTec 2021 (https://www.discotec.org/2021) is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS). It gathers conferences and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+DisCoTec 2021 is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS). It gathers conferences and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches. 
 
 As mentioned in our previous emails, DisCoTec 2021 will be held online again this year as a Zoom Webinar. Presentations will be recorded and broadcasted, followed by live Q&A sessions after each talk. 
 
@@ -69,35 +67,3 @@ SATELLITE EVENTS (June 14 and June 18)
 ************************************************************************
 
 To receive live, up to date information, follow us on Twitter: https://twitter.com/DisCoTecConf
-
-
-
-
-
-
-
-
-
-
-
-
-Mailing lists to send CFP to:
-concurrency@listserver.tue.nl
-types-announce@LISTS.SEAS.UPENN.EDU
-grin-eventi-owner@grin-informatica.it
-bt-eu@dcs.gla.ac.uk
-caic1402arvi@isp.uni-luebeck.de
-nwpt-info@lists.ioc.ee
-REVCOMP-LIST@JISCMAIL.AC.UK
-
-
-
-
-
-
-
-
-If you have a paper to present, then you need to pay a nominal registration fee, but otherwise, the registration is free of charge. If the paper has more than one author, only the presenter needs to pay the registration fee (the other authors can register free of charge). 
-
-
- A limited amount of student travel grants are provided by IFIP.
