@@ -11,18 +11,15 @@
 
 <!--*COVID-19:* We are continually monitoring the current COVID-19 situation. Depending on how this unfolds in the coming months, we may decide to switch to an online event, although we still hope to be able to organise a physical event. In the latter case, we would be happy to support remote presentations as well should participants be unable to travel safely. -->
 
+## Registration
+
+Go to the [registration page](https://www.um.edu.mt/events/discotec2021/registration).
+
 
 ## Conferences
 * [COORDINATION 2021](https://www.discotec.org/2021/coordination) - International Conference on Coordination Models and Languages
 * [DAIS 2021](https://www.discotec.org/2021/dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2021](https://www.discotec.org/2021/forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
-
-### Important Dates
-
-* ~~January 29, 2021~~  **February 12, 2021**- Abstract submission deadline **(extended)**
-* ~~February 5, 2021~~  **February 19, 2021** - Paper submission deadline **(extended)**
-* April 2, 2021 - Notification of accepted papers
-* April 23, 2021 - Camera-ready papers
 
 ## Satellite Events
 
@@ -35,6 +32,20 @@
 * [ICE 2021](https://www.discotec.org/2021/ice) - Workshop on Interaction and Concurrency Experience
 * [FOCODILE 2021](https://www.discotec.org/2021/focodile) - Workshop on the Foundations of Consensus and Distributed Ledgers
 * [REMV 2021](https://www.discotec.org/2021/remv) - Workshop on Robotics, Electronics and Machine Vision
+
+
+
+
+
+
+### Important Dates
+
+* February 12, 2021- Abstract submission deadline 
+* February 19, 2021 - Paper submission deadline 
+* April 2, 2021 - Notification of accepted papers
+* April 23, 2021 - Camera-ready papers
+* June 14-18, 2021 - Conference
+
 
 
 <!-- ### Important Dates -->
@@ -170,11 +181,6 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 
 
 
-
-
-## Registration
-
-Go to the [registration page](https://www.um.edu.mt/events/discotec2021/registration).
 
 
 <!-- 
