@@ -28,9 +28,11 @@ Below you will find the list of accepted papers grouped by submission category a
 
 Below you will find the list of accepted papers ordered by and grouped as they will appear in the proceedings.
 
+<!--
+
 The programme will be available [here](https://www.discotec.org/2021/programme)
 
-
+-->
 
 Tutorial
 
