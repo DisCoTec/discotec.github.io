@@ -20,41 +20,52 @@ Coordination 2021 is one of the three conferences of [DisCoTec 2021](https://www
 
 ## List of accepted papers
 
+<!--
+
 Below you will find the list of accepted papers grouped by submission category and orderes as they were submitted.
 
-<!--
+-->
 
 Below you will find the list of accepted papers ordered by and grouped as they will appear in the proceedings.
 
 The programme will be available [here](https://www.discotec.org/2021/programme)
 
--->
 
-Full papers
 
-- *The Structure of Concurrent Process Histories* by Chad Nester	
+Tutorial
+
+- *Modeling and analyzing resource-sensitive actors: A tutorial introduction* 
+by Rudolf Schlatte, Einar Broch Johnsen, Eduard Kamburjan and Silvia Lizeth Tapia Tarifa
+
+Communications: Types and Implemenations
+
+- *Manifestly Phased Communication via Shared Session Types* by Chuta Sano, Stephanie Balzer and Frank Pfenning
 - *Deconfined Global Types for Asynchronous Sessions* by Francesco Dagnino, Paola Giannini and Mariangiola Dezani-Ciancaglini
 - *Relating Functional and Imperative Session Types* by Hannes Saffrich and Peter Thiemann
-- *Manifestly Phased Communication via Shared Session Types* by Chuta Sano, Stephanie Balzer and Frank Pfenning
-- *Microservice Dynamic Architecture-Level Deployment Orchestration* by Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi and Gianluigi Zavattaro
-- *A theory of Automated Market Makers in DeFi* by Massimo Bartoletti, James Hsin-Yu Chiang and Alberto Lluch Lafuente
-- *ReGraDa: Reactive Graph Data* by Leandro Galrinho, João Costa Seco, Søren Debois, Thomas Hildebrandt, Håkon Norman and Tijs Slaats
-- *Tuple-based coordination in large-scale situated systems* by Roberto Casadei, Mirko Viroli, Alessandro Ricci and Giorgio Audrito	
-
-Short papers
-
-- *Jolie & LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices* by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti, Florian Rademacher and Sabine Sachweh
 - *Safe Session-Based Asynchronous Coordination in Rust* by Zak Cutner and Nobuko Yoshida
-
-Tool papers
-
+- *A Session Subtyping Tool* by Lorenzo Bacchiani, Mario Bravetti, Julien Lange and Gianluigi Zavattaro
+- *Towards Probabilistic Session-Type Monitoring* by Christian Bartolo Burlò, Adrian Francalanza, Alceste Scalas, Emilio Tuosto and Catia Trubiani
 - *Java Typestate Checker* by João Mota, Marco Giunti and António Ravara
 - *Asynchronous global types in co-logic programming* by Riccardo Bianchini and Francesco Dagnino
+
+Large-Scale Decentalised Systems
+
+- *Tuple-based coordination in large-scale situated systems* by Roberto Casadei, Mirko Viroli, Alessandro Ricci and Giorgio Audrito	
+- *A theory of Automated Market Makers in DeFi* by Massimo Bartoletti, James Hsin-Yu Chiang and Alberto Lluch Lafuente
+- *ReGraDa: Reactive Graph Data* by Leandro Galrinho, João Costa Seco, Søren Debois, Thomas Hildebrandt, Håkon Norman and Tijs Slaats
+
+Modelling: Structures and Implementations
+
+- *The Structure of Concurrent Process Histories* by Chad Nester
 - *A Clean and Efficient Implementation of Choreography Synthesis for Behavioural Contracts* by Davide Basile and Maurice H. ter Beek
-- *A Session Subtyping Tool* by Lorenzo Bacchiani, Mario Bravetti, Julien Lange and Gianluigi Zavattaro
 - *A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator* by Eva Maria Kuehn	
+
+Microservices
+
+- *Microservice Dynamic Architecture-Level Deployment Orchestration* by Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi and Gianluigi Zavattaro
+- *Jolie & LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices* by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti, Florian Rademacher and Sabine Sachweh
 - *ScaFi-Web: a Web-based Application for Field-based Coordination Programming* by Gianluca Aguzzi, Roberto Casadei, Niccolò Maltoni, Danilo Pianini and Mirko Viroli
-- *Towards Probabilistic Session-Type Monitoring* by Christian Bartolo Burlò, Adrian Francalanza, Alceste Scalas, Emilio Tuosto and Catia Trubiani
+
 
 
 
