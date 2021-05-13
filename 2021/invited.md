@@ -60,4 +60,24 @@ Has published more than 180 papers, many of which in top venues across the areas
 
 
 
+## Gilles Fedak
 
+[iExec, FR](mailto:gilles.fedak@iex.ec)
+
+### iExec: Building a Decentralized, Trusted and Privacy-Preserving Computing Infrastructure
+
+iExec is a French startup company based in Lyon which built the first decentralized marketplace in which entities (e.g. traditional cloud providers, research centers and even individuals) can contribute and monetize Cloud Computing resources (CPU, GPU), Decentralized Applications (Dapps) and data-sets (Data Renting) in a secure and confidential way, ensuring the confidentiality and ownership of data.
+During this talk, I will present how iExec combines Ethereum Smart Contracts, a unique Proof-of-Contribution (PoCo) protocol and Trusted Execution Environments (TEE) to ensure trust between providers and consumers of resources. 
+The project, however, is still facing several scientific and technological barriers related to scalability, interoperability and to supporting more classes of applications. 
+I will discuss several research topics (e.g. ZK-proofs and rollups) and two H2020 projects in which iExec is involved: OntoChain, which aims at building a trusted and transparent knowledge management ecosystem and Datacloud, which goal is to build a platform for big data analytics in the edge-to-cloud continuum.
+
+### Biography
+
+Gilles Fedak is CEO and co-founder of iExec: Blockchain-based Decentralized Cloud Computing. 
+iExec issued the RLC token and realized the first major ICO in France on April 19th, 2017, raising 10.000 Bitcoins (equivalent to 12.5 million USD) in less than 3 hours. 
+iExec builds a decentralized market place for computing resources using the Ethereum blockchain, and has been a permanent Inria research scientist since 2004 at the ENS in Lyon, France. 
+After receiving his Ph.D degree from the University of Paris Sud in 2003, he followed a postdoctoral fellowship at the University of California in San Diego in 2003-2004. 
+His research interests lie in Parallel and Distributed Computing, with a particular emphasis on the problematic of using large and loosely-coupled distributed computing infrastructures to support highly demanding computational and data-intensive science. 
+Gilles produced pioneering software and algorithms in the field of Grid and Cloud Computing that allow people to easily harness large parallel systems consisting of thousands of machines distributed on the Internet (XtremWeb, MPICH-V, BitDew, SpeQulos, Xtrem-MapReduce, and Active Data). 
+He co-authored about 80 peer-reviewed scientific papers and won two Best Paper awards. 
+In 2012, G. Fedak co-edited with C. Cérin the Desktop Grid Computing Book, (CRC publication), and in 2015, he received the Chinese Academy of Sciences PIFI Award.

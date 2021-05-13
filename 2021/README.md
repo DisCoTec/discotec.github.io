@@ -62,7 +62,7 @@ Go to the [registration page](https://www.um.edu.mt/events/discotec2021/registra
 
 ## Keynote Speakers
 
-* [Gilles Fedak](https://fr.linkedin.com/in/gilles-fedak-4a303a5b), iExec, FR
+* [Gilles Fedak](invited#gilles-fedak), iExec, FR
 * [Mira Mezini](invited#mira-mezini), Technical University of Darmstadt, DE
 * [Alexandra Silva](invited#alexandra-silva), University College London, UK 
 
