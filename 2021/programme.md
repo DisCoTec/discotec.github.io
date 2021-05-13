@@ -26,13 +26,16 @@
 |*15.00-15.30*| *break* | *break*|
 |**15.30-17.00**|  [Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems](tutorials#kollapsthunderstorm-reproducible-evaluation-of-distributed-systems)   |  [Typechecking Java protocols with Mungo/StMungo](tutorials#typechecking-java-protocols-with-mungostmungo)   | -->
 
-|Time | [Tools Track] |
+|Time | Tools Track |
 |:---:|:---:|
 |*9.20-9.30*| *welcome* |
 |**9.30-11.00**| [Simulation of large scale computational ecosystems with Alchemist: a tutorial](tutorials#simulation-of-large-scale-computational-ecosystems-with-alchemist-a-tutorial) | 
 |*11:00-13:00*| *break* |
 |**13.00-14.30**| [ABS: Modeling and analysis with resource-sensitive actors](tutorials#abs-modeling-and-analysis-with-resource-sensitive-actors) | 
-
+|*14:30-15:00*| *break* |
+|**15.00-16.30**| [DetectEr: A Runtime Verification Tool for Concurrent Components](tutorials#detecter-a-runtime-verification-tool-for-concurrent-components) | 
+|*16:30-17:00*| *break* |
+|**17.00-18.30**| [Tutorial: Designing Distributed Software in mCRL2](tutorials#tutorial-designing-distributed-software-in-mcrl2) | 
 
 <br/>
   
