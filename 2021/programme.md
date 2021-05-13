@@ -57,19 +57,18 @@
 |Time |[COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_1ibVOhJ7Q7ORzoxcriI6ow) | [DAIS](https://universityofmalta.zoom.us/webinar/register/WN_xME8H0crRxW_MtBBT6oN7g) | FORTE |
 |:---:|:---:|:---:|:---:|
 |*09.45-10.00*| *welcome* | *welcome*| *welcome*|
-|**10.00-11.00**| [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) | [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) | [(Invited Talk) Peter Kriens: Formal Specifications to Increase Understanding](invited#peter-kriens) |
-|*11.00-11.25*|*break*|*break*|*break*|
-|*11.25-11.30*|*welcome*|*break*|*break*|
-|**11.30-12.00**| [Operational representation of dependencies in Context-Dependent Event Structures](#modelling-1) | [On the trade-offs of combining multiple secure processing primitives for data analytics](#privacy-and-security) |
-|**12.00-12.30**| [Architecture modelling of parametric component-based systems](#modelling-1) | [Capturing Privacy-preserving User Contexts with IndoorHash](#privacy-and-security)|
-|*12.30-14.00*|*break*|*break*|*break*|
-|**14.00-14.30**| [Weighted PCL over product valuation monoids](#modelling-2--message-based-communication-1) | [Self-Tunable DBMS Replication with Reinforcement Learning](#ml-for-systems)|
-|**14.30-15.00**| [A Choreography-Driven Approach to APIs: the OpenDXL Case Study](#modelling-2--message-based-communication-1) | [A microservice architecture to automate the evaluation of Android machine learning detection systems](#ml-for-systems)|
-|*15.00-15.30*|*break*|*break*|*break*|
-|**15.30-16.00**| [Choreography Automata](#message-based-communication-2--microservices)|
-|**16.00-16.20**| [Team Automata@Work: On Safe Communication](#message-based-communication-2--microservices)|
-|**16.20-16.40**| [Event-based Non-intrusive Customization of Multi-tenant SaaS Using Microservices](#message-based-communication-2--microservices)|
-|**16.40-17.00**| [Quality of Service ranking by quantifying partial compliance of requirements](#message-based-communication-2--microservices)|
+|**10.00-11.00**| [(Invited Talk) Alexandra Silva: Prognosis: Black-Box Analysis of Network Protocol Implementations](invited#alexandra-silva) | [(Invited Talk) Alexandra Silva: Prognosis: Black-Box Analysis of Network Protocol Implementations](invited#alexandra-silva) | [(Invited Talk) Alexandra Silva: Prognosis: Black-Box Analysis of Network Protocol Implementations](invited#alexandra-silva) |
+|*11.00-12.55*|*break*|*break*|*break*|
+|*12.55-13.00*|*welcome*|*welcome*|*welcome*|
+|**13.00-13.30**| [A theory of Automated Market Makers in DeFi](#modelling-1) | [Network Federation for Inter-Cloud Operations](#privacy-and-security) |
+|**13.30-14.00**| [ReGraDa: Reactive Graph Data](#modelling-1) | [SPECK: Composition of Stream Processing Applications over Fog Environments](#privacy-and-security)| [Polarization and Belief Convergence of Multi-Agents Systems Under Confirmation Bias] ()
+|**14.00-14.30**| [Tuple-based coordination in large-scale situated systems]() | [Portable Intermediate Representation for efficient Big Data Analytics]() | [Controller Synthesis of Service Contracts with Variability]() |
+|**14.30-15.00**| | | [Formal verification of HotStuff]()
+|*15.00-17.00*|*break*|*break*|*break*|
+|**17.00-17.30**| [Relating Functional and Imperative Session Types]()
+|**17.30-18.00**| [Deconfined Global Types for Asynchronous Sessions]()
+|**18.00-18.30**| [Manifestly Phased Communication via Shared Session Types]()
+|**18.30-19.00**| [Safe Session-Based Asynchronous Coordination in Rust]()
 
 <br/>
 
