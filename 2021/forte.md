@@ -6,9 +6,9 @@ FORTE 2021 is one of the three conferences of [DisCoTec 2021](https://www.discot
 
 ## Keynote Speakers
 
-* [Gilles Fedak](https://fr.linkedin.com/in/gilles-fedak-4a303a5b), iExec, FR
-* [Mira Mezini](https://www.stg.tu-darmstadt.de/staff/mira_mezini/), Technical University of Darmstadt, DE
-* [Alexandra Silva](https://alexandrasilva.org/#/main.html), University College London, UK 
+* [Gilles Fedak](invited#gilles-fedak), iExec, FR
+* [Mira Mezini](invited#mira-mezini), Technical University of Darmstadt, DE
+* [Alexandra Silva](invited#alexandra-silva), University College London, UK 
 
 ### Accepted Papers
 * On Bidirectional Runtime Enforcement, _Luca Aceto, Ian Cassar, Adrian Francalanza and Anna Ingolfsdottir_
