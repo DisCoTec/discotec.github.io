@@ -29,9 +29,9 @@
 |Time | [Tools Track] |
 |:---:|:---:|
 |*9.20-9.30*| *welcome* |
-|**9.30-11.00**| [Simulation of large scale computational ecosystems with Alchemist: a tutorial](tutorials#simulation-of-large-scale-computational-ecosystems-with-Alchemist:-a-tutorial) | 
+|**9.30-11.00**| [Simulation of large scale computational ecosystems with Alchemist: a tutorial](tutorials#simulation-of-large-scale-computational-ecosystems-with-alchemist-a-tutorial) | 
 |*11:00-13:00*| *break* |
-|**13.00-14.30**| [ABS: Modeling and analysis with resource-sensitive actors](tutorials#abs:-modeling-and-analysis-with-resource-sensitive-actors) | 
+|**13.00-14.30**| [ABS: Modeling and analysis with resource-sensitive actors](tutorials#abs-modeling-and-analysis-with-resource-sensitive-actors) | 
 
 
 <br/>
