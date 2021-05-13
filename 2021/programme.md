@@ -9,11 +9,12 @@
 
 ## Monday 15 June
 
+<!--
 ### Webinars
 
 - Distributed Computing Tutorial track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_mZXKJ49FQkmBYSXi_0gv4Q)
 - Verification Track Tutorial track [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_YV_VItlZQ9eeQntUAXR3kA)
-
+-->
 
 ### Tutorials 
 
@@ -42,7 +43,7 @@
 
 ## Tuesday 16 June
 
-<!-->  
+<!--
 ### Webinars
 
 - DisCoTec [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_zpyypjBfQh6kPAI0hK_MPA) (Invited talk)
@@ -53,7 +54,9 @@
 
 ### Conference Talks
 
-|Time |[COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_1ibVOhJ7Q7ORzoxcriI6ow) | [DAIS](https://universityofmalta.zoom.us/webinar/register/WN_xME8H0crRxW_MtBBT6oN7g) | FORTE |
+<!-- |Time |[COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_1ibVOhJ7Q7ORzoxcriI6ow) | [DAIS](https://universityofmalta.zoom.us/webinar/register/WN_xME8H0crRxW_MtBBT6oN7g) | FORTE | -->
+
+|Time | COORDINATION | DAIS | FORTE |
 |:---:|:---:|:---:|:---:|
 |*09.45-10.00*| *welcome* | *welcome*| *welcome*|
 |**10.00-11.00**| [(Invited Talk) Alexandra Silva: Prognosis: Black-Box Analysis of Network Protocol Implementations](invited#alexandra-silva) | [(Invited Talk) Alexandra Silva: Prognosis: Black-Box Analysis of Network Protocol Implementations](invited#alexandra-silva) | [(Invited Talk) Alexandra Silva: Prognosis: Black-Box Analysis of Network Protocol Implementations](invited#alexandra-silva) |
@@ -75,36 +78,32 @@
 
 ## Wednesday 17 June
 
-### Webinars
+<!-- ### Webinars
 
 - DisCoTec [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_P1w7dLV7TtyjhnPklwVhmg) (Invited talks, Best Paper Joint Session)
 - COORDINATION [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_lr6EM8GRQRmuny9wWrvOtw)
 - DAIS [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_ie3n4vu0SESXycZPbKqo1A)
 - FORTE [webinar link](https://universityofmalta.zoom.us/webinar/register/WN_s4cFRx-tTz-Zq7biiAfEyA)
   
+-->
 
 ### Conference Talks
 
-  
 
-|Time | [COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_lr6EM8GRQRmuny9wWrvOtw) | [DAIS](https://universityofmalta.zoom.us/webinar/register/WN_ie3n4vu0SESXycZPbKqo1A) | [FORTE](https://universityofmalta.zoom.us/webinar/register/WN_s4cFRx-tTz-Zq7biiAfEyA) | 
+|Time | COORDINATION | DAIS | FORTE |
 |:---:|:---:|:---:|:---:|
-|**09.55-10.00**| Announcements | Announcements | Announcements |
-|**10.00-11.00**| [(Invited Talk) Nathalie Bertrand: Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand) | [(Invited Talk) Nathalie Bertrand: Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand) | [(Invited Talk) Nathalie Bertrand: Probabilistic Threshold Automata for Modeling and Verifying Randomized Distributed Algorithms](invited#nathalie-bertrand) |
-|*11.00-11.30*|*break*|*break*|*break*|
-|**11.30-12.00**| [A true concurrent model of smart contracts executions](#coordination-best-paper) | | |
-|**12.00-12.30**| | [TailX: Scheduling Heterogeneous Multiget Queries to Improve Tail Latencies in Key-Value Stores](#dais-best-paper) | |
-|**12.30-13.00**| | | [Defining and Verifying Durable Opacity: Correctness for Persistent Software Transactional Memory](#forte-best-paper)|
-|*13.00-13.55*|*break*|*break*|*break*|
-|*13.55-14.00*|*break*|*welcome*|*welcome*|
-|**14.00-14.30**| [GoPi: Compiling linear and static channels in Go](#communications-types--implementations) | [Towards hypervisor support for enhancing the performance of virtual machine introspection](#cloud-and-systems) | [Derivation of Heard-Of Predicates From Elementary Behavioral Patterns](#program-logics) |
-|**14.30-15.00**| [SFJ: An Implementation of Semantic Featherweight Java](#communications-types--implementations) | [Fed-DIC: Diagonally Interleaved Coding in a Federated Cloud Environment](#cloud-and-systems) | [Trace Equivalence and Epistemic Logic to Express Security Properties](#program-logics) |
-|*15.00-15.30*|*break*|*break*|*break*|
-|**15.30-16.00**| [Implementation of Multiparty Session Types in Rust](#communications-types--implementations)<br/> (10 min break at 15:50) | [Building a Polyglot Data Access Layer for a Low-Code Application Development Platform](#fault-tolerance-and-reproducibilty) | [A Formal Framework for Consent Management](#formal-frameworks) |
-|**16.00-16.30**| [Renegotiation and recursion in Bitcoin contract](#digital-contracts) | [A Comparison of Message Exchange Patterns in BFT Protocols](#fault-tolerance-and-reproducibilty) | [Towards Bridging Time and Causal Reversibility](#formal-frameworks)  |
-|**16.30-16.50**| [Towards a Formally Verified EVM in Production Environment](#digital-contracts) |
-|*16.50-17.30*| *break* | *break* | *break* |
-|**17.30-18.30**| [(Invited Talk) Kenneth McMillan: Ivy: A Verification tool for Distributed Algorithms](invited#kenneth-mcmillan) | [(Invited Talk) Kenneth McMillan: Ivy: A Verification tool for Distributed Algorithms](invited#kenneth-mcmillan) | [(Invited Talk) Kenneth McMillan: Ivy: A Verification tool for Distributed Algorithms](invited#kenneth-mcmillan) | 
+|**09.55-10.00**| *welcome* | *welcome* | *welcome* |
+|**10.00-11.00**| [(Invited Talk) Mira Mezini: Let it Flow: Reactive Computations for Consistent-by-Design Distributed Applications ](invited#mira-mezini) | [[(Invited Talk) Mira Mezini: Let it Flow: Reactive Computations for Consistent-by-Design Distributed Applications ](invited#mira-mezini) | [(Invited Talk) Mira Mezini: Let it Flow: Reactive Computations for Consistent-by-Design Distributed Applications ](invited#mira-mezini) |
+|*11.00-13.00*|*break*|*break*|*break*|
+|**13.00-13.30**| [The Structure of Concurrent Process Histories]() |
+|**13.30-14.00**| | [ASPAS: As Secure as Possible Available Systems]() |
+|**14.00-14.30**| | | [A case study on parametric verification of failure detectors]() |
+|*14.30-17.00*|*break*|*break*|*break*|
+|**17.00-17.30**| [Java Typestate Checker]() | [Shared-Dining: Broadcasting Secret Shares using Dining-Cryptographers Groups]() | [On Bidirectional Runtime Enforcement]() |
+|**17.30-16.00**| [Asynchronous global types in co-logic programming]() | [KEVLAR-TZ: A Secure Cache for ARM TrustZone]() | [Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves]() |
+|**16.00-16.30**| [A Session Subtyping Tool]() | | [How Adaptive and Reliable is your Program?]() |
+|**16.30-17.00**| [Towards Probabilistic Session-Type Monitoring]() |
+
 
 <br/>
 
@@ -112,39 +111,35 @@
 
 ## Thursday 18 June
 
-### Webinars
+<!-- ### Webinars
 
 - [DisCoTec webinar link (Invited talk)](https://universityofmalta.zoom.us/webinar/register/WN_TejuCHd9RVe4E0goRo5cqw)
 - [COORDINATION webinar link](https://universityofmalta.zoom.us/webinar/register/WN_qgFfHKGvTPG35VMuJUbN6g)
 - [DAIS webinar link](https://universityofmalta.zoom.us/webinar/register/WN_E7baFYLySw-OvZzToh6a6g)
-- [FORTE webinar link](https://universityofmalta.zoom.us/webinar/register/WN_zQWcMY2UTeycG8QxNGhpAw)
+- [FORTE webinar link](https://universityofmalta.zoom.us/webinar/register/WN_zQWcMY2UTeycG8QxNGhpAw) -->
 
 ### Conference Talks
 
 
-|Time |[COORDINATION](https://universityofmalta.zoom.us/webinar/register/WN_qgFfHKGvTPG35VMuJUbN6g)|[DAIS](https://universityofmalta.zoom.us/webinar/register/WN_E7baFYLySw-OvZzToh6a6g)|[FORTE](https://universityofmalta.zoom.us/webinar/register/WN_zQWcMY2UTeycG8QxNGhpAw)| 
+|Time |COORDINATION|DAIS|FORTE| 
 |:---:|:---:|:---:|:---:|
-|**10.00-11.00**|  [(Invited Talk) Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns) |  [(Invited Talk) Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns) |  [(Invited Talk) Holger Hermanns: Power-Optimal Scheduling of LEO Satellite Networks](invited#holger-hermanns) |
-|*11.00-11.30*|*break*|*break*|*break*|
-|**11.30-12.00**| [Towards Energy-, Time- and Security-aware Multi-core Coordination](#coordination-languages) | [A resource usage efficient distributed allocation algorithm for 5G Service Function Chains](#distributed-algorithms) | [Conformance-Based Doping Detection for Cyber-Physical Systems](#verification-1) |
-|**12.00-12.30**| [ARx: Reactive Programming for Synchronous Connectors](#coordination-languages) | [A Stabilizing One-To-Many Node-Disjoint paths Routing Algorithm in Star Networks](#distributed-algorithms) | [Strategy Synthesis for Autonomous Driving in a Moving Block Railway System with Uppaal Stratego](#verification-1)  |
-|*12.30-13.30*|*break*|*break*|*break*|
-|**13.30-14.00**| [Time-fluid field-based coordination](#large-scale-decentralised-systems) | |
-|**14.00-14.30**| [Resilient Distributed Collection through Information Speed Thresholds](#large-scale-decentralised-systems) | | [Deep Statistical Model Checking](#verification-2) |
-|**14.30-15.00**| [Refined Mean Field Analysis: The Gossip Shuffle Protocol Revisited](#large-scale-decentralised-systems) | | [Towards a Hybrid Verification Methodology for Communication Protocols](#verification-2) |
-|*15.00-15.30*|*break*|*break*|*break*|
-|**15.30-16.00**| [Formal Modeling and Analysis of Medical Systems](#verification-and-analysis) | | [Probabilistic Timed Automata with One Clock and Initialised Clock-Dependent Probabilities](#timed-automata) |
-|**16.00-16.30**| [On Implementing Symbolic Controllability](#verification-and-analysis) | | [On Implementable Timed Automata](#timed-automata)  |
-|**16.30-17.00**| [Combining SLiVER with CADP to Analyze Multi-agent Systems](#verification-and-analysis) | | |
+|**09.55-10.00**| *welcome* | *welcome* | *welcome* |
+|**10.00-11.00**| [(Invited Talk) Gilles Fedak: iExec: Building a Decentralized, Trusted and Privacy-Preserving Computing Infrastructure](invited#gilles-fedak) | [(Invited Talk) Gilles Fedak: iExec: Building a Decentralized, Trusted and Privacy-Preserving Computing Infrastructure](invited#gilles-fedak) | [(Invited Talk) Gilles Fedak: iExec: Building a Decentralized, Trusted and Privacy-Preserving Computing Infrastructure](invited#gilles-fedak) |
+|*11.00-13.00*|*break*|*break*|*break*|
+|**13.00-13.30**| | [A methodology for tenant migration in legacy shared-table multi-tenant applications]() | [π with leftovers: a mechanisation in Agda]() |
+|**13.30-14.00**| [Microservice Dynamic Architecture-Level Deployment Orchestration]() | [Analysis and Improvement of Heterogeneous Hardware Support in Docker Images]() | [Off-the-shelf Automated Analysis of Liveness Properties for Just Paths]() |
+|**14.00-14.30**| [Jolie & LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices]() | [UCBFed: Using Reinforcement Learning Method to Tackle the Federated Optimization Problem]() | [Introduction and preservation analysis of refinement relations in CCSL]() |
+|**14.30-15.00**| [ScaFi-Web: a Web-based Application for Field-based Coordination Programming]() |
+|*15.00-17.00*|*break*|*break*|*break*|
+|**17.00-17.30**| [A Clean and Efficient Implementation of Choreography Synthesis for Behavioural Contracts]() |
+|**17.30-16.00**| [A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator]() |
 
 <br/>
 
+<!-- 
 ## Friday 19 June
 
 ### Webinars
-
-<!-- - [ICE webinar link](https://universityofmalta.zoom.us/s/93346436438)
-- [FOCODILE webinar link](https://universityofmalta.zoom.us/s/92510481332) -->
 
 - [ICE meeting link](https://universityofmalta.zoom.us/j/97470142926)
 - [FOCODILE meeting link](https://universityofmalta.zoom.us/j/95543045483)
@@ -175,8 +170,9 @@
 |**19.00-19.30**|  | [On coercion resistance in decentralized voting](#session-3)  |
 |**18.30-20.00**|  | [Divide and Scale: Formalization of Distributed Ledger Sharding Protocols](#session-3)  |
 
-
 <br/><br/>
+-->
+
 
 ## Coordination accepted papers and programme
 
