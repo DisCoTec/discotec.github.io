@@ -29,11 +29,9 @@
 |Time | [Tools Track] |
 |:---:|:---:|
 |*9.20-9.30*| *welcome* |
-|**9.30-11.00**| [Simulation of large scale computational ecosystems with Alchemist: a tutorial(tutorials#simulation-of-large-scale-computational-ecosystems-with-Alchemist:-a-tutorial) | 
-<!-- |*12.00-13.30*| *break* | *break*|
-|**13.30-15.00**| [CHOReVOLUTION IDRE: An Integrated Development and Run-time Environment for Automatically Realizing and Executing Distributed Applications](tutorials#chorevolution-idre-an-integrated-development-and-run-time-environment-for-automatically-realizing-and-executing-distributed-applications)   |    [The Probabilistic Model Checker Storm](tutorials#the-probabilistic-model-checker-storm)   |
-|*15.00-15.30*| *break* | *break*|
-|**15.30-17.00**|  [Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems](tutorials#kollapsthunderstorm-reproducible-evaluation-of-distributed-systems)   |  [Typechecking Java protocols with Mungo/StMungo](tutorials#typechecking-java-protocols-with-mungostmungo)   | -->
+|**9.30-11.00**| [Simulation of large scale computational ecosystems with Alchemist: a tutorial](tutorials#simulation-of-large-scale-computational-ecosystems-with-Alchemist:-a-tutorial) | 
+|*11:00-13:00*| *break* |
+|**13.00-14.30**| [ABS: Modeling and analysis with resource-sensitive actors](tutorials#abs:-modeling-and-analysis-with-resource-sensitive-actors) | 
 
 
 <br/>
