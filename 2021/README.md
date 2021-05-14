@@ -15,6 +15,10 @@
 
 Go to the [registration page](https://www.um.edu.mt/events/discotec2021/registration).
 
+## Programme
+
+Go to the [programme page](https://www.discotec.org/2021/programme). *All times are listed for* **CET+1** *(Central European **Summer** Time)* 
+
 
 ## Conferences
 * [COORDINATION 2021](https://www.discotec.org/2021/coordination) - International Conference on Coordination Models and Languages
@@ -87,11 +91,6 @@ The individual conferences will organise special issues of extended and selected
 * FORTE: [LNCS 12136](https://link.springer.com/book/10.1007/978-3-030-50086-3)
 -->
 
-<!-- 
-## Programme
-
-Go to the [programme page](https://www.discotec.org/2020/programme). *All times are listed for* **CET+1** *(Central European **Summer** Time)* 
--->
 
 <!-- 
 ## Discussions

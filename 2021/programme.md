@@ -136,17 +136,19 @@
 
 <br/>
 
-<!-- 
-## Friday 19 June
 
-### Webinars
+## Friday 18 June
+
+<!-- ### Webinars
 
 - [ICE meeting link](https://universityofmalta.zoom.us/j/97470142926)
-- [FOCODILE meeting link](https://universityofmalta.zoom.us/j/95543045483)
+- [FOCODILE meeting link](https://universityofmalta.zoom.us/j/95543045483) -->
 
 ### Workshop Talks
 
-|Time |[ICE](https://universityofmalta.zoom.us/j/97470142926)|[FOCODILE](https://universityofmalta.zoom.us/j/95543045483)|
+*TBA*
+
+<!-- |Time |[ICE](https://universityofmalta.zoom.us/j/97470142926)|[FOCODILE](https://universityofmalta.zoom.us/j/95543045483)|
 |:---:|:---:|:---:|
 |*09.20-09.30*|*welcome*|*break*|
 |**09.30-10.20**| [(Invited Talk) Cinzia Di Giusto: On the k-synchronizability of Distributed Systems](invited#cinzia-di-giusto)|
@@ -168,10 +170,10 @@
 |*18.00-18.30*|*break*|*break*|
 |**18.30-19.00**|  | [TontineCoin: Brief Description](#session-3)  |  
 |**19.00-19.30**|  | [On coercion resistance in decentralized voting](#session-3)  |
-|**18.30-20.00**|  | [Divide and Scale: Formalization of Distributed Ledger Sharding Protocols](#session-3)  |
+|**18.30-20.00**|  | [Divide and Scale: Formalization of Distributed Ledger Sharding Protocols](#session-3)  | -->
 
 <br/><br/>
--->
+
 
 
 ## Coordination accepted papers and programme
