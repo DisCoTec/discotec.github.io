@@ -27,7 +27,7 @@
 |*15.00-15.30*| *break* | *break*|
 |**15.30-17.00**|  [Kollaps/Thunderstorm: Reproducible Evaluation of Distributed Systems](tutorials#kollapsthunderstorm-reproducible-evaluation-of-distributed-systems)   |  [Typechecking Java protocols with Mungo/StMungo](tutorials#typechecking-java-protocols-with-mungostmungo)   | -->
 
-|Time | Tools Track |
+|Time | DisCoTec Tool |
 |:---:|:---:|
 |*9.20-9.30*| *welcome* |
 |**9.30-11.00**| [Simulation of large scale computational ecosystems with Alchemist: a tutorial](tutorials#simulation-of-large-scale-computational-ecosystems-with-alchemist-a-tutorial) | 
