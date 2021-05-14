@@ -69,7 +69,7 @@
 |*15.00-17.00*|*break*|*break*|*break*|
 |**17.00-17.30**| [Relating Functional and Imperative Session Types](#communications-types-and-implemenations) | | [Prioritise the Best Variation](#static-analysis-and-type-systems)
 |**17.30-18.00**| [Deconfined Global Types for Asynchronous Sessions](#communications-types-and-implemenations) | | [A formalisation of SysML state machines in mCRL2](#static-analysis-and-type-systems)
-|**18.00-18.30**| [Manifestly Phased Communication via Shared Session Types](#communications-types-and-implemenations) | [Towards a spatial model checker on GPU](#static-analysis-and-type-systems)
+|**18.00-18.30**| [Manifestly Phased Communication via Shared Session Types](#communications-types-and-implemenations) | | [Towards a spatial model checker on GPU](#static-analysis-and-type-systems)
 |**18.30-19.00**| [Safe Session-Based Asynchronous Coordination in Rust](#communications-types-and-implemenations)
 
 <br/>
