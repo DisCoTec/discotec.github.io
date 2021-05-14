@@ -10,11 +10,7 @@ Coordination 2021 is one of the three conferences of [DisCoTec 2021](https://www
 * [Mira Mezini](invited#mira-mezini), Technical University of Darmstadt, DE
 * [Alexandra Silva](invited#alexandra-silva), University College London, UK 
 
-<!--
-* Holger Hermanns, Saarland University
-* Peter Kriens, aQute & OSGi Alliance
-* Ken McMillan, Microsoft Research, Redmond
--->
+
 
 
 
@@ -26,13 +22,10 @@ Below you will find the list of accepted papers grouped by submission category a
 
 -->
 
+The programme is available [here](https://www.discotec.org/2021/programme).
+
 Below you will find the list of accepted papers ordered by and grouped as they will appear in the proceedings.
 
-<!--
-
-The programme will be available [here](https://www.discotec.org/2021/programme)
-
--->
 
 Tutorial
 
