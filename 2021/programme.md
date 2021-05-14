@@ -93,7 +93,7 @@
 |Time | COORDINATION | DAIS | FORTE |
 |:---:|:---:|:---:|:---:|
 |**09.55-10.00**| *welcome* | *welcome* | *welcome* |
-|**10.00-11.00**| [(Invited Talk) Mira Mezini: Let it Flow: Reactive Computations for Consistent-by-Design Distributed Applications ](invited#mira-mezini) | [[(Invited Talk) Mira Mezini: Let it Flow: Reactive Computations for Consistent-by-Design Distributed Applications ](invited#mira-mezini) | [(Invited Talk) Mira Mezini: Let it Flow: Reactive Computations for Consistent-by-Design Distributed Applications ](invited#mira-mezini) |
+|**10.00-11.00**| [(Invited Talk) Mira Mezini: Let it Flow: Reactive Computations for Consistent-by-Design Distributed Applications ](invited#mira-mezini) | [(Invited Talk) Mira Mezini: Let it Flow: Reactive Computations for Consistent-by-Design Distributed Applications](invited#mira-mezini) | [(Invited Talk) Mira Mezini: Let it Flow: Reactive Computations for Consistent-by-Design Distributed Applications ](invited#mira-mezini) |
 |*11.00-13.00*|*break*|*break*|*break*|
 |**13.00-13.30**| [The Structure of Concurrent Process Histories](#coordination-best-paper) |
 |**13.30-14.00**| | [ASPAS: As Secure as Possible Available Systems](#dais-best-paper) |
@@ -183,41 +183,39 @@
 - *The Structure of Concurrent Process Histories* <br/> by Chad Nester 
 <!-- [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_16)  [(video)](https://www.youtube.com/watch?v=vgoDvMa69cU&feature=youtu.be) -->
 
+### Large-Scale Decentalised Systems
+
+- *A theory of Automated Market Makers in DeFi* <br/> by Massimo Bartoletti, James Hsin-Yu Chiang and Alberto Lluch Lafuente
+- *ReGraDa: Reactive Graph Data* <br/> by Leandro Galrinho, João Costa Seco, Søren Debois, Thomas Hildebrandt, Håkon Norman and Tijs Slaats
+- *Tuple-based coordination in large-scale situated systems* <br/> by Roberto Casadei, Mirko Viroli, Alessandro Ricci and Giorgio Audrito	
 
 ### Communications: Types and Implemenations 1
 
 <!-- *(session chair: [Chiara Bodei](mailto:chiara.bodei@unipi.it))* -->
 
-- *Manifestly Phased Communication via Shared Session Types* <br/> by Chuta Sano, Stephanie Balzer and Frank Pfenning <!--[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_20)  [(video)](https://www.youtube.com/watch?v=C9xUBaIreY4&feature=youtu.be) -->
-- *Deconfined Global Types for Asynchronous Sessions* <br/> by Francesco Dagnino, Paola Giannini and Mariangiola Dezani-Ciancaglini
 - *Relating Functional and Imperative Session Types* <br/> by Hannes Saffrich and Peter Thiemann
+- *Deconfined Global Types for Asynchronous Sessions* <br/> by Francesco Dagnino, Paola Giannini and Mariangiola Dezani-Ciancaglini
+- *Manifestly Phased Communication via Shared Session Types* <br/> by Chuta Sano, Stephanie Balzer and Frank Pfenning 
 - *Safe Session-Based Asynchronous Coordination in Rust* <br/> by Zak Cutner and Nobuko Yoshida
 
 ### Communications: Types and Implemenations 2
 
-- *A Session Subtyping Tool* <br/> by Lorenzo Bacchiani, Mario Bravetti, Julien Lange and Gianluigi Zavattaro
-- *Towards Probabilistic Session-Type Monitoring* <br/> by Christian Bartolo Burlò, Adrian Francalanza, Alceste Scalas, Emilio Tuosto and Catia Trubiani
 - *Java Typestate Checker* <br/> by João Mota, Marco Giunti and António Ravara
 - *Asynchronous global types in co-logic programming* <br/> by Riccardo Bianchini and Francesco Dagnino
-
-
-### Large-Scale Decentalised Systems
-
-- *Tuple-based coordination in large-scale situated systems* <br/> by Roberto Casadei, Mirko Viroli, Alessandro Ricci and Giorgio Audrito	
-- *A theory of Automated Market Makers in DeFi* <br/> by Massimo Bartoletti, James Hsin-Yu Chiang and Alberto Lluch Lafuente
-- *ReGraDa: Reactive Graph Data* <br/> by Leandro Galrinho, João Costa Seco, Søren Debois, Thomas Hildebrandt, Håkon Norman and Tijs Slaats
-
-### Modelling: Structures and Implementations
-
-<!-- - *The Structure of Concurrent Process Histories* by Chad Nester -->
-- *A Clean and Efficient Implementation of Choreography Synthesis for Behavioural Contracts* <br/> by Davide Basile and Maurice H. ter Beek
-- *A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator* <br/> by Eva Maria Kuehn	
+- *A Session Subtyping Tool* <br/> by Lorenzo Bacchiani, Mario Bravetti, Julien Lange and Gianluigi Zavattaro
+- *Towards Probabilistic Session-Type Monitoring* <br/> by Christian Bartolo Burlò, Adrian Francalanza, Alceste Scalas, Emilio Tuosto and Catia Trubiani
 
 ### Microservices
 
 - *Microservice Dynamic Architecture-Level Deployment Orchestration* <br/> by Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi and Gianluigi Zavattaro
 - *Jolie & LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices* <br/> by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti, Florian Rademacher and Sabine Sachweh
 - *ScaFi-Web: a Web-based Application for Field-based Coordination Programming* <br/> by Gianluca Aguzzi, Roberto Casadei, Niccolò Maltoni, Danilo Pianini and Mirko Viroli
+
+### Modelling: Structures and Implementations
+
+<!-- - *The Structure of Concurrent Process Histories* by Chad Nester -->
+- *A Clean and Efficient Implementation of Choreography Synthesis for Behavioural Contracts* <br/> by Davide Basile and Maurice H. ter Beek
+- *A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator* <br/> by Eva Maria Kuehn	
 
 
 
@@ -234,17 +232,18 @@
 - *SPECK: Composition of Stream Processing Applications over Fog Environments* <br/> by Daniele Miorandi, Davaadorj Battulga and Cedric Tedeschi
 - *Portable Intermediate Representation for efficient Big Data Analytics* <br/> by Ioannis Tzouros, Michail Tsenos and Vana Kalogeraki
 
+<!-- ### Security and practical applications of cryptography -->
+### Privacy and Security
+
+- *Shared-Dining: Broadcasting Secret Shares using Dining-Cryptographers Groups* <br/> by David Mödinger, Juri Dispan and Franz J. Hauck
+- *KEVLAR-TZ: A Secure Cache for ARM TrustZone* <br/> by Oscar Benedito, Ricard Delgado-Gonzalo and Valerio Schiavoni
+
 ### Scalability and Elasticity
 
 - *A methodology for tenant migration in legacy shared-table multi-tenant applications* <br/> by Guillaume Rosinosky, Samir Youcef, François Charoy and Etienne Rivière
 - *Analysis and Improvement of Heterogeneous Hardware Support in Docker Images* <br/> by Panagiotis Gkikopoulos, Valerio Schiavoni and Josef Spillner
 - *UCBFed: Using Reinforcement Learning Method to Tackle the Federated Optimization Problem* <br/> by Wanqi Chen and Xin Zhou
 
-<!-- ### Security and practical applications of cryptography -->
-### Privacy and Security
-
-- *Shared-Dining: Broadcasting Secret Shares using Dining-Cryptographers Groups* <br/> by David Mödinger, Juri Dispan and Franz J. Hauck
-- *KEVLAR-TZ: A Secure Cache for ARM TrustZone* <br/> by Oscar Benedito, Ricard Delgado-Gonzalo and Valerio Schiavoni
 
   
 
@@ -260,12 +259,6 @@
 - *Controller Synthesis of Service Contracts with Variability* <br/> by Davide Basile, Maurice H. ter Beek, Pierpaolo Degano, Axel Legay, Gianluigi Ferrari, Stefania Gnesi, and FelicitaDi Giandomenico
 - *Formal verification of HotStuff* <br/> by Leander Jehl
 
-### Mechanisation Modelling
-
-- *Off-the-shelf Automated Analysis of Liveness Properties for Just Paths* <br/> by Mark Bouwman, Bas Luttik and Tim Willemse
-- *π with leftovers: a mechanisation in Agda* <br/> by Uma Zalakain and Ornela Dardha
-- *Introduction and preservation analysis of refinement relations in CCSL* <br/> by Mathieu Montin and Marc Pantel
-
 ### Static Analysis and Type Systems
 
 - *Prioritise the Best Variation* <br/> by Wen Kokke and Ornela Dardha
@@ -275,8 +268,16 @@
 ### Verification Models
 
 - *On Bidirectional Runtime Enforcement* <br/> by Luca Aceto, Ian Cassar, Adrian Francalanza, and Anna Ingolfsdottir
-- *How Adaptive and Reliable is your Program?* <br/> by Valentina Castiglioni, Michele Loreti, and Simone Tini
 - *Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves* <br/> by Roberto Gorrieri
+- *How Adaptive and Reliable is your Program?* <br/> by Valentina Castiglioni, Michele Loreti, and Simone Tini
+
+### Mechanisation Modelling
+
+- *π with leftovers: a mechanisation in Agda* <br/> by Uma Zalakain and Ornela Dardha
+- *Off-the-shelf Automated Analysis of Liveness Properties for Just Paths* <br/> by Mark Bouwman, Bas Luttik and Tim Willemse
+- *Introduction and preservation analysis of refinement relations in CCSL* <br/> by Mathieu Montin and Marc Pantel
+
+
 
 
 
