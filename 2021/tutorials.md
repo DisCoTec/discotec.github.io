@@ -75,7 +75,7 @@ A common theme in his research is reducing the structures generated in model che
 His specific areas of expertise include (explicit state) model checking and parity games.
 <br/><br/>
 
-### DetectEr: A Runtime Verification Tool for Concurrent Components
+### Better Late than Never or: Verifying Asynchronous Components at Runtime
 
 <!-- [Instructions to download and install the tool](https://abs-models.org/getting_started/ -->
 <!-- ) -->

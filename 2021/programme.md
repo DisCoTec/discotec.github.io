@@ -34,7 +34,7 @@
 |*11:00-13:00*| *break* |
 |**13.00-14.30**| [ABS: Modeling and analysis with resource-sensitive actors](tutorials#abs-modeling-and-analysis-with-resource-sensitive-actors) | 
 |*14:30-15:00*| *break* |
-|**15.00-16.30**| [DetectEr: A Runtime Verification Tool for Concurrent Components](tutorials#detecter-a-runtime-verification-tool-for-concurrent-components) | 
+|**15.00-16.30**| [Better Late than Never or: Verifying Asynchronous Components at Runtime](tutorials#better-late-than-never-or-verifying-asynchronous-components-at-runtime) | 
 |*16:30-17:00*| *break* |
 |**17.00-18.30**| [Tutorial: Designing Distributed Software in mCRL2](tutorials#tutorial-designing-distributed-software-in-mcrl2) | 
 
