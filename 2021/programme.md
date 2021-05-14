@@ -1,4 +1,4 @@
-[![](https://www.discotec.org/2020/discotec2020-banner.jpeg)](https://www.discotec.org/2020/)
+[![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2021/)
 
   
 
@@ -7,7 +7,7 @@
 *All times are listed for* **CET+1** *(Central European Summer Time)*
   
 
-## Monday 15 June
+## Monday 14 June
 
 <!--
 ### Webinars
@@ -41,7 +41,7 @@
 <br/>
   
 
-## Tuesday 16 June
+## Tuesday 15 June
 
 <!--
 ### Webinars
@@ -76,7 +76,7 @@
 
   
 
-## Wednesday 17 June
+## Wednesday 16 June
 
 <!-- ### Webinars
 
@@ -109,7 +109,7 @@
 
   
 
-## Thursday 18 June
+## Thursday 17 June
 
 <!-- ### Webinars
 
