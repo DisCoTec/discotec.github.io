@@ -100,9 +100,9 @@
 |**14.00-14.30**| | | [A case study on parametric verification of failure detectors](#forte-best-paper) |
 |*14.30-17.00*|*break*|*break*|*break*|
 |**17.00-17.30**| [Java Typestate Checker]() | [Shared-Dining: Broadcasting Secret Shares using Dining-Cryptographers Groups](#privacy-and-security) | [On Bidirectional Runtime Enforcement](#verification-models) |
-|**17.30-16.00**| [Asynchronous global types in co-logic programming](#communications-types-and-implemenations-2) | [KEVLAR-TZ: A Secure Cache for ARM TrustZone](#privacy-and-security) | [Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves](#verification-models) |
-|**16.00-16.30**| [A Session Subtyping Tool](#communications-types-and-implemenations-2) | | [How Adaptive and Reliable is your Program?](#verification-models) |
-|**16.30-17.00**| [Towards Probabilistic Session-Type Monitoring](#communications-types-and-implemenations-2) |
+|**17.30-18.00**| [Asynchronous global types in co-logic programming](#communications-types-and-implemenations-2) | [KEVLAR-TZ: A Secure Cache for ARM TrustZone](#privacy-and-security) | [Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves](#verification-models) |
+|**18.00-18.30**| [A Session Subtyping Tool](#communications-types-and-implemenations-2) | | [How Adaptive and Reliable is your Program?](#verification-models) |
+|**18.30-19.00**| [Towards Probabilistic Session-Type Monitoring](#communications-types-and-implemenations-2) |
 
 
 <br/>
@@ -132,7 +132,7 @@
 |**14.30-15.00**| [ScaFi-Web: a Web-based Application for Field-based Coordination Programming](#microservices) |
 |*15.00-17.00*|*break*|*break*|*break*|
 |**17.00-17.30**| [A Clean and Efficient Implementation of Choreography Synthesis for Behavioural Contracts](#modelling-structures-and-implementations) |
-|**17.30-16.00**| [A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator](#modelling-structures-and-implementations) |
+|**17.30-18.00**| [A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator](#modelling-structures-and-implementations) |
 
 <br/>
 
