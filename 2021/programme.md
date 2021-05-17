@@ -68,11 +68,11 @@
 |**14.00-14.30**| [Tuple-based coordination in large-scale situated systems](#large-scale-decentralised-systems) | [Portable Intermediate Representation for efficient Big Data Analytics](#distributed-algorithms) | [Controller Synthesis of Service Contracts with Variability](#application-of-formal-methods) |
 |**14.30-15.00**| | | [Formal verification of HotStuff](#application-of-formal-methods)
 |*15.00-17.00*|*break*|*break*|*break*|
-| | [Communications: Types and Implementations 1](#communications-types-and-implementations-1) | | [Static Analysis and Type Systems](#static-analysis-and-type-systems)
-|**17.00-17.30**| [Relating Functional and Imperative Session Types](#communications-types-and-implementations-1) | | [Prioritise the Best Variation](#static-analysis-and-type-systems)
-|**17.30-18.00**| [Deconfined Global Types for Asynchronous Sessions](#communications-types-and-implementations-1) | | [A formalisation of SysML state machines in mCRL2](#static-analysis-and-type-systems)
-|**18.00-18.30**| [Manifestly Phased Communication via Shared Session Types](#communications-types-and-implementations-1) | | [Towards a spatial model checker on GPU](#static-analysis-and-type-systems)
-|**18.30-19.00**| [Safe Session-Based Asynchronous Coordination in Rust](#communications-types-and-implementations-1)
+| | [Types and Implementations 1](#types-and-implementations-1) | | [Static Analysis and Type Systems](#static-analysis-and-type-systems)
+|**17.00-17.30**| [Relating Functional and Imperative Session Types](#types-and-implementations-1) | | [Prioritise the Best Variation](#static-analysis-and-type-systems)
+|**17.30-18.00**| [Deconfined Global Types for Asynchronous Sessions](#types-and-implementations-1) | | [A formalisation of SysML state machines in mCRL2](#static-analysis-and-type-systems)
+|**18.00-18.30**| [Manifestly Phased Communication via Shared Session Types](#types-and-implementations-1) | | [Towards a spatial model checker on GPU](#static-analysis-and-type-systems)
+|**18.30-19.00**| [Safe Session-Based Asynchronous Coordination in Rust](#types-and-implementations-1)
 
 <br/>
 
@@ -101,11 +101,11 @@
 |**13.30-14.00**| | [ASPAS: As Secure as Possible Available Systems](#dais-best-paper) |
 |**14.00-14.30**| | | [A case study on parametric verification of failure detectors](#forte-best-paper) |
 |*14.30-17.00*|*break*|*break*|*break*|
-| | Communications: Types and Implementations 2](#communications-types-and-implementations-2) | [Privacy and Security](#privacy-and-security) | [Verification Models](#verification-models)
-|**17.00-17.30**| [Java Typestate Checker](#communications-types-and-implementations-2) | [Shared-Dining: Broadcasting Secret Shares using Dining-Cryptographers Groups](#privacy-and-security) | [On Bidirectional Runtime Enforcement](#verification-models) |
-|**17.30-18.00**| [Asynchronous global types in co-logic programming](#communications-types-and-implementations-2) | [KEVLAR-TZ: A Secure Cache for ARM TrustZone](#privacy-and-security) | [Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves](#verification-models) |
-|**18.00-18.30**| [A Session Subtyping Tool](#communications-types-and-implementations-2) | | [How Adaptive and Reliable is your Program?](#verification-models) |
-|**18.30-19.00**| [Towards Probabilistic Session-Type Monitoring](#communications-types-and-implementations-2) |
+| | [Types and Implementations 2](#types-and-implementations-2) | [Privacy and Security](#privacy-and-security) | [Verification Models](#verification-models)
+|**17.00-17.30**| [Java Typestate Checker](#types-and-implementations-2) | [Shared-Dining: Broadcasting Secret Shares using Dining-Cryptographers Groups](#privacy-and-security) | [On Bidirectional Runtime Enforcement](#verification-models) |
+|**17.30-18.00**| [Asynchronous global types in co-logic programming](#types-and-implementations-2) | [KEVLAR-TZ: A Secure Cache for ARM TrustZone](#privacy-and-security) | [Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves](#verification-models) |
+|**18.00-18.30**| [A Session Subtyping Tool](#types-and-implementations-2) | | [How Adaptive and Reliable is your Program?](#verification-models) |
+|**18.30-19.00**| [Towards Probabilistic Session-Type Monitoring](#types-and-implementations-2) |
 
 
 <br/>
@@ -194,7 +194,8 @@
 - *ReGraDa: Reactive Graph Data* <br/> by Leandro Galrinho, João Costa Seco, Søren Debois, Thomas Hildebrandt, Håkon Norman and Tijs Slaats
 - *Tuple-based coordination in large-scale situated systems* <br/> by Roberto Casadei, Mirko Viroli, Alessandro Ricci and Giorgio Audrito	
 
-### Communications: Types and Implementations 1
+<!-- ### Communications: Types and Implementations 1 -->
+### Types and Implementations 1
 
 <!-- *(session chair: [Chiara Bodei](mailto:chiara.bodei@unipi.it))* -->
 
@@ -203,7 +204,7 @@
 - *Manifestly Phased Communication via Shared Session Types* <br/> by Chuta Sano, Stephanie Balzer and Frank Pfenning 
 - *Safe Session-Based Asynchronous Coordination in Rust* <br/> by Zak Cutner and Nobuko Yoshida
 
-### Communications: Types and Implementations 2
+### Types and Implementations 2
 
 - *Java Typestate Checker* <br/> by João Mota, Marco Giunti and António Ravara
 - *Asynchronous global types in co-logic programming* <br/> by Riccardo Bianchini and Francesco Dagnino
