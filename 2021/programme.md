@@ -62,6 +62,7 @@
 |**10.00-11.00**| [(Invited Talk) Alexandra Silva: Prognosis: Black-Box Analysis of Network Protocol Implementations](invited#alexandra-silva) | [(Invited Talk) Alexandra Silva: Prognosis: Black-Box Analysis of Network Protocol Implementations](invited#alexandra-silva) | [(Invited Talk) Alexandra Silva: Prognosis: Black-Box Analysis of Network Protocol Implementations](invited#alexandra-silva) |
 |*11.00-12.55*|*break*|*break*|*break*|
 |*12.55-13.00*|*welcome*|*welcome*|*welcome*|
+| Large-Scale Decentalised Systems | Distributed Algorithms | Application of Formal Methods |
 |**13.00-13.30**| [A theory of Automated Market Makers in DeFi](#large-scale-decentalised-systems) | [Network Federation for Inter-Cloud Operations](#distributed-algorithms) |
 |**13.30-14.00**| [ReGraDa: Reactive Graph Data](#large-scale-decentalised-systems) | [SPECK: Composition of Stream Processing Applications over Fog Environments](#distributed-algorithms) | [Polarization and Belief Convergence of Multi-Agents Systems Under Confirmation Bias](#application-of-formal-methods)
 |**14.00-14.30**| [Tuple-based coordination in large-scale situated systems](#large-scale-decentalised-systems) | [Portable Intermediate Representation for efficient Big Data Analytics](#distributed-algorithms) | [Controller Synthesis of Service Contracts with Variability](#application-of-formal-methods) |
