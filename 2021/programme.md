@@ -62,16 +62,17 @@
 |**10.00-11.00**| [(Invited Talk) Alexandra Silva: Prognosis: Black-Box Analysis of Network Protocol Implementations](invited#alexandra-silva) | [(Invited Talk) Alexandra Silva: Prognosis: Black-Box Analysis of Network Protocol Implementations](invited#alexandra-silva) | [(Invited Talk) Alexandra Silva: Prognosis: Black-Box Analysis of Network Protocol Implementations](invited#alexandra-silva) |
 |*11.00-12.55*|*break*|*break*|*break*|
 |*12.55-13.00*|*welcome*|*welcome*|*welcome*|
-| | Large-Scale Decentralised Systems | Distributed Algorithms | Application of Formal Methods |
-|**13.00-13.30**| [A theory of Automated Market Makers in DeFi](#large-scale-decentalised-systems) | [Network Federation for Inter-Cloud Operations](#distributed-algorithms) |
-|**13.30-14.00**| [ReGraDa: Reactive Graph Data](#large-scale-decentalised-systems) | [SPECK: Composition of Stream Processing Applications over Fog Environments](#distributed-algorithms) | [Polarization and Belief Convergence of Multi-Agents Systems Under Confirmation Bias](#application-of-formal-methods)
-|**14.00-14.30**| [Tuple-based coordination in large-scale situated systems](#large-scale-decentalised-systems) | [Portable Intermediate Representation for efficient Big Data Analytics](#distributed-algorithms) | [Controller Synthesis of Service Contracts with Variability](#application-of-formal-methods) |
+| | [Large-Scale Decentralised Systems](#large-scale-decentralised-systems) | [Distributed Algorithms](#distributed-algorithms) | [Application of Formal Methods](#application-of-formal-methods) |
+|**13.00-13.30**| [A theory of Automated Market Makers in DeFi](#large-scale-decentralised-systems) | [Network Federation for Inter-Cloud Operations](#distributed-algorithms) |
+|**13.30-14.00**| [ReGraDa: Reactive Graph Data](#large-scale-decentralised-systems) | [SPECK: Composition of Stream Processing Applications over Fog Environments](#distributed-algorithms) | [Polarization and Belief Convergence of Multi-Agents Systems Under Confirmation Bias](#application-of-formal-methods)
+|**14.00-14.30**| [Tuple-based coordination in large-scale situated systems](#large-scale-decentralised-systems) | [Portable Intermediate Representation for efficient Big Data Analytics](#distributed-algorithms) | [Controller Synthesis of Service Contracts with Variability](#application-of-formal-methods) |
 |**14.30-15.00**| | | [Formal verification of HotStuff](#application-of-formal-methods)
 |*15.00-17.00*|*break*|*break*|*break*|
-|**17.00-17.30**| [Relating Functional and Imperative Session Types](#communications-types-and-implemenations-1) | | [Prioritise the Best Variation](#static-analysis-and-type-systems)
-|**17.30-18.00**| [Deconfined Global Types for Asynchronous Sessions](#communications-types-and-implemenations-1) | | [A formalisation of SysML state machines in mCRL2](#static-analysis-and-type-systems)
-|**18.00-18.30**| [Manifestly Phased Communication via Shared Session Types](#communications-types-and-implemenations-1) | | [Towards a spatial model checker on GPU](#static-analysis-and-type-systems)
-|**18.30-19.00**| [Safe Session-Based Asynchronous Coordination in Rust](#communications-types-and-implemenations-1)
+| | [Communications: Types and Implementations 1](#communications-types-and-implementations-1) | | [Static Analysis and Type Systems](#static-analysis-and-type-systems)
+|**17.00-17.30**| [Relating Functional and Imperative Session Types](#communications-types-and-implementations-1) | | [Prioritise the Best Variation](#static-analysis-and-type-systems)
+|**17.30-18.00**| [Deconfined Global Types for Asynchronous Sessions](#communications-types-and-implementations-1) | | [A formalisation of SysML state machines in mCRL2](#static-analysis-and-type-systems)
+|**18.00-18.30**| [Manifestly Phased Communication via Shared Session Types](#communications-types-and-implementations-1) | | [Towards a spatial model checker on GPU](#static-analysis-and-type-systems)
+|**18.30-19.00**| [Safe Session-Based Asynchronous Coordination in Rust](#communications-types-and-implementations-1)
 
 <br/>
 
@@ -100,10 +101,11 @@
 |**13.30-14.00**| | [ASPAS: As Secure as Possible Available Systems](#dais-best-paper) |
 |**14.00-14.30**| | | [A case study on parametric verification of failure detectors](#forte-best-paper) |
 |*14.30-17.00*|*break*|*break*|*break*|
-|**17.00-17.30**| [Java Typestate Checker]() | [Shared-Dining: Broadcasting Secret Shares using Dining-Cryptographers Groups](#privacy-and-security) | [On Bidirectional Runtime Enforcement](#verification-models) |
-|**17.30-18.00**| [Asynchronous global types in co-logic programming](#communications-types-and-implemenations-2) | [KEVLAR-TZ: A Secure Cache for ARM TrustZone](#privacy-and-security) | [Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves](#verification-models) |
-|**18.00-18.30**| [A Session Subtyping Tool](#communications-types-and-implemenations-2) | | [How Adaptive and Reliable is your Program?](#verification-models) |
-|**18.30-19.00**| [Towards Probabilistic Session-Type Monitoring](#communications-types-and-implemenations-2) |
+| | Communications: Types and Implementations 2](#communications-types-and-implementations-2) | [Privacy and Security](#privacy-and-security) | [Verification Models](#verification-models)
+|**17.00-17.30**| [Java Typestate Checker](#communications-types-and-implementations-2) | [Shared-Dining: Broadcasting Secret Shares using Dining-Cryptographers Groups](#privacy-and-security) | [On Bidirectional Runtime Enforcement](#verification-models) |
+|**17.30-18.00**| [Asynchronous global types in co-logic programming](#communications-types-and-implementations-2) | [KEVLAR-TZ: A Secure Cache for ARM TrustZone](#privacy-and-security) | [Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves](#verification-models) |
+|**18.00-18.30**| [A Session Subtyping Tool](#communications-types-and-implementations-2) | | [How Adaptive and Reliable is your Program?](#verification-models) |
+|**18.30-19.00**| [Towards Probabilistic Session-Type Monitoring](#communications-types-and-implementations-2) |
 
 
 <br/>
@@ -127,11 +129,13 @@
 |**09.55-10.00**| *welcome* | *welcome* | *welcome* |
 |**10.00-11.00**| [(Invited Talk) Gilles Fedak: iExec: Building a Decentralized, Trusted and Privacy-Preserving Computing Infrastructure](invited#gilles-fedak) | [(Invited Talk) Gilles Fedak: iExec: Building a Decentralized, Trusted and Privacy-Preserving Computing Infrastructure](invited#gilles-fedak) | [(Invited Talk) Gilles Fedak: iExec: Building a Decentralized, Trusted and Privacy-Preserving Computing Infrastructure](invited#gilles-fedak) |
 |*11.00-13.00*|*break*|*break*|*break*|
+| | [Microservices](#microservices) | [Scalability and Elasticity](#scalability-and-elasticity) | [Mechanisation Modelling](#mechanisation-modelling)
 |**13.00-13.30**| | [A methodology for tenant migration in legacy shared-table multi-tenant applications](#scalability-and-elasticity) | [π with leftovers: a mechanisation in Agda](#mechanisation-modelling) |
 |**13.30-14.00**| [Microservice Dynamic Architecture-Level Deployment Orchestration](#microservices) | [Analysis and Improvement of Heterogeneous Hardware Support in Docker Images](#scalability-and-elasticity) | [Off-the-shelf Automated Analysis of Liveness Properties for Just Paths](#mechanisation-modelling) |
 |**14.00-14.30**| [Jolie & LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices](#microservices) | [UCBFed: Using Reinforcement Learning Method to Tackle the Federated Optimization Problem](#scalability-and-elasticity) | [Introduction and preservation analysis of refinement relations in CCSL](#mechanisation-modelling) |
 |**14.30-15.00**| [ScaFi-Web: a Web-based Application for Field-based Coordination Programming](#microservices) |
 |*15.00-17.00*|*break*|*break*|*break*|
+| | [Modelling: Structures and Implementations](#modelling-structures-and-implementations) |
 |**17.00-17.30**| [A Clean and Efficient Implementation of Choreography Synthesis for Behavioural Contracts](#modelling-structures-and-implementations) |
 |**17.30-18.00**| [A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator](#modelling-structures-and-implementations) |
 
@@ -184,13 +188,13 @@
 - *The Structure of Concurrent Process Histories* <br/> by Chad Nester 
 <!-- [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_16)  [(video)](https://www.youtube.com/watch?v=vgoDvMa69cU&feature=youtu.be) -->
 
-### Large-Scale Decentalised Systems
+### Large-Scale Decentralised Systems
 
 - *A theory of Automated Market Makers in DeFi* <br/> by Massimo Bartoletti, James Hsin-Yu Chiang and Alberto Lluch Lafuente
 - *ReGraDa: Reactive Graph Data* <br/> by Leandro Galrinho, João Costa Seco, Søren Debois, Thomas Hildebrandt, Håkon Norman and Tijs Slaats
 - *Tuple-based coordination in large-scale situated systems* <br/> by Roberto Casadei, Mirko Viroli, Alessandro Ricci and Giorgio Audrito	
 
-### Communications: Types and Implemenations 1
+### Communications: Types and Implementations 1
 
 <!-- *(session chair: [Chiara Bodei](mailto:chiara.bodei@unipi.it))* -->
 
@@ -199,7 +203,7 @@
 - *Manifestly Phased Communication via Shared Session Types* <br/> by Chuta Sano, Stephanie Balzer and Frank Pfenning 
 - *Safe Session-Based Asynchronous Coordination in Rust* <br/> by Zak Cutner and Nobuko Yoshida
 
-### Communications: Types and Implemenations 2
+### Communications: Types and Implementations 2
 
 - *Java Typestate Checker* <br/> by João Mota, Marco Giunti and António Ravara
 - *Asynchronous global types in co-logic programming* <br/> by Riccardo Bianchini and Francesco Dagnino
