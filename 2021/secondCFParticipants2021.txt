@@ -1,0 +1,81 @@
+[Apologies for multiple postings]
+ 
+************************************************************************
+
+   Joint Call for Participation
+ 
+   16th International Federated Conference on Distributed Computing Techniques
+ 
+   DisCoTec 2021
+ 
+   Valletta, Malta, 14-18 June 2021
+ 
+   https://www.discotec.org/2021
+
+************************************************************************
+
+DisCoTec 2021 is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS). It gathers conferences and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches. 
+
+As mentioned in our previous emails, DisCoTec 2021 will be held online again this year as a Zoom Webinar. Presentations will be recorded and broadcasted, followed by live Q&A sessions after each talk. 
+
+The full programme is now available at https://www.discotec.org/2021/programme. 
+
+
+* Registration *
+
+The conference registration can be found at https://www.discotec.org/2021/#registration. 
+
+Please read the full information before registering. The registration form can be reached by following the link at the bottom of the page. When registering, be sure to give your full details. The email address you provide will be used for future correspondence.
+
+At least one presenter for each paper is required to pay the nominal registration fee; co-authors are exempt, but *still need* to register to attend the conference free of charge. 
+
+Deadline for registration: 07 June 2021 midnight CET.
+
+
+* Additional Information *
+
+For further discussions, join our dedicated Slack channel https://join.slack.com/t/discotec2021/shared_invite/zt-qd3ed8l2-BC1WA_re3N~e6AjNbFNIzQ.  
+
+The full instructions for attendees can be found at https://www.discotec.org/2021/#instructions-for-attendees-and-presenters.
+
+
+* Keynote Speakers *
+  
+  - Gilles Fedak (iExec, FR)
+  - Mira Mezini (Technical University of Darmstadt, DE)
+  - Alexandra Silva (University College London, UK)
+
+(See https://www.discotec.org/2021/invited for a detailed overview of the titles and abstracts.)
+
+
+* Main Conferences (June 15 - June 17) *
+ 
+  - COORDINATION (https://www.discotec.org/2021/coordination)
+    23rd International Conference on Coordination Models and Languages
+    PC Chairs: Ferruccio Damiani (University of Turin, IT) and Ornela Dardha (University of Glasgow, UK)
+ 
+  - DAIS (https://www.discotec.org/2021/dais)
+    21st International Conference on Distributed Applications and Interoperable Systems
+    PC Chairs: Fabíola Greve (Federal University of Bahia, BR) and Miguel Matos (University of Lisboa & INESC-ID, PT)
+ 
+  - FORTE (https://www.discotec.org/2021/forte)
+    41st International Conference on Formal Techniques for Distributed Objects, Components and Systems
+    PC Chairs: Kirstin Peters (Technical University of Darmstadt, DE) and Tim Willemse (Eindhoven University of Technology, NL)
+
+
+* Satellite Events (June 14 and June 18) *
+
+  - DisCoTec Tools (https://www.discotec.org/2021/tutorials)
+    Tutorial Sessions
+
+  - ICE 2021 (https://www.discotec.org/2021/ice)
+    14th Workshop on Interaction and Concurrency Experience
+
+  - FOCODILE 2021 (https://www.discotec.org/2021/focodile)
+    2nd International Workshop on the Foundations of Consensus and Distributed Ledgers
+
+  - REMV 2021 (https://www.discotec.org/2021/remv)
+    1st International Workshop on Robotics, Electronics and Machine Vision
+
+
+To receive live, up-to-date information, follow us on Twitter @DisCoTecConf.
