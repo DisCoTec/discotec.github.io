@@ -186,7 +186,7 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 <!-- *Registered participants should have all received an email with the webinar invitations by now. In the eventuality that your email was lost or blocked, you can still register for the webinars from the links provided on the [programme page](https://www.discotec.org/2021/programme) on the day of the respective webinar.* -->
 * Presenter instructions may be found [here](https://www.discotec.org/2021/presenters#instructions-for-invited,-conference,-tutorial-and-workshop-speakers).
 * Session Chair instructions may be found [here](https://www.discotec.org/2021/presenters#instructions-for-session-chairs).
-* Any technical difficulties may be posted on the dedicated [Slack channel](https://join.slack.com/t/discotec2021/shared_invite/zt-qd3ed8l2-BC1WA_re3N~e6AjNbFNIzQ)
+* Any technical difficulties may be posted on the dedicated [Slack channel](https://join.slack.com/t/discotec2021/shared_invite/zt-qd3ed8l2-BC1WA_re3N~e6AjNbFNIzQ).
 
 
 
