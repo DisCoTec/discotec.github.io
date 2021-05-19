@@ -61,9 +61,9 @@
 |*09.45-10.00*| *welcome* | *welcome*| *welcome*|
 |**10.00-11.00**| [(Invited Talk) Alexandra Silva: Prognosis: Black-Box Analysis of Network Protocol Implementations](invited#alexandra-silva) | [(Invited Talk) Alexandra Silva: Prognosis: Black-Box Analysis of Network Protocol Implementations](invited#alexandra-silva) | [(Invited Talk) Alexandra Silva: Prognosis: Black-Box Analysis of Network Protocol Implementations](invited#alexandra-silva) |
 |*11.00-12.55*|*break*|*break*|*break*|
-|*12.55-13.00*|*welcome*|*welcome*|*welcome*|
+|*12.55-13.00*|*welcome*|*welcome*| |
 | | [Large-Scale Decentralised Systems](#large-scale-decentralised-systems) | [Distributed Algorithms](#distributed-algorithms) | [Application of Formal Methods](#application-of-formal-methods) |
-|**13.00-13.30**| [A theory of Automated Market Makers in DeFi](#large-scale-decentralised-systems) | [Network Federation for Inter-Cloud Operations](#distributed-algorithms) |
+|**13.00-13.30**| [A theory of Automated Market Makers in DeFi](#large-scale-decentralised-systems) | [Network Federation for Inter-Cloud Operations](#distributed-algorithms) | *welcome -13.25*
 |**13.30-14.00**| [ReGraDa: Reactive Graph Data](#large-scale-decentralised-systems) | [SPECK: Composition of Stream Processing Applications over Fog Environments](#distributed-algorithms) | [Polarization and Belief Convergence of Multi-Agents Systems Under Confirmation Bias](#application-of-formal-methods)
 |**14.00-14.30**| [Tuple-based coordination in large-scale situated systems](#large-scale-decentralised-systems) | [Portable Intermediate Representation for efficient Big Data Analytics](#distributed-algorithms) | [Controller Synthesis of Service Contracts with Variability](#application-of-formal-methods) |
 |**14.30-15.00**| | | [Formal verification of HotStuff](#application-of-formal-methods)
