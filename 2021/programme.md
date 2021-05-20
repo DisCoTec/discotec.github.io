@@ -4,7 +4,7 @@
 
 # Programme
 
-*All times are listed for* [**CET+1** *(Central European Summer Time)*](https://time.is/CET)
+*All times are listed for* [**CET+1** *(Central European Summer Time)*](https://time.is/CEST)
   
 
 ## Monday 14 June
