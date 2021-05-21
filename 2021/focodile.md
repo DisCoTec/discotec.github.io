@@ -154,7 +154,7 @@ Researchers interested to present new, recent, or ongoing work should submit an 
 * June 18, 2021: FOCODILE 2021 workshop  -->
 
 
-### Organising committee
+## Organising committee
 * [Zeta Avarikioti](https://disco.ethz.ch/members/ageorgia) (ETH Zurich)
 * [Panagiotis Grontas](http://www.corelab.ntua.gr/~pgrontas/) (National Technical University of Athens)
 * [Nikos Leonardos](http://users.uoa.gr/~nleon/) (National and Kapodistrian University of Athens)
@@ -165,5 +165,5 @@ Researchers interested to present new, recent, or ongoing work should submit an 
 * [Dionysis Zindros](https://www.dionyziz.com/) (University of Athens)
 
 
-### More Information
+## More Information
 For additional information, please contact the Organising Committee chairs at: focodile21@corelab.ntua.gr
