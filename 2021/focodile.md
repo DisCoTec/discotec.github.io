@@ -30,8 +30,8 @@ FOCODILE is a forum to exchange ideas and recent research findings on theoretica
 State-Machine Replication (SMR) uses replication to ensure that a service is available and consistent in the presence of failures. 
 One popular mechanism for implementing SMR is to use a consensus algorithm to agree on the total order of client requests, namely, a log-based SMR approach. 
 I will present our recent works on improving log-based SMR deployed in a single datacenter:
-* in the first work, we use randomization to simplify the design. Compared to Multi-Paxos and EPaxos, our system maintains high performance with reduced engineering complexity, by exploiting the stable network infrastructure in a single datacenter.
-* in the second work, we port Paxos to our new model which exploits the power of remote direct memory access (RDMA). 
+* In the first work, we use randomization to simplify the design. Compared to Multi-Paxos and EPaxos, our system maintains high performance with reduced engineering complexity, by exploiting the stable network infrastructure in a single datacenter.
+* In the second work, we port Paxos to our new model which exploits the power of remote direct memory access (RDMA). 
 Our system offers good performance while demonstrating better tail latency and faster fail-over compared to a state-of-the-art competitor.
 <br/><br/>
  
