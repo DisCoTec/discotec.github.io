@@ -26,7 +26,6 @@ FOCODILE is a forum to exchange ideas and recent research findings on theoretica
 ## Lewis Tseng: High-performance crash-tolerant SMR in a single datacenter 
 
 [Boston University](lewis.tseng@bc.edu)
- 
 <br/><br/>
 State-Machine Replication (SMR) uses replication to ensure that a service is available and consistent in the presence of failures. 
 One popular mechanism for implementing SMR is to use a consensus algorithm to agree on the total order of client requests, namely, a log-based SMR approach. 
@@ -40,7 +39,6 @@ Our system offers good performance while demonstrating better tail latency and f
 
 ### Dynamical Analysis of the EIP-1559 Ethereum Fee Market  
 Stefanos Leonardos, Singapore University of Technology and Design
- 
 <br/><br/>
 Participation in permissionless blockchains results in competition over system resources, which needs to be controlled with fees. 
 Ethereum's current fee mechanism is implemented via a first-price auction that results in unpredictable fees as well as other inefficiencies. 
@@ -56,7 +54,6 @@ We conclude our analysis with a thorough experimental case study that corroborat
  
 ### Recursive Virtual Payment Channels for Bitcoin
 Orfeas Stefanos Thyfronitis Litos, University of Edinburgh
-
 <br/><br/>
 A dominant approach towards the solution of the scalability problem in blockchain systems has been the development of layer 2 protocols and specifically payment channel networks (PCNs) such as the Lightning Network (LN) over Bitcoin. 
 Routing payments over LN requires the coordination of all path intermediaries in a multi-hop round trip that encumbers the layer 2 solution both in terms of responsiveness as well as privacy. 
@@ -71,7 +68,6 @@ We express and prove the security of our construction in the universal compositi
  
 ### Efficient State Management in Distributed Ledgers
 Dimitris Karakostas, University of Edinburgh
-
 <br/><br/>
 Distributed ledgers implement a storage layer, on top of which a shared state is maintained in a decentralized manner. 
 In UTxO-based ledgers, like Bitcoin, the shared state is the set of all unspent outputs (UTxOs), which serve as inputs to future transactions. 
@@ -85,7 +81,6 @@ Finally, we define the necessary conditions such that a ledger's fee scheme ince
  
 ### Toward democratising secure decentralised computation
 Eleftherios Kokkoris-Kogias, Novi Research and IST Austria
-
 <br/><br/>
 While showing great promise, smart contracts are difficult to program correctly, as they need a deep understanding of cryptography and distributed algorithms, and offer limited functionality, as they have to be deterministic and cannot operate on secret data. 
 In this talk we present Protean, a general-purpose decentralized computing platform that addresses these limitations by moving from a monolithic execution model, where all participating nodes store all the state and execute every computation, to a modular execution model. 
@@ -101,7 +96,6 @@ The proposed architecture addresses two orthogonal challenges confronting modern
 
 ### FairMM: A Fast and Frontrunning-Resistant Crypto Market-Maker
 Michele Ciampi, University of Edinburgh
-
 <br/><br/>
 As new and emerging markets, crypto(-currency/-token) markets are susceptible to manipulation and illiquidity. 
 The theory of market economics offers market makers that bare the promise of bootstrapping/stabilizing such markets and boosting their liquidity. 
@@ -115,17 +109,14 @@ Our methodology yields a highly efficient exchange, where the market maker’s c
 
 ### Reaching Agreement Without Saying Much: Byzantine Agreement With Polylog Bits Per Party
 Ran Cohen, Northeastern University
-
 <br/><br/>
 Byzantine agreement (BA), the task of n parties to agree on one of their input bits in the face of malicious agents, is a powerful primitive that lies at the core of a vast range of distributed protocols. Interestingly, in protocols with the best overall communication, the demands of the parties are highly unbalanced: the amortized cost is polylog(n) bits per party, but some parties must send \Omega(n) bits. In best known balanced protocols, the overall communication is sub-optimal, with each party communicating O(\sqrt n) bits.
 In this talk, we explore whether asymmetry is inherent for optimizing total communication. We show that this is not the case by presenting two BA protocols where every party communicates only polylog(n) bits; the constructions rely on a new flavor of distributed signatures and offer a tradeoff between setup assumptions and cryptographic assumptions. Next, we will discuss limitations and barriers of this approach, and conclude with open questions.
 <br/><br/>
 
 
-
 ### Formal verification of HotStuff
 Leander Jehl, University of Stavanger
-
 <br/><br/>
 HotStuff is a recent algorithm for repeated distributed consensus used in permissioned blockchains. We present a simplified version of the HotStuff algorithm and verify its safety using both Ivy and the TLAPS tools.
 We show that HotStuff deviates from the traditional view-instance model and instead follows a novel tree model to solve this fundamental problem.
@@ -135,7 +126,6 @@ We argue that the tree model results in more complex verification tasks than the
 
 ### Leaderless Byzantine Fault Tolerant State-Machine Replication
 Tuanir F. Rezende, Telecom SudParis
-
 <br/><br/>
 With the rise of permissioned blockchains, byzantine fault tolerant state-machine replication (BFT-SMR) has gained a lot of traction over the past few years. 
 This technique offers stronger safety guarantees and better throughput than solutions running in permissionless environments. 
