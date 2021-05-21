@@ -21,11 +21,11 @@ FOCODILE is a forum to exchange ideas and recent research findings on theoretica
 * Performance and scalability of blockchain systems
 
 
-## Keynote Speaker
+## Invited Talks
 
-## Lewis Tseng: High-performance crash-tolerant SMR in a single datacenter 
+### High-performance crash-tolerant SMR in a single datacenter 
 
-[Boston University](lewis.tseng@bc.edu)
+[Lewis Tseng, Boston University](lewis.tseng@bc.edu)
 <br/><br/>
 State-Machine Replication (SMR) uses replication to ensure that a service is available and consistent in the presence of failures. 
 One popular mechanism for implementing SMR is to use a consensus algorithm to agree on the total order of client requests, namely, a log-based SMR approach. 
