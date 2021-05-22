@@ -57,7 +57,7 @@ Orfeas Stefanos Thyfronitis Litos, University of Edinburgh
 <br/><br/>
 A dominant approach towards the solution of the scalability problem in blockchain systems has been the development of layer 2 protocols and specifically payment channel networks (PCNs) such as the Lightning Network (LN) over Bitcoin. 
 Routing payments over LN requires the coordination of all path intermediaries in a multi-hop round trip that encumbers the layer 2 solution both in terms of responsiveness as well as privacy. 
-The issue is resolved by ``virtual channel'' protocols that, capitalizing on a suitable setup operation, enable the two end-points to engage as if they had a direct payment channel between them.
+The issue is resolved by "virtual channel" protocols that, capitalizing on a suitable setup operation, enable the two end-points to engage as if they had a direct payment channel between them.
 Beyond communication efficiency, virtual channel constructions have three natural desiderata. 
 A virtual channel constructor is {\em recursive} if it can also be applied on pre-existing virtual channels, {\em variadic} if it can be applied on any number of pre-existing channels and {\em symmetric} if it encumbers in an egalitarian fashion all channel participants both in optimistic and pessimistic execution paths. 
 We put forth the first bitcoin-suitable recursive virtual channel constructor. 
@@ -73,7 +73,7 @@ Distributed ledgers implement a storage layer, on top of which a shared state is
 In UTxO-based ledgers, like Bitcoin, the shared state is the set of all unspent outputs (UTxOs), which serve as inputs to future transactions. 
 The continuously increasing size of this shared state will gradually render its maintenance unaffordable. 
 Our work investigates techniques that minimize the shared state of the distributed ledger, i.e., the in-memory UTxO set. 
-To this end, we follow two directions: a) we propose novel transaction optimization techniques to be followed by wallets, so as to create transactions that reduce the shared state cost and b) propose a novel fee scheme that incentivizes the creation of ``state-friendly'' transactions. 
+To this end, we follow two directions: (a) we propose novel transaction optimization techniques to be followed by wallets, so as to create transactions that reduce the shared state cost and (b) propose a novel fee scheme that incentivizes the creation of "state-friendly" transactions. 
 We devise an abstract ledger model, expressed via a series of algebraic operators, and define the transaction optimization problem of minimizing the shared state; we also propose a multi-layered algorithm that approximates the optimal solution to this problem. 
 Finally, we define the necessary conditions such that a ledger's fee scheme incentivizes proper state management and propose a state efficient fee function for Bitcoin.
 <br/><br/>
@@ -100,7 +100,7 @@ Michele Ciampi, University of Edinburgh
 As new and emerging markets, crypto(-currency/-token) markets are susceptible to manipulation and illiquidity. 
 The theory of market economics offers market makers that bare the promise of bootstrapping/stabilizing such markets and boosting their liquidity. 
 In order, however, to achieve these goals, the market maker operator (typically an exchange) is assumed trusted against manipulations. 
-Common attempts to remove/weaken this trust assumption require several on-chain rounds per trade or use expensive MPC machinery, and/or are susceptible to manipulative market-maker operators that perform informed front-running attacks-i.e., manipulate the sequence of trades using future trade information.
+Common attempts to remove/weaken this trust assumption require several on-chain rounds per trade or use expensive MPC machinery, and/or are susceptible to manipulative market-maker operators that perform informed front-running attacks i.e., manipulate the sequence of trades using future trade information.
 In the talk we propose a market-maker-based exchange that is resilient against a wide class of front-running (in particular, reordering attacks). 
 When instantiated with a monopolistic profit-seeking market maker our system yields a market where the trading price of crypto-tokens converges to a bid-ask spread centered around their true valuation. 
 Importantly, after an initial setup of appropriate smart contracts, the trades are done in an off-chain fashion and smart contracts are invoked asynchronously to the trades. 
@@ -110,7 +110,7 @@ Our methodology yields a highly efficient exchange, where the market maker’s c
 ### Reaching Agreement Without Saying Much: Byzantine Agreement With Polylog Bits Per Party
 Ran Cohen, Northeastern University
 <br/><br/>
-Byzantine agreement (BA), the task of n parties to agree on one of their input bits in the face of malicious agents, is a powerful primitive that lies at the core of a vast range of distributed protocols. Interestingly, in protocols with the best overall communication, the demands of the parties are highly unbalanced: the amortized cost is polylog(n) bits per party, but some parties must send \Omega(n) bits. In best known balanced protocols, the overall communication is sub-optimal, with each party communicating O(\sqrt n) bits.
+Byzantine agreement (BA), the task of n parties to agree on one of their input bits in the face of malicious agents, is a powerful primitive that lies at the core of a vast range of distributed protocols. Interestingly, in protocols with the best overall communication, the demands of the parties are highly unbalanced: the amortized cost is polylog(n) bits per party, but some parties must send Ω(n) bits. In best known balanced protocols, the overall communication is sub-optimal, with each party communicating O(√n) bits.
 In this talk, we explore whether asymmetry is inherent for optimizing total communication. We show that this is not the case by presenting two BA protocols where every party communicates only polylog(n) bits; the constructions rely on a new flavor of distributed signatures and offer a tradeoff between setup assumptions and cryptographic assumptions. Next, we will discuss limitations and barriers of this approach, and conclude with open questions.
 <br/><br/>
 
@@ -124,7 +124,7 @@ We argue that the tree model results in more complex verification tasks than the
 <br/><br/>
 
 
-### Leaderless Byzantine Fault Tolerant State-Machine Replication
+### Scalable Byzantine Fault Tolerance through Leaderless State Machine Replication
 Tuanir F. Rezende, Telecom SudParis
 <br/><br/>
 With the rise of permissioned blockchains, byzantine fault tolerant state-machine replication (BFT-SMR) has gained a lot of traction over the past few years. 
