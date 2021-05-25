@@ -229,10 +229,14 @@
 
 ### DAIS Best Paper
 
+<!-- João Leitão, NOVA LINCS, DI - FCT - UNL 
+jc.leitao@fct.unl.pt  -->
 - *ASPAS: As Secure as Possible Available Systems* <br/> by Houssam Yactine, Ali Shoker and Georges Younes
 
-<!-- ### Distributed Applications and Systems -->
 ### Distributed Algorithms
+
+<!-- Valerio Schiavoni, University of Neuchâtel
+valerio.schiavoni@unine.ch  -->
 
 - *Network Federation for Inter-Cloud Operations* <br/> by Johannes Köstler, Sven Gebauer and Hans P. Reiser
 - *SPECK: Composition of Stream Processing Applications over Fog Environments* <br/> by Daniele Miorandi, Davaadorj Battulga and Cedric Tedeschi
@@ -241,17 +245,23 @@
 <!-- ### Security and practical applications of cryptography -->
 ### Privacy and Security
 
+<!-- Pierre Sutra, Télécom SudParis
+0track@gmail.com  -->
+
 - *Shared-Dining: Broadcasting Secret Shares using Dining-Cryptographers Groups* <br/> by David Mödinger, Juri Dispan and Franz J. Hauck
 - *KEVLAR-TZ: A Secure Cache for ARM TrustZone* <br/> by Oscar Benedito, Ricard Delgado-Gonzalo and Valerio Schiavoni
 
 ### Scalability and Elasticity
+
+<!-- Pierre-Louis Aublin, Keio University
+pl@sslab.ics.keio.ac.jp  -->
 
 - *A methodology for tenant migration in legacy shared-table multi-tenant applications* <br/> by Guillaume Rosinosky, Samir Youcef, François Charoy and Etienne Rivière
 - *Analysis and Improvement of Heterogeneous Hardware Support in Docker Images* <br/> by Panagiotis Gkikopoulos, Valerio Schiavoni and Josef Spillner
 - *UCBFed: Using Reinforcement Learning Method to Tackle the Federated Optimization Problem* <br/> by Wanqi Chen and Xin Zhou
 
 
-  
+
 
 ## FORTE accepted papers and programme
 
@@ -260,24 +270,28 @@
 - *A case study on parametric verification of failure detectors* <br/> by Thanh-Hai Tran, Igor Konnov, and Josef Widder
  
 ### Application of Formal methods 
+<!-- Mohammad Mousavi -->
 
 - *Polarization and Belief Convergence of Multi-Agents Systems Under Confirmation Bias* <br/> by Frank Valencia, Mario S. Alvim, Sophia Knight, Santiago Quintero, and Bernardo Amorin
 - *Controller Synthesis of Service Contracts with Variability* <br/> by Davide Basile, Maurice H. ter Beek, Pierpaolo Degano, Axel Legay, Gianluigi Ferrari, Stefania Gnesi, and FelicitaDi Giandomenico
 - *Formal verification of HotStuff* <br/> by Leander Jehl
 
 ### Static Analysis and Type Systems
+<!-- Thomas Neele -->
 
 - *Prioritise the Best Variation* <br/> by Wen Kokke and Ornela Dardha
 - *A formalisation of SysML state machines in mCRL2* <br/> by Mark Bouwman, Bas Luttik and Djurre van der Wal
 - *Towards a spatial model checker on GPU* <br/> by Laura Bussi, Vincenzo Ciancia and Fabio Gadducci
 
 ### Verification Models
+<!-- Anna Philippou -->
 
 - *On Bidirectional Runtime Enforcement* <br/> by Luca Aceto, Ian Cassar, Adrian Francalanza, and Anna Ingolfsdottir
 - *Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves* <br/> by Roberto Gorrieri
 - *How Adaptive and Reliable is your Program?* <br/> by Valentina Castiglioni, Michele Loreti, and Simone Tini
 
 ### Mechanisation Modelling
+<!-- Björn Victor -->
 
 - *π with leftovers: a mechanisation in Agda* <br/> by Uma Zalakain and Ornela Dardha
 - *Off-the-shelf Automated Analysis of Liveness Properties for Just Paths* <br/> by Mark Bouwman, Bas Luttik and Tim Willemse

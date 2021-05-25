@@ -82,22 +82,21 @@ Go to the [programme page](https://www.discotec.org/2021/programme). *All times 
 ## Proceedings
 The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. These shall be open access from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
 
+* Coordination: LNCS12717
+* DAIS: LNCS12718
+* FORTE: [LNCS12719](https://link.springer.com/book/10.1007/978-3-030-78089-0)
+
+
+
 ## Special issues
 The individual conferences will organise special issues of extended and selected papers in reputable journal such as [Logical Methods in Computer Science](https://lmcs.episciences.org) and [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing).
 
-<!-- 
-* Coordination: [LNCS 12134](https://link.springer.com/book/10.1007/978-3-030-50029-0)
-* DAIS: [LNCS 12135](https://link.springer.com/book/10.1007/978-3-030-50323-9)
-* FORTE: [LNCS 12136](https://link.springer.com/book/10.1007/978-3-030-50086-3)
--->
 
 
-<!-- 
 ## Discussions
 
-Go to the [DisCoTec2020 Slack workspace](https://join.slack.com/t/discotec2020/shared_invite/zt-f51st5iq-mGFKdQ3HY2Pk4OJtWih3cg)
+Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/shared_invite/zt-qd3ed8l2-BC1WA_re3N~e6AjNbFNIzQ)
 
--->
 
 ## Scientific Committees
 
