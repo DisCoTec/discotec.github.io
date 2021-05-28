@@ -153,7 +153,7 @@
 
 *TBA*
 
-|Time |FOCODILE|ICE|REMV| 
+<!-- |Time |FOCODILE|ICE|REMV| 
 |:---:|:---:|:---:|:---:|
 |**08.55-9.00**| *welcome* | *welcome* | *welcome* |
 |**9.00-9.30**| | [Computer vision system for recognizing plant diseases and pests]() | |
@@ -163,7 +163,7 @@
 |**11.00-13.00**| *break* | *break* | *break* |
 |**13.00-13.30**| | [Computer vision system for analyzing 2D tomograms of brain activity]() | |
 |**13.30-14.00**| | [Application of fuzzy logic to control a lithium-ion energy storage device]() | |
-|**14.00-14.30**| | [Composite radiators for energy-efficient cooling systems for LED and other high-power electronic equipment]() | |
+|**14.00-14.30**| | [Composite radiators for energy-efficient cooling systems for LED and other high-power electronic equipment]() | | -->
 
 
 
