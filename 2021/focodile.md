@@ -21,7 +21,7 @@ FOCODILE is a forum to exchange ideas and recent research findings on theoretica
 * Performance and scalability of blockchain systems
 
 ### Program
-Please visit the [workshop programme page](https://www.discotec.org/2021/programme)
+Please visit the [workshop programme page](https://www.discotec.org/2021/programme#friday-18-june).
 
 ### Participation 
 
