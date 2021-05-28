@@ -86,7 +86,8 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 ## Invited speakers 
 
-  * _TBA_
+  * [Helene Coullon](http://helene-coullon.fr/) (IMT Atlantique, FR)
+  * [Laura Bocchi](https://www.kent.ac.uk/computing/people/3119/bocchi-laura) (University of Kent, UK)
 
 
 ## ICEcreamers
