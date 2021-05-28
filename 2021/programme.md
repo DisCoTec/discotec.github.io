@@ -189,6 +189,7 @@
 <!-- [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_16)  [(video)](https://www.youtube.com/watch?v=vgoDvMa69cU&feature=youtu.be) -->
 
 ### Large-Scale Decentralised Systems
+*(session chair: [Michele Loreti](mailto:michele.loreti@unicam.it))*
 
 - *A theory of Automated Market Makers in DeFi* <br/> by Massimo Bartoletti, James Hsin-Yu Chiang and Alberto Lluch Lafuente
 - *ReGraDa: Reactive Graph Data* <br/> by Leandro Galrinho, João Costa Seco, Søren Debois, Thomas Hildebrandt, Håkon Norman and Tijs Slaats
@@ -196,8 +197,7 @@
 
 <!-- ### Communications: Types and Implementations 1 -->
 ### Types and Implementations 1
-
-<!-- *(session chair: [Chiara Bodei](mailto:chiara.bodei@unipi.it))* -->
+*(session chair: [Vasco Vasconcelos](mailto:vmvasconcelos@fc.ul.pt))*
 
 - *Relating Functional and Imperative Session Types* <br/> by Hannes Saffrich and Peter Thiemann
 - *Deconfined Global Types for Asynchronous Sessions* <br/> by Francesco Dagnino, Paola Giannini and Mariangiola Dezani-Ciancaglini
@@ -205,6 +205,7 @@
 - *Safe Session-Based Asynchronous Coordination in Rust* <br/> by Zak Cutner and Nobuko Yoshida
 
 ### Types and Implementations 2
+<!-- *(session chair: [](mailto:))* -->
 
 - *Java Typestate Checker* <br/> by João Mota, Marco Giunti and António Ravara
 - *Asynchronous global types in co-logic programming* <br/> by Riccardo Bianchini and Francesco Dagnino
@@ -212,14 +213,15 @@
 - *Towards Probabilistic Session-Type Monitoring* <br/> by Christian Bartolo Burlò, Adrian Francalanza, Alceste Scalas, Emilio Tuosto and Catia Trubiani
 
 ### Microservices
+*(session chair: [Larisa Safina](mailto:safinalrr@gmail.com))*
 
 - *Microservice Dynamic Architecture-Level Deployment Orchestration* <br/> by Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi and Gianluigi Zavattaro
 - *Jolie & LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices* <br/> by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti, Florian Rademacher and Sabine Sachweh
 - *ScaFi-Web: a Web-based Application for Field-based Coordination Programming* <br/> by Gianluca Aguzzi, Roberto Casadei, Niccolò Maltoni, Danilo Pianini and Mirko Viroli
 
 ### Modelling: Structures and Implementations
+*(session chair: [José Proença](mailto:pro@isep.ipp.pt))*
 
-<!-- - *The Structure of Concurrent Process Histories* by Chad Nester -->
 - *A Clean and Efficient Implementation of Choreography Synthesis for Behavioural Contracts* <br/> by Davide Basile and Maurice H. ter Beek
 - *A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator* <br/> by Eva Maria Kuehn	
 
@@ -229,14 +231,11 @@
 
 ### DAIS Best Paper
 
-<!-- João Leitão, NOVA LINCS, DI - FCT - UNL 
-jc.leitao@fct.unl.pt  -->
 - *ASPAS: As Secure as Possible Available Systems* <br/> by Houssam Yactine, Ali Shoker and Georges Younes
 
 ### Distributed Algorithms
-
-<!-- Valerio Schiavoni, University of Neuchâtel
-valerio.schiavoni@unine.ch  -->
+*(session chair: [Valerio Schiavoni](mailto:valerio.schiavoni@unine.ch))*
+<!-- University of Neuchâtel -->
 
 - *Network Federation for Inter-Cloud Operations* <br/> by Johannes Köstler, Sven Gebauer and Hans P. Reiser
 - *SPECK: Composition of Stream Processing Applications over Fog Environments* <br/> by Daniele Miorandi, Davaadorj Battulga and Cedric Tedeschi
@@ -244,17 +243,15 @@ valerio.schiavoni@unine.ch  -->
 
 <!-- ### Security and practical applications of cryptography -->
 ### Privacy and Security
-
-<!-- Pierre Sutra, Télécom SudParis
-0track@gmail.com  -->
+*(session chair: [Pierre Sutra](mailto:0track@gmail.com))*
+<!-- Télécom SudParis -->
 
 - *Shared-Dining: Broadcasting Secret Shares using Dining-Cryptographers Groups* <br/> by David Mödinger, Juri Dispan and Franz J. Hauck
 - *KEVLAR-TZ: A Secure Cache for ARM TrustZone* <br/> by Oscar Benedito, Ricard Delgado-Gonzalo and Valerio Schiavoni
 
 ### Scalability and Elasticity
-
-<!-- Pierre-Louis Aublin, Keio University
-pl@sslab.ics.keio.ac.jp  -->
+*(session chair: [Pierre-Louis Aublin](mailto:pl@sslab.ics.keio.ac.jp))*
+<!-- Keio University  -->
 
 - *A methodology for tenant migration in legacy shared-table multi-tenant applications* <br/> by Guillaume Rosinosky, Samir Youcef, François Charoy and Etienne Rivière
 - *Analysis and Improvement of Heterogeneous Hardware Support in Docker Images* <br/> by Panagiotis Gkikopoulos, Valerio Schiavoni and Josef Spillner
@@ -270,28 +267,28 @@ pl@sslab.ics.keio.ac.jp  -->
 - *A case study on parametric verification of failure detectors* <br/> by Thanh-Hai Tran, Igor Konnov, and Josef Widder
  
 ### Application of Formal methods 
-<!-- Mohammad Mousavi -->
+*(session chair: [Mohammad Mousavi](mailto:mm789@leicester.ac.uk))*
 
 - *Polarization and Belief Convergence of Multi-Agents Systems Under Confirmation Bias* <br/> by Frank Valencia, Mario S. Alvim, Sophia Knight, Santiago Quintero, and Bernardo Amorin
 - *Controller Synthesis of Service Contracts with Variability* <br/> by Davide Basile, Maurice H. ter Beek, Pierpaolo Degano, Axel Legay, Gianluigi Ferrari, Stefania Gnesi, and FelicitaDi Giandomenico
 - *Formal verification of HotStuff* <br/> by Leander Jehl
 
 ### Static Analysis and Type Systems
-<!-- Thomas Neele -->
+*(session chair: [Thomas Neele](mailto:thomas.neele@rhul.ac.uk))*
 
 - *Prioritise the Best Variation* <br/> by Wen Kokke and Ornela Dardha
 - *A formalisation of SysML state machines in mCRL2* <br/> by Mark Bouwman, Bas Luttik and Djurre van der Wal
 - *Towards a spatial model checker on GPU* <br/> by Laura Bussi, Vincenzo Ciancia and Fabio Gadducci
 
 ### Verification Models
-<!-- Anna Philippou -->
+*(session chair: [Anna Philippou](mailto:annap_AT_cs.ucy.ac.cy))*
 
 - *On Bidirectional Runtime Enforcement* <br/> by Luca Aceto, Ian Cassar, Adrian Francalanza, and Anna Ingolfsdottir
 - *Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves* <br/> by Roberto Gorrieri
 - *How Adaptive and Reliable is your Program?* <br/> by Valentina Castiglioni, Michele Loreti, and Simone Tini
 
 ### Mechanisation Modelling
-<!-- Björn Victor -->
+*(session chair: [Björn Victor](mailto:Bjorn.Victor@it.uu.se))*
 
 - *π with leftovers: a mechanisation in Agda* <br/> by Uma Zalakain and Ornela Dardha
 - *Off-the-shelf Automated Analysis of Liveness Properties for Just Paths* <br/> by Mark Bouwman, Bas Luttik and Tim Willemse
