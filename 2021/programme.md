@@ -198,7 +198,7 @@
 - *Safe Session-Based Asynchronous Coordination in Rust* <br/> by Zak Cutner and Nobuko Yoshida
 
 ### Types and Implementations 2
-<!-- *(session chair: [](mailto:))* -->
+*(session chair: [Giorgio Audrito](mailto:giorgio.audrito@unito.it))*
 
 - *Java Typestate Checker* <br/> by João Mota, Marco Giunti and António Ravara
 - *Asynchronous global types in co-logic programming* <br/> by Riccardo Bianchini and Francesco Dagnino
