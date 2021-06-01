@@ -145,29 +145,29 @@
 ## Friday 18 June
 
 <!-- ### Webinars
-
 - [ICE meeting link](https://universityofmalta.zoom.us/j/97470142926)
 - [FOCODILE meeting link](https://universityofmalta.zoom.us/j/95543045483) -->
 
 ### Workshop Talks
 
-*TBA*
+<!-- *TBA* -->
 
-<!-- |Time |FOCODILE|ICE|REMV| 
+|Time |FOCODILE|REMV|ICE| 
 |:---:|:---:|:---:|:---:|
 |**08.55-9.00**| *welcome* | *welcome* | *welcome* |
-|**9.00-9.30**| | [Computer vision system for recognizing plant diseases and pests]() | |
-|**9.30-10.00**| | [New possibilities of using the classical theory of M-type devices, on the example of parametric generation in crossed fields]() | |
-|**10.00-10.30**| | [Development of mathematical models and software for studying the mechanism of electroporation of cell membranes]() | |
-|**10.30-11.00**| | [Program complex for assessing the complexity of flight trajectories of groups of unmanned aerial vehicles in aviation transport systems]() | |
+|**9.00-9.30**| [Formal verification of HotStuff](#session-1) | [Computer vision system for recognizing plant diseases and pests](#remv-accepted-papers-and-programme) | |
+|**9.30-10.00**| [Recursive Virtual Payment Channels for Bitcoin](#session-1) | [New possibilities of using the classical theory of M-type devices, on the example of parametric generation in crossed fields](#remv-accepted-papers-and-programme) | |
+|**10.00-10.30**| [Dynamical Analysis of the EIP-1559 Ethereum Fee Market](#session-1) | [Development of mathematical models and software for studying the mechanism of electroporation of cell membranes](#remv-accepted-papers-and-programme) | |
+|**10.30-11.00**| | [Program complex for assessing the complexity of flight trajectories of groups of unmanned aerial vehicles in aviation transport systems](#remv-accepted-papers-and-programme) | |
 |**11.00-13.00**| *break* | *break* | *break* |
-|**13.00-13.30**| | [Computer vision system for analyzing 2D tomograms of brain activity]() | |
-|**13.30-14.00**| | [Application of fuzzy logic to control a lithium-ion energy storage device]() | |
-|**14.00-14.30**| | [Composite radiators for energy-efficient cooling systems for LED and other high-power electronic equipment]() | | -->
-
-
-
-
+|**13.00-13.30**| [FairMM: A Fast and Frontrunning-Resistant Crypto Market-Maker](#session-2) | [Computer vision system for analyzing 2D tomograms of brain activity](#remv-accepted-papers-and-programme) | |
+|**13.30-14.00**| [Efficient State Management in Distributed Ledgers](#session-2) | [Application of fuzzy logic to control a lithium-ion energy storage device](#remv-accepted-papers-and-programme) | |
+|**14.00-14.30**| [Scalable Byzantine Fault Tolerance through Leaderless State Machine Replication](#session-2) | [Composite radiators for energy-efficient cooling systems for LED and other high-power electronic equipment](#remv-accepted-papers-and-programme) | |
+|**14.30-17.00**|  *break* | *break* | *break* |
+|**17.00-18.00**|  [High-performance crash-tolerant SMR in a single datacenter](#plenary-talk) | | |
+|**18.00-18.10**|  *break* | *break* | *break* |
+|**18.10-18.40**|  [Toward democratising secure decentralised computation](#session-3) | | |
+|**18.40-19.10**|  [Reaching Agreement Without Saying Much: Byzantine Agreement With Polylog Bits Per Party](#session-3) | | |
 
 
 <br/><br/>
@@ -292,13 +292,34 @@
 
 
 
-<!-- ## FOCODILE accepted papers and programme -->
+## FOCODILE accepted papers and programme
+
+### Session 1
+
+- *Formal verification of HotStuff* <br/> by Leander Jehl
+- *Recursive Virtual Payment Channels for Bitcoin* <br/> by Orfeas Stefanos Thyfronitis Litos 
+- *Dynamical Analysis of the EIP-1559 Ethereum Fee Market* <br/> by Stefanos Leonardos
+
+### Session 2
+
+- *FairMM: A Fast and Frontrunning-Resistant Crypto Market-Maker* <br/> by Michele Ciampi
+- *Efficient State Management in Distributed Ledgers* <br/> by Dimitris Karakostas
+- *Scalable Byzantine Fault Tolerance through Leaderless State Machine Replication* <br/> by Tuanir F. Rezende
+
+### Plenary Talk
+
+- *High-performance crash-tolerant SMR in a single datacenter* <br/> by Lewis Tseng 
+
+### Session 3
+
+- *Toward democratising secure decentralised computation* <br/> by Eleftherios Kokkoris-Kogias
+- *Reaching Agreement Without Saying Much: Byzantine Agreement With Polylog Bits Per Party* <br/> by Ran Cohen
 
 
 
 
 
-<!-- ## ICE accepted papers and programme
+## REMV accepted papers and programme
 
 - *Computer vision system for recognizing plant diseases and pests* <br/> by Korchagin S.A. and Misharina M.S.
 - *New possibilities of using the classical theory of M-type devices, on the example of parametric generation in crossed fields* <br/> by Alexander Rozov, Vil Baiburin, Vycheslav Komarov and Alexander Nikiforov
@@ -306,12 +327,12 @@
 - *Program complex for assessing the complexity of flight trajectories of groups of unmanned aerial vehicles in aviation transport systems* <br/> by Bublikov K.V., Kositsyn A.A. and Leonid Filimonyuk
 - *Computer vision system for analyzing 2D tomograms of brain activity* <br/> by Maximenko V.A., Kuz A.K., Korchagin S.A. and Hramov A.E.
 - *Application of fuzzy logic to control a lithium-ion energy storage device* <br/> by Serdechny D.V.
-- *Composite radiators for energy-efficient cooling systems for LED and other high-power electronic equipment* <br/> by Hasanshin I.Ya. -->
+- *Composite radiators for energy-efficient cooling systems for LED and other high-power electronic equipment* <br/> by Hasanshin I.Ya.
 
 
 
 
-<!-- ## REMV accepted papers and programme -->
+<!-- ## ICE accepted papers and programme -->
 
 
 
