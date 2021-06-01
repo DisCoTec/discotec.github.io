@@ -163,11 +163,11 @@
 |**13.00-13.30**| [FairMM: A Fast and Frontrunning-Resistant Crypto Market-Maker](#session-2) | [Computer vision system for analyzing 2D tomograms of brain activity](#remv-accepted-papers-and-programme) | |
 |**13.30-14.00**| [Efficient State Management in Distributed Ledgers](#session-2) | [Application of fuzzy logic to control a lithium-ion energy storage device](#remv-accepted-papers-and-programme) | |
 |**14.00-14.30**| [Scalable Byzantine Fault Tolerance through Leaderless State Machine Replication](#session-2) | [Composite radiators for energy-efficient cooling systems for LED and other high-power electronic equipment](#remv-accepted-papers-and-programme) | |
-|**14.30-17.00**|  *break* | *break* | *break* |
-|**17.00-18.00**|  [High-performance crash-tolerant SMR in a single datacenter](#plenary-talk) | | |
-|**18.00-18.10**|  *break* | *break* | *break* |
-|**18.10-18.40**|  [Toward democratising secure decentralised computation](#session-3) | | |
-|**18.40-19.10**|  [Reaching Agreement Without Saying Much: Byzantine Agreement With Polylog Bits Per Party](#session-3) | | |
+|**14.30-16.30**|  *break* | *break* | *break* |
+|**16.30-17.30**|  [High-performance crash-tolerant SMR in a single datacenter](#plenary-talk) | | |
+|**17.30-18.00**|  *break* | *break* | *break* |
+|**18.00-18.30**|  [Toward democratising secure decentralised computation](#session-3) | | |
+|**18.30-19.00**|  [Reaching Agreement Without Saying Much: Byzantine Agreement With Polylog Bits Per Party](#session-3) | | |
 
 
 <br/><br/>
