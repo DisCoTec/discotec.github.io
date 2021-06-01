@@ -21,7 +21,7 @@ FOCODILE is a forum to exchange ideas and recent research findings on theoretica
 * Performance and scalability of blockchain systems
 
 ### Program
-Please visit the [workshop programme page](https://www.discotec.org/2021/programme#friday-18-june).
+Please visit the [workshop programme page](https://www.discotec.org/2021/programme).
 
 ### Participation 
 
@@ -54,7 +54,7 @@ State-Machine Replication (SMR) uses replication to ensure that a service is ava
 
 #### [Dynamical Analysis of the EIP-1559 Ethereum Fee Market](https://arxiv.org/abs/2102.10567)  
 
-Stefanos Leonardos (Singapore University of Technology and Design)
+[Stefanos Leonardos](https://stefanosleonardos.com/) (Singapore University of Technology and Design)
 
 Participation in permissionless blockchains results in competition over system resources, which needs to be controlled with fees. Ethereum's current fee mechanism is implemented via a first-price auction that results in unpredictable fees as well as other inefficiencies. EIP-1559 is a recent, improved proposal that introduces a number of innovative features such as a dynamically adaptive base fee that is burned, instead of being paid to the miners. Despite intense interest in understanding its properties, several basic questions such as whether and under what conditions does this protocol self-stabilize have remained elusive thus far.
 We perform a thorough analysis of the resulting fee market dynamic mechanism via a combination of tools from game theory and dynamical systems. We start by providing bounds on the step-size of the base fee update rule that suffice for global convergence to equilibrium via Lyapunov arguments. In the negative direction, we show that for larger step-sizes instability and even formally chaotic behavior are possible under a wide range of settings. We complement these qualitative results with quantitative bounds on the resulting range of base fees. We conclude our analysis with a thorough experimental case study that corroborates our theoretical findings.
@@ -67,9 +67,10 @@ Orfeas Stefanos Thyfronitis Litos (University of Edinburgh)
 A dominant approach towards the solution of the scalability problem in blockchain systems has been the development of layer 2 protocols and specifically payment channel networks (PCNs) such as the Lightning Network (LN) over Bitcoin. Routing payments over LN requires the coordination of all path intermediaries in a multi-hop round trip that encumbers the layer 2 solution both in terms of responsiveness as well as privacy. The issue is resolved by ``virtual channel'' protocols that, capitalizing on a suitable setup operation, enable the two end-points to engage as if they had a direct payment channel between them.
 Beyond communication efficiency, virtual channel constructions have three natural desiderata. A virtual channel constructor is {\em recursive} if it can also be applied on pre-existing virtual channels, {\em variadic} if it can be applied on any number of pre-existing channels and {\em symmetric} if it encumbers in an egalitarian fashion all channel participants both in optimistic and pessimistic execution paths. We put forth the first bitcoin-suitable recursive virtual channel constructor. Furthermore our constructor is variadic and symmetric and offers optimal round complexity both in the optimistic and pessimistic execution paths.  Our virtual channels can be implemented over bitcoin assuming the \texttt{ANYPREVOUT} signature type. We express and prove the security of our construction in the universal composition setting.
 
-##### Efficient State Management in Distributed Ledgers
+	
+##### [Efficient State Management in Distributed Ledgers](https://eprint.iacr.org/2021/183.pdf)
 
-Dimitris Karakostas (University of Edinburgh)
+[Dimitris Karakostas](https://dimkarakostas.com/) (University of Edinburgh)
 
 Distributed ledgers implement a storage layer, on top of which a shared state is maintained in a decentralized manner. In UTxO-based ledgers, like Bitcoin, the shared state is the set of all unspent outputs (UTxOs), which serve as inputs to future transactions. The continuously increasing size of this shared state will gradually render its maintenance unaffordable. Our work investigates techniques that minimize the shared state of the distributed ledger, i.e., the in-memory UTxO set. To this end, we follow two directions: a) we propose novel transaction optimization techniques to be followed by wallets, so as to create transactions that reduce the shared state cost and b) propose a novel fee scheme that incentivizes the creation of "state-friendly" transactions. We devise an abstract ledger model, expressed via a series of algebraic operators, and define the transaction optimization problem of minimizing the shared state; we also propose a multi-layered algorithm that approximates the optimal solution to this problem. Finally, we define the necessary conditions such that a ledger's fee scheme incentivizes proper state management and propose a state efficient fee function for Bitcoin.
 
