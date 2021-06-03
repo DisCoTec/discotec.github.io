@@ -102,8 +102,8 @@
 |**14.00-14.30**| | | [A case study on parametric verification of failure detectors](#forte-best-paper) |
 |*14.30-17.00*|*break*|*break*|*break*|
 | | [Types and Implementations 2](#types-and-implementations-2) | [Privacy and Security](#privacy-and-security) | [Verification Models](#verification-models)
-|**17.00-17.30**| [Java Typestate Checker](#types-and-implementations-2) | [Shared-Dining: Broadcasting Secret Shares using Dining-Cryptographers Groups](#privacy-and-security) | [On Bidirectional Runtime Enforcement](#verification-models) |
-|**17.30-18.00**| [Asynchronous global types in co-logic programming](#types-and-implementations-2) | [KEVLAR-TZ: A Secure Cache for ARM TrustZone](#privacy-and-security) | [Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves](#verification-models) |
+|**17.00-17.30**| [Asynchronous global types in co-logic programming](#types-and-implementations-2) | [Shared-Dining: Broadcasting Secret Shares using Dining-Cryptographers Groups](#privacy-and-security) | [On Bidirectional Runtime Enforcement](#verification-models) |
+|**17.30-18.00**| [Java Typestate Checker](#types-and-implementations-2) | [KEVLAR-TZ: A Secure Cache for ARM TrustZone](#privacy-and-security) | [Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves](#verification-models) |
 |**18.00-18.30**| [A Session Subtyping Tool](#types-and-implementations-2) | | [How Adaptive and Reliable is your Program?](#verification-models) |
 |**18.30-19.00**| [Towards Probabilistic Session-Type Monitoring](#types-and-implementations-2) |
 
@@ -200,8 +200,8 @@
 ### Types and Implementations 2
 *(session chair: [Giorgio Audrito](mailto:giorgio.audrito@unito.it))*
 
-- *Java Typestate Checker* <br/> by João Mota, Marco Giunti and António Ravara
 - *Asynchronous global types in co-logic programming* <br/> by Riccardo Bianchini and Francesco Dagnino
+- *Java Typestate Checker* <br/> by João Mota, Marco Giunti and António Ravara
 - *A Session Subtyping Tool* <br/> by Lorenzo Bacchiani, Mario Bravetti, Julien Lange and Gianluigi Zavattaro
 - *Towards Probabilistic Session-Type Monitoring* <br/> by Christian Bartolo Burlò, Adrian Francalanza, Alceste Scalas, Emilio Tuosto and Catia Trubiani
 
