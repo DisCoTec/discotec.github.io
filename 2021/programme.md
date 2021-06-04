@@ -274,7 +274,7 @@
 - *Towards a spatial model checker on GPU* <br/> by Laura Bussi, Vincenzo Ciancia and Fabio Gadducci
 
 ### Verification Models
-*(session chair: [Anna Philippou](mailto:annap_AT_cs.ucy.ac.cy))*
+*(session chair: [Anna Philippou](mailto:annap@cs.ucy.ac.cy))*
 
 - *On Bidirectional Runtime Enforcement* <br/> by Luca Aceto, Ian Cassar, Adrian Francalanza, and Anna Ingolfsdottir
 - *Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves* <br/> by Roberto Gorrieri
