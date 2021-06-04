@@ -81,3 +81,28 @@ His research interests lie in Parallel and Distributed Computing, with a particu
 Gilles produced pioneering software and algorithms in the field of Grid and Cloud Computing that allow people to easily harness large parallel systems consisting of thousands of machines distributed on the Internet (XtremWeb, MPICH-V, BitDew, SpeQulos, Xtrem-MapReduce, and Active Data). 
 He co-authored about 80 peer-reviewed scientific papers and won two Best Paper awards. 
 In 2012, G. Fedak co-edited with C. Cérin the Desktop Grid Computing Book, (CRC publication), and in 2015, he received the Chinese Academy of Sciences PIFI Award.
+
+
+## Helene Coullon
+
+[IMT Atlantique, FR](mailto:helene.coullon@imt-atlantique.fr)
+
+### Execution and Planning of Distributed Systems Reconfigurations - Concurrency and formal aspects
+
+Large distributed software systems are nowadays built in a component-based approach (e.g., service-oriented architectures or microservices) that offers a convenient way to structure large applications. 
+Indeed, isolating functionalities in components and building systems through composition greatly enhances the adaptability and scalability of applications, two important requirements for many organizations. 
+This approach is also promoted by the massive adoption of highly distributed computing infrastructures such as cloud and edge computing. 
+However, the advantages of distributed architectures come at the price of increased complexity and an array of technical challenges related to observability, coordination, maintenance, etc. For many years deployment and management procedures were written in an ad-hoc fashion through "readme" files and bash scripts and very was often triggered manually by an operator. 
+But, in recent years the DevOps community (both from academia and industry) has significantly improved this area by bringing programming support and software engineering properties to distributed software management.
+In this talk, I will explore, through three main contributions, the concept of reconfiguration of component-based distributed systems, in particular, the planning and execution of such reconfiguration. 
+These topics will be studied from two perspectives: the concurrency and efficiency of reconfiguration; and formal and safety aspects of reconfiguration.
+To this end, I will first present the formal reconfiguration model Concerto in which: (1) the lifecycle of each component is programmable with concurrency, and (2) reconfigurations are constructed by composing component lifecycles and submitting asynchronous behavior requests to components. 
+Next, I will present a contribution that uses timed Petri nets and model checking to ensure qualitative and quantitative properties on a subset of Concerto. 
+Finally, I will present an ongoing work on the automatic synthesis, by using SMT (Satisfiability Modulo Theories), of Concerto reconfiguration procedures from a partial target configuration.
+
+### Biography
+
+Helene Coullon started her career in 2007 as a development engineer in the French company Dassault Systems where she was in charge of internal continuous integration tools, and parallel compilation processes. After two years she decided to start a career in academia, first as a research engineer for two years, and then as a PhD student for three years. The PhD was funded by the company Antea Group and has been defended at the University of Orléans in France in September 2014. Helene has designed a domain specific framework to automatically execute on high performance computing (HPC) clusters numerical simulations written in C++. She then worked for two years as a postdoctoral researcher at Inria in the Avalon team in Lyon, where she designed a domain specific language that leverages the component-based model L2C with the work achieved during her PhD to enhance reusability and separation of concerns in HPC codes. 
+Helene Coullon is associate professor in computer science at IMT Atlantique since 2016, and an Inria researcher (under a chair from 2016 to 2021) in the STACK research Team (Inria, IMTA DAPI, LS2N). 
+She is also adjunct professor at the University of Tromsø (Norway) in the DAO project led by Otto Anshus since 2020. Her current research topics are programming models in the context of distributed infrastructures and systems. 
+In particular, she is interested in configuration, deployment, reconfiguration, and dynamic adaptation of large and complex distributed software systems.
