@@ -6,18 +6,6 @@ Interaction and Concurrency Experiences (ICE) is a series of international scien
 
 Due to the the COVID-19 situation, ICE 2021 will be a **virtual event**.
 
-## Accepted papers and oral communications
-
-- *Multiparty Session Programming with Global Protocol Combinators* (oral communication) <br/> by Keigo Imai, Rumyana Neykova, Nobuko Yoshida, and Shoji Yuen
-- *Deadlock Freedom for Asynchronous and Cyclic Process Networks* <br/> by Bas van den Heuvel and Jorge A. Pérez
-- *Processes, Systems & Tests: Defining Contextual Equivalences* <br/> by Clément Aubert and Daniele Varacca
-- *Decomposing Monolithic Processes in a Process Algebra with Multi-actions* <br/> by Maurice Laveaux and Tim Willemse
-- *On Encoding Primitives for Compensation Handling as Adaptable Processes* (oral communication) <br/> by Jovana Dedeić, Jovanka Pantović, and Jorge A. Pérez
-- *Towards Generalised Half-Duplex Systems* <br/> by Cinzia Di Giusto, Loïc Germerie Guizouarn, and Etienne Lozes
-- *A Semantic Model for Interacting Cyber-Physical Systems* <br/> by Benjamin Lion, Farhad Arbab, and Carolyn Talcott
-- *Polarization and Belief Convergence in Social Networks Under Confirmation Bias* (oral communication) <br/> by Mario Alvim, Bernardo Amorim, Sophia Knight, Santiago Quintero, and Frank Valencia
-- *Expanding Social Polarization Models by Incorporating  Belief Credibility* (oral communication) <br/> by Alex Chambers and Sophia Knight
-
 ## Highlights
 
   * Distinctive selection procedure
@@ -29,6 +17,17 @@ Due to the the COVID-19 situation, ICE 2021 will be a **virtual event**.
   * Publication in [EPTCS](https://eptcs.org/)
   * Special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier) _(to be confirmed)_
 
+## Accepted papers and oral communications
+
+- *Multiparty Session Programming with Global Protocol Combinators* (oral communication) <br/> by Keigo Imai, Rumyana Neykova, Nobuko Yoshida, and Shoji Yuen
+- *Deadlock Freedom for Asynchronous and Cyclic Process Networks* <br/> by Bas van den Heuvel and Jorge A. Pérez
+- *Processes, Systems & Tests: Defining Contextual Equivalences* <br/> by Clément Aubert and Daniele Varacca
+- *Decomposing Monolithic Processes in a Process Algebra with Multi-actions* <br/> by Maurice Laveaux and Tim Willemse
+- *On Encoding Primitives for Compensation Handling as Adaptable Processes* (oral communication) <br/> by Jovana Dedeić, Jovanka Pantović, and Jorge A. Pérez
+- *Towards Generalised Half-Duplex Systems* <br/> by Cinzia Di Giusto, Loïc Germerie Guizouarn, and Etienne Lozes
+- *A Semantic Model for Interacting Cyber-Physical Systems* <br/> by Benjamin Lion, Farhad Arbab, and Carolyn Talcott
+- *Polarization and Belief Convergence in Social Networks Under Confirmation Bias* (oral communication) <br/> by Mario Alvim, Bernardo Amorim, Sophia Knight, Santiago Quintero, and Frank Valencia
+- *Expanding Social Polarization Models by Incorporating  Belief Credibility* (oral communication) <br/> by Alex Chambers and Sophia Knight
 
 ## Scope
 
