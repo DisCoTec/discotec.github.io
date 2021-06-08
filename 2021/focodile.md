@@ -21,7 +21,7 @@ FOCODILE is a forum to exchange ideas and recent research findings on theoretica
 * Performance and scalability of blockchain systems
 
 ### Program
-Please visit the [workshop programme page](https://www.discotec.org/2021/programme).
+Please visit the [workshop programme page](https://www.discotec.org/2021/programme)
 
 ### Participation 
 
@@ -34,7 +34,6 @@ Researchers interested to present new, recent, or ongoing work should submit an 
 * April 19, 2021: abstract submission
 * May 18, 2021: speaker notification
 * June 18, 2021: FOCODILE 2021 workshop
-
 
 
 ## Plenary Talk
@@ -59,24 +58,25 @@ State-Machine Replication (SMR) uses replication to ensure that a service is ava
 Participation in permissionless blockchains results in competition over system resources, which needs to be controlled with fees. Ethereum's current fee mechanism is implemented via a first-price auction that results in unpredictable fees as well as other inefficiencies. EIP-1559 is a recent, improved proposal that introduces a number of innovative features such as a dynamically adaptive base fee that is burned, instead of being paid to the miners. Despite intense interest in understanding its properties, several basic questions such as whether and under what conditions does this protocol self-stabilize have remained elusive thus far.
 We perform a thorough analysis of the resulting fee market dynamic mechanism via a combination of tools from game theory and dynamical systems. We start by providing bounds on the step-size of the base fee update rule that suffice for global convergence to equilibrium via Lyapunov arguments. In the negative direction, we show that for larger step-sizes instability and even formally chaotic behavior are possible under a wide range of settings. We complement these qualitative results with quantitative bounds on the resulting range of base fees. We conclude our analysis with a thorough experimental case study that corroborates our theoretical findings.
 
-
-#### Recursive Virtual Payment Channels for Bitcoin
+<!--  CHANGED  -->
+<!-- #### Recursive Virtual Payment Channels for Bitcoin -->
+#### [Elmo: Recursive Virtual Payment Channels for Bitcoin](https://eprint.iacr.org/2021/747)
 
 Orfeas Stefanos Thyfronitis Litos (University of Edinburgh)
 
-A dominant approach towards the solution of the scalability problem in blockchain systems has been the development of layer 2 protocols and specifically payment channel networks (PCNs) such as the Lightning Network (LN) over Bitcoin. Routing payments over LN requires the coordination of all path intermediaries in a multi-hop round trip that encumbers the layer 2 solution both in terms of responsiveness as well as privacy. The issue is resolved by ``virtual channel'' protocols that, capitalizing on a suitable setup operation, enable the two end-points to engage as if they had a direct payment channel between them.
-Beyond communication efficiency, virtual channel constructions have three natural desiderata. A virtual channel constructor is {\em recursive} if it can also be applied on pre-existing virtual channels, {\em variadic} if it can be applied on any number of pre-existing channels and {\em symmetric} if it encumbers in an egalitarian fashion all channel participants both in optimistic and pessimistic execution paths. We put forth the first bitcoin-suitable recursive virtual channel constructor. Furthermore our constructor is variadic and symmetric and offers optimal round complexity both in the optimistic and pessimistic execution paths.  Our virtual channels can be implemented over bitcoin assuming the \texttt{ANYPREVOUT} signature type. We express and prove the security of our construction in the universal composition setting.
-
+A dominant approach towards the solution of the scalability problem in blockchain systems has been the development of layer 2 protocols and specifically payment channel networks (PCNs) such as the Lightning Network (LN) over Bitcoin. Routing payments over LN requires the coordination of all path intermediaries in a multi-hop round trip that encumbers the layer 2 solution both in terms of responsiveness as well as privacy. The issue is resolved by ``virtual channel'' protocols that, capitalizing on a suitable setup operation, enable the two end-points to engage as if they had a direct payment channel between them.	
+Apart from communication efficiency, virtual channel constructions have three natural desiderata. A virtual channel constructor is recursive if it can also be applied on pre-existing virtual channels, variadic if it can be applied on any number of pre-existing channels and symmetric if it encumbers in an egalitarian fashion all channel participants both in optimistic and pessimistic execution paths. We put forth the first Bitcoin-suitable recursive variadic virtual channel construction. Furthermore our virtual channel constructor is symmetric and offers optimal round complexity both in the optimistic and pessimistic execution paths.  Our virtual channels can be implemented over Bitcoin assuming the ANYPREVOUT signature type, a feature that we prove necessary for any efficient protocol that has parties maintain a set of Bitcoin transactions in their local state. We express and prove the security of our construction in the universal composition setting.
 	
-##### [Efficient State Management in Distributed Ledgers](https://eprint.iacr.org/2021/183.pdf)
+#### [Efficient State Management in Distributed Ledgers](https://eprint.iacr.org/2021/183.pdf)
 
 [Dimitris Karakostas](https://dimkarakostas.com/) (University of Edinburgh)
 
 Distributed ledgers implement a storage layer, on top of which a shared state is maintained in a decentralized manner. In UTxO-based ledgers, like Bitcoin, the shared state is the set of all unspent outputs (UTxOs), which serve as inputs to future transactions. The continuously increasing size of this shared state will gradually render its maintenance unaffordable. Our work investigates techniques that minimize the shared state of the distributed ledger, i.e., the in-memory UTxO set. To this end, we follow two directions: a) we propose novel transaction optimization techniques to be followed by wallets, so as to create transactions that reduce the shared state cost and b) propose a novel fee scheme that incentivizes the creation of "state-friendly" transactions. We devise an abstract ledger model, expressed via a series of algebraic operators, and define the transaction optimization problem of minimizing the shared state; we also propose a multi-layered algorithm that approximates the optimal solution to this problem. Finally, we define the necessary conditions such that a ledger's fee scheme incentivizes proper state management and propose a state efficient fee function for Bitcoin.
 
-#### Toward democratising secure decentralised computation
+#### Toward democratising secure decentralised computation 
+( based on: [link 1](https://eprint.iacr.org/2018/209.pdf), [link 2](https://arxiv.org/abs/1905.11360), [link 3](https://eprint.iacr.org/2019/1015), [link 4](https://infoscience.epfl.ch/record/268414/files/Rethinking%20General-Purpose%20Decentralized%20Computing.pdf) )
 
-Eleftherios Kokkoris-Kogias (Novi Research and IST Austria)
+[Eleftherios Kokkoris-Kogias](https://lefteriskk.github.io/) (Novi Research and IST Austria)
 
 While showing great promise, smart contracts are difficult to program correctly, as they need a deep understanding of cryptography and distributed algorithms, and offer limited functionality, as they have to be deterministic and cannot operate on secret data. In this talk we present Protean, a general-purpose decentralized computing platform that addresses these limitations by moving from a monolithic execution model, where all participating nodes store all the state and execute every computation, to a modular execution model. Protean employs secure specialized side-chains for building decentralized applications that are currently insecure or impossible to implement with smart contracts. Each side-chain is a multi-party computation system that provides an efficient implementation of a special-purpose functionality. We present three such examples:
 (i) ADKG provides random coins for applications that on the one hand need to abide the deterministic execution of smart-contract and on the other hand require randomisation.
@@ -88,7 +88,7 @@ While showing great promise, smart contracts are difficult to program correctly,
 Michele Ciampi (University of Edinburgh)
 
 As new and emerging markets, crypto(-currency/-token) markets are susceptible to manipulation and illiquidity. The theory of market economics offers market makers that bare the promise of bootstrapping/stabilizing such markets and boosting their liquidity. In order, however, to achieve these goals, the market maker operator (typically an exchange) is assumed trusted against manipulations. Common attempts to remove/weaken this trust assumption require several on-chain rounds per trade or use expensive MPC machinery, and/or are susceptible to manipulative market-maker operators that perform informed front-running attacks-i.e., manipulate the sequence of trades using future trade information.
-In the talk we propose a market-maker-based exchange that is resilient against a wide class of front-running (in particular, reordering attacks). When instantiated with a monopolistic profit-seeking market maker our system yields a market where the trading price of crypto-tokens converges to a bid-ask spread centered around their true valuation. Importantly, after an initial setup of appropriate smart contracts, the trades are done in an off-chain fashion and smart contracts are invoked asynchronously to the trades. Our methodology yields a highly efficient exchange, where the market maker’s compliance is ensured by a combination of a rational market analysis, cryptographic mechanisms, and smart-contract-based collaterals.
+In the talk we propose a market-maker-based exchange that is resilient against a wide class of front-running (in particular, reordering attacks). When instantiated with a monopolistic profit-seeking market maker our system yields a market where the trading price of crypto-tokens converges to a bid-ask spread centered around their true valuation. Importantly, after an initial setup of appropriate smart contracts, the trades are done in an off-chain fashion and smart contracts are invoked asynchronously to the trades. Our methodology yields a highly efficient exchange, where the market makerÃ¢â‚¬â„¢s compliance is ensured by a combination of a rational market analysis, cryptographic mechanisms, and smart-contract-based collaterals.
 
 #### Reaching Agreement Without Saying Much: Byzantine Agreement With Polylog Bits Per Party
 
