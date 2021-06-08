@@ -20,7 +20,7 @@ We strongly encourage you to join the DisCoTec2021 slack workspace and join the 
 
 1.  Click ``Channel browser`` at the top of your left sidebar. If you don't see this option, click ``More`` to find it.
 
-    ![Browse channel](screenshots/browse_channel.png){:height="50%" width="50%"}
+    ![Browse channel](screenshots/browse_channel.png){:height="85%" width="85%"}
 
 2. Browse the list of public channels in your workspace, or use the search bar to search by channel name or description.
 
@@ -28,7 +28,7 @@ We strongly encourage you to join the DisCoTec2021 slack workspace and join the 
 
 4. Click ``Join``.
 
-    ![Join channel](screenshots/join_channel.png){:height="75%" width="75%"}
+    ![Join channel](screenshots/join_channel.png){:height="85%" width="85%"}
 
 ## Posting questions 
 
@@ -36,12 +36,12 @@ We strongly encourage you to join the DisCoTec2021 slack workspace and join the 
 
 2. Type in your question in the box at the bottom of the page. 
 
-    ![Type question](screenshots/type_question.png){:height="75%" width="75%"}
+    ![Type question](screenshots/type_question.png){:height="85%" width="85%"}
 
 3. If your question is directed to a specific person, enter the @ symbol. Then enter the member's name or select one from the list of members. Repeat this step for every person you'd like to address. 
 
-4. Post your question by pressing ``Enter`` or clicking on the ``Send`` button at the right most corner of the message box.
+4. Post your question by clicking on the ``Send`` button at the right most corner of the message box.
 
-    ![Post question](screenshots/post_question.png){:height="75%" width="75%"}
+    ![Post question](screenshots/post_question.png){:height="85%" width="85%"}
 
 
