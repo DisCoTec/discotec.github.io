@@ -32,15 +32,23 @@ We strongly encourage you to join the DisCoTec2021 slack workspace and join the 
 
 ## Posting questions 
 
-1. Navigate to the channel you wish to post your question. 
+1. If your question is related to a particular presentation, check whether there is an existing thread by clicking the search field at the top of the page.
 
-2. Type in your question in the box at the bottom of the page. 
+    [!Search thread](screenshots/search_thread.png){:height="85%" width="85%"}
 
-    ![Type question](screenshots/type_question.png){:height="85%" width="85%"}
+2. If there is an existing thread, post your question in that thread by clicking ``Reply``.
 
-3. If your question is directed to a specific person, enter the @ symbol. Then enter the member's name or select one from the list of members. Repeat this step for every person you'd like to address. 
+    [!Reply thread](screenshots/reply_thread.png){:height="85%" width="85%"}
 
-4. Post your question by clicking on the ``Send`` button at the right most corner of the message box.
+3. Otherwise, if there is no existing thread or your question is not related to a particular presentation, navigate to the channel where you wish to post your question. 
+
+4. Type in your question in the dialog box at the bottom of the page. 
+
+    ![Type question](screenshots/type_question.png)
+
+5. If your question is directed to a specific person, enter the @ symbol. Then enter the member's name or select one from the list of members. Repeat this step for every person you'd like to address. 
+
+6. Post your question by clicking on the ``Send`` button at the right most corner of the dialog box.
 
     ![Post question](screenshots/post_question.png){:height="85%" width="85%"}
 
