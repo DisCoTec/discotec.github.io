@@ -92,7 +92,7 @@ Go to the [programme page](https://www.discotec.org/2021/programme). *All times 
 ## Proceedings
 The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. These shall be open access from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
 
-* COORDINATION: LNCS12717
+* COORDINATION: [LNCS12717](https://link.springer.com/book/10.1007/978-3-030-78142-2)
 * DAIS: [LNCS12718](https://link.springer.com/book/10.1007/978-3-030-78198-9)
 * FORTE: [LNCS12719](https://link.springer.com/book/10.1007/978-3-030-78089-0)
 
