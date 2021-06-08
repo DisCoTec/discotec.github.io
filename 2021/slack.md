@@ -6,7 +6,7 @@ We strongly encourage you to join the DisCoTec2021 slack workspace and join the 
 
 ## Joining the Slack Workspace
 
-1. Click on [DisCoTec 2021 Slack](https://discotec2021.slack.com/join/shared_invite/zt-qd3ed8l2-BC1WA_re3N~e6AjNbFNIzQ#/shared-invite/email).
+1. Click on [DisCoTec 2021 Slack](https://discotec2021.slack.com/join/shared_invite/zt-qd3ed8l2-BC1WA_re3N~e6AjNbFNIzQ).
 
 2. Join the slack workspace using your preferred method.
 
