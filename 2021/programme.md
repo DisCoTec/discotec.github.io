@@ -158,16 +158,15 @@
 |**9.00-9.30**| [Formal verification of HotStuff](#session-1) | [Computer vision system for recognizing plant diseases and pests](#remv-accepted-papers-and-programme) | |
 |**9.30-10.00**| [Elmo: Recursive Virtual Payment Channels for Bitcoin](#session-1) | [New possibilities of using the classical theory of M-type devices, on the example of parametric generation in crossed fields](#remv-accepted-papers-and-programme) | |
 |**10.00-10.30**| [Dynamical Analysis of the EIP-1559 Ethereum Fee Market](#session-1) | [Development of mathematical models and software for studying the mechanism of electroporation of cell membranes](#remv-accepted-papers-and-programme) | |
-|**10.30-11.00**| | [Program complex for assessing the complexity of flight trajectories of groups of unmanned aerial vehicles in aviation transport systems](#remv-accepted-papers-and-programme) | |
+|**10.30-11.00**| [Reaching Agreement Without Saying Much: Byzantine Agreement With Polylog Bits Per Party](#session-1) | [Program complex for assessing the complexity of flight trajectories of groups of unmanned aerial vehicles in aviation transport systems](#remv-accepted-papers-and-programme) | |
 |**11.00-13.00**| *break* | *break* | *break* |
 |**13.00-13.30**| [FairMM: A Fast and Frontrunning-Resistant Crypto Market-Maker](#session-2) | [Computer vision system for analyzing 2D tomograms of brain activity](#remv-accepted-papers-and-programme) | |
 |**13.30-14.00**| [Efficient State Management in Distributed Ledgers](#session-2) | [Application of fuzzy logic to control a lithium-ion energy storage device](#remv-accepted-papers-and-programme) | |
 |**14.00-14.30**| [Scalable Byzantine Fault Tolerance through Leaderless State Machine Replication](#session-2) | [Composite radiators for energy-efficient cooling systems for LED and other high-power electronic equipment](#remv-accepted-papers-and-programme) | |
-|**14.30-16.30**|  *break* | *break* | *break* |
-|**16.30-17.30**|  [High-performance crash-tolerant SMR in a single datacenter](#plenary-talk) | | |
-|**17.30-18.00**|  *break* | *break* | *break* |
+|**14.30-17.00**|  *break* | *break* | *break* |
+|**17.00-18.00**|  [High-performance crash-tolerant SMR in a single datacenter](#plenary-talk) | | |
 |**18.00-18.30**|  [Toward democratising secure decentralised computation](#session-3) | | |
-|**18.30-19.00**|  [Reaching Agreement Without Saying Much: Byzantine Agreement With Polylog Bits Per Party](#session-3) | | |
+|**18.30-19.00**|  Discussion and Closing Remarks | | |
 
 
 <br/><br/>
@@ -299,6 +298,7 @@
 - *Formal verification of HotStuff* <br/> by Leander Jehl
 - *Elmo: Recursive Virtual Payment Channels for Bitcoin* <br/> by Orfeas Stefanos Thyfronitis Litos 
 - *Dynamical Analysis of the EIP-1559 Ethereum Fee Market* <br/> by Stefanos Leonardos
+- *Reaching Agreement Without Saying Much: Byzantine Agreement With Polylog Bits Per Party* <br/> by Ran Cohen
 
 ### Session 2
 
@@ -313,7 +313,6 @@
 ### Session 3
 
 - *Toward democratising secure decentralised computation* <br/> by Eleftherios Kokkoris-Kogias
-- *Reaching Agreement Without Saying Much: Byzantine Agreement With Polylog Bits Per Party* <br/> by Ran Cohen
 
 
 
