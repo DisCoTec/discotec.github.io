@@ -23,7 +23,7 @@ Go to the [registration page](https://www.um.edu.mt/events/discotec2021/registra
 * Session Chair instructions may be found [here](https://www.discotec.org/2021/presenters#instructions-for-session-chairs).
 <!-- * Any technical difficulties may be posted on the dedicated [Slack workspace](https://join.slack.com/t/discotec2021/shared_invite/zt-qd3ed8l2-BC1WA_re3N~e6AjNbFNIzQ).  -->
 * Any technical difficulties may be posted on the dedicated [Slack workspace](https://join.slack.com/t/discotec2021/shared_invite/zt-qd3ed8l2-BC1WA_re3N~e6AjNbFNIzQ). Further instructions may be found [here](https://www.discotec.org/2021/slack).
-* Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date. *
+* Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
 
 ## Programme
 
