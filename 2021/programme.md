@@ -156,7 +156,7 @@
 |:---:|:---:|:---:|:---:|
 |**08.55-9.00**| *welcome* | *welcome* | *welcome* |
 |**9.00-9.30**| [Formal verification of HotStuff](#session-1) | [Computer vision system for recognizing plant diseases and pests](#remv-accepted-papers-and-programme) | |
-|**9.30-10.00**| [Recursive Virtual Payment Channels for Bitcoin](#session-1) | [New possibilities of using the classical theory of M-type devices, on the example of parametric generation in crossed fields](#remv-accepted-papers-and-programme) | |
+|**9.30-10.00**| [Elmo: Recursive Virtual Payment Channels for Bitcoin](#session-1) | [New possibilities of using the classical theory of M-type devices, on the example of parametric generation in crossed fields](#remv-accepted-papers-and-programme) | |
 |**10.00-10.30**| [Dynamical Analysis of the EIP-1559 Ethereum Fee Market](#session-1) | [Development of mathematical models and software for studying the mechanism of electroporation of cell membranes](#remv-accepted-papers-and-programme) | |
 |**10.30-11.00**| | [Program complex for assessing the complexity of flight trajectories of groups of unmanned aerial vehicles in aviation transport systems](#remv-accepted-papers-and-programme) | |
 |**11.00-13.00**| *break* | *break* | *break* |
@@ -297,7 +297,7 @@
 ### Session 1
 
 - *Formal verification of HotStuff* <br/> by Leander Jehl
-- *Recursive Virtual Payment Channels for Bitcoin* <br/> by Orfeas Stefanos Thyfronitis Litos 
+- *Elmo: Recursive Virtual Payment Channels for Bitcoin* <br/> by Orfeas Stefanos Thyfronitis Litos 
 - *Dynamical Analysis of the EIP-1559 Ethereum Fee Market* <br/> by Stefanos Leonardos
 
 ### Session 2
