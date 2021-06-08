@@ -34,11 +34,11 @@ We strongly encourage you to join the DisCoTec2021 slack workspace and join the 
 
 1. If your question is related to a particular presentation, check whether there is an existing thread by clicking the search field at the top of the page.
 
-    [!Search thread](screenshots/search_thread.png){:height="85%" width="85%"}
+    ![Search thread](screenshots/search_thread.png){:height="85%" width="85%"}
 
 2. If there is an existing thread, post your question in that thread by clicking ``Reply``.
 
-    [!Reply thread](screenshots/reply_thread.png){:height="85%" width="85%"}
+    ![Reply thread](screenshots/reply_thread.png){:height="85%" width="85%"}
 
 3. Otherwise, if there is no existing thread or your question is not related to a particular presentation, navigate to the channel where you wish to post your question. 
 
