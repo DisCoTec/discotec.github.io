@@ -568,7 +568,7 @@
 
 ### Invited talk 1
 
-- **9:10-10:10** Laura Bocchi (TBA)
+- **9:10-10:10** Laura Bocchi *(TBA)*
 
 ### Session types
 Session Chair: Ivan Prokić
@@ -578,7 +578,7 @@ Session Chair: Ivan Prokić
 
 ### Invited talk 2
 
-- **13:00-14:00** Helene Coullon (TBA)
+- **13:00-14:00** Helene Coullon *(TBA)*
 
 ### Process algebra
 Session chair: Ivan Lanese
