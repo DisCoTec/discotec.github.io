@@ -353,17 +353,6 @@
 
 
 
-<!-- ### Invited Paper -->
-<!-- - *Simulation of large scale computational ecosystems with Alchemist: a tutorial* <br/> by Danilo Pianini  -->
-<!-- [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_10) -->
-<!-- [(promo)](https://www.youtube.com/watch?v=ZIq11I_vTms&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=3) -->
-<!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=I0pboUIxd1Q) -->
-
-
-
-
-
 ## FORTE accepted papers and programme
 
 ### FORTE Best Paper

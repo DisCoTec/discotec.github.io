@@ -15,6 +15,11 @@ Tutorial session are typically *hands-on*, providing the audience with the uniqu
 [Instructions to download and install the tool](https://abs-models.org/getting_started/
 )
 <br/><br/>
+<!-- Tutorial slides [(all)]() and video presentations [(part xxx)]() -->
+<!-- <br/><br/> -->
+<!-- [Companion tutorial paper]() and [Promo](https://www.youtube.com/watch?v=SC22behYJN0&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=1) -->
+<br/><br/>
+
 Actor languages decouple communication from synchronisation, which makes them suitable for distributed and scalable applications with flexible synchronisation patterns, but also facilitates analysis.  
 ABS is a timed actor-based modeling language which supports cooperative scheduling and the specification of timing- and resource-aware behavior.  
 Cooperative scheduling allows a process which is executing in an actor to be suspended while it is waiting for an event to occur, such that another process which is able to make progress can execute. 
@@ -33,9 +38,12 @@ The ABS modeling language has been developed in collaboration between the Univer
 
 ### Simulation of large scale computational ecosystems with Alchemist: a tutorial
 
-<!-- [Instructions to download and install the tool](https://abs-models.org/getting_started/ -->
-<!-- ) -->
 <!-- <br/><br/> -->
+<!-- Tutorial slides [(all)]() and video presentations [(part 1)](https://www.youtube.com/watch?v=zF-LHHQjdOg), [(part 2)](https://www.youtube.com/watch?v=nORRuG3VjYU), [(part 3)](https://www.youtube.com/watch?v=crZM6Idpg74) -->
+<!-- <br/><br/> -->
+<!-- [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_10) and [Promo](https://www.youtube.com/watch?v=ZIq11I_vTms&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=3) -->
+<!-- <br/><br/> -->
+
 Many interesting systems in several disciplines can be modeled as networks of nodes that can store and exchange data: pervasive systems, edge computing scenarios, and even biological and bio-inspired systems. 
 These systems feature inherent complexity, and often simulation is the preferred (and sometimes the only) way of investigating their behaviour; this is true both in the design phase and in the verification and testing phase. 
 In this tutorial paper, we provide a guide to the simulation of such systems by leveraging Alchemist, an existing research tool used in several works in the literature. 
@@ -50,9 +58,12 @@ He is the lead designer of dozens of open-source software tools, among which the
 
 ### Tutorial: Designing Distributed Software in mCRL2
 
-<!-- [Instructions to download and install the tool](https://abs-models.org/getting_started/ -->
-<!-- ) -->
 <!-- <br/><br/> -->
+<!-- Tutorial slides [(all)]() and video presentations [(part 1)](https://youtu.be/N31C1s_p9WM), [(part 2)](https://youtu.be/1udKfJcMVt0), [(part 3)](https://youtu.be/QLX_Vx-KntA) -->
+<!-- <br/><br/> -->
+<!-- [Companion tutorial paper]() and [Promo](https://www.youtube.com/watch?v=SC22behYJN0&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=1) -->
+<!-- <br/><br/> -->
+
 Distributed software is very tricky to implement correctly as there are many hard to foresee possible execution orders. 
 Proving correctness of such software is hard and time consuming using, for instance, assertional techniques. 
 However, behavioural modelling and model checking come to the rescue, as they have become very expressive over the years and are supplied with more than capable tools that allow proving properties quickly. 
@@ -77,9 +88,12 @@ His specific areas of expertise include (explicit state) model checking and pari
 
 ### Better Late than Never or: Verifying Asynchronous Components at Runtime
 
-<!-- [Instructions to download and install the tool](https://abs-models.org/getting_started/ -->
-<!-- ) -->
 <!-- <br/><br/> -->
+<!-- Tutorial slides [(all)]() and video presentations [(part xxx)]() -->
+<!-- <br/><br/> -->
+<!-- [Companion tutorial paper]() and [Promo]() -->
+<!-- <br/><br/> -->
+
 We introduce DetectEr, a runtime verification tool developed over the last 5 years with the aim of monitoring concurrent systems written for the Erlang ecosystem.
 DetectEr supports three types of monitoring methods: inline, outline, and offline monitoring.
 In *inline monitoring*, the tool statically instruments the system under scrutiny by weaving the monitoring instructions via code injection. 
