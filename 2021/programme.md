@@ -173,7 +173,7 @@
       <td style="text-align: center"><a href="#session-1">Formal verification of HotStuff</a></td>
       <td style="text-align: center"><a href="#remv-accepted-papers-and-programme">Computer vision system for recognizing plant diseases and pests</a></td>
       <td style="text-align: center" rowspan="2">
-        <strong>9:10-10:10</strong> - <a href="">Invited talk: Laura Bocchi (TBA)</a>
+        <strong>9:10-10:10</strong> - <a href="#invited-talk-1">Invited talk: Laura Bocchi (TBA)</a>
       </td>
     </tr>
     <tr>
@@ -185,13 +185,13 @@
       <td style="text-align: center"><strong>10.00-10.30</strong></td>
       <td style="text-align: center"><a href="#session-1">Dynamical Analysis of the EIP-1559 Ethereum Fee Market</a></td>
       <td style="text-align: center"><a href="#remv-accepted-papers-and-programme">Development of mathematical models and software for studying the mechanism of electroporation of cell membranes</a></td>
-      <td style="text-align: center"><strong>10:10-10:30</strong> - <a href="">Multiparty Session Programming with Global Protocol Combinators</a></td>
+      <td style="text-align: center"><strong>10:10-10:30</strong> - <a href="#session-types">Multiparty Session Programming with Global Protocol Combinators</a></td>
     </tr>
     <tr>
       <td style="text-align: center"><strong>10.30-11.00</strong></td>
       <td style="text-align: center"><a href="#session-1">Reaching Agreement Without Saying Much: Byzantine Agreement With Polylog Bits Per Party</a></td>
       <td style="text-align: center"><a href="#remv-accepted-papers-and-programme">Program complex for assessing the complexity of flight trajectories of groups of unmanned aerial vehicles in aviation transport systems</a></td>
-      <td style="text-align: center"><strong>10:30-11:00</strong> - <a href="">Deadlock Freedom for Asynchronous and Cyclic Process Networks</a></td>
+      <td style="text-align: center"><strong>10:30-11:00</strong> - <a href="#session-types">Deadlock Freedom for Asynchronous and Cyclic Process Networks</a></td>
     </tr>
     <tr>
       <td style="text-align: center"><strong>11.00-13.00</strong></td>
@@ -204,7 +204,7 @@
       <td style="text-align: center"><a href="#session-2">FairMM: A Fast and Frontrunning-Resistant Crypto Market-Maker</a></td>
       <td style="text-align: center"><a href="#remv-accepted-papers-and-programme">Computer vision system for analyzing 2D tomograms of brain activity</a></td>
       <td style="text-align: center" rowspan="2">
-        <strong>13:00-14:00</strong> - <a href="">Invited talk: Helene Coullon (TBA)</a>
+        <strong>13:00-14:00</strong> - <a href="#invited-talk-2">Invited talk: Helene Coullon (TBA)</a>
       </td>
     </tr>
     <tr>
@@ -216,16 +216,16 @@
       <td style="text-align: center"><strong>14.00-14.30</strong></td>
       <td style="text-align: center"><a href="#session-2">Scalable Byzantine Fault Tolerance through Leaderless State Machine Replication</a></td>
       <td style="text-align: center"><a href="#remv-accepted-papers-and-programme">Composite radiators for energy-efficient cooling systems for LED and other high-power electronic equipment</a></td>
-      <td style="text-align: center"><strong>14.00-14.30</strong> - <a href="">Decomposing Monolithic Processes in a Process Algebra with Multi-actions</td>
+      <td style="text-align: center"><strong>14.00-14.30</strong> - <a href="#process-algebra">Decomposing Monolithic Processes in a Process Algebra with Multi-actions</a></td>
     </tr>
     <tr>
       <td style="text-align: center" rowspan="3"><strong>14.30-17.00</strong></td>
       <td style="text-align: center" rowspan="3"><em>break</em></td>
       <td style="text-align: center" rowspan="3"><em>break</em></td>
-      <td style="text-align: center"><strong>14.30-14.50</strong> - <a href="">On Encoding Primitives for Compensation Handling as Adaptable Processes</a></td>
+      <td style="text-align: center"><strong>14.30-14.50</strong> - <a href="#process-algebra">On Encoding Primitives for Compensation Handling as Adaptable Processes</a></td>
     </tr>
     <tr>
-      <td style="text-align: center"><strong>14.50-15.20</strong> - <a href="">Processes, Systems & Tests: Defining Contextual Equivalences</a></td>
+      <td style="text-align: center"><strong>14.50-15.20</strong> - <a href="#process-algebra">Processes, Systems & Tests: Defining Contextual Equivalences</a></td>
     </tr>
     <tr>
       <td style="text-align: center"><strong>15.20-17:00</strong> - <em>break</em></td>
@@ -234,19 +234,19 @@
       <td style="text-align: center" rowspan="2"><strong>17.00-18.00</strong></td>
       <td style="text-align: center" rowspan="2"><a href="#plenary-talk">High-performance crash-tolerant SMR in a single datacenter</a></td>
       <td style="text-align: center" rowspan="2">&nbsp;</td>
-      <td style="text-align: center"><strong>17.00-17.30</strong> - <a href="">Towards Generalised Half-Duplex Systems</a></td>
+      <td style="text-align: center"><strong>17.00-17.30</strong> - <a href="#models">Towards Generalised Half-Duplex Systems</a></td>
     </tr>
     <tr>
-      <td style="text-align: center"><strong>17.30-18:00</strong> - <a href="">A Semantic Model for Interacting Cyber-Physical Systems</a></td>
+      <td style="text-align: center"><strong>17.30-18:00</strong> - <a href="#models">A Semantic Model for Interacting Cyber-Physical Systems</a></td>
     </tr>
     <tr>
       <td style="text-align: center" rowspan="2"><strong>18.00-18.30</strong></td>
       <td style="text-align: center" rowspan="2"><a href="#session-3">Toward democratising secure decentralised computation</a></td>
       <td style="text-align: center" rowspan="2">&nbsp;</td>
-      <td style="text-align: center"><strong>18.00-18.20</strong> - <a href="">Polarization and Belief Convergence in Social Networks Under Confirmation Bias</a></td>
+      <td style="text-align: center"><strong>18.00-18.20</strong> - <a href="#polarization">Polarization and Belief Convergence in Social Networks Under Confirmation Bias</a></td>
     </tr>
     <tr>
-      <td style="text-align: center"><strong>18.20-18:40</strong> - <a href="">Expanding Social Polarization Models by Incorporating Belief Credibilitys</a></td>
+      <td style="text-align: center"><strong>18.20-18:40</strong> - <a href="#polarization">Expanding Social Polarization Models by Incorporating Belief Credibilitys</a></td>
     </tr>
     <tr>
       <td style="text-align: center"><strong>18.30-19.00</strong></td>
