@@ -152,21 +152,110 @@
 
 <!-- *TBA* -->
 
-|Time |FOCODILE|REMV|ICE| 
-|:---:|:---:|:---:|:---:|
-|**08.55-9.00**| *welcome* | *welcome* | *welcome* |
-|**9.00-9.30**| [Formal verification of HotStuff](#session-1) | [Computer vision system for recognizing plant diseases and pests](#remv-accepted-papers-and-programme) | |
-|**9.30-10.00**| [Elmo: Recursive Virtual Payment Channels for Bitcoin](#session-1) | [New possibilities of using the classical theory of M-type devices, on the example of parametric generation in crossed fields](#remv-accepted-papers-and-programme) | |
-|**10.00-10.30**| [Dynamical Analysis of the EIP-1559 Ethereum Fee Market](#session-1) | [Development of mathematical models and software for studying the mechanism of electroporation of cell membranes](#remv-accepted-papers-and-programme) | |
-|**10.30-11.00**| [Reaching Agreement Without Saying Much: Byzantine Agreement With Polylog Bits Per Party](#session-1) | [Program complex for assessing the complexity of flight trajectories of groups of unmanned aerial vehicles in aviation transport systems](#remv-accepted-papers-and-programme) | |
-|**11.00-13.00**| *break* | *break* | *break* |
-|**13.00-13.30**| [FairMM: A Fast and Frontrunning-Resistant Crypto Market-Maker](#session-2) | [Computer vision system for analyzing 2D tomograms of brain activity](#remv-accepted-papers-and-programme) | |
-|**13.30-14.00**| [Efficient State Management in Distributed Ledgers](#session-2) | [Application of fuzzy logic to control a lithium-ion energy storage device](#remv-accepted-papers-and-programme) | |
-|**14.00-14.30**| [Scalable Byzantine Fault Tolerance through Leaderless State Machine Replication](#session-2) | [Composite radiators for energy-efficient cooling systems for LED and other high-power electronic equipment](#remv-accepted-papers-and-programme) | |
-|**14.30-17.00**|  *break* | *break* | *break* |
-|**17.00-18.00**|  [High-performance crash-tolerant SMR in a single datacenter](#plenary-talk) | | |
-|**18.00-18.30**|  [Toward democratising secure decentralised computation](#session-3) | | |
-|**18.30-19.00**|  Discussion and Closing Remarks | | |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Time</th>
+      <th style="text-align: center">FOCODILE</th>
+      <th style="text-align: center">REMV</th>
+      <th style="text-align: center">ICE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><strong>08.55-9.00</strong></td>
+      <td style="text-align: center"><em>welcome</em></td>
+      <td style="text-align: center"><em>welcome</em></td>
+      <td style="text-align: center"><em>welcome</em></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>9.00-9.30</strong></td>
+      <td style="text-align: center"><a href="#session-1">Formal verification of HotStuff</a></td>
+      <td style="text-align: center"><a href="#remv-accepted-papers-and-programme">Computer vision system for recognizing plant diseases and pests</a></td>
+      <td style="text-align: center" rowspan="2">
+        <strong>9:10-10:10</strong> - <a href="">Invited talk: Laura Bocchi (TBA)</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>9.30-10.00</strong></td>
+      <td style="text-align: center"><a href="#session-1">Elmo: Recursive Virtual Payment Channels for Bitcoin</a></td>
+      <td style="text-align: center"><a href="#remv-accepted-papers-and-programme">New possibilities of using the classical theory of M-type devices, on the example of parametric generation in crossed fields</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>10.00-10.30</strong></td>
+      <td style="text-align: center"><a href="#session-1">Dynamical Analysis of the EIP-1559 Ethereum Fee Market</a></td>
+      <td style="text-align: center"><a href="#remv-accepted-papers-and-programme">Development of mathematical models and software for studying the mechanism of electroporation of cell membranes</a></td>
+      <td style="text-align: center"><strong>10:10-10:30</strong> - <a href="">Multiparty Session Programming with Global Protocol Combinators</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>10.30-11.00</strong></td>
+      <td style="text-align: center"><a href="#session-1">Reaching Agreement Without Saying Much: Byzantine Agreement With Polylog Bits Per Party</a></td>
+      <td style="text-align: center"><a href="#remv-accepted-papers-and-programme">Program complex for assessing the complexity of flight trajectories of groups of unmanned aerial vehicles in aviation transport systems</a></td>
+      <td style="text-align: center"><strong>10:30-11:00</strong> - <a href="">Deadlock Freedom for Asynchronous and Cyclic Process Networks</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>11.00-13.00</strong></td>
+      <td style="text-align: center"><em>break</em></td>
+      <td style="text-align: center"><em>break</em></td>
+      <td style="text-align: center"><strong>11:00-13:00</strong> - <em>break</em></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>13.00-13.30</strong></td>
+      <td style="text-align: center"><a href="#session-2">FairMM: A Fast and Frontrunning-Resistant Crypto Market-Maker</a></td>
+      <td style="text-align: center"><a href="#remv-accepted-papers-and-programme">Computer vision system for analyzing 2D tomograms of brain activity</a></td>
+      <td style="text-align: center" rowspan="2">
+        <strong>13:00-14:00</strong> - <a href="">Invited talk: Helene Coullon (TBA)</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>13.30-14.00</strong></td>
+      <td style="text-align: center"><a href="#session-2">Efficient State Management in Distributed Ledgers</a></td>
+      <td style="text-align: center"><a href="#remv-accepted-papers-and-programme">Application of fuzzy logic to control a lithium-ion energy storage device</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>14.00-14.30</strong></td>
+      <td style="text-align: center"><a href="#session-2">Scalable Byzantine Fault Tolerance through Leaderless State Machine Replication</a></td>
+      <td style="text-align: center"><a href="#remv-accepted-papers-and-programme">Composite radiators for energy-efficient cooling systems for LED and other high-power electronic equipment</a></td>
+      <td style="text-align: center"><strong>14.00-14.30</strong> - <a href="">Decomposing Monolithic Processes in a Process Algebra with Multi-actions</td>
+    </tr>
+    <tr>
+      <td style="text-align: center" rowspan="3"><strong>14.30-17.00</strong></td>
+      <td style="text-align: center" rowspan="3"><em>break</em></td>
+      <td style="text-align: center" rowspan="3"><em>break</em></td>
+      <td style="text-align: center"><strong>14.30-14.50</strong> - <a href="">On Encoding Primitives for Compensation Handling as Adaptable Processes</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>14.50-15.20</strong> - <a href="">Processes, Systems & Tests: Defining Contextual Equivalences</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>15.20-17:00</strong> - <em>break</em></td>
+    </tr>
+    <tr>
+      <td style="text-align: center" rowspan="2"><strong>17.00-18.00</strong></td>
+      <td style="text-align: center" rowspan="2"><a href="#plenary-talk">High-performance crash-tolerant SMR in a single datacenter</a></td>
+      <td style="text-align: center" rowspan="2">&nbsp;</td>
+      <td style="text-align: center"><strong>17.00-17.30</strong> - <a href="">Towards Generalised Half-Duplex Systems</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>17.30-18:00</strong> - <a href="">A Semantic Model for Interacting Cyber-Physical Systems</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center" rowspan="2"><strong>18.00-18.30</strong></td>
+      <td style="text-align: center" rowspan="2"><a href="#session-3">Toward democratising secure decentralised computation</a></td>
+      <td style="text-align: center" rowspan="2">&nbsp;</td>
+      <td style="text-align: center"><strong>18.00-18.20</strong> - <a href="">Polarization and Belief Convergence in Social Networks Under Confirmation Bias</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>18.20-18:40</strong> - <a href="">Expanding Social Polarization Models by Incorporating Belief Credibilitys</a></td>
+    </tr>
+    <tr>
+      <td style="text-align: center"><strong>18.30-19.00</strong></td>
+      <td style="text-align: center">Discussion and Closing Remarks</td>
+      <td style="text-align: center">&nbsp;</td>
+      <td style="text-align: center"><strong>18.40-18:45</strong> - <em>Closing remarks</em></td>
+    </tr>
+  </tbody>
+</table>
 
 
 <br/><br/>
@@ -331,9 +420,37 @@
 
 
 
-<!-- ## ICE accepted papers and programme -->
+## ICE accepted papers and programme
 
+### Invited talk 1
 
+- **9:10-10:10** Laura Bocchi (TBA)
 
+### Session types
+Session Chair: Ivan Prokić
 
+- **10:10-10:30** *Multiparty Session Programming with Global Protocol Combinators* (oral communication) <br/> by Keigo Imai, Rumyana Neykova, Nobuko Yoshida, and Shoji Yuen
+- **10:30-11:00** *Deadlock Freedom for Asynchronous and Cyclic Process Networks* <br/> by Bas van den Heuvel and Jorge A. Pérez
 
+### Invited talk 2
+
+- **13:00-14:00** Helene Coullon (TBA)
+
+### Process algebra
+Session chair: Ivan Lanese
+
+- **14:00-14:30** *Decomposing Monolithic Processes in a Process Algebra with Multi-actions* <br/> by Maurice Laveaux and Tim Willemse
+- **14:30-14:50** *On Encoding Primitives for Compensation Handling as Adaptable Processes* (oral communication) <br/> by Jovana Dedeić, Jovanka Pantović, and Jorge A. Pérez
+- **14:50-15:20** *Processes, Systems & Tests: Defining Contextual Equivalences* <br/> by Clément Aubert and Daniele Varacca
+
+### Models
+Session chair: Sophia Knight
+
+- **17:00-17:30** *Towards Generalised Half-Duplex Systems* <br/> by Cinzia Di Giusto, Loïc Germerie Guizouarn, and Etienne Lozes
+- **17:30-18:00** *A Semantic Model for Interacting Cyber-Physical Systems* <br/> by Benjamin Lion, Farhad Arbab, and Carolyn Talcott
+
+### Polarization
+Session chair: Alberto Lluch Lafuente
+
+- **18:00-18:20** *Polarization and Belief Convergence in Social Networks Under Confirmation Bias* (oral communication) <br/> by Mario Alvim, Bernardo Amorim, Sophia Knight, Santiago Quintero, and Frank Valencia
+- **18:20-18:40** *Expanding Social Polarization Models by Incorporating  Belief Credibility* (oral communication) <br/> by Alex Chambers and Sophia Knight
