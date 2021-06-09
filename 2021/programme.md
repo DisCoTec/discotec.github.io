@@ -177,22 +177,26 @@
 
 ### Coordination Best Paper
 
-- *The Structure of Concurrent Process Histories* <br/> by Chad Nester [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_13)
-<!-- [(promo)](https://www.youtube.com/watch?v=wD-gIqGdSyA&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=8) -->
+- *The Structure of Concurrent Process Histories* <br/> by Chad Nester 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_13)
+[(promo)](https://www.youtube.com/watch?v=wD-gIqGdSyA&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=8)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=X17DDpz0veg) -->
 
 ### Large-Scale Decentralised Systems
 *(session chair: [Michele Loreti](mailto:michele.loreti@unicam.it))*
 
-- *A theory of Automated Market Makers in DeFi* <br/> by Massimo Bartoletti, James Hsin-Yu Chiang and Alberto Lluch Lafuente [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_11)
-<!-- [(promo)](https://www.youtube.com/watch?v=aW_kFIu_lIs&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=3)  -->
+- *A theory of Automated Market Makers in DeFi* <br/> by Massimo Bartoletti, James Hsin-Yu Chiang and Alberto Lluch Lafuente 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_11)
+[(promo)](https://www.youtube.com/watch?v=aW_kFIu_lIs&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=3) 
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=09fnMADBGDk) -->
-- *ReGraDa: Reactive Graph Data* <br/> by Leandro Galrinho, João Costa Seco, Søren Debois, Thomas Hildebrandt, Håkon Norman and Tijs Slaats [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_12)
+- *ReGraDa: Reactive Graph Data* <br/> by Leandro Galrinho, João Costa Seco, Søren Debois, Thomas Hildebrandt, Håkon Norman and Tijs Slaats 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_12)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=wE7cFytjLow) -->
-- *Tuple-based coordination in large-scale situated systems* <br/> by Roberto Casadei, Mirko Viroli, Alessandro Ricci and Giorgio Audrito	[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_10)
+- *Tuple-based coordination in large-scale situated systems* <br/> by Roberto Casadei, Mirko Viroli, Alessandro Ricci and Giorgio Audrito	
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_10)
 <!-- [(promo)]()  -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=3Wd4aR1dKZw) -->
@@ -201,18 +205,23 @@
 ### Types and Implementations 1
 *(session chair: [Vasco Vasconcelos](mailto:vmvasconcelos@fc.ul.pt))*
 
-- *Relating Functional and Imperative Session Types* <br/> by Hannes Saffrich and Peter Thiemann [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_4)
-<!-- [(promo)](https://www.youtube.com/watch?v=W2z-4fJNmlM&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=10)  -->
+- *Relating Functional and Imperative Session Types* <br/> by Hannes Saffrich and Peter Thiemann 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_4) Towards a Spatial Model Checker on GPU 
+[(promo)](https://www.youtube.com/watch?v=W2z-4fJNmlM&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=10) 
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=ihZKLja0Kug) -->
-- *Deconfined Global Types for Asynchronous Sessions* <br/> by Francesco Dagnino, Paola Giannini and Mariangiola Dezani-Ciancaglini [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_3)
-<!-- [(promo)](https://www.youtube.com/watch?v=7Jes_VQjPlM&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=5)  -->
+- *Deconfined Global Types for Asynchronous Sessions* <br/> by Francesco Dagnino, Paola Giannini and Mariangiola Dezani-Ciancaglini 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_3) 
+[(promo)](https://www.youtube.com/watch?v=7Jes_VQjPlM&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=5) 
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=-U5rHva7XNs) -->
-- *Manifestly Phased Communication via Shared Session Types* <br/> by Chuta Sano, Stephanie Balzer and Frank Pfenning [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_2) [(promo)](https://www.youtube.com/watch?v=WzAc3HjOa4s&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=9) 
+- *Manifestly Phased Communication via Shared Session Types* <br/> by Chuta Sano, Stephanie Balzer and Frank Pfenning 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_2) 
+[(promo)](https://www.youtube.com/watch?v=WzAc3HjOa4s&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=9) 
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=vD8OeMjyoLA) -->
-- *Safe Session-Based Asynchronous Coordination in Rust* <br/> by Zak Cutner and Nobuko Yoshida [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_5)
+- *Safe Session-Based Asynchronous Coordination in Rust* <br/> by Zak Cutner and Nobuko Yoshida 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_5)
 <!-- [(promo)]()  -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=JzMk-IdFVBw) -->
@@ -220,19 +229,23 @@
 ### Types and Implementations 2
 *(session chair: [Giorgio Audrito](mailto:giorgio.audrito@unito.it))*
 
-- *Asynchronous global types in co-logic programming* <br/> by Riccardo Bianchini and Francesco Dagnino [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_9)
+- *Asynchronous global types in co-logic programming* <br/> by Riccardo Bianchini and Francesco Dagnino 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_9)
 <!-- [(promo)](https://www.youtube.com/watch?v=2G1WEswKqVg&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=4)  -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=IqUPFzh7pmI) -->
-- *Java Typestate Checker* <br/> by João Mota, Marco Giunti and António Ravara [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_8)
+- *Java Typestate Checker* <br/> by João Mota, Marco Giunti and António Ravara 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_8)
 <!-- [(promo)](https://www.youtube.com/watch?v=SqZhUm4a6vc&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=6)  -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=_zrcqYPe8-8) -->
-- *A Session Subtyping Tool* <br/> by Lorenzo Bacchiani, Mario Bravetti, Julien Lange and Gianluigi Zavattaro [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_6)
+- *A Session Subtyping Tool* <br/> by Lorenzo Bacchiani, Mario Bravetti, Julien Lange and Gianluigi Zavattaro 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_6)
 <!-- [(promo)]()  -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=q7BBugYXzBQ) -->
-- *Towards Probabilistic Session-Type Monitoring* <br/> by Christian Bartolo Burlò, Adrian Francalanza, Alceste Scalas, Emilio Tuosto and Catia Trubiani [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_7)
+- *Towards Probabilistic Session-Type Monitoring* <br/> by Christian Bartolo Burlò, Adrian Francalanza, Alceste Scalas, Emilio Tuosto and Catia Trubiani 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_7)
 <!-- [(promo)]()  -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=7ncHqpgTjjc) -->
@@ -240,16 +253,19 @@
 ### Microservices
 *(session chair: [Larisa Safina](mailto:safinalrr@gmail.com))*
 
-- *Microservice Dynamic Architecture-Level Deployment Orchestration* <br/> by Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi and Gianluigi Zavattaro [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_16)
+- *Microservice Dynamic Architecture-Level Deployment Orchestration* <br/> by Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi and Gianluigi Zavattaro 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_16)
 <!-- [(promo)]()  -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=eGLMH_GpFS8) -->
-- *Jolie & LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices* <br/> by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti, Florian Rademacher and Sabine Sachweh [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_17)
+- *Jolie & LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices* <br/> by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti, Florian Rademacher and Sabine Sachweh 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_17)
 <!-- [(promo)]()  -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=hW5FoOUAiAk) -->
-- *ScaFi-Web: a Web-based Application for Field-based Coordination Programming* <br/> by Gianluca Aguzzi, Roberto Casadei, Niccolò Maltoni, Danilo Pianini and Mirko Viroli [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_18)
-<!-- [(promo)](https://www.youtube.com/watch?v=E6S_Nfi0SU8&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=7)  -->
+- *ScaFi-Web: a Web-based Application for Field-based Coordination Programming* <br/> by Gianluca Aguzzi, Roberto Casadei, Niccolò Maltoni, Danilo Pianini and Mirko Viroli 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_18)
+[(promo)](https://www.youtube.com/watch?v=E6S_Nfi0SU8&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=7) 
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=CROrhTadmzM) -->
 
@@ -260,8 +276,9 @@
 <!-- [(promo)](https://www.youtube.com/watch?v=Mn6vedNKIGs&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=2)  -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=-CUJOZoF3YM) -->
-- *A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator* <br/> by Eva Maria Kuehn [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_15)
-<!-- [(promo)](https://www.youtube.com/watch?v=1CrzqLFL3_k&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=1)  -->
+- *A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator* <br/> by Eva Maria Kuehn 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_15)
+[(promo)](https://www.youtube.com/watch?v=1CrzqLFL3_k&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=1) 
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=SkuHuomUCtY) -->
 
@@ -271,9 +288,9 @@
 
 ### DAIS Best Paper
 
-- *ASPAS: As Secure as Possible Available Systems* <br/> by Houssam Yactine, Ali Shoker and Georges Younes
-<!-- [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_4) -->
-<!-- [(promo)](https://www.youtube.com/watch?v=G9uuE-eiLqg&list=PLG8JZxiRlWS6yCnIC17kpJbWPeJ_vryOO&index=5) -->
+- *ASPAS: As Secure as Possible Available Systems* <br/> by Houssam Yactine, Ali Shoker and Georges Younes 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_4)
+[(promo)](https://www.youtube.com/watch?v=G9uuE-eiLqg&list=PLG8JZxiRlWS6yCnIC17kpJbWPeJ_vryOO&index=5)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=tWpB1JJd3RU) -->
 
@@ -281,18 +298,18 @@
 *(session chair: [Valerio Schiavoni](mailto:valerio.schiavoni@unine.ch))*
 <!-- University of Neuchâtel -->
 
-- *Network Federation for Inter-Cloud Operations* <br/> by Johannes Köstler, Sven Gebauer and Hans P. Reiser
-<!-- [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_2) -->
-<!-- [(promo)](https://www.youtube.com/watch?v=LCqwoaIamuU&list=PLG8JZxiRlWS6yCnIC17kpJbWPeJ_vryOO&index=3) -->
+- *Network Federation for Inter-Cloud Operations* <br/> by Johannes Köstler, Sven Gebauer and Hans P. Reiser 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_2) 
+[(promo)](https://www.youtube.com/watch?v=LCqwoaIamuU&list=PLG8JZxiRlWS6yCnIC17kpJbWPeJ_vryOO&index=3)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=CIPW1yCdkTA) -->
-- *SPECK: Composition of Stream Processing Applications over Fog Environments* <br/> by Daniele Miorandi, Davaadorj Battulga and Cedric Tedeschi
-<!-- [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_3) -->
+<!-- [(video)](https://youtu.be/dLEJwG1vaSs) -->
+- *SPECK: Composition of Stream Processing Applications over Fog Environments* <br/> by Daniele Miorandi, Davaadorj Battulga and Cedric Tedeschi 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_3)
 <!-- [(promo)]() -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=9l__DaXpsEI) -->
-- *Portable Intermediate Representation for efficient Big Data Analytics* <br/> by Ioannis Tzouros, Michail Tsenos and Vana Kalogeraki
-<!-- [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_5) -->
+- *Portable Intermediate Representation for efficient Big Data Analytics* <br/> by Ioannis Tzouros, Michail Tsenos and Vana Kalogeraki 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_5)
 <!-- [(promo)]() -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=H-IVaJeZ-aU) -->
@@ -304,7 +321,7 @@
 
 - *Shared-Dining: Broadcasting Secret Shares using Dining-Cryptographers Groups* <br/> by David Mödinger, Juri Dispan and Franz J. Hauck
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_6)
-<!-- [(promo)](https://www.youtube.com/watch?v=mvasuyHc6rE&list=PLG8JZxiRlWS6yCnIC17kpJbWPeJ_vryOO&index=4) -->
+[(promo)](https://www.youtube.com/watch?v=mvasuyHc6rE&list=PLG8JZxiRlWS6yCnIC17kpJbWPeJ_vryOO&index=4)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=yp4GUFJPS0o) -->
 - *KEVLAR-TZ: A Secure Cache for ARM TrustZone* <br/> by Oscar Benedito, Ricard Delgado-Gonzalo and Valerio Schiavoni
@@ -317,17 +334,17 @@
 *(session chair: [Pierre-Louis Aublin](mailto:pl@sslab.ics.keio.ac.jp))*
 <!-- Keio University  -->
 
-- *A methodology for tenant migration in legacy shared-table multi-tenant applications* <br/> by Guillaume Rosinosky, Samir Youcef, François Charoy and Etienne Rivière
-[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_1)
-<!-- [(promo)](https://www.youtube.com/watch?v=zz_HOFm48zo&list=PLG8JZxiRlWS6yCnIC17kpJbWPeJ_vryOO&index=1) -->
+- *A methodology for tenant migration in legacy shared-table multi-tenant applications* <br/> by Guillaume Rosinosky, Samir Youcef, François Charoy and Etienne Rivière 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_1) 
+[(promo)](https://www.youtube.com/watch?v=zz_HOFm48zo&list=PLG8JZxiRlWS6yCnIC17kpJbWPeJ_vryOO&index=1)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=zwRKegMxgUw) -->
-- *Analysis and Improvement of Heterogeneous Hardware Support in Docker Images* <br/> by Panagiotis Gkikopoulos, Valerio Schiavoni and Josef Spillner
+- *Analysis and Improvement of Heterogeneous Hardware Support in Docker Images* <br/> by Panagiotis Gkikopoulos, Valerio Schiavoni and Josef Spillner 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_9)
-<!-- [(promo)](https://www.youtube.com/watch?v=hbPbw2Pwwu0&list=PLG8JZxiRlWS6yCnIC17kpJbWPeJ_vryOO&index=2) -->
+[(promo)](https://www.youtube.com/watch?v=hbPbw2Pwwu0&list=PLG8JZxiRlWS6yCnIC17kpJbWPeJ_vryOO&index=2)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=r4EkjmxadCQ) -->
-- *UCBFed: Using Reinforcement Learning Method to Tackle the Federated Optimization Problem* <br/> by Wanqi Chen and Xin Zhou
+- *UCBFed: Using Reinforcement Learning Method to Tackle the Federated Optimization Problem* <br/> by Wanqi Chen and Xin Zhou 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_7)
 <!-- [(promo)]() -->
 <!-- [(slides)]()  -->
@@ -366,12 +383,12 @@
 <!-- [(video)](https://www.youtube.com/watch?v=lU8r9R3ZCMQ) -->
 - *Controller Synthesis of Service Contracts with Variability* <br/> by Davide Basile, Maurice H. ter Beek, Pierpaolo Degano, Axel Legay, Gianluigi Ferrari, Stefania Gnesi, and FelicitaDi Giandomenico
 <!-- [(paper)]() -->
-<!-- [(promo)](https://www.youtube.com/watch?v=5D7j54oP0cw&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=2) -->
+[(promo)](https://www.youtube.com/watch?v=5D7j54oP0cw&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=2)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=tj3ny6XycvI) -->
-- *Formal verification of HotStuff* <br/> by Leander Jehl
+- *Formal verification of HotStuff* <br/> by Leander Jehl 
+[(promo)](https://www.youtube.com/watch?v=_oy_pm3K6aA&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=3)
 <!-- [(paper)]() -->
-<!-- [(promo)](https://www.youtube.com/watch?v=_oy_pm3K6aA&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=3) -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=8mSjyWmggBg) -->
 
@@ -386,9 +403,8 @@
 <!-- [(paper)]() -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=hI-pqrLqZZY) -->
-- *Towards a spatial model checker on GPU* <br/> by Laura Bussi, Vincenzo Ciancia and Fabio Gadducci
-<!-- [(paper)]() -->
-<!-- [(promo)](https://www.youtube.com/watch?v=E1YtHKUFuXg&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=5) -->
+- *Towards a spatial model checker on GPU* <br/> by Laura Bussi, Vincenzo Ciancia and Fabio Gadducci [(promo)](https://www.youtube.com/watch?v=E1YtHKUFuXg&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=5)
+<!-- [(paper)]() --> 
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=_BaBA5bkc30) -->
 
@@ -414,7 +430,7 @@
 
 - *π with leftovers: a mechanisation in Agda* <br/> by Uma Zalakain and Ornela Dardha
 <!-- [(paper)]() -->
-<!-- [(promo)](https://www.youtube.com/watch?v=NP6Rtxlrj0o&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=6) -->
+[(promo)](https://www.youtube.com/watch?v=NP6Rtxlrj0o&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=6)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=KYbjsenh2iM) -->
 - *Off-the-shelf Automated Analysis of Liveness Properties for Just Paths* <br/> by Mark Bouwman, Bas Luttik and Tim Willemse
