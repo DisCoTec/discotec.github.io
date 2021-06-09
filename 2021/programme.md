@@ -197,7 +197,7 @@
       <td style="text-align: center"><strong>11.00-13.00</strong></td>
       <td style="text-align: center"><em>break</em></td>
       <td style="text-align: center"><em>break</em></td>
-      <td style="text-align: center"><strong>11:00-13:00</strong> - <em>break</em></td>
+      <td style="text-align: center"><em>break</em></td>
     </tr>
     <tr>
       <td style="text-align: center"><strong>13.00-13.30</strong></td>
@@ -228,7 +228,7 @@
       <td style="text-align: center"><strong>14.50-15.20</strong> - <a href="#process-algebra">Processes, Systems & Tests: Defining Contextual Equivalences</a></td>
     </tr>
     <tr>
-      <td style="text-align: center"><strong>15.20-17:00</strong> - <em>break</em></td>
+      <td style="text-align: center"><em>break</em></td>
     </tr>
     <tr>
       <td style="text-align: center" rowspan="2"><strong>17.00-18.00</strong></td>
