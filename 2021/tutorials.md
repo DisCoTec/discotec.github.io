@@ -60,9 +60,10 @@ He is the lead designer of dozens of open-source software tools, among which the
 
 <!-- <br/><br/> -->
 <!-- Tutorial slides [(all)]() and video presentations [(part 1)](https://youtu.be/N31C1s_p9WM), [(part 2)](https://youtu.be/1udKfJcMVt0), [(part 3)](https://youtu.be/QLX_Vx-KntA) -->
-<!-- <br/><br/> -->
-<!-- [Companion tutorial paper]() and [Promo](https://www.youtube.com/watch?v=SC22behYJN0&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=1) -->
-<!-- <br/><br/> -->
+<br/><br/>
+[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_15)
+ <!-- and [Promo](https://www.youtube.com/watch?v=SC22behYJN0&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=1) -->
+<br/><br/>
 
 Distributed software is very tricky to implement correctly as there are many hard to foresee possible execution orders. 
 Proving correctness of such software is hard and time consuming using, for instance, assertional techniques. 
@@ -90,9 +91,10 @@ His specific areas of expertise include (explicit state) model checking and pari
 
 <!-- <br/><br/> -->
 <!-- Tutorial slides [(all)]() and video presentations [(part xxx)]() -->
-<!-- <br/><br/> -->
-<!-- [Companion tutorial paper]() and [Promo]() -->
-<!-- <br/><br/> -->
+<br/><br/>
+[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_14)
+ <!-- and [Promo]() -->
+<br/><br/>
 
 We introduce DetectEr, a runtime verification tool developed over the last 5 years with the aim of monitoring concurrent systems written for the Erlang ecosystem.
 DetectEr supports three types of monitoring methods: inline, outline, and offline monitoring.

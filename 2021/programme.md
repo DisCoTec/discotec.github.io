@@ -64,8 +64,8 @@
 |*12.55-13.00*|*welcome*|*welcome*| |
 | | [Large-Scale Decentralised Systems](#large-scale-decentralised-systems) | [Distributed Algorithms](#distributed-algorithms) | [Application of Formal Methods](#application-of-formal-methods) |
 |**13.00-13.30**| [A theory of Automated Market Makers in DeFi](#large-scale-decentralised-systems) | [Network Federation for Inter-Cloud Operations](#distributed-algorithms) | *welcome -13.25*
-|**13.30-14.00**| [ReGraDa: Reactive Graph Data](#large-scale-decentralised-systems) | [SPECK: Composition of Stream Processing Applications over Fog Environments](#distributed-algorithms) | [Polarization and Belief Convergence of Multi-Agents Systems Under Confirmation Bias](#application-of-formal-methods)
-|**14.00-14.30**| [Tuple-based coordination in large-scale situated systems](#large-scale-decentralised-systems) | [Portable Intermediate Representation for efficient Big Data Analytics](#distributed-algorithms) | [Controller Synthesis of Service Contracts with Variability](#application-of-formal-methods) |
+|**13.30-14.00**| [ReGraDa: Reactive Graph Data](#large-scale-decentralised-systems) | [SPECK: Composition of Stream Processing Applications over Fog Environments](#distributed-algorithms) | [A Multi-agent Model for Polarization Under Confirmation Bias in Social Networks](#application-of-formal-methods)
+|**14.00-14.30**| [Tuple-based coordination in large-scale situated systems](#large-scale-decentralised-systems) | [Portable Intermediate Representation for efficient Big Data Analytics](#distributed-algorithms) | [Supervisory Synthesis of Configurable Behavioural Contracts with Modalities](#application-of-formal-methods) |
 |**14.30-15.00**| | | [Formal verification of HotStuff](#application-of-formal-methods)
 |*15.00-17.00*|*break*|*break*|*break*|
 | | [Types and Implementations 1](#types-and-implementations-1) | | [Static Analysis and Type Systems](#static-analysis-and-type-systems)
@@ -132,7 +132,7 @@
 | | [Microservices](#microservices) | [Scalability and Elasticity](#scalability-and-elasticity) | [Mechanisation Modelling](#mechanisation-modelling)
 |**13.00-13.30**| | [A methodology for tenant migration in legacy shared-table multi-tenant applications](#scalability-and-elasticity) | [π with leftovers: a mechanisation in Agda](#mechanisation-modelling) |
 |**13.30-14.00**| [Microservice Dynamic Architecture-Level Deployment Orchestration](#microservices) | [Analysis and Improvement of Heterogeneous Hardware Support in Docker Images](#scalability-and-elasticity) | [Off-the-shelf Automated Analysis of Liveness Properties for Just Paths](#mechanisation-modelling) |
-|**14.00-14.30**| [Jolie & LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices](#microservices) | [UCBFed: Using Reinforcement Learning Method to Tackle the Federated Optimization Problem](#scalability-and-elasticity) | [Introduction and preservation analysis of refinement relations in CCSL](#mechanisation-modelling) |
+|**14.00-14.30**| [Jolie & LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices](#microservices) | [UCBFed: Using Reinforcement Learning Method to Tackle the Federated Optimization Problem](#scalability-and-elasticity) | [Towards Multi-layered Temporal Models: A Proposal to Integrate Instant Refinement in CCSL](#mechanisation-modelling) |
 |**14.30-15.00**| [ScaFi-Web: a Web-based Application for Field-based Coordination Programming](#microservices) |
 |*15.00-17.00*|*break*|*break*|*break*|
 | | [Modelling: Structures and Implementations](#modelling-structures-and-implementations) |
@@ -358,7 +358,7 @@
 ### FORTE Best Paper
 
 - *A case study on parametric verification of failure detectors* <br/> by Thanh-Hai Tran, Igor Konnov, and Josef Widder
-<!-- [(paper)]() -->
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_8)
 <!-- [(promo)](https://www.youtube.com/watch?v=vuKZ0DctBbw&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=1) -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=JNjPK976Sno) -->
@@ -366,18 +366,18 @@
 ### Application of Formal methods 
 *(session chair: [Mohammad Mousavi](mailto:mm789@leicester.ac.uk))*
 
-- *Polarization and Belief Convergence of Multi-Agents Systems Under Confirmation Bias* <br/> by Frank Valencia, Mario S. Alvim, Sophia Knight, Santiago Quintero, and Bernardo Amorin
-<!-- [(paper)]() -->
+- *A Multi-agent Model for Polarization Under Confirmation Bias in Social Networks* <br/> by Frank Valencia, Mario S. Alvim, Sophia Knight, Santiago Quintero, and Bernardo Amorin
+<!-- [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_2) -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=lU8r9R3ZCMQ) -->
-- *Controller Synthesis of Service Contracts with Variability* <br/> by Davide Basile, Maurice H. ter Beek, Pierpaolo Degano, Axel Legay, Gianluigi Ferrari, Stefania Gnesi, and FelicitaDi Giandomenico
-<!-- [(paper)]() -->
+- *Supervisory Synthesis of Configurable Behavioural Contracts with Modalities* <br/> by Davide Basile, Maurice H. ter Beek, Pierpaolo Degano, Axel Legay, Gianluigi Ferrari, Stefania Gnesi, and FelicitaDi Giandomenico
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_10)
 [(promo)](https://www.youtube.com/watch?v=5D7j54oP0cw&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=2)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=tj3ny6XycvI) -->
 - *Formal verification of HotStuff* <br/> by Leander Jehl 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_13)
 [(promo)](https://www.youtube.com/watch?v=_oy_pm3K6aA&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=3)
-<!-- [(paper)]() -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=8mSjyWmggBg) -->
 
@@ -385,15 +385,16 @@
 *(session chair: [Thomas Neele](mailto:thomas.neele@rhul.ac.uk))*
 
 - *Prioritise the Best Variation* <br/> by Wen Kokke and Ornela Dardha
-<!-- [(paper)]() -->
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_6)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=0-PbpDyEV1s) -->
 - *A formalisation of SysML state machines in mCRL2* <br/> by Mark Bouwman, Bas Luttik and Djurre van der Wal
-<!-- [(paper)]() -->
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_3)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=hI-pqrLqZZY) -->
-- *Towards a spatial model checker on GPU* <br/> by Laura Bussi, Vincenzo Ciancia and Fabio Gadducci [(promo)](https://www.youtube.com/watch?v=E1YtHKUFuXg&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=5)
-<!-- [(paper)]() --> 
+- *Towards a spatial model checker on GPU* <br/> by Laura Bussi, Vincenzo Ciancia and Fabio Gadducci 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_12) 
+[(promo)](https://www.youtube.com/watch?v=E1YtHKUFuXg&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=5)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=_BaBA5bkc30) -->
 
@@ -401,16 +402,16 @@
 *(session chair: [Anna Philippou](mailto:annap@cs.ucy.ac.cy))*
 
 - *On Bidirectional Runtime Enforcement* <br/> by Luca Aceto, Ian Cassar, Adrian Francalanza, and Anna Ingolfsdottir
-<!-- [(paper)]() -->
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_1)
 <!-- [(promo)](https://www.youtube.com/watch?v=2wEuYQtFGzM&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=4) -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=C9iNlJSAbCU) -->
 - *Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves* <br/> by Roberto Gorrieri
-<!-- [(paper)]() -->
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_5)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=mii0qyqHRSo) -->
 - *How Adaptive and Reliable is your Program?* <br/> by Valentina Castiglioni, Michele Loreti, and Simone Tini
-<!-- [(paper)]() -->
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_4)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=xbSH7WukSVA) -->
 
@@ -418,16 +419,16 @@
 *(session chair: [Björn Victor](mailto:Bjorn.Victor@it.uu.se))*
 
 - *π with leftovers: a mechanisation in Agda* <br/> by Uma Zalakain and Ornela Dardha
-<!-- [(paper)]() -->
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_9)
 [(promo)](https://www.youtube.com/watch?v=NP6Rtxlrj0o&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=6)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=KYbjsenh2iM) -->
 - *Off-the-shelf Automated Analysis of Liveness Properties for Just Paths* <br/> by Mark Bouwman, Bas Luttik and Tim Willemse
-<!-- [(paper)]() -->
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_11)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=p6Jvb2MvrUo) -->
-- *Introduction and preservation analysis of refinement relations in CCSL* <br/> by Mathieu Montin and Marc Pantel
-<!-- [(paper)]() -->
+- *Towards Multi-layered Temporal Models: A Proposal to Integrate Instant Refinement in CCSL* <br/> by Mathieu Montin and Marc Pantel
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_7)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=Lqn4FiytcK4) -->
 
