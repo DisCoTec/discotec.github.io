@@ -564,7 +564,7 @@
 
 
 
-## ICE accepted papers and programme
+## ICE accepted papers and programme (18 June 2021)
 
 ### Invited talk 1
 
