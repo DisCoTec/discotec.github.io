@@ -106,3 +106,27 @@ Helene Coullon started her career in 2007 as a development engineer in the Frenc
 Helene Coullon is associate professor in computer science at IMT Atlantique since 2016, and an Inria researcher (under a chair from 2016 to 2021) in the STACK research Team (Inria, IMTA DAPI, LS2N). 
 She is also adjunct professor at the University of Tromsø (Norway) in the DAO project led by Otto Anshus since 2020. Her current research topics are programming models in the context of distributed infrastructures and systems. 
 In particular, she is interested in configuration, deployment, reconfiguration, and dynamic adaptation of large and complex distributed software systems.
+
+
+
+## Lewis Tseng
+
+[Boston College, USA](mailto:lewis.tseng@bc.edu)
+
+### High-performance crash-tolerant SMR in a single datacenter
+
+State-Machine Replication (SMR) uses replication to ensure that a service is available and consistent in the presence of failures. One popular mechanism for implementing SMR is to use a consensus algorithm to agree on the total order of client requests, namely, a log-based SMR approach. I will present our recent works on improving log-based SMR deployed in a single datacenter:
+ 
+(i) in the first work, we use randomization to simplify the design. Compared to Multi-Paxos and EPaxos, our system maintains high performance with reduced engineering complexity, by exploiting the stable network infrastructure in a single datacenter.
+ 
+(ii) in the second work, we port Paxos to our new model which exploits the power of remote direct memory access (RDMA). Our system offers good performance while demonstrating better tail latency and faster fail-over compared to a state-of-the-art competitor.
+
+
+### Biography
+
+Lewis Tseng is an assistant professor in the Computer Science department at Boston College. 
+Before that, he spent a year and a half as a researcher at Toyota InfoTechnology Center. 
+He received a B.S. and a Ph.D. degree both in Computer Science from the University of Illinois at Urbana-Champaign (UIUC) in 2010 and 2016, respectively. 
+His research broadly lies in the intersection of fault-tolerant computing and distributed computing. H
+e won the best paper award in the International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS) 2017. 
+He has served in many program committees including ICDCN 2018, SIROCCO 2018, PODC 2020, ICDCS 2021, DISC 2021, etc. 
