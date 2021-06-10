@@ -286,7 +286,6 @@
 <!-- [(video)](https://www.youtube.com/watch?v=wE7cFytjLow) -->
 - *Tuple-based coordination in large-scale situated systems* <br/> by Roberto Casadei, Mirko Viroli, Alessandro Ricci and Giorgio Audrito	
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_10)
-<!-- [(promo)]()  -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=3Wd4aR1dKZw) -->
 
@@ -311,7 +310,6 @@
 <!-- [(video)](https://www.youtube.com/watch?v=vD8OeMjyoLA) -->
 - *Safe Session-Based Asynchronous Coordination in Rust* <br/> by Zak Cutner and Nobuko Yoshida 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_5)
-<!-- [(promo)]()  -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=JzMk-IdFVBw) -->
 
@@ -330,12 +328,10 @@
 <!-- [(video)](https://www.youtube.com/watch?v=_zrcqYPe8-8) -->
 - *A Session Subtyping Tool* <br/> by Lorenzo Bacchiani, Mario Bravetti, Julien Lange and Gianluigi Zavattaro 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_6)
-<!-- [(promo)]()  -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=q7BBugYXzBQ) -->
 - *Towards Probabilistic Session-Type Monitoring* <br/> by Christian Bartolo Burlò, Adrian Francalanza, Alceste Scalas, Emilio Tuosto and Catia Trubiani 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_7)
-<!-- [(promo)]()  -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=7ncHqpgTjjc) -->
 
@@ -344,12 +340,10 @@
 
 - *Microservice Dynamic Architecture-Level Deployment Orchestration* <br/> by Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi and Gianluigi Zavattaro 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_16)
-<!-- [(promo)]()  -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=eGLMH_GpFS8) -->
 - *Jolie & LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices* <br/> by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti, Florian Rademacher and Sabine Sachweh 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_17)
-<!-- [(promo)]()  -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=hW5FoOUAiAk) -->
 - *ScaFi-Web: a Web-based Application for Field-based Coordination Programming* <br/> by Gianluca Aguzzi, Roberto Casadei, Niccolò Maltoni, Danilo Pianini and Mirko Viroli 
@@ -395,12 +389,10 @@
 <!-- [(video)](https://youtu.be/dLEJwG1vaSs) -->
 - *SPECK: Composition of Stream Processing Applications over Fog Environments* <br/> by Daniele Miorandi, Davaadorj Battulga and Cedric Tedeschi 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_3)
-<!-- [(promo)]() -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=9l__DaXpsEI) -->
 - *Portable Intermediate Representation for efficient Big Data Analytics* <br/> by Ioannis Tzouros, Michail Tsenos and Vana Kalogeraki 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_5)
-<!-- [(promo)]() -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=H-IVaJeZ-aU) -->
 
@@ -416,7 +408,6 @@
 <!-- [(video)](https://www.youtube.com/watch?v=yp4GUFJPS0o) -->
 - *KEVLAR-TZ: A Secure Cache for ARM TrustZone* <br/> by Oscar Benedito, Ricard Delgado-Gonzalo and Valerio Schiavoni
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_8)
-<!-- [(promo)]() -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://youtube.com/watch?v=LXjuJKEAxHg) -->
 
@@ -436,7 +427,6 @@
 <!-- [(video)](https://www.youtube.com/watch?v=r4EkjmxadCQ) -->
 - *UCBFed: Using Reinforcement Learning Method to Tackle the Federated Optimization Problem* <br/> by Wanqi Chen and Xin Zhou 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_7)
-<!-- [(promo)]() -->
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=I0pboUIxd1Q) -->
 
@@ -493,7 +483,7 @@
 
 - *On Bidirectional Runtime Enforcement* <br/> by Luca Aceto, Ian Cassar, Adrian Francalanza, and Anna Ingolfsdottir
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_1)
-<!-- [(promo)](https://www.youtube.com/watch?v=2wEuYQtFGzM&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=4) -->
+[(promo)](https://www.youtube.com/watch?v=2wEuYQtFGzM&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=4)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=C9iNlJSAbCU) -->
 - *Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves* <br/> by Roberto Gorrieri
