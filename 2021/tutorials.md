@@ -17,7 +17,7 @@ Tutorial session are typically *hands-on*, providing the audience with the uniqu
 <br/><br/>
 <!-- Tutorial slides [(all)]() and video presentations [(all)](https://youtu.be/GDFBFXDvBT0) -->
 <!-- <br/><br/> -->
-<!-- [Companion tutorial paper]() and [Promo](https://www.youtube.com/watch?v=SC22behYJN0&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=1) -->
+<!-- [Companion tutorial paper]() and [Promo](https://www.youtube.com/watch?v=SC22behYJN0&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=1) -->  -->
 <!-- <br/><br/> -->
 
 Actor languages decouple communication from synchronisation, which makes them suitable for distributed and scalable applications with flexible synchronisation patterns, but also facilitates analysis.  
@@ -41,7 +41,8 @@ The ABS modeling language has been developed in collaboration between the Univer
 <!-- <br/><br/> -->
 <!-- Tutorial slides [(all)]() and video presentations [(part 1)](https://www.youtube.com/watch?v=zF-LHHQjdOg), [(part 2)](https://www.youtube.com/watch?v=nORRuG3VjYU), [(part 3)](https://www.youtube.com/watch?v=crZM6Idpg74) -->
 <!-- <br/><br/> -->
-<!-- [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_10) and [Promo](https://www.youtube.com/watch?v=ZIq11I_vTms&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=3) -->
+[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_10) 
+<!-- and [Promo](https://www.youtube.com/watch?v=ZIq11I_vTms&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=3) -->
 <!-- <br/><br/> -->
 
 Many interesting systems in several disciplines can be modeled as networks of nodes that can store and exchange data: pervasive systems, edge computing scenarios, and even biological and bio-inspired systems. 

@@ -457,7 +457,7 @@
 *(session chair: [Mohammad Mousavi](mailto:mm789@leicester.ac.uk))*
 
 - *A Multi-agent Model for Polarization Under Confirmation Bias in Social Networks* <br/> by Frank Valencia, Mario S. Alvim, Sophia Knight, Santiago Quintero, and Bernardo Amorin
-<!-- [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_2) -->
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_2)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=lU8r9R3ZCMQ) -->
 - *Supervisory Synthesis of Configurable Behavioural Contracts with Modalities* <br/> by Davide Basile, Maurice H. ter Beek, Pierpaolo Degano, Axel Legay, Gianluigi Ferrari, Stefania Gnesi, and FelicitaDi Giandomenico
