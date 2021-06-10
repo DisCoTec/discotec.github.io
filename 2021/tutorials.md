@@ -17,7 +17,7 @@ Tutorial session are typically *hands-on*, providing the audience with the uniqu
 <br/><br/>
 <!-- Tutorial slides [(all)]() and video presentations [(all)](https://youtu.be/GDFBFXDvBT0) -->
 <!-- <br/><br/> -->
-<!-- [Companion tutorial paper]() and [Promo](https://www.youtube.com/watch?v=SC22behYJN0&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=1) -->  -->
+<!-- [Companion tutorial paper]() and [Promo](https://www.youtube.com/watch?v=SC22behYJN0&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=1) -->  
 <!-- <br/><br/> -->
 
 Actor languages decouple communication from synchronisation, which makes them suitable for distributed and scalable applications with flexible synchronisation patterns, but also facilitates analysis.  
