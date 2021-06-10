@@ -43,7 +43,7 @@ The ABS modeling language has been developed in collaboration between the Univer
 <!-- <br/><br/> -->
 [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_10) 
 <!-- and [Promo](https://www.youtube.com/watch?v=ZIq11I_vTms&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=3) -->
-<!-- <br/><br/> -->
+<br/><br/>
 
 Many interesting systems in several disciplines can be modeled as networks of nodes that can store and exchange data: pervasive systems, edge computing scenarios, and even biological and bio-inspired systems. 
 These systems feature inherent complexity, and often simulation is the preferred (and sometimes the only) way of investigating their behaviour; this is true both in the design phase and in the verification and testing phase. 
