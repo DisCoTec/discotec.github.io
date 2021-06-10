@@ -17,8 +17,9 @@ Tutorial session are typically *hands-on*, providing the audience with the uniqu
 <br/><br/>
 <!-- Tutorial slides [(all)]() and video presentations [(all)](https://youtu.be/GDFBFXDvBT0) -->
 <!-- <br/><br/> -->
-<!-- [Companion tutorial paper]() and [Promo](https://www.youtube.com/watch?v=SC22behYJN0&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=1) -->  
-<!-- <br/><br/> -->
+[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_1) 
+<!-- and [Promo](https://www.youtube.com/watch?v=SC22behYJN0&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=1)   -->
+<br/><br/>
 
 Actor languages decouple communication from synchronisation, which makes them suitable for distributed and scalable applications with flexible synchronisation patterns, but also facilitates analysis.  
 ABS is a timed actor-based modeling language which supports cooperative scheduling and the specification of timing- and resource-aware behavior.  
