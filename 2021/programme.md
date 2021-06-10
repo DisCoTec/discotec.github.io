@@ -320,12 +320,12 @@
 
 - *Asynchronous global types in co-logic programming* <br/> by Riccardo Bianchini and Francesco Dagnino 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_9)
-<!-- [(promo)](https://www.youtube.com/watch?v=2G1WEswKqVg&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=4)  -->
+[(promo)](https://www.youtube.com/watch?v=2G1WEswKqVg&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=4) 
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=IqUPFzh7pmI) -->
 - *Java Typestate Checker* <br/> by João Mota, Marco Giunti and António Ravara 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_8)
-<!-- [(promo)](https://www.youtube.com/watch?v=SqZhUm4a6vc&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=6)  -->
+[(promo)](https://www.youtube.com/watch?v=SqZhUm4a6vc&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=6) 
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=_zrcqYPe8-8) -->
 - *A Session Subtyping Tool* <br/> by Lorenzo Bacchiani, Mario Bravetti, Julien Lange and Gianluigi Zavattaro 
@@ -361,8 +361,9 @@
 ### Modelling: Structures and Implementations
 *(session chair: [José Proença](mailto:pro@isep.ipp.pt))*
 
-- *A Clean and Efficient Implementation of Choreography Synthesis for Behavioural Contracts* <br/> by Davide Basile and Maurice H. ter Beek [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_14)
-<!-- [(promo)](https://www.youtube.com/watch?v=Mn6vedNKIGs&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=2)  -->
+- *A Clean and Efficient Implementation of Choreography Synthesis for Behavioural Contracts* <br/> by Davide Basile and Maurice H. ter Beek 
+[(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_14)
+[(promo)](https://www.youtube.com/watch?v=Mn6vedNKIGs&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=2) 
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=-CUJOZoF3YM) -->
 - *A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator* <br/> by Eva Maria Kuehn 
@@ -448,7 +449,7 @@
 
 - *A case study on parametric verification of failure detectors* <br/> by Thanh-Hai Tran, Igor Konnov, and Josef Widder
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_8)
-<!-- [(promo)](https://www.youtube.com/watch?v=vuKZ0DctBbw&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=1) -->
+[(promo)](https://www.youtube.com/watch?v=vuKZ0DctBbw&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=1)
 <!-- [(slides)]()  -->
 <!-- [(video)](https://www.youtube.com/watch?v=JNjPK976Sno) -->
 

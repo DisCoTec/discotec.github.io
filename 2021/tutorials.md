@@ -15,7 +15,7 @@ Tutorial session are typically *hands-on*, providing the audience with the uniqu
 [Instructions to download and install the tool](https://abs-models.org/getting_started/
 )
 <br/><br/>
-<!-- Tutorial slides [(all)]() and video presentations [(part xxx)]() -->
+<!-- Tutorial slides [(all)]() and video presentations [(all)](https://youtu.be/GDFBFXDvBT0) -->
 <!-- <br/><br/> -->
 <!-- [Companion tutorial paper]() and [Promo](https://www.youtube.com/watch?v=SC22behYJN0&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=1) -->
 <!-- <br/><br/> -->
