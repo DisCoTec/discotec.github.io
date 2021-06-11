@@ -138,13 +138,9 @@ He has served in many program committees including ICDCN 2018, SIROCCO 2018, POD
 
 [University of Kent, UK](mailto:l.bocchi@kent.ac.uk)
 
-### Modular protocol composition with session types
+### Protocols, timeouts, and failures
 
-In systems of communicating processes or actors, session types can be used to discipline the sorts and causality patterns among different send/receive actions. Session types can be seen as application-level protocols, and used as behavioural APIs, to ensure harmonious communication between processes or actors via synthesis, verification, o monitoring.  
-
-Real-world communication protocols are often built out of simpler protocols that cater for some specific functionality (e.g., banking, authentication) or operate at different levels of abstraction (e.g., HTTP, POP). However much of the work used for program verification (e.g., session types) treat protocols as monolithic units.  
-
-I will give an overview on recent and ongoing research about modular **protocol composition**. This is orthgogonal to **process composition** that can be disciplined with session types. I will show an approach to protocol composition, including a tool that extracts models from concurrent Erlang code into a protocol language based on session types, implements an algorithmic notion of protocol composition, and provides code generation from protocols. The purpose is greater modularisation and code reuse. 
+In the last few years, several efforts were directed at establishing relationships between models for real-time asynchronous interactions and their implementations so to reflect correctness of time-sensitive models into their implementations. I will discuss contributions and limitations, focussing on the way unpredictability (e.g., jitter, failures) is accounted for. I will discuss ongoing directions, in the context of the STARDUST project (Session Types for Reliable Distributed Systems) towards detecting grey failures, as a first step towards better recovering strategies for actor-based systems.
 
 ### Biography
 

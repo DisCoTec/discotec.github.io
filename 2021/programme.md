@@ -173,7 +173,7 @@
       <td style="text-align: center"><a href="#session-1">Formal verification of HotStuff</a></td>
       <td style="text-align: center"><a href="#remv-accepted-papers-and-programme">Computer vision system for recognizing plant diseases and pests</a></td>
       <td style="text-align: center" rowspan="2">
-        <strong>9:10-10:10</strong> - <a href="invited#laura-bocchi">(Invited talk) Laura Bocchi: Modular protocol composition with session types</a>
+        <strong>9:10-10:10</strong> - <a href="invited#laura-bocchi">(Invited talk) Laura Bocchi: Protocols, timeouts, and failures</a>
       </td>
     </tr>
     <tr>
@@ -560,7 +560,7 @@
 
 ### Invited talk 1
 
-- **9:10-10:10** Laura Bocchi (University of Kent, UK): *Modular protocol composition with session types* <br /> (see the [invited talks page](invited#laura-bocchi) for details)
+- **9:10-10:10** Laura Bocchi (University of Kent, UK): *Protocols, timeouts, and failures* <br /> (see the [invited talks page](invited#laura-bocchi) for details)
 
 ### Session types
 Session Chair: Ivan Prokić
