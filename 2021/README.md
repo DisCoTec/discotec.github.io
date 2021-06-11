@@ -15,6 +15,15 @@
 
 Go to the [registration page](https://www.um.edu.mt/events/discotec2021/registration).
 
+## Programme
+
+Go to the [programme page](https://www.discotec.org/2021/programme). *All times are listed for* **CET+1** *(Central European **Summer** Time)* 
+
+## Discussions
+
+Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/shared_invite/zt-qd3ed8l2-BC1WA_re3N~e6AjNbFNIzQ)
+
+
 ## Instructions for Attendees and Presenters
 
 * Attendee instructions may be found [here](https://www.discotec.org/2021/attendees). 
@@ -25,9 +34,7 @@ Go to the [registration page](https://www.um.edu.mt/events/discotec2021/registra
 * Any technical difficulties may be posted on the dedicated [Slack workspace](https://join.slack.com/t/discotec2021/shared_invite/zt-qd3ed8l2-BC1WA_re3N~e6AjNbFNIzQ). Further instructions may be found [here](https://www.discotec.org/2021/slack).
 * Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
 
-## Programme
 
-Go to the [programme page](https://www.discotec.org/2021/programme). *All times are listed for* **CET+1** *(Central European **Summer** Time)* 
 
 
 ## Conferences
@@ -103,9 +110,6 @@ The individual conferences will organise special issues of extended and selected
 
 
 
-## Discussions
-
-Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/shared_invite/zt-qd3ed8l2-BC1WA_re3N~e6AjNbFNIzQ)
 
 
 ## Scientific Committees
