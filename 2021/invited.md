@@ -144,4 +144,4 @@ In the last few years, several efforts were directed at establishing relationshi
 
 ### Biography
 
-Laura is a Senior Lecturer in Computing at the University of Kent. She is interested in static and dynamic verification of communicating programs by using session types. Her current research is on time-sensitive properties and reliability. She is currently a WP leader in the EU RISE project ‘BehAPI’ on behavioural APis, and in the EPSRC project 'Session Types for Reliable Distributed Systems (STARDUST)'.
+Bio: Laura is a Senior Lecturer in Computing at the University of Kent. She is interested in static and dynamic verification of communicating programs by using session types. Her current research is on time-sensitive properties and reliability. She is currently a WP leader in the EU RISE project ‘BehAPI’ on behavioural APis, and in the EPSRC project 'Session Types for Reliable Distributed Systems (STARDUST)'.

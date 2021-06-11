@@ -11,10 +11,6 @@
 
 <!--*COVID-19:* We are continually monitoring the current COVID-19 situation. Depending on how this unfolds in the coming months, we may decide to switch to an online event, although we still hope to be able to organise a physical event. In the latter case, we would be happy to support remote presentations as well should participants be unable to travel safely. -->
 
-## Registration
-
-Go to the [registration page](https://www.um.edu.mt/events/discotec2021/registration).
-
 ## Programme
 
 Go to the [programme page](https://www.discotec.org/2021/programme). *All times are listed for* **CET+1** *(Central European **Summer** Time)* 
@@ -190,6 +186,11 @@ It can be reached [as follows](https://www.um.edu.mt/conferenceunit/about/howtor
 * Kostas Magoutis (ICS-FORTH, GR)
 * Rui Oliveira (University of Minho, PT)
 * Jean-Bernard Stefani (INRIA Grenoble, FR)
+
+
+## Registration
+
+Go to the [registration page](https://www.um.edu.mt/events/discotec2021/registration).
 
 
 
