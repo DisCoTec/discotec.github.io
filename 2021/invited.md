@@ -129,4 +129,21 @@ Before that, he spent a year and a half as a researcher at Toyota InfoTechnology
 He received a B.S. and a Ph.D. degree both in Computer Science from the University of Illinois at Urbana-Champaign (UIUC) in 2010 and 2016, respectively. 
 His research broadly lies in the intersection of fault-tolerant computing and distributed computing. H
 e won the best paper award in the International Symposium on Stabilization, Safety, and Security of Distributed Systems (SSS) 2017. 
-He has served in many program committees including ICDCN 2018, SIROCCO 2018, PODC 2020, ICDCS 2021, DISC 2021, etc. 
+He has served in many program committees including ICDCN 2018, SIROCCO 2018, PODC 2020, ICDCS 2021, DISC 2021, etc.
+
+
+## Laura Bocchi
+
+[University of Kent, UK](mailto:l.bocchi@kent.ac.uk)
+
+### Modular protocol composition with session types
+
+In systems of communicating processes or actors, session types can be used to discipline the sorts and causality patterns among different send/receive actions. Session types can be seen as application-level protocols, and used as behavioural APIs, to ensure harmonious communication between processes or actors via synthesis, verification, o monitoring.  
+
+Real-world communication protocols are often built out of simpler protocols that cater for some specific functionality (e.g., banking, authentication) or operate at different levels of abstraction (e.g., HTTP, POP). However much of the work used for program verification (e.g., session types) treat protocols as monolithic units.  
+
+I will give an overview on recent and ongoing research about modular **protocol composition**. This is orthgogonal to **process composition** that can be disciplined with session types. I will show an approach to protocol composition, including a tool that extracts models from concurrent Erlang code into a protocol language based on session types, implements an algorithmic notion of protocol composition, and provides code generation from protocols. The purpose is greater modularisation and code reuse. 
+
+### Biography
+
+Laura is a Senior Lecturer in Computing at the University of Kent. She is interested in static and dynamic verification of communicating programs by using session types. Her current research is on time-sensitive properties and reliability. She is currently a WP leader in the EU RISE project ‘BehAPI’ on behavioural APis, and in the EPSRC project 'Session Types for Reliable Distributed Systems (STARDUST)'.

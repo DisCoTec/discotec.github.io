@@ -173,7 +173,7 @@
       <td style="text-align: center"><a href="#session-1">Formal verification of HotStuff</a></td>
       <td style="text-align: center"><a href="#remv-accepted-papers-and-programme">Computer vision system for recognizing plant diseases and pests</a></td>
       <td style="text-align: center" rowspan="2">
-        <strong>9:10-10:10</strong> - <a href="#invited-talk-1">Invited talk: Laura Bocchi (TBA)</a>
+        <strong>9:10-10:10</strong> - <a href="invited#laura-bocchi">(Invited talk) Laura Bocchi: Modular protocol composition with session types</a>
       </td>
     </tr>
     <tr>
@@ -204,7 +204,7 @@
       <td style="text-align: center"><a href="#session-2">FairMM: A Fast and Frontrunning-Resistant Crypto Market-Maker</a></td>
       <td style="text-align: center"><a href="#remv-accepted-papers-and-programme">Computer vision system for analyzing 2D tomograms of brain activity</a></td>
       <td style="text-align: center" rowspan="2">
-        <strong>13:00-14:00</strong> - <a href="#invited-talk-2">Invited talk: Helene Coullon (TBA)</a>
+        <strong>13:00-14:00</strong> - <a href="invited#helene-coullon">(Invited talk) Helene Coullon: Execution and Planning of Distributed Systems Reconfigurations - Concurrency and formal aspects</a>
       </td>
     </tr>
     <tr>
@@ -560,7 +560,7 @@
 
 ### Invited talk 1
 
-- **9:10-10:10** Laura Bocchi *(TBA)*
+- **9:10-10:10** Laura Bocchi (University of Kent, UK): *Modular protocol composition with session types* <br /> (see the [invited talks page](invited#laura-bocchi) for details)
 
 ### Session types
 Session Chair: Ivan Prokić
@@ -570,7 +570,7 @@ Session Chair: Ivan Prokić
 
 ### Invited talk 2
 
-- **13:00-14:00** Helene Coullon *(TBA)*
+- **13:00-14:00** Helene Coullon (IMT Atlantique, FR): *Execution and Planning of Distributed Systems Reconfigurations - Concurrency and formal aspects* <br /> (see the [invited talks page](invited#helene-coullon) for details)
 
 ### Process algebra
 Session chair: Ivan Lanese
