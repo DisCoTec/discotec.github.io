@@ -9,7 +9,7 @@
 ###  Prognosis: Black-Box Analysis of Network Protocol Implementations
 
 <!-- Presentation 
-[slides](./slides/invited/DisCoTec20-NB.pdf) and [video](https://www.youtube.com/watch?v=xIOk6rFQkAc&feature=youtu.be)
+[slides](./slides/invited/XX and [video](https://youtu.be/6O-CBNBVFV4)
 --> 
 
 We present Prognosis, a framework offering automated black-box learning and analysis of models of network protocol implementations. 
@@ -33,7 +33,7 @@ She was the recipient of an ERC Consolidator Grant in 2020, the Royal Society Wo
 
 ### Let it Flow:  Reactive Computations for Consistent-by-Design Distributed Applications
 
-<!--Presentation [video](https://youtu.be/v3S6lhKOFPU) -->
+<!--Presentation [video](https://www.youtube.com/watch?v=na89OTNe-xo) -->
 
 Ubiquitous connectivity of millions of powerful (mobile) devices to each other and to web and cloud computing platforms via programmable networks has created globally and massively distributed computing systems---the information power grids of the 21st century---and has fuelled the development of massively distributed applications.  
 Today, distributed applications often rely on centralized servers/clouds for consistency management. 
@@ -65,6 +65,8 @@ Has published more than 180 papers, many of which in top venues across the areas
 [iExec, FR](mailto:gilles.fedak@iex.ec)
 
 ### iExec: Building a Decentralized, Trusted and Privacy-Preserving Computing Infrastructure
+
+<!--Presentation [video](https://youtu.be/paePTldDhwY) -->
 
 iExec is a French startup company based in Lyon which built the first decentralized marketplace in which entities (e.g. traditional cloud providers, research centers and even individuals) can contribute and monetize Cloud Computing resources (CPU, GPU), Decentralized Applications (Dapps) and data-sets (Data Renting) in a secure and confidential way, ensuring the confidentiality and ownership of data.
 During this talk, I will present how iExec combines Ethereum Smart Contracts, a unique Proof-of-Contribution (PoCo) protocol and Trusted Execution Environments (TEE) to ensure trust between providers and consumers of resources. 
