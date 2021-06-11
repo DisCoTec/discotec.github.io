@@ -19,7 +19,7 @@ Due to the the COVID-19 situation, ICE 2021 will be a **virtual event**.
 
 ## Accepted papers and oral communications
 
-See the [**ICE 2021 programme**](programme)
+See the [**ICE 2021 programme**](programme#friday-18-june)
 
 - *Multiparty Session Programming with Global Protocol Combinators* (oral communication) <br/> by Keigo Imai, Rumyana Neykova, Nobuko Yoshida, and Shoji Yuen
 - *Deadlock Freedom for Asynchronous and Cyclic Process Networks* <br/> by Bas van den Heuvel and Jorge A. Pérez
