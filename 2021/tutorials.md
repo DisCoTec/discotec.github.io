@@ -94,6 +94,8 @@ His specific areas of expertise include (explicit state) model checking and pari
 <!-- <br/><br/> -->
 <!-- Tutorial slides [(all)]() and video presentations [(part xxx)]() -->
 <!-- <br/><br/> -->
+[Instructions to configure your system and download the tool](https://duncanatt.github.io/detecter/getting-started/preparation.html). You only need to install Erlang and download detectEr for this tutorial.
+
 [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_14)
  <!-- and [Promo]() -->
 <br/><br/>
@@ -112,3 +114,4 @@ In this tutorial, we discuss the inline, outline, and offline monitoring functio
 He is the principal developer of DetectEr, a runtime verification tool developed as part of the [TheoFoMon](http://icetcs.ru.is/theofomon/)---and more recently---the [MoVeMnt](https://sites.google.com/view/antonisachilleos/movemnt) projects.
 Prior to rejoining academia, Duncan worked as a software developer in Telecoms and Online payment industry for seven years.
 <br/><br/>
+
