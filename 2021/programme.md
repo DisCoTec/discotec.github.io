@@ -12,7 +12,7 @@
 
 ### Webinars
 
-- DisCoTec Tools [webinar link](https://universityofmalta.zoom.us/s/95396012042)
+- DisCoTec Tools [webinar link](https://universityofmalta.zoom.us/j/95396012042)
 
 
 ### Tutorials 
