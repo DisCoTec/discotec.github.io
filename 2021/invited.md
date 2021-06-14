@@ -140,10 +140,7 @@ He has served in many program committees including ICDCN 2018, SIROCCO 2018, POD
 
 ### Protocols, timeouts, and failures
 
-In the last few years, several efforts were directed at establishing relationships between models for real-time asynchronous interactions and their implementations so to reflect correctness of time-sensitive models into their implementations. 
-I will discuss contributions and limitations, focussing on the way unpredictability (e.g., jitter, failures) is accounted for. 
-I will discuss ongoing directions, in the context of the STARDUST project (Session Types for Reliable Distributed Systems) towards detecting grey failures, as a first step towards better recovering strategies for actor-based systems. 
-
+In the last few years, several efforts were directed at establishing relationships between models for real-time asynchronous interactions and their implementations so to reflect correctness of time-sensitive models into their implementations. I will discuss contributions and limitations, focussing on the way unpredictability (e.g., jitter, failures) is accounted for. I will discuss ongoing directions, in the context of the STARDUST project (Session Types for Reliable Distributed Systems) towards detecting grey failures, as a first step towards better recovering strategies for actor-based systems.
 
 ### Biography
 
