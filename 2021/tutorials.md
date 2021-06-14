@@ -61,8 +61,9 @@ He is the lead designer of dozens of open-source software tools, among which the
 
 [Instructions to download and install the tool](mCRL2-tutorial)
 <br/><br/>
-<!-- Tutorial slides [(all)]() and video presentations [(part 1)](https://youtu.be/N31C1s_p9WM), [(part 2)](https://youtu.be/1udKfJcMVt0), [(part 3)](https://youtu.be/QLX_Vx-KntA) -->
-<!-- <br/><br/> -->
+<!-- Tutorial slides [(all)]() and -->
+Video presentations [(part 1)](https://youtu.be/N31C1s_p9WM), [(part 2)](https://youtu.be/1udKfJcMVt0), [(part 3)](https://youtu.be/QLX_Vx-KntA) 
+<br/><br/>
 [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_15) and [Promo](https://www.youtube.com/watch?v=SC22behYJN0&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=1)
 <br/><br/>
 
