@@ -36,10 +36,10 @@
 <!--
 ### Webinars
 
-- DisCoTec [webinar link](https://universityofmalta.zoom.us/s/91518155064) (Invited talk)
-- COORDINATION track [webinar link](https://universityofmalta.zoom.us/s/96729160290)
-- DAIS track [webinar link](https://universityofmalta.zoom.us/s/93098749289)
-- FORTE track [webinar link](https://universityofmalta.zoom.us/s/96962619964)
+- DisCoTec [webinar link](https://universityofmalta.zoom.us/j/91518155064) (Invited talk)
+- COORDINATION track [webinar link](https://universityofmalta.zoom.us/j/96729160290)
+- DAIS track [webinar link](https://universityofmalta.zoom.us/j/93098749289)
+- FORTE track [webinar link](https://universityofmalta.zoom.us/j/96962619964)
 
 -->
 
@@ -73,10 +73,10 @@
 
 <!-- ### Webinars
 
-- DisCoTec [webinar link](https://universityofmalta.zoom.us/s/93170780184) (Invited talks, Best Paper Joint Session)
-- COORDINATION [webinar link](https://universityofmalta.zoom.us/s/97582049689)
-- DAIS [webinar link](https://universityofmalta.zoom.us/s/92616512235)
-- FORTE [webinar link](https://universityofmalta.zoom.us/s/98847398011)
+- DisCoTec [webinar link](https://universityofmalta.zoom.us/j/93170780184) (Invited talks, Best Paper Joint Session)
+- COORDINATION [webinar link](https://universityofmalta.zoom.us/j/97582049689)
+- DAIS [webinar link](https://universityofmalta.zoom.us/j/92616512235)
+- FORTE [webinar link](https://universityofmalta.zoom.us/j/98847398011)
   
 -->
 
@@ -107,10 +107,10 @@
 
 <!-- ### Webinars
 
-- [DisCoTec webinar link (Invited talk)](https://universityofmalta.zoom.us/s/96229166528)
-- [COORDINATION webinar link](https://universityofmalta.zoom.us/s/94204685793)
-- [DAIS webinar link](https://universityofmalta.zoom.us/s/96138566371)
-- [FORTE webinar link](https://universityofmalta.zoom.us/s/99659098800) -->
+- [DisCoTec webinar link (Invited talk)](https://universityofmalta.zoom.us/j/96229166528)
+- [COORDINATION webinar link](https://universityofmalta.zoom.us/j/94204685793)
+- [DAIS webinar link](https://universityofmalta.zoom.us/j/96138566371)
+- [FORTE webinar link](https://universityofmalta.zoom.us/j/99659098800) -->
 
 ### Conference Talks
 
@@ -136,9 +136,9 @@
 ## Friday 18 June
 
 <!-- ### Webinars
-- [FOCODILE meeting link](https://universityofmalta.zoom.us/s/99441633317)
-- [REMV meeting link](https://universityofmalta.zoom.us/s/93117241642)
-- [ICE meeting link](https://universityofmalta.zoom.us/s/96866606214) -->
+- [FOCODILE meeting link](https://universityofmalta.zoom.us/j/99441633317)
+- [REMV meeting link](https://universityofmalta.zoom.us/j/93117241642)
+- [ICE meeting link](https://universityofmalta.zoom.us/j/96866606214) -->
 
 ### Workshop Talks
 
