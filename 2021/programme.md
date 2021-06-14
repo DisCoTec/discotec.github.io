@@ -33,7 +33,7 @@
 
 ## Tuesday 15 June
 
-<!--
+
 ### Webinars
 
 - DisCoTec [webinar link](https://universityofmalta.zoom.us/j/91518155064) (Invited talk)
@@ -41,7 +41,7 @@
 - DAIS track [webinar link](https://universityofmalta.zoom.us/j/93098749289)
 - FORTE track [webinar link](https://universityofmalta.zoom.us/j/96962619964)
 
--->
+
 
 ### Conference Talks
 
