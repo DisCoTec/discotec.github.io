@@ -38,7 +38,7 @@ The ABS modeling language has been developed in collaboration between the Univer
 
 ### Simulation of large scale computational ecosystems with Alchemist: a tutorial
 
-<br/><br/>
+<!-- <br/><br/> -->
 <!-- Tutorial slides [(all)]() and -->
 Video presentations [(part 1)](https://www.youtube.com/watch?v=zF-LHHQjdOg), [(part 2)](https://www.youtube.com/watch?v=nORRuG3VjYU), [(part 3)](https://www.youtube.com/watch?v=crZM6Idpg74) 
 <br/><br/>
