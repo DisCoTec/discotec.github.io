@@ -2,7 +2,7 @@
 
 # Getting Started for the mCRL2 DisCoTec Tutorial
 
-For Designing Distributed Software in mCRL2, the toolset can be downloaded and installed from [here](https://www.mcrl2.org).
+For Designing Distributed Software in mCRL2, the toolset can be downloaded and installed from [here](https://www.mcrl2.org/web/user_manual/index.html).
 
 The models discussed in the tutorial and the accompanying paper can be accessed [here](https://github.com/mCRL2org/mCRL2/tree/master/examples/mutex_models). 
 
