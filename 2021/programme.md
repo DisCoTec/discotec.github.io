@@ -9,11 +9,11 @@
 
 ## Monday 14 June
 
-<!--
+
 ### Webinars
 
 - DisCoTec Tools [webinar link](https://universityofmalta.zoom.us/s/95396012042)
--->
+
 
 ### Tutorials 
 
