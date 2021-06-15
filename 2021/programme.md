@@ -71,14 +71,14 @@
 
 ## Wednesday 16 June
 
-<!-- ### Webinars
+### Webinars
 
 - DisCoTec [webinar link](https://universityofmalta.zoom.us/j/93170780184) (Invited talks, Best Paper Joint Session)
 - COORDINATION [webinar link](https://universityofmalta.zoom.us/j/97582049689)
 - DAIS [webinar link](https://universityofmalta.zoom.us/j/92616512235)
 - FORTE [webinar link](https://universityofmalta.zoom.us/j/98847398011)
   
--->
+
 
 ### Conference Talks
 
