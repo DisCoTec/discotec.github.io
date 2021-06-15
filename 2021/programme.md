@@ -38,7 +38,7 @@
 
 - DisCoTec [webinar link](https://universityofmalta.zoom.us/j/91518155064) (Invited talk)
 - COORDINATION track [webinar link](https://universityofmalta.zoom.us/j/96729160290)
-- DAIS track [webinar link](https://universityofmalta.zoom.us/j/93098749289)
+- DAIS track [webinar link](https://universityofmalta.zoom.us/j/92616512235)
 - FORTE track [webinar link](https://universityofmalta.zoom.us/j/96962619964)
 
 
