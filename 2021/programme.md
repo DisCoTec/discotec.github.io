@@ -550,6 +550,8 @@
 
 ## ICE accepted papers and programme (18 June 2021)
 
+You can also download the [**ICE 2021 pre-proceedings**](ice21-preproceedings.pdf).
+
 ### Invited talk 1
 
 - **9:10-10:10** Laura Bocchi (University of Kent, UK): *Protocols, timeouts, and failures* <br /> (see the [invited talks page](invited#laura-bocchi) for details)
