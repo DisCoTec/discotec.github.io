@@ -129,6 +129,7 @@
 | | [Modelling: Structures and Implementations](#modelling-structures-and-implementations) |
 |**17.00-17.30**| [A Clean and Efficient Implementation of Choreography Synthesis for Behavioural Contracts](#modelling-structures-and-implementations) |
 |**17.30-18.00**| [A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator](#modelling-structures-and-implementations) |
+|**18.00-19.30**| [(Tutorial) Better Late than Never or: Verifying Asynchronous Components at Runtime](tutorials#better-late-than-never-or-verifying-asynchronous-components-at-runtime) | [(Tutorial) Better Late than Never or: Verifying Asynchronous Components at Runtime](tutorials#better-late-than-never-or-verifying-asynchronous-components-at-runtime) | [(Tutorial) Better Late than Never or: Verifying Asynchronous Components at Runtime](tutorials#better-late-than-never-or-verifying-asynchronous-components-at-runtime) |
 
 <br/>
 
