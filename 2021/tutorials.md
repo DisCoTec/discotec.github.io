@@ -12,13 +12,12 @@ Tutorial session are typically *hands-on*, providing the audience with the uniqu
 
 ### ABS: Modeling and analysis with resource-sensitive actors
 
-[Instructions to download and install the tool](https://abs-models.org/getting_started/
-)
+[Instructions to download and install the tool](https://abs-models.org/getting_started/)
 <br/><br/>
-<!-- Tutorial slides [(all)]() and video presentations [(all)](https://youtu.be/GDFBFXDvBT0) -->
-<!-- <br/><br/> -->
-[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_1) 
-<!-- and [Promo](https://www.youtube.com/watch?v=SC22behYJN0&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=1)   -->
+<!-- Tutorial slides [(all)]() and -->
+Video presentations [(all)](https://youtu.be/GDFBFXDvBT0) 
+<br/><br/>
+[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_1) and [Promo](https://www.youtube.com/watch?v=SC22behYJN0&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=1)  
 <br/><br/>
 
 Actor languages decouple communication from synchronisation, which makes them suitable for distributed and scalable applications with flexible synchronisation patterns, but also facilitates analysis.  
@@ -40,10 +39,10 @@ The ABS modeling language has been developed in collaboration between the Univer
 ### Simulation of large scale computational ecosystems with Alchemist: a tutorial
 
 <!-- <br/><br/> -->
-<!-- Tutorial slides [(all)]() and video presentations [(part 1)](https://www.youtube.com/watch?v=zF-LHHQjdOg), [(part 2)](https://www.youtube.com/watch?v=nORRuG3VjYU), [(part 3)](https://www.youtube.com/watch?v=crZM6Idpg74) -->
-<!-- <br/><br/> -->
-[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_10) 
-<!-- and [Promo](https://www.youtube.com/watch?v=ZIq11I_vTms&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=3) -->
+<!-- Tutorial slides [(all)]() and -->
+Video presentations [(part 1)](https://www.youtube.com/watch?v=zF-LHHQjdOg), [(part 2)](https://www.youtube.com/watch?v=nORRuG3VjYU), [(part 3)](https://www.youtube.com/watch?v=crZM6Idpg74) 
+<br/><br/>
+[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_10) and [Promo](https://www.youtube.com/watch?v=ZIq11I_vTms&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=3)
 <br/><br/>
 
 Many interesting systems in several disciplines can be modeled as networks of nodes that can store and exchange data: pervasive systems, edge computing scenarios, and even biological and bio-inspired systems. 
@@ -60,11 +59,12 @@ He is the lead designer of dozens of open-source software tools, among which the
 
 ### Tutorial: Designing Distributed Software in mCRL2
 
-<!-- <br/><br/> -->
-<!-- Tutorial slides [(all)]() and video presentations [(part 1)](https://youtu.be/N31C1s_p9WM), [(part 2)](https://youtu.be/1udKfJcMVt0), [(part 3)](https://youtu.be/QLX_Vx-KntA) -->
-<!-- <br/><br/> -->
-[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_15)
- <!-- and [Promo](https://www.youtube.com/watch?v=SC22behYJN0&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=1) -->
+[Instructions to download and install the tool](mCRL2-tutorial)
+<br/><br/>
+<!-- Tutorial slides [(all)]() and -->
+Video presentations [(part 1)](https://youtu.be/N31C1s_p9WM), [(part 2)](https://youtu.be/1udKfJcMVt0), [(part 3)](https://youtu.be/QLX_Vx-KntA) 
+<br/><br/>
+[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_15) and [Promo](https://www.youtube.com/watch?v=SC22behYJN0&list=PLG8JZxiRlWS6Wnkkt-ZXXs7yNBtSsUsgP&index=1)
 <br/><br/>
 
 Distributed software is very tricky to implement correctly as there are many hard to foresee possible execution orders. 
@@ -91,11 +91,12 @@ His specific areas of expertise include (explicit state) model checking and pari
 
 ### Better Late than Never or: Verifying Asynchronous Components at Runtime
 
-<!-- <br/><br/> -->
-<!-- Tutorial slides [(all)]() and video presentations [(part xxx)]() -->
-<!-- <br/><br/> -->
-[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_14)
- <!-- and [Promo]() -->
+[Instructions to configure your system and download the tool](https://duncanatt.github.io/detecter/getting-started/preparation.html). You only need to install Erlang and download detectEr for this tutorial.
+<br/><br/>
+<!-- Tutorial slides [(all)]() and  -->
+Video presentations [(part 1)](https://youtu.be/ADc2HM63ppQ), [(part 2)](https://youtu.be/xAml5kLBaBQ), [(part 3)](https://youtu.be/OUwKF38GRbM)
+<br/><br/>
+[Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_14) and [Promo](https://youtu.be/EBKf8D4jT1E)
 <br/><br/>
 
 We introduce DetectEr, a runtime verification tool developed over the last 5 years with the aim of monitoring concurrent systems written for the Erlang ecosystem.
@@ -112,3 +113,4 @@ In this tutorial, we discuss the inline, outline, and offline monitoring functio
 He is the principal developer of DetectEr, a runtime verification tool developed as part of the [TheoFoMon](http://icetcs.ru.is/theofomon/)---and more recently---the [MoVeMnt](https://sites.google.com/view/antonisachilleos/movemnt) projects.
 Prior to rejoining academia, Duncan worked as a software developer in Telecoms and Online payment industry for seven years.
 <br/><br/>
+

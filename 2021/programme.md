@@ -9,11 +9,11 @@
 
 ## Monday 14 June
 
-<!--
+
 ### Webinars
 
-- DisCoTec Tools [webinar link](https://universityofmalta.zoom.us/s/95396012042)
--->
+- DisCoTec Tools [webinar link](https://universityofmalta.zoom.us/j/95396012042)
+
 
 ### Tutorials 
 
@@ -33,15 +33,15 @@
 
 ## Tuesday 15 June
 
-<!--
+
 ### Webinars
 
-- DisCoTec [webinar link](https://universityofmalta.zoom.us/s/91518155064) (Invited talk)
-- COORDINATION track [webinar link](https://universityofmalta.zoom.us/s/96729160290)
-- DAIS track [webinar link](https://universityofmalta.zoom.us/s/93098749289)
-- FORTE track [webinar link](https://universityofmalta.zoom.us/s/96962619964)
+- DisCoTec [webinar link](https://universityofmalta.zoom.us/j/91518155064) (Invited talk)
+- COORDINATION track [webinar link](https://universityofmalta.zoom.us/j/96729160290)
+- DAIS track [webinar link](https://universityofmalta.zoom.us/j/92616512235)
+- FORTE track [webinar link](https://universityofmalta.zoom.us/j/96962619964)
 
--->
+
 
 ### Conference Talks
 
@@ -73,10 +73,10 @@
 
 <!-- ### Webinars
 
-- DisCoTec [webinar link](https://universityofmalta.zoom.us/s/93170780184) (Invited talks, Best Paper Joint Session)
-- COORDINATION [webinar link](https://universityofmalta.zoom.us/s/97582049689)
-- DAIS [webinar link](https://universityofmalta.zoom.us/s/92616512235)
-- FORTE [webinar link](https://universityofmalta.zoom.us/s/98847398011)
+- DisCoTec [webinar link](https://universityofmalta.zoom.us/j/93170780184) (Invited talks, Best Paper Joint Session)
+- COORDINATION [webinar link](https://universityofmalta.zoom.us/j/97582049689)
+- DAIS [webinar link](https://universityofmalta.zoom.us/j/92616512235)
+- FORTE [webinar link](https://universityofmalta.zoom.us/j/98847398011)
   
 -->
 
@@ -107,10 +107,11 @@
 
 <!-- ### Webinars
 
-- [DisCoTec webinar link (Invited talk)](https://universityofmalta.zoom.us/s/96229166528)
-- [COORDINATION webinar link](https://universityofmalta.zoom.us/s/94204685793)
-- [DAIS webinar link](https://universityofmalta.zoom.us/s/96138566371)
-- [FORTE webinar link](https://universityofmalta.zoom.us/s/99659098800) -->
+- [DisCoTec webinar link (Invited talk)](https://universityofmalta.zoom.us/j/96229166528)
+- [COORDINATION webinar link](https://universityofmalta.zoom.us/j/94204685793)
+- [DAIS webinar link](https://universityofmalta.zoom.us/j/96138566371)
+- [FORTE webinar link](https://universityofmalta.zoom.us/j/99659098800) 
+- [DisCoTec Tools webinar link]https://universityofmalta.zoom.us/j/95208545927 -->
 
 ### Conference Talks
 
@@ -129,6 +130,8 @@
 | | [Modelling: Structures and Implementations](#modelling-structures-and-implementations) |
 |**17.00-17.30**| [A Clean and Efficient Implementation of Choreography Synthesis for Behavioural Contracts](#modelling-structures-and-implementations) |
 |**17.30-18.00**| [A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator](#modelling-structures-and-implementations) |
+|**18.00-18.15**| *break* | *break* | *break* |
+|**18.15-19.45**| [(Tutorial) Better Late than Never or: Verifying Asynchronous Components at Runtime](tutorials#better-late-than-never-or-verifying-asynchronous-components-at-runtime) | [(Tutorial) Better Late than Never or: Verifying Asynchronous Components at Runtime](tutorials#better-late-than-never-or-verifying-asynchronous-components-at-runtime) | [(Tutorial) Better Late than Never or: Verifying Asynchronous Components at Runtime](tutorials#better-late-than-never-or-verifying-asynchronous-components-at-runtime) |
 
 <br/>
 
@@ -136,9 +139,9 @@
 ## Friday 18 June
 
 <!-- ### Webinars
-- [FOCODILE meeting link](https://universityofmalta.zoom.us/s/99441633317)
-- [REMV meeting link](https://universityofmalta.zoom.us/s/93117241642)
-- [ICE meeting link](https://universityofmalta.zoom.us/s/96866606214) -->
+- [FOCODILE meeting link](https://universityofmalta.zoom.us/j/99441633317)
+- [REMV meeting link](https://universityofmalta.zoom.us/j/93117241642)
+- [ICE meeting link](https://universityofmalta.zoom.us/j/96866606214) -->
 
 ### Workshop Talks
 
@@ -271,15 +274,15 @@
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_11)
 [(promo)](https://www.youtube.com/watch?v=aW_kFIu_lIs&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=3) 
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=09fnMADBGDk) -->
+[(video)](https://www.youtube.com/watch?v=09fnMADBGDk)
 - *ReGraDa: Reactive Graph Data* <br/> by Leandro Galrinho, João Costa Seco, Søren Debois, Thomas Hildebrandt, Håkon Norman and Tijs Slaats 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_12)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=wE7cFytjLow) -->
+[(video)](https://www.youtube.com/watch?v=wE7cFytjLow)
 - *Tuple-based coordination in large-scale situated systems* <br/> by Roberto Casadei, Mirko Viroli, Alessandro Ricci and Giorgio Audrito	
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_10)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=3Wd4aR1dKZw) -->
+[(video)](https://www.youtube.com/watch?v=3Wd4aR1dKZw)
 
 <!-- ### Communications: Types and Implementations 1 -->
 ### Types and Implementations 1
@@ -289,21 +292,21 @@
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_4) Towards a Spatial Model Checker on GPU 
 [(promo)](https://www.youtube.com/watch?v=W2z-4fJNmlM&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=10) 
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=ihZKLja0Kug) -->
+[(video)](https://www.youtube.com/watch?v=ihZKLja0Kug)
 - *Deconfined Global Types for Asynchronous Sessions* <br/> by Francesco Dagnino, Paola Giannini and Mariangiola Dezani-Ciancaglini 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_3) 
 [(promo)](https://www.youtube.com/watch?v=7Jes_VQjPlM&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=5) 
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=-U5rHva7XNs) -->
+[(video)](https://www.youtube.com/watch?v=-U5rHva7XNs)
 - *Manifestly Phased Communication via Shared Session Types* <br/> by Chuta Sano, Stephanie Balzer and Frank Pfenning 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_2) 
 [(promo)](https://www.youtube.com/watch?v=WzAc3HjOa4s&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=9) 
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=vD8OeMjyoLA) -->
+[(video)](https://www.youtube.com/watch?v=vD8OeMjyoLA)
 - *Safe Session-Based Asynchronous Coordination in Rust* <br/> by Zak Cutner and Nobuko Yoshida 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_5)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=JzMk-IdFVBw) -->
+[(video)](https://www.youtube.com/watch?v=JzMk-IdFVBw)
 
 ### Types and Implementations 2
 *(session chair: [Giorgio Audrito](mailto:giorgio.audrito@unito.it))*
@@ -378,15 +381,15 @@
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_2) 
 [(promo)](https://www.youtube.com/watch?v=LCqwoaIamuU&list=PLG8JZxiRlWS6yCnIC17kpJbWPeJ_vryOO&index=3)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://youtu.be/dLEJwG1vaSs) -->
+[(video)](https://youtu.be/dLEJwG1vaSs)
 - *SPECK: Composition of Stream Processing Applications over Fog Environments* <br/> by Daniele Miorandi, Davaadorj Battulga and Cedric Tedeschi 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_3)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=9l__DaXpsEI) -->
+[(video)](https://www.youtube.com/watch?v=9l__DaXpsEI)
 - *Portable Intermediate Representation for efficient Big Data Analytics* <br/> by Ioannis Tzouros, Michail Tsenos and Vana Kalogeraki 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_5)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=H-IVaJeZ-aU) -->
+[(video)](https://www.youtube.com/watch?v=H-IVaJeZ-aU)
 
 <!-- ### Security and practical applications of cryptography -->
 ### Privacy and Security
@@ -441,17 +444,17 @@
 - *A Multi-agent Model for Polarization Under Confirmation Bias in Social Networks* <br/> by Frank Valencia, Mario S. Alvim, Sophia Knight, Santiago Quintero, and Bernardo Amorin
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_2)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=lU8r9R3ZCMQ) -->
+[(video)](https://www.youtube.com/watch?v=lU8r9R3ZCMQ)
 - *Supervisory Synthesis of Configurable Behavioural Contracts with Modalities* <br/> by Davide Basile, Maurice H. ter Beek, Pierpaolo Degano, Axel Legay, Gianluigi Ferrari, Stefania Gnesi, and FelicitaDi Giandomenico
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_10)
 [(promo)](https://www.youtube.com/watch?v=5D7j54oP0cw&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=2)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=tj3ny6XycvI) -->
+[(video)](https://www.youtube.com/watch?v=tj3ny6XycvI)
 - *Formal verification of HotStuff* <br/> by Leander Jehl 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_13)
 [(promo)](https://www.youtube.com/watch?v=_oy_pm3K6aA&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=3)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=8mSjyWmggBg) -->
+[(video)](https://www.youtube.com/watch?v=8mSjyWmggBg)
 
 ### Static Analysis and Type Systems
 *(session chair: [Thomas Neele](mailto:thomas.neele@rhul.ac.uk))*
@@ -459,16 +462,16 @@
 - *Prioritise the Best Variation* <br/> by Wen Kokke and Ornela Dardha
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_6)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=0-PbpDyEV1s) -->
+[(video)](https://www.youtube.com/watch?v=0-PbpDyEV1s)
 - *A formalisation of SysML state machines in mCRL2* <br/> by Mark Bouwman, Bas Luttik and Djurre van der Wal
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_3)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=hI-pqrLqZZY) -->
+[(video)](https://www.youtube.com/watch?v=hI-pqrLqZZY)
 - *Towards a spatial model checker on GPU* <br/> by Laura Bussi, Vincenzo Ciancia and Fabio Gadducci 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_12) 
 [(promo)](https://www.youtube.com/watch?v=E1YtHKUFuXg&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=5)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=_BaBA5bkc30) -->
+[(video)](https://www.youtube.com/watch?v=_BaBA5bkc30)
 
 ### Verification Models
 *(session chair: [Anna Philippou](mailto:annap@cs.ucy.ac.cy))*

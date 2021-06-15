@@ -9,8 +9,9 @@
 ###  Prognosis: Black-Box Analysis of Network Protocol Implementations
 
 <!-- Presentation 
-[slides](./slides/invited/XX and [video](https://youtu.be/6O-CBNBVFV4)
---> 
+[slides](./slides/invited/XX and --> 
+[Video presentation](https://www.youtube.com/watch?v=JM0pzyoN0qU)
+
 
 We present Prognosis, a framework offering automated black-box learning and analysis of models of network protocol implementations. 
 Prognosis can learn models that vary in abstraction level from simple deterministic automata to models containing data operations, such as register updates, and can be used to unlock a variety of analysis techniques — model checking temporal properties, computing differences between models of two implementations of the same protocol, or improving testing via model-based test generation. 
