@@ -110,7 +110,8 @@
 - [DisCoTec webinar link (Invited talk)](https://universityofmalta.zoom.us/j/96229166528)
 - [COORDINATION webinar link](https://universityofmalta.zoom.us/j/94204685793)
 - [DAIS webinar link](https://universityofmalta.zoom.us/j/96138566371)
-- [FORTE webinar link](https://universityofmalta.zoom.us/j/99659098800) -->
+- [FORTE webinar link](https://universityofmalta.zoom.us/j/99659098800) 
+- [DisCoTec Tools webinar link]https://universityofmalta.zoom.us/j/95208545927 -->
 
 ### Conference Talks
 

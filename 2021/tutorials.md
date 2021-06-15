@@ -93,8 +93,8 @@ His specific areas of expertise include (explicit state) model checking and pari
 
 [Instructions to configure your system and download the tool](https://duncanatt.github.io/detecter/getting-started/preparation.html). You only need to install Erlang and download detectEr for this tutorial.
 <br/><br/>
-<!-- Tutorial slides [(all)]() and video presentations [(part xxx)]() -->
-(Video presentations will be available shortly)
+<!-- Tutorial slides [(all)]() and  -->
+Video presentations [(part 1)](https://youtu.be/ADc2HM63ppQ), [(part 2)](https://youtu.be/xAml5kLBaBQ), [(part 3)](https://youtu.be/OUwKF38GRbM)
 <br/><br/>
 [Companion tutorial paper](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_14) and [Promo](https://youtu.be/EBKf8D4jT1E)
 <br/><br/>
