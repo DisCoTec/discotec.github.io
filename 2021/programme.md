@@ -238,7 +238,7 @@
       <td style="text-align: center" rowspan="2"><strong>18.00-18.30</strong></td>
       <td style="text-align: center" rowspan="2"><a href="#session-3">Toward democratising secure decentralised computation</a></td>
       <td style="text-align: center" rowspan="2">&nbsp;</td>
-      <td style="text-align: center"><strong>18.00-18.20</strong> - <a href="#polarization">Polarization and Belief Convergence in Social Networks Under Confirmation Bias</a></td>
+      <td style="text-align: center"><strong>18.00-18.20</strong> - <a href="#polarization">A Multi-Agent Model for Polarization under Confirmation Bias in Social Networks</a></td>
     </tr>
     <tr>
       <td style="text-align: center"><strong>18.20-18:40</strong> - <a href="#polarization">Expanding Social Polarization Models by Incorporating Belief Credibilitys</a></td>
@@ -585,5 +585,5 @@ Session chair: Sophia Knight
 ### Polarization
 Session chair: Alberto Lluch Lafuente
 
-- **18:00-18:20** *Polarization and Belief Convergence in Social Networks Under Confirmation Bias* (oral communication) <br/> by Mario Alvim, Bernardo Amorim, Sophia Knight, Santiago Quintero, and Frank Valencia
+- **18:00-18:20** *A Multi-Agent Model for Polarization under Confirmation Bias in Social Networks* (oral communication) <br/> by Mario Alvim, Bernardo Amorim, Sophia Knight, Santiago Quintero, and Frank Valencia
 - **18:20-18:40** *Expanding Social Polarization Models by Incorporating  Belief Credibility* (oral communication) <br/> by Alex Chambers and Sophia Knight
