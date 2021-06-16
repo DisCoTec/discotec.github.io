@@ -34,7 +34,7 @@ She was the recipient of an ERC Consolidator Grant in 2020, the Royal Society Wo
 
 ### Let it Flow:  Reactive Computations for Consistent-by-Design Distributed Applications
 
-<!--Presentation [video](https://www.youtube.com/watch?v=na89OTNe-xo) -->
+Presentation [video](https://www.youtube.com/watch?v=na89OTNe-xo)
 
 Ubiquitous connectivity of millions of powerful (mobile) devices to each other and to web and cloud computing platforms via programmable networks has created globally and massively distributed computing systems---the information power grids of the 21st century---and has fuelled the development of massively distributed applications.  
 Today, distributed applications often rely on centralized servers/clouds for consistency management. 

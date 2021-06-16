@@ -105,13 +105,13 @@
 
 ## Thursday 17 June
 
-<!-- ### Webinars
+### Webinars
 
 - [DisCoTec webinar link (Invited talk)](https://universityofmalta.zoom.us/j/96229166528)
 - [COORDINATION webinar link](https://universityofmalta.zoom.us/j/94204685793)
 - [DAIS webinar link](https://universityofmalta.zoom.us/j/96138566371)
 - [FORTE webinar link](https://universityofmalta.zoom.us/j/99659098800) 
-- [DisCoTec Tools webinar link]https://universityofmalta.zoom.us/j/95208545927 -->
+- [DisCoTec Tools webinar link](https://universityofmalta.zoom.us/j/95208545927)
 
 ### Conference Talks
 
@@ -265,7 +265,7 @@
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_13)
 [(promo)](https://www.youtube.com/watch?v=wD-gIqGdSyA&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=8)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=X17DDpz0veg) -->
+[(video)](https://www.youtube.com/watch?v=X17DDpz0veg)
 
 ### Large-Scale Decentralised Systems
 *(session chair: [Michele Loreti](mailto:michele.loreti@unicam.it))*
@@ -315,20 +315,20 @@
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_9)
 [(promo)](https://www.youtube.com/watch?v=2G1WEswKqVg&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=4) 
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=IqUPFzh7pmI) -->
+[(video)](https://www.youtube.com/watch?v=IqUPFzh7pmI)
 - *Java Typestate Checker* <br/> by João Mota, Marco Giunti and António Ravara 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_8)
 [(promo)](https://www.youtube.com/watch?v=SqZhUm4a6vc&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=6) 
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=_zrcqYPe8-8) -->
+[(video)](https://www.youtube.com/watch?v=_zrcqYPe8-8)
 - *A Session Subtyping Tool* <br/> by Lorenzo Bacchiani, Mario Bravetti, Julien Lange and Gianluigi Zavattaro 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_6)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=q7BBugYXzBQ) -->
+[(video)](https://www.youtube.com/watch?v=q7BBugYXzBQ)
 - *Towards Probabilistic Session-Type Monitoring* <br/> by Christian Bartolo Burlò, Adrian Francalanza, Alceste Scalas, Emilio Tuosto and Catia Trubiani 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_7)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=7ncHqpgTjjc) -->
+[(video)](https://www.youtube.com/watch?v=7ncHqpgTjjc)
 
 ### Microservices
 *(session chair: [Larisa Safina](mailto:safinalrr@gmail.com))*
@@ -371,7 +371,7 @@
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_4)
 [(promo)](https://www.youtube.com/watch?v=G9uuE-eiLqg&list=PLG8JZxiRlWS6yCnIC17kpJbWPeJ_vryOO&index=5)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=tWpB1JJd3RU) -->
+[(video)](https://www.youtube.com/watch?v=tWpB1JJd3RU)
 
 ### Distributed Algorithms
 *(session chair: [Valerio Schiavoni](mailto:valerio.schiavoni@unine.ch))*
@@ -400,11 +400,11 @@
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_6)
 [(promo)](https://www.youtube.com/watch?v=mvasuyHc6rE&list=PLG8JZxiRlWS6yCnIC17kpJbWPeJ_vryOO&index=4)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=yp4GUFJPS0o) -->
+[(video)](https://www.youtube.com/watch?v=yp4GUFJPS0o)
 - *KEVLAR-TZ: A Secure Cache for ARM TrustZone* <br/> by Oscar Benedito, Ricard Delgado-Gonzalo and Valerio Schiavoni
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_8)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://youtube.com/watch?v=LXjuJKEAxHg) -->
+[(video)](https://youtube.com/watch?v=LXjuJKEAxHg)
 
 ### Scalability and Elasticity
 *(session chair: [Pierre-Louis Aublin](mailto:pl@sslab.ics.keio.ac.jp))*
@@ -436,7 +436,7 @@
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_8)
 [(promo)](https://www.youtube.com/watch?v=vuKZ0DctBbw&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=1)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=JNjPK976Sno) -->
+[(video)](https://www.youtube.com/watch?v=JNjPK976Sno)
 
 ### Application of Formal methods 
 *(session chair: [Mohammad Mousavi](mailto:mm789@leicester.ac.uk))*
@@ -480,15 +480,15 @@
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_1)
 [(promo)](https://www.youtube.com/watch?v=2wEuYQtFGzM&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=4)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=C9iNlJSAbCU) -->
+[(video)](https://www.youtube.com/watch?v=C9iNlJSAbCU)
 - *Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves* <br/> by Roberto Gorrieri
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_5)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=mii0qyqHRSo) -->
+[(video)](https://www.youtube.com/watch?v=mii0qyqHRSo)
 - *How Adaptive and Reliable is your Program?* <br/> by Valentina Castiglioni, Michele Loreti, and Simone Tini
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_4)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=xbSH7WukSVA) -->
+[(video)](https://www.youtube.com/watch?v=xbSH7WukSVA)
 
 ### Mechanisation Modelling
 *(session chair: [Björn Victor](mailto:Bjorn.Victor@it.uu.se))*
