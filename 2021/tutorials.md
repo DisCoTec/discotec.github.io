@@ -109,7 +109,7 @@ DetectEr also extends outline monitoring to the *offline* case, where events rea
 In this tutorial, we discuss the inline, outline, and offline monitoring functionality of the tool, demonstrating how each can be employed to monitor systems that are subject to specific deployment and runtime constraints.
 <br/><br/>
 *Biography:* 
-[Duncan Paul Attard](https://duncanatt.github.io), #&#8203;breakthrough, is a researcher with the ICE-TCS research group at Reykjavík University. 
+[Duncan Paul Attard](https://duncanatt.github.io) is a researcher with the ICE-TCS research group at Reykjavík University. 
 He is the principal developer of DetectEr, a runtime verification tool developed as part of the [TheoFoMon](http://icetcs.ru.is/theofomon/)---and more recently---the [MoVeMnt](https://sites.google.com/view/antonisachilleos/movemnt) projects.
 Prior to rejoining academia, Duncan worked as a software developer in Telecoms and Online payment industry for seven years.
 <br/><br/>
