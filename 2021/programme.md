@@ -515,16 +515,23 @@
 *(session chair: [Nikos Leonardos](mailto:nleon@di.uoa.gr))*
 
 - *Formal verification of HotStuff* <br/> by Leander Jehl
+<!-- [(video)](https://www.youtube.com/watch?v=hXSjUtXQVHo) -->
 - *Elmo: Recursive Virtual Payment Channels for Bitcoin* <br/> by Orfeas Stefanos Thyfronitis Litos 
+<!-- [(video)](https://youtu.be/dzAQE_IFb4Y) -->
 - *Dynamical Analysis of the EIP-1559 Ethereum Fee Market* <br/> by Stefanos Leonardos
+<!-- [(video)](https://youtu.be/CELhAmOu7Ak) -->
 - *Reaching Agreement Without Saying Much: Byzantine Agreement With Polylog Bits Per Party* <br/> by Ran Cohen
+<!-- [(video)](https://www.youtube.com/watch?v=bc-0FHq3ZJM) -->
 
 ### Session 2
 *(session chair: [Petros Potikas](mailto:ppotik@cs.ntua.gr))*
 
 - *FairMM: A Fast and Frontrunning-Resistant Crypto Market-Maker* <br/> by Michele Ciampi
+<!-- [(video)](https://www.youtube.com/watch?v=wjSYuOMiPRI) -->
 - *Efficient State Management in Distributed Ledgers* <br/> by Dimitris Karakostas
+<!-- [(video)](https://www.youtube.com/watch?v=ETtC1FrprGE) -->
 - *Scalable Byzantine Fault Tolerance through Leaderless State Machine Replication* <br/> by Tuanir F. Rezende
+<!-- [(video)](https://www.youtube.com/watch?v=oTxnqI5Qwc4) -->
 
 ### Plenary Talk
 *(session chair: [Aris Pagourtzis](mailto:pagour@cs.ntua.gr))*
@@ -535,7 +542,7 @@
 *(session chair: [Aris Pagourtzis](mailto:pagour@cs.ntua.gr))*
 
 - *Toward democratising secure decentralised computation* <br/> by Eleftherios Kokkoris-Kogias
-
+<!-- [(video)](https://www.youtube.com/watch?v=bun_AyEl6Lo) -->
 
 
 
@@ -543,13 +550,19 @@
 ## REMV accepted papers and programme
 
 - *Computer vision system for recognizing plant diseases and pests* <br/> by Korchagin S.A. and Misharina M.S.
+<!-- [(video)](https://youtu.be/0PUpboHsg2A) -->
 - *New possibilities of using the classical theory of M-type devices, on the example of parametric generation in crossed fields* <br/> by Alexander Rozov, Vil Baiburin, Vycheslav Komarov and Alexander Nikiforov
+<!-- [(video)](https://www.youtube.com/watch?v=BgXrcmEvKVs) -->
 - *Development of mathematical models and software for studying the mechanism of electroporation of cell membranes* <br/> by Kim V.P. and Kim R.P.
+<!-- [(video)](https://www.youtube.com/watch?v=FzosYLRH42U) -->
 - *Program complex for assessing the complexity of flight trajectories of groups of unmanned aerial vehicles in aviation transport systems* <br/> by Bublikov K.V., Kositsyn A.A. and Leonid Filimonyuk
+<!-- [(video)](https://www.youtube.com/watch?v=HdBW9xV0E74) -->
 - *Computer vision system for analyzing 2D tomograms of brain activity* <br/> by Maximenko V.A., Kuz A.K., Korchagin S.A. and Hramov A.E.
+<!-- [(video)](https://www.youtube.com/watch?v=9OPD_UhfWwU) -->
 - *Application of fuzzy logic to control a lithium-ion energy storage device* <br/> by Serdechny D.V.
+<!-- [(video)](https://www.youtube.com/watch?v=6d4sHvNPEB0&feature=youtu.be) -->
 - *Composite radiators for energy-efficient cooling systems for LED and other high-power electronic equipment* <br/> by Hasanshin I.Ya.
-
+<!-- [(video)](https://youtu.be/sFbbyxDRgbQ) -->
 
 
 
@@ -560,32 +573,43 @@ You can also download the [**ICE 2021 pre-proceedings**](ice21-preproceedings.pd
 ### Invited talk 1
 
 - **9:10-10:10** Laura Bocchi (University of Kent, UK): *Protocols, timeouts, and failures* <br /> (see the [invited talks page](invited#laura-bocchi) for details)
+<!-- [(video)](https://www.youtube.com/watch?v=XK50NjzY_Mw) -->
 
 ### Session types
 Session Chair: Ivan Prokić
 
 - **10:10-10:30** *Multiparty Session Programming with Global Protocol Combinators* (oral communication) <br/> by Keigo Imai, Rumyana Neykova, Nobuko Yoshida, and Shoji Yuen
+<!-- [(video)]() -->
 - **10:30-11:00** *Deadlock Freedom for Asynchronous and Cyclic Process Networks* <br/> by Bas van den Heuvel and Jorge A. Pérez
+<!-- [(video)](https://youtu.be/bQ5QE7nUetw) -->
 
 ### Invited talk 2
 
 - **13:00-14:00** Helene Coullon (IMT Atlantique, FR): *Execution and Planning of Distributed Systems Reconfigurations - Concurrency and formal aspects* <br /> (see the [invited talks page](invited#helene-coullon) for details)
+<!-- [(video)](https://www.youtube.com/watch?v=fung2zhAqKg) -->
 
 ### Process algebra
 Session chair: Ivan Lanese
 
 - **14:00-14:30** *Decomposing Monolithic Processes in a Process Algebra with Multi-actions* <br/> by Maurice Laveaux and Tim Willemse
+<!-- [(video)](https://youtu.be/P2hyq8ZXh-0) -->
 - **14:30-14:50** *On Encoding Primitives for Compensation Handling as Adaptable Processes* (oral communication) <br/> by Jovana Dedeić, Jovanka Pantović, and Jorge A. Pérez
+<!-- [(video)](https://youtu.be/fWxwn4d7_AU) -->
 - **14:50-15:20** *Processes, Systems & Tests: Defining Contextual Equivalences* <br/> by Clément Aubert and Daniele Varacca
+<!-- [(video)](https://www.youtube.com/watch?v=X_MnjEEtXik) -->
 
 ### Models
 Session chair: Sophia Knight
 
 - **17:00-17:30** *Towards Generalised Half-Duplex Systems* <br/> by Cinzia Di Giusto, Loïc Germerie Guizouarn, and Etienne Lozes
+<!-- [(video)](https://www.youtube.com/watch?v=1bsXOHmK1Us) -->
 - **17:30-18:00** *A Semantic Model for Interacting Cyber-Physical Systems* <br/> by Benjamin Lion, Farhad Arbab, and Carolyn Talcott
+<!-- [(video)](https://www.youtube.com/watch?v=tTOS0qQq1e0&list=PLG8JZxiRlWS5IkqA8wMu2ADyBFpTJ2f2o&index=2) -->
 
 ### Polarization
 Session chair: Alberto Lluch Lafuente
 
 - **18:00-18:20** *A Multi-Agent Model for Polarization under Confirmation Bias in Social Networks* (oral communication) <br/> by Mario Alvim, Bernardo Amorim, Sophia Knight, Santiago Quintero, and Frank Valencia
+<!-- [(video)](https://www.youtube.com/watch?v=AWEMwozJp00) -->
 - **18:20-18:40** *Expanding Social Polarization Models by Incorporating  Belief Credibility* (oral communication) <br/> by Alex Chambers and Sophia Knight
+<!-- [(video)]() -->
