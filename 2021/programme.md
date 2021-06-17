@@ -165,7 +165,7 @@
       <td style="text-align: center"><strong>9.00-9.30</strong></td>
       <td style="text-align: center"><a href="#session-1">Formal verification of HotStuff</a></td>
       <td style="text-align: center"><a href="#remv-accepted-papers-and-programme">Computer vision system for recognizing plant diseases and pests</a></td>
-      <td style="text-align: center" rowspan="2" padding-top:0;>
+      <td style="text-align: center" rowspan="2">
        <strong>9:00-9:10</strong> - <em>welcome</em>
         <br> <br>
        <strong>9:10-10:10</strong> - <a href="invited#laura-bocchi">(Invited talk) Laura Bocchi: Protocols, timeouts, and failures</a>
