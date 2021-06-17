@@ -138,14 +138,12 @@
 
 ## Friday 18 June
 
-<!-- ### Webinars
+### Webinars
 - [FOCODILE meeting link](https://universityofmalta.zoom.us/j/99441633317)
 - [REMV meeting link](https://universityofmalta.zoom.us/j/93117241642)
-- [ICE meeting link](https://universityofmalta.zoom.us/j/96866606214) -->
+- [ICE meeting link](https://universityofmalta.zoom.us/j/96866606214)
 
 ### Workshop Talks
-
-<!-- *TBA* -->
 
 <table>
   <thead>
@@ -336,16 +334,16 @@
 - *Microservice Dynamic Architecture-Level Deployment Orchestration* <br/> by Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi and Gianluigi Zavattaro 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_16)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=eGLMH_GpFS8) -->
+[(video)](https://www.youtube.com/watch?v=eGLMH_GpFS8)
 - *Jolie & LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices* <br/> by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti, Florian Rademacher and Sabine Sachweh 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_17)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=hW5FoOUAiAk) -->
+[(video)](https://www.youtube.com/watch?v=hW5FoOUAiAk)
 - *ScaFi-Web: a Web-based Application for Field-based Coordination Programming* <br/> by Gianluca Aguzzi, Roberto Casadei, Niccolò Maltoni, Danilo Pianini and Mirko Viroli 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_18)
 [(promo)](https://www.youtube.com/watch?v=E6S_Nfi0SU8&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=7) 
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=CROrhTadmzM) -->
+[(video)](https://www.youtube.com/watch?v=CROrhTadmzM)
 
 ### Modelling: Structures and Implementations
 *(session chair: [José Proença](mailto:pro@isep.ipp.pt))*
@@ -354,12 +352,12 @@
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_14)
 [(promo)](https://www.youtube.com/watch?v=Mn6vedNKIGs&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=2) 
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=-CUJOZoF3YM) -->
+[(video)](https://www.youtube.com/watch?v=-CUJOZoF3YM)
 - *A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator* <br/> by Eva Maria Kuehn 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78142-2_15)
 [(promo)](https://www.youtube.com/watch?v=1CrzqLFL3_k&list=PLG8JZxiRlWS4ZkAK999YednRG6wQhHfe0&index=1) 
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=SkuHuomUCtY) -->
+[(video)](https://www.youtube.com/watch?v=SkuHuomUCtY)
 
 
 
@@ -414,16 +412,16 @@
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_1) 
 [(promo)](https://www.youtube.com/watch?v=zz_HOFm48zo&list=PLG8JZxiRlWS6yCnIC17kpJbWPeJ_vryOO&index=1)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=zwRKegMxgUw) -->
+[(video)](https://www.youtube.com/watch?v=zwRKegMxgUw)
 - *Analysis and Improvement of Heterogeneous Hardware Support in Docker Images* <br/> by Panagiotis Gkikopoulos, Valerio Schiavoni and Josef Spillner 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_9)
 [(promo)](https://www.youtube.com/watch?v=hbPbw2Pwwu0&list=PLG8JZxiRlWS6yCnIC17kpJbWPeJ_vryOO&index=2)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=r4EkjmxadCQ) -->
+[(video)](https://www.youtube.com/watch?v=r4EkjmxadCQ)
 - *UCBFed: Using Reinforcement Learning Method to Tackle the Federated Optimization Problem* <br/> by Wanqi Chen and Xin Zhou 
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78198-9_7)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=I0pboUIxd1Q) -->
+[(video)](https://www.youtube.com/watch?v=I0pboUIxd1Q)
 
 
 
@@ -497,15 +495,15 @@
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_9)
 [(promo)](https://www.youtube.com/watch?v=NP6Rtxlrj0o&list=PLG8JZxiRlWS59LO1QI389PMz5OADIHrSW&index=6)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=KYbjsenh2iM) -->
+[(video)](https://www.youtube.com/watch?v=KYbjsenh2iM)
 - *Off-the-shelf Automated Analysis of Liveness Properties for Just Paths* <br/> by Mark Bouwman, Bas Luttik and Tim Willemse
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_11)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=p6Jvb2MvrUo) -->
+[(video)](https://www.youtube.com/watch?v=p6Jvb2MvrUo)
 - *Towards Multi-layered Temporal Models: A Proposal to Integrate Instant Refinement in CCSL* <br/> by Mathieu Montin and Marc Pantel
 [(paper)](https://link.springer.com/chapter/10.1007/978-3-030-78089-0_7)
 <!-- [(slides)]()  -->
-<!-- [(video)](https://www.youtube.com/watch?v=Lqn4FiytcK4) -->
+[(video)](https://www.youtube.com/watch?v=Lqn4FiytcK4)
 
 
 
@@ -514,6 +512,7 @@
 ## FOCODILE accepted papers and programme
 
 ### Session 1
+*(session chair: [Nikos Leonardos](mailto:nleon@di.uoa.gr))*
 
 - *Formal verification of HotStuff* <br/> by Leander Jehl
 - *Elmo: Recursive Virtual Payment Channels for Bitcoin* <br/> by Orfeas Stefanos Thyfronitis Litos 
@@ -521,16 +520,19 @@
 - *Reaching Agreement Without Saying Much: Byzantine Agreement With Polylog Bits Per Party* <br/> by Ran Cohen
 
 ### Session 2
+*(session chair: [Petros Potikas](mailto:ppotik@cs.ntua.gr))*
 
 - *FairMM: A Fast and Frontrunning-Resistant Crypto Market-Maker* <br/> by Michele Ciampi
 - *Efficient State Management in Distributed Ledgers* <br/> by Dimitris Karakostas
 - *Scalable Byzantine Fault Tolerance through Leaderless State Machine Replication* <br/> by Tuanir F. Rezende
 
 ### Plenary Talk
+*(session chair: [Aris Pagourtzis](mailto:pagour@cs.ntua.gr))*
 
 - *High-performance crash-tolerant SMR in a single datacenter* <br/> by Lewis Tseng 
 
 ### Session 3
+*(session chair: [Aris Pagourtzis](mailto:pagour@cs.ntua.gr))*
 
 - *Toward democratising secure decentralised computation* <br/> by Eleftherios Kokkoris-Kogias
 
