@@ -24,7 +24,7 @@ Below you will find the list of accepted papers grouped by submission category a
 
 The programme is available [here](https://www.discotec.org/2021/programme).
 
-The proccedings are published by Springer, [LNCS 12717](https://www.springer.com/978-3-030-78141-5) ([online version](http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=12717)).
+**The proccedings are published by Springer, [LNCS 12717](https://www.springer.com/978-3-030-78141-5) ([online version](http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=12717)).**
 
 Below you will find the list of accepted papers ordered by and grouped as they will appear in the proceedings.
 
