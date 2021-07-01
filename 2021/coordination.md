@@ -26,6 +26,8 @@ The programme is available [here](https://www.discotec.org/2021/programme).
 
 **The proccedings are published by Springer, [LNCS 12717](https://www.springer.com/978-3-030-78141-5) ([online version](http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=12717)).**
 
+<!-- 
+
 Below you will find the list of accepted papers ordered by and grouped as they will appear in the proceedings.
 
 
@@ -63,7 +65,7 @@ Microservices
 - *Jolie & LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices* by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti, Florian Rademacher and Sabine Sachweh
 - *ScaFi-Web: a Web-based Application for Field-based Coordination Programming* by Gianluca Aguzzi, Roberto Casadei, Niccolò Maltoni, Danilo Pianini and Mirko Viroli
 
-
+-->
 
 
 ## Scope
