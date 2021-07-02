@@ -12,8 +12,8 @@ Due to the the COVID-19 situation, ICE 2021 will be a **virtual event**.
   * ICE welcomes full papers to be included in the proceedings
   * ICE also welcomes oral communications of already published or preliminary work
   * Invited speakers:
-      - [Helene Coullon](http://helene-coullon.fr/) (IMT Atlantique, FR)
       - [Laura Bocchi](https://www.kent.ac.uk/computing/people/3119/bocchi-laura) (University of Kent, UK)
+      - [Helene Coullon](http://helene-coullon.fr/) (IMT Atlantique, FR)
   * Publication in [EPTCS](https://eptcs.org/)
   * Special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier) _(to be confirmed)_
 
