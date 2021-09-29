@@ -63,13 +63,7 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 
 ### Important Dates
 TBA
-<!--
-* February 12, 2021- Abstract submission deadline 
-* February 19, 2021 - Paper submission deadline 
-* April 2, 2021 - Notification of accepted papers
-* April 23, 2021 - Camera-ready papers
-* June 14-18, 2021 - Conference
--->
+
 
 
 <!-- ### Important Dates -->
