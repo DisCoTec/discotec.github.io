@@ -68,11 +68,11 @@ Contributions should be submitted electronically as PDF, using the Springer LNCS
 Selected papers from DAIS'21 will be invited to a special issue of a reputed journal (to be announced soon).
 --->
 
-## Program committee chairs (OLD 2020 edition)
+## Program committee chairs (OLD 2021 edition)
 * Fabíola Greve (Universidade Federal da Bahia, Brazil)
 * Miguel Matos (University of Lisboa & INESC-ID, Portugal)
 
-## Program committee (OLD 2020 edition)
+## Program committee (OLD 2021 edition)
 
 * Eduardo	Alchieri, Universidade de Brasília, Brazil 
 * Pierre-Louis Aublin, Keio University, Japan

@@ -308,17 +308,17 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ...
 
-## Program committee chairs (OLD 2020 edition)
+## Program committee chairs (OLD 2021)
 * [Ferruccio Damiani](http://www.di.unito.it/~damiani/) (University of Turin, Italy)
 * [Ornela Dardha](http://www.dcs.gla.ac.uk/~ornela/)  (University of Glasgow, UK) 
 
-## Tool track chairs (OLD 2020 edition)
+## Tool track chairs (OLD 2021)
 * [Giorgio Audrito](https://giorgio.audrito.info/#!/research) (University of Turin, Italy)
 * [Silvia Lizeth Tapia Tarifa](https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html)  (University of Oslo, Norway) 
 
 
 
-## Program committee (OLD 2020 edition)
+## Program committee (OLD 2021)
 * Zena M. Ariola (University of Oregon, USA)
 * Robert Atkey (University of Strathclyde, UK)
 * Giorgio Audrito (University of Turin, Italy)
