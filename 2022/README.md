@@ -6,7 +6,7 @@
 
 
 
-DisCoTec 2022 will take place at the [IMT School for Advanced Studies](http://www.imtlucca.it/en), Lucca, between June 14-18, 2022.  
+DisCoTec 2022 will take place at the [IMT School for Advanced Studies](http://www.imtlucca.it/en), Lucca, between June 13-18, 2022.  
 
 <!--*COVID-19:* We are continually monitoring the current COVID-19 situation. Depending on how this unfolds in the coming months, we may decide to switch to an online event, although we plan to be able to organise a physical event. In the latter case, we would be happy to support remote presentations as well should participants be unable to travel safely.
 
