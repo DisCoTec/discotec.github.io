@@ -6,11 +6,11 @@
 
 
 
-DisCoTec 2022 will take place at the [IMT School for Advanced Studies](http://www.imtlucca.it/en), [Lucca](https://www.um.edu.mt/campuses/valletta), between June 14-18, 2022.  
+DisCoTec 2022 will take place at the [IMT School for Advanced Studies](http://www.imtlucca.it/en), Lucca, between June 14-18, 2022.  
 
-*COVID-19:* We are continually monitoring the current COVID-19 situation. Depending on how this unfolds in the coming months, we may decide to switch to an online event, although we plan to be able to organise a physical event. In the latter case, we would be happy to support remote presentations as well should participants be unable to travel safely.
+<!--*COVID-19:* We are continually monitoring the current COVID-19 situation. Depending on how this unfolds in the coming months, we may decide to switch to an online event, although we plan to be able to organise a physical event. In the latter case, we would be happy to support remote presentations as well should participants be unable to travel safely.
 
-<!--Due to the current COVID-19 developments, the conference is still hosted by the [University of Malta](http://www.um.edu.mt) but it will be held **online**.  Instead of physical meeting/presentations, the authors of accepted papers have recorded their talks to discuss them with the conference participants online.-->
+Due to the current COVID-19 developments, the conference is still hosted by the [University of Malta](http://www.um.edu.mt) but it will be held **online**.  Instead of physical meeting/presentations, the authors of accepted papers have recorded their talks to discuss them with the conference participants online.-->
 
  
 <!--
