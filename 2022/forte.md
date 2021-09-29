@@ -1,9 +1,10 @@
-[![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2021/)
+<!-- [![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2021/) -->
 
-# FORTE 2021 - 41st International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+# FORTE 2022 - 42st International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
-FORTE 2021 is one of the three conferences of [DisCoTec 2021](https://www.discotec.org/2021/), the 16th International Federated Conference on Distributed Computing Techniques.
+FORTE 2022 is one of the three conferences of [DisCoTec 2022](https://www.discotec.org/2022/), the 17th International Federated Conference on Distributed Computing Techniques.
 
+<!-- 
 ## Keynote Speakers
 
 * [Gilles Fedak](invited#gilles-fedak), iExec, FR
@@ -24,9 +25,10 @@ FORTE 2021 is one of the three conferences of [DisCoTec 2021](https://www.discot
 * Off-the-shelf Automated Analysis of Liveness Properties for Just Paths, _Mark Bouwman, Bas Luttik and Tim Willemse_
 * Towards a spatial model checker on GPU, _Laura Bussi, Vincenzo Ciancia and Fabio Gadducci_
 * Formal verification of HotStuff, _Leander Jehl_
+-->
 
 ### Quick Links:
-* [Important Dates](https://www.discotec.org/2021/#important-dates)
+* [Important Dates](https://www.discotec.org/2022/#important-dates)
 * [Topics of Interest](#main-topics-of-interest)
 * [Submission Categories](#submission-categories)
 * [Submission Link](#submission-link)
@@ -35,7 +37,7 @@ FORTE 2021 is one of the three conferences of [DisCoTec 2021](https://www.discot
 * [Contact](#more-information)
 
 ## Scope
-FORTE 2021 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
+FORTE 2022 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
 
 The conference solicits original contributions that advance the science and technology for distributed systems, with special interest in:
 
@@ -81,7 +83,7 @@ Topics of interest include but are not limited to:
 
 ### Submission dates
 
-See the [DisCoTec submission dates](https://www.discotec.org/2021/#important-dates).
+See the [DisCoTec submission dates](https://www.discotec.org/2022/#important-dates).
 
 ### Submission Guidelines
 Contributions must be written in English according to one of the three categories described below. They should report on original, unpublished work, not submitted for publication elsewhere (cf. [IFIP codes of conduct](http://www.ifip.org/index.php?option=com_content&task=view&id=219&Itemid=564), under Links).
@@ -129,13 +131,13 @@ All accepted papers, including short papers and journal-first submissions, will 
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
 
 ## Submission Link
-<https://easychair.org/conferences/?conf=forte21>
+....
 
-## Program committee chairs
+## Program committee chairs (OLD 2020 edition)
 * [Kirstin Peters](https://www.informatik.tu-darmstadt.de/fb20/organisation_fb20/professuren_und_gruppenleitungen/fb20professuren_und_gruppenleitungen_detailseite_84096.de.jsp) (Technical University of Darmstadt, Germany)
 * [Tim Willemse](https://www.win.tue.nl/~timw) (Eindhoven University of Technology, The Netherlands)
 
-## Program committee members
+## Program committee members (OLD 2020 edition)
 * Luís Soares Barbosa	(University of Minho, Portugal)
 * Jiri Barnat		      (Masaryk University,Czech Republic)
 * Maurice H. ter Beek	(ISTI-CNR, Pisa, Italy)	
@@ -178,7 +180,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Heike Wehrheim (Paderborn University, Germany)
 
 ## More Information
-For additional information, please contact the Program Committee Co-chairs: forte21 at easychair dot org
+For additional information, please contact the Program Committee Co-chairs: forte22 at easychair dot org
 
 ## Sponsors & Supporters
 <a href="https://www.ifip.org">
