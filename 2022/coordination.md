@@ -1,6 +1,6 @@
 <!-- [![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2021/) -->
 
-# COORDINATION 2022 - 24rd International Conference on Coordination Models and Languages
+# COORDINATION 2022 - 24th International Conference on Coordination Models and Languages
 
 Coordination 2022 is one of the three conferences of [DisCoTec 2022](https://www.discotec.org/2022/).
 
