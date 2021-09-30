@@ -308,9 +308,9 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ...
 
-## Program committee chairs (OLD 2021)
-* [Ferruccio Damiani](http://www.di.unito.it/~damiani/) (University of Turin, Italy)
-* [Ornela Dardha](http://www.dcs.gla.ac.uk/~ornela/)  (University of Glasgow, UK) 
+## Program committee chairs 
+* [Marjan Sirjani](http://www.ru.is/faculty/marjan/) (Mälardalen University, SE)
+* [Maurice ter Beek](https://fmt.isti.cnr.it/~mtbeek/) (ISTI-CNR, IT)
 
 ## Tool track chairs (OLD 2021)
 * [Giorgio Audrito](https://giorgio.audrito.info/#!/research) (University of Turin, Italy)

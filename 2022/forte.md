@@ -133,9 +133,9 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ## Submission Link
 ....
 
-## Program committee chairs (OLD 2021 edition)
-* [Kirstin Peters](https://www.informatik.tu-darmstadt.de/fb20/organisation_fb20/professuren_und_gruppenleitungen/fb20professuren_und_gruppenleitungen_detailseite_84096.de.jsp) (Technical University of Darmstadt, Germany)
-* [Tim Willemse](https://www.win.tue.nl/~timw) (Eindhoven University of Technology, The Netherlands)
+## Program committee chairs 
+* [Mohammad Mousavi](https://www.nms.kcl.ac.uk/mohammad.mousavi/) (King's College London, UK)
+* [Anna Philippou](https://www.cs.ucy.ac.cy/~annap/) (University of Cyprus, Cy)
 
 ## Program committee members (OLD 2021 edition)
 * Luís Soares Barbosa	(University of Minho, Portugal)

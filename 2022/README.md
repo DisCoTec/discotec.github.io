@@ -109,20 +109,20 @@ The individual conferences will organise special issues of extended and selected
 
 
 
-## Scientific Committees (OLD - Currently 2021)
+## Scientific Committees 
 
 ### Coordination Program Committee Chairs
-* [Ferruccio Damiani][FerruccioWeb] (University of Torino, IT)
-* [Ornela Dardha][OrnelaWeb] (University of Glasgow, UK)
+* [Marjan Sirjani][MarjanWeb] (Mälardalen University, SE)
+* [Maurice ter Beek][MauriceWeb] (ISTI-CNR, IT)
 
 
-### DAIS Program Committee Chairs
+### DAIS Program Committee Chairs (OLD - Currently 2021)
 * [Fabíola Greve][FabiolaWeb] (Federal University of Bahia, BR)
 * [Miguel Matos][MiguelWeb] (University of Lisboa & INESC-ID, PT)
 
 ### FORTE Program Committee Chairs
-* [Kirstin Peters][KirstinWeb] (Technical University of Darmstadt, DE)
-* [Tim Willemse][TimWeb] (Eindhoven University of Technology, NL)
+* [Mohammad Mousavi][MohammadWeb] (King's College London, UK)
+* [Anna Philippou][AnnaWeb] (University of Cyprus, Cy)
 
 
 
@@ -138,10 +138,11 @@ The individual conferences will organise special issues of extended and selected
 [RoccoWeb]: https://sysma.imtlucca.it/pages/rocco-denicola/
 [LilloWeb]: https://sysma.imtlucca.it/pages/letterio-galletta/
 [SimoneWeb]: https://sysma.imtlucca.it/pages/simone-soderi/
-[AdrianWeb]: http://staff.um.edu.mt/afra1/
-[DavideWeb]: https://www.cnr.it/people/davide.basile
-[KikoWeb]: https://www.plresearcher.com
-[OrnelaWeb]: http://www.dcs.gla.ac.uk/~ornela/
+[MarjanWeb]: http://www.ru.is/faculty/marjan/
+[MauriceWeb]: https://fmt.isti.cnr.it/~mtbeek/
+[MohammadWeb]: https://www.nms.kcl.ac.uk/mohammad.mousavi/
+[AnnaWeb]: https://www.cs.ucy.ac.cy/~annap/
+
 [DuncanWeb]: https://github.com/duncanatt
 [JasmineWeb]: https://github.com/jasmine97xuereb
 [ChristianWeb]: https://github.com/chrisbartoloburlo
