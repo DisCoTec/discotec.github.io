@@ -2,7 +2,7 @@
 
 # COORDINATION 2022 - 24th International Conference on Coordination Models and Languages
 
-Coordination 2022 is one of the three conferences of [DisCoTec 2022](https://www.discotec.org/2022/).
+COORDINATION 2022 is one of the three conferences of [DisCoTec 2022](https://www.discotec.org/2022/).
 
 <!-- 
 ## Keynote Speakers
@@ -90,7 +90,7 @@ Topics of interest encompass all areas of coordination, including (but not limit
 
 ### Special topics
 
-COORDINATION 2021 is seeking for contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
+COORDINATION 2022 is seeking for contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
 
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
@@ -182,7 +182,7 @@ and Larisa Safina (<a href="mailto:larisa.safina@inria.fr">larisa.safina@inria.f
     <p>Techniques to reason about interacting digital contracts</p>
 
     <p>With the rise of blockchains and cryptocurrencies, digital contracts have become popular in the form of smart contracts, which encode a financial transaction between possibly distrusting parties using a distributed consensus protocol.  Although smart contracts bear the potential to benefit society quite fundamentally (e.g., equalize access to financial infrastructure, increase fairness), the benefits are shadowed by the existence of severe security vulnerabilities in deployed smart contracts and smart contract languages.  
-In the 2021 edition of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques.</p>
+In the 2022 edition of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques.</p>
 
     <p>Contacts: Stephanie Balzer (<a href="mailto:balzers@cs.cmu.edu">balzers@cs.cmu.edu</a>) and Anastasia Mavridou (<a href="mailto:anastasia.mavridou@nasa.gov">anastasia.mavridou@nasa.gov</a>)</p>
   </li>
