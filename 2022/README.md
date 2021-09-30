@@ -153,8 +153,7 @@ The individual conferences will organise special issues of extended and selected
 [TimWeb]: https://www.win.tue.nl/~timw/index.php
 
 ## Location
-[IMT School for Advanced Studies](http://www.imtlucca.it/en)  
-San Francesco Campus  
+[IMT School for Advanced Studies](http://www.imtlucca.it/en) San Francesco Campus  
 Piazza S. Francesco, 19 - 55100 Lucca, LU  
 It can be reached [as follows](http://www.imtlucca.it/en/campus-and-services/how-to-reach-us). 
 
