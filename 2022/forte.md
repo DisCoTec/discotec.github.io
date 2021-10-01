@@ -137,7 +137,9 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * [Mohammad Mousavi](https://www.nms.kcl.ac.uk/mohammad.mousavi/) (King's College London, UK)
 * [Anna Philippou](https://www.cs.ucy.ac.cy/~annap/) (University of Cyprus, Cy)
 
-## Program committee members (OLD 2021 edition)
+## Program committee members 
+TBA
+<!--
 * Luís Soares Barbosa	(University of Minho, Portugal)
 * Jiri Barnat		      (Masaryk University,Czech Republic)
 * Maurice H. ter Beek	(ISTI-CNR, Pisa, Italy)	
@@ -163,6 +165,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Simone Tini		      (University of Insubria, Italy)
 * Björn Victor		      (Uppsala University, Sweden)
 * Georg Weissenbacher	(Vienna University of Technology, Austria)
+-->
 
 ## Steering committee
 * Ahmed Bouajjani (University Paris Diderot, France)

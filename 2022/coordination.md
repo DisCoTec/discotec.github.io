@@ -72,6 +72,7 @@ Microservices
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
 
+<!--
 ### Main topics of interest
 
 Topics of interest encompass all areas of coordination, including (but not limited to) coordination related aspects of:
@@ -194,7 +195,7 @@ In the 2022 edition of COORDINATION, we are soliciting contributions on new prog
 
 
 </ol>
-
+-->
 
 
 <!-- 1. Microservices (in collaboration with the Microservices Community) -->
@@ -219,7 +220,8 @@ In the 2022 edition of COORDINATION, we are soliciting contributions on new prog
 <!--    With the rise of blockchains and cryptocurrencies, digital contracts have become popular in the form of smart contracts, which encode a financial transaction between possibly distrusting parties using a distributed consensus protocol.  Although smart contracts bear the potential to benefit society quite fundamentally (e.g., equalize access to financial infrastructure, increase fairness), the benefits are shadowed by the existence of severe security vulnerabilities in deployed smart contracts and smart contract languages.  
 In the 2021 edition of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques. -->
 
-<!--    Contacts: Stephanie Balzer ([balzers@cs.cmu.edu](mailto:balzers@cs.cmu.edu)) and Anastasia Mavridou ([anastasia.mavridou@nasa.gov](mailto:anastasia.mavridou@nasa.gov)) -->
+<!--    Contacts: Stephanie Balzer ([balzers@cs.cmu.edu](mailto:balzers@cs.cmu.edu)) and Anastasia Mavridou ([anastasia.mavridou@nasa.gov](mailto:anastasia.mavridou@nasa.gov)) 
+
 
 ### Tool papers
 
@@ -235,8 +237,9 @@ will be able (and encouraged) to extend their tool paper to a (regular) full pap
  in the conference proceedings, 
 which will be subject to a lightweight revision process.
 
+-->
 <!--We welcome tool papers that describe technological artefacts, including innovative prototypes, for modelling, analysing, simulating or testing systems in the scope of the research topics of COORDINATION. **Submissions must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process.** Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process. A dedicated special issue for accepted contributions is being planned.
-Tool papers presenting coordination APIs, allowing the broad community to easily utilise provided coordination mechanisms are particularly welcome. -->
+Tool papers presenting coordination APIs, allowing the broad community to easily utilise provided coordination mechanisms are particularly welcome. 
 
 Interested authors can contact the tool track chairs for details.
 
@@ -247,9 +250,8 @@ Interested authors can contact the tool track chairs for details.
 See the [DisCoTec submission dates](https://www.discotec.org/2022/#important-dates).
 
 ### Publication 
-<!--
+
 and Special Issues
--->
 
 
 Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. 
@@ -285,33 +287,32 @@ according to the quality and number of the submission,
 we will organise special issues of extended and selected Full/Short/Survey/Tool papers 
 in reputable journals such as Logical Methods in Computer Science and Science of Computer Programming.
 
-<!-- 
  [The special issue for COORDINATION 2019  has now been published 
 in Logical Methods in Computer Science (LMCS).](https://lmcs.episciences.org/volume/view/id/377)
 
  [The special issue for COORDINATION 2019 Tool Papers has now been published 
 in Science of Computer Programming 
 (SCP).](https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/10H4835TWK9)  
--->
 
 Special issues for last year's edition are under preparation (we will advertise them here).
 
 
-<!--
 ### Special Issues
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org) and a separate special issue dedicated to tool papers is being planned. Special issues for last year's edition are under preparation in [**Logical Methods in Computer Science**](https://lmcs.episciences.org) for selected research papers, and in [**Science of Computer Programming**](https://www.journals.elsevier.com/science-of-computer-programming) for selected tool papers (as a collection of [**Original Software Publications**](https://www.elsevier.com/authors/author-resources/research-elements/software-articles/original-software-publications).
 -->
 
-<!--Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org). A separate special issue dedicated to tool papers is being planned.-->
+<!--Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org). A separate special issue dedicated to tool papers is being planned.
 
 ### Submission Link
 
 ...
+-->
 
 ## Program committee chairs 
 * [Marjan Sirjani](http://www.ru.is/faculty/marjan/) (Mälardalen University, SE)
 * [Maurice ter Beek](https://fmt.isti.cnr.it/~mtbeek/) (ISTI-CNR, IT)
 
+<!--
 ## Tool track chairs (OLD 2021)
 * [Giorgio Audrito](https://giorgio.audrito.info/#!/research) (University of Turin, Italy)
 * [Silvia Lizeth Tapia Tarifa](https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html)  (University of Oslo, Norway) 
@@ -349,7 +350,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Peter Thieman (Universität Freiburg, Germany)
 * Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal)
 * Tarmo Uustalu (Reykjavik University, Iceland)
-
+-->
  
  
 
