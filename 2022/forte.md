@@ -139,33 +139,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ## Program committee members 
 TBA
-<!--
-* Luís Soares Barbosa	(University of Minho, Portugal)
-* Jiri Barnat		      (Masaryk University,Czech Republic)
-* Maurice H. ter Beek	(ISTI-CNR, Pisa, Italy)	
-* Pedro R. D'Argenio	   (Universidad Nacional de Córdoba, Argentina)
-* Wan Fokkink		      (Vrije Universiteit Amsterdam, The Netherlands)
-* Rob van Glabbeek	   (Data61 - CSIRO, Australia)
-* Daniele Gorla		   (University of Rome, La Sapienza, Italy)
-* Artem Khyzha		      (Tel Aviv University, Israel)
-* Barbara König		   (University of Duisburg-Essen, Germany)
-* Bas Luttik		      (Eindhoven University of Technology, The Netherlands)
-* Stephan Merz		      (INRIA Nancy, France)
-* Roland Meyer		      (TU Braunschweig, Germany)
-* Thomas Neele		      (Royal Holloway, University of London, United Kingdom)
-* Mohammadreza Mousavi	(University of Leicester, United Kingdom)
-* Ana-Maria Oprescu	   (University of Amsterdam, The Netherlands)
-* Catuscia Palamidessi	(INRIA, France)
-* Jorge A. Pérez	      (University of Groningen, The Netherlands)
-* Anna Philippou	      (University of Cyprus, Cyprus)
-* Mila Dalla Preda	   (University of Verona, Italy)
-* Anne Remke		      (WWU Münster, Germany)
-* Kristin Yvonne Rozier	(Iowa State University, USA)
-* Cristina Seceleanu	   (Mälardalen University, Sweden)
-* Simone Tini		      (University of Insubria, Italy)
-* Björn Victor		      (Uppsala University, Sweden)
-* Georg Weissenbacher	(Vienna University of Technology, Austria)
--->
+
 
 ## Steering committee
 * Ahmed Bouajjani (University Paris Diderot, France)
