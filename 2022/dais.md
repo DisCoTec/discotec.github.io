@@ -66,7 +66,7 @@ Contributions should be submitted electronically as PDF, using the Springer LNCS
 <!---
 ##Special Issue
 Selected papers from DAIS'21 will be invited to a special issue of a reputed journal (to be announced soon).
---->
+
 
 ## Program committee chairs (OLD 2021 edition)
 * Fabíola Greve (Universidade Federal da Bahia, Brazil)
@@ -99,7 +99,7 @@ Selected papers from DAIS'21 will be invited to a special issue of a reputed jou
 * Valerio	Schiavoni, University of Neuchâtel, Switzerland
 * Pierre Sutra, Telecom SudParis, France
 * Spyros Voulgaris, Athens University of Economics and Business, Greece
-
+--->
 
 
 ## Steering committee

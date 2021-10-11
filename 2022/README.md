@@ -127,9 +127,10 @@ The individual conferences will organise special issues of extended and selected
 
 
 ## Organising Committee
-* [Rocco De Nicola][RoccoWeb] (IMT School for Advanced Studies — General Chair)
-* [Letterio Galletta][LilloWeb] (IMT School for Advanced Studies — Local Organising Committee Chair)
-* [Simone Soderi][SimoneWeb] (IMT School for Advanced Studies)
+* [Rocco De Nicola][RoccoWeb] (IMT School for Advanced Studies, IT — General Chair)
+* [Letterio Galletta][LilloWeb] (IMT School for Advanced Studies, IT — Local Organising Committee Chair)
+* [Marinella Petrocchi][MarinellaWeb] (IIT-CNR, IT)
+* [Simone Soderi][SimoneWeb] (IMT School for Advanced Studies, IT)
 
 <!-- * [Duncan Attard][DuncanWeb] (University of Malta, MT — Workshops Chair)
 * [Christian Bartolo Burlo][ChristianWeb] (Gran Sasso Science Institute, IT — Workshops Chair)
@@ -137,6 +138,7 @@ The individual conferences will organise special issues of extended and selected
 
 [RoccoWeb]: https://sysma.imtlucca.it/pages/rocco-denicola/
 [LilloWeb]: https://sysma.imtlucca.it/pages/letterio-galletta/
+[MarinellaWeb]: https://marinellapetrocchi.wixsite.com/mysite
 [SimoneWeb]: https://sysma.imtlucca.it/pages/simone-soderi/
 [MarjanWeb]: http://www.ru.is/faculty/marjan/
 [MauriceWeb]: https://fmt.isti.cnr.it/~mtbeek/
