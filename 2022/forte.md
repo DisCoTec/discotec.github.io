@@ -124,7 +124,7 @@ Notice that *short* and *journal-first* papers must be explicitly marked as such
    Journal-first submissions must be marked as such in the submission's title, and must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program.
 
 ### Publication
-All accepted papers, including short papers and journal-first submissions, will be published in the FORTE 2021 formal proceedings, which will appear in Springer's LNCS-IFIP volume series.
+All accepted papers, including short papers and journal-first submissions, will be published in the FORTE 2022 formal proceedings, which will appear in Springer's LNCS-IFIP volume series.
 
 
 ### Special Issue
