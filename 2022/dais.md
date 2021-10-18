@@ -55,7 +55,7 @@ See the [DisCoTec submission dates](https://www.discotec.org/2022/#important-dat
 
 ## Submission and Publication
 
-All papers must be original, unpublished, and not submitted for publication elsewhere. DAIS 2021 offers three submission tracks:
+All papers must be original, unpublished, and not submitted for publication elsewhere. DAIS 2022 offers three submission tracks:
 
 * Full research papers in no more than 15 pages + 2 pages references.
 * Full practical experience reports, including experimental and evaluation studies, case studies, and practice reports in no more than 15 pages + 2 pages references.
@@ -66,12 +66,13 @@ Contributions should be submitted electronically as PDF, using the Springer LNCS
 <!---
 ##Special Issue
 Selected papers from DAIS'21 will be invited to a special issue of a reputed journal (to be announced soon).
+-->
 
+## Program committee chairs 
+* [David Eyers](https://www.otago.ac.nz/computer-science/people/David_Eyers.html) (University of Otago, NZ)
+* [Spyros Voulgaris](https://acropolis.aueb.gr/~spyros/www/) (Athens University of Economics and Business, GR)
 
-## Program committee chairs (OLD 2021 edition)
-* Fabíola Greve (Universidade Federal da Bahia, Brazil)
-* Miguel Matos (University of Lisboa & INESC-ID, Portugal)
-
+<!---
 ## Program committee (OLD 2021 edition)
 
 * Eduardo	Alchieri, Universidade de Brasília, Brazil 

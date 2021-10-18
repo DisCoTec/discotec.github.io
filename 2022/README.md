@@ -116,9 +116,9 @@ The individual conferences will organise special issues of extended and selected
 * [Maurice ter Beek][MauriceWeb] (ISTI-CNR, IT)
 
 
-### DAIS Program Committee Chairs (OLD - Currently 2021)
-* [Fabíola Greve][FabiolaWeb] (Federal University of Bahia, BR)
-* [Miguel Matos][MiguelWeb] (University of Lisboa & INESC-ID, PT)
+### DAIS Program Committee Chairs 
+* [David Eyers][DavidWeb] (University of Otago, NZ)
+* [Spyros Voulgaris][SpyrosWeb] (Athens University of Economics and Business, GR)
 
 ### FORTE Program Committee Chairs
 * [Mohammad Mousavi][MohammadWeb] (King's College London, UK)
@@ -144,6 +144,8 @@ The individual conferences will organise special issues of extended and selected
 [MauriceWeb]: https://fmt.isti.cnr.it/~mtbeek/
 [MohammadWeb]: https://www.nms.kcl.ac.uk/mohammad.mousavi/
 [AnnaWeb]: https://www.cs.ucy.ac.cy/~annap/
+[DavidWeb]: https://www.otago.ac.nz/computer-science/people/David_Eyers.html
+[SpyrosWeb]: https://acropolis.aueb.gr/~spyros/www/
 
 [DuncanWeb]: https://github.com/duncanatt
 [JasmineWeb]: https://github.com/jasmine97xuereb
