@@ -146,7 +146,7 @@ behaviour are of paramount importance.</p>
         <div class="row">
           <div class="col-3">
             <a href="https://microservices.community/e/discotec2020/">
-            <img class="img-responsive align-middle" alt="Microservices Community Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="1000px">
+            <img class="img-responsive align-middle" alt="Microservices Community Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="500px">
             </a>
           </div>
           <!--
