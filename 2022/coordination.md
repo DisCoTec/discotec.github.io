@@ -142,7 +142,7 @@ behaviour are of paramount importance.</p>
    &nbsp;
    <a style="float: right; width: 30%" href="https://microservices.community/e/discotec2020/">
   <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png">
-</a>
+</a><br>
 
           <!--
 
