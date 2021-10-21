@@ -72,17 +72,18 @@ Microservices
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
 
-<!--
+
 ### Main topics of interest
 
 Topics of interest encompass all areas of coordination, including (but not limited to) coordination related aspects of:
-* Theoretical models and foundations for coordination: component   composition, concurrency, mobility, dynamic, spatial and probabilistic aspects of coordination, logic, emergent behaviour, types, semantics;
+* Theoretical models and foundations for coordination: component composition, concurrency, mobility, dynamic, spatial and probabilistic aspects of coordination, logic, emergent behaviour, types, semantics;
 * Specification, refinement, and analysis of architectures: patterns and styles, verification of functional and non-functional properties, including performance and security aspects;
 * Dynamic software architectures: distributed mobile code, configuration, reconfiguration, networked computing, parallel, high-performance and cloud computing;
 * Nature- and bio-inspired approaches to coordination;
-* Coordination of multiagent and collective systems: models, languages, infrastructures, self-adaptation, self-organisation, distributed solving, collective intelligence and emerging behaviour;
+* Coordination of multi-agent and collective systems: models, languages, infrastructures, self-adaptation, self-organisation, distributed solving, collective intelligence and emerging behaviour;
 * Coordination and modern distributed computing: web services, peer-to-peer networks, grid computing, context-awareness, ubiquitous computing, mobile computing;
-* Coordination platforms for infrastructures of emerging new application domains like IoT, fog- and edge-computing;
+* Coordination platforms for infrastructures of emergent new application domains like IoT, fog- and edge-computing;
+* Cybersecurity aspects of coordinated systems, coordinated approaches to cybersecurity;
 * Programming methodologies, languages, middleware, tools, and environments for the development and verification of coordinated applications;
 * Tools, languages and methodologies for secure coordination;
 * Industrial relevance of coordination and software architectures: programming in the large, domain-specific software architectures and coordination models, case studies;
@@ -95,7 +96,7 @@ COORDINATION 2022 is seeking for contributions that enable the cross-fertilisati
 
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
-
+<!--
 
 <ol>
 
@@ -309,8 +310,8 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 -->
 
 ## Program committee chairs 
-* [Marjan Sirjani](http://www.ru.is/faculty/marjan/) (Mälardalen University, SE)
 * [Maurice ter Beek](https://fmt.isti.cnr.it/~mtbeek/) (ISTI-CNR, IT)
+* [Marjan Sirjani](http://www.ru.is/faculty/marjan/) (Mälardalen University, SE)
 
 <!--
 ## Tool track chairs (OLD 2021)
