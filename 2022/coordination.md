@@ -95,10 +95,9 @@ Topics of interest encompass all areas of coordination, including (but not limit
 We seek contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
+<!--
 
 <ul>
-
-<!--
 
 <li>
     <p>Configurable Systems in the DevOps Era</p>
@@ -123,10 +122,11 @@ Maurice ter Beek (<a href="mailto:maurice.terbeek@isti.cnr.it">maurice.terbeek@i
 and Hugo Torres Vieira (<a href="mailto:hugo.torres.vieira@ubi.pt">hugo.torres.vieira@ubi.pt</a>)</p>
   </li>
 
+  <li>
+
 -->
 
-  <li>
-    <p>Microservices (in collaboration with the Microservices Community)</p>
+<p>Microservices (in collaboration with the Microservices Community)</p>
 
     <p style="float: left; width: 70%">Microservices are a novel architectural style, taking to an extreme
 the ideas of service oriented computing. In microservices, applications
@@ -185,9 +185,9 @@ behaviour are of paramount importance.</p>
     <p style="float: left; width: 70%">Contact: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) 
      <!-- and Larisa Safina (<a href="mailto:larisa.safina@inria.fr">larisa.safina@inria.fr</a>). -->
   </p>
-  </li>
 
 <!--
+  </li>
 
   <li>
     <p>Techniques to reason about interacting digital contracts</p>
@@ -197,11 +197,10 @@ In the 2022 edition of COORDINATION, we are soliciting contributions on new prog
 
     <p>Contacts: Stephanie Balzer (<a href="mailto:balzers@cs.cmu.edu">balzers@cs.cmu.edu</a>) and Anastasia Mavridou (<a href="mailto:anastasia.mavridou@nasa.gov">anastasia.mavridou@nasa.gov</a>)</p>
   </li>
--->
 
 </ul>
 
-<br>
+-->
 
 <!-- 1. Microservices (in collaboration with the Microservices Community) -->
 
