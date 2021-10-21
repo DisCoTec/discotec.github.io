@@ -278,7 +278,7 @@ to make their artefacts publicly available using permanent repositories such as 
 
 The conference proceedings, formed by accepted submissions will be published by Springer in the LNCS Series.
 
-### Special Issues
+### Special issues
 
 Following the tradition of previous editions of COORDINATION, 
 according to the quality and number of the submission, 
@@ -295,7 +295,7 @@ in Science of Computer Programming
 Special issues for last year's edition are under preparation (we will advertise them here).
 
 
-### Special Issues
+### Special issues
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org) and a separate special issue dedicated to tool papers is being planned. Special issues for last year's edition are under preparation in [**Logical Methods in Computer Science**](https://lmcs.episciences.org) for selected research papers, and in [**Science of Computer Programming**](https://www.journals.elsevier.com/science-of-computer-programming) for selected tool papers (as a collection of [**Original Software Publications**](https://www.elsevier.com/authors/author-resources/research-elements/software-articles/original-software-publications).
 -->
 
@@ -306,7 +306,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ...
 -->
 
-## Program committee chairs 
+## Program Committee chairs 
 * [Maurice ter Beek](https://fmt.isti.cnr.it/~mtbeek/) (ISTI-CNR, IT)
 * [Marjan Sirjani](http://www.ru.is/faculty/marjan/) (Mälardalen University, SE)
 
@@ -317,7 +317,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 -->
 
 
-## Program committee (OLD 2021)
+## Program Committee (OLD 2021)
 * Zena M. Ariola (University of Oregon, USA)
 * Robert Atkey (University of Strathclyde, UK)
 * Giorgio Audrito (University of Turin, Italy)
@@ -353,7 +353,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
  
 
 
-## Steering committee
+## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
 * Farhad Arbab (CWI and Leiden University, The Netherlands)
 * Simon Bliudze (Inria Lille - Nord Europe, France)
