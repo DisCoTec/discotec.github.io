@@ -180,7 +180,7 @@ behaviour are of paramount importance.</p>
     <div style="clear: both;"></div>
           -->
 
-    <p>Contact: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) 
+    <p style="float: left; width: 70%">Contact: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) 
      <!-- and Larisa Safina (<a href="mailto:larisa.safina@inria.fr">larisa.safina@inria.fr</a>). -->
   </p>
   </li>
