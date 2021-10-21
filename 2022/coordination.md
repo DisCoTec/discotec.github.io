@@ -311,7 +311,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 -->
 
 ## Program Committee chairs 
-* [Maurice ter Beek](https://fmt.isti.cnr.it/~mtbeek/) (ISTI-CNR, IT)
+* [Maurice ter Beek](https://fmt.isti.cnr.it/~mtbeek/) (ISTI-CNR, Pisa, IT)
 * [Marjan Sirjani](http://www.ru.is/faculty/marjan/) (Mälardalen University, SE)
 
 ## Tool track chair 
