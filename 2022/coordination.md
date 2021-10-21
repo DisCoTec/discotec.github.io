@@ -126,9 +126,13 @@ and Hugo Torres Vieira (<a href="mailto:hugo.torres.vieira@ubi.pt">hugo.torres.v
 
 -->
 
+<ul>
+
+<li>
+ 
 <p>Microservices (in collaboration with the Microservices Community)</p>
 
-    <p style="float: left; width: 70%">Microservices are a novel architectural style, taking to an extreme
+<p style="float: left; width: 70%">Microservices are a novel architectural style, taking to an extreme
 the ideas of service oriented computing. In microservices, applications
 are composed by loosely coupled entities, the microservices. Beyond
 that, single microservices should be small enough to be easily managed,
@@ -139,11 +143,16 @@ technologies such as Docker. Given that microservice-based applications
 are composed by many loosely-coupled microservices, techniques allowing
 one to coordinate their execution in order to obtain the desired
 behaviour are of paramount importance.</p>
-   &nbsp;
-   <a style="float: right; width: 30%" href="https://microservices.community/e/discotec2020/">
+&nbsp;
+<a style="float: right; width: 30%" href="https://microservices.community/e/discotec2020/">
   <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png">
 </a><br>
 
+<p>Contact: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>)</p> 
+
+</li>
+ 
+</ul>
           <!--
 
     <div class="pb-3" style="float:left">
@@ -180,13 +189,10 @@ behaviour are of paramount importance.</p>
     </div>
     <div style="clear: both;"></div>
 
-          -->
-
     <p style="float: left; width: 70%">Contact: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) 
-     <!-- and Larisa Safina (<a href="mailto:larisa.safina@inria.fr">larisa.safina@inria.fr</a>). -->
+     and Larisa Safina (<a href="mailto:larisa.safina@inria.fr">larisa.safina@inria.fr</a>).
   </p>
 
-<!--
   </li>
 
   <li>
