@@ -97,7 +97,7 @@ COORDINATION 2022 is seeking for contributions that enable the cross-fertilisati
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
 
-<ol>
+<ul>
 
 <!--
 
@@ -193,10 +193,10 @@ In the 2022 edition of COORDINATION, we are soliciting contributions on new prog
 
     <p>Contacts: Stephanie Balzer (<a href="mailto:balzers@cs.cmu.edu">balzers@cs.cmu.edu</a>) and Anastasia Mavridou (<a href="mailto:anastasia.mavridou@nasa.gov">anastasia.mavridou@nasa.gov</a>)</p>
   </li>
-
-
-</ol>
 -->
+
+</ul>
+
 
 
 <!-- 1. Microservices (in collaboration with the Microservices Community) -->
