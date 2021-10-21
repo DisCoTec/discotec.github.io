@@ -230,6 +230,7 @@ We welcome tool papers that describe experience reports, technological artefacts
 (including engines, APIs, etc.), for coordinating, modelling, analysing, simulating or testing systems, 
 as well as educational tools in the scope of the research topics of COORDINATION. 
 In addition, we welcome submissions promoting the integration of existing tools relevant to the community. 
+
 <!--
 **Submissions to the tool track must include a tool paper and a link to a demo video that previews the potential tool presentation at the conference. 
 Both the tool paper and the video will be decisive criteria in the selection process.** 
