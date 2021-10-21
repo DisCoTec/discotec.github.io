@@ -128,7 +128,7 @@ and Hugo Torres Vieira (<a href="mailto:hugo.torres.vieira@ubi.pt">hugo.torres.v
   <li>
     <p>Microservices (in collaboration with the Microservices Community)</p>
 
-    <p style="float: left; width: 63%">Microservices are a novel architectural style, taking to an extreme
+    <p style="float: left; width: 70%">Microservices are a novel architectural style, taking to an extreme
 the ideas of service oriented computing. In microservices, applications
 are composed by loosely coupled entities, the microservices. Beyond
 that, single microservices should be small enough to be easily managed,
@@ -139,10 +139,12 @@ technologies such as Docker. Given that microservice-based applications
 are composed by many loosely-coupled microservices, techniques allowing
 one to coordinate their execution in order to obtain the desired
 behaviour are of paramount importance.</p>
-   <a style="float: right; width: 37%" href="https://microservices.community/e/discotec2020/">
+   &nbsp;
+   <a style="float: right; width: 30%" href="https://microservices.community/e/discotec2020/">
   <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png">
 </a>
 
+          <!--
     <div class="pb-3" style="float:left">
       <div class="container">
         <div class="row">
@@ -151,7 +153,6 @@ behaviour are of paramount importance.</p>
             <img class="img-responsive align-middle" alt="Microservices Community Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="500px">
             </a>
           </div>
-          <!--
             <div class="col-9">
             <div class="small border" style="padding: 5px;">
               <p><strong>Other events organised by the Microservices Community</strong></p>
@@ -173,15 +174,14 @@ behaviour are of paramount importance.</p>
               <p></p>
             </div>
           </div>
-          -->
         </div>
       </div>
     </div>
     <div style="clear: both;"></div>
+          -->
+
     <p>Contact: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) 
-  <!--
-  and Larisa Safina (<a href="mailto:larisa.safina@inria.fr">larisa.safina@inria.fr</a>).
-  -->
+     <!-- and Larisa Safina (<a href="mailto:larisa.safina@inria.fr">larisa.safina@inria.fr</a>). -->
   </p>
   </li>
 
