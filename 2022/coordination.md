@@ -92,8 +92,7 @@ Topics of interest encompass all areas of coordination, including (but not limit
 
 ### Special topics
 
-COORDINATION 2022 is seeking for contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
-
+We seek contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
 
@@ -140,6 +139,9 @@ technologies such as Docker. Given that microservice-based applications
 are composed by many loosely-coupled microservices, techniques allowing
 one to coordinate their execution in order to obtain the desired
 behaviour are of paramount importance.</p>
+   <a style="float: right; width: 37%" href="https://microservices.community/e/discotec2020/">
+  <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png">
+</a>
 
     <div class="pb-3" style="float:left">
       <div class="container">
