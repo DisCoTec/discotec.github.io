@@ -149,7 +149,8 @@ behaviour are of paramount importance.</p>
             <img class="img-responsive align-middle" alt="Microservices Community Badge" src="https://www.microservices.community/assets/images/badges/1-black.png">
             </a>
           </div>
-          <div class="col-9">
+          <!--
+            <div class="col-9">
             <div class="small border" style="padding: 5px;">
               <p><strong>Other events organised by the Microservices Community</strong></p>
               <p>
@@ -170,6 +171,7 @@ behaviour are of paramount importance.</p>
               <p></p>
             </div>
           </div>
+          -->
         </div>
       </div>
     </div>
