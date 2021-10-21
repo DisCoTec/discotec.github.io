@@ -145,6 +145,7 @@ behaviour are of paramount importance.</p>
 </a>
 
           <!--
+
     <div class="pb-3" style="float:left">
       <div class="container">
         <div class="row">
@@ -178,6 +179,7 @@ behaviour are of paramount importance.</p>
       </div>
     </div>
     <div style="clear: both;"></div>
+
           -->
 
     <p style="float: left; width: 70%">Contact: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) 
@@ -199,7 +201,7 @@ In the 2022 edition of COORDINATION, we are soliciting contributions on new prog
 
 </ul>
 
-
+<br>
 
 <!-- 1. Microservices (in collaboration with the Microservices Community) -->
 
