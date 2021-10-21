@@ -362,27 +362,27 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
 * Farhad Arbab (CWI and Leiden University, The Netherlands)
-* Simon Bliudze (Inria Lille - Nord Europe, France)
+* Simon Bliudze (INRIA Lille, France)
 * Laura Bocchi (University of Kent, UK)
 * Wolfgang De Meuter (Vrije Universiteit Brussels, Belgium)
-* Rocco De Nicola (IMT - School for Advanced Studies Lucca, Italy)
+* Rocco De Nicola (IMT School for Advanced Studies Lucca, Italy)
 * Giovanna di Marzo Serugendo (Université de Genève, Switzerland)
 * Tom Holvoet (KU Leuven, Belgium)
 * Jean-Marie Jacquet (University of Namur, Belgium)
-* Christine Julien (The University of Texas at Austin, USA)
+* Christine Julien (University of Texas at Austin, USA)
 * eva Kühn (Vienna University of Technology, Austria)
-* Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
-* Michele Loreti (University of Camerino, Italy)
-* Mieke Massink (ISTI CNR, Italy) - Chair
+* Alberto Lluch Lafuente (Technical University of Denmark)
+* Michele Loreti (Università di Camerino, Italy)
+* Mieke Massink (ISTI-CNR, Pisa, Italy) - Chair
 * José Proença (CISTER, ISEP, Portugal)
-* Rosario Pugliese, Università di Firenze, Italy
-* Hanne Riis Nielson, DTU, Denmark
+* Rosario Pugliese (Università di Firenze, Italy)
+* Hanne Riis Nielson (Technical University of Denmark)
 * Marjan Sirjani (Mälardalen University, Sweden)
 * Carolyn Talcott (SRI International, California, USA)
 * Emilio Tuosto (Gran Sasso Science Institute, Italy)
 * Vasco T. Vasconcelos (University of Lisbon, Portugal)
-* Mirko Viroli (Alma Mater Studiorum - Università di Bologna, Italy)
-* Gianluigi Zavattaro (Alma Mater Studiorum - Università di Bologna, Italy)
+* Mirko Viroli (Università di Bologna, Italy)
+* Gianluigi Zavattaro (Università di Bologna, Italy)
 
 
 
