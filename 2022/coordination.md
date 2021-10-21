@@ -316,9 +316,11 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ## Tool track chair 
 * [Ferruccio Damiani](http://www.di.unito.it/~damiani/) (University of Turin, Italy)
+
 <!--
+
 * [Silvia Lizeth Tapia Tarifa](https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html)  (University of Oslo, Norway) 
--->
+
 
 
 ## Program Committee (OLD 2021)
