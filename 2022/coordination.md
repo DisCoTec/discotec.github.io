@@ -96,10 +96,10 @@ COORDINATION 2022 is seeking for contributions that enable the cross-fertilisati
 
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
-<!--
 
 <ol>
 
+<!--
 
 <li>
     <p>Configurable Systems in the DevOps Era</p>
@@ -124,7 +124,7 @@ Maurice ter Beek (<a href="mailto:maurice.terbeek@isti.cnr.it">maurice.terbeek@i
 and Hugo Torres Vieira (<a href="mailto:hugo.torres.vieira@ubi.pt">hugo.torres.vieira@ubi.pt</a>)</p>
   </li>
 
-
+-->
 
   <li>
     <p>Microservices (in collaboration with the Microservices Community)</p>
@@ -175,10 +175,13 @@ behaviour are of paramount importance.</p>
     </div>
     <div style="clear: both;"></div>
     <p>Contacts: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) 
-and Larisa Safina (<a href="mailto:larisa.safina@inria.fr">larisa.safina@inria.fr</a>).</p>
+  <!--
+  and Larisa Safina (<a href="mailto:larisa.safina@inria.fr">larisa.safina@inria.fr</a>).
+  -->
+  </p>
   </li>
 
-
+<!--
 
   <li>
     <p>Techniques to reason about interacting digital contracts</p>
@@ -188,11 +191,6 @@ In the 2022 edition of COORDINATION, we are soliciting contributions on new prog
 
     <p>Contacts: Stephanie Balzer (<a href="mailto:balzers@cs.cmu.edu">balzers@cs.cmu.edu</a>) and Anastasia Mavridou (<a href="mailto:anastasia.mavridou@nasa.gov">anastasia.mavridou@nasa.gov</a>)</p>
   </li>
-
-
-
-
-
 
 
 </ol>
@@ -219,23 +217,22 @@ In the 2022 edition of COORDINATION, we are soliciting contributions on new prog
 <!-- 2. Techniques to reason about interacting digital contracts -->
 
 <!--    With the rise of blockchains and cryptocurrencies, digital contracts have become popular in the form of smart contracts, which encode a financial transaction between possibly distrusting parties using a distributed consensus protocol.  Although smart contracts bear the potential to benefit society quite fundamentally (e.g., equalize access to financial infrastructure, increase fairness), the benefits are shadowed by the existence of severe security vulnerabilities in deployed smart contracts and smart contract languages.  
-In the 2021 edition of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques. -->
+In the 2021 edition of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques. 
 
-<!--    Contacts: Stephanie Balzer ([balzers@cs.cmu.edu](mailto:balzers@cs.cmu.edu)) and Anastasia Mavridou ([anastasia.mavridou@nasa.gov](mailto:anastasia.mavridou@nasa.gov)) 
-
+    Contacts: Stephanie Balzer ([balzers@cs.cmu.edu](mailto:balzers@cs.cmu.edu)) and Anastasia Mavridou ([anastasia.mavridou@nasa.gov](mailto:anastasia.mavridou@nasa.gov)) 
+-->
 
 ### Tool papers
-
 
 We welcome tool papers that describe experience reports, technological artefacts and innovative prototypes 
 (including engines, APIs, etc.), for coordinating, modelling, analysing, simulating or testing systems, 
 as well as educational tools in the scope of the research topics of COORDINATION. 
 In addition, we welcome submissions promoting the integration of existing tools relevant to the community. 
+<!--
 **Submissions to the tool track must include a tool paper and a link to a demo video that previews the potential tool presentation at the conference. 
 Both the tool paper and the video will be decisive criteria in the selection process.** 
 Authors of accepted contributions 
-will be able (and encouraged) to extend their tool paper to a (regular) full paper before appearance
- in the conference proceedings, 
+will be able (and encouraged) to extend their tool paper to a (regular) full paper before appearance in the conference proceedings, 
 which will be subject to a lightweight revision process.
 
 -->
@@ -313,11 +310,11 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * [Maurice ter Beek](https://fmt.isti.cnr.it/~mtbeek/) (ISTI-CNR, IT)
 * [Marjan Sirjani](http://www.ru.is/faculty/marjan/) (Mälardalen University, SE)
 
+## Tool track chair 
+* [Ferruccio Damiani](http://www.di.unito.it/~damiani/) (University of Turin, Italy)
 <!--
-## Tool track chairs (OLD 2021)
-* [Giorgio Audrito](https://giorgio.audrito.info/#!/research) (University of Turin, Italy)
 * [Silvia Lizeth Tapia Tarifa](https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html)  (University of Oslo, Norway) 
-
+-->
 
 
 ## Program committee (OLD 2021)
