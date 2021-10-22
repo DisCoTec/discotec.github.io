@@ -148,7 +148,7 @@ behaviour are of paramount importance.</p>
   <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png">
 </a><div style="clear: both;"></div>
 
-<p>Contact: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>)</p> 
+<p>Contact: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>)
 and Fabrizio Montesi (<a href="mailto:fmontesi@imada.sdu.dk">fmontesi@imada.sdu.dk</a>)</p>
 
 </li>
