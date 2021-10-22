@@ -149,6 +149,7 @@ behaviour are of paramount importance.</p>
 </a><div style="clear: both;"></div>
 
 <p>Contact: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>)</p> 
+and Fabrizio Montesi (<a href="mailto:fmontesi@imada.sdu.dk">fmontesi@imada.sdu.dk</a>)</p>
 
 </li>
  
