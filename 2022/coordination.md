@@ -129,24 +129,25 @@ and Hugo Torres Vieira (<a href="mailto:hugo.torres.vieira@ubi.pt">hugo.torres.v
 <ul>
 
 <li>
- 
+
+<!--
+
 <p>Microservices (in collaboration with the Microservices Community)</p>
 
-<p style="float: left; width: 70%">Microservices are a novel architectural style, taking to an extreme
-the ideas of service oriented computing. In microservices, applications
-are composed by loosely coupled entities, the microservices. Beyond
-that, single microservices should be small enough to be easily managed,
-modified, and if needed removed and rewritten from scratch.
-Microservices aim at obtaining high flexibility, reconfigurability and
-scalability, thanks also to the exploitation of containerization
-technologies such as Docker. Given that microservice-based applications
-are composed by many loosely-coupled microservices, techniques allowing
-one to coordinate their execution in order to obtain the desired
-behaviour are of paramount importance.</p>
+-->
+ 
+<p>Microservices</p>
+ 
+<p style="float: left; width: 70%">The microservices architectural style is a recent paradigm that pushes the ideas of service-oriented computing to the extreme. In this style, applications are compositions of microservices: loosely-coupled entities that can be executed independently. A microservice should be small enough to be easily managed, modified, and if needed removed and rewritten from scratch. The aim is to obtain high flexibility, reconfigurability, and scalability, thanks also to the exploitation of container technologies (such as Docker). In this setting, coordination is essential: an application works only if the microservices coordinate well with each other, in order to reach their common goal. Establishing coordination techniques for obtaining the desired behaviour out of a system of microservices is therefore of the utmost importance.</p>
 &nbsp;
-<a style="float: right; width: 30%" href="https://microservices.community/e/discotec2020/">
+
+<!--
+ 
+ <a style="float: right; width: 30%" href="https://microservices.community/e/discotec2020/">
   <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png">
 </a><div style="clear: both;"></div>
+
+-->
 
 <p>Contacts: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>)
 and Fabrizio Montesi (<a href="mailto:fmontesi@imada.sdu.dk">fmontesi@imada.sdu.dk</a>)</p>
