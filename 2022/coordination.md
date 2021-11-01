@@ -376,6 +376,8 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Farhad Arbab (CWI and Leiden University, The Netherlands)
 * Simon Bliudze (INRIA Lille, France)
 * Laura Bocchi (University of Kent, UK)
+* Ferruccio Damiani (University of Turin, Italy)
+* Ornela Dardha (University of Glasgow, UK) 
 * Wolfgang De Meuter (Vrije Universiteit Brussels, Belgium)
 * Rocco De Nicola (IMT School for Advanced Studies Lucca, Italy)
 * Giovanna di Marzo Serugendo (Université de Genève, Switzerland)
