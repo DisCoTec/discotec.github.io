@@ -72,17 +72,18 @@ Microservices
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
 
-<!--
+
 ### Main topics of interest
 
 Topics of interest encompass all areas of coordination, including (but not limited to) coordination related aspects of:
-* Theoretical models and foundations for coordination: component   composition, concurrency, mobility, dynamic, spatial and probabilistic aspects of coordination, logic, emergent behaviour, types, semantics;
+* Theoretical models and foundations for coordination: component composition, concurrency, mobility, dynamic, spatial and probabilistic aspects of coordination, logic, emergent behaviour, types, semantics;
 * Specification, refinement, and analysis of architectures: patterns and styles, verification of functional and non-functional properties, including performance and security aspects;
 * Dynamic software architectures: distributed mobile code, configuration, reconfiguration, networked computing, parallel, high-performance and cloud computing;
 * Nature- and bio-inspired approaches to coordination;
-* Coordination of multiagent and collective systems: models, languages, infrastructures, self-adaptation, self-organisation, distributed solving, collective intelligence and emerging behaviour;
+* Coordination of multi-agent and collective systems: models, languages, infrastructures, self-adaptation, self-organisation, distributed solving, collective intelligence and emerging behaviour;
 * Coordination and modern distributed computing: web services, peer-to-peer networks, grid computing, context-awareness, ubiquitous computing, mobile computing;
-* Coordination platforms for infrastructures of emerging new application domains like IoT, fog- and edge-computing;
+* Coordination platforms for infrastructures of emergent new application domains like IoT, fog- and edge-computing;
+* Cybersecurity aspects of coordinated systems, coordinated approaches to cybersecurity;
 * Programming methodologies, languages, middleware, tools, and environments for the development and verification of coordinated applications;
 * Tools, languages and methodologies for secure coordination;
 * Industrial relevance of coordination and software architectures: programming in the large, domain-specific software architectures and coordination models, case studies;
@@ -91,14 +92,12 @@ Topics of interest encompass all areas of coordination, including (but not limit
 
 ### Special topics
 
-COORDINATION 2022 is seeking for contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
-
+We seek contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
 
+<!--
 
-
-<ol>
-
+<ul>
 
 <li>
     <p>Configurable Systems in the DevOps Era</p>
@@ -123,32 +122,53 @@ Maurice ter Beek (<a href="mailto:maurice.terbeek@isti.cnr.it">maurice.terbeek@i
 and Hugo Torres Vieira (<a href="mailto:hugo.torres.vieira@ubi.pt">hugo.torres.vieira@ubi.pt</a>)</p>
   </li>
 
-
-
   <li>
-    <p>Microservices (in collaboration with the Microservices Community)</p>
 
-    <p style="float: left; width: 63%">Microservices are a novel architectural style, taking to an extreme
-the ideas of service oriented computing. In microservices, applications
-are composed by loosely coupled entities, the microservices. Beyond
-that, single microservices should be small enough to be easily managed,
-modified, and if needed removed and rewritten from scratch.
-Microservices aim at obtaining high flexibility, reconfigurability and
-scalability, thanks also to the exploitation of containerization
-technologies such as Docker. Given that microservice-based applications
-are composed by many loosely-coupled microservices, techniques allowing
-one to coordinate their execution in order to obtain the desired
-behaviour are of paramount importance.</p>
+-->
+
+<ul>
+
+<li>
+
+<!--
+
+<p>Microservices (in collaboration with the Microservices Community)</p>
+
+-->
+ 
+<p>Microservices</p>
+ 
+<p style="float: left; width: 70%">The microservices architectural style is a recent paradigm that pushes the ideas of service-oriented computing to the extreme. In this style, applications are compositions of microservices: loosely-coupled entities that can be executed independently. A microservice should be small enough to be easily managed, modified, and if needed removed and rewritten from scratch. The aim is to obtain high flexibility, reconfigurability, and scalability, thanks also to the exploitation of container technologies (such as Docker). In this setting, coordination is essential: an application works only if the microservices coordinate well with each other, in order to reach their common goal. Establishing coordination techniques for obtaining the desired behaviour out of a system of microservices is therefore of the utmost importance.</p>
+&nbsp;
+
+<!--
+ 
+ <a style="float: right; width: 30%" href="https://microservices.community/e/discotec2020/">
+  <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png">
+</a>
+
+-->
+
+<div style="clear: both;"></div>
+
+<p>Contacts: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>)
+and Fabrizio Montesi (<a href="mailto:fmontesi@imada.sdu.dk">fmontesi@imada.sdu.dk</a>)</p>
+
+</li>
+ 
+</ul>
+
+<!--
 
     <div class="pb-3" style="float:left">
       <div class="container">
         <div class="row">
           <div class="col-3">
             <a href="https://microservices.community/e/discotec2020/">
-            <img class="img-responsive align-middle" alt="Microservices Community Badge" src="https://www.microservices.community/assets/images/badges/1-black.png">
+            <img class="img-responsive align-middle" alt="Microservices Community Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="500px">
             </a>
           </div>
-          <div class="col-9">
+            <div class="col-9">
             <div class="small border" style="padding: 5px;">
               <p><strong>Other events organised by the Microservices Community</strong></p>
               <p>
@@ -173,11 +193,12 @@ behaviour are of paramount importance.</p>
       </div>
     </div>
     <div style="clear: both;"></div>
-    <p>Contacts: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) 
-and Larisa Safina (<a href="mailto:larisa.safina@inria.fr">larisa.safina@inria.fr</a>).</p>
+
+    <p style="float: left; width: 70%">Contact: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) 
+     and Larisa Safina (<a href="mailto:larisa.safina@inria.fr">larisa.safina@inria.fr</a>).
+  </p>
+
   </li>
-
-
 
   <li>
     <p>Techniques to reason about interacting digital contracts</p>
@@ -188,15 +209,9 @@ In the 2022 edition of COORDINATION, we are soliciting contributions on new prog
     <p>Contacts: Stephanie Balzer (<a href="mailto:balzers@cs.cmu.edu">balzers@cs.cmu.edu</a>) and Anastasia Mavridou (<a href="mailto:anastasia.mavridou@nasa.gov">anastasia.mavridou@nasa.gov</a>)</p>
   </li>
 
+</ul>
 
-
-
-
-
-
-</ol>
 -->
-
 
 <!-- 1. Microservices (in collaboration with the Microservices Community) -->
 
@@ -218,27 +233,26 @@ In the 2022 edition of COORDINATION, we are soliciting contributions on new prog
 <!-- 2. Techniques to reason about interacting digital contracts -->
 
 <!--    With the rise of blockchains and cryptocurrencies, digital contracts have become popular in the form of smart contracts, which encode a financial transaction between possibly distrusting parties using a distributed consensus protocol.  Although smart contracts bear the potential to benefit society quite fundamentally (e.g., equalize access to financial infrastructure, increase fairness), the benefits are shadowed by the existence of severe security vulnerabilities in deployed smart contracts and smart contract languages.  
-In the 2021 edition of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques. -->
+In the 2021 edition of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques. 
 
-<!--    Contacts: Stephanie Balzer ([balzers@cs.cmu.edu](mailto:balzers@cs.cmu.edu)) and Anastasia Mavridou ([anastasia.mavridou@nasa.gov](mailto:anastasia.mavridou@nasa.gov)) 
-
+    Contacts: Stephanie Balzer ([balzers@cs.cmu.edu](mailto:balzers@cs.cmu.edu)) and Anastasia Mavridou ([anastasia.mavridou@nasa.gov](mailto:anastasia.mavridou@nasa.gov)) 
+-->
 
 ### Tool papers
-
 
 We welcome tool papers that describe experience reports, technological artefacts and innovative prototypes 
 (including engines, APIs, etc.), for coordinating, modelling, analysing, simulating or testing systems, 
 as well as educational tools in the scope of the research topics of COORDINATION. 
 In addition, we welcome submissions promoting the integration of existing tools relevant to the community. 
+
+<!--
 **Submissions to the tool track must include a tool paper and a link to a demo video that previews the potential tool presentation at the conference. 
 Both the tool paper and the video will be decisive criteria in the selection process.** 
 Authors of accepted contributions 
-will be able (and encouraged) to extend their tool paper to a (regular) full paper before appearance
- in the conference proceedings, 
+will be able (and encouraged) to extend their tool paper to a (regular) full paper before appearance in the conference proceedings, 
 which will be subject to a lightweight revision process.
 
--->
-<!--We welcome tool papers that describe technological artefacts, including innovative prototypes, for modelling, analysing, simulating or testing systems in the scope of the research topics of COORDINATION. **Submissions must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process.** Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process. A dedicated special issue for accepted contributions is being planned.
+We welcome tool papers that describe technological artefacts, including innovative prototypes, for modelling, analysing, simulating or testing systems in the scope of the research topics of COORDINATION. **Submissions must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process.** Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process. A dedicated special issue for accepted contributions is being planned.
 Tool papers presenting coordination APIs, allowing the broad community to easily utilise provided coordination mechanisms are particularly welcome. 
 
 Interested authors can contact the tool track chairs for details.
@@ -280,7 +294,7 @@ to make their artefacts publicly available using permanent repositories such as 
 
 The conference proceedings, formed by accepted submissions will be published by Springer in the LNCS Series.
 
-### Special Issues
+### Special issues
 
 Following the tradition of previous editions of COORDINATION, 
 according to the quality and number of the submission, 
@@ -297,7 +311,7 @@ in Science of Computer Programming
 Special issues for last year's edition are under preparation (we will advertise them here).
 
 
-### Special Issues
+### Special issues
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org) and a separate special issue dedicated to tool papers is being planned. Special issues for last year's edition are under preparation in [**Logical Methods in Computer Science**](https://lmcs.episciences.org) for selected research papers, and in [**Science of Computer Programming**](https://www.journals.elsevier.com/science-of-computer-programming) for selected tool papers (as a collection of [**Original Software Publications**](https://www.elsevier.com/authors/author-resources/research-elements/software-articles/original-software-publications).
 -->
 
@@ -308,18 +322,20 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ...
 -->
 
-## Program committee chairs 
+## Program Committee chairs 
+* [Maurice ter Beek](https://fmt.isti.cnr.it/~mtbeek/) (ISTI-CNR, Pisa, IT)
 * [Marjan Sirjani](http://www.ru.is/faculty/marjan/) (Mälardalen University, SE)
-* [Maurice ter Beek](https://fmt.isti.cnr.it/~mtbeek/) (ISTI-CNR, IT)
+
+## Tool track chair 
+* [Ferruccio Damiani](http://www.di.unito.it/~damiani/) (University of Turin, Italy)
 
 <!--
-## Tool track chairs (OLD 2021)
-* [Giorgio Audrito](https://giorgio.audrito.info/#!/research) (University of Turin, Italy)
+
 * [Silvia Lizeth Tapia Tarifa](https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html)  (University of Oslo, Norway) 
 
 
 
-## Program committee (OLD 2021)
+## Program Committee (OLD 2021)
 * Zena M. Ariola (University of Oregon, USA)
 * Robert Atkey (University of Strathclyde, UK)
 * Giorgio Audrito (University of Turin, Italy)
@@ -355,30 +371,32 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
  
 
 
-## Steering committee
+## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
 * Farhad Arbab (CWI and Leiden University, The Netherlands)
-* Simon Bliudze (Inria Lille - Nord Europe, France)
+* Simon Bliudze (INRIA Lille, France)
 * Laura Bocchi (University of Kent, UK)
+* Ferruccio Damiani (University of Turin, Italy)
+* Ornela Dardha (University of Glasgow, UK) 
 * Wolfgang De Meuter (Vrije Universiteit Brussels, Belgium)
-* Rocco De Nicola (IMT - School for Advanced Studies Lucca, Italy)
+* Rocco De Nicola (IMT School for Advanced Studies Lucca, Italy)
 * Giovanna di Marzo Serugendo (Université de Genève, Switzerland)
 * Tom Holvoet (KU Leuven, Belgium)
 * Jean-Marie Jacquet (University of Namur, Belgium)
-* Christine Julien (The University of Texas at Austin, USA)
+* Christine Julien (University of Texas at Austin, USA)
 * eva Kühn (Vienna University of Technology, Austria)
-* Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
-* Michele Loreti (University of Camerino, Italy)
-* Mieke Massink (ISTI CNR, Italy) - Chair
+* Alberto Lluch Lafuente (Technical University of Denmark)
+* Michele Loreti (Università di Camerino, Italy)
+* Mieke Massink (ISTI-CNR, Pisa, Italy) - Chair
 * José Proença (CISTER, ISEP, Portugal)
-* Rosario Pugliese, Università di Firenze, Italy
-* Hanne Riis Nielson, DTU, Denmark
+* Rosario Pugliese (Università di Firenze, Italy)
+* Hanne Riis Nielson (Technical University of Denmark)
 * Marjan Sirjani (Mälardalen University, Sweden)
 * Carolyn Talcott (SRI International, California, USA)
 * Emilio Tuosto (Gran Sasso Science Institute, Italy)
 * Vasco T. Vasconcelos (University of Lisbon, Portugal)
-* Mirko Viroli (Alma Mater Studiorum - Università di Bologna, Italy)
-* Gianluigi Zavattaro (Alma Mater Studiorum - Università di Bologna, Italy)
+* Mirko Viroli (Università di Bologna, Italy)
+* Gianluigi Zavattaro (Università di Bologna, Italy)
 
 
 
