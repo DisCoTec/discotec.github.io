@@ -9,7 +9,7 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 ranging from theoretical foundations and formal description techniques to systems
 research issues. 
 
-DisCoTec 2022 will take place at [IMT School for Advanced Studies](http://www.imtlucca.it/en) in June 13-18, 2022.
+[DisCoTec 2022](http://www.discotec.org/2022) will take place at [IMT School for Advanced Studies](http://www.imtlucca.it/en) in June 13-18, 2022.
 
 ## Steering Committee
 * Gianluigi Zavattaro (University of Bologna, Italy) 
@@ -40,7 +40,7 @@ DisCoTec 2022 will take place at [IMT School for Advanced Studies](http://www.im
 
 
 ## DisCoTec editions
-* DisCoTec 2022 - Lucca, Italy 
+* [DisCoTec 2022](http://www.discotec.org/2022) - Lucca, Italy 
 * [DisCoTec 2021](http://www.discotec.org/2021) - Malta (Virtual)
 * [DisCoTec 2020](http://www.discotec.org/2020) - Malta (Virtual)
 * [DisCoTec 2019](http://www.discotec.org/2019) - Kongens Lyngby, Denmark
