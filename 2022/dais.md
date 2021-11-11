@@ -1,4 +1,4 @@
-<!-- [![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2021/) -->
+[![](discotec2022-banner.jpeg)](https://www.discotec.org/2022/)
 
 # DAIS 2022 - 22nd International Conference on Distributed Applications and Interoperable Systems
 

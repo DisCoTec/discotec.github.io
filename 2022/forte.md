@@ -1,4 +1,4 @@
-<!-- [![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2021/) -->
+[![](discotec2022-banner.jpeg)](https://www.discotec.org/2022/)
 
 # FORTE 2022 - 42nd International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 

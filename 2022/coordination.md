@@ -1,4 +1,4 @@
-<!-- [![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2021/) -->
+[![](discotec2022-banner.jpeg)](https://www.discotec.org/2022/)
 
 # COORDINATION 2022 - 24th International Conference on Coordination Models and Languages
 
