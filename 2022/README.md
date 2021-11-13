@@ -128,9 +128,10 @@ The individual conferences will organise special issues of extended and selected
 
 ## Organising Committee
 * [Rocco De Nicola][RoccoWeb] (IMT School for Advanced Studies, IT — General Chair)
-* [Letterio Galletta][LilloWeb] (IMT School for Advanced Studies, IT — Local Organising Committee Chair)
+* [Letterio Galletta][LilloWeb] (IMT School for Advanced Studies, IT — Chair of the Local Organizing Committee)
 * [Marinella Petrocchi][MarinellaWeb] (IIT-CNR, IT)
 * [Simone Soderi][SimoneWeb] (IMT School for Advanced Studies, IT)
+* [Francesco Tiezzi][FrancescoWeb] (University of Florence, IT — Workshops Chair)
 
 <!-- * [Duncan Attard][DuncanWeb] (University of Malta, MT — Workshops Chair)
 * [Christian Bartolo Burlo][ChristianWeb] (Gran Sasso Science Institute, IT — Workshops Chair)
@@ -146,6 +147,7 @@ The individual conferences will organise special issues of extended and selected
 [AnnaWeb]: https://www.cs.ucy.ac.cy/~annap/
 [DavidWeb]: https://www.otago.ac.nz/computer-science/people/David_Eyers.html
 [SpyrosWeb]: https://acropolis.aueb.gr/~spyros/www/
+[FrancescoWeb]: https://tiezzi.unicam.it/
 
 [DuncanWeb]: https://github.com/duncanatt
 [JasmineWeb]: https://github.com/jasmine97xuereb
