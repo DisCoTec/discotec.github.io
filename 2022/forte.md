@@ -155,6 +155,7 @@ TBA
 * Jean-Bernard Stefani (INRIA, France)
 * Nobuko Yoshida (Imperial College London, UK)
 * Heike Wehrheim (Paderborn University, Germany)
+* Tim Willemse (Eindhoven University of Technology, The Netherlands)
 
 ## More Information
 For additional information, please contact the Program Committee Co-chairs: forte22 at easychair dot org
