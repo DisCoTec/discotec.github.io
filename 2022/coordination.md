@@ -130,24 +130,14 @@ and Hugo Torres Vieira (<a href="mailto:hugo.torres.vieira@ubi.pt">hugo.torres.v
 
 <li>
 
-<!--
-
 <p>Microservices (in collaboration with the Microservices Community)</p>
-
--->
- 
-<p>Microservices</p>
  
 <p style="float: left; width: 70%">The microservices architectural style is a recent paradigm that pushes the ideas of service-oriented computing to the extreme. In this style, applications are compositions of microservices: loosely-coupled entities that can be executed independently. A microservice should be small enough to be easily managed, modified, and if needed removed and rewritten from scratch. The aim is to obtain high flexibility, reconfigurability, and scalability, thanks also to the exploitation of container technologies (such as Docker). In this setting, coordination is essential: an application works only if the microservices coordinate well with each other, in order to reach their common goal. Establishing coordination techniques for obtaining the desired behaviour out of a system of microservices is therefore of the utmost importance.</p>
 &nbsp;
-
-<!--
  
  <a style="float: right; width: 30%" href="https://microservices.community/e/discotec2020/">
   <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png">
 </a>
-
--->
 
 <div style="clear: both;"></div>
 
