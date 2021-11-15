@@ -346,6 +346,17 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Emilio Tuosto (Gran Sasso Science Institute, Italy)
 * Mirko Viroli (University of Bologna, Italy)
 
+## Artefact Evaluation Committee
+* Giovanni Fabbretti (INRIA, France)
+* Roberto Casadei (University of Bologna, Italy)
+* Lorenzo Rossi (University of Camerino, Italy)
+* Fabrizio Fornari (University of Camerino, Italy)
+* Guillermina Cledou (University of Minho, Portugal)
+* Danilo Pianini (University of Bologna, Italy)
+* Giorgio Audrito (University of Torino, Italy)
+* Larisa Safina (INRIA, France)
+* Gianluca Aguzzi (University of Bologna)
+
 ## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
 * Farhad Arbab (CWI and Leiden University, The Netherlands)
