@@ -73,7 +73,7 @@ Microservices
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
 
 
-### Main topics of interest
+### Main topics
 
 Topics of interest encompass all areas of coordination, including (but not limited to) coordination related aspects of:
 * Theoretical models and foundations for coordination: component composition, concurrency, mobility, dynamic, spatial and probabilistic aspects of coordination, logic, emergent behaviour, types, semantics;
@@ -90,7 +90,7 @@ Topics of interest encompass all areas of coordination, including (but not limit
 * Interdisciplinary aspects of coordination;
 * Industry-led efforts in coordination and case studies.
 
-### Special topics
+### Special topic
 
 We seek contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
 Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
@@ -318,47 +318,33 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ## Tool track chair 
 * [Ferruccio Damiani](http://www.di.unito.it/~damiani/) (University of Turin, Italy)
 
-<!--
-
-* [Silvia Lizeth Tapia Tarifa](https://www.mn.uio.no/ifi/english/people/aca/sltarifa/index.html)  (University of Oslo, Norway) 
-
-
-
-## Program Committee (OLD 2021)
-* Zena M. Ariola (University of Oregon, USA)
-* Robert Atkey (University of Strathclyde, UK)
-* Giorgio Audrito (University of Turin, Italy)
-* Stephanie Balzer (CMU, USA)
-* Maurice H. ter Beek (CNR-ISTI, Italy)
-* Simon Bliudze (Inria Lille - Nord Europe, France)
-* Laura Bocchi (University of Kent, UK)
-* Roberto Casadei (Alma Mater Studiorum - Università di Bologna, Italy)
+## Program Committee 
+* Erika Ábrahám (RWTH Aachen University, Germany)
+* Davide Basile (ISTI-CNR, Italy)                                      
+* Simon Bliudze (INRIA, France)
+* Marcello Bonsangue (Leiden University, The Netherlands)
+* Ornela Dardha (University of Glasgow, UK)
+* Patricia Derler (National Instruments, USA)
+* Adrian Francalanza (University of Malta, Malta)
 * Vashti Galpin (University of Edinburgh, UK)
 * Fatemeh Ghassemi (University of Tehran, Iran)
-* Elisa Gonzalez Boix (Vrije Universiteit Brussel, Belgium)
-* Omar Inverso (Gran Sasso Science Institute, Italy)
-* Jean-Marie Jacquet (University of Namur, Belgium)
+* Einar Broch Johnsen (University of Oslo, Norway)
+* Christine Julien (University of Texas at Austin, USA)
+* Narges Khakpour (Linnaeus University, Sweden)
 * eva Kühn (Vienna University of Technology, Austria)
 * Ivan Lanese (University of Bologna, Italy)
-* Alberto Lluch Lafuente (DTU, Denmark)
+* Alberto Lluch Lafuente (Technical University of Denmark)
 * Michele Loreti (University of Camerino, Italy)
-* Mieke Massink (CNR-ISTI, Italy)
-* Anastasia Mavridou (NASA Ames Research Center, USA)
-* Hernan Melgratti (Universidad de Buenos Aires, Argentina)
-* Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
-* Larisa Safina (Inria - Lille Nord Europe, France)
-* Gwen Salaün (Université Grenoble Alpes, France)
+* Mieke Massink (ISTI-CNR, Italy)
+* Hernán Melgratti (University of Buenos Aires, Argentina)
+* Fabrizio Montesi (University of Southern Denmark)
+* José Proença (Polytechnic Institute of Porto, Portugal)
+* Rosario Pugliese (University of Florence, Italy)
+* Cristina Seceleanu (Mälardalen University, Sweden)
 * Meng Sun (Peking University, China)
-* Vasco T. Vasconcelos (University of Lisbon, Portugal)
-* Carolyn Talcott (SRI International, California, USA)
-* Silvia Lizeth Tapia Tarifa (University of Oslo, Norway)
-* Peter Thieman (Universität Freiburg, Germany)
-* Hugo Torres Vieira (C4 - Universidade da Beira Interior, Portugal)
-* Tarmo Uustalu (Reykjavik University, Iceland)
--->
- 
- 
-
+* Carolyn Talcott (SRI International, USA)
+* Emilio Tuosto (Gran Sasso Science Institute, Italy)
+* Mirko Viroli (University of Bologna, Italy)
 
 ## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
