@@ -312,8 +312,8 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 -->
 
 ## Program Committee chairs 
-* [Maurice ter Beek](https://fmt.isti.cnr.it/~mtbeek/) (ISTI-CNR, Pisa, IT)
-* [Marjan Sirjani](http://www.ru.is/faculty/marjan/) (Mälardalen University, SE)
+* [Maurice ter Beek](https://fmt.isti.cnr.it/~mtbeek/) (ISTI-CNR, Pisa, Italy)
+* [Marjan Sirjani](http://www.ru.is/faculty/marjan/) (Mälardalen University, Sweden)
 
 ## Tool track chair 
 * [Ferruccio Damiani](http://www.di.unito.it/~damiani/) (University of Turin, Italy)
@@ -362,7 +362,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * eva Kühn (Vienna University of Technology, Austria)
 * Alberto Lluch Lafuente (Technical University of Denmark)
 * Michele Loreti (Università di Camerino, Italy)
-* Mieke Massink (ISTI-CNR, Pisa, Italy) - Chair
+* Mieke Massink (ISTI-CNR, Pisa, Italy) - chair
 * José Proença (CISTER, ISEP, Portugal)
 * Rosario Pugliese (Università di Firenze, Italy)
 * Hanne Riis Nielson (Technical University of Denmark)
