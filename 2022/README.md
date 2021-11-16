@@ -112,8 +112,8 @@ The individual conferences will organise special issues of extended and selected
 ## Scientific Committees 
 
 ### Coordination Program Committee Chairs
-* [Marjan Sirjani][MarjanWeb] (Mälardalen University, SE)
 * [Maurice ter Beek][MauriceWeb] (ISTI-CNR, IT)
+* [Marjan Sirjani][MarjanWeb] (Mälardalen University, SE)
 
 
 ### DAIS Program Committee Chairs 
