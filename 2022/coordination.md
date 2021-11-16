@@ -354,6 +354,7 @@ To be announced
 * Cristina Seceleanu (Mälardalen University, Sweden)
 * Meng Sun (Peking University, China)
 * Carolyn Talcott (SRI International, USA)
+* Hugo Torres Vieira (Evidence Srl, Italy)
 * Emilio Tuosto (Gran Sasso Science Institute, Italy)
 * Mirko Viroli (University of Bologna, Italy)
 
