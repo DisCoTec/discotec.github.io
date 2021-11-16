@@ -4,11 +4,13 @@
 
 COORDINATION 2022 is one of the three conferences of [DisCoTec 2022](https://www.discotec.org/2022/).
 
-## Keynote speaker
+## COVID-19
 
-to be announced
+We are monitoring the COVID-19 pandemic development and are prepared to run the conference virtually or in a hybrid fashion in the unfortunate situation that a physical conference is not feasible. The paper selection process will not be affected and LNCS proceedings will be prepared regardless of whether the conference is held physically, virtually or in a hybrid fashion.
 
 <!-- 
+
+## Keynote speaker
 
 * [Gilles Fedak](invited#gilles-fedak), iExec, FR
 * [Mira Mezini](invited#mira-mezini), Technical University of Darmstadt, DE
@@ -311,6 +313,14 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ...
 -->
+
+## EAPLS Artefact Badging 
+
+To improve and reward reproducibility and to give more visibility and credit to the effort of tool developers in our community, authors of accepted (regular and tool) papers will be invited to submit publicly available (using permanent repositories such as Zenodo, etc.) artefacts associated with their paper for evaluation, and based on the result of the evaluation they may be awarded one or more badges. See [EAPLS Artifact Badges](https://eapls.org/pages/artifact_badges/) for details. Artefact submission is optional and the result of the artefact evaluation will not alter the paper's acceptance decision. Detailed guidelines for the preparation and submission of the artefacts will be made available.  
+
+## Keynote speaker
+
+To be announced
 
 ## Program Committee chairs 
 * [Maurice ter Beek](https://fmt.isti.cnr.it/~mtbeek/) (ISTI-CNR, Pisa, Italy)
