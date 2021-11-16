@@ -7,6 +7,7 @@ COORDINATION 2022 is one of the three conferences of [DisCoTec 2022](https://www
 ## Keynote speaker
 
 to be announced
+
 <!-- 
 
 * [Gilles Fedak](invited#gilles-fedak), iExec, FR
