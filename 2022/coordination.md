@@ -4,14 +4,14 @@
 
 COORDINATION 2022 is one of the three conferences of [DisCoTec 2022](https://www.discotec.org/2022/).
 
+## Keynote speaker
+
+to be announced
 <!-- 
-## Keynote Speakers
 
 * [Gilles Fedak](invited#gilles-fedak), iExec, FR
 * [Mira Mezini](invited#mira-mezini), Technical University of Darmstadt, DE
 * [Alexandra Silva](invited#alexandra-silva), University College London, UK 
-
-
 
 
 
@@ -333,11 +333,11 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Narges Khakpour (Linnaeus University, Sweden)
 * eva Kühn (Vienna University of Technology, Austria)
 * Ivan Lanese (University of Bologna, Italy)
-* Alberto Lluch Lafuente (Technical University of Denmark)
+* Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
 * Michele Loreti (University of Camerino, Italy)
 * Mieke Massink (ISTI-CNR, Italy)
 * Hernán Melgratti (University of Buenos Aires, Argentina)
-* Fabrizio Montesi (University of Southern Denmark)
+* Fabrizio Montesi (University of Southern Denmark, Denmark)
 * José Proença (Polytechnic Institute of Porto, Portugal)
 * Rosario Pugliese (University of Florence, Italy)
 * Cristina Seceleanu (Mälardalen University, Sweden)
@@ -347,15 +347,15 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Mirko Viroli (University of Bologna, Italy)
 
 ## Artefact Evaluation Committee
-* Giovanni Fabbretti (INRIA, France)
-* Roberto Casadei (University of Bologna, Italy)
-* Lorenzo Rossi (University of Camerino, Italy)
-* Fabrizio Fornari (University of Camerino, Italy)
-* Guillermina Cledou (University of Minho, Portugal)
-* Danilo Pianini (University of Bologna, Italy)
-* Giorgio Audrito (University of Torino, Italy)
-* Larisa Safina (INRIA, France)
 * Gianluca Aguzzi (University of Bologna)
+* Giorgio Audrito (University of Torino, Italy)
+* Roberto Casadei (University of Bologna, Italy)
+* Guillermina Cledou (University of Minho, Portugal)
+* Giovanni Fabbretti (INRIA, France)
+* Fabrizio Fornari (University of Camerino, Italy)
+* Danilo Pianini (University of Bologna, Italy)
+* Lorenzo Rossi (University of Camerino, Italy)
+* Larisa Safina (INRIA, France)
 
 ## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
@@ -371,12 +371,12 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Jean-Marie Jacquet (University of Namur, Belgium)
 * Christine Julien (University of Texas at Austin, USA)
 * eva Kühn (Vienna University of Technology, Austria)
-* Alberto Lluch Lafuente (Technical University of Denmark)
+* Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
 * Michele Loreti (Università di Camerino, Italy)
 * Mieke Massink (ISTI-CNR, Pisa, Italy) - chair
 * José Proença (CISTER, ISEP, Portugal)
 * Rosario Pugliese (Università di Firenze, Italy)
-* Hanne Riis Nielson (Technical University of Denmark)
+* Hanne Riis Nielson (Technical University of Denmark, Denmark)
 * Marjan Sirjani (Mälardalen University, Sweden)
 * Carolyn Talcott (SRI International, California, USA)
 * Emilio Tuosto (Gran Sasso Science Institute, Italy)
