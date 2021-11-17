@@ -329,6 +329,9 @@ To be announced
 ## Tool track chair 
 * [Ferruccio Damiani](http://www.di.unito.it/~damiani/) (University of Turin, Italy)
 
+## Publicity chair
+* [Giorgio Audrito](https://www.unito.it/persone/gaudrito) (University of Torino, Italy)
+
 ## Program Committee 
 * Erika Ábrahám (RWTH Aachen University, Germany)
 * Davide Basile (ISTI-CNR, Italy)                                      
