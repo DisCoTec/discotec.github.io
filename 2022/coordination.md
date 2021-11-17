@@ -359,7 +359,7 @@ To be announced
 * Mirko Viroli (University of Bologna, Italy)
 
 ## Artefact Evaluation Committee
-* Gianluca Aguzzi (University of Bologna)
+* Gianluca Aguzzi (University of Bologna, Italy)
 * Giorgio Audrito (University of Torino, Italy)
 * Roberto Casadei (University of Bologna, Italy)
 * Guillermina Cledou (University of Minho, Portugal)
