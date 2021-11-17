@@ -12,11 +12,14 @@ Interaction and Concurrency Experiences (ICE) is a series of international scien
   * ICE welcomes full papers to be included in the proceedings
   * ICE also welcomes oral communications of already published or preliminary work
   * Invited speakers: TBA
+
 <!--  
       - [Laura Bocchi](https://www.kent.ac.uk/computing/people/3119/bocchi-laura) (University of Kent, UK)
-      - [Helene Coullon](http://helene-coullon.fr/) (IMT Atlantique, FR) -->
+      - [Helene Coullon](http://helene-coullon.fr/) (IMT Atlantique, FR) 
+-->
   * Publication in [EPTCS](https://eptcs.org/)
   * Special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier) _(to be confirmed)_
+
 <!--
 ## Accepted papers and oral communications
 
@@ -57,6 +60,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 ## Important dates
 TBA
+
 <!--
   * ~~15 April 2021~~ **1 May 2021**: abstract submission **(extended!)**
   * ~~19 April 2021~~ **5 May 2021**: paper submission **(extended!)**
@@ -118,6 +122,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 ## Programme Committee
 TBA
+
 <!--
   * Massimo Bartoletti (University of Cagliari, IT)
   * Chiara Bodei (Università di Pisa, IT)
