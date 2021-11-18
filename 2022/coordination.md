@@ -371,7 +371,8 @@ To be announced
 * Danilo Pianini (University of Bologna, Italy)
 * Lorenzo Rossi (University of Camerino, Italy)
 * Larisa Safina (INRIA, France)
-
+* Alceste Scalas (Technical University of Denmark, Denmark)
+ 
 ## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
 * Farhad Arbab (CWI and Leiden University, The Netherlands)
