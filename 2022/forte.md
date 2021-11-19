@@ -86,7 +86,7 @@ Topics of interest include but are not limited to:
 See the [DisCoTec submission dates](https://www.discotec.org/2022/#important-dates).
 
 ### Submission Guidelines
-Contributions must be written in English according to one of the three categories described below. They should report on original, unpublished work, not submitted for publication elsewhere (cf. [IFIP codes of conduct](http://www.ifip.org/index.php?option=com_content&task=view&id=219&Itemid=564), under Links).
+Contributions must be written in English according to one of the three categories described below. Excluded journal-first papers, they should report on original, unpublished work, not submitted for publication elsewhere (cf. [IFIP codes of conduct](http://www.ifip.org/index.php?option=com_content&task=view&id=219&Itemid=564), under Links).
 
 Submissions must be prepared as a PDF using Springer’s LNCS style. Submissions not adhering to the specified constraints of their respective category may be rejected without review.
 
@@ -125,21 +125,46 @@ Notice that *short* and *journal-first* papers must be explicitly marked as such
 
 ### Publication
 All accepted papers, including short papers and journal-first submissions, will be published in the FORTE 2022 formal proceedings, which will appear in Springer's LNCS-IFIP volume series.
-
+As such, they will be accessible free of charge from the [IFIP Digital Library](https://dl.ifip.org/) after a 3 years embargo.
 
 ### Special Issue
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
 
 ## Submission Link
-....
+https://easychair.org/conferences/?conf=forte2022
 
 ## Program committee chairs 
-* [Mohammad Mousavi](https://www.nms.kcl.ac.uk/mohammad.mousavi/) (King's College London, UK)
-* [Anna Philippou](https://www.cs.ucy.ac.cy/~annap/) (University of Cyprus, Cy)
+* [Mohammad Mousavi](https://www.nms.kcl.ac.uk/mohammad.mousavi/), King's College London, UK
+* [Anna Philippou](https://www.cs.ucy.ac.cy/~annap/), University of Cyprus, Cyprus
 
 ## Program committee members 
-TBA
-
+* Étienne André, Université de Lorraine, CNRS, Inria, France    
+* Nathalie Bertrand, INRIA Rennes Bretagne-Atlantique, France 
+* Georgiana Caltais, University of Konstanz, Germany 
+* Yu-Fang Chen, Academia Sinica, China
+* Louise Dennis, University of Manchester, UK
+* Adrian Francalanza, University of Malta, Malta
+* Hubert Garavel, Inria, France 
+* Fatemeh Ghassemi, University of Tehran, Iran 
+* Ebru Aydın Göl, Middle East Technical University, Turkey 
+* Ákos Hajdu, Budapest University of Technology and Economics, Hungary
+* Arnd Hartmanns, University of Twente, The Netherlands
+* Marieke Huisman, University of Twente, The Netherlands
+* Peter Höfner, Australian National University, Australia
+* Wen Kokke,  University of Edinburgh, Scotland, UK
+* Barbara  König, University of Duisburg-Essen, Germany 
+* Annabelle McIver, Macquarie University, Australia
+* Massimo  Merro, University of Verona, Italy
+* Claudio Mezzina, Università di Urbino, Italy
+* Catuscia Palamidessi, École Polytechnique, France 
+* Kirstin Peters, TU Darmstadt, Germany
+* Sanjiva Prasad, Indian Institute of Technology Delhi, India
+* António Ravara, Universidade Nova de Lisboa, Portugal
+* Ana Sokolova, University of Salzburg, Austria
+* Mahsa Varshosaz, IT University of Copenhagen, Denmark
+* Mahesh Viswanathan, University of Illinois, USA 
+* Tim Willemse, Eindhoven University of Technology, The Netherlands
+* Ingrid Chieh Yu, University of Oslo, Norway
 
 ## Steering committee
 * Ahmed Bouajjani (University Paris Diderot, France)

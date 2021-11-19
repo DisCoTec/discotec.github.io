@@ -6,10 +6,11 @@
 
 
 
-DisCoTec 2022 will take place at the [IMT School for Advanced Studies](http://www.imtlucca.it/en), Lucca, between June 13-18, 2022.  
+DisCoTec 2022 will take place at the [IMT School for Advanced Studies](http://www.imtlucca.it/en), Lucca, between June 13-17, 2022.  
 
-<!--*COVID-19:* We are continually monitoring the current COVID-19 situation. Depending on how this unfolds in the coming months, we may decide to switch to an online event, although we plan to be able to organise a physical event. In the latter case, we would be happy to support remote presentations as well should participants be unable to travel safely.
+**COVID-19:** We are monitoring the COVID-19 pandemic development. Depending on how this unfolds in the coming months, we are prepared to run the conference virtually or in a hybrid fashion in the unfortunate situation that a physical conference is not feasible. In the latter case, we would be happy to support remote presentations as well should participants be unable to travel safely.
 
+<!--
 Due to the current COVID-19 developments, the conference is still hosted by the [University of Malta](http://www.um.edu.mt) but it will be held **online**.  Instead of physical meeting/presentations, the authors of accepted papers have recorded their talks to discuss them with the conference participants online.-->
 
  
@@ -43,6 +44,16 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 * [DAIS 2022](https://www.discotec.org/2022/dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2022](https://www.discotec.org/2022/forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
+
+
+### Important Dates
+* **Abstract submission:** January 28, 2022
+* **Paper submission:** February 4, 2022
+* **Paper notification:** March 25, 2022
+* **Camera-ready:** April 24, 2022
+* **DisCoTec conference:** June 13-17, 2022
+
+
 <!--
 ## Satellite Events
 
@@ -60,9 +71,6 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 
 
 
-
-### Important Dates
-TBA
 
 
 
