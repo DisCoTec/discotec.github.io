@@ -140,6 +140,7 @@ The individual conferences will organise special issues of extended and selected
 * [Marinella Petrocchi][MarinellaWeb] (IIT-CNR, IT)
 * [Simone Soderi][SimoneWeb] (IMT School for Advanced Studies, IT)
 * [Francesco Tiezzi][FrancescoWeb] (University of Florence, IT — Workshops Chair)
+* [Giorgio Audrito][GiogioWeb] (University of Torino, IT — Publicity chair)
 
 <!-- * [Duncan Attard][DuncanWeb] (University of Malta, MT — Workshops Chair)
 * [Christian Bartolo Burlo][ChristianWeb] (Gran Sasso Science Institute, IT — Workshops Chair)
@@ -156,6 +157,7 @@ The individual conferences will organise special issues of extended and selected
 [DavidWeb]: https://www.otago.ac.nz/computer-science/people/David_Eyers.html
 [SpyrosWeb]: https://acropolis.aueb.gr/~spyros/www/
 [FrancescoWeb]: https://tiezzi.unicam.it/
+[GiogioWeb]: https://www.unito.it/persone/gaudrito
 
 [DuncanWeb]: https://github.com/duncanatt
 [JasmineWeb]: https://github.com/jasmine97xuereb
