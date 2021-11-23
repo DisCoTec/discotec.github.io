@@ -316,7 +316,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ## EAPLS Artefact Badging 
 
-To improve and reward reproducibility and to give more visibility and credit to the effort of tool developers in our community, authors of accepted (regular and tool) papers will be invited to submit publicly available (using permanent repositories such as Zenodo, etc.) artefacts associated with their paper for evaluation, and based on the result of the evaluation they may be awarded one or more badges. See [EAPLS Artifact Badges](https://eapls.org/pages/artifact_badges/) for details. Artefact submission is optional and the result of the artefact evaluation will not alter the paper's acceptance decision. Detailed guidelines for the preparation and submission of the artefacts will be made available.  
+To improve and reward reproducibility and to give more visibility and credit to the effort of tool developers in our community, authors of accepted (regular and tool) papers will be invited to submit publicly available (using permanent repositories such as Software Heritage, Zenodo, etc.) artefacts associated with their paper for evaluation, and based on the result of the evaluation they may be awarded one or more badges. See [EAPLS Artifact Badges](https://eapls.org/pages/artifact_badges/) for details. Artefact submission is optional and the result of the artefact evaluation will not alter the paper's acceptance decision. Detailed guidelines for the preparation and submission of the artefacts will be made available.  
 
 ## Keynote speaker
 
