@@ -150,7 +150,7 @@ The individual conferences will organise special issues of extended and selected
 [LilloWeb]: https://sysma.imtlucca.it/pages/letterio-galletta/
 [MarinellaWeb]: https://marinellapetrocchi.wixsite.com/mysite
 [SimoneWeb]: https://sysma.imtlucca.it/pages/simone-soderi/
-[MarjanWeb]: http://www.ru.is/faculty/marjan/
+[MarjanWeb]: http://www.es.mdh.se/staff/3242-Marjan_Sirjani
 [MauriceWeb]: https://fmt.isti.cnr.it/~mtbeek/
 [MohammadWeb]: https://www.nms.kcl.ac.uk/mohammad.mousavi/
 [AnnaWeb]: https://www.cs.ucy.ac.cy/~annap/
