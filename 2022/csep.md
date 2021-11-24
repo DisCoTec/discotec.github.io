@@ -37,7 +37,7 @@ The submission and notification deadlines of the workshops are at the discretion
 
 **Submission**
 Workshop proposals can be submitted to the Workshop Chair via the following form:
-https://forms.gle/TDAfKLT7q6rHvveM7
+<https://forms.gle/TDAfKLT7q6rHvveM7>
 
 
 ## Tutorials 
@@ -62,7 +62,7 @@ A tutorial proposal must include the following information:
 
 **Submission**
 Tutorial proposals can be submitted to the Workshops and Tutorials Chair via the following form:
-https://forms.gle/U8Ki5rQEYZJCjB7C8
+<https://forms.gle/U8Ki5rQEYZJCjB7C8>
 
 ## Proposal Evaluation Criteria 
   
