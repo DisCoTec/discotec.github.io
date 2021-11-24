@@ -35,7 +35,8 @@ A workshop proposal must include the following information:
 
 The submission and notification deadlines of the workshops are at the discretion of the individual workshop chairs. However, the notification must be no later than the early registration deadline for DisCoTec 2022 (to be announced).
 
-**Submission**
+**Submission:**
+
 Workshop proposals can be submitted to the Workshop Chair via the following form:
 
 <https://forms.gle/TDAfKLT7q6rHvveM7>
@@ -61,7 +62,8 @@ A tutorial proposal must include the following information:
   - March 07, 2022: Notification of accepted workshop proposals
   - June 13, 2022: Tutorials
 
-**Submission**
+**Submission:**
+
 Tutorial proposals can be submitted to the Workshops and Tutorials Chair via the following form:
 
 <https://forms.gle/U8Ki5rQEYZJCjB7C8>

@@ -154,7 +154,7 @@ The individual conferences will organise special issues of extended and selected
 * [Letterio Galletta][LilloWeb] (IMT School for Advanced Studies, IT — Chair of the Local Organizing Committee)
 * [Marinella Petrocchi][MarinellaWeb] (IIT-CNR, IT)
 * [Simone Soderi][SimoneWeb] (IMT School for Advanced Studies, IT)
-* [Francesco Tiezzi][FrancescoWeb] (University of Florence, IT — Workshops Chair)
+* [Francesco Tiezzi][FrancescoWeb] (University of Florence, IT — Workshops and Tutorials Chair)
 * [Giorgio Audrito][GiogioWeb] (University of Torino, IT — Publicity chair)
 
 <!-- * [Duncan Attard][DuncanWeb] (University of Malta, MT — Workshops Chair)
@@ -224,9 +224,9 @@ It can be reached [as follows](http://www.imtlucca.it/en/campus-and-services/how
 
 
 ## Further information
-<!-- Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date. -->
-
 For further information please contact the general chair at <r.denicola@imtlucca.it>.
+
+Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
 
 ## Sponsors & Supporters
 
