@@ -8,6 +8,8 @@ Pre-conference workshops and tutorials will take place on **Monday, June 13, 202
 
 Submissions of workshop proposals must reach the workshop chairs by **December 21, 2021**.
 
+**COVID-19 pandemic:** DisCoTec 2022 should take place physically in Lucca. Anyway, we are monitoring the COVID-19 pandemic development and are prepared to run the conferences and the satellite events virtually or in a hybrid fashion in the unfortunate situation that a physical event is not feasible. The paper selection process and the publication of proceedings will not be affected regardless of whether the event is held physically, virtually or in a hybrid fashion.
+
 ## Workshops 
 
 The DisCoTec 2022 organising committee solicits proposals for workshops to provide a vivid and open forum for discussions among active researchers on topics related to the distributed computing field. The aim is to facilitate the exchange of ideas and experiences via presentations of preliminary research results and ongoing works, as well as presentations of research work to a focussed audience. 
@@ -69,13 +71,6 @@ https://forms.gle/U8Ki5rQEYZJCjB7C8
   - The novelty with respect to other workshops and tutorials
   - Experience of the proposer(s)
   - Quality of the proposal
-
-
-**DisCoTec 2022 Workshops and Tutorials Chair:** 
-Francesco Tiezzi (University of Florence, IT)
-
-
-**COVID-19 pandemic:** DisCoTec 2022 should take place physically in Lucca. Anyway, we are monitoring the COVID-19 pandemic development and are prepared to run the conferences and the satellite events virtually or in a hybrid fashion in the unfortunate situation that a physical event is not feasible. The paper selection process and the publication of proceedings will not be affected regardless of whether the event is held physically, virtually or in a hybrid fashion.
 
 
 ## Further Information
