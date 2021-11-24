@@ -324,7 +324,7 @@ To be announced
 
 ## Program Committee chairs 
 * [Maurice ter Beek](https://fmt.isti.cnr.it/~mtbeek/) (ISTI-CNR, Pisa, Italy)
-* [Marjan Sirjani](http://www.ru.is/faculty/marjan/) (Mälardalen University, Sweden)
+* [Marjan Sirjani](http://www.es.mdh.se/staff/3242-Marjan_Sirjani) (Mälardalen University, Sweden)
 
 ## Tool track chair 
 * [Ferruccio Damiani](http://www.di.unito.it/~damiani/) (University of Turin, Italy)
