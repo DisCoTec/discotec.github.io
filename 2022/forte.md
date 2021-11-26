@@ -41,12 +41,13 @@ FORTE 2022 is a forum for fundamental research on theory, models, tools, and app
 
 The conference solicits original contributions that advance the science and technology for distributed systems, with special interest in:
 
+* Component- and model-based design
+* Cyber-physical systems, autonomous systems, and AI-enabled systems design and trustworthiness
+* Object technology, modularity, software adaptation
+* Self-stabilization and self-healing/organizing
 * Software quality, reliability, availability, and safety
 * Security, privacy, and trust in distributed and/or communicating systems
 * Service-oriented, ubiquitous, and cloud computing systems
-* Component- and model-based design
-* Object technology, modularity, software adaptation
-* Self-stabilization and self-healing/organizing
 * Verification, validation, formal analysis, and testing of the above.
 
 Aligned with the above, FORTE covers __models and formal specification__, __testing__ and __verification methods__ for distributed computing.  Application domains are multiple, and include all kinds of application-level distributed systems, telecommunication services, Internet, embedded and real-time systems, as well as networking and communication security and reliability.
@@ -59,7 +60,7 @@ Topics of interest include but are not limited to:
 
    New modeling and language concepts for distribution and concurrency; semantics for different types of languages, including programming languages, modeling languages, and domain-specific languages; real-time and probability aspects
 
-* __Formal methods and techniques__
+* __Rigorous analysis techniques__
 
   Design, specification, analysis, verification, validation, testing and runtime verification of various types of distributed systems, including communications and network protocols, service-oriented systems, adaptive distributed systems, cyber-physical systems and sensor networks
 
@@ -86,7 +87,7 @@ Topics of interest include but are not limited to:
 See the [DisCoTec submission dates](https://www.discotec.org/2022/#important-dates).
 
 ### Submission Guidelines
-Contributions must be written in English according to one of the three categories described below. Excluded journal-first papers, they should report on original, unpublished work, not submitted for publication elsewhere (cf. [IFIP codes of conduct](http://www.ifip.org/index.php?option=com_content&task=view&id=219&Itemid=564), under Links).
+Contributions must be written in English according to one of the three categories described below. Apart from journal-first papers, all papers should report on original, unpublished work, not submitted for publication elsewhere (cf. [IFIP codes of conduct](http://www.ifip.org/index.php?option=com_content&task=view&id=219&Itemid=564), under Links).
 
 Submissions must be prepared as a PDF using Springer’s LNCS style. Submissions not adhering to the specified constraints of their respective category may be rejected without review.
 
@@ -106,20 +107,20 @@ Notice that *short* and *journal-first* papers must be explicitly marked as such
    * *Tool (demonstration) papers*: Extended abstracts describing (or demonstrating) new tools (or tool components) that implement (or build upon) theoretical foundations.
    * *Position papers* : Extended abstracts describing (i) calls to action,  or (ii) substantiated reflections on current and/or future research perspectives related to FORTE.
 
-   Short paper submissions must be marked as such in the submission's title.
+3. Short paper submissions must be marked as such in the submission's title.
 
-3. __"Journal First" papers__ (page limit: up to 4 pages, including references)
+4. __"Journal First" papers__ (page limit: up to 4 pages, including references)
 
-   This category aims at including published journal papers in the FORTE 2021 program. The objective is to offer FORTE attendees a richer program and further opportunities for interaction.
+   This category aims at including published journal papers in the FORTE 2022 program. The objective is to offer FORTE attendees a richer program and further opportunities for interaction.
 
    Authors of published papers in high-quality journals can submit a proposal to present their journal paper in FORTE. The journal paper must adhere to the following four criteria:
 
    * It should be clearly in the scope of the conference.
-   * It should be recent: only journal papers available  after January 1, 2019 (online or paper) can be presented.
+   * It should be recent: only journal papers available  after January 1, 2020 (online or paper) can be presented.
    * It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).
    * It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.
 
-   A journal-first submission is a concise but compelling summary of the published journal paper, which makes it clear why a related presentation would enrich the program of FORTE.
+5. A journal-first submission is a concise but compelling summary of the published journal paper, which makes it clear why a related presentation would enrich the program of FORTE.
 
    Journal-first submissions must be marked as such in the submission's title, and must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program.
 
