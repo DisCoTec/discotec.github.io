@@ -131,7 +131,7 @@ As such, they will be accessible free of charge from the [IFIP Digital Library](
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
 
 ## Submission Link
-https://easychair.org/conferences/?conf=forte2022
+<https://easychair.org/conferences/?conf=forte2022>
 
 ## Program committee chairs 
 * [Mohammad Mousavi](https://www.nms.kcl.ac.uk/mohammad.mousavi/), King's College London, UK
