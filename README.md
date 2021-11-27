@@ -1,9 +1,9 @@
 # DisCoTec - International Federated Conference on Distributed Computing Techniques 
 
 The DisCoTec series of federated conferences is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)). It gathers three main conferences:
-* [Coordination](https://www.discotec.org/2021/coordination) (IFIP WG6.1 International Conference on Coordination Models and Languages)
-* [DAIS](https://www.discotec.org/2021/dais) (IFIP WG6.1 International Conference on Distributed Applications and Interoperable Systems)
-* [FORTE](https://www.discotec.org/2021/forte) (IFIP WG6.1 International Conference on Formal Techniques for Distributed Objects, Components, and Systems)
+* [Coordination](https://www.discotec.org/2022/coordination) (IFIP WG6.1 International Conference on Coordination Models and Languages)
+* [DAIS](https://www.discotec.org/2022/dais) (IFIP WG6.1 International Conference on Distributed Applications and Interoperable Systems)
+* [FORTE](https://www.discotec.org/2022/forte) (IFIP WG6.1 International Conference on Formal Techniques for Distributed Objects, Components, and Systems)
 
 Together, these conferences cover a broad spectrum of distributed computing subjects,
 ranging from theoretical foundations and formal description techniques to systems

@@ -109,15 +109,17 @@ For all tutorials:
 -->
 
 
+## Proceedings
+The proceedings of the conferences are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. These shall be open access from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
+
+<img src="lncs-logo.jpg" width="182" height="68"/>
+
 <!-- 
 ## IFIP Best Paper Award
 
 - *A true concurrent model of smart contracts executions* <br/> by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia <br/> 
  [Paper](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_16), [presentation](https://www.youtube.com/watch?v=vgoDvMa69cU&feature=youtu.be) and [award](DisCoTec-bpa-certificate.pdf)
 
-
-## Proceedings
-The proceedings of the conference are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. These shall be open access from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
 
 * COORDINATION: [LNCS12717](https://link.springer.com/book/10.1007/978-3-030-78142-2)
 * DAIS: [LNCS12718](https://link.springer.com/book/10.1007/978-3-030-78198-9)
