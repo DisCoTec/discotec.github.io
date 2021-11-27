@@ -5,10 +5,16 @@
 COORDINATION 2022 is one of the three conferences of [DisCoTec 2022](https://www.discotec.org/2022/).
 
 ## COVID-19
+COORDINATION 2022 is planned as a physical, in-person event, with certain support for remote presence, 
+both for speakers and for other participants who are unable or unwilling to come. Depending on the 
+pandemic situation, we may have to make a decision whether to cancel the physical component of the 
+event or not.
+
+<!--
 
 We are monitoring the COVID-19 pandemic development and are prepared to run the conference virtually or in a hybrid fashion in the unfortunate situation that a physical conference is not feasible. The paper selection process will not be affected and LNCS proceedings will be prepared regardless of whether the conference is held physically, virtually or in a hybrid fashion.
 
-<!-- 
+ 
 
 ## Keynote speakers
 

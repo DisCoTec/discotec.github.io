@@ -4,6 +4,11 @@
 
 Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. ICE 2022 is a satellite workshop of [DisCoTec 2022](https://www.discotec.org/2022/), held on 17 June 2022.
 
+**COVID-19:** ICE 2022 is planned as a physical, in-person event, with certain support for remote presence, 
+both for speakers and for other participants who are unable or unwilling to come. Depending on the 
+pandemic situation, we may have to make a decision whether to cancel the physical component of the 
+event or not.
+
 <!-- Due to the the COVID-19 situation, ICE 2021 will be a **virtual event**. -->
 
 ## Highlights

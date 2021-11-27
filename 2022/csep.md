@@ -8,7 +8,10 @@ Pre-conference workshops and tutorials will take place on **Monday, June 13, 202
 
 Submissions of workshop proposals must reach the workshop chairs by **December 21, 2021**.
 
-**COVID-19 pandemic:** DisCoTec 2022 should take place physically in Lucca. Anyway, we are monitoring the COVID-19 pandemic development and are prepared to run the conferences and the satellite events virtually or in a hybrid fashion in the unfortunate situation that a physical event is not feasible. The paper selection process and the publication of proceedings will not be affected regardless of whether the event is held physically, virtually or in a hybrid fashion.
+**COVID-19:** DisCoTec 2022 is planned as a physical, in-person event, with certain support for remote presence, 
+both for speakers and for other participants who are unable or unwilling to come. Depending on the 
+pandemic situation, we may have to make a decision whether to cancel the physical component of the 
+event or not.
 
 ## Workshops 
 
