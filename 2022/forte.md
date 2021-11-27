@@ -128,6 +128,8 @@ Notice that *short* and *journal-first* papers must be explicitly marked as such
 All accepted papers, including short papers and journal-first submissions, will be published in the FORTE 2022 formal proceedings, which will appear in Springer's LNCS-IFIP volume series.
 As such, they will be accessible free of charge from the [IFIP Digital Library](https://dl.ifip.org/) after a 3 years embargo.
 
+<img src="lncs-logo.jpg" width="182" height="68"/>
+
 ### Special Issue
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
 

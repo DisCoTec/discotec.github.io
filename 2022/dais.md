@@ -61,7 +61,13 @@ All papers must be original, unpublished, and not submitted for publication else
 * Full practical experience reports, including experimental and evaluation studies, case studies, and practice reports in no more than 15 pages + 2 pages references.
 * Work-in-progress papers, describing ongoing work and interim results, in no more than 6 pages + 2 pages references.
 
-Contributions should be submitted electronically as PDF, using the Springer LNCS style to the conference submission website (...). Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear. All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in the LNCS series. Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted.
+Contributions should be submitted electronically as PDF, using the Springer LNCS style to the conference submission website (...). Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear. 
+
+## Proceedings
+All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. 
+Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted.
+
+<img src="lncs-logo.jpg" width="182" height="68"/>
 
 <!---
 ##Special Issue

@@ -261,7 +261,10 @@ Submission categories:
 
 **ATTENTION**: if you believe that your submission is related to the special topic Microservices, then please indicate <b>Microservices</b> as the first of the <i>Author keywords</i> in the online submission system.
 
-The conference proceedings, formed by accepted submissions from any category, will be published by Springer in the LNCS series.
+### Proceedings
+The conference proceedings, formed by accepted submissions from any category, will be published by Springer in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.
+
+<img src="lncs-logo.jpg" width="182" height="68"/>
 
 ### Special issues
 
