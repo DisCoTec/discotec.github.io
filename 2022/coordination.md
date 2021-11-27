@@ -10,30 +10,19 @@ We are monitoring the COVID-19 pandemic development and are prepared to run the 
 
 <!-- 
 
-## Keynote speaker
+## Keynote speakers
 
 * [Gilles Fedak](invited#gilles-fedak), iExec, FR
 * [Mira Mezini](invited#mira-mezini), Technical University of Darmstadt, DE
 * [Alexandra Silva](invited#alexandra-silva), University College London, UK 
 
-
-
 ## List of accepted papers
-
-
 
 Below you will find the list of accepted papers grouped by submission category and orderes as they were submitted.
 
-
-
 The programme is available [here](https://www.discotec.org/2021/programme).
 
-**The proccedings are published by Springer, [LNCS 12717](https://www.springer.com/978-3-030-78141-5) ([online version](http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=12717)).**
-
- 
-
-Below you will find the list of accepted papers ordered by and grouped as they will appear in the proceedings.
-
+**The proceedings are published by Springer, [LNCS 12717](https://www.springer.com/978-3-030-78141-5) ([online version](http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=12717)).**
 
 Tutorial
 
@@ -71,10 +60,8 @@ Microservices
 
 -->
 
-
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
-
 
 ### Main topics
 
@@ -236,87 +223,53 @@ We welcome tool papers that describe experience reports, technological artefacts
 (including engines, APIs, etc.), for coordinating, modelling, analysing, simulating or testing systems, 
 as well as educational tools in the scope of the research topics of COORDINATION. 
 In addition, we welcome submissions promoting the integration of existing tools relevant to the community. 
-
-<!--
-**Submissions to the tool track must include a tool paper and a link to a demo video that previews the potential tool presentation at the conference. 
-Both the tool paper and the video will be decisive criteria in the selection process.** 
-Authors of accepted contributions 
-will be able (and encouraged) to extend their tool paper to a (regular) full paper before appearance in the conference proceedings, 
-which will be subject to a lightweight revision process.
-
-We welcome tool papers that describe technological artefacts, including innovative prototypes, for modelling, analysing, simulating or testing systems in the scope of the research topics of COORDINATION. **Submissions must include an extended abstract and a link to a demo video that previews the potential tool presentation at the conference. Both the abstract and the video will be decisive criteria in the selection process.** Authors of accepted contributions will be asked to produce a regular (full) paper to appear in the conference proceedings, which will be subject to a lightweight revision process. A dedicated special issue for accepted contributions is being planned.
-Tool papers presenting coordination APIs, allowing the broad community to easily utilise provided coordination mechanisms are particularly welcome. 
-
-Interested authors can contact the tool track chairs for details.
+Submissions to the tool track must include (in addition to the paper) a link to a demo video that previews 
+the potential tool presentation at the conference.
 
 ## Submissions
 
-### Dates
+### Important dates
 
-See the [DisCoTec submission dates](https://www.discotec.org/2022/#important-dates).
+* Abstract submission: January 28, 2022
+* Paper submission: February 4, 2022
+* Paper notification: March 25, 2022
+* Artefact submission: April 6, 2022
+* Artefact notification: April 24, 2022
+* Camera-ready: April 24, 2022
+* DisCoTec conference: June 13-18, 2022
+
+Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
+
+### Submission site
+
+[https://easychair.org/conferences/?conf=coordination2022](https://easychair.org/conferences/?conf=coordination2022)
 
 ### Publication 
 
-and Special Issues
+Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the above submission dates and submissions are handled through the EasyChair conference management system, accessible from the above submission site.
 
+Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see [http://www.ifip.org/](http://www.ifip.org/) under Publications/Links). The submissions must not exceed the total page number limit (see below) prepared using Springer’s LNCS style. Submissions not adhering to the above specified constraints may be rejected without review.
 
-Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. 
-Registration of the paper information and abstract (max. 250 words) must be completed according to the [DisCoTec submission dates](https://www.discotec.org/2022/#important-dates). 
-Submissions are handled through the EasyChair conference management system, accessible from the conference web site: ...
-
-Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere
- (cf. IFIP’s Author Code of Conduct, see http://www.ifip.org/ under Publications/Links). 
-The submissions must not exceed the total page number limit (see below) prepared using Springer’s LNCS style. 
-Submissions not adhering to the above specified constraints may be rejected without review.
+**NOTE**: a lightweight rebuttal will be introduced during the reviewing phase, allowing reviewers to ask for a quick rebuttal in case of a clearly identifiable issue that seems decisive for the review outcome and which can likely be quickly clarified by the authors. The rebuttal is only used when such questions arise, so not necessarily for all papers.
 
 Submission categories:
-* Full papers (up to 15 pages + 2 pages references): describing thorough and complete research results and experience reports.
-* Short papers (up to 6 pages + 2 pages references): describing research in progress or opinion papers on the past of Coordination research, on the current state of the art, or on prospects for the years to come.
-* Survey papers (up to 25 pages + 2 pages references): describing important results and successful stories that originated in the context of COORDINATION.
-* Tool papers (up to 6 pages + 2 pages references): describing technological artefacts in the scope of the research topics of COORDINATION. The paper must contain **a link to a publicly downloadable MPEG-4 demo video** of at most 10 minutes length.
+* Regular long papers (7-15 pages, not counting references): describing thorough and complete research results and experience reports.
+* Regular short papers (4-6 pages, not counting references): describing research in progress or opinion papers on the past of COORDINATION research, on the current state of the art, or on prospects for the years to come.
+* Short tool papers (4-6 pages, not counting references): describing technological artefacts in the scope of the research topics of COORDINATION. Short tool papers are not required to provide an account of theoretical foundations and are not required to present the design and implementation concerns. They should provide a clear account of the tool’s functionality and discuss the tool’s practical capabilities. **The paper must contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes length.**
+* Long tool papers (7-15 pages, not counting references): describing technological artefacts in the scope of the research topics of COORDINATION. A full-length tool paper should provide a brief account of the theoretical foundations (including relevant citations), present the design and implementation concerns (possibly including software architecture and core data structures),  provide a clear account of the tool’s functionality, discuss the tool’s practical capabilities (possibly with reference to the type and size of problems it can handle), and (when applicable) report on realistic case studies (possibly providing a rigorous experimental evaluation). Papers that present extensions to existing tools should clearly describe the improvements or extensions with respect to previously published versions of the tool (possibly providing data on enhancements in terms of resources and capabilities). **The paper must contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes length.**
+* Survey papers (16-25 pages, not counting references): describing important results and success stories that originated in the context of COORDINATION.
 
-<b>ATTENTION:</b> if you believe that your submission is related to one of the three special topics 
-(<b>Configurable Systems in the DevOps Era</b>, <b>Microservices</b>, <b>Techniques to reason about interacting digital contracts</b>), then
-please indicate the name of the special topic as the first of the <i>Author keywords</i> in the onlinesubmission system.
+**ATTENTION**: if you believe that your submission is related to the special topic Microservices, then please indicate <b>Microservices</b> as the first of the <i>Author keywords</i> in the online submission system.
 
-The authors of accepted papers (in any submission category) will be encouraged
-to make their artefacts publicly available using permanent repositories such as Zenodo etc.
-(for Tool papers, the tool should already be available at submission time for reviewing purposes,
- but not necessarily via a permanent archive with a DOI).
-
-The conference proceedings, formed by accepted submissions will be published by Springer in the LNCS Series.
+The conference proceedings, formed by accepted submissions from any category, will be published by Springer in the LNCS series.
 
 ### Special issues
 
-Following the tradition of previous editions of COORDINATION, 
-according to the quality and number of the submission, 
-we will organise special issues of extended and selected Full/Short/Survey/Tool papers 
-in reputable journals such as Logical Methods in Computer Science and Science of Computer Programming.
-
- [The special issue for COORDINATION 2019  has now been published 
-in Logical Methods in Computer Science (LMCS).](https://lmcs.episciences.org/volume/view/id/377)
-
- [The special issue for COORDINATION 2019 Tool Papers has now been published 
-in Science of Computer Programming 
-(SCP).](https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/10H4835TWK9)  
-
-Special issues for last year's edition are under preparation (we will advertise them here).
-
-
-### Special issues
-Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org) and a separate special issue dedicated to tool papers is being planned. Special issues for last year's edition are under preparation in [**Logical Methods in Computer Science**](https://lmcs.episciences.org) for selected research papers, and in [**Science of Computer Programming**](https://www.journals.elsevier.com/science-of-computer-programming) for selected tool papers (as a collection of [**Original Software Publications**](https://www.elsevier.com/authors/author-resources/research-elements/software-articles/original-software-publications).
--->
-
-<!--Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org). A separate special issue dedicated to tool papers is being planned.
-
-### Submission Link
-
-...
--->
+Following the tradition of previous editions of COORDINATION, depending on the quality and number of the submissions, we will organise special issues of selected papers in reputable journals like the journal of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming) for tool papers and the journal of [Logical Methods in Computer Science](https://lmcs.episciences.org) for the remaining categories.
 
 ## EAPLS Artefact Badging 
 
-To improve and reward reproducibility and to give more visibility and credit to the effort of tool developers in our community, authors of accepted (regular and tool) papers will be invited to submit publicly available (using permanent repositories such as Software Heritage, Zenodo, etc.) artefacts associated with their paper for evaluation, and based on the result of the evaluation they may be awarded one or more badges. See [EAPLS Artifact Badges](https://eapls.org/pages/artifact_badges/) for details. Artefact submission is optional and the result of the artefact evaluation will not alter the paper's acceptance decision. Detailed guidelines for the preparation and submission of the artefacts will be made available.  
+To improve and reward reproducibility and to give more visibility and credit to the effort of tool developers in our community, authors of accepted (regular and tool, short and long) papers will be invited to submit publicly available (using permanent repositories such as [Software Heritage](https://www.softwareheritage.org/howto-archive-and-reference-your-code/), [Zenodo](https://zenodo.org/), etc.) artefacts associated with their paper for evaluation, and based on the result of the evaluation they may be awarded one or more badges. See [EAPLS Artifact Badges](https://eapls.org/pages/artifact_badges/) for details. Artefact submission is optional and the result of the artefact evaluation will not alter the paper's acceptance decision. Detailed guidelines for the preparation and submission of the artefacts will be made available.  
 
 ## Keynote speaker
 
@@ -329,8 +282,12 @@ To be announced
 ## Tool track chair 
 * [Ferruccio Damiani](http://www.di.unito.it/~damiani/) (University of Turin, Italy)
 
+<!--
+
 ## Publicity chair
 * [Giorgio Audrito](https://www.unito.it/persone/gaudrito) (University of Torino, Italy)
+
+-->
 
 ## Program Committee 
 * Erika Ábrahám (RWTH Aachen University, Germany)
@@ -400,8 +357,6 @@ To be announced
 * Mirko Viroli (Università di Bologna, Italy)
 * Gianluigi Zavattaro (Università di Bologna, Italy)
 
-
-
 ## Sponsors & Supporters
 
 <a href="https://www.ifip.org">
@@ -414,8 +369,6 @@ To be announced
 <a href="https://microservices.community/e/discotec2020/">
   <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
 </a>
-
-
 
 <!--
 
