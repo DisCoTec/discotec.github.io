@@ -4,10 +4,8 @@
 
 Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. ICE 2022 is a satellite workshop of [DisCoTec 2022](https://www.discotec.org/2022/), held on 17 June 2022.
 
-**COVID-19:** ICE 2022 is planned as a physical, in-person event, with certain support for remote presence, 
-both for speakers and for other participants who are unable or unwilling to come. Depending on the 
-pandemic situation, we may have to make a decision whether to cancel the physical component of the 
-event or not.
+**COVID-19:** ICE 2022 is planned as a physical, in-person event, with certain support for remote presence, both for speakers and for other participants who are unable or unwilling to come. Depending on the 
+pandemic situation, we may have to make a decision whether to cancel the physical component of the event or not.
 
 <!-- Due to the the COVID-19 situation, ICE 2021 will be a **virtual event**. -->
 
@@ -124,12 +122,13 @@ We plan to invite authors of selected papers and brief announcements to submit t
 ## ICEcreamers
 
   * [Clément Aubert](https://spots.augusta.edu/caubert/)  (Augusta University, GA, USA) - `aubert (at) math.cnrs.fr`
-  * [Cinzia Di Giusto](https://www.i3s.unice.fr/digiusto/node/1) (Université Côte d'Azur, CNRS, I3SSophia Antipolis, FR) - `cinzia.di-giusto (AT) unice.fr`
-  * [Larisa Safina](https://lsafina.github.io/) (Inria, FR) - `larisa.safina (AT) inria.fr`
-  * [Alceste Scalas](https://www.imm.dtu.dk/~alcsc/) (Technical University of Denmark, DK) - `alcsc (AT) dtu.dk`
+  * [Cinzia Di Giusto](https://www.i3s.unice.fr/digiusto/node/1) (Université Côte d'Azur, CNRS, I3SSophia Antipolis, FR) - `cinzia.di-giusto (at) unice.fr`
+  * [Larisa Safina](https://lsafina.github.io/) (Inria, FR) - `larisa.safina (at) inria.fr`
+  * [Alceste Scalas](https://www.imm.dtu.dk/~alcsc/) (Technical University of Denmark, DK) - `alcsc (at) dtu.dk`
 
 
 ## Programme Committee
+
 TBA
 
 <!--
@@ -190,4 +189,4 @@ The previous editions of ICE have been held on:
 
 ## More information
 
-For additional information, please [contact the ICEcreamers](#icecreamers) (see email addresses above).
+For additional information, please [contact the ICEcreamers](#icecreamers).
