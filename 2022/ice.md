@@ -191,5 +191,5 @@ The previous editions of ICE have been held on:
 
 ## More information
 
-For additional information, please [contact the ICEcreamers](#icecreamers) or `ice22 (at) googlegroups.com`.
+For additional information, please [contact the ICEcreamers](#icecreamers) at `ice22 (at) googlegroups.com`.
 
