@@ -15,13 +15,14 @@ pandemic situation, we may have to make a decision whether to cancel the physica
   * ICE welcomes full papers to be included in the proceedings
   * ICE also welcomes oral communications of already published or preliminary work
   * Invited speakers: TBA
-
 <!--  
       - [Laura Bocchi](https://www.kent.ac.uk/computing/people/3119/bocchi-laura) (University of Kent, UK)
       - [Helene Coullon](http://helene-coullon.fr/) (IMT Atlantique, FR) 
 -->
   * Publication in [EPTCS](https://eptcs.org/)
   * Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
+  * Contact: `ice22 (at) googlegroups.com`
+
 
 <!--
 ## Accepted papers and oral communications
@@ -126,6 +127,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * [Larisa Safina](https://lsafina.github.io/) (Inria, FR) - `larisa.safina (at) inria.fr`
   * [Alceste Scalas](https://www.imm.dtu.dk/~alcsc/) (Technical University of Denmark, DK) - `alcsc (at) dtu.dk`
 
+Contact `ice22 (at) googlegroups.com` with any question you may have!
 
 ## Programme Committee
 
@@ -189,4 +191,5 @@ The previous editions of ICE have been held on:
 
 ## More information
 
-For additional information, please [contact the ICEcreamers](#icecreamers).
+For additional information, please [contact the ICEcreamers](#icecreamers) or `ice22 (at) googlegroups.com`.
+
