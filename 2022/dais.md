@@ -79,6 +79,10 @@ Proceedings will be made available at the conference. Submission implies that at
 Selected papers from DAIS'21 will be invited to a special issue of a reputed journal (to be announced soon).
 -->
 
+## Submission link
+
+<https://easychair.org/my/conference?conf=dais2022>
+
 ## Program committee chairs 
 * [David Eyers](https://www.otago.ac.nz/computer-science/people/David_Eyers.html) (University of Otago, NZ)
 * [Spyros Voulgaris](https://acropolis.aueb.gr/~spyros/www/) (Athens University of Economics and Business, GR)
