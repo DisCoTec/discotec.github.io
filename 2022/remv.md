@@ -1,8 +1,11 @@
-[![](https://www.discotec.org/2021/discotec2021-banner.jpeg)](https://www.discotec.org/2022/)
+[![](https://www.discotec.org/2022/discotec2022-banner.jpeg)](https://www.discotec.org/2022/)
 
 # Robotics, Electronics and Machine Vision
 
 The seminar "Robotics, Electronics and Machine Vision" is one of the workshops at [DisCoTec 2022](https://www.discotec.org/2022/), the 16th International Federated Conference on Distributed Computing Techniques and invites you to participate in the discussion of issues related to robotics, electronics and machine vision in its various aspects at all levels and in all contexts.
+
+**COVID-19:** REMV is planned as a physical, in-person event, with certain support for remote presence, both for speakers and for other participants who are unable or unwilling to come. Depending on the 
+pandemic situation, we may have to make a decision whether to cancel the physical component of the event or not.
 
 Web address: <https://en.fa.ru/about/news/international-affairs/?ELEMENT_ID=757>
 
