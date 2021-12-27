@@ -16,7 +16,7 @@ Blockchains and TEE (trusted execution environments) are popular emerging techno
 * 18 May 2021: notification
 -->
 
-* 17 June 2022: REMV workshop
+* 17 June 2022: BlockTEE'22 workshop
 
 ## Submission
 TBA
