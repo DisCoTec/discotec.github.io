@@ -6,7 +6,7 @@
 
 
 
-DisCoTec 2022 will take place at the [IMT School for Advanced Studies](http://www.imtlucca.it/en), Lucca, between June 13-17, 2022.  
+DisCoTec 2022 will take place at the [IMT School for Advanced Studies Lucca](http://www.imtlucca.it/en), between June 13-17, 2022.  
 
 **COVID-19:** DisCoTec 2022 is planned as a physical, in-person event, with certain support for remote presence, 
 both for speakers and for other participants who are unable or unwilling to come. Depending on the 
@@ -155,10 +155,10 @@ The individual conferences will organise special issues of extended and selected
 
 
 ## Organising Committee
-* [Rocco De Nicola][RoccoWeb] (IMT School for Advanced Studies, IT — General Chair)
-* [Letterio Galletta][LilloWeb] (IMT School for Advanced Studies, IT — Chair of the Local Organizing Committee)
+* [Rocco De Nicola][RoccoWeb] (IMT School for Advanced Studies Lucca, IT — General Chair)
+* [Letterio Galletta][LilloWeb] (IMT School for Advanced Studies Lucca, IT — Chair of the Local Organizing Committee)
 * [Marinella Petrocchi][MarinellaWeb] (IIT-CNR, IT)
-* [Simone Soderi][SimoneWeb] (IMT School for Advanced Studies, IT)
+* [Simone Soderi][SimoneWeb] (IMT School for Advanced Studies Lucca, IT)
 * [Francesco Tiezzi][FrancescoWeb] (University of Florence, IT — Workshops and Tutorials Chair)
 * [Giorgio Audrito][GiogioWeb] (University of Torino, IT — Publicity chair)
 
@@ -189,13 +189,13 @@ The individual conferences will organise special issues of extended and selected
 [TimWeb]: https://www.win.tue.nl/~timw/index.php
 
 ## Location
-[IMT School for Advanced Studies](http://www.imtlucca.it/en) San Francesco Campus  
+[IMT School for Advanced Studies Lucca](http://www.imtlucca.it/en) San Francesco Campus  
 Piazza S. Francesco, 19 - 55100 Lucca, LU  
 It can be reached [as follows](http://www.imtlucca.it/en/campus-and-services/how-to-reach-us). 
 
 ## Steering Committee
 * Gianluigi Zavattaro (University of Bologna, IT — Chair)
-* Rocco De Nicola (IMT Lucca, IT)
+* Rocco De Nicola (IMT School for Advanced Studies Lucca, IT)
 * Kurt Geihs (University of Kasel, DE)
 * Elie Najm (Telecom Paris Tech, FR)
 * Mieke Massink (CNR-ISTI, IT)

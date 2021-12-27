@@ -9,7 +9,7 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 ranging from theoretical foundations and formal description techniques to systems
 research issues. 
 
-[DisCoTec 2022](http://www.discotec.org/2022) will take place at [IMT School for Advanced Studies](http://www.imtlucca.it/en) in June 13-17, 2022.
+[DisCoTec 2022](http://www.discotec.org/2022) will take place at [IMT School for Advanced Studies Lucca](http://www.imtlucca.it/en) in June 13-17, 2022.
 
 ## Steering Committee
 * Gianluigi Zavattaro (University of Bologna, Italy) 
