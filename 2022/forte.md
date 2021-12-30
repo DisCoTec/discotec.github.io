@@ -155,7 +155,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Hubert Garavel, Inria, France 
 * Fatemeh Ghassemi, University of Tehran, Iran 
 * Ebru Aydın Göl, Middle East Technical University, Turkey 
-* Ákos Hajdu, Budapest University of Technology and Economics, Hungary
+* Ákos Hajdu, Meta Platforms Inc, UK
 * Arnd Hartmanns, University of Twente, The Netherlands
 * Marieke Huisman, University of Twente, The Netherlands
 * Peter Höfner, Australian National University, Australia
