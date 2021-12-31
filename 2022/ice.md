@@ -75,7 +75,7 @@ TBA
 
 ## Selection Procedure
 
-Since its first edition in 2008, the distinguishing feature of ICE has been an innovative paper selection mechanism based on an interactive, friendly, and constructive discussion amongst authors and PC members in an online forum.
+Since [its first edition in 2008](#previous-editions), the distinguishing feature of ICE has been an innovative paper selection mechanism based on an interactive, friendly, and constructive discussion amongst authors and PC members in an online forum.
 
 During the review phase, each submission is published in a dedicated discussion forum. The discussion forum can be accessed by the authors of the submission and by all PC members not in conflict with the submission (the forum preserves anonymity). The forum is used by reviewers to ask questions, clarifications, and modifications from the authors, allowing them better to explain and to improve all aspects of their submission. The evaluation of the submission will take into account not only the reviews, but also the outcome of the discussion.
 
@@ -86,7 +86,7 @@ ICE adopts a light double-blind reviewing process, [detailed below](#submission-
 
 ## Submission Guidelines
 
-Submissions must be made electronically in PDF format via OpenReview _(to be confirmed)_.
+Submissions must be made electronically in PDF format via OpenReview.
 
 <!--
 **[OpenReview]()**.
@@ -192,4 +192,3 @@ The previous editions of ICE have been held on:
 ## More information
 
 For additional information, please [contact the ICEcreamers](#icecreamers) at `ice22 (at) googlegroups.com`.
-
