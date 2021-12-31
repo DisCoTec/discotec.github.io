@@ -86,11 +86,7 @@ ICE adopts a light double-blind reviewing process, [detailed below](#submission-
 
 ## Submission Guidelines
 
-Submissions must be made electronically in PDF format via OpenReview.
-
-<!--
-**[OpenReview]()**.
--->
+Submissions must be made electronically in PDF format via [OpenReview](https://openreview.net/group?id=DisCoTec.org/2022/Workshop/ICE).
 
 We invite two types of submissions:
 
