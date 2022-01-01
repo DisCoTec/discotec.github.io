@@ -254,7 +254,7 @@ Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
 
 Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the above submission dates and submissions are handled through the EasyChair conference management system, accessible from the above submission site.
 
-Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see [http://www.ifip.org/](http://www.ifip.org/) under Publications/Links). The submissions must not exceed the total page number limit (see below) prepared using Springer’s LNCS style. Submissions not adhering to the above specified constraints may be rejected without review.
+Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see [http://www.ifip.org/](http://www.ifip.org/) under Publications/Links). The submissions must not exceed the total page number limit (see below) prepared using [Springer’s LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Submissions not adhering to the above specified constraints may be rejected without review.
 
 **NOTE**: a lightweight rebuttal will be introduced during the reviewing phase, allowing reviewers to ask for a quick rebuttal in case of a clearly identifiable issue that seems decisive for the review outcome and which can likely be quickly clarified by the authors. The rebuttal is only used when such questions arise, so not necessarily for all papers.
 

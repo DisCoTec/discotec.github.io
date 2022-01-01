@@ -66,7 +66,7 @@ All papers must be original, unpublished, and not submitted for publication else
 * Full practical experience reports, including experimental and evaluation studies, case studies, and practice reports in no more than 15 pages + 2 pages references.
 * Work-in-progress papers, describing ongoing work and interim results, in no more than 6 pages + 2 pages references.
 
-Contributions should be submitted electronically as PDF, using the Springer LNCS style to the conference submission website (...). Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear. 
+Contributions should be submitted electronically as PDF, using the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) to the conference submission website. Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear. 
 
 ## Proceedings
 All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. 
@@ -87,24 +87,18 @@ Selected papers from DAIS'21 will be invited to a special issue of a reputed jou
 * [David Eyers](https://www.otago.ac.nz/computer-science/people/David_Eyers.html) (University of Otago, NZ)
 * [Spyros Voulgaris](https://acropolis.aueb.gr/~spyros/www/) (Athens University of Economics and Business, GR)
 
-<!---
-## Program committee (OLD 2021 edition)
+## Program committee 
 
 * Eduardo	Alchieri, Universidade de Brasília, Brazil 
 * Pierre-Louis Aublin, Keio University, Japan
 * Silvia Bonomi, Università degli Studi di Roma "La Sapienza”, Italy
-* Damiano Di Francesco Maesa, University of Cambridge, UK
 * Davide Frey, INRIA, France
-* Paula Herber, University of Münster, Germany
-* Mark Jelasity, University of Szeged, Hungary
 * Vana Kalogeraki, Athens University of Economics and Business, Greece
 * Evangelia Kalyvianaki, University of Cambridge, UK
-* Fábio	Kon, University of São Paulo
-* João Leitão, Universidade Nova de Lisboa, Portugal
 * Daniel Lucani, Aarhus University, Denmark
 * Kostas Magoutis, University of Ioannina, Greece
-* Claudio Antares Mezzina, University Urbino, Italy
 * Hein	Meling, University of Stavanger, Norway
+* Claudio Antares Mezzina, University Urbino, Italy
 * Alberto Montresor, University of Trento, Italy
 * Daniel O’Keeffe, Royal Holloway University of London, England
 * Emanuel Onica, Alexandru Ioan Cuza University of Iasi, Romania
@@ -114,9 +108,6 @@ Selected papers from DAIS'21 will be invited to a special issue of a reputed jou
 * Romain Rouvoy, University of Lille 1, France
 * Valerio	Schiavoni, University of Neuchâtel, Switzerland
 * Pierre Sutra, Telecom SudParis, France
-* Spyros Voulgaris, Athens University of Economics and Business, Greece
---->
-
 
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands

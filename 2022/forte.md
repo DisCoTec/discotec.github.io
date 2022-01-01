@@ -94,7 +94,7 @@ See the [DisCoTec submission dates](https://www.discotec.org/2022/#important-dat
 ### Submission Guidelines
 Contributions must be written in English according to one of the three categories described below. Apart from journal-first papers, all papers should report on original, unpublished work, not submitted for publication elsewhere (cf. [IFIP codes of conduct](http://www.ifip.org/index.php?option=com_content&task=view&id=219&Itemid=564), under Links).
 
-Submissions must be prepared as a PDF using Springer’s LNCS style. Submissions not adhering to the specified constraints of their respective category may be rejected without review.
+Submissions must be prepared as a PDF using [Springer’s LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Submissions not adhering to the specified constraints of their respective category may be rejected without review.
 
 ### Submission Categories
 FORTE accepts contributions in three categories: __full papers__, __short papers__, and __journal-first papers__. These categories and their associated criteria are described in detail below.
