@@ -95,6 +95,8 @@ Selected papers from DAIS'21 will be invited to a special issue of a reputed jou
 * Davide Frey, INRIA, France
 * Vana Kalogeraki, Athens University of Economics and Business, Greece
 * Evangelia Kalyvianaki, University of Cambridge, UK
+* Fábio Kon, University of São Paulo, Brazil
+* João Leitão, Universidade Nova de Lisboa, Portugal
 * Daniel Lucani, Aarhus University, Denmark
 * Kostas Magoutis, University of Ioannina, Greece
 * Hein	Meling, University of Stavanger, Norway
