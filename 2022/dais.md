@@ -104,7 +104,7 @@ Selected papers from DAIS'21 will be invited to a special issue of a reputed jou
 * Emanuel Onica, Alexandru Ioan Cuza University of Iasi, Romania
 * Marta Patino, Universidad Politecnica de Madrid, Spain
 * José Orlando Pereira, Universidade do Minho & INESC TEC, Portugal
-* Hans P. Reiser, University Passau, Germany
+* Hans P. Reiser, Reykjavík University, Iceland
 * Romain Rouvoy, University of Lille 1, France
 * Valerio	Schiavoni, University of Neuchâtel, Switzerland
 * Pierre Sutra, Telecom SudParis, France
