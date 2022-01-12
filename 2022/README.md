@@ -79,8 +79,8 @@ For all tutorials:
 ### Workshops
 
 * [ICE 2022](https://www.discotec.org/2022/ice) - Workshop on Interaction and Concurrency Experience
-* [BlockTEE 2022](https://www.discotec.org/2021/blocktee) - Workshop on Blockchain Technologies and Trusted Execution Environments
-* [REMV 2022](https://www.discotec.org/2021/remv) - Workshop on Robotics, Electronics and Machine Vision
+* [BlockTEE 2022](https://www.discotec.org/2022/blocktee) - Workshop on Blockchain Technologies and Trusted Execution Environments
+* [REMV 2022](https://www.discotec.org/2022/remv) - Workshop on Robotics, Electronics and Machine Vision
 
 <!--
 
