@@ -63,8 +63,10 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 
 ### Important Dates
 For all workshops:
-- **Workshop proposal submission deadline:** December 21, 2021 
-- **Notification of accepted workshop proposals:** December 27, 2021 
+- ~~**Workshop proposal submission deadline (first round)** December 21, 2021~~ 
+- ~~**Notification of accepted workshop proposals (first round):** December 27, 2021~~ 
+- **Workshop proposal submission deadline (second round):** January 24, 2022
+- **Notification of accepted workshop proposals (second round):** January 31, 2022
 - **Workshop paper submission deadline:** Mid April 2022
 - **Notification of accepted workshop papers:** Mid May 2022 
 - **Workshops:** June 13 and 17, 2022 
@@ -74,16 +76,18 @@ For all tutorials:
 - **Notification of accepted workshop proposals:** March 07, 2022
 - **Tutorials:** June 13, 2022
 
+### Workshops
+
+* [ICE 2022](https://www.discotec.org/2022/ice) - Workshop on Interaction and Concurrency Experience
+* [BlockTEE 2022](https://www.discotec.org/2021/blocktee) - Workshop on Blockchain Technologies and Trusted Execution Environments
+* [REMV 2022](https://www.discotec.org/2021/remv) - Workshop on Robotics, Electronics and Machine Vision
+
 <!--
 
 
 * [DisCoTec Tools](https://www.discotec.org/2021/tutorials) - Tutorial Sessions 
 
-### Workshops
 
-* [ICE 2021](https://www.discotec.org/2021/ice) - Workshop on Interaction and Concurrency Experience
-* [FOCODILE 2021](https://www.discotec.org/2021/focodile) - Workshop on the Foundations of Consensus and Distributed Ledgers
-* [REMV 2021](https://www.discotec.org/2021/remv) - Workshop on Robotics, Electronics and Machine Vision
 -->
 
 
