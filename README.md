@@ -16,7 +16,7 @@ research issues.
 * Rocco De Nicola (IMT Lucca, Italy)
 * Kurt Geihs (University of Kasel, Germany)
 * Elie Najm (Telecom Paris Tech, France)
-* Mieke Masink (CNR, Italy)
+* Mieke Massink (CNR, Italy)
 * Ivan Lanese (University of Bologna, Italy)
 * Luís Antunes Veiga (Technical University of Lisbon, Portugal)
 * Manuel Núñez (Universidad Complutense de Madrid, Spain)
