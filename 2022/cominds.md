@@ -12,7 +12,7 @@ pandemic situation, we may have to make a decision whether to cancel the physica
 Nowadays, organizations increasingly need to coordinate to achieve their goals collaboratively and create new forms of business. This requires organizations to form (business-oriented) distributed systems, guaranteeing their interoperability. However, this task is made complex by the need to coordinate the interactions of various participants, dealing with requirements, constraints, and regulations coming from different organizations. In addition, many business scenarios started to involve more automated and highly distributed components such as robots and smart devices that perceive and interact with the dynamics arising from the physical world. 
 Effective coordination and cooperation of such distributed systems demand the compatibility of the processes performed by each system component. Such cooperation can be supported by the observations of the whole systems’ behavior through collaborative mining, i.e., process mining applied in the presence of heterogeneous data produced by the system components, i.e., distributed event logs. Collaborative mining techniques address the discovery of collaborative models, thus fostering the coordination aspects that typically occur on distributed systems.
 The objective of the CoMinDS workshop is to attract researchers and industry practitioners to discuss collaborative mining and present open challenges, state of the art, in-progress research, and practical experiences, including case studies. 
-CoMinDS welcomes submissions of short papers (max 8 pages) presenting novel ideas, position papers, and presenting preliminary results within the theme of collaborative mining and regular paper (max 15 pages) discussing original research works. 
+
 The topics of the workshop include, but are not limited to:
 * Construction of Distributed Event Logs
 * Discovery of Collaborative Models
@@ -23,17 +23,30 @@ The topics of the workshop include, but are not limited to:
 * Collaborative Decision Mining 
 * Streaming Collaborative Mining
 
-## Organization Committees
+## Program
+TBA
 
-* Marco Autilli, University of L’Aquila, Italy
+## Submission Guidelines
+
+CoMinDS welcomes submissions of short papers (max 8 pages) presenting novel ideas, position papers, and presenting preliminary results within the theme of collaborative mining and regular paper (max 15 pages) discussing original research works. 
+Papers must be formatted using CEUR-ART format (one column style) available [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip), and must be submitted electronically via the EasyChair submission system, available at (TBA).
+
+Proceedings shall be submitted to CEUR-WS.org for online publication. Selected, accepted research papers will be considered for publication in an extended and revised form in a special issue of XXXX, edited by XXX.
+
+## Important Dates
+-   (TBA) : paper submission 
+-   (TBA) : author notification 
+-   June 13, 2022: CoMinDS workshop
+
+## Program Committee
+- Lorenzo Rossi, University of Camerino, Italy
+- Andrea Burattin, Technical University of Denmark, Denmark
+-  Pascal Poizat, University Paris Nanterre, France 
+
+## Organization Committee 
+
 * Flavio Corradini, University of Camerino, Italy  
-* Claudio Di Ciccio, Sapienza University of Rome, Italy  
-* Chiara Di Francescomarino, Fondazione Bruno Kessler, Italy
-* Marlon Dumas, University of Tartu, Estonia 
-* Anna Kalenkova, University of Melbourne, Australia 
-* Felix Mannhardt, Eindhoven University of Technology, Netherland  
-* Fabrizio Maria Maggi, Free University of Bozen-Bolzano, Italy  
-* Marco Montali, Free University of Bozen - Bolzano, Italy
-* Jorge Munoz-Gama, Pontificia Universidad Católica de Chile, Chile 
 * Barbara Re, University of Camerino, Italy
-* Massimo Tivoli, University of L’Aquila, Italy
+
+## Invited Speakers
+(TBA)
