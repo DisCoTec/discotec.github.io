@@ -236,8 +236,8 @@ the potential tool presentation at the conference.
 
 ### Important dates
 
-* Abstract submission: January 28, 2022
-* Paper submission: February 4, 2022
+* Abstract submission: ~~January 28, 2022~~ February 11, 2022 (extended)
+* Paper submission: ~~February 4, 2022~~ February 18, 2022 (extended)
 * Paper notification: March 25, 2022
 * Artefact submission: April 6, 2022
 * Artefact notification: April 24, 2022
