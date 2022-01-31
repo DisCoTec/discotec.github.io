@@ -127,34 +127,23 @@ Use `ice22 (at) googlegroups.com` to reach all the ICEcreamers at once.
 
 ## Programme Committee
 
-TBA
+To be completed, but have already accepted:
 
-<!--
-  * Massimo Bartoletti (University of Cagliari, IT)
-  * Chiara Bodei (Università di Pisa, IT)
-  * Matteo Cimini (University of Massachusetts Lowell, USA)
-  * Cinzia Di Giusto (Université Côte d'Azur, CNRS, I3S, FR)
-  * Simon Fowler (University of Glasgow, UK)
-  * Eva Graversen (University of Southern Denmark, DK)
-  * Ludovic Henrio (ENS Lyon, FR)
-  * Keigo Imai (Gifu University, JP)
-  * Sung-Shik Jongmans (Open University of the Netherlands, NL)
-  * Sophia Knight (University of Minnesota Duluth, US)
-  * Wen Kokke (University of Edinburgh, UK)
-  * Ivan Lanese (University of Bologna, IT)
-  * Karoliina Lehtinen (CNRS - LIS, Aix-Marseille University, FR)
-  * Alberto Lluch Lafuente (Technical University of Denmark, DK)
-  * Diego Marmsoler (University of Exeter, UK)
-  * Hernán Melgratti (University of Buenos Aires, AR)
-  * Maurizio Murgia (University of Trento, IT)
-  * Kirstin Peters (TU Darmstadt, DE)
-  * Johannes Åman Pohjola (Data61/CSIRO, AU) 
-  * Ivan Prokic (University of Novi Sad, RS)
-  * Matteo Sammartino (Royal Holloway, University of London, UK)
-  * Hugo Torres Vieira (C4 - University of Beira Interior, PT)
-  * Laura Voinea (University of Kent, UK)
-  * Uma Zalakian (University of Glasgow, UK)
--->
+- [Duncan Paul Attard](https://duncanatt.github.io/) (Reykjavík University, IS)
+- [Massimo Bartoletti](https://tcs.unica.it/members/bart) (Università di Cagliari, IT)
+- [Davide Basile](https://davidebasile.github.io/) (ISTI CNR, IT)
+- [Hélène Coullon](https://helene-coullon.fr/) (IMT Atlantique, FR)
+- [Jovana Dedeić](http://imft.ftn.uns.ac.rs/math/People/JovanaRadenovi%C4%87) (Faculty of Technical Sciences, University of Novi Sad, RS)
+- [Simon Fowler](http://www.simonjf.com/) (University of Glasgow School of Computing Science, GB-SCT)
+- [Ludovic Henrio](https://lhenrio.github.io/) (CNRS, FR)
+- [Keigo Imai](https://keigoimai.info/) (Gifu University, JP)
+- [Ivan Lanese](http://www.cs.unibo.it/~lanese/) (University of Bologna, IT)
+- [Julien Lange](https://www.cs.rhul.ac.uk/~jlange) (Royal Holloway, University of London, GB)
+- [Diego Marmsoler](https://www.marmsoler.com/) (University of Exeter, GB)
+- [Marco Peressotti](https://marcoperessotti.com/) (University of Southern Denmark - SDU, DK)
+- [Kirstin Peters](https://www.informatik.tu-darmstadt.de/fb20/organisation_fb20/professuren_und_gruppenleitungen/fb20professuren_und_gruppenleitungen_detailseite_84096.en.jsp) (Technischen Universität Darmstadt, GE)
+- [Ivan Prokić](http://imft.ftn.uns.ac.rs/~iprokic/Main) (Faculty of Technical Sciences, University of Novi Sad, RS)
+- [Matteo Sammartino](https://matteosammartino.com/) (Royal Holloway, University of London, GB)
 
 ## Steering Committee
 
