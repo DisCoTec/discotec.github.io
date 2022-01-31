@@ -26,27 +26,31 @@ The topics of the workshop include, but are not limited to:
 ## Program
 TBA
 
+#Program Chairs
+
+- Andrea Burattin, Technical University of Denmark, Denmark
+- Pascal Poizat, University Paris Nanterre, France
+- Lorenzo Rossi, University of Camerino, Italy
+
 ## Submission Guidelines
 
 CoMinDS welcomes submissions of short papers (max 8 pages) presenting novel ideas, position papers, and presenting preliminary results within the theme of collaborative mining and regular paper (max 15 pages) discussing original research works. 
 Papers must be formatted using CEUR-ART format (one column style) available [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip), and must be submitted electronically via the EasyChair submission system, available at (TBA).
 
-Proceedings shall be submitted to CEUR-WS.org for online publication. Selected, accepted research papers will be considered for publication in an extended and revised form in a special issue of XXXX, edited by XXX.
+Proceedings shall be submitted to CEUR-WS.org for online publication. Selected, accepted research papers could be considered for publication in an extended and revised form in a journal special issue.
 
 ## Important Dates
--   (TBA) : paper submission 
--   (TBA) : author notification 
--   June 13, 2022: CoMinDS workshop
+-   April 7th, 2022: paper submission 
+-   May 20th, 2022: author notification 
+-   June 13th, 2022: CoMinDS workshop
 
-## Program Committee
-- Lorenzo Rossi, University of Camerino, Italy
-- Andrea Burattin, Technical University of Denmark, Denmark
--  Pascal Poizat, University Paris Nanterre, France 
+## Program Committee (to be completed)
+- Lorenzo Rossi, University of Camerino, Italy (co-chair)
+- Andrea Burattin, Technical University of Denmark, Denmark (co-chair)
+- Pascal Poizat, University Paris Nanterre, France (co-chair)
+- Flavio Corradini, University of Camerino, Italy  
+- Barbara Re, University of Camerino, Italy
 
-## Organization Committee 
-
-* Flavio Corradini, University of Camerino, Italy  
-* Barbara Re, University of Camerino, Italy
 
 ## Invited Speakers
 (TBA)
