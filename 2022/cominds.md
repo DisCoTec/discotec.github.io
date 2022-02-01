@@ -26,12 +26,6 @@ The topics of the workshop include, but are not limited to:
 ## Program
 TBA
 
-# Program Chairs
-
-- Andrea Burattin, Technical University of Denmark, Denmark
-- Pascal Poizat, University Paris Nanterre, France
-- Lorenzo Rossi, University of Camerino, Italy
-
 ## Submission Guidelines
 CoMinDS welcomes submissions of short papers (max 8 pages) presenting novel ideas, position statements, and preliminary results within the theme of collaborative mining and regular paper (max 15 pages) discussing original research works. 
 Papers must be formatted using CEUR-ART format (one column style) available [http://ceur-ws.org/Vol-XXX/CEURART.zip](http://ceur-ws.org/Vol-XXX/CEURART.zip), and must be submitted electronically via the EasyChair submission system, available at [https://easychair.org/conferences/?conf=cominds2022](https://easychair.org/conferences/?conf=cominds2022).
@@ -43,12 +37,20 @@ Proceedings shall be submitted to CEUR-WS.org for online publication. Selected, 
 -   May 20th, 2022: author notification 
 -   June 13th, 2022: CoMinDS workshop
 
+## Program Chairs
+
+- Andrea Burattin, Technical University of Denmark, Denmark
+- Pascal Poizat, University Paris Nanterre, France
+- Lorenzo Rossi, University of Camerino, Italy
+
 ## Program Committee (to be completed)
-- Lorenzo Rossi, University of Camerino, Italy (co-chair)
+
 - Andrea Burattin, Technical University of Denmark, Denmark (co-chair)
-- Pascal Poizat, University Paris Nanterre, France (co-chair)
 - Flavio Corradini, University of Camerino, Italy  
+- Pascal Poizat, University Paris Nanterre, France (co-chair)
 - Barbara Re, University of Camerino, Italy
+- Lorenzo Rossi, University of Camerino, Italy (co-chair)
+- Massimo Tivoli, University of L'Aquila, Italy
 
 
 ## Invited Speakers
