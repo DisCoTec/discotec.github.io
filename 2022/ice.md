@@ -118,7 +118,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 ## ICEcreamers
 
-  * [Clément Aubert](https://spots.augusta.edu/caubert/)  (Augusta University, GA, USA) - `aubert (at) math.cnrs.fr`
+  * [Clément Aubert](https://spots.augusta.edu/caubert/)  (Augusta University, USA) - `aubert (at) math.cnrs.fr`
   * [Cinzia Di Giusto](https://www.i3s.unice.fr/digiusto/node/1) (Université Côte d'Azur, CNRS, I3SSophia Antipolis, FR) - `cinzia.di-giusto (at) unice.fr`
   * [Larisa Safina](https://lsafina.github.io/) (Inria, FR) - `larisa.safina (at) inria.fr`
   * [Alceste Scalas](https://www.imm.dtu.dk/~alcsc/) (Technical University of Denmark, DK) - `alcsc (at) dtu.dk`
@@ -135,12 +135,14 @@ To be completed, but have already accepted:
 - [Hélène Coullon](https://helene-coullon.fr/) (IMT Atlantique, FR)
 - [Jovana Dedeić](http://imft.ftn.uns.ac.rs/math/People/JovanaRadenovi%C4%87) (Faculty of Technical Sciences, University of Novi Sad, RS)
 - [Simon Fowler](http://www.simonjf.com/) (University of Glasgow School of Computing Science, GB-SCT)
+- [Saverio Giallorenzo](https://www.saveriogiallorenzo.com/) (University of Southern Denmark, DK)
 - [Ludovic Henrio](https://lhenrio.github.io/) (CNRS, FR)
 - [Keigo Imai](https://keigoimai.info/) (Gifu University, JP)
+- [Sung-Shik Jongmans](http://sungshik.github.io/) (Open University of the Netherlands, NL)
 - [Ivan Lanese](http://www.cs.unibo.it/~lanese/) (University of Bologna, IT)
 - [Julien Lange](https://www.cs.rhul.ac.uk/~jlange) (Royal Holloway, University of London, GB)
 - [Diego Marmsoler](https://www.marmsoler.com/) (University of Exeter, GB)
-- [Marco Peressotti](https://marcoperessotti.com/) (University of Southern Denmark - SDU, DK)
+- [Marco Peressotti](https://marcoperessotti.com/) (University of Southern Denmark, DK)
 - [Kirstin Peters](https://www.informatik.tu-darmstadt.de/fb20/organisation_fb20/professuren_und_gruppenleitungen/fb20professuren_und_gruppenleitungen_detailseite_84096.en.jsp) (Technischen Universität Darmstadt, GE)
 - [Ivan Prokić](http://imft.ftn.uns.ac.rs/~iprokic/Main) (Faculty of Technical Sciences, University of Novi Sad, RS)
 - [Matteo Sammartino](https://matteosammartino.com/) (Royal Holloway, University of London, GB)
