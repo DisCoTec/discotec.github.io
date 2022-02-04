@@ -47,6 +47,7 @@ Proceedings shall be submitted to CEUR-WS.org for online publication. Selected, 
 
 - Andrea Burattin, Technical University of Denmark, Denmark (co-chair)
 - Flavio Corradini, University of Camerino, Italy  
+- Andrea Marella, Sapienza Università di Roma, Italy
 - Jorge Munoz-Gama, Pontificia Universidad Católica de Chile, Chile 
 - Pascal Poizat, University Paris Nanterre, France (co-chair)
 - Luise Pufahl, Technische Universität Berlin, Germany
