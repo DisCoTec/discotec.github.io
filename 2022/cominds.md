@@ -46,6 +46,7 @@ Proceedings shall be submitted to CEUR-WS.org for online publication. Selected, 
 ## Program Committee (to be completed)
 
 - Andrea Burattin, Technical University of Denmark, Denmark (co-chair)
+- Chiara Di Francescomarino, Fondazione Bruno Kessler, Italy
 - Flavio Corradini, University of Camerino, Italy  
 - Andrea Marella, Sapienza Università di Roma, Italy
 - Jorge Munoz-Gama, Pontificia Universidad Católica de Chile, Chile 
