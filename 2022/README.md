@@ -47,6 +47,14 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 * [DAIS 2022](https://www.discotec.org/2022/dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2022](https://www.discotec.org/2022/forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
+<!--
+## Keynote Speakers
+
+* [Katerina Argyraki](https://people.epfl.ch/katerina.argyraki), EPFL, CH
+* [Maarten van Steen](https://people.utwente.nl/m.r.vansteen), University of Twente, NL 
+* [Luca Viganò](http://www.lucavigano.com/), King's College London, UK
+ 
+-->
 
 
 ### Important Dates
@@ -65,8 +73,8 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 For all workshops:
 - ~~**Workshop proposal submission deadline (first round)** December 21, 2021~~ 
 - ~~**Notification of accepted workshop proposals (first round):** December 27, 2021~~ 
-- **Workshop proposal submission deadline (second round):** January 24, 2022
-- **Notification of accepted workshop proposals (second round):** January 31, 2022
+- ~~**Workshop proposal submission deadline (second round):** January 24, 2022~~
+- ~~**Notification of accepted workshop proposals (second round):** January 31, 2022~~
 - **Workshop paper submission deadline:** Mid April 2022
 - **Notification of accepted workshop papers:** Mid May 2022 
 - **Workshops:** June 13 and 17, 2022 
@@ -81,6 +89,8 @@ For all tutorials:
 * [ICE 2022](https://www.discotec.org/2022/ice) - Workshop on Interaction and Concurrency Experience
 * [BlockTEE 2022](https://www.discotec.org/2022/blocktee) - Workshop on Blockchain Technologies and Trusted Execution Environments
 * [REMV 2022](https://www.discotec.org/2022/remv) - Workshop on Robotics, Electronics and Machine Vision
+* [FOCODILE 2022](https://www.discotec.org/2022/focodile) - Workshop on the Foundations of Consensus and Distributed Ledgers
+* [CoMinDs 2022](https://www.discotec.org/2022/cominds) - Workshop on Collaborative Mining for Distributed Systems
 
 <!--
 
@@ -88,31 +98,6 @@ For all tutorials:
 * [DisCoTec Tools](https://www.discotec.org/2021/tutorials) - Tutorial Sessions 
 
 
--->
-
-
-
-
-
-
-
-<!-- ### Important Dates -->
-<!-- * January 27, 2021 - Workshop proposal submission deadline
-* February 1, 2021 - Notification of accepted workshop proposals
-* Mid April, 2021 - Workshop paper submission deadline
-* Mid May, 2021 - Notification of accepted workshop papers -->
-
-<!-- 
-* [DisCoTec Tools](https://www.discotec.org/2020/tutorials) - Tutorial Sessions 
-* [ICE 2020](https://www.discotec.org/2020/ice) - Workshop on Interaction and Concurrency Experience
-* [FOCODILE 2020](https://www.discotec.org/2020/focodile) - Workshop on the Foundations of Consensus and Distributed Ledgers
--->
-<!--
-## Keynote Speakers
-
-* [Gilles Fedak](invited#gilles-fedak), iExec, FR
-* [Mira Mezini](invited#mira-mezini), Technical University of Darmstadt, DE
-* [Alexandra Silva](invited#alexandra-silva), University College London, UK 
 -->
 
 
