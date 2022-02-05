@@ -67,7 +67,7 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 
 
 ## Satellite Events
-[Call for Satellite Events Proposals](csep): We invite the community to submit proposals for one day workshops and tutorials on topics related to the distributed computing field. 
+[Call for Satellite Events Proposals](csep): We invite the community to submit proposals for ~~one day workshops and~~ tutorials on topics related to the distributed computing field. 
 
 ### Important Dates
 For all workshops:
