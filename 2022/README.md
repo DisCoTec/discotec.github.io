@@ -86,11 +86,12 @@ For all tutorials:
 
 ### Workshops
 
-* [ICE 2022](https://www.discotec.org/2022/ice) - Workshop on Interaction and Concurrency Experience
-* [BlockTEE 2022](https://www.discotec.org/2022/blocktee) - Workshop on Blockchain Technologies and Trusted Execution Environments
-* [REMV 2022](https://www.discotec.org/2022/remv) - Workshop on Robotics, Electronics and Machine Vision
-* [FOCODILE 2022](https://www.discotec.org/2022/focodile) - Workshop on the Foundations of Consensus and Distributed Ledgers
+* [BlockTEE 2022](https://www.discotec.org/2022/blocktee) - Workshop on Blockchain Technologies and 
+Trusted Execution Environments
 * [CoMinDs 2022](https://www.discotec.org/2022/cominds) - Workshop on Collaborative Mining for Distributed Systems
+* [FOCODILE 2022](https://www.discotec.org/2022/focodile) - Workshop on the Foundations of Consensus and Distributed Ledgers
+* [ICE 2022](https://www.discotec.org/2022/ice) - Workshop on Interaction and Concurrency Experience
+* [REMV 2022](https://www.discotec.org/2022/remv) - Workshop on Robotics, Electronics and Machine Vision
 
 <!--
 
