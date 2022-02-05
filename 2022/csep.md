@@ -6,7 +6,7 @@ DisCoTec 2022 is one of the major events sponsored by the International Federati
 
 Pre-conference workshops and tutorials will take place on **Monday, June 13, 2022**, and post-conference workshops on **Friday, June 17, 2022**.
 
-Submissions of workshop proposals must reach the workshop chairs by ~~**December 21, 2021 (first round)**~~ and **January 24, 2022 (second round)**.
+Submissions of workshop proposals must reach the workshop chairs by ~~**December 21, 2021 (first round)**~~ and ~~**January 24, 2022 (second round)**~~.
 
 **COVID-19:** DisCoTec 2022 is planned as a physical, in-person event, with certain support for remote presence, 
 both for speakers and for other participants who are unable or unwilling to come. Depending on the 
@@ -32,20 +32,22 @@ A workshop proposal must include the following information:
 **Important dates (for all workshops)**:
   - ~~December 21, 2021: Workshop proposal submission deadline (first round)~~
   - ~~December 27, 2021: Notification of accepted workshop proposals (first round)~~
-  - January 24, 2022: Workshop proposal submission deadline (second round)
-  - January 31, 2022: Notification of accepted workshop proposals (second round)
+  - ~~January 24, 2022: Workshop proposal submission deadline (second round)~~
+  - ~~January 31, 2022: Notification of accepted workshop proposals (second round)~~
   - Mid April 2022: Workshop paper submission deadline
   - Mid May 2022: Notification of accepted workshop papers
   - June 13 and 17, 2022: Workshops
 
 The submission and notification deadlines of the workshops are at the discretion of the individual workshop chairs. However, the notification must be no later than the early registration deadline for DisCoTec 2022 (to be announced).
 
+<!--
 **Submission:**
 
 Workshop proposals can be submitted to the Workshop Chair via the following form:
 
 <https://forms.gle/TDAfKLT7q6rHvveM7>
 
+-->
 
 ## Tutorials 
 
