@@ -24,7 +24,7 @@ The topics of the workshop include, but are not limited to:
 * Streaming Collaborative Mining
 
 CoMinDs is an activity of the IEEE Task Force on Process Mining
-![Task Force in Process Mining logo](https://www.tf-pm.org/pics/logo.jpg)
+![Task Force on Process Mining logo](https://www.tf-pm.org/pics/logo.jpg)
 
 ## Program
 TBA
@@ -53,6 +53,7 @@ Proceedings shall be submitted to CEUR-WS.org for online publication. Selected, 
 - Flavio Corradini, University of Camerino, Italy  
 - Orlenys López Pintado, University of Tartu, Estonia
 - Andrea Marella, Sapienza Università di Roma, Italy
+- Giovanni Meroni, Politecnico di Milano, Italy
 - Jorge Munoz-Gama, Pontificia Universidad Católica de Chile, Chile 
 - Pascal Poizat, University Paris Nanterre, France (co-chair)
 - Luise Pufahl, Technische Universität Berlin, Germany
