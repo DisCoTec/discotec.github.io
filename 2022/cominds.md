@@ -23,6 +23,9 @@ The topics of the workshop include, but are not limited to:
 * Collaborative Decision Mining 
 * Streaming Collaborative Mining
 
+CoMinDs is an activity of the IEEE Task Force on Process Mining
+![Task Force in Process Mining logo](https://www.tf-pm.org/pics/logo.jpg)
+
 ## Program
 TBA
 
@@ -60,3 +63,5 @@ Proceedings shall be submitted to CEUR-WS.org for online publication. Selected, 
 
 ## Invited Speakers
 (TBA)
+
+
