@@ -52,7 +52,7 @@ Proceedings shall be submitted to CEUR-WS.org for online publication. Selected, 
 - Chiara Di Francescomarino, Fondazione Bruno Kessler, Italy
 - Flavio Corradini, University of Camerino, Italy  
 - Orlenys López Pintado, University of Tartu, Estonia
-- Andrea Marella, Sapienza Università di Roma, Italy
+- Andrea Marrella, Sapienza Università di Roma, Italy
 - Giovanni Meroni, Politecnico di Milano, Italy
 - Jorge Munoz-Gama, Pontificia Universidad Católica de Chile, Chile 
 - Pascal Poizat, University Paris Nanterre, France (co-chair)
