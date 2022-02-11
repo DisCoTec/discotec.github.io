@@ -68,7 +68,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
   * **15 April 2022**: paper submission
   * **3 June 2022**: notification
   * **17 June 2022**: ICE workshop
-  * 12 July 2022: camera-ready for EPTCS post-proceedings 
+  * 12 July 2022: camera-ready for EPTCS post-proceedings (to be confirmed)
 
 
 ## Selection Procedure
