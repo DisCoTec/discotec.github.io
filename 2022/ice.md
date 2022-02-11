@@ -7,7 +7,7 @@ Interaction and Concurrency Experiences (ICE) is a series of international scien
 **COVID-19:** ICE 2022 is planned as a physical, in-person event, with certain support for remote presence, both for speakers and for other participants who are unable or unwilling to come. Depending on the 
 pandemic situation, we may have to make a decision whether to cancel the physical component of the event or not.
 
-<!-- Due to the the COVID-19 situation, ICE 2021 will be a **virtual event**. -->
+<!-- Due to the the COVID-19 situation, ICE 2022 will be a **hybrid event**. -->
 
 ## Highlights
 
@@ -27,9 +27,9 @@ pandemic situation, we may have to make a decision whether to cancel the physica
 <!--
 ## Accepted papers and oral communications
 
-See the [**ICE 2021 programme**](programme#friday-18-june).
+See the [**ICE 2022 programme**](programme#friday-18-june).
 
-You can also download the [**ICE 2021 pre-proceedings**](ice21-preproceedings.pdf).
+You can also download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pdf).
 
 - *Multiparty Session Programming with Global Protocol Combinators* (oral communication) <br/> by Keigo Imai, Rumyana Neykova, Nobuko Yoshida, and Shoji Yuen
 - *Deadlock Freedom for Asynchronous and Cyclic Process Networks* <br/> by Bas van den Heuvel and Jorge A. Pérez
@@ -68,7 +68,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
   * **15 April 2022**: paper submission
   * **3 June 2022**: notification
   * **17 June 2022**: ICE workshop
-  * 12 July 2021: camera-ready for EPTCS post-proceedings 
+  * 12 July 2022: camera-ready for EPTCS post-proceedings 
 
 
 ## Selection Procedure
