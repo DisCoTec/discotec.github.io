@@ -15,7 +15,7 @@ pandemic situation, we may have to make a decision whether to cancel the physica
   * ICE welcomes full papers to be included in the proceedings
   * ICE also welcomes oral communications of already published or preliminary work
   * Invited speakers: TBA
-  * Publication in [EPTCS](https://eptcs.org/)
+  * Publication in [EPTCS](https://eptcs.org/) _(to be confirmed)_
   * Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
   * Contact: `ice22 (at) googlegroups.com`
 
@@ -63,15 +63,13 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 
 ## Important dates
-TBA
 
-<!--
-  * ~~15 April 2021~~ **1 May 2021**: abstract submission **(extended!)**
-  * ~~19 April 2021~~ **5 May 2021**: paper submission **(extended!)**
-  * **4 June 2021**: notification
-  * **18 June 2021**: ICE workshop
+  * **11 April 2022**: abstract submission
+  * **15 April 2022**: paper submission
+  * **3 June 2022**: notification
+  * **17 June 2022**: ICE workshop
   * 12 July 2021: camera-ready for EPTCS post-proceedings 
--->
+
 
 ## Selection Procedure
 
@@ -109,12 +107,9 @@ Accepted research papers will be published after the workshop in [Electronic Pro
 
 We plan to invite authors of selected papers and brief announcements to submit their work in a special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier). Such contributions will be regularly peer-reviewed according to the standard journal policy, but they will be handled in a shorter time than regular submissions. A list of published and in preparation special issues of previous ICE editions is reported below.
 
-<!--
 ## Invited speakers 
 
-  * [Helene Coullon](http://helene-coullon.fr/) (IMT Atlantique, FR)
-  * [Laura Bocchi](https://www.kent.ac.uk/computing/people/3119/bocchi-laura) (University of Kent, UK)
--->
+  * TBA
 
 ## ICEcreamers
 
@@ -125,9 +120,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 Use `ice22 (at) googlegroups.com` to reach all the ICEcreamers at once.
 
-## Programme Committee
-
-To be completed, but have already accepted:
+## Programme Committee (Under Construction)
 
 - [Duncan Paul Attard](https://duncanatt.github.io/) (Reykjavík University, IS)
 - [Massimo Bartoletti](https://tcs.unica.it/members/bart) (Università di Cagliari, IT)
