@@ -47,14 +47,14 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 * [DAIS 2022](https://www.discotec.org/2022/dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2022](https://www.discotec.org/2022/forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
-<!--
+
 ## Keynote Speakers
 
-* [Katerina Argyraki](https://people.epfl.ch/katerina.argyraki), EPFL, CH
+* [Muffy Calder](http://www.dcs.gla.ac.uk/~muffy/), University of Glasgow, UK
 * [Maarten van Steen](https://people.utwente.nl/m.r.vansteen), University of Twente, NL 
 * [Luca Viganò](http://www.lucavigano.com/), King's College London, UK
  
--->
+
 
 
 ### Important Dates
