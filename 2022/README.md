@@ -48,21 +48,18 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 * [FORTE 2022](https://www.discotec.org/2022/forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 
-## Keynote Speakers
-
-* [Muffy Calder](http://www.dcs.gla.ac.uk/~muffy/), University of Glasgow, UK
-* [Maarten van Steen](https://people.utwente.nl/m.r.vansteen), University of Twente, NL 
-* [Luca Viganò](http://www.lucavigano.com/), King's College London, UK
- 
-
-
-
 ### Important Dates
 * **Abstract submission:** ~~January 28, 2022~~ February 11, 2022 (Extended)
 * **Paper submission:** ~~February 4, 2022~~ February 18, 2022 (Extended)
 * **Paper notification:** March 25, 2022
 * **Camera-ready:** April 24, 2022
 * **DisCoTec conference:** June 13-17, 2022
+
+## Keynote Speakers
+
+* [Muffy Calder](http://www.dcs.gla.ac.uk/~muffy/), University of Glasgow, UK
+* [Maarten van Steen](https://people.utwente.nl/m.r.vansteen), University of Twente, NL 
+* [Luca Viganò](http://www.lucavigano.com/), King's College London, UK
 
 
 
