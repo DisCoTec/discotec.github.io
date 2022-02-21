@@ -48,8 +48,8 @@ The registration fees for accepted papers is due regardless of the selected publ
 
 
 ## Program chairs
-* [Valerio Schiavoni]() (University of Neuchatel, Switzerland)
-* [Miguel Matos]() (IST-U. Lisboa, Portugal)
+* [Valerio Schiavoni]() (University of Neuchatel)
+* [Miguel Matos]() (INESC-ID & U. Lisboa)
 
 ## Program committee
  * Hans P. Reiser (Reykjavik University)
@@ -59,3 +59,5 @@ The registration fees for accepted papers is due regardless of the selected publ
  * Heverson Ribeiro
  * Nuno Santos (INESC-ID / Instituto Superior Tecnico)
  * Marcus	Brandenburger (	IBM Research - Zurich)
+ * Marcelo Pasin (University of Neuchatel)
+ * Leander	Jehl (TU Braunschweig)
