@@ -151,7 +151,7 @@ Use `ice22 (at) googlegroups.com` to reach all the ICEcreamers at once.
   * [Ivan Lanese](https://www.cs.unibo.it/~lanese/) (University of Bologna, IT)
   * [Alberto Lluch Lafuente](http://www.imm.dtu.dk/~albl/) (Technical University of Denmark, DK)
   * [Sophia Knight](https://www.lix.polytechnique.fr/~sophia/) (University of Minnesota Duluth, USA)
-  * [Hugo Torres Vieira](http://webx.ubi.pt/~hugo.torres.vieira/) (C4 - University of Beira Interior, PT)
+  * Hugo Torres Vieira (Evidence Srl, Italy)
 
 
 ## Previous editions
