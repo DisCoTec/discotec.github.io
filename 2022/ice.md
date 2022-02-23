@@ -126,6 +126,7 @@ Use `ice22 (at) googlegroups.com` to reach all the ICEcreamers at once.
 - [Massimo Bartoletti](https://tcs.unica.it/members/bart) (Università di Cagliari, IT)
 - [Davide Basile](https://davidebasile.github.io/) (ISTI CNR, IT)
 - [Hélène Coullon](https://helene-coullon.fr/) (IMT Atlantique, FR)
+- [Alex Coto](https://www.gssi.it/people/students/students-computer-science/item/4803-coto-alex) (Gran Sasso Science Institute, IT)
 - [Jovana Dedeić](http://imft.ftn.uns.ac.rs/math/People/JovanaRadenovi%C4%87) (Faculty of Technical Sciences, University of Novi Sad, RS)
 - [Simon Fowler](http://www.simonjf.com/) (University of Glasgow School of Computing Science, GB-SCT)
 - [Saverio Giallorenzo](https://www.saveriogiallorenzo.com/) (University of Southern Denmark, DK)
