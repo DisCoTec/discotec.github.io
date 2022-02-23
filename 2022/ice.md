@@ -120,7 +120,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 Use `ice22 (at) googlegroups.com` to reach all the ICEcreamers at once.
 
-## Programme Committee (Under Construction) {#programme-committee}
+## Programme Committee {#programme-committee}
 
 - [Duncan Paul Attard](https://duncanatt.github.io/) (Reykjavík University, IS)
 - [Massimo Bartoletti](https://tcs.unica.it/members/bart) (Università di Cagliari, IT)
