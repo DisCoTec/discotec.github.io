@@ -129,7 +129,7 @@ Use `ice22 (at) googlegroups.com` to reach all the ICEcreamers at once.
 - [Hélène Coullon](https://helene-coullon.fr/) (IMT Atlantique, FR)
 - [Jovana Dedeić](http://imft.ftn.uns.ac.rs/math/People/JovanaRadenovi%C4%87) (Faculty of Technical Sciences, University of Novi Sad, RS)
 - [Simon Fowler](http://www.simonjf.com/) (University of Glasgow School of Computing Science, GB-SCT)
-- [Saverio Giallorenzo](https://www.saveriogiallorenzo.com/) (University of Southern Denmark, DK)
+- [Saverio Giallorenzo](https://www.saveriogiallorenzo.com/) (University of Bologna, IT)
 - [Ludovic Henrio](https://lhenrio.github.io/) (CNRS, FR)
 - [Keigo Imai](https://keigoimai.info/) (Gifu University, JP)
 - [Sung-Shik Jongmans](http://sungshik.github.io/) (Open University of the Netherlands, NL)
