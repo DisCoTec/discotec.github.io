@@ -17,7 +17,6 @@ pandemic situation, we may have to make a decision whether to cancel the physica
   * Invited speakers: [Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) (Microsoft Research, UK) and another speaker TBA
   * Publication in [EPTCS](https://eptcs.org/)
   * Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
-  * Invited speakers: [Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) (Microsoft Research, UK) + TBA
   * Contact: `ice22 (at) googlegroups.com`
 
 <!--  
