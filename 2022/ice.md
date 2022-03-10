@@ -14,7 +14,7 @@ pandemic situation, we may have to make a decision whether to cancel the physica
   * Distinctive selection procedure
   * ICE welcomes full papers to be included in the proceedings
   * ICE also welcomes oral communications of already published or preliminary work
-  * Invited speakers: [Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) (Microsoft Research Lab – Cambridge, UK) and TBA
+  * Invited speakers: [Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) (Microsoft Research, UK) and another speaker TBA
   * Publication in [EPTCS](https://eptcs.org/)
   * Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
   * Contact: `ice22 (at) googlegroups.com`
@@ -109,8 +109,8 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 ## Invited speakers 
 
-  * [Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) (Microsoft Research Lab – Cambridge, UK)
-  * TBA
+  * [Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) (Microsoft Research, UK)
+  * (Another speaker TBA)
 
 ## ICEcreamers
 
