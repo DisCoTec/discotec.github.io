@@ -30,7 +30,7 @@ Discussed topics: understanding of basic session types, implementing shallow and
 
 [Lorenzo Gheri](l.gheri@imperial.ac.uk) is a research Associate (postdoc) at Imperial College London with a background in mathematics, he works on the mechanisation and theory of multiparty session types.
 
-### Smart contracts in Bitcoin and BitML
+## Smart contracts in Bitcoin and BitML
 
 Besides plain transfers of crypto-currency, Bitcoin also allows users to exchange their bitcoins according to pre-agreed rules, i.e. smart contracts. To this purpose, Bitcoin transactions feature a non Turing-complete script language, which is used to specify their redeem conditions. To overcome the limited expressiveness of this language, writing a smart contract in Bitcoin requires devising a protocol through which users can append sequences of transactions in an order consistent with the ideal overall behaviour of the smart contract.
 
@@ -52,7 +52,7 @@ The tutorial has the following goals:
 [Roberto Zunino](mailto:roberto.zunino@unitn.it) is Associate Professor at the Department of Mathematics of the University of Trento. His main research themes are related to the modelling of distributed systems and their verification, employing techniques from concurrency theory, programming languages theory, formal methods, type systems, and static analysis. He is currently researching languages for modelling smart contracts on top of blockchains which do not natively support them, and assessing their security through verification algorithms. He is part of CryptoLabTN, a research group at University of Trento focusing on cryptography and its applications, including blockchain technologies. He is a core member of the Italian Distributed Ledger Technology Working Group, and an associate editor of Frontiers in Blockchain.
 
 
-### Performance evaluation of networks, grids, and clouds by colored Petri nets
+## Performance evaluation of networks, grids, and clouds by colored Petri nets
 
 A network should be correct and efficient. While the correctness of networks functioning is established through the verification of networking protocols, the network efficiency is estimated in the process of performance evaluation using either analytical methods or simulation, or both. A classical Petri net is applied for verification of networking protocols. A colored Petri net, that represents a union of a Petri net graph and a functional programming language, is a convenient and flexible tool for simulating networks, grids, and clouds. Using special measurement components of colored Petri nets allows us to obtain performance and QoS characteristics directly in the process of simulation. A series of colored Petri net models has been developed for simulating Ethernet, IP, MPLS, Bluetooth, and PBB networks, square and multidimensional (hypercube and hypertorus) grids. Performance evaluation is a necessary stage of a network design for real-time applications. Recently multidimensional torus is applied as the topology of communication systems of supercomputers and clusters, for instance the most powerful supercomputer Fugaku of Fujitsu uses Tofu Interconnect D having topology of 6D torus.
 
