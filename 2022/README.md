@@ -64,8 +64,10 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 
 
 ## Satellite Events
+<!--
 [Call for Satellite Events Proposals](csep): We invite the community to submit proposals for ~~one day workshops and~~ tutorials on topics related to the distributed computing field. 
 
+ 
 ### Important Dates
 For all workshops:
 - ~~**Workshop proposal submission deadline (first round)** December 21, 2021~~ 
@@ -79,7 +81,13 @@ For all workshops:
 For all tutorials:
 - **Tutorial proposal submission deadline:** February 28, 2022 
 - **Notification of accepted tutorial proposals:** March 07, 2022
-- **Tutorials:** June 13, 2022
+-->
+DisCoTec 2022 gathers tutorials and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+
+Pre-conference workshops and tutorials will take place on **Monday, June 13, 2022**, and post-conference workshops on **Friday, June 17, 2022**.
+
+### Tutorials
+* [DisCoTec Tutorials]() -  Tutorial sessions
 
 ### Workshops
 
