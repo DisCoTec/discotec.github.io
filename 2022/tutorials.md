@@ -8,7 +8,7 @@ The DisCoTec Tutorials focus on emerging topics and aspects of the distributed c
 
 This tutorial illustrates some emerging aspects of topological spatial and spatio-temporal model checking, going through spatial logics, the language SLCS, current implementation techniques, and some relevant tools and application domains. The audience is provided with a unifying theory of four apparently distant, but intimately related topics: formalization of properties of points in a topological space, identification of nodes in a graph, image segmentation, analysis of 3D meshes.
 
-**Speaker's Biography:** 
+**Speaker** 
 
 [Vincenzo Ciancia](mailto:vincenzo.ciancia@isti.cnr.it) got his Ph.D. in 2009 with Ugo Montanari. As a post-doc at Univ. Complutense Madrid, ILLC (Amsterdam), IIT-CNR (Pisa), he focused on nominal computation, logic, category theory, process calculi, formal methods. Currently he works at ISTI-CNR Pisa (Formal Methods & Tools lab), on spatial and spatio-temporal model checking, geometric extensions, GPU implementations and HCI issues. He implemented many tools, among which the spatial model checker VoxLogicA, aimed at medical imaging.
 
@@ -20,7 +20,7 @@ The aim of this tutorial is to explore a repertoire of techniques that can be us
 
 Discussed topics: understanding of basic session types, implementing shallow and deep embeddings in Coq, learning how to use locally nameless (and EMTST), how to mechanise metatheory of session types (both binary and multiparty), and using coinduction for semantic representation of communication systems.
 
-**Speakers' Biography:**
+**Speakers**
 
 [David Castro-Perez](d.castro-perez@kent.ac.uk) is lecturer at the University of Kent. His research is on applying programming language-based techniques to the development of safe and predictable systems, with a strong emphasis on concurrent and distributed systems.
 
@@ -45,7 +45,7 @@ The tutorial has the following goals:
 - give the idea of how to prove the computational soundness of the BitML compiler
 - discuss how to enhance the expressiveness of Bitcoin contracts via minor extensions of the transaction mechanism
 
-**Speakers' Biography:**
+**Speakers**
 
 [Massimo Bartoletti](mailto:bart@unica.it) is Associate Professor at the Department of Mathematics and Computer Science of the University of Cagliari. His research activity concerns the development of tools and techniques for the specification, analysis and verification of software, with a special emphasis on security. Massimo Bartoletti is founder of the laboratory "Blockchain@Unica" (http://blockchain.unica.it), one of the largest academic research group on blockchain technologies in Italy, director of the node of the Cyber Security National Lab for the University of Cagliari, and core member of the CINI working group on Blockchain. The laboratory is currently investigating several aspects of blockchain technologies, among which custom Domain-Specific Languages for smart contracts. He is principal investigator of several R&D projects on blockchain technologies, editor in chief of the “Smart contracts” section of Frontiers in Blockchains, and member of the scientific board of several workshops on blockchain technologies. 
 
@@ -60,7 +60,7 @@ We will focus on the technique for modeling networks, grids, and clouds by color
 
 The tutorial is supported by teaching materials freely downloaded from the web-site of the tutor. 
 
-**Speaker's Biography:**
+**Speaker**
 
 [Dmitry A. Zaitsev](mailto:zsoftua@yahoo.com) received the Eng. degree in Applied Mathematics from Donetsk Polytechnic Institute, Donetsk, Ukraine, in 1986, the Ph.D. degree in Automated Control from the Kiev Institute of Cybernetics, Kiev, Ukraine, in 1991, and the Dr.Sc. degree in Telecommunications from the Odessa National Academy of Telecommunications, Odessa, Ukraine, in 2006. He developed the analysis of infinite Petri nets with regular structure, the decomposition of Petri nets in clans, generalized neighborhood for cellular automata, and the method of synthesis of fuzzy logic function given by tables. He developed Opera-Topaz software for manufacture operative planning and control; a new stack of networking protocols E6 and its implementation within Linux kernel; Petri net analysis software Deborah, Adriana, and ParAd; models of TCP, BGP, IOTP protocols, Ethernet, IP, MPLS, PBB, and Bluetooth networks. His current research interests include Petri net theory and its application in networking, computing and automated manufacture. Recently he started working in the area of exascale computing applying his theory of clans to speed-up solving sparse linear systems on parallel and distributed architectures. He was a co-director of joint projects with China and Austria. Recently he has been a visiting professor to Technical University of Dortmund, Germany on DAAD scholarship, to University of Tennessee Knoxville, USA on Fulbright scholarship and to Eindhoven University of Technology, Netherlands. He published a monograph, 3 book chapters and more than a hundred of papers including issues listed in JCR. He is a senior member of ACM and IEEE. Additional information including papers, software, models, video-lectures in put on personal website via http://daze.ho.ua 
 
@@ -74,7 +74,7 @@ Key to the paradigm is that, whilst armed with a strong formal and mathematical 
 
 In this tutorial, we will present the ΔQ paradigm, highlighting results from a number of large-scale industrial use cases, and providing hands-on introduction to how to use the process in real-world settings.  The tutorial is targeted at researchers, software developers, and managers.
 
-**Speakers' Biography:**
+**Speakers**
 
 [Kevin Hammond]() 
 
