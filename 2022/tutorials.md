@@ -28,7 +28,7 @@ Discussed topics: understanding of basic session types, implementing shallow and
 
 [Lorenzo Gheri](l.gheri@imperial.ac.uk) is research Associate (postdoc) at Imperial College London with a background in mathematics, he works on the mechanisation and theory of multiparty session types.
 
-[Lorenzo Gheri](l.gheri@imperial.ac.uk) is a research Associate (postdoc) at Imperial College London with a background in mathematics, he works on the mechanisation and theory of multiparty session types.
+[Martin Vassor](m.vassor@imperial.ac.uk) is a research Associate (postdoc) at Imperial College London with a background in mathematics, he works on the mechanisation and theory of multiparty session types.
 
 ## Smart contracts in Bitcoin and BitML
 
