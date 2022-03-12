@@ -25,7 +25,7 @@ Discussed topics: understanding of basic session types, implementing shallow and
 
 [David Castro-Perez](d.castro-perez@kent.ac.uk) is lecturer at the University of Kent. His research is on applying programming language-based techniques to the development of safe and predictable systems, with a strong emphasis on concurrent and distributed systems.
 
-[Francisco Ferreira](francisco.ferreiraruiz@rhul.ac.uk) is lecturer at Royal Holloway, University of London. His research is on safe and dependable software through a combination of type systems and mechanical proofs. Recently, my work concentrates on session types and mechanical proofs enabling certified software.
+[Francisco Ferreira](francisco.ferreiraruiz@rhul.ac.uk) is lecturer at Royal Holloway, University of London. His research is on safe and dependable software through a combination of type systems and mechanical proofs. Recently, his work concentrates on session types and mechanical proofs enabling certified software.
 
 [Lorenzo Gheri](l.gheri@imperial.ac.uk) is research Associate (postdoc) at Imperial College London with a background in mathematics, he works on the mechanisation and theory of multiparty session types.
 
