@@ -87,7 +87,7 @@ DisCoTec 2022 gathers tutorials and workshops that cover a broad spectrum of dis
 Pre-conference workshops and tutorials will take place on **Monday, June 13, 2022**, and post-conference workshops on **Friday, June 17, 2022**.
 
 ### Tutorials
-* [DisCoTec Tutorials]() -  Tutorial sessions
+* [DisCoTec Tutorials](tutorials) -  Tutorial sessions
 
 ### Workshops
 

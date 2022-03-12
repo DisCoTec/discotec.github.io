@@ -11,6 +11,7 @@ This tutorial illustrates some emerging aspects of topological spatial and spati
 **Speaker** 
 
 [Vincenzo Ciancia](mailto:vincenzo.ciancia@isti.cnr.it) got his Ph.D. in 2009 with Ugo Montanari. As a post-doc at Univ. Complutense Madrid, ILLC (Amsterdam), IIT-CNR (Pisa), he focused on nominal computation, logic, category theory, process calculi, formal methods. Currently he works at ISTI-CNR Pisa (Formal Methods & Tools lab), on spatial and spatio-temporal model checking, geometric extensions, GPU implementations and HCI issues. He implemented many tools, among which the spatial model checker VoxLogicA, aimed at medical imaging.
+<br/><br/>
 
 ## A Gentle Adventure Mechanising Message Passing Concurrency Systems
 
@@ -29,6 +30,8 @@ Discussed topics: understanding of basic session types, implementing shallow and
 [Lorenzo Gheri](l.gheri@imperial.ac.uk) is research Associate (postdoc) at Imperial College London with a background in mathematics, he works on the mechanisation and theory of multiparty session types.
 
 [Martin Vassor](m.vassor@imperial.ac.uk) is a research Associate (postdoc) at Imperial College London with a background in mathematics, he works on the mechanisation and theory of multiparty session types.
+
+<br/><br/>
 
 ## Smart contracts in Bitcoin and BitML
 
@@ -50,7 +53,7 @@ The tutorial has the following goals:
 [Massimo Bartoletti](mailto:bart@unica.it) is Associate Professor at the Department of Mathematics and Computer Science of the University of Cagliari. His research activity concerns the development of tools and techniques for the specification, analysis and verification of software, with a special emphasis on security. Massimo Bartoletti is founder of the laboratory "Blockchain@Unica" (http://blockchain.unica.it), one of the largest academic research group on blockchain technologies in Italy, director of the node of the Cyber Security National Lab for the University of Cagliari, and core member of the CINI working group on Blockchain. The laboratory is currently investigating several aspects of blockchain technologies, among which custom Domain-Specific Languages for smart contracts. He is principal investigator of several R&D projects on blockchain technologies, editor in chief of the “Smart contracts” section of Frontiers in Blockchains, and member of the scientific board of several workshops on blockchain technologies. 
 
 [Roberto Zunino](mailto:roberto.zunino@unitn.it) is Associate Professor at the Department of Mathematics of the University of Trento. His main research themes are related to the modelling of distributed systems and their verification, employing techniques from concurrency theory, programming languages theory, formal methods, type systems, and static analysis. He is currently researching languages for modelling smart contracts on top of blockchains which do not natively support them, and assessing their security through verification algorithms. He is part of CryptoLabTN, a research group at University of Trento focusing on cryptography and its applications, including blockchain technologies. He is a core member of the Italian Distributed Ledger Technology Working Group, and an associate editor of Frontiers in Blockchain.
-
+<br/><br/>
 
 ## Performance evaluation of networks, grids, and clouds by colored Petri nets
 
@@ -58,11 +61,13 @@ A network should be correct and efficient. While the correctness of networks fun
 
 We will focus on the technique for modeling networks, grids, and clouds by colored Petri nets in the environment of modeling system CPN Tools (http://cpntools.org). Manifold publications and real life projects acknowledge such advantages of modeling by colored Petri nets as: vivid graphical form of representation, high descriptive power, flexibility, and convenience of use. Firstly, we will create a model of a given network, using early created components for networks, debug it and observe the process of generating and delivering packets, check corresponding routing/switching tables and algorithms of their creation. Random distribution functions are widely applied for modeling the network traffic and packets processing within network and computing nodes. Secondly, we will supply the model with specially-designed measuring components to estimate the network performance and QoS directly in the process of simulation.
 
-The tutorial is supported by teaching materials freely downloaded from the web-site of the tutor. 
+The tutorial is supported by teaching materials freely downloaded from the web-site of the tutor at <http://daze.ho.ua>. 
 
 **Speaker**
 
-[Dmitry A. Zaitsev](mailto:zsoftua@yahoo.com) received the Eng. degree in Applied Mathematics from Donetsk Polytechnic Institute, Donetsk, Ukraine, in 1986, the Ph.D. degree in Automated Control from the Kiev Institute of Cybernetics, Kiev, Ukraine, in 1991, and the Dr.Sc. degree in Telecommunications from the Odessa National Academy of Telecommunications, Odessa, Ukraine, in 2006. He developed the analysis of infinite Petri nets with regular structure, the decomposition of Petri nets in clans, generalized neighborhood for cellular automata, and the method of synthesis of fuzzy logic function given by tables. He developed Opera-Topaz software for manufacture operative planning and control; a new stack of networking protocols E6 and its implementation within Linux kernel; Petri net analysis software Deborah, Adriana, and ParAd; models of TCP, BGP, IOTP protocols, Ethernet, IP, MPLS, PBB, and Bluetooth networks. His current research interests include Petri net theory and its application in networking, computing and automated manufacture. Recently he started working in the area of exascale computing applying his theory of clans to speed-up solving sparse linear systems on parallel and distributed architectures. He was a co-director of joint projects with China and Austria. Recently he has been a visiting professor to Technical University of Dortmund, Germany on DAAD scholarship, to University of Tennessee Knoxville, USA on Fulbright scholarship and to Eindhoven University of Technology, Netherlands. He published a monograph, 3 book chapters and more than a hundred of papers including issues listed in JCR. He is a senior member of ACM and IEEE. Additional information including papers, software, models, video-lectures in put on personal website via http://daze.ho.ua 
+[Dmitry A. Zaitsev](mailto:zsoftua@yahoo.com) received the Eng. degree in Applied Mathematics from Donetsk Polytechnic Institute, Donetsk, Ukraine, in 1986, the Ph.D. degree in Automated Control from the Kiev Institute of Cybernetics, Kiev, Ukraine, in 1991, and the Dr.Sc. degree in Telecommunications from the Odessa National Academy of Telecommunications, Odessa, Ukraine, in 2006. He developed the analysis of infinite Petri nets with regular structure, the decomposition of Petri nets in clans, generalized neighborhood for cellular automata, and the method of synthesis of fuzzy logic function given by tables. He developed Opera-Topaz software for manufacture operative planning and control; a new stack of networking protocols E6 and its implementation within Linux kernel; Petri net analysis software Deborah, Adriana, and ParAd; models of TCP, BGP, IOTP protocols, Ethernet, IP, MPLS, PBB, and Bluetooth networks. His current research interests include Petri net theory and its application in networking, computing and automated manufacture. Recently he started working in the area of exascale computing applying his theory of clans to speed-up solving sparse linear systems on parallel and distributed architectures. He was a co-director of joint projects with China and Austria. Recently he has been a visiting professor to Technical University of Dortmund, Germany on DAAD scholarship, to University of Tennessee Knoxville, USA on Fulbright scholarship and to Eindhoven University of Technology, Netherlands. He published a monograph, 3 book chapters and more than a hundred of papers including issues listed in JCR. He is a senior member of ACM and IEEE. Additional information including papers, software, models, video-lectures in put on personal website at <http://daze.ho.ua>. 
+
+<br/><br/>
 
 ## The ΔQ Systems Development Paradigm
 
