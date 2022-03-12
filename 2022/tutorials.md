@@ -30,7 +30,6 @@ Discussed topics: understanding of basic session types, implementing shallow and
 [Lorenzo Gheri](l.gheri@imperial.ac.uk) is research Associate (postdoc) at Imperial College London with a background in mathematics, he works on the mechanisation and theory of multiparty session types.
 
 [Martin Vassor](m.vassor@imperial.ac.uk) is a research Associate (postdoc) at Imperial College London with a background in mathematics, he works on the mechanisation and theory of multiparty session types.
-
 <br/><br/>
 
 ## Smart contracts in Bitcoin and BitML
@@ -66,7 +65,6 @@ The tutorial is supported by teaching materials freely downloaded from the web-s
 **Speaker**
 
 [Dmitry A. Zaitsev](mailto:zsoftua@yahoo.com) received the Eng. degree in Applied Mathematics from Donetsk Polytechnic Institute, Donetsk, Ukraine, in 1986, the Ph.D. degree in Automated Control from the Kiev Institute of Cybernetics, Kiev, Ukraine, in 1991, and the Dr.Sc. degree in Telecommunications from the Odessa National Academy of Telecommunications, Odessa, Ukraine, in 2006. He developed the analysis of infinite Petri nets with regular structure, the decomposition of Petri nets in clans, generalized neighborhood for cellular automata, and the method of synthesis of fuzzy logic function given by tables. He developed Opera-Topaz software for manufacture operative planning and control; a new stack of networking protocols E6 and its implementation within Linux kernel; Petri net analysis software Deborah, Adriana, and ParAd; models of TCP, BGP, IOTP protocols, Ethernet, IP, MPLS, PBB, and Bluetooth networks. His current research interests include Petri net theory and its application in networking, computing and automated manufacture. Recently he started working in the area of exascale computing applying his theory of clans to speed-up solving sparse linear systems on parallel and distributed architectures. He was a co-director of joint projects with China and Austria. Recently he has been a visiting professor to Technical University of Dortmund, Germany on DAAD scholarship, to University of Tennessee Knoxville, USA on Fulbright scholarship and to Eindhoven University of Technology, Netherlands. He published a monograph, 3 book chapters and more than a hundred of papers including issues listed in JCR. He is a senior member of ACM and IEEE. Additional information including papers, software, models, video-lectures in put on personal website at <http://daze.ho.ua>. 
-
 <br/><br/>
 
 ## The ΔQ Systems Development Paradigm
