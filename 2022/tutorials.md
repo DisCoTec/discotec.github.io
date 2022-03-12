@@ -79,7 +79,7 @@ In this tutorial, we will present the ΔQ paradigm, highlighting results from a 
 
 **Speakers**
 
-[Kevin Hammond]() 
+[Kevin Hammond](mailto:kevin@kevinhammond.net) 
 
 
-[Philipp Kant]()
+[Philipp Kant](mailto:philipp.kant@iohk.io)
