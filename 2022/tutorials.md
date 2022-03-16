@@ -23,13 +23,13 @@ Discussed topics: understanding of basic session types, implementing shallow and
 
 **Speakers**
 
-[David Castro-Perez](d.castro-perez@kent.ac.uk) is lecturer at the University of Kent. His research is on applying programming language-based techniques to the development of safe and predictable systems, with a strong emphasis on concurrent and distributed systems.
+[David Castro-Perez](d.castro-perez@kent.ac.uk) is a lecturer at the University of Kent. His research is on applying programming language-based techniques to the development of safe and predictable systems, with a strong emphasis on concurrent and distributed systems.
 
-[Francisco Ferreira](francisco.ferreiraruiz@rhul.ac.uk) is lecturer at Royal Holloway, University of London. His research is on safe and dependable software through a combination of type systems and mechanical proofs. Recently, his work concentrates on session types and mechanical proofs enabling certified software.
+[Francisco Ferreira](francisco.ferreiraruiz@rhul.ac.uk) is a lecturer at Royal Holloway, University of London. His research is on safe and dependable software through a combination of type systems and mechanical proofs. Recently, his work concentrates on session types and mechanical proofs enabling certified software.
 
-[Lorenzo Gheri](l.gheri@imperial.ac.uk) is research Associate (postdoc) at Imperial College London with a background in mathematics, he works on the mechanisation and theory of multiparty session types.
+[Lorenzo Gheri](l.gheri@imperial.ac.uk) is a research associate (postdoc) at Imperial College London with a background in mathematics, he works on the mechanisation and theory of multiparty session types.
 
-[Martin Vassor](m.vassor@imperial.ac.uk) is a research Associate (postdoc) at Imperial College London with a background in computer sciences, he works on the theory and implementation of multiparty session types.
+[Martin Vassor](m.vassor@imperial.ac.uk) is a research associate (postdoc) at Imperial College London with a background in computer sciences, he works on the theory and implementation of multiparty session types.
 <br/><br/>
 
 ## Smart contracts in Bitcoin and BitML
@@ -78,8 +78,12 @@ Key to the paradigm is that, whilst armed with a strong formal and mathematical 
 In this tutorial, we will present the ΔQ paradigm, highlighting results from a number of large-scale industrial use cases, and providing hands-on introduction to how to use the process in real-world settings.  The tutorial is targeted at researchers, software developers, and managers.
 
 **Speakers**
+[Neil Davies](mailto:)
 
-[Kevin Hammond](mailto:kevin@kevinhammond.net) 
+[Seyed Hossein Haeri](mailto:hossein.haeri@gmail.com) is a Programming Languages scientist with links to both the industry and academia. At the same time that he works for IOHK and Entropy Software Foundation, he is an associate professor at University of Bergen, Norway. Hossein's research is in the intersection between Programming Languages and Software Engineering.
+Over the past decade, his research has enjoyed a flavour of Distributed Systems on top.
+
+[Peter Thompson](mailto:) 
 
 
-[Philipp Kant](mailto:philipp.kant@iohk.io)
+[Peter Van Roy](mailto:)
