@@ -79,11 +79,68 @@ In this tutorial, we will present the ΔQ paradigm, highlighting results from a 
 
 **Speakers**
 [Neil Davies](mailto:)
+Neil Davies is an expert in resolving the practical and theoretical
+challenges of large scale distributed and high-performance computing,
+particularly scalability effects in large distributed systems, their
+operational quality, and how to manage their degradation gracefully
+under saturation and adverse operational conditions. He is a computer
+scientist, mathematician and hands-on software developer who builds
+rigorously engineered working systems and scalable demonstrators of
+new computing and networking concepts.
+
+Throughout his 20-year career at the University of Bristol he was
+involved with early developments in networking, its protocols and
+their implementations. He collaborated with organisations such as
+NATS, Nuclear Electric, HSE, ST Microelectronics and CERN on issues
+relating to scalable performance and operational safety. He was also
+technical lead on several large EU Framework collaborations relating
+to high performance switching, and has mentored PhD candidates at
+CERN.
+
+He co-founded Degree2 Innovations in 2000, commercialising network QoS
+research, and went on to found Predictable Network Solutions in 2003.
+He has worked on performance aspects of the Department of Defense’s
+Future Combat Systems project, and has developed approaches to
+delivering consistent video telephony for sign language users over
+retail broadband. He is the co-author of several patent families.
 
 [Seyed Hossein Haeri](mailto:hossein.haeri@gmail.com) is a Programming Languages scientist with links to both the industry and academia. At the same time that he works for IOHK and Entropy Software Foundation, he is an associate professor at University of Bergen, Norway. Hossein's research is in the intersection between Programming Languages and Software Engineering.
 Over the past decade, his research has enjoyed a flavour of Distributed Systems on top.
 
 [Peter Thompson](mailto:) 
+Peter Thompson became Chief Technical Officer of Predictable Network
+Solutions after several years as Chief Scientist of GoS Networks
+Limited (formerly U4EA Technologies). Prior to that he was co-founder
+and CEO of Degree2 Innovations, commercialising advanced research into
+network QoS undertaken with Neil Davies during the preceding four
+years at the Partnership in Advanced Computing Technology in Bristol,
+England, where he was a Senior Research Fellow.
+
+Previously he spent eleven years at STMicroelectronics, where one of
+his numerous patents for parallel computing and communications
+received a corporate World-wide Technical Achievement Award. For five
+years he was the Subject Editor for VLSI and Architectures of the
+journal Microprocessors and Microsystems, published by Elsevier.
+
+He has degrees in mathematics and physics from the Universities of
+Warwick and Cambridge, and spent five years researching general
+relativity, twistor theory and quantum theory at the University of
+Oxford, supervised by Professor Roger Penrose. He has published papers
+and co-authored and co-edited several books on parallel computing and
+communications.
+
+He is also chair of the Bristol Energy Cooperative, has the rank of
+3rd Dan in Takemusu Aikido, and is a keen choral singer.
+
+In March 2021 he was presented with an Outstanding Contributor Award
+at the Broadband Forum virtual Quarterly Meeting.
 
 
-[Peter Van Roy](mailto:)
+[Peter Van Roy](mailto:pvr@info.ucl.ac.be)
+Peter Van Roy is professor in the ICTEAM Institute at the Université
+catholique de Louvain, where he heads the Programming Languages and
+Distributed Computing Research Group. He coordinated the EU projects
+SELFMAN and LIGHTKONE and was a partner in the projects EMJD-DC,
+SYNCFREE, MANCOOSI, EVERGROW, and PEPITO. He is a developer of the
+Mozart Programming System and author of a well-known textbook on
+computer programming published by MIT Press.
