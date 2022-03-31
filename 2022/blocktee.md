@@ -20,8 +20,11 @@ Blockchains and Trusted Execution Environments (TEE) are popular emerging techno
 
 # Submission
 
-All papers must be original, unpublished, and not submitted for publication elsewhere.
-Papers should have at most 12 pages excluding references.
+The first page must contain (1) title, (2) author names and affiliations, (3) contact author’s email, (4) abstract, and (5) indication of whether the paper is a full paper or a position paper as detailed below:
+
+- a position paper should aim at fostering discussion and collaboration and may summarize research published elsewhere or outline emerging ideas. The submission must not exceed 4 pages excluding references. 
+- full papers, presenting fleshed out ideas, systems and or experimental results. The submission must not exceed 12 pages excluding references.  
+
 
 Contributions should be submitted electronically as PDF, using the Springer LNCS style to the conference submission website (https://easychair.org/my/conference?conf=blocktee22). Each paper will undergo a thorough process of peer reviews by the Program Committee. 
 Reviewing is single-blind: author name(s) should appear. 
