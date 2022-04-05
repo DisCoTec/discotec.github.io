@@ -1,6 +1,6 @@
 [![](https://www.discotec.org/2022/discotec2022-banner.jpeg)](https://www.discotec.org/2022/)
 
-You can register for attending the conference at [this registration site](...).
+You can register for attending the conference by filling [this registration form](...).
 
 **NOTE:**
 * It is required that at least one author of papers accepted to DiscoTec conferences must register to the conference by the early registration date. 
