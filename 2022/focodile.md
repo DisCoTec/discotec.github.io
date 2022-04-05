@@ -21,18 +21,38 @@ FOCODILE is a forum to exchange ideas and recent research findings on theoretica
 * Post-quantum blockchain protocols
 * Performance and scalability of blockchain systems
 
+### Extended Abstract
+FOCODILE has no formal proceedings. Novel research works or already published papers are welcome (in the form of extended abstracts).
+
+### Important Dates
+* Extended abstract submission deadline: April 30, 2022
+* Notification of accepted talks: May 20, 2022
+* Workshop: June 13, 2022
+
+### Submission information
+Extended abstract (minimum 1 page) have to be submitted in PDF format using the EasyChair submission page https://easychair.org/conferences/?conf=focodile2022  
+
+The submissions must be prepared using Springer’s LNCS style. Accepted submissions should be presented during the workshop day.
+
+
+
+ 
+### Organising committee chairs
+* Zeta Avarikioti (TU Wien)   zetavar@hotmail.com
+* Andrea Morichetta (University of Camerino)   andrea.morichetta@unicam.it
 
 ### Organising committee
-* Zeta Avarikioti (IST Austria) Co-chair
-* Andrea Morichetta (University of Camerino) Co-chair
 * Panagiotis Grontas (National Technical University of Athens)
 * Nikos Leonardos (National and Kapodistrian University of Athens)
-* Aris Pagourtzis, (National Technical University of Athens)
-* Petros Potikas, (National Technical University of Athens)
+* Alessandro Marcelletti (University of Camerino)
+* Aris Pagourtzis (National Technical University of Athens)
+* Petros Potikas (National Technical University of Athens)
+* Barbara Re (University of Camerino)
 * Lewis Tseng (Boston College)
 * Vassilis Zikas (Purdue University)
 * Dionysis Zindros (Stanford University)
 
+### Keynote speaker
+* Matteo Maffei (TU Wien)
 
-### More Information
-For additional information, please contact the Organising Committee chairs at: 
+
