@@ -25,11 +25,9 @@ FOCODILE is a forum to exchange ideas and recent research findings on theoretica
 FOCODILE has no formal proceedings. Novel research works or already published papers are welcome (in the form of extended abstracts).
 
 ### Important Dates
-Extended abstract submission deadline: April 30, 2022
-
-Notification of accepted talks: May 20, 2022
-
-Workshop: June 13, 2022
+* Extended abstract submission deadline: April 30, 2022
+* Notification of accepted talks: May 20, 2022
+* Workshop: June 13, 2022
 
 ### Submission information
 Extended abstract (minimum 1 page) have to be submitted in PDF format using the EasyChair submission page https://easychair.org/conferences/?conf=focodile2022  
