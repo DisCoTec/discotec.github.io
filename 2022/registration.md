@@ -7,6 +7,7 @@ You can register for attending the conference at [this registration site](...).
 * All registration fees below include 25% of VAT. <-- Da verificare
 
 ### Physical event
+
 | | Early - until May .. | Late - after May ... |
 | - | -: | -: |
 | **DisCoTec Conferences + Workshops + Tutorials** | 550 euro | 650 euro | 
