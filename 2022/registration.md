@@ -4,11 +4,11 @@ You can register for attending the conference at [this registration site](...).
 
 **NOTE:**
 * It is required that at least one author of papers accepted to DiscoTec conferences must register to the conference by the early registration date. 
-* All registration fees below include 25% of VAT. <-- Da verificare
+* All registration fees below include 22% of VAT. 
 
 ### Physical event
 
-| | Early - until May .. | Late - after May ... |
+| | Early (until May 2) | Late (May 2 - 30) |
 | - | -: | -: |
 | **DisCoTec Conferences + Workshops + Tutorials** | 550 euro | 650 euro | 
 | **DisCoTec Conferences only + Tutorials** | 450 euro | 550 euro |
@@ -25,14 +25,14 @@ Registration to **DisCoTec Conferences only + Tutorials** includes:
 * Access to all DiscoTec Tutorials on Monday 13.
 * Access to all Coordination, DAIS, and FORTE sessions on Tuesday 14, Wednesday 15 and Thursday 16.
 * Lunches and coffee breaks on Monday 13, Tuesday 14, Wednesday 15 and Thursday 16. 
-* Free access to the online LNCS proceedings of Coordination, DAIS, and FORTE. <-- Da verificare
-* Welcome reception on Monday 13.     <-- La vogliamo?
-* Social event and conference dinner on Wednesday 15. If you need extra tickets please contact us (...). <-- 
+* Free access to the online LNCS proceedings of Coordination, DAIS, and FORTE. 
+* Welcome reception on Monday 13.     
+* Social event and conference dinner on Wednesday 15. 
 
 Registration to **Monday Workshops + Tutorials** includes:
 * Access to all Workshop sessions and DiscoTec Tutorials on Monday 13.
 * Lunches and coffee breaks on Monday 13. 
-* Welcome reception on Monday 13.     <-- La vogliamo?
+* Welcome reception on Monday 13.     
 
 Registration to **Friday Workshops** includes:
 * Access to all Workshop sessions on Friday 17.
@@ -44,7 +44,7 @@ Registration to **Friday Workshops** includes:
 
 Accepted papers whose all authors participate only remotely must  pay a registration fee.
 
-| | Early - until May .. | Late - after May ... |
+| | Early (until May 2) | Late (May 2 - 30) |
 | - | -: | -: | 
 | **Conference paper registration fee** | 65 euro | 90 euro | 
 | **Workshop paper registration fee** | 20 euro | 40 euro |
