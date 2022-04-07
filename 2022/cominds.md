@@ -36,7 +36,7 @@ Papers must be formatted using CEUR-ART format (one column style) available [htt
 Proceedings shall be submitted to CEUR-WS.org for online publication. Selected, accepted research papers will be considered for publication in an extended and revised form in a  [special issue](https://www.springer.com/journal/607/updates/20210362) to be published in [Springer's Computing journal](https://www.springer.com/journal/607/).
 
 ## Important Dates
--   ~~April 7th~~ **April 21, 2022: paper submission (EXTENDED)
+-   ~~April 7th~~ **April 21, 2022: paper submission (EXTENDED)**
 -   May 20th, 2022: author notification 
 -   June 13th, 2022: CoMinDS workshop
 
