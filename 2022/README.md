@@ -183,10 +183,20 @@ The individual conferences will organise special issues of extended and selected
 [KirstinWeb]: https://www.informatik.tu-darmstadt.de/fb20/organisation_fb20/professuren_und_gruppenleitungen/fb20professuren_und_gruppenleitungen_detailseite_84096.de.jsp
 [TimWeb]: https://www.win.tue.nl/~timw/index.php
 
-## Location
-[IMT School for Advanced Studies Lucca](http://www.imtlucca.it/en) San Francesco Campus  
+## Conference Venue
+[IMT School for Advanced Studies Lucca](http://www.imtlucca.it/en)  San Francesco Complex  
 Piazza S. Francesco, 19 - 55100 Lucca, LU  
-It can be reached [as follows](http://www.imtlucca.it/en/campus-and-services/how-to-reach-us). 
+
+### How to reach San Francesco Complex 
+
+The San Francesco Complex is located in San Francesco square inside the ancient city walls.
+You can reach the campus following [these directions](http://www.imtlucca.it/en/campus-and-services/how-to-reach-us). 
+
+### Accommodations
+
+Lucca is a small town, you can easily reach the IMT School Ca. 
+You can find a list of Hotels and B&Bs nearby the conference venue [here](http://www.imtlucca.it/en/campus-and-services/services/special-deals#hotel-bb).
+
 
 ## Steering Committee
 * Gianluigi Zavattaro (University of Bologna, IT — Chair)
