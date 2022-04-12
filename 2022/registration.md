@@ -2,18 +2,21 @@
 
 You can register for attending the conference by filling [this registration form](...).
 
+
 **NOTE:**
 * It is required that at least one author of papers accepted to DiscoTec conferences must register to the conference by the early registration date. 
 * All registration fees below include 22% of VAT. 
+
+If you have any questions about the registration, please contact <commev@imtlucca.it> (please, refer to DisCTec 2022 in the subject).
 
 ### Physical event
 
 | | Early (until May 2) | Late (May 3 - 25) |
 | - | -: | -: |
-| **DisCoTec Conferences + Workshops + Tutorials** | 550 euro | 650 euro | 
-| **DisCoTec Conferences only + Tutorials** | 450 euro | 550 euro |
-| **Monday Workshops + Tutorials** | 120 euro | 120  euro |
-| **Friday Workshops** | 120 euro | 120  euro |
+| **DisCoTec Conferences + Workshops + Tutorials** | EUR 550  | EUR 650 | 
+| **DisCoTec Conferences only + Tutorials** | EUR 450 | EUR 550 |
+| **Monday Workshops + Tutorials** | EUR 120 | EUR 120 |
+| **Friday Workshops** | EUR 120 | EUR 120 |
 
 
 Registration to **DisCoTec Conferences + Workshops + Tutorials** includes:
@@ -46,6 +49,18 @@ Accepted papers whose all authors participate only remotely must  pay a registra
 
 | | Early (until May 2) | Late (May 3 - 25) |
 | - | -: | -: | 
-| **Conference paper registration fee** | 65 euro | 90 euro | 
-| **Workshop paper registration fee** | 20 euro | 20 euro |
-| **Other attendees** | free | free |
+| **Conference paper registration fee** | EUR 65 | EUR 90 | 
+| **Workshop paper registration fee** | EUR 20 | EUR 20 |
+| **Other attendees** | FREE | FREE |
+
+### Visa Request Information
+You can check Visa rules for traveling to Italy on <https://vistoperitalia.esteri.it/home/en>
+
+In case you need an invitation letter, after completing the registration process, please send your request to <commev@imtlucca.it> (please, refer to DisCTec 2022 in the subject) by specifying the details that should appear in the invitation:
+
+* Full name (as shown in your passport)
+* Date of birth
+* Snail mail address, phone and fax number
+* E-mail address
+* Professional or student status proof
+* Passport number, expiration date, issuing country
