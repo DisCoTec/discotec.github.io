@@ -64,8 +64,8 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 ## Important dates
 
-  * **11 April 2022**: abstract submission
-  * **15 April 2022**: paper submission
+  * ~~11 April 2022~~ **25 April 2022**: abstract submission **(extended!)**
+  * ~~15 April 2022~~ **29 April 2022**: paper submission **(extended!)**
   * **23 May 2022**: notification
   * **17 June 2022**: ICE workshop
   * 12 July 2022: camera-ready for EPTCS post-proceedings
