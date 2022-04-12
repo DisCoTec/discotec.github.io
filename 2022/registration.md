@@ -8,7 +8,7 @@ You can register for attending the conference by filling [this registration form
 
 ### Physical event
 
-| | Early (until May 2) | Late (May 2 - 30) |
+| | Early (until May 2) | Late (May 3 - 25) |
 | - | -: | -: |
 | **DisCoTec Conferences + Workshops + Tutorials** | 550 euro | 650 euro | 
 | **DisCoTec Conferences only + Tutorials** | 450 euro | 550 euro |
@@ -44,7 +44,7 @@ Registration to **Friday Workshops** includes:
 
 Accepted papers whose all authors participate only remotely must  pay a registration fee.
 
-| | Early (until May 2) | Late (May 2 - 30) |
+| | Early (until May 2) | Late (May 3 - 25) |
 | - | -: | -: | 
 | **Conference paper registration fee** | 65 euro | 90 euro | 
 | **Workshop paper registration fee** | 20 euro | 20 euro |
