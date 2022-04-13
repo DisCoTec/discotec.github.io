@@ -49,7 +49,7 @@ Accepted papers whose all authors participate only remotely must  pay a registra
 
 | | Early (until May 2) | Late (May 3 - 25) |
 | - | -: | -: | 
-| **Conference paper registration fee** | EUR 65 | EUR 90 | 
+| **Conference paper registration fee** | EUR 60 | EUR 60 | 
 | **Workshop paper registration fee** | EUR 20 | EUR 20 |
 | **Other attendees** | FREE | FREE |
 
