@@ -2,7 +2,7 @@
 
 You can register for attending the conference by filling [this registration form](https://forms.gle/UaQ1vHrFiD3Txpw6A).
 
-After completing the form, the participant will be contacted by the organizers with the instructions and the deadlines to proceed with the payment.
+After completing the form, the participant will be contacted by the organizers with the instructions and the deadlines to for the payment.
 
 **NOTE:**
 * It is required that at least one author of papers accepted to DiscoTec conferences must register to the conference by the early registration date. 
