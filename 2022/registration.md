@@ -1,13 +1,14 @@
 [![](https://www.discotec.org/2022/discotec2022-banner.jpeg)](https://www.discotec.org/2022/)
 
 You can register for attending the conference by filling [this registration form](https://forms.gle/UaQ1vHrFiD3Txpw6A).
+
 After completing the form, the participant will be contacted by the organizers with the instructions and the deadlines to proceed with the payment.
 
 **NOTE:**
 * It is required that at least one author of papers accepted to DiscoTec conferences must register to the conference by the early registration date. 
 * All registration fees below include 22% of VAT. 
 
-If you have any questions about the registration, please contact <commev@imtlucca.it> (please, refer to DisCTec 2022 in the subject).
+If you have any questions about the registration, please contact <commev@imtlucca.it> (please, refer to DisCoTec 2022 in the subject).
 
 ### Physical event
 
@@ -56,7 +57,7 @@ Accepted papers whose all authors participate only remotely must pay a paper reg
 ### Visa Request Information
 You can check Visa rules for traveling to Italy on <https://vistoperitalia.esteri.it/home/en>
 
-In case you need an invitation letter, after completing the registration process, please send your request to <commev@imtlucca.it> (please, refer to DisCTec 2022 in the subject) by specifying the details that should appear in the invitation:
+In case you need an invitation letter, after completing the registration process, please send your request to <commev@imtlucca.it> (please, refer to DisCoTec 2022 in the subject) by specifying the details that should appear in the invitation:
 
 * Full name (as shown in your passport)
 * Date of birth
