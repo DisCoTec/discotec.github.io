@@ -197,6 +197,10 @@ You can reach the campus following [these directions](http://www.imtlucca.it/en/
 Lucca is a small town, you can easily reach the San Francesco Complex from any accommodation inside the city walls.
 You can find a list of Hotels and B&Bs nearby the conference venue [here](http://www.imtlucca.it/en/campus-and-services/services/special-deals#hotel-bb).
 
+## Registration
+
+Go to the [registration page](https://www.discotec.org/2022/registration).
+
 
 ## Steering Committee
 * Gianluigi Zavattaro (University of Bologna, IT — Chair)
