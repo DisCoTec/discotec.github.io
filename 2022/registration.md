@@ -1,7 +1,7 @@
 [![](https://www.discotec.org/2022/discotec2022-banner.jpeg)](https://www.discotec.org/2022/)
 
-You can register for attending the conference by filling [this registration form](...).
-
+You can register for attending the conference by filling [this registration form](https://forms.gle/UaQ1vHrFiD3Txpw6A).
+After completing the form, the participant will be contacted by the organizers with the instructions and the deadlines to proceed with the payment.
 
 **NOTE:**
 * It is required that at least one author of papers accepted to DiscoTec conferences must register to the conference by the early registration date. 
@@ -11,7 +11,7 @@ If you have any questions about the registration, please contact <commev@imtlucc
 
 ### Physical event
 
-| | Early (until May 2) | Late (May 3 - 25) |
+| | Early (until May 2) | Late (After May 2) |
 | - | -: | -: |
 | **DisCoTec Conferences + Workshops + Tutorials** | EUR 550  | EUR 650 | 
 | **DisCoTec Conferences only + Tutorials** | EUR 450 | EUR 550 |
@@ -45,9 +45,9 @@ Registration to **Friday Workshops** includes:
 
 ### Online event
 
-Accepted papers whose all authors participate only remotely must  pay a registration fee.
+Accepted papers whose all authors participate only remotely must pay a paper registration fee.
 
-| | Early (until May 2) | Late (May 3 - 25) |
+| | Early (until May 2) | Late (After May 2) |
 | - | -: | -: | 
 | **Conference paper registration fee** | EUR 60 | EUR 60 | 
 | **Workshop paper registration fee** | EUR 20 | EUR 20 |
