@@ -30,7 +30,7 @@ FOCODILE has no formal proceedings. Novel research works or already published pa
 * Workshop: June 13, 2022
 
 ### Submission information
-Extended abstract (2 pages + references) have to be submitted in PDF format using the EasyChair submission page https://easychair.org/conferences/?conf=focodile2022  
+Extended abstract (2 pages + references) have to be submitted in PDF format using the EasyChair submission page [https://easychair.org/conferences/?conf=focodile2022](https://easychair.org/conferences/?conf=focodile2022)
 
 The submissions must be prepared using Springer’s LNCS style. Accepted submissions should be presented during the workshop day.
 
