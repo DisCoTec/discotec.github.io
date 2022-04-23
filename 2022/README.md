@@ -51,7 +51,7 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 ### Important Dates
 * **Abstract submission:** ~~January 28, 2022~~ February 11, 2022 (Extended)
 * **Paper submission:** ~~February 4, 2022~~ February 18, 2022 (Extended)
-* **Paper notification:** March 25, 2022
+* **Paper notification:** ~March 25, 2022~
 * **Camera-ready:** April 24, 2022
 * **DisCoTec conference:** June 13-17, 2022
 
@@ -61,7 +61,8 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 * [Maarten van Steen](https://people.utwente.nl/m.r.vansteen), University of Twente, NL 
 * [Luca Viganò](http://www.lucavigano.com/), King's College London, UK
 
-
+## Accepted Papers
+Go to the [list of accepted papers](accepted-papers)
 
 ## Satellite Events
 <!--

@@ -64,3 +64,6 @@ In case you need an invitation letter, after completing the registration process
 * E-mail address
 * Professional or student status proof
 * Passport number, expiration date, issuing country
+
+### Cancellation/Refund Policy
+In order to keep registration fees as low as possible, there will be no refunds in cases of cancellation. However, participants who have to cancel their participation may substitute another participant at no extra cost.
