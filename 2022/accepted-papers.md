@@ -1,4 +1,4 @@
-# DisCoTec Accepted papers
+[![](https://www.discotec.org/2022/discotec2022-banner.jpeg)](https://www.discotec.org/2022/)
 
 ## Coordination accepted papers
 
