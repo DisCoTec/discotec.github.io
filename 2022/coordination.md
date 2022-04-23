@@ -282,7 +282,7 @@ To improve and reward reproducibility and to give more visibility and credit to 
 
 ## Keynote speaker
 
-To be announced
+* [Luca Viganò](http://www.lucavigano.com/), King's College London, UK
 
 ## Program Committee chairs 
 * [Maurice ter Beek](https://fmt.isti.cnr.it/~mtbeek/) (ISTI-CNR, Pisa, Italy)

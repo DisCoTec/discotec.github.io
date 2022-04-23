@@ -43,7 +43,7 @@ The registration fees for accepted papers is due regardless of the selected publ
 
 ## Important dates
 
- * Paper submission: April 18, 2022
+ * Paper submission: ~~April 18~~ May 2, 2022
  * Paper notification: May 23 2022
  * Workshop: June 17 2022
 

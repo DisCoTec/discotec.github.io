@@ -64,6 +64,8 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 ## Important dates
 
+The following dates are in the [Anywhere on Earth time zone](https://time.is/Anywhere_on_Earth).
+
   * ~~11 April 2022~~ **25 April 2022**: abstract submission **(extended!)**
   * ~~15 April 2022~~ **29 April 2022**: paper submission **(extended!)**
   * **23 May 2022**: notification
