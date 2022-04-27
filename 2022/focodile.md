@@ -1,6 +1,6 @@
 [![](https://www.discotec.org/2022/discotec2022-banner.jpeg)](https://www.discotec.org/2022/)
 
-## FOCODILE 2022 - 3th International Workshop on Foundations of Consensus and Distributed Ledgers
+## FOCODILE 2022 - 3rd International Workshop on Foundations of Consensus and Distributed Ledgers
 
 FOCODILE 2022 is one of the workshops at DisCoTec 2022, the 17th International Federated Conference on Distributed Computing Techniques.  
 
