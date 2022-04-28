@@ -35,7 +35,8 @@ Extended abstract (2 pages + references) have to be submitted in PDF format usin
 The submissions must be prepared using Springer’s LNCS style. Accepted submissions should be presented during the workshop day.
 
 
-
+### Registration
+More info can be found to the [registration page](https://www.discotec.org/2022/registration)
  
 ### Organising committee chairs
 * Zeta Avarikioti (TU Wien)   zetavar@hotmail.com
