@@ -191,7 +191,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Tim Willemse (Eindhoven University of Technology, The Netherlands)
 
 ## More Information
-For additional information, please contact the Program Committee Co-chairs: forte22 at easychair dot org
+For additional information, please contact the Program Committee Co-chairs: forte2022 at easychair dot org
 
 ## Sponsors & Supporters
 <a href="https://www.ifip.org">
