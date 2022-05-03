@@ -1,6 +1,6 @@
 [![](https://www.discotec.org/2022/discotec2022-banner.jpeg)](https://www.discotec.org/2022/)
 
-You can register for attending the conference by filling [this registration form](https://forms.gle/UaQ1vHrFiD3Txpw6A).
+You can register for attending the conference by filling [this registration form](https://forms.gle/SCWpz94nh7ZbnejQ7).
 
 **NOTE:**
 * After submitting the form, participants will be contacted by the organizers with the instructions and the deadlines for the payment.
