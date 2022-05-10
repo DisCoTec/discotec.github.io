@@ -49,7 +49,7 @@
 | **11.30 - 13.00** | talks | talks | talks |
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break*|
 | | Coordination session 2 | Dais session 2 | Forte session 2 |
-| **15.00 - 16.30** | talks | talks | talks | talks |
+| **15.00 - 16.30** | talks | talks | talks | 
 | *16.30 - 17.00* | *networking coffee* | *networking coffee* | *networking coffee*|
 
 <br/>
@@ -68,7 +68,7 @@
 | **11.30 - 13.00** | talks | talks | talks| 
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break* |
 | | Coordination session 3 | Dais session 3 | Forte session 3 |
-| **15.00 - 16.30** | talks | talks | talks | talks |
+| **15.00 - 16.30** | talks | talks | talks |
 | *16.30 - 17.00* | *networking coffee*| *networking coffee* | *networking coffee* |
 | *18.00 - 20.00* | *social event* | *social event* | *social event* |
 | *20.00 - 22.00* | *social dinner* | *social dinner* | *social dinner* |
@@ -81,18 +81,18 @@
 
 ### Conference Talks
 
-|Time | COORDINATION | DAIS | FORTE |
-|:---:|:---:|:---:|:---:|
-|*09.45 - 10.00*| *welcome* | *welcome*| *welcome*|
-|**10.00 - 11.00**| [(Invited Talk) Maarten van Steen:]() | [(Invited Talk) Maarten van Steen:]() | [(Invited Talk) Maarten van Steen:]() |
-|*11.00 - 11.25*|*break*|*break*|*break*|
-|*11.25 - 11.30*|*welcome*|*welcome*| *welcome* |
+| Time | COORDINATION | DAIS | FORTE |
+| :---: | :---: | :---: | :---: |
+| *09.45 - 10.00* | *welcome* | *welcome*| *welcome* |
+| **10.00 - 11.00** | [(Invited Talk) Maarten van Steen:]() | [(Invited Talk) Maarten van Steen:]() | [(Invited Talk) Maarten van Steen:]() |
+| *11.00 - 11.25* | *break* | *break* | *break* |
+| *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
 | | Coordination session 4 | Dais session 4 | Forte session 4 |
-|**11.30 - 13.00**| talks | talks | talks |
-|*13.00 - 15.00*| *lunch break*|*lunch break*|*lunch break*|
-|| Coordination session 5 | Dais session 5 | Forte session 5 |
-|**15.00 - 16.30**| talks | talks | talks | talks |
-|*16.30 - 17.00*|*networking coffee*|*networking coffee*|*networking coffee*|
+| **11.30 - 13.00** | talks | talks | talks |
+| *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break* |
+| | Coordination session 5 | Dais session 5 | Forte session 5 |
+| **15.00 - 16.30** | talks | talks | talks | 
+| *16.30 - 17.00* | *networking coffee* | *networking coffee* | *networking coffee* |
 
 <br/>
 
@@ -100,9 +100,9 @@
 
 ### Discotec Workshops
 
-|Time | BlockTEE | ICE | REMV |
-|:---:|:---:|:---:|:---:|
-|- | TBD | TBD | TBD |
+| Time | BlockTEE | ICE | REMV |
+| :---: | :---: | :---: | :---: |
+| - | TBD | TBD | TBD |
 <br/>
 
 <br/><br/>
