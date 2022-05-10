@@ -51,8 +51,8 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 ### Important Dates
 * **Abstract submission:** ~~January 28, 2022~~ February 11, 2022 (Extended)
 * **Paper submission:** ~~February 4, 2022~~ February 18, 2022 (Extended)
-* **Paper notification:** ~March 25, 2022~
-* **Camera-ready:** April 24, 2022
+* **Paper notification:** ~~March 25, 2022~~
+* **Camera-ready:** ~~April 24, 2022~~
 * **DisCoTec conference:** June 13-17, 2022
 
 ## Keynote Speakers
