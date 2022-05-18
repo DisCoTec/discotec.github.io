@@ -63,13 +63,15 @@
 | *09.55 - 10.00* | *welcome* | *welcome* | *welcome* |
 | **10.00 - 11.00** | [(Invited Talk) Luca Viganò: Formal Methods for Socio-Technical Security](invited#luca-viganò) | [(Invited Talk) Luca Viganò: Formal Methods for Socio-Technical Security](invited#luca-viganò) | [(Invited Talk) Luca Viganò: Formal Methods for Socio-Technical Security](invited#luca-viganò) |
 | *11.00 - 11.30* | *break* | *break* | *break* |
-| | Best papers session | Best papers session | Best papers session |
-| **11.30 - 13.00** | talks | talks | talks| 
+| | Joint session: DisCoTeC best papers | Joint session: DisCoTeC best papers | Joint session: DisCoTeC best papers |
+| **11.30 - 12.00** | [A Monitoring Tool for Linear-Time μHML](#coordination-best-paper) | [A Monitoring Tool for Linear-Time μHML](#coordination-best-paper) | [A Monitoring Tool for Linear-Time μHML](#coordination-best-paper)|
+| **12.00 - 12.30** | DAIS Best Paper | DAIS Best Paper | DAIS Best Paper |
+| **12.30 - 13.00** | [Traits: Correctness-by-Construction for Free](#forte-best-paper) | [Traits: Correctness-by-Construction for Free](#forte-best-paper) | [Traits: Correctness-by-Construction for Free](#forte-best-paper) | 
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break* |
-| | [Session 3: Processes and Languages](#session-3-processes-and-languages) | Dais session 3 | Forte session 3 |
-| **15.00 - 15.30** | [Formal Choreographic Languages](#session-3-processes-and-languages) | talks | talks |
-| **15.30 - 16.00** | [A Model of Actors and Grey Failures](#session-3-processes-and-languages) | talks | talks |
-| **16.00 - 16.30** | [Soft Concurrent Constraint Programming with Local Variables](#session-3-processes-and-languages) | talks | talks |
+| | [Session 3: Processes and Languages](#session-3-processes-and-languages) | Dais session 3 | [Session 3: State-space reduction](#session-3-state-space-reduction) |
+| **15.00 - 15.30** | [Formal Choreographic Languages](#session-3-processes-and-languages) | talks | [LTL under reductions with weaker conditions than stutter-invariance](#session-3-state-space-reduction) |
+| **15.30 - 16.00** | [A Model of Actors and Grey Failures](#session-3-processes-and-languages) | talks | [Effective Reductions of Mealy Machines](#session-3-state-space-reduction) |
+| **16.00 - 16.30** | [Soft Concurrent Constraint Programming with Local Variables](#session-3-processes-and-languages) | talks | - |
 | *16.30 - 17.00* | *networking coffee*| *networking coffee* | *networking coffee* |
 | *18.00 - 20.00* | *social event* | *social event* | *social event* |
 | *20.00 - 22.00* | *social dinner* | *social dinner* | *social dinner* |
@@ -85,15 +87,15 @@
 | Time | COORDINATION | DAIS | FORTE |
 | :---: | :---: | :---: | :---: |
 | *09.45 - 10.00* | *welcome* | *welcome*| *welcome* |
-| **10.00 - 11.00** | [(Invited Talk) Maarten van Steen:]() | [(Invited Talk) Maarten van Steen:]() | [(Invited Talk) Maarten van Steen:]() |
+| **10.00 - 11.00** | [(Invited Talk) Maarten van Steen: Challenges in automated measurement of pedestrian dynamics](invited#maarten-van-steen) | [(Invited Talk) Maarten van Steen: Challenges in automated measurement of pedestrian dynamics](invited#maarten-van-steen) | [(Invited Talk) Maarten van Steen: Challenges in automated measurement of pedestrian dynamics](invited#maarten-van-steen) |
 | *11.00 - 11.25* | *break* | *break* | *break* |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
-| | [Session 4: Runtime Verification, Monitor Synthesis, and Microservices](#session-4-runtime-verification-monitor-synthesis-and-microservices) | Dais session 4 | Forte session 4 |
-| **11.30 - 12.00** | [A Synthesis Tool for Optimal Monitors in a Branching-Time Setting](#session-4-runtime-verification-monitor-synthesis-and-microservices) | talks | talks |
-| **12.00 - 12.30** | [Model-Driven Generation of Microservice Interfaces: From LEMMA Domain Models to Jolie APIs](#session-4-runtime-verification-monitor-synthesis-and-microservices) | talks | talks |
-| **12.30 - 13.00** | - | talks | talks |
+| | [Session 4: Runtime Verification, Monitor Synthesis, and Microservices](#session-4-runtime-verification-monitor-synthesis-and-microservices) | Dais session 4 | [Session 4: Verification and Semantics](#session-4-verification-and-semantics) |
+| **11.30 - 12.00** | [A Synthesis Tool for Optimal Monitors in a Branching-Time Setting](#session-4-runtime-verification-monitor-synthesis-and-microservices) | talks | [Process Algebra Can Save Lives: Static Analysis of XACML Access Control Policies using mCRL2](#session-4-verification-and-semantics) |
+| **12.00 - 12.30** | [Model-Driven Generation of Microservice Interfaces: From LEMMA Domain Models to Jolie APIs](#session-4-runtime-verification-monitor-synthesis-and-microservices) | talks |  [Branch-Well-Structured Transition Systems and Extensions](#session-4-verification-and-semantics) |
+| **12.30 - 13.00** | - | talks | [Co-engineering safety-security using statistical model checking (Journal - First)](#session-4-verification-and-semantics) |
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break* |
-| | Coordination session 5 | Dais session 5 | Forte session 5 |
+| | Joint session: DisCoTec tools | Joint session: DisCoTec tools | Joint session: DisCoTec tools |
 | **15.00 - 16.30** | talks | talks | talks | 
 | *16.30 - 17.00* | *networking coffee* | *networking coffee* | *networking coffee* |
 
@@ -143,11 +145,6 @@
 - A Synthesis Tool for Optimal Monitors in a Branching-Time Setting <br/> by Antonis Achilleos, Léo Exibard, Adrian Francalanza, Karoliina Lehtinen and Jasmine Xuereb
 - Model-Driven Generation of Microservice Interfaces: From LEMMA Domain Models to Jolie APIs <br/> by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti and Florian Rademacher
 
-### Session 5
-*(session chair: )*
-
-List of papers
-
 
 ## DAIS programme
 
@@ -175,17 +172,17 @@ List of papers
 
 List of papers
 
-### Session 5
-*(session chair: )*
-
-List of papers
-
 
 ## FORTE programme
 
+### FORTE Invited Speaker
+*(session chair: )*
+
+- [30+ years of FORTE research: a personal perspective](invited#30-years-of-forte-research-a-personal-perspective) <br/>  by Luca Viganò
+
 ### FORTE Best Paper
 
-TBD
+- Traits: Correctness-by-Construction for Free by <br/> Tobias Runge, Alex Potanin, Thomas Thüm and Ina Schaefer
 
 ### Session 1: Process Calculi and Session Types
 *(session chair: )*
@@ -200,18 +197,16 @@ TBD
 - Monitoring of scattered uncertain logs using uncertain linear dynamical systems <br/> by Bineet Ghosh and Étienne André
 - Computing Race Variants in Message-Passing Concurrent Programming with Selective Receives <br/> by German Vidal
 
-### Session 3
+### Session 3: State-space reduction
 *(session chair: )*
+- LTL under reductions with weaker conditions than stutter-invariance <br/> by Yann Thierry-Mieg, Emmanuel Paviot-Adet, Etienne Renault and Denis Poitrenaud
+- Effective Reductions of Mealy Machines <br/> by Florian Renkin, Philipp Schlehuber-Caissier, Alexandre Duret-Lutz and Adrien Pommellet
 
-List of papers
-
-### Session 4
+### Session 4: Verification and Semantics
 *(session chair: )*
+- Process Algebra Can Save Lives: Static Analysis of XACML Access Control Policies using mCRL2 <br/> by Hamed Arshad, Ross Horne, Christian Johansen, Olaf Owe and Tim Willemse
+- Branch-Well-Structured Transition Systems and Extensions <br/> by Benedikt Bollig, Alain Finkel and Amrita Suresh
+- Co-engineering safety-security using statistical model checking (Journal - First) <br/> by Rajesh Kumar, Rohan Kela, Siddhant Singh and Bhavesh Narra
 
-List of papers
 
-### Session 5
-*(session chair: )*
-
-List of papers
 
