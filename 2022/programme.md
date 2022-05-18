@@ -40,15 +40,15 @@
 | **10.00 - 11.00** | [(Invited Talk) Muffy Calder: 30+ years of FORTE research: a personal perspective](invited#muffy-calder) | [(Invited Talk) Muffy Calder: 30+ years of FORTE research: a personal perspective](invited#muffy-calder) | [(Invited Talk) Muffy Calder: 30+ years of FORTE research: a personal perspective](invited#muffy-calder) |
 | *11.00 - 11.25* | *break* | *break* | *break* |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
-| | [Session 1: Timed, Probabilistic, and Collective Systems](#session-1-timed-probabilistic-and-collective-systems) | Dais session 1 | Forte session 1 |
-| **11.30 - 12.00** | [MIMOS: A Deterministic Model for the Design and Update of Real-Time Systems](#session-1-timed-probabilistic-and-collective-systems) | talks | talks |
-| **12.00 - 12.30** | [A Sound Up-to-n,delta Bisimilarity for PCTL](#session-1-timed-probabilistic-and-collective-systems) | talks | talks |
-| **12.30 - 13.00** | [Sibilla: A Tool for Reasoning about Collective Systems](#session-1-timed-probabilistic-and-collective-systems) | talks | talks |
+| | [Session 1: Timed, Probabilistic, and Collective Systems](#session-1-timed-probabilistic-and-collective-systems) | Dais session 1 | [Session 1: Process Calculi and Session Types](#session-1-process-calculi-and-session-types) |
+| **11.30 - 12.00** | [MIMOS: A Deterministic Model for the Design and Update of Real-Time Systems](#session-1-timed-probabilistic-and-collective-systems) | talks | [Encodability Criteria for Quantum Based Systems](#session-1-process-calculi-and-session-types) | 
+| **12.00 - 12.30** | [A Sound Up-to-n,delta Bisimilarity for PCTL](#session-1-timed-probabilistic-and-collective-systems) | talks | [The Reversible Temporal Process Language](#session-1-process-calculi-and-session-types) | 
+| **12.30 - 13.00** | [Sibilla: A Tool for Reasoning about Collective Systems](#session-1-timed-probabilistic-and-collective-systems) | talks | [Fault-Tolerant Multiparty Session Types](#session-1-process-calculi-and-session-types) | 
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break*|
-| | [Session 2: Aggregate Computing](#session-2-aggregate-computing) | Dais session 2 | Forte session 2 |
-| **15.00 - 15.30** | [Extensible 3D Simulation of Aggregated Systems with FCPP](#session-2-aggregate-computing) | talks | talks |
-| **15.30 - 16.00** | [Towards Reinforcement Learning-based Aggregate Computing](#session-2-aggregate-computing) | talks | talks |
-| **16.00 - 16.30** | [Space-fluid Adaptive Sampling: a Field-based, Self-organising Approach](#session-2-aggregate-computing) | talks | talks | 
+| | [Session 2: Aggregate Computing](#session-2-aggregate-computing) | Dais session 2 | [Session 2: Monitoring and Program Verification](#session-2-monitoring-and-program-verification) |
+| **15.00 - 15.30** | [Extensible 3D Simulation of Aggregated Systems with FCPP](#session-2-aggregate-computing) | talks | [Monitoring Hyperproperties with Circuits (Short paper)](#session-2-monitoring-and-program-verification) |
+| **15.30 - 16.00** | [Towards Reinforcement Learning-based Aggregate Computing](#session-2-aggregate-computing) | talks | [Monitoring of scattered uncertain logs using uncertain linear dynamical systems](#session-2-monitoring-and-program-verification) |
+| **16.00 - 16.30** | [Space-fluid Adaptive Sampling: a Field-based, Self-organising Approach](#session-2-aggregate-computing) | talks | [Computing Race Variants in Message-Passing Concurrent Programming with Selective Receives](#session-2-monitoring-and-program-verification) | 
 | *16.30 - 17.00* | *networking coffee* | *networking coffee* | *networking coffee*|
 
 <br/>
@@ -187,15 +187,18 @@ List of papers
 
 TBD
 
-### Session 1
+### Session 1: Process Calculi and Session Types
 *(session chair: )*
+- Encodability Criteria for Quantum Based Systems <br/> by  Anna Schmitt, Kirstin Peters and Yuxin Deng 
+- The Reversible Temporal Process Language <br/> by Laura Bocchi, Ivan Lanese, Claudio Antares Mezzina and Shoji Yuen
+- Fault-Tolerant Multiparty Session Types <br/> by Kirstin Peters, Uwe Nestmann and Christoph Wagner
 
-List of papers
 
-### Session 2
+### Session 2: Monitoring and Program Verification
 *(session chair: )*
-
-List of papers
+- Monitoring Hyperproperties with Circuits (Short paper) <br/> by Elli Anastasiadi, Luca Aceto, Antonis Achilleos and Adrian Francalanza
+- Monitoring of scattered uncertain logs using uncertain linear dynamical systems <br/> by Bineet Ghosh and Étienne André
+- Computing Race Variants in Message-Passing Concurrent Programming with Selective Receives <br/> by German Vidal
 
 ### Session 3
 *(session chair: )*
