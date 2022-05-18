@@ -178,7 +178,7 @@ List of papers
 ### FORTE Invited Speaker
 *(session chair: )*
 
-- [30+ years of FORTE research: a personal perspective](invited#30-years-of-forte-research-a-personal-perspective) <br/>  by Luca Viganò
+- [30+ years of FORTE research: a personal perspective](invited#30-years-of-forte-research-a-personal-perspective) <br/>  by Muffy Calder
 
 ### FORTE Best Paper
 
