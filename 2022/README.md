@@ -57,9 +57,9 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 
 ## Keynote Speakers
 
-* [Muffy Calder](http://www.dcs.gla.ac.uk/~muffy/), University of Glasgow, UK
-* [Maarten van Steen](https://people.utwente.nl/m.r.vansteen), University of Twente, NL 
-* [Luca Viganò](http://www.lucavigano.com/), King's College London, UK
+* [Muffy Calder](invited#muffy-calder), University of Glasgow, UK
+* [Maarten van Steen](invited#maarten-van-steen), University of Twente, NL 
+* [Luca Viganò](invited#luca-viganò), King's College London, UK
 
 ## Accepted Papers
 Go to the [list of accepted papers](accepted-papers)
