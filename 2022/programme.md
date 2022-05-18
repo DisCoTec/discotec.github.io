@@ -148,6 +148,11 @@
 
 ## DAIS programme
 
+### DAIS Invited Speaker
+*(session chair: )*
+
+- [Challenges in automated measurement of pedestrian dynamics](invited#challenges-in-automated-measurement-of-pedestrian-dynamics) <br/>  by Maarten van Steen
+
 ### DAIS Best Paper
 
 TBA
