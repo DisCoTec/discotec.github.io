@@ -7,7 +7,7 @@
 *All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
   
 
-## Monday 13 June
+## Monday June 13
 
 
 ### Discotec Workshops
@@ -30,7 +30,7 @@
 
 <br/>
 
-## Tuesday 14 June
+## Tuesday June 14
 
 ### Conference Talks
 
@@ -53,7 +53,7 @@
 
 <br/>
 
-## Wednesday 15 June
+## Wednesday June 15
 
 ### Conference Talks
 
@@ -80,7 +80,7 @@
 
   
 
-## Thursday 16 June
+## Thursday June 16
 
 ### Conference Talks
 
@@ -101,7 +101,7 @@
 
 <br/>
 
-## Friday 17 June
+## Friday June 17
 
 ### Discotec Workshops
 
