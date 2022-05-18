@@ -63,7 +63,7 @@
 | *09.55 - 10.00* | *welcome* | *welcome* | *welcome* |
 | **10.00 - 11.00** | [(Invited Talk) Luca Viganò: Formal Methods for Socio-Technical Security](invited#luca-viganò) | [(Invited Talk) Luca Viganò: Formal Methods for Socio-Technical Security](invited#luca-viganò) | [(Invited Talk) Luca Viganò: Formal Methods for Socio-Technical Security](invited#luca-viganò) |
 | *11.00 - 11.30* | *break* | *break* | *break* |
-| | Joint session: DisCoTeC best papers | Joint session: DisCoTeC best papers | Joint session: DisCoTeC best papers |
+| | *Joint session: DisCoTeC best papers* | *Joint session: DisCoTeC best papers* | *Joint session: DisCoTeC best papers* |
 | **11.30 - 12.00** | [A Monitoring Tool for Linear-Time μHML](#coordination-best-paper) | [A Monitoring Tool for Linear-Time μHML](#coordination-best-paper) | [A Monitoring Tool for Linear-Time μHML](#coordination-best-paper)|
 | **12.00 - 12.30** | DAIS Best Paper | DAIS Best Paper | DAIS Best Paper |
 | **12.30 - 13.00** | [Traits: Correctness-by-Construction for Free](#forte-best-paper) | [Traits: Correctness-by-Construction for Free](#forte-best-paper) | [Traits: Correctness-by-Construction for Free](#forte-best-paper) | 
@@ -95,7 +95,7 @@
 | **12.00 - 12.30** | [Model-Driven Generation of Microservice Interfaces: From LEMMA Domain Models to Jolie APIs](#session-4-runtime-verification-monitor-synthesis-and-microservices) | talks |  [Branch-Well-Structured Transition Systems and Extensions](#session-4-verification-and-semantics) |
 | **12.30 - 13.00** | - | talks | [Co-engineering safety-security using statistical model checking (Journal - First)](#session-4-verification-and-semantics) |
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break* |
-| | Joint session: DisCoTec tools | Joint session: DisCoTec tools | Joint session: DisCoTec tools |
+| | *Joint session: DisCoTec tools* | *Joint session: DisCoTec tools* | *Joint session: DisCoTec tools* |
 | **15.00 - 16.30** | talks | talks | talks | 
 | *16.30 - 17.00* | *networking coffee* | *networking coffee* | *networking coffee* |
 
