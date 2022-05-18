@@ -27,7 +27,7 @@ CoMinDs is an activity of the IEEE Task Force on Process Mining
 ![Task Force on Process Mining logo](https://www.tf-pm.org/pics/logo.jpg)
 
 ## Special Call for Abstract
-CoMinDS wellcomes submission of abstract about ongoing researches, case studies, ideas, and practical experiences. Notably, abstracts will not be part of the proceedings. Authors have to submit their abstract (max 1 page using [https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WtR5Hy5ua71](LNCS format)) at [https://easychair.org/conferences/?conf=cominds2022](https://easychair.org/conferences/?conf=cominds2022). 
+CoMinDS wellcomes submission of abstract about ongoing researches, case studies, ideas, and practical experiences. Notably, abstracts will not be part of the proceedings. Authors have to submit their abstract (max 1 page full width exluding references in [LNCS format](https://www.overleaf.com/project/62850169ea07884843d3d9c2) ) at [https://easychair.org/conferences/?conf=cominds2022](https://easychair.org/conferences/?conf=cominds2022). 
 
 
 ## Program
