@@ -102,7 +102,7 @@
 
 ## Friday June 17
 
-### Discotec Workshops
+### DisCoTec Workshops
 
 * **BlockTee**: Go to the [programme page](blocktee).
 * **ICE**: Go to the [programme page](ice).
