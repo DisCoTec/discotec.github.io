@@ -10,13 +10,13 @@
 ## Monday June 13
 
 
-### Discotec Workshops
+### DisCoTec Workshops
 
 * **CoMinDs**: Go to the [programme page](cominds).
 * **FOCODILE**: Go to the [programme page](focodile).
 <br/>
 
-### Discotec Tutorials 
+### DisCoTec Tutorials 
 
 | Time | Blockchain Track | Verification Track|
 | :---: | :---: | :---: |
@@ -63,7 +63,7 @@
 | *09.55 - 10.00* | *welcome* | *welcome* | *welcome* |
 | **10.00 - 11.00** | [(Invited Talk) Luca Viganò: Formal Methods for Socio-Technical Security](invited#luca-viganò) | [(Invited Talk) Luca Viganò: Formal Methods for Socio-Technical Security](invited#luca-viganò) | [(Invited Talk) Luca Viganò: Formal Methods for Socio-Technical Security](invited#luca-viganò) |
 | *11.00 - 11.30* | *break* | *break* | *break* |
-| | *Joint session: DisCoTeC best papers* | *Joint session: DisCoTeC best papers* | *Joint session: DisCoTeC best papers* |
+| | *Joint session: DisCoTec best papers* | *Joint session: DisCoTec best papers* | *Joint session: DisCoTec best papers* |
 | **11.30 - 12.00** | [A Monitoring Tool for Linear-Time μHML](#coordination-best-paper) | [A Monitoring Tool for Linear-Time μHML](#coordination-best-paper) | [A Monitoring Tool for Linear-Time μHML](#coordination-best-paper)|
 | **12.00 - 12.30** | [Rebop: Reputation-based Incentives in Committee-based Blockchains](#dais-best-paper)  | [Rebop: Reputation-based Incentives in Committee-based Blockchains](#dais-best-paper)  | [Rebop: Reputation-based Incentives in Committee-based Blockchains](#dais-best-paper)  |
 | **12.30 - 13.00** | [Traits: Correctness-by-Construction for Free](#forte-best-paper) | [Traits: Correctness-by-Construction for Free](#forte-best-paper) | [Traits: Correctness-by-Construction for Free](#forte-best-paper) | 
