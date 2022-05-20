@@ -92,10 +92,10 @@
 | | [Session 4: Runtime Verification, Monitor Synthesis, and Microservices](#session-4-runtime-verification-monitor-synthesis-and-microservices) | [Session 4: Elastic and Scalable Systems](#session-4-elastic-and-scalable-systems) | [Session 4: Verification and Semantics](#session-4-verification-and-semantics) |
 | **11.30 - 12.00** | [A Synthesis Tool for Optimal Monitors in a Branching-Time Setting](#session-4-runtime-verification-monitor-synthesis-and-microservices) | [The HDFS Replica Placement Policies: a comparative experimental investigation](#session-4-elastic-and-scalable-systems) | [Process Algebra Can Save Lives: Static Analysis of XACML Access Control Policies using mCRL2](#session-4-verification-and-semantics) |
 | **12.00 - 12.30** | [Model-Driven Generation of Microservice Interfaces: From LEMMA Domain Models to Jolie APIs](#session-4-runtime-verification-monitor-synthesis-and-microservices) | [An Elastic and Scalable Topic-based Pub/Sub System using Deep Reinforcement Learning](#session-4-elastic-and-scalable-systems) |  [Branch-Well-Structured Transition Systems and Extensions](#session-4-verification-and-semantics) |
-| **12.30 - 13.00** | - | - | [Co-engineering safety-security using statistical model checking (Journal - First)](#session-4-verification-and-semantics) |
+| **12.30 - 13.00** | - | - | [Co-engineering safety-security using statistical model checking (Journal First)](#session-4-verification-and-semantics) |
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break* |
-| | *Joint session: DisCoTec tools* | *Joint session: DisCoTec tools* | *Joint session: DisCoTec tools* |
-| **15.00 - 16.30** | talks | talks | talks | 
+| | *Joint session: DisCoTec Tools* | *Joint session: DisCoTec Tools* | *Joint session: DisCoTec Tools* |
+| **15.00 - 16.30** | TBD | TBD | TBD | 
 | *16.30 - 17.00* | *networking coffee* | *networking coffee* | *networking coffee* |
 
 <br/>
