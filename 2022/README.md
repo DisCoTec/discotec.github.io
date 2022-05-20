@@ -17,11 +17,12 @@ event or not.
 Due to the current COVID-19 developments, the conference is still hosted by the [University of Malta](http://www.um.edu.mt) but it will be held **online**.  Instead of physical meeting/presentations, the authors of accepted papers have recorded their talks to discuss them with the conference participants online.-->
 
  
-<!--
+
 ## Programme
 
-Go to the [programme page](https://www.discotec.org/2021/programme). *All times are listed for* **CET+1** *(Central European **Summer** Time)* 
+Go to the [programme page](https://www.discotec.org/2022/programme). *All times are listed for* **CEST** *(Central European **Summer** Time)* 
 
+<!--
 ## Discussions
 
 Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/shared_invite/zt-qd3ed8l2-BC1WA_re3N~e6AjNbFNIzQ)
@@ -97,7 +98,7 @@ Trusted Execution Environments
 * [CoMinDs 2022](https://www.discotec.org/2022/cominds) - Workshop on Collaborative Mining for Distributed Systems
 * [FOCODILE 2022](https://www.discotec.org/2022/focodile) - Workshop on the Foundations of Consensus and Distributed Ledgers
 * [ICE 2022](https://www.discotec.org/2022/ice) - Workshop on Interaction and Concurrency Experience
-* [REMV 2022](https://www.discotec.org/2022/remv) - Workshop on Robotics, Electronics and Machine Vision
+* ~~[REMV 2022](https://www.discotec.org/2022/remv) - Workshop on Robotics, Electronics and Machine Vision~~ **Cancelled**
 
 <!--
 
