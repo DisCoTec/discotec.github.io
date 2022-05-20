@@ -86,6 +86,7 @@
 
 | Time | COORDINATION | DAIS | FORTE |
 | :---: | :---: | :---: | :---: |
+| *09.55 - 10.00* | *welcome* | *welcome* | *welcome* |
 | **10.00 - 11.00** | [(Invited Talk) Maarten van Steen: Challenges in automated measurement of pedestrian dynamics](invited#maarten-van-steen) | [(Invited Talk) Maarten van Steen: Challenges in automated measurement of pedestrian dynamics](invited#maarten-van-steen) | [(Invited Talk) Maarten van Steen: Challenges in automated measurement of pedestrian dynamics](invited#maarten-van-steen) |
 | *11.00 - 11.30* | *break* | *break* | *break* |
 | | [Session 4: Runtime Verification, Monitor Synthesis, and Microservices](#session-4-runtime-verification-monitor-synthesis-and-microservices) | [Session 4: Elastic and Scalable Systems](#session-4-elastic-and-scalable-systems) | [Session 4: Verification and Semantics](#session-4-verification-and-semantics) |
