@@ -60,7 +60,7 @@ Rhauani Fazul and Patrícia Pitthan	<br/>
 *The HDFS Replica Placement Policies: a comparative experimental investigation*
 
 Arian Baloochestani, Leander Jehl and Hein Meling <br/>	
-*Attacks on Voter Rewards in Committee-based Blockchains* 
+*Rebop: Reputation-based Incentives in Committee-based Blockchains* 
 
 Emanuel Onica and Ciprian Amariei <br/>	
 *Using SGX for Meta-Transactions Support in Ethereum DApps [Work-in-Progress Paper]*
@@ -71,8 +71,8 @@ Jämes Ménétrey, Christian Göttel, Anum Khurshid, Marcelo Pasin, Pascal Felbe
 Pasquale De Rosa and Valerio Schiavoni	<br/> 
 *Understanding Cryptocoins Trends Correlations [Work-in-Progress Paper]*
 
-Jacopo Soldani, Stefano Forti and Antonio Brogi	Failure <br/> 
-*Root Cause Analysis for Microservices, Explained*
+Jacopo Soldani, Stefano Forti and Antonio Brogi	<br/> 
+*Failure Root Cause Analysis for Microservices, Explained*
 
 
 ## FORTE accepted papers
