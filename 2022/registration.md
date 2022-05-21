@@ -9,7 +9,7 @@ You can register for attending the conference by filling [this registration form
 
 If you have any questions about the registration, please contact <commev@imtlucca.it> (please, refer to DisCoTec 2022 in the subject).
 
-Similar to past editions, there are no special fees for students, but we have a very limited amount of student travel grants provided by IFIP. Please contact the local organization for details.
+Similar to past editions, there are no special fees for students, but we have a limited amount of student travel grants provided by IFIP. Please contact the local organization for details.
 
 ### Physical event
 
