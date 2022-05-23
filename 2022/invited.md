@@ -44,6 +44,18 @@ Maarten van Steen is (co-)author of several textbooks, including "Distributed Sy
 
 A large part of his current professional life is occupied by (research) management. Besides his role as Scientific Director, he is member of the daily board of the Dutch Science Foundation, chair of the Research & Innovation working group of the Dutch AI Coalition, and member of the Program Advisory Board for AiNed (a 400 MEuro national program on AI). Until 2020 he chaired the national ICT-research Platform Netherlands.
 
+## Moshe Y. Vardi
+
+[Rice University, USA](https://www.cs.rice.edu/~vardi/)
+
+### Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience (Remote)
+
+In both computer science and economics, efficiency is a cherished property. In computer science, the field of algorithms is almost solely focused on their efficiency. In economics, the main advantage of the free market is that it promises "economic efficiency". A major lesson from many recent disasters is that both fields have over-emphasized efficiency and under-emphasized resilience. I argue that resilience is a more important property than efficiency and discuss how the two fields can broaden their focus to make resilience a primary consideration.  I will include a technical example, showing how we can shift the focus in strategic reasoning from efficiency to resilience.
+
+### Biography 
+Moshe Y. Vardi is University Professor and the George Distinguished Service Professor in Computational Engineering at Rice University. He is the recipient of several awards, including the ACM SIGACT Goedel Prize, the ACM Kanellakis Award, the ACM SIGMOD Codd Award, the Knuth Prize, the IEEE Computer Society Goode Award, and the EATCS Distinguished Achievements Award.  He is the author and co-author of over 700 papers, as well as two books. He is a Guggenheim Fellows as well as fellow of several societies, and a member of several academies, including the US National Academy of Engineering and National Academy of Science.  He holds seven honorary doctorates.  He is a Senior Editor of the Communications of the ACM, the premier publication in computing.
+Moshe Y. Vardi Home page: <http://www.cs.rice.edu/~vardi>
+
 ## Luca Viganò
 
 [King's College London, UK](http://www.lucavigano.com/)

@@ -60,6 +60,7 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 
 * [Muffy Calder](invited#muffy-calder), University of Glasgow, UK
 * [Maarten van Steen](invited#maarten-van-steen), University of Twente, NL 
+* [Moshe Y. Vardi](invited#moshe-y-vardi) (Remote), Rice University, USA
 * [Luca Viganò](invited#luca-viganò), King's College London, UK
 
 ## Accepted Papers
