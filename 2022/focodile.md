@@ -26,7 +26,7 @@ FOCODILE has no formal proceedings. Novel research works or already published pa
 
 ### Important Dates
 * Extended abstract submission deadline (Hard): May 11, 2022 (AoE)
-* Notification of accepted talks: May 20, 2022
+* Notification of accepted talks: May 25, 2022
 * Workshop: June 13, 2022
 
 ### Submission information
