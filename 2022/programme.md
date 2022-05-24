@@ -98,6 +98,7 @@
 | **15.00 - 16.30** | TBD | TBD | TBD | 
 | *16.30 - 17.00* | *networking coffee* | *networking coffee* | *networking coffee* |
 | **17.00 - 18.00** | [(Remote Invited Talk) Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) | [(Remote Invited Talk) Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) | [(Remote Invited Talk) Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) |
+
 <br/>
 
 ## Friday June 17
