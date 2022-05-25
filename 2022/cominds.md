@@ -3,8 +3,12 @@
 # First Workshop on Collaborative Mining for Distributed Systems
 
 
-**COVID-19:** CoMinDs is planned as a physical, in-person event, with certain support for remote presence, both for speakers and for other participants who are unable or unwilling to come. Depending on the 
-pandemic situation, we may have to make a decision whether to cancel the physical component of the event or not.
+**COVID-19:** CoMinDs is planned as a physical, in-person event, with certain support for remote presence, both for speakers and for other participants who are unable or unwilling to come. Depending on the pandemic situation, we may have to make a decision whether to cancel the physical component of the event or not.
+
+## Invited Speakers
+Prof. [Andrea Vandin](https://www.santannapisa.it/it/andrea-vandin) (Sant'Anna School for Advanced Studies, Pisa). 
+
+## Program
 
 
 ## Scope 
@@ -28,10 +32,6 @@ CoMinDs is an activity of the IEEE Task Force on Process Mining
 
 ## Special Call for Abstract
 CoMinDS wellcomes submission of abstract about ongoing researches, case studies, ideas, and practical experiences. Notably, abstracts will not be part of the proceedings. Authors have to submit their abstract (max 1 page full width exluding references in [LNCS format](https://www.overleaf.com/project/62850169ea07884843d3d9c2) ) at [https://easychair.org/conferences/?conf=cominds2022](https://easychair.org/conferences/?conf=cominds2022). 
-
-
-## Program
-TBA
 
 ## Submission Guidelines
 CoMinDS welcomes submissions of short papers (max 8 pages) presenting novel ideas, position statements, and preliminary results within the theme of collaborative mining and regular paper (max 15 pages) discussing original research works. 
@@ -65,9 +65,4 @@ Proceedings shall be submitted to CEUR-WS.org for online publication. Selected, 
 - Barbara Re, University of Camerino, Italy
 - Lorenzo Rossi, University of Camerino, Italy (co-chair)
 - Massimo Tivoli, University of L'Aquila, Italy
-
-
-## Invited Speakers
-(TBA)
-
 
