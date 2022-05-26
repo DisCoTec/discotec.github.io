@@ -7,6 +7,8 @@ You can register for attending the conference by filling [this registration form
 * It is required that at least one author of papers accepted to DisCoTec conferences register to the conference by the early registration date. 
 * All registration fees below include 22% of VAT. 
 * Similar to past editions, there are no special fees for students, but we have a limited amount of student travel grants provided by IFIP. Please contact the local organization for details.
+* Registration form may be closed after *May 29*, we encourage potential participants to register before that date; in case they can't please contact the local organization.
+* In order to keep registration fees as low as possible, on-site registration is not supported. 
 
 If you have any questions about the registration, please contact <commev@imtlucca.it> (please, refer to DisCoTec 2022 in the subject).
 
@@ -14,7 +16,7 @@ If you have any questions about the registration, please contact <commev@imtlucc
 
 ### Physical event
 
-| | Early (until May 2) | Late (After May 2) |
+| | Early (until May 2) | Late (until May 29) |
 | - | -: | -: |
 | **DisCoTec Conferences + Workshops + Tutorials** | EUR 550  | EUR 650 | 
 | **DisCoTec Conferences only + Tutorials** | EUR 450 | EUR 550 |
