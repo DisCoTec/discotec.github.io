@@ -47,9 +47,6 @@ The registration fees for accepted papers is due regardless of the selected publ
  * Paper notification: May 23 2022
  * Workshop: June 17 2022
 
-
-
-
 ## Program chairs
 * [Valerio Schiavoni]() (University of Neuchatel)
 * [Miguel Matos]() (INESC-ID & U. Lisboa)
@@ -64,3 +61,10 @@ The registration fees for accepted papers is due regardless of the selected publ
  * Marcus	Brandenburger (	IBM Research - Zurich)
  * Marcelo Pasin (University of Neuchatel)
  * Leander	Jehl (TU Braunschweig)
+
+# Keynote Speakers
+ * Pierre Sutra (Télécom SudParis, France)
+ * Emanuel Onica (Alexandru Ioan Cuza University, Romania)
+
+# Program
+TBA
