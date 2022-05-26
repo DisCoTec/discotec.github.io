@@ -52,7 +52,7 @@ Registration to **Friday Workshops** includes:
 
 Accepted papers whose all authors participate only remotely must pay a paper registration fee.
 
-| | Early (until May 2) | Late (After May 2) |
+| | Early (until May 2) | Late (until May 29) |
 | - | -: | -: | 
 | **Conference paper registration fee** | EUR 60 | EUR 60 | 
 | **Workshop paper registration fee** | EUR 20 | EUR 20 |
