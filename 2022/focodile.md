@@ -37,6 +37,31 @@ The submissions must be prepared using Springer’s LNCS style. Accepted submiss
 
 ### Registration
 More info can be found to the [registration page](https://www.discotec.org/2022/registration)
+
+### Program
+
+| Time | Paper | Speaker |
+| :---: | :---: | :---: |
+| *10.50 - 11.00* | *welcome* | *welcome* |
+| **11.00 - 12.00** | Keynote   |  Matteo Maffei |
+| *12.00 - 12.15* | -  |  - |
+| *12.15 - 12.30* | -  |  - |
+| **12.30 - 14.00** | *lunch break* | *lunch break*|
+| *14.00 - 14.15* | -  |  - |
+| *14.15 - 14.30* | -  |  - |
+| *14.30 - 14.45* | -  |  - |
+| *14.45 - 15.00* | -  |  - |
+| *15.00 - 15.15* | -  |  - |
+| *15.15 - 15.30* | -  |  - |
+| *15.30 - 16.00* | *coffee break* | *coffee break*|
+| *16.00 - 16.15* | -  |  - |
+| *16.15 - 16.30* | -  |  - |
+| *16.30 - 16.45* | -  |  - |
+| *16.45 - 17.00* | -  |  - |
+| *17.00 - 17.15* | -  |  - |
+| *17.15 - 17.30* | -  |  - |
+| *19.00 - 20.00* | *Welcome reception* | *Welcome reception* |
+
  
 ### Organising committee chairs
 * Zeta Avarikioti (TU Wien)   zetavar@hotmail.com
