@@ -94,8 +94,11 @@
 | **12.00 - 12.30** | [Model-Driven Generation of Microservice Interfaces: From LEMMA Domain Models to Jolie APIs](#session-4-runtime-verification-monitor-synthesis-and-microservices) | [An Elastic and Scalable Topic-based Pub/Sub System using Deep Reinforcement Learning](#session-4-elastic-and-scalable-systems) |  [Branch-Well-Structured Transition Systems and Extensions](#session-4-verification-and-semantics) |
 | **12.30 - 13.00** | - | - | [Co-engineering safety-security using statistical model checking (Journal First)](#session-4-verification-and-semantics) |
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break* |
-| | *Joint session: DisCoTec Tools* | *Joint session: DisCoTec Tools* | *Joint session: DisCoTec Tools* |
-| **15.00 - 16.30** | TBD | TBD | TBD | 
+| | [Joint session: DisCoTec Artefacts](#joint-session-discotec-artefacts) | [Joint session: DisCoTec Artefacts](#joint-session-discotec-artefacts) | [Joint session: DisCoTec Artefacts](#joint-session-discotec-artefacts) |
+| **15.00 - 15.10** | [Opening and presentation of the EAPLS Artefact Badges](#joint-session-discotec-artefacts) | [Opening and presentation of the EAPLS Artefact Badges](#joint-session-discotec-artefacts) | [Opening and presentation of the EAPLS Artefact Badges](#joint-session-discotec-artefacts) |
+| **15.10 - 15.20** | [The Science of Computer Programming track on Original Software Publications](#joint-session-discotec-artefacts) | [The Science of Computer Programming track on Original Software Publications](#joint-session-discotec-artefacts) | [The Science of Computer Programming track on Original Software Publications](#joint-session-discotec-artefacts) |
+| **15.20 - 15.30** | [Birds of a Feather session on software artefacts and replication issues](#joint-session-discotec-artefacts) | [Birds of a Feather session on software artefacts and replication issues](#joint-session-discotec-artefacts) | [Birds of a Feather session on software artefacts and replication issues](#joint-session-discotec-artefacts) |
+| **10.00 - 16.30** | [Artefact demonstrations](#joint-session-discotec-artefacts) | [Artefact demonstrations](#joint-session-discotec-artefacts) | [Artefact demonstrations](#joint-session-discotec-artefacts) | 
 | *16.30 - 17.00* | *networking coffee* | *networking coffee* | *networking coffee* |
 | **17.00 - 18.00** | [(Remote Invited Talk) Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) | [(Remote Invited Talk) Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) | [(Remote Invited Talk) Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) |
 
@@ -218,4 +221,9 @@
 - Co-engineering safety-security using statistical model checking (Journal - First) <br/> by Rajesh Kumar, Rohan Kela, Siddhant Singh and Bhavesh Narra
 
 
-
+## Joint session: DisCoTec Artefacts
+<!-- *(session chair: )* -->
+- Opening and presentation of the EAPLS Artefact Badges <br/> by Ferruccio Damiani
+- The Science of Computer Programming track on Original Software Publications <br/> by Mohammad Mousavi
+- Birds of a Feather session on software artefacts and replication issues
+- Artefact demonstrations
