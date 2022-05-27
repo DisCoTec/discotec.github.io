@@ -225,5 +225,5 @@
 <!-- *(session chair: )* -->
 - Opening and presentation of the EAPLS Artefact Badges <br/> by Ferruccio Damiani
 - The Science of Computer Programming track on Original Software Publications <br/> by Mohammad Mousavi
-- Birds of a Feather session on software artefacts and replication issues
+- Birds of a Feather session on software artefacts and replication issues <br/> moderated by Ferruccio Damiano, David Eyers, and Anna Philippou
 - Artefact demonstrations
