@@ -67,4 +67,16 @@ The registration fees for accepted papers is due regardless of the selected publ
  * Emanuel Onica (Alexandru Ioan Cuza University, Romania)
 
 # Program
-TBA
+### Program
+
+| When | What | Title and Speaker |
+| :---: | :---: | :---: |
+| *09.00 - 09.10* | *welcome* | *welcome* |
+| **09.15 - 10.00** | Keynote   |  Byzantine Leaderless State-Machine Replication, Pierre Sutra  |
+| *10.00 - 10.30* | Invited paper  |  SplitBFT: Improving Byzantine Fault Tolerance Safety Using Trusted Compartments, TBA |
+| *10.30 - 11.00* | Regular paper  |  ContractBox: Using TEEs and WebAssembly for Small Scale Blockchains on the Edge, TBA |
+| *11.00 - 11.30* | *coffee break*  |  *coffee break* |
+| **11.30 - 12.15** | Keynote   |   Using SGX to Tackle Security Issues in Ethereum Meta-Transactions, Emanuel Onica |
+| *12.15 - 12.45* | Regular paper   |   Securing Cross-Chain Asset Transfers on Permissioned Blockchains, TBA |
+| *12.45 - 13.00* | *closing*   |  *closing*   |
+| *13.00 - 14.30* | *lunch break* | *lunch break*|
