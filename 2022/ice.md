@@ -124,7 +124,8 @@ We plan to invite authors of selected papers and brief announcements to submit t
 ## Invited speakers 
 
   * [Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) (Microsoft Research, UK)
-  * (Another speaker TBA)
+  * [Ilaria Castellani](https://www-sop.inria.fr/members/Ilaria.Castellani/) (INRIA, FR)
+
 
 ## ICEcreamers
 
