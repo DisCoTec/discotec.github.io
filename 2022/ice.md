@@ -37,7 +37,7 @@ You can also download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pd
 
 _The pre-proceedings and the program will be made available soon._
 
-- * The Right Kind of Non-Determinism: Using Concurrency to Verify C Programs with Underspecified Semantics*  
+- *The Right Kind of Non-Determinism: Using Concurrency to Verify C Programs with Underspecified Semantics*  
 by Eduard Kamburjan, and Nathan Wasser
 - *On Composing Communicating Systems*  
 by Franco Barbanera, Ivan Lanese, and Emilio Tuosto
@@ -49,9 +49,9 @@ by Marco Bernardo, and Claudio Mezzina
 by Gerard Tabone, and Adrian Francalanza
 - *Lang-n-Send Extended: Sending Regular Expressions to Monitors*  
 by Matteo Cimini
-- * A Framework for Modeling Behaviour of Aggregated Agents*  
+- *A Framework for Modeling Behaviour of Aggregated Agents*  
 by Michele Loreti, and Michela Quadrini
-- * Branching pomsets for choreographies*  
+- *Branching pomsets for choreographies*  
 by Luc Edixhoven, Guillermina Cledou, José Proença, and Sung-Shik Jongmans
 
 ## Scope
