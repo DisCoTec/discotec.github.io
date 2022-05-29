@@ -52,15 +52,15 @@ The registration fees for accepted papers is due regardless of the selected publ
 * [Miguel Matos]() (INESC-ID & U. Lisboa)
 
 ## Program committee
- * Hans P. Reiser (Reykjavik University)
- * Francisco Maia (INESC TEC)
- * Pierre-Louis Aublin (IIJ Innovation Institute)
- * Pierre Sutra (Télécom SudParis)
- * Heverson Ribeiro
- * Nuno Santos (INESC-ID / Instituto Superior Tecnico)
- * Marcus	Brandenburger (	IBM Research - Zurich)
- * Marcelo Pasin (University of Neuchatel)
- * Leander	Jehl (TU Braunschweig)
+ * Hans P. Reiser (Reykjavik University, Island)
+ * Francisco Maia (INESC TEC, Portugal)
+ * Pierre-Louis Aublin (IIJ Innovation Institute, Japan)
+ * Pierre Sutra (Télécom SudParis, France)
+ * Heverson Ribeiro (unaffiliated)
+ * Nuno Santos (INESC-ID / Instituto Superior Tecnico, Portugal)
+ * Marcus	Brandenburger (	IBM Research - Zurich, Switzerland)
+ * Marcelo Pasin (University of Neuchatel, Switzerland)
+ * Leander	Jehl (TU Braunschweig, Germany)
 
 # Keynote Speakers
  * Pierre Sutra (Télécom SudParis, France)
