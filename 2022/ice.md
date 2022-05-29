@@ -26,23 +26,33 @@ pandemic situation, we may have to make a decision whether to cancel the physica
       - [Helene Coullon](http://helene-coullon.fr/) (IMT Atlantique, FR) 
 -->
 
-<!--
+
 ## Accepted papers and oral communications
 
+<!--
 See the [**ICE 2022 programme**](programme#friday-18-june).
 
 You can also download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pdf).
-
-- *Multiparty Session Programming with Global Protocol Combinators* (oral communication) <br/> by Keigo Imai, Rumyana Neykova, Nobuko Yoshida, and Shoji Yuen
-- *Deadlock Freedom for Asynchronous and Cyclic Process Networks* <br/> by Bas van den Heuvel and Jorge A. Pérez
-- *Decomposing Monolithic Processes in a Process Algebra with Multi-actions* <br/> by Maurice Laveaux and Tim Willemse
-- *On Encoding Primitives for Compensation Handling as Adaptable Processes* (oral communication) <br/> by Jovana Dedeić, Jovanka Pantović, and Jorge A. Pérez
-- *Processes, Systems & Tests: Defining Contextual Equivalences* <br/> by Clément Aubert and Daniele Varacca
-- *Towards Generalised Half-Duplex Systems* <br/> by Cinzia Di Giusto, Loïc Germerie Guizouarn, and Etienne Lozes
-- *A Semantic Model for Interacting Cyber-Physical Systems* <br/> by Benjamin Lion, Farhad Arbab, and Carolyn Talcott
-- *Polarization and Belief Convergence in Social Networks Under Confirmation Bias* (oral communication) <br/> by Mario Alvim, Bernardo Amorim, Sophia Knight, Santiago Quintero, and Frank Valencia
-- *Expanding Social Polarization Models by Incorporating  Belief Credibility* (oral communication) <br/> by Alex Chambers and Sophia Knight
 -->
+
+_The pre-proceedings and the program will be made available soon._
+
+- * The Right Kind of Non-Determinism: Using Concurrency to Verify C Programs with Underspecified Semantics*  
+by Eduard Kamburjan, and Nathan Wasser
+- *On Composing Communicating Systems*  
+by Franco Barbanera, Ivan Lanese, and Emilio Tuosto
+- *Demystifying Attestation in Intel Trust Domain Extensions (TDX) via Formal Verification* (oral communication)  
+by Muhammad Usama Sardar, and Christof Fetzer
+- *The NiRvAna project: Noninterference and Reversibility Analysis in Private Blockchains* (oral communication)  
+by Marco Bernardo, and Claudio Mezzina
+- *Session Fidelity for ElixirST: A Session-Based Type System for Elixir Modules*  
+by Gerard Tabone, and Adrian Francalanza
+- *Lang-n-Send Extended: Sending Regular Expressions to Monitors*  
+by Matteo Cimini
+- * A Framework for Modeling Behaviour of Aggregated Agents*  
+by Michele Loreti, and Michela Quadrini
+- * Branching pomsets for choreographies*  
+by Luc Edixhoven, Guillermina Cledou, José Proença, and Sung-Shik Jongmans
 
 ## Scope
 
@@ -70,7 +80,7 @@ The following dates are in the [Anywhere on Earth time zone](https://time.is/Any
 
   * ~~11 April 2022~~ **25 April 2022**: abstract submission **(extended!)**
   * ~~15 April 2022~~ **29 April 2022**: paper submission **(extended!)**
-  * **23 May 2022**: notification
+  * ~~23 May 2022~~: notification
   * **17 June 2022**: ICE workshop
   * 12 July 2022: camera-ready for EPTCS post-proceedings
 
