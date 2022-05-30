@@ -58,7 +58,7 @@ Trains to Lucca depart from Pisa Centrale Railway Station. Details are available
 
 Bus travel from Pisa to Lucca is provided by VAI Bus: connections and timetables available on the website.
 
-**From Florence**
+***By Plane From Florence**
 
 The School can also be easily reached from the Amerigo Vespucci International Airport of Florence.
 
