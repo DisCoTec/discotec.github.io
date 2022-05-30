@@ -65,6 +65,7 @@ The registration fees for accepted papers is due regardless of the selected publ
 # Keynote Speakers
  * Pierre Sutra (Télécom SudParis, France)
 
+**Title: Byzantine Leaderless State-Machine Replication**
 **Abstract:**
 Recent advances in state-machine replication (SMR) protocols focus on leaderless approaches. In these protocols, each replica is on par with its peers and can be used to coordinate the execution of a state-machine command. This removes the bottleneck of leader-based techniques, improves fairness wrt. remote clients as well as availability. To date, few works exist that address arbitrary (byzantine) failures in leaderless SMR. In this talk, we try to bridge this gap. We propose the first general framework to construct correct-by-design byzantine leaderless protocols. Our framework is composed of well-identified services, such as byzantine quorums, best-effort broadcast and consensus. For a given service, many implementations exist. Some may focus on scalability, while others improve latency or security using trusted execution environments (TEE). Two use cases are given to illustrate the framework: a byzantine fault-tolerant variations of Egalitarian Paxos, and a highly scalable byzantine leaderless protocol called Wintermute. We also discuss the interest of byzantine leaderless SMR in the context of permissioned blockchains.
 
@@ -73,6 +74,8 @@ Pierre Sutra is Associate Professor at Télécom SudParis and a committer of the
 
 
  * Emanuel Onica (Alexandru Ioan Cuza University, Romania)
+
+**Title: Using SGX to Tackle Security Issues in Ethereum Meta-Transactions**
 
 **Abstract:** 
 Ethereum currently backs the largest amount of existing decentralized applications (DApps) built on public blockchain platforms. Interaction with Ethereum DApps implies transactions that charge a fee. These fees complicate onboarding new users who lack the necessary cryptocurrency. Meta-transaction patterns emerged for decoupling users from paying the transaction fees. In essence, the existing meta-transaction services include a relayer mechanism forwarding the transactions and paying for these on behalf of the users. While solving the user onboarding problem, introducing an extra party in the transaction path generates multiple security issues. In this talk we examine these issues and discuss the first steps taken toward a new meta-transaction architecture that uses Intel Software Guard Extensions (SGX). We argue that integrating a trusted execution environment such as SGX at the relayer site provides the necessary security guarantees in a meta-transaction setting.
@@ -88,11 +91,11 @@ Emanuel Onica is an Associate Professor at the Faculty of Computer Science, Alex
 | When | What | Title and Speaker |
 | :---: | :---: | :---: |
 | *09.00 - 09.10* | *welcome* | *welcome* |
-| **09.15 - 10.00** | Keynote   |  Byzantine Leaderless State-Machine Replication, Pierre Sutra  |
-| *10.00 - 10.30* | Invited paper  |  [SplitBFT: Improving Byzantine Fault Tolerance Safety Using Trusted Compartments](https://arxiv.org/abs/2205.08938), TBA |
-| *10.30 - 11.00* | Regular paper  |  ChainBox: Using TEEs and WebAssembly to run Smart Contracts on the Edge, TBA |
+| **09.15 - 10.00** | Keynote   |  Byzantine Leaderless State-Machine Replication. Pierre Sutra  |
+| *10.00 - 10.30* | Invited paper  |  [SplitBFT: Improving Byzantine Fault Tolerance Safety Using Trusted Compartments](https://arxiv.org/abs/2205.08938). Ines Messadi, Markus Horst Becker, Kai Bleeke, Leander Jehl, Sonia Ben Mokhtar, Rüdiger Kapitza|
+| *10.30 - 11.00* | Regular paper  |  ChainBox: Using TEEs and WebAssembly to run Smart Contracts on the Edge.  Kai	Bleeke, Mohammad	Mahhouk, Lennart	Almstedt, Leander	Jehl, Rüdiger	Kapitza |
 | *11.00 - 11.30* | *coffee break*  |  *coffee break* |
-| **11.30 - 12.15** | Keynote   |   Using SGX to Tackle Security Issues in Ethereum Meta-Transactions, Emanuel Onica |
-| *12.15 - 12.45* | Regular paper   |   Securing Cross-Chain Asset Transfers on Permissioned Blockchains, TBA |
+| **11.30 - 12.15** | Keynote   |   Using SGX to Tackle Security Issues in Ethereum Meta-Transactions. Emanuel Onica |
+| *12.15 - 12.45* | Regular paper   |   Securing Cross-Chain Asset Transfers on Permissioned Blockchains. Catarina Pedreira, Rafael Belchior, Miguel Matos, André Vasconcelos |
 | *12.45 - 13.00* | *closing*   |  *closing*   |
 | *13.00 - 14.30* | *lunch break* | *lunch break*|
