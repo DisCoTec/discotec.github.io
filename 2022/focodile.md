@@ -120,5 +120,5 @@ This keynote will overview the state-of-the-art in payment channel networks, cov
 * Dionysis Zindros (Stanford University)
 
 
-
+### Sponsors & Supporters
 
