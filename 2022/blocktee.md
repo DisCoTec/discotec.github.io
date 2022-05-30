@@ -74,7 +74,7 @@ The registration fees for accepted papers is due regardless of the selected publ
 | *09.00 - 09.10* | *welcome* | *welcome* |
 | **09.15 - 10.00** | Keynote   |  Byzantine Leaderless State-Machine Replication, Pierre Sutra  |
 | *10.00 - 10.30* | Invited paper  |  [SplitBFT: Improving Byzantine Fault Tolerance Safety Using Trusted Compartments](https://arxiv.org/abs/2205.08938), TBA |
-| *10.30 - 11.00* | Regular paper  |  ContractBox: Using TEEs and WebAssembly for Small Scale Blockchains on the Edge, TBA |
+| *10.30 - 11.00* | Regular paper  |  ChainBox: Using TEEs and WebAssembly to run Smart Contracts on the Edge, TBA |
 | *11.00 - 11.30* | *coffee break*  |  *coffee break* |
 | **11.30 - 12.15** | Keynote   |   Using SGX to Tackle Security Issues in Ethereum Meta-Transactions, Emanuel Onica |
 | *12.15 - 12.45* | Regular paper   |   Securing Cross-Chain Asset Transfers on Permissioned Blockchains, TBA |
