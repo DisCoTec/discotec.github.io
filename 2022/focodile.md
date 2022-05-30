@@ -46,14 +46,14 @@ More info can be found to the [registration page](https://www.discotec.org/2022/
 | **11.00 - 12.00** | Keynote   |  Matteo Maffei |
 | *12.00 - 12.15* | Enabling Private Attributes in SSI Access Control Systems with DLT and zkSNARK  |  Damiano Di Francesco Maesa, Andrea Lisi, Paolo Mori and Laura Ricci |
 | *12.15 - 12.30* | Clearing Fuzzy Signatures: a Proof of Work Blockchain Protocol for Biometric Identification  |  Paolo Santini, Giulia Rafaiani, Massimo Battaglioni, Marco Baldi and Franco Chiaraluce |
-| **12.30 - 14.00** | *lunch break* | *lunch break*|
+| **12.30 - 14.00** | **lunch break** | **lunch break**|
 | *14.00 - 14.15* | From Weakly-terminating Binary Agreement and Reliable Broadcast to Atomic Broadcast  |  Andreas Fackler, Samuel Schlesinger and Matthew Doty |
 | *14.15 - 14.30* | The semitopology of heterogeneous consensus   |  Murdoch Gabbay and Giuliano Losa |
 | *14.30 - 14.45* | A Security Analysis of Avalanche |  Ignacio Amores Sesar, Christian Cachin and Enrico Tedeschi |
 | *14.45 - 15.00* | Hyperledger Fabric attacks mitigation  |  Remo Pareschi, Federico Zappone, Francesco Salzano and Pierluigi Di Pilla |
 | *15.00 - 15.15* | A Critique of Inflationary Validator Rewards and Consensus for Proof-of-Stake Systems  |  Harry Halpin |
 | *15.15 - 15.30* | Exploring the Benefits of Blockchain Technology for MLOps Pipeline  |  Alessandro Marcelletti and Andrea Morichetta |
-| *15.30 - 16.00* | *coffee break* | *coffee break*|
+| **15.30 - 16.00** | **coffee break** | **coffee break**|
 | *16.00 - 16.15* | Incentives Against Timelock Bribes  |  Zeta Avarikioti and Orfeas Stefanos Thyfronitis Litos |
 | *16.15 - 16.30* | Online Admission Control and Rebalancing in Payment Channel Networks |  Mahsa Bastankhah, Krishnendu Chatterjee, Mohammad Ali Maddah-Ali, Stefan Schmid, Jakub Svoboda and Michelle Yeo |
 | *16.30 - 16.45* | Hide & Seek: Privacy-Preserving Rebalancing on Payment Channel Networks  |  Zeta Avarikioti, Krzysztof Pietrzak, Iosif Salem, Stefan Schmid, Samarth Tiwari and Michelle Yeo |
