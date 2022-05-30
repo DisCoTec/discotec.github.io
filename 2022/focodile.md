@@ -69,7 +69,7 @@ The alternative is to take a city line bus to the Santa Maria Novella Railway St
 From Santa Maria Novella Railway Station the regional trains depart every 30 minutes approximately, timetables available on Trenitalia website.
 
 
-### Registration
+## Registration
 More info can be found to the [registration page](https://www.discotec.org/2022/registration)
 
 ## Program
