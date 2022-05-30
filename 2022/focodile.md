@@ -58,8 +58,7 @@ More info can be found to the [registration page](https://www.discotec.org/2022/
 | *16.15 - 16.30* | Online Admission Control and Rebalancing in Payment Channel Networks |  Mahsa Bastankhah, Krishnendu Chatterjee, Mohammad Ali Maddah-Ali, Stefan Schmid, Jakub Svoboda and Michelle Yeo |
 | *16.30 - 16.45* | Hide & Seek: Privacy-Preserving Rebalancing on Payment Channel Networks  |  Zeta Avarikioti, Krzysztof Pietrzak, Iosif Salem, Stefan Schmid, Samarth Tiwari and Michelle Yeo |
 | *16.45 - 17.00* | ZeroMT: multi-transfer protocol for enabling privacy in off-chain payments  |  Emanuele Scala, Leonardo Mostarda and Flavio Corradini |
-| *17.00 - 17.15* | LightPIR: Privacy-Preserving Route Discovery for Payment Channel Networks  |  Krzysztof Pietrzak, Iosif Salem, Stefan Schmid and Michelle Yeo
- |
+| *17.00 - 17.15* | LightPIR: Privacy-Preserving Route Discovery for Payment Channel Networks  |  Krzysztof Pietrzak, Iosif Salem, Stefan Schmid and Michelle Yeo |
 | *17.15 - 17.30* | -  |  - |
 | *19.00 - 20.00* | *Welcome reception* | *Welcome reception* |
 
