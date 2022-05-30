@@ -91,11 +91,11 @@ Emanuel Onica is an Associate Professor at the Faculty of Computer Science, Alex
 | When | What | Title and Speaker |
 | :---: | :---: | :---: |
 | *09.00 - 09.10* | *welcome* | *welcome* |
-| **09.15 - 10.00** | Keynote   |  Byzantine Leaderless State-Machine Replication. Pierre Sutra  |
-| *10.00 - 10.30* | Invited paper  |  [SplitBFT: Improving Byzantine Fault Tolerance Safety Using Trusted Compartments](https://arxiv.org/abs/2205.08938). Ines Messadi, Markus Horst Becker, Kai Bleeke, Leander Jehl, Sonia Ben Mokhtar, Rüdiger Kapitza|
-| *10.30 - 11.00* | Regular paper  |  ChainBox: Using TEEs and WebAssembly to run Smart Contracts on the Edge.  Kai	Bleeke, Mohammad	Mahhouk, Lennart	Almstedt, Leander	Jehl, Rüdiger	Kapitza |
+| **09.15 - 10.00** | Keynote   |  Byzantine Leaderless State-Machine Replication. ___Pierre Sutra___  |
+| *10.00 - 10.30* | Invited paper  |  [SplitBFT: Improving Byzantine Fault Tolerance Safety Using Trusted Compartments](https://arxiv.org/abs/2205.08938). ___Ines Messadi___, Markus Horst Becker, Kai Bleeke, Leander Jehl, Sonia Ben Mokhtar, Rüdiger Kapitza|
+| *10.30 - 11.00* | Regular paper  |  ChainBox: Using TEEs and WebAssembly to run Smart Contracts on the Edge.  ___Kai	Bleeke___, Mohammad	Mahhouk, Lennart	Almstedt, Leander	Jehl, Rüdiger	Kapitza |
 | *11.00 - 11.30* | *coffee break*  |  *coffee break* |
-| **11.30 - 12.15** | Keynote   |   Using SGX to Tackle Security Issues in Ethereum Meta-Transactions. Emanuel Onica |
-| *12.15 - 12.45* | Regular paper   |   Securing Cross-Chain Asset Transfers on Permissioned Blockchains. Catarina Pedreira, Rafael Belchior, Miguel Matos, André Vasconcelos |
+| **11.30 - 12.15** | Keynote   |   Using SGX to Tackle Security Issues in Ethereum Meta-Transactions. ___Emanuel Onica___ |
+| *12.15 - 12.45* | Regular paper   |   Securing Cross-Chain Asset Transfers on Permissioned Blockchains. Catarina Pedreira, ___Rafael Belchior___, Miguel Matos, André Vasconcelos |
 | *12.45 - 13.00* | *closing*   |  *closing*   |
 | *13.00 - 14.30* | *lunch break* | *lunch break*|
