@@ -37,21 +37,47 @@ IMT School for Advanced Studies Lucca San Francesco Complex
 Piazza S. Francesco, 19 - 55100 Lucca, LU
 
 ### How to reach San Francesco Complex
-The San Francesco Complex is located in San Francesco square inside the ancient city walls. You can reach the campus following these directions.
+**By Car**
+Lucca is situated on the highway line that connects Florence to Pisa and Versilia, called “Autostrada A11 Firenze-Mare”. If you find yourself at Florence or Pisa airport, please follow A11 directions.
+The nearest highway exit to the IMT Campus is Lucca-Est. You can leave your car at the Mazzini underground parking (Via dei Bacchettoni) that is next to the Campus and reachable from Porta Elisa.
+ 
+**By Trainr**
+The Lucca Train Station is located in Piazzale Ricasoli, near to Porta San Pietro.
+It is directly connected to the main Tuscan provinces and tourist locations such as Pisa, Viareggio, Montecatini, Pistoia and Florence. San Francesco Complex is easily reachable by foot from the Train Station.
+You can check connections and timetables on the Trenitalia website.
+ 
+**By Plane
+From Pisa**
 
-### Accommodations
-Lucca is a small town, you can easily reach the San Francesco Complex from any accommodation inside the city walls. You can find a list of Hotels and B&Bs nearby the conference venue here.
+The nearest airport to Lucca is the Galileo Galilei Internation Airport of Pisa.
+Pisa Airport – Pisa Centrale Railway Station: transfer is provided by the Pisa Mover Bus service with a timetable departure of every 10 minutes and a journey time of 5/8 minutes. At the Airport, the stop is located just outside the check-in area. At the Pisa Centrale Railway Station, the stop is located close to platform 14, from which you can easily reach the other platforms and station’s main entrance. The ticket cost is € 2.70.
+
+The CoTaPi taxi company is available at Pisa Airport. A taxi from Pisa Airport to Lucca center could cost around € 50.00 and would take about 30 minutes.
+
+Trains to Lucca depart from Pisa Centrale Railway Station. Details are available on the Trenitalia website or via Google Transit. Direct trains are Regional trains, the journey is a little over 30 minutes and the ticket costs € 3.60. It is not possible to purchase Regional tickets more than 7 days in advance of the day of travel. Trains are less frequent on the weekend.
+
+Bus travel from Pisa to Lucca is provided by VAI Bus: connections and timetables available on the website.
+
+**From Florence**
+
+The School can also be easily reached from the Amerigo Vespucci International Airport of Florence.
+
+The easiest way to reach IMT from the Florence Airport is by taxi. You can catch a taxi from just outside the airport for an approximate cost of € 100.
+
+The alternative is to take a city line bus to the Santa Maria Novella Railway Station, in order to catch a connecting train to Lucca. The transfer is provided by “Vola in Bus” of the ATAF Company: a bus leaves approximately every 30 minutes, 7 days a week, with a travel time of 25 minutes. Ticket price is € 4.50.
+
+From Santa Maria Novella Railway Station the regional trains depart every 30 minutes approximately, timetables available on Trenitalia website.
 
 
 ### Registration
 More info can be found to the [registration page](https://www.discotec.org/2022/registration)
 
-### Program
+## Program
 
 | Time | Paper | Speaker |
 | :---: | :---: | :---: |
 | *10.50 - 11.00* | *welcome* | *welcome* |
-| **11.00 - 12.00** | Advances and Challenges in Payment Channel Networks   |  Matteo Maffei |
+| **11.00 - 12.00** | **Keynote:Advances and Challenges in Payment Channel Networks**   |  **Matteo Maffei** |
 | *12.00 - 12.15* | Enabling Private Attributes in SSI Access Control Systems with DLT and zkSNARK  |  Damiano Di Francesco Maesa, Andrea Lisi, Paolo Mori and Laura Ricci |
 | *12.15 - 12.30* | Clearing Fuzzy Signatures: a Proof of Work Blockchain Protocol for Biometric Identification  |  Paolo Santini, Giulia Rafaiani, Massimo Battaglioni, Marco Baldi and Franco Chiaraluce |
 | **12.30 - 14.00** | **lunch break** | **lunch break**|
