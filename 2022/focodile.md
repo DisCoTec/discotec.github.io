@@ -96,6 +96,16 @@ More info can be found to the [registration page](https://www.discotec.org/2022/
 | *17.15 - 17.30* | -  | Flr Finance Company |
 | *19.00 - 20.00* | *Welcome reception* | *Welcome reception* |
 
+## Keynote speaker
+
+### Matteo Maffei (TU Wien)
+
+Advances and Challenges in Payment Channel Networks
+
+Permissionless cryptocurrencies such as Bitcoin enable secure payments in a decentralized, trustless environment. Transactions are verified through a consensus mechanism and all valid transactions are recorded in a public, distributed ledger, often called blockchain. This approach has inherent scalability issues and fails to meet the growing user demands: In Bitcoin, the transaction throughput is technically limited to tens of transactions per second and the transaction confirmation time is around an hour. In contrast, more centralized payment networks such as the Visa credit card network, can handle peaks of more than 40K transactions per second.
+Payment channels (PC) have emerged as one of the most promising scalability solutions. A PC enables a pair of users to securely perform an arbitrary amount of instantaneous transactions with each other, while burdening the blockchain with merely two transactions, one for opening and one for closing the PC. PCs can be connected to each other, forming a so called payment channel network (PCN), which allows any two users connected by a path of PCs to perform off-chain transactions. The most prominent example, currently deployed in Bitcoin, is the Lightning Network, which hosts bitcoins worth more than 170M USD, in a total of more than 27K nodes and more than 76K channels. While effective, PCNs suffer from several drawbacks, such as security attacks (e.g., wormhole and griefing attacks), privacy vulnerabilities (e.g., linkability attacks), and hard-to-realize system assumptions (e.g., nodes being constantly online), which have opened up an exciting and rapidly growing research field.
+This keynote will overview the state-of-the-art in payment channel networks, covering the cryptographic, game-theoretic, and networking foundations. We will also highlight the most significant open challenges in the field and the most promising research directions to address them.
+
  
 ### Organising committee chairs
 * Zeta Avarikioti (TU Wien)   zetavar@hotmail.com
@@ -112,7 +122,6 @@ More info can be found to the [registration page](https://www.discotec.org/2022/
 * Vassilis Zikas (Purdue University)
 * Dionysis Zindros (Stanford University)
 
-### Keynote speaker
-* Matteo Maffei (TU Wien)
+
 
 
