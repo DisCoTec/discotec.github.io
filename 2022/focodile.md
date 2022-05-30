@@ -42,8 +42,6 @@ The San Francesco Complex is located in San Francesco square inside the ancient 
 ### Accommodations
 Lucca is a small town, you can easily reach the San Francesco Complex from any accommodation inside the city walls. You can find a list of Hotels and B&Bs nearby the conference venue here.
 
-The submissions must be prepared using Springer’s LNCS style. Accepted submissions should be presented during the workshop day.
-
 
 ### Registration
 More info can be found to the [registration page](https://www.discotec.org/2022/registration)
