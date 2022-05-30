@@ -32,6 +32,16 @@ FOCODILE has no formal proceedings. Novel research works or already published pa
 ### Submission information
 Extended abstract (2 pages + references) have to be submitted in PDF format using the EasyChair submission page [https://easychair.org/conferences/?conf=focodile2022](https://easychair.org/conferences/?conf=focodile2022)
 
+## Conference Venue
+IMT School for Advanced Studies Lucca San Francesco Complex
+Piazza S. Francesco, 19 - 55100 Lucca, LU
+
+### How to reach San Francesco Complex
+The San Francesco Complex is located in San Francesco square inside the ancient city walls. You can reach the campus following these directions.
+
+### Accommodations
+Lucca is a small town, you can easily reach the San Francesco Complex from any accommodation inside the city walls. You can find a list of Hotels and B&Bs nearby the conference venue here.
+
 The submissions must be prepared using Springer’s LNCS style. Accepted submissions should be presented during the workshop day.
 
 
