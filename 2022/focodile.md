@@ -54,11 +54,12 @@ More info can be found to the [registration page](https://www.discotec.org/2022/
 | *15.00 - 15.15* | A Critique of Inflationary Validator Rewards and Consensus for Proof-of-Stake Systems  |  Harry Halpin |
 | *15.15 - 15.30* | Exploring the Benefits of Blockchain Technology for MLOps Pipeline  |  Alessandro Marcelletti and Andrea Morichetta |
 | *15.30 - 16.00* | *coffee break* | *coffee break*|
-| *16.00 - 16.15* | -  |  - |
-| *16.15 - 16.30* | -  |  - |
-| *16.30 - 16.45* | -  |  - |
-| *16.45 - 17.00* | -  |  - |
-| *17.00 - 17.15* | -  |  - |
+| *16.00 - 16.15* | Incentives Against Timelock Bribes  |  Zeta Avarikioti and Orfeas Stefanos Thyfronitis Litos |
+| *16.15 - 16.30* | Online Admission Control and Rebalancing in Payment Channel Networks |  Mahsa Bastankhah, Krishnendu Chatterjee, Mohammad Ali Maddah-Ali, Stefan Schmid, Jakub Svoboda and Michelle Yeo |
+| *16.30 - 16.45* | Hide & Seek: Privacy-Preserving Rebalancing on Payment Channel Networks  |  Zeta Avarikioti, Krzysztof Pietrzak, Iosif Salem, Stefan Schmid, Samarth Tiwari and Michelle Yeo |
+| *16.45 - 17.00* | ZeroMT: multi-transfer protocol for enabling privacy in off-chain payments  |  Emanuele Scala, Leonardo Mostarda and Flavio Corradini |
+| *17.00 - 17.15* | LightPIR: Privacy-Preserving Route Discovery for Payment Channel Networks  |  Krzysztof Pietrzak, Iosif Salem, Stefan Schmid and Michelle Yeo
+ |
 | *17.15 - 17.30* | -  |  - |
 | *19.00 - 20.00* | *Welcome reception* | *Welcome reception* |
 
