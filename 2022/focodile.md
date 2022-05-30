@@ -51,7 +51,7 @@ More info can be found to the [registration page](https://www.discotec.org/2022/
 | Time | Paper | Speaker |
 | :---: | :---: | :---: |
 | *10.50 - 11.00* | *welcome* | *welcome* |
-| **11.00 - 12.00** | Keynote   |  Matteo Maffei |
+| **11.00 - 12.00** | Advances and Challenges in Payment Channel Networks   |  Matteo Maffei |
 | *12.00 - 12.15* | Enabling Private Attributes in SSI Access Control Systems with DLT and zkSNARK  |  Damiano Di Francesco Maesa, Andrea Lisi, Paolo Mori and Laura Ricci |
 | *12.15 - 12.30* | Clearing Fuzzy Signatures: a Proof of Work Blockchain Protocol for Biometric Identification  |  Paolo Santini, Giulia Rafaiani, Massimo Battaglioni, Marco Baldi and Franco Chiaraluce |
 | **12.30 - 14.00** | **lunch break** | **lunch break**|
