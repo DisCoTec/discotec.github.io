@@ -117,5 +117,5 @@ This keynote will overview the state-of-the-art in payment channel networks, cov
 
 
 ### Sponsors & Supporters
-[![](https://assets.website-files.com/60718c9d72cc4322fb804890/62279cdbed1a8964e2eddd21_FLRFinance-logo-white.svg)](https://www.discotec.org/2022/)
+[![](https://assets.website-files.com/60718c9d72cc4322fb804890/62279cdbed1a8964e2eddd21_FLRFinance-logo-white.svg)]([https://www.discotec.org/2022](https://flr.finance/)/)
 
