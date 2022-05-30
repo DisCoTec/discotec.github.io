@@ -4,9 +4,6 @@
 
 FOCODILE 2022 is one of the workshops at DisCoTec 2022, the 17th International Federated Conference on Distributed Computing Techniques.  
 
-**COVID-19:** FOCODILE 22 is planned as a physical, in-person event, with certain support for remote presence, both for speakers and for other participants who are unable or unwilling to come. Depending on the 
-pandemic situation, we may have to make a decision whether to cancel the physical component of the event or not.
-
 ### Scope
 FOCODILE is a forum to exchange ideas and recent research findings on theoretical foundations of consensus and blockchain technology. Topics include, but are not limited to:
 
@@ -33,8 +30,7 @@ FOCODILE has no formal proceedings. Novel research works or already published pa
 Extended abstract (2 pages + references) have to be submitted in PDF format using the EasyChair submission page [https://easychair.org/conferences/?conf=focodile2022](https://easychair.org/conferences/?conf=focodile2022)
 
 ## Conference Venue
-IMT School for Advanced Studies Lucca San Francesco Complex
-Piazza S. Francesco, 19 - 55100 Lucca, LU
+[IMT School for Advanced Studies Lucca](https://www.imtlucca.it/) San Francesco Complex Piazza S. Francesco, 19 - 55100 Lucca, LU
 
 ### How to reach San Francesco Complex
 **By Car**
