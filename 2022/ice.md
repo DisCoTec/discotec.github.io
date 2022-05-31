@@ -54,6 +54,28 @@ by Michele Loreti, and Michela Quadrini
 - *Branching pomsets for choreographies*  
 by Luc Edixhoven, Guillermina Cledou, José Proença, and Sung-Shik Jongmans
 
+## Program
+
+<!-- From xls to markdown with https://tabletomarkdown.com/convert-spreadsheet-to-markdown/ -->
+
+| Time CEST                | Session                                                                                                       | Talk                                                                                             |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| 9:00-9:10                | Opening                                                                                                       |                                                                                                         |
+| 9:10-10:10               | Invited talk                                                                                                  | Matthew Parkinson                                                                                       |
+| 10:10-10:40              | Verification                                                                                                  | The Right Kind of Non-Determinism: Using Concurrency to Verify C Programs with Underspecified Semantics |
+| 10:40-11:00 (oral comm.) | | Demystifying Attestation in Intel Trust Domain Extensions (TDX) via Formal Verification (Oral communications) 
+| 11:00-11:30              | Coffee break                                                                                                  |                                                                                                         |
+| 11:30-12:00              | Communication models                                                                                          | Session Fidelity for ElixirST: A Session-Based Type System for Elixir Modules                           |
+| 12:00-12:30              | | Branching pomsets for choreographies                                                                          
+| 12:30-13:00              | | On Composing Communicating Systems                                                                            
+| 13:00-14:30              | Lunch break                                                                                                   |                                                                                                         |
+| 14:30-15:30              | Invited talk                                                                                                  | Ilaria Castellani                                                                                  |
+| 15:30-16:00              | Monitoring                                                                                                    | Lang-n-Send Extended: Sending Regular Expressions to Monitors                                           |
+| 16:00-16:30              | Coffee break                                                                                                  |                                                                                                         |
+| 16:30-16:50 (oral comm.) | Models and tools                                                                      | The NiRvAna project: Noninterference and Reversibility Analysis in Private Blockchains                  |
+| 16:50-17:10 (oral comm.) | | A Framework for Modeling Behaviour of Aggregated Agents                                                       |
+| 17:10-17:20              | Conclusion                                                                                                    |                                                                                                         |
+
 ## Scope
 
 The general scope of the venue includes theoretical and applied aspects of interactions and the synchronization mechanisms used among components of concurrent/distributed systems, related to several areas of computer science in the broad spectrum ranging from formal specification and analysis to studies inspired by emerging computational models.
