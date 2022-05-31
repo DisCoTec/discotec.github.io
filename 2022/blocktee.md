@@ -89,7 +89,7 @@ Emanuel Onica is an Associate Professor at the Faculty of Computer Science, Alex
 ### Program
 
 | When | What | Title and Speaker |
-| :---: | :---: | :---: |
+| :---: | :---: | :---- |
 | *09.00 - 09.10* | *welcome* | *welcome* |
 | **09.15 - 10.00** | Keynote   |  Byzantine Leaderless State-Machine Replication. ___Pierre Sutra___  |
 | *10.00 - 10.30* | Invited paper  |  [SplitBFT: Improving Byzantine Fault Tolerance Safety Using Trusted Compartments](https://arxiv.org/abs/2205.08938). ___Ines Messadi___, Markus Horst Becker, Kai Bleeke, Leander Jehl, Sonia Ben Mokhtar, Rüdiger Kapitza|
