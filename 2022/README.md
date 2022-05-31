@@ -112,6 +112,9 @@ Trusted Execution Environments
 
 ## Proceedings
 The proceedings of the conferences are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. These shall be open access from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
+* COORDINATION: [LNCS13271](https://link.springer.com/book/9783031081453)
+* DAIS: [LNCS]()
+* FORTE: [LNCS13273](https://link.springer.com/book/9783031086809)
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
@@ -122,9 +125,7 @@ The proceedings of the conferences are published in [LNCS-IFIP](https://www.spri
  [Paper](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_16), [presentation](https://www.youtube.com/watch?v=vgoDvMa69cU&feature=youtu.be) and [award](DisCoTec-bpa-certificate.pdf)
 
 
-* COORDINATION: [LNCS12717](https://link.springer.com/book/10.1007/978-3-030-78142-2)
-* DAIS: [LNCS12718](https://link.springer.com/book/10.1007/978-3-030-78198-9)
-* FORTE: [LNCS12719](https://link.springer.com/book/10.1007/978-3-030-78089-0)
+
 
 
 
