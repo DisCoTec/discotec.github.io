@@ -52,19 +52,50 @@ The registration fees for accepted papers is due regardless of the selected publ
 * [Miguel Matos]() (INESC-ID & U. Lisboa)
 
 ## Program committee
- * Hans P. Reiser (Reykjavik University)
- * Francisco Maia (INESC TEC)
- * Pierre-Louis Aublin (IIJ Innovation Institute)
- * Pierre Sutra (Télécom SudParis)
- * Heverson Ribeiro
- * Nuno Santos (INESC-ID / Instituto Superior Tecnico)
- * Marcus	Brandenburger (	IBM Research - Zurich)
- * Marcelo Pasin (University of Neuchatel)
- * Leander	Jehl (TU Braunschweig)
+ * Hans P. Reiser (Reykjavik University, Island)
+ * Francisco Maia (INESC TEC, Portugal)
+ * Pierre-Louis Aublin (IIJ Innovation Institute, Japan)
+ * Pierre Sutra (Télécom SudParis, France)
+ * Heverson Ribeiro (unaffiliated)
+ * Nuno Santos (INESC-ID / Instituto Superior Tecnico, Portugal)
+ * Marcus	Brandenburger (	IBM Research - Zurich, Switzerland)
+ * Marcelo Pasin (University of Neuchatel, Switzerland)
+ * Leander	Jehl (TU Braunschweig, Germany)
 
 # Keynote Speakers
  * Pierre Sutra (Télécom SudParis, France)
+
+**Title: Byzantine Leaderless State-Machine Replication**
+**Abstract:**
+Recent advances in state-machine replication (SMR) protocols focus on leaderless approaches. In these protocols, each replica is on par with its peers and can be used to coordinate the execution of a state-machine command. This removes the bottleneck of leader-based techniques, improves fairness wrt. remote clients as well as availability. To date, few works exist that address arbitrary (byzantine) failures in leaderless SMR. In this talk, we try to bridge this gap. We propose the first general framework to construct correct-by-design byzantine leaderless protocols. Our framework is composed of well-identified services, such as byzantine quorums, best-effort broadcast and consensus. For a given service, many implementations exist. Some may focus on scalability, while others improve latency or security using trusted execution environments (TEE). Two use cases are given to illustrate the framework: a byzantine fault-tolerant variations of Egalitarian Paxos, and a highly scalable byzantine leaderless protocol called Wintermute. We also discuss the interest of byzantine leaderless SMR in the context of permissioned blockchains.
+
+**Bio:**
+Pierre Sutra is Associate Professor at Télécom SudParis and a committer of the Apache Software Foundation. His work investigates the theory and practice of distributed systems, with applications to big data stores, transactional systems and storage systems. Pierre has co-authored more than 40 research publications. Over the past two years, he has published at the following top journals and conferences: ACM TOSEM, Information Processing Letters, SOSP, EuroSys, DISC and Middleware.
+
+
  * Emanuel Onica (Alexandru Ioan Cuza University, Romania)
 
+**Title: Using SGX to Tackle Security Issues in Ethereum Meta-Transactions**
+
+**Abstract:** 
+Ethereum currently backs the largest amount of existing decentralized applications (DApps) built on public blockchain platforms. Interaction with Ethereum DApps implies transactions that charge a fee. These fees complicate onboarding new users who lack the necessary cryptocurrency. Meta-transaction patterns emerged for decoupling users from paying the transaction fees. In essence, the existing meta-transaction services include a relayer mechanism forwarding the transactions and paying for these on behalf of the users. While solving the user onboarding problem, introducing an extra party in the transaction path generates multiple security issues. In this talk we examine these issues and discuss the first steps taken toward a new meta-transaction architecture that uses Intel Software Guard Extensions (SGX). We argue that integrating a trusted execution environment such as SGX at the relayer site provides the necessary security guarantees in a meta-transaction setting.
+
+**Bio:** 
+Emanuel Onica is an Associate Professor at the Faculty of Computer Science, Alexandru Ioan Cuza University of Iaşi, Romania. He received his PhD from University of Neuchâtel, Switzerland, where he worked as a scientific collaborator between 2010 and 2014. He was involved in several European projects, notably coordinating the H2020 EBSIS project between 2016 and 2018. His research interests lie in the area of parallel and distributed systems, where he is the recipient of four awards in international conferences, among which winning the DEBS Grand Challenge in 2017 and 2018. A consistent part of his work in this field has a focus on privacy and security.
+
+
+
 # Program
-TBA
+### Program
+
+| When | What | Title and Speaker |
+| :---: | :---: | :---- |
+| *09.00 - 09.10* | *welcome* | *welcome* |
+| **09.15 - 10.00** | Keynote   |  Byzantine Leaderless State-Machine Replication. ___Pierre Sutra___  |
+| *10.00 - 10.30* | Invited paper  |  [SplitBFT: Improving Byzantine Fault Tolerance Safety Using Trusted Compartments](https://arxiv.org/abs/2205.08938). ___Ines Messadi___, Markus Horst Becker, Kai Bleeke, Leander Jehl, Sonia Ben Mokhtar, Rüdiger Kapitza|
+| *10.30 - 11.00* | Regular paper  |  ChainBox: Using TEEs and WebAssembly to run Smart Contracts on the Edge.  ___Kai	Bleeke___, Mohammad	Mahhouk, Lennart	Almstedt, Leander	Jehl, Rüdiger	Kapitza |
+| *11.00 - 11.30* | *coffee break*  |  *coffee break* |
+| **11.30 - 12.15** | Keynote   |   [Using SGX to Tackle Security Issues in Ethereum Meta-Transactions.](https://arxiv.org/abs/2204.09864) ___Emanuel Onica___ |
+| *12.15 - 12.45* | Regular paper   |   Securing Cross-Chain Asset Transfers on Permissioned Blockchains. Catarina Pedreira, ___Rafael Belchior___, Miguel Matos, André Vasconcelos |
+| *12.45 - 13.00* | *closing*   |  *closing*   |
+| *13.00 - 14.30* | *lunch break* | *lunch break*|
