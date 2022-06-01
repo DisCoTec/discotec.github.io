@@ -12,11 +12,11 @@ Prof. [Andrea Vandin](https://www.santannapisa.it/it/andrea-vandin) (Sant'Anna S
 
 Time | Presentation | Speacker
 --- | --- | ---
-12.30 - 14.00 |	lunch break	| lunch break
+*12.30 - 14.00 |	lunch break	| lunch break*
 14.00 - 14.10 | welcome	| welcome
-14.10 - 15.10	| Keynote:Process Mining for the Social Sciences: Methodological advances and Applications | Andrea Vandin
+**14.10 - 15.10	| Keynote:Process Mining for the Social Sciences: Methodological advances and Applications | Andrea Vandin**
 15.10 - 15.30	| Session Introduction | Lorenzo Rossi
-15.30 - 16.00	| coffee break	| coffee break
+*15.30 - 16.00	| coffee break	| coffee break*
 16.00 - 16.25	| A Tag-based Methodology for the Automatic Generation of Collaborative Event Logs |  Flavio Corradini, **Caterina Luciani**, Andrea Morichetta, Marco Piangerelli and Andrea Polini 
 16.25 - 16.40	| A Tag-based Methodology for the Automatic Generation of Collaborative Event Logs | **Kyle Smith** and Emanuele Laurenzi
 16.40 - 16.55	| Process Discovery for Collaborative Business Execution | Flavio Corradini, **Sara Pettinari**, Barbara Re and Francesco Tiezzi
