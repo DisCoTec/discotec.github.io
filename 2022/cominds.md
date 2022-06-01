@@ -10,14 +10,14 @@
 
 Time | Presentation | Speacker
 --- | --- | ---
-*12.30 - 14.00* |	*lunch break*	| *lunch break*
-14.00 - 14.10 | welcome	| welcome
-**14.10 - 15.10**	| **Keynote:Process Mining for the Social Sciences: Methodological advances and Applications** | **Andrea Vandin**
-15.10 - 15.30	| Session Introduction | Lorenzo Rossi
+*12.30 - 14.00* |	*lunch break*	| *lunch break* 
+**14.15 - 15.15**	| **Keynote:Process Mining for the Social Sciences: Methodological advances and Applications** | **Andrea Vandin**
+15.15 - 15.30	| Session Introduction | Lorenzo Rossi
 *15.30 - 16.00*	| *coffee break*	| *coffee break*
 16.00 - 16.25	| Process Discovery for Collaborative Business Execution |  Flavio Corradini, **Caterina Luciani**, Andrea Morichetta, Marco Piangerelli and Andrea Polini 
-16.25 - 16.40	| Event Log Pre-Processing with Semantic Enhancement in a Graph Database | **Kyle Smith** and Emanuele Laurenzi
-16.40 - 16.55	| A Tag-based Methodology for the Automatic Generation of Collaborative Event Logs | Flavio Corradini, **Sara Pettinari**, Barbara Re and Francesco Tiezzi
+16.25 - 16.50	| Event Log Pre-Processing with Semantic Enhancement in a Graph Database | **Kyle Smith** and Emanuele Laurenzi
+16.50 - 17.15	| A Tag-based Methodology for the Automatic Generation of Collaborative Event Logs | Flavio Corradini, **Sara Pettinari**, Barbara Re and Francesco Tiezzi
+19:00 - 20:00 | *Welcome reception*	| *Welcome reception*
 
 
 **Invited Speaker**
