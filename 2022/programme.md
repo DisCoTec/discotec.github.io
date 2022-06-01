@@ -109,7 +109,7 @@
 ### DisCoTec Workshops
 
 * **BlockTee**: Go to the [programme page](blocktee).
-* **ICE**: Go to the [programme page](ice).
+* **ICE**: Go to the [programme page](ice#program).
 
 <br/><br/>
 
