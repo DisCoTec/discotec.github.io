@@ -15,8 +15,8 @@ pandemic situation, we may have to make a decision whether to cancel the physica
   * ICE welcomes full papers to be included in the proceedings
   * ICE also welcomes oral communications of already published or preliminary work
   * [Invited speakers](#invited-speakers): 
-      - [Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) (Microsoft Research, UK)
-      - [Ilaria Castellani](https://www-sop.inria.fr/members/Ilaria.Castellani/) (INRIA, FR)
+      - [Ilaria Castellani](#ilaria-castellani) (INRIA, FR)
+      - [Matthew Parkinson](#matthew-parkinson) (Microsoft Research, UK)
   * Publication in [EPTCS](https://eptcs.org/)
   * Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
   * Contact: `ice22 (at) googlegroups.com`
@@ -156,16 +156,15 @@ I will review some increasingly permissive MPSTs for this core session calculus,
 
 ### Matthew Parkinson
 
-#### Talk: TBA
+#### Talk: Project Verona’s concurrency model
 
-> TBA 
+> Project Verona is a research programming language exploring various interactions between ownership, memory management and concurrency.  In this talk, I will present its concurrency model, which enables asynchronously creating atomic and ordered units of work with exclusive access to a collection of independent resources. I will demonstrate the approach through a series of pedagogical examples, and briefly discuss both the implementation and the performance of the paradigm.
 
 #### Biography
 
-[Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) is arincipal researcher in the Confidential Computing group (Microsoft Research, UK).
-His research covers all aspects of memory safety including runtime implementations, programming language design, and verification. His recent research focusses on Project Verona and its allocator snmalloc. 
-He is also very active in concurrency verification and developed many logics that combine ideas from separation logic with other concurrency verification techniques.
+[Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) is a Principal Researcher at Microsoft Research. Prior to joining Microsoft in 2010, he spent four years as a RAEng/EPSRC research fellowship at the University of Cambridge, where he also did his Ph.D..
 
+His research focusses on Concurrency and Ownership, with a particular focus on memory safety. His recent research focusses on [Project Verona](https://github.com/microsoft/verona) and its allocator [snmalloc](https://github.com/microsoft/snmalloc).  Project Verona is a new language to explore research about efficient and safe ways to manage memory.
 
 ## ICEcreamers
 
