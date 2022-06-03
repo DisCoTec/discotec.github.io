@@ -110,8 +110,5 @@ Elli Anastasiadi, Luca Aceto, Antonis Achilleos and Adrian Francalanza <br/>
 Rajesh Kumar, Rohan Kela, Siddhant Singh and Bhavesh Narra <br/> 
 *Co-engineering safety-security using statistical model checking [Journal - First]*	
 
-Serge Kovalyov <br/> 
-*Generalizing Algebraic Specification for Distributed Computing Systems*	
-
 German Vidal <br/>
 *Computing Race Variants in Message-Passing Concurrent Programming with Selective Receives*	
