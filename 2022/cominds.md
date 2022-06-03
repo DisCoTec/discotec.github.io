@@ -5,11 +5,32 @@
 
 **COVID-19:** CoMinDs is planned as a physical, in-person event, with certain support for remote presence, both for speakers and for other participants who are unable or unwilling to come. Depending on the pandemic situation, we may have to make a decision whether to cancel the physical component of the event or not.
 
-## Invited Speakers
-Prof. [Andrea Vandin](https://www.santannapisa.it/it/andrea-vandin) (Sant'Anna School for Advanced Studies, Pisa). 
 
 ## Program
 
+Time | Presentation | Speacker
+--- | --- | ---
+*12.30 - 14.00* |	*lunch break*	| *lunch break* 
+**14.15 - 15.15**	| **Keynote:Process Mining for the Social Sciences: Methodological advances and Applications** | **Andrea Vandin**
+15.15 - 15.30	| Session Introduction | Lorenzo Rossi
+*15.30 - 16.00*	| *coffee break*	| *coffee break*
+16.00 - 16.25	| Process Discovery for Collaborative Business Execution |  Flavio Corradini, **Caterina Luciani**, Andrea Morichetta, Marco Piangerelli and Andrea Polini 
+16.25 - 16.50	| Event Log Pre-Processing with Semantic Enhancement in a Graph Database | **Kyle Smith** and Emanuele Laurenzi
+16.50 - 17.15	| A Tag-based Methodology for the Automatic Generation of Collaborative Event Logs | Flavio Corradini, **Sara Pettinari**, Barbara Re and Francesco Tiezzi
+19:00 - 20:00 | *Welcome reception*	| *Welcome reception*
+
+
+**Invited Speaker**
+Prof. [Andrea Vandin](https://www.santannapisa.it/it/andrea-vandin) (Sant'Anna School for Advanced Studies, Pisa). 
+Tenure-track Assistant Professor in Computer Science
+Sant'Anna School of Advanced Studies, Pisa, Italy
+Adjunct Associate Professor
+DTU Technical University of Denmark
+
+**Abstract**
+EMbeDS is a newly established Department of Excellence of Sant'Anna School for Advanced Studies, Pisa, Italy, fostering the use of computer science and statistics in the Social Sciences. I joined EMbeDS in January 2020, and have since then interacted with people from social sciences like Economics, and Healthcare Management. In this talk, I will present the results of two ongoing collaborations centered on the use of Process Mining: 
+- Methodological advancements where Process Mining and Statistical Model Checking contribute to the analysis and validation of simulation models like economic agent-based models, or threat analysis models;
+- Application of Process Mining to study the Tuscan Regional Healthcare System - Process mining and clinical pathways: an application to breast cancer administrative data in Tuscany.
 
 ## Scope 
 

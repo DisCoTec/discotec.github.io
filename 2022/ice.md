@@ -14,20 +14,14 @@ pandemic situation, we may have to make a decision whether to cancel the physica
   * Distinctive selection procedure
   * ICE welcomes full papers to be included in the proceedings
   * ICE also welcomes oral communications of already published or preliminary work
-  * Invited speakers: 
-      - [Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) (Microsoft Research, UK)
-      - [Ilaria Castellani](https://www-sop.inria.fr/members/Ilaria.Castellani/) (INRIA, FR)
+  * [Invited speakers](#invited-speakers): 
+      - [Ilaria Castellani](#ilaria-castellani) (INRIA, FR)
+      - [Matthew Parkinson](#matthew-parkinson) (Microsoft Research, UK)
   * Publication in [EPTCS](https://eptcs.org/)
   * Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
   * Contact: `ice22 (at) googlegroups.com`
 
-<!--  
-      - [Laura Bocchi](https://www.kent.ac.uk/computing/people/3119/bocchi-laura) (University of Kent, UK)
-      - [Helene Coullon](http://helene-coullon.fr/) (IMT Atlantique, FR) 
--->
-
-
-## Accepted papers and oral communications
+## Accepted Papers and Oral Communications
 
 <!--
 See the [**ICE 2022 programme**](programme#friday-18-june).
@@ -98,7 +92,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
   * Synthesis techniques
 
 
-## Important dates
+## Important Dates
 
 The following dates are in the [Anywhere on Earth time zone](https://time.is/Anywhere_on_Earth).
 
@@ -145,11 +139,32 @@ Accepted research papers will be published after the workshop in [Electronic Pro
 
 We plan to invite authors of selected papers and brief announcements to submit their work in a special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_. Such contributions will be regularly peer-reviewed according to the standard journal policy, but they will be handled in a shorter time than regular submissions. A list of published and in preparation special issues of previous ICE editions is reported below.
 
-## Invited speakers 
+## Invited Speakers 
 
-  * [Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) (Microsoft Research, UK)
-  * [Ilaria Castellani](https://www-sop.inria.fr/members/Ilaria.Castellani/) (INRIA, FR)
+### Ilaria Castellani
 
+#### Talk: Relating global and local specifications in a core multiparty session calculus
+
+> Multiparty session types (MPSTs) are a type discipline for ensuring safe interaction within multiparty sessions. In their original definition, MPSTs consist of two kinds of types: global types, which are global specifications for entire sessions, and local types, which are local specifications for individual participants. The relation between global types and local types is classically expressed using the notion of projection. In this talk, I will focus on a core session calculus without channels, where sessions are defined as networks of sequential processes, and local types coincide with processes. 
+I will review some increasingly permissive MPSTs for this core session calculus, including some recent proposals where global types can be related to local types without resorting to projection.
+>
+> This talk is based on joint work with Mariangiola Dezani-Ciancaglini and Paola Giannini.
+
+#### Biography
+
+[Ilaria Castellani](https://www-sop.inria.fr/members/Ilaria.Castellani/) is a senior researcher at INRIA Sophia Antipolis, France. Her main research interests are in non-interleaving semantics for process calculi, language-based security for concurrent programs and processes, and multiparty session types. She was the chair of the IFIP TC1 Working Group 1.8 on Concurrency Theory from 2014 to 2020. 
+
+### Matthew Parkinson
+
+#### Talk: Project Verona’s concurrency model
+
+> Project Verona is a research programming language exploring various interactions between ownership, memory management and concurrency.  In this talk, I will present its concurrency model, which enables asynchronously creating atomic and ordered units of work with exclusive access to a collection of independent resources. I will demonstrate the approach through a series of pedagogical examples, and briefly discuss both the implementation and the performance of the paradigm.
+
+#### Biography
+
+[Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) is a Principal Researcher at Microsoft Research. Prior to joining Microsoft in 2010, he spent four years as a RAEng/EPSRC research fellowship at the University of Cambridge, where he also did his Ph.D..
+
+His research focusses on Concurrency and Ownership, with a particular focus on memory safety. His recent research focusses on [Project Verona](https://github.com/microsoft/verona) and its allocator [snmalloc](https://github.com/microsoft/snmalloc).  Project Verona is a new language to explore research about efficient and safe ways to manage memory.
 
 ## ICEcreamers
 
@@ -194,7 +209,7 @@ Use `ice22 (at) googlegroups.com` to reach all the ICEcreamers at once.
   * Hugo Torres Vieira (Evidence Srl, IT)
 
 
-## Previous editions
+## Previous Editions
 
 The previous editions of ICE have been held on:
 * [ICE'21](http://www.discotec.org/2021/ice), June 18, 2020, online event co-located with DisCoTec'21. The post-proceedings were published in [EPTCS (vol. 347)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2021) and a special issue of JLAMP is in preparation.
@@ -213,6 +228,6 @@ The previous editions of ICE have been held on:
 * [ICE'08](http://ice08.dimi.uniud.it/), July 6, 2008 in Reykjavik, Iceland, co-located with ICALP'08. The post-proceedings were published in [ENTCS (vol. 229-3)](https://dl.acm.org/toc/entcs/2009/229/3).
 
 
-## More information
+## More Information
 
 For additional information, please [contact the ICEcreamers](#icecreamers) at `ice22 (at) googlegroups.com`.

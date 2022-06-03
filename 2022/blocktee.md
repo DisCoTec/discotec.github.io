@@ -93,7 +93,7 @@ Emanuel Onica is an Associate Professor at the Faculty of Computer Science, Alex
 | *09.00 - 09.10* | *welcome* | *welcome* |
 | **09.15 - 10.00** | Keynote   |  Byzantine Leaderless State-Machine Replication. ___Pierre Sutra___  |
 | *10.00 - 10.30* | Invited paper  |  [SplitBFT: Improving Byzantine Fault Tolerance Safety Using Trusted Compartments](https://arxiv.org/abs/2205.08938). ___Ines Messadi___, Markus Horst Becker, Kai Bleeke, Leander Jehl, Sonia Ben Mokhtar, Rüdiger Kapitza|
-| *10.30 - 11.00* | Regular paper  |  ChainBox: Using TEEs and WebAssembly to run Smart Contracts on the Edge.  ___Kai	Bleeke___, Mohammad	Mahhouk, Lennart	Almstedt, Leander	Jehl, Rüdiger	Kapitza |
+| *10.30 - 11.00* | Regular paper  |  ChainBox: Using TEEs and WebAssembly to run Smart Contracts on the Edge.  Kai	Bleeke, ___Mohammad	Mahhouk___, Lennart	Almstedt, Leander	Jehl, Rüdiger	Kapitza |
 | *11.00 - 11.30* | *coffee break*  |  *coffee break* |
 | **11.30 - 12.15** | Keynote   |   [Using SGX to Tackle Security Issues in Ethereum Meta-Transactions.](https://arxiv.org/abs/2204.09864) ___Emanuel Onica___ |
 | *12.15 - 12.45* | Regular paper   |   Securing Cross-Chain Asset Transfers on Permissioned Blockchains. Catarina Pedreira, ___Rafael Belchior___, Miguel Matos, André Vasconcelos |
