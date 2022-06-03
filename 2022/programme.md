@@ -97,7 +97,8 @@
 | | [Joint session: DisCoTec Artefacts](#joint-session-discotec-artefacts) | [Joint session: DisCoTec Artefacts](#joint-session-discotec-artefacts) | [Joint session: DisCoTec Artefacts](#joint-session-discotec-artefacts) |
 | **15.00 - 15.10** | [Opening and presentation of the EAPLS Artefact Badges](#joint-session-discotec-artefacts) | [Opening and presentation of the EAPLS Artefact Badges](#joint-session-discotec-artefacts) | [Opening and presentation of the EAPLS Artefact Badges](#joint-session-discotec-artefacts) |
 | **15.10 - 15.20** | [The Science of Computer Programming track on Original Software Publications](#joint-session-discotec-artefacts) | [The Science of Computer Programming track on Original Software Publications](#joint-session-discotec-artefacts) | [The Science of Computer Programming track on Original Software Publications](#joint-session-discotec-artefacts) |
-| **15.20 - 16.00** | [Birds of a Feather session on software artefacts and replication issues](#joint-session-discotec-artefacts) | [Birds of a Feather session on software artefacts and replication issues](#joint-session-discotec-artefacts) | [Birds of a Feather session on software artefacts and replication issues](#joint-session-discotec-artefacts) |
+| **15:20 - 15:25** | [Announcement of DisCoTec best tool award winner](#joint-session-discotec-artefacts) | [Announcement of DisCoTec best tool award winner](#joint-session-discotec-artefacts) | [Announcement of DisCoTec best tool award winner](#joint-session-discotec-artefacts) | 
+| **15.25 - 16.00** | [Birds of a Feather session on software artefacts and replication issues](#joint-session-discotec-artefacts) | [Birds of a Feather session on software artefacts and replication issues](#joint-session-discotec-artefacts) | [Birds of a Feather session on software artefacts and replication issues](#joint-session-discotec-artefacts) |
 | **16.00 - 16.30** | [Artefact demonstrations](#joint-session-discotec-artefacts) | [Artefact demonstrations](#joint-session-discotec-artefacts) | [Artefact demonstrations](#joint-session-discotec-artefacts) | 
 | *16.30 - 17.00* | *networking coffee* | *networking coffee* | *networking coffee* |
 | **17.00 - 18.00** | [(Remote Invited Talk) Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) | [(Remote Invited Talk) Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) | [(Remote Invited Talk) Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) |
@@ -225,5 +226,6 @@
 <!-- *(session chair: )* -->
 - Opening and presentation of the EAPLS Artefact Badges <br/> by Ferruccio Damiani
 - The Science of Computer Programming track on Original Software Publications <br/> by Mohammad Mousavi
+- Announcement of DisCoTec best tool award winner <br/> by Maurice ter Beek
 - Birds of a Feather session on software artefacts and replication issues <br/> moderated by Ferruccio Damiano, David Eyers, and Anna Philippou
 - Artefact demonstrations
