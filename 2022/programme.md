@@ -118,7 +118,7 @@
 ## Coordination programme
 
 ### Coordination Invited Speaker
-<!-- *(session chair: Marjan Sirjani)* -->
+*(session chair: Marjan Sirjani)*
 
 - [Formal Methods for Socio-Technical Security (Formal and Automated Analysis of Security Ceremonies)](invited#formal-methods-for-socio-technical-security-formal-and-automated-analysis-of-security-ceremonies) <br/>  by Luca Viganò
 
@@ -127,25 +127,29 @@
 - A Monitoring Tool for Linear-Time μHML <br/> by Luca Aceto, Antonis Achilleos, Duncan Paul Attard, Léo Exibard, Adrian Francalanza and Anna Ingólfsdóttir
 
 ### Session 1: Timed, Probabilistic, and Collective Systems
-<!-- *(session chair: Mirko Viroli)* -->
+*(session chair: Mirko Viroli)*
+
 - MIMOS: A Deterministic Model for the Design and Update of Real-Time Systems <br/> by Wang Yi, Morteza Mohaqeqi and Susanne Graf 
 - A Sound Up-to-n,delta Bisimilarity for PCTL <br/> by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino  
 - Sibilla: A Tool for Reasoning about Collective Systems <br/> by Nicola Del Giudice, Lorenzo Matteucci, Michela Quadrini, Aniqa Rehman and Michele Loreti
 
 ### Session 2: Aggregate Computing
-<!-- *(session chair: Emilio Tuosto)* -->
+*(session chair: Emilio Tuosto)*
+
 - Extensible 3D Simulation of Aggregated Systems with FCPP <br/> by Giorgio Audrito, Luigi Rapetta and Gianluca Torta
 - Towards Reinforcement Learning-based Aggregate Computing <br/> by Gianluca Aguzzi, Roberto Casadei and Mirko Viroli
 - Space-fluid Adaptive Sampling: a Field-based, Self-organising Approach <br/> by Roberto Casadei, Stefano Mariani, Danilo Pianini, Mirko Viroli and Franco Zambonelli
 
 ### Session 3: Processes and Languages
-<!-- *(session chair: Michele Loreti)* -->
+*(session chair: Michele Loreti)*
+
 -  Formal Choreographic Languages <br/> by Franco Barbanera, Ivan Lanese and Emilio Tuosto
 - A Model of Actors and Grey Failures <br/> by Laura Bocchi, Julien Lange, Simon Thompson and A. Laura Voinea 
 - Soft Concurrent Constraint Programming with Local Variables <br/> by Laura Bussi, Fabio Gadducci and Francesco Santini
 
 ### Session 4: Runtime Verification, Monitor Synthesis, and Microservices
-<!-- *(session chair: Narges Khakpour)* -->
+*(session chair: Narges Khakpour)*
+
 - A Synthesis Tool for Optimal Monitors in a Branching-Time Setting <br/> by Antonis Achilleos, Léo Exibard, Adrian Francalanza, Karoliina Lehtinen and Jasmine Xuereb
 - Model-Driven Generation of Microservice Interfaces: From LEMMA Domain Models to Jolie APIs <br/> by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti and Florian Rademacher
 
@@ -189,7 +193,7 @@
 ## FORTE programme
 
 ### FORTE Invited Speaker
-<!-- *(session chair: )* -->
+*(session chair: Mohammad Mousavi)*
 
 - [30+ years of FORTE research: a personal perspective](invited#30-years-of-forte-research-a-personal-perspective) <br/>  by Muffy Calder
 
@@ -198,32 +202,36 @@
 - Traits: Correctness-by-Construction for Free by <br/> Tobias Runge, Alex Potanin, Thomas Thüm and Ina Schaefer
 
 ### Session 1: Process Calculi and Session Types
-<!-- *(session chair: )* -->
+*(session chair: Anna Philippou)*
+
 - Encodability Criteria for Quantum Based Systems <br/> by  Anna Schmitt, Kirstin Peters and Yuxin Deng 
 - The Reversible Temporal Process Language <br/> by Laura Bocchi, Ivan Lanese, Claudio Antares Mezzina and Shoji Yuen
 - Fault-Tolerant Multiparty Session Types <br/> by Kirstin Peters, Uwe Nestmann and Christoph Wagner
 
 
 ### Session 2: Monitoring and Program Verification
-<!-- *(session chair: )* -->
+*(session chair:  Claudio Antares Mezzina)*
+
 - Monitoring Hyperproperties with Circuits (Short paper) <br/> by Elli Anastasiadi, Luca Aceto, Antonis Achilleos and Adrian Francalanza
 - Monitoring of scattered uncertain logs using uncertain linear dynamical systems <br/> by Bineet Ghosh and Étienne André
 - Computing Race Variants in Message-Passing Concurrent Programming with Selective Receives <br/> by German Vidal
 
 ### Session 3: State-space reduction
-<!-- *(session chair: )* -->
+*(session chair: Étienne André)*
+
 - LTL under reductions with weaker conditions than stutter-invariance <br/> by Yann Thierry-Mieg, Emmanuel Paviot-Adet, Etienne Renault and Denis Poitrenaud
 - Effective Reductions of Mealy Machines <br/> by Florian Renkin, Philipp Schlehuber-Caissier, Alexandre Duret-Lutz and Adrien Pommellet
 
 ### Session 4: Verification and Semantics
-<!-- *(session chair: )* -->
+*(session chair: Adrian Francalanza)*
+
 - Process Algebra Can Save Lives: Static Analysis of XACML Access Control Policies using mCRL2 <br/> by Hamed Arshad, Ross Horne, Christian Johansen, Olaf Owe and Tim Willemse
 - Branch-Well-Structured Transition Systems and Extensions <br/> by Benedikt Bollig, Alain Finkel and Amrita Suresh
 - Co-engineering safety-security using statistical model checking (Journal - First) <br/> by Rajesh Kumar, Rohan Kela, Siddhant Singh and Bhavesh Narra
 
 
 ## Joint session: DisCoTec Artefacts
-<!-- *(session chair: )* -->
+*(session chair: Maurice ter Beek)*
 - Opening and presentation of the EAPLS Artefact Badges <br/> by Ferruccio Damiani
 - The Science of Computer Programming track on Original Software Publications <br/> by Mohammad Mousavi
 - Announcement of DisCoTec best tool award winner <br/> by Maurice ter Beek
