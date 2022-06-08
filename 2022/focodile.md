@@ -116,6 +116,6 @@ This keynote will overview the state-of-the-art in payment channel networks, cov
 * Dionysis Zindros (Stanford University)
 
 
-### Sponsors & Supporters
+## Sponsored by
 [![](https://assets.website-files.com/60718c9d72cc4322fb804890/62279cdbed1a8964e2eddd21_FLRFinance-logo-white.svg)](https://flr.finance/)
 
