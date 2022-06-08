@@ -21,7 +21,7 @@ Time | Presentation | Speacker
 
 
 **Invited Speaker**
-Prof. [Andrea Vandin](https://www.santannapisa.it/it/andrea-vandin) (Sant'Anna School for Advanced Studies, Pisa). 
+[Andrea Vandin](https://www.santannapisa.it/it/andrea-vandin) (Sant'Anna School for Advanced Studies, Pisa). 
 Tenure-track Assistant Professor in Computer Science
 Sant'Anna School of Advanced Studies, Pisa, Italy
 Adjunct Associate Professor
