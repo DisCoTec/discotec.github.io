@@ -71,7 +71,7 @@ Proceedings shall be submitted to CEUR-WS.org for online publication. Selected, 
 - Pascal Poizat, University Paris Nanterre, France
 - Lorenzo Rossi, University of Camerino, Italy
 
-## Program Committee (to be completed)
+## Program Committee
 
 - Andrea Burattin, Technical University of Denmark, Denmark (co-chair)
 - Chiara Di Francescomarino, Fondazione Bruno Kessler, Italy
