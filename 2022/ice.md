@@ -4,10 +4,13 @@
 
 Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. ICE 2022 is a satellite workshop of [DisCoTec 2022](https://www.discotec.org/2022/), held on 17 June 2022.
 
-**COVID-19:** ICE 2022 is planned as a physical, in-person event, with certain support for remote presence, both for speakers and for other participants who are unable or unwilling to come. Depending on the 
-pandemic situation, we may have to make a decision whether to cancel the physical component of the event or not.
+**COVID-19:** ICE 2022 is planned as a physical, in-person event, with certain support for remote presence, both for speakers and for other participants who are unable or unwilling to come. Depending on the pandemic situation, we may have to make a decision whether to cancel the physical component of the event or not.
 
-<!-- Due to the the COVID-19 situation, ICE 2022 will be a **hybrid event**. -->
+See the [**ICE 2022 programme**](#programme).
+
+<!--
+You can also download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pdf).
+-->
 
 ## Highlights
 
@@ -20,57 +23,6 @@ pandemic situation, we may have to make a decision whether to cancel the physica
   * Publication in [EPTCS](https://eptcs.org/)
   * Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
   * Contact: `ice22 (at) googlegroups.com`
-
-## Accepted Papers and Oral Communications
-
-<!--
-See the [**ICE 2022 programme**](programme#friday-18-june).
-
-You can also download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pdf).
--->
-
-_The pre-proceedings and the program will be made available soon._
-
-- *The Right Kind of Non-Determinism: Using Concurrency to Verify C Programs with Underspecified Semantics*  
-by Eduard Kamburjan, and Nathan Wasser
-- *On Composing Communicating Systems*  
-by Franco Barbanera, Ivan Lanese, and Emilio Tuosto
-- *Demystifying Attestation in Intel Trust Domain Extensions (TDX) via Formal Verification* (oral communication)  
-by Muhammad Usama Sardar, and Christof Fetzer
-- *The NiRvAna project: Noninterference and Reversibility Analysis in Private Blockchains* (oral communication)  
-by Marco Bernardo, and Claudio Mezzina
-- *Session Fidelity for ElixirST: A Session-Based Type System for Elixir Modules*  
-by Gerard Tabone, and Adrian Francalanza
-- *Lang-n-Send Extended: Sending Regular Expressions to Monitors*  
-by Matteo Cimini
-- *A Framework for Modeling Behaviour of Aggregated Agents*  
-by Michele Loreti, and Michela Quadrini
-- *Branching pomsets for choreographies*  
-by Luc Edixhoven, Guillermina Cledou, José Proença, and Sung-Shik Jongmans
-
-## Program
-
-<!-- From xls to markdown with https://tabletomarkdown.com/convert-spreadsheet-to-markdown/ -->
-
-| Time CEST                | Session                                                                                                       | Talk                                                                                             |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| 9:00-9:10                | Opening                                                                                                       |                                                                                                         |
-| 9:10-10:10               | Invited talk                                                                                                  | Matthew Parkinson                                                                                       |
-| 10:10-10:40              | Verification                                                                                                  | The Right Kind of Non-Determinism: Using Concurrency to Verify C Programs with Underspecified Semantics |
-| 10:40-11:00[^1] | | Demystifying Attestation in Intel Trust Domain Extensions (TDX) via Formal Verification (Oral communications) 
-| 11:00-11:30              | Coffee break                                                                                                  |                                                                                                         |
-| 11:30-12:00              | Communication models                                                                                          | Session Fidelity for ElixirST: A Session-Based Type System for Elixir Modules                           |
-| 12:00-12:30              | | Branching pomsets for choreographies                                                                          
-| 12:30-13:00              | | On Composing Communicating Systems                                                                            
-| 13:00-14:30              | Lunch break                                                                                                   |                                                                                                         |
-| 14:30-15:30              | Invited talk                                                                                                  | Ilaria Castellani                                                                                  |
-| 15:30-16:00              | Monitoring                                                                                                    | Lang-n-Send Extended: Sending Regular Expressions to Monitors                                           |
-| 16:00-16:30              | Coffee break                                                                                                  |                                                                                                         |
-| 16:30-16:50[^1] | Oral Communications                                                                | The NiRvAna project: Noninterference and Reversibility Analysis in Private Blockchains                  |
-| 16:50-17:10[^1] | | A Framework for Modeling Behaviour of Aggregated Agents                                                       |
-| 17:10-17:20              | Conclusion                                                                                                    |                                                                                                         |
-
-[^1]: Oral communication.
 
 ## Scope
 
@@ -92,6 +44,56 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
   * Synthesis techniques
 
 
+## Programme
+
+| Time CEST   | Session | Talk |
+| ------------| ------- | ---- |
+| 9:00-9:10   | Opening | _Welcome to ICE 2022_ |
+| **9:10-10:10**  | **Invited talk** | [**Matthew Parkinson (Microsoft Research UK)**: _Project Verona's Concurrency Model_](#matthew-parkinson)
+| 10:10-10:40 | Verification | Eduard Kamburjan, Nathan Wasser: _The Right Kind of Non-Determinism: Using Concurrency to Verify C Programs with Underspecified Semantics_ |
+| 10:40-11:00 |              | Muhammad Usama Sardar, Christof Fetzer: _Demystifying Attestation in Intel Trust Domain Extensions (TDX) via Formal Verification_ (oral communication)
+| **11:00-11:30** | **Coffee break** | |
+| 11:30-12:00 | Communication models | Gerard Tabone, Adrian Francalanza: _Session Fidelity for ElixirST: A Session-Based Type System for Elixir Modules_ |
+| 12:00-12:30 |                      | Luc Edixhoven, Guillermina Cledou, José Proença, Sung-Shik Jongmans: _Branching pomsets for choreographies_ |
+| 12:30-13:00 |                      | Franco Barbanera, Ivan Lanese, Emilio Tuosto: _On Composing Communicating Systems_ |
+| **13:00-14:30** | **Lunch break** | |
+| **14:30-15:30** | **Invited talk** | [**Ilaria Castellani (INRIA)**: _Relating global and local specifications in a core multiparty session calculus_](#ilaria-castellani)
+| 15:30-16:00 | Monitoring | Matteo Cimini: _Lang-n-Send Extended: Sending Regular Expressions to Monitors_ |
+| **16:00-16:30** | **Coffee break** | |
+| 16:30-16:50 | Oral communications | Marco Bernardo, Claudio Mezzina: _The NiRvAna project: Noninterference and Reversibility Analysis in Private Blockchains_ |
+| 16:50-17:10 |                     | Michele Loreti, Michela Quadrini: _A Framework for Modeling Behaviour of Aggregated Agents_ |
+| 17:10-17:40 | Discussion | _The ICE Workshop: Past, Present, and Future_ |
+| 17:40-17:50 | Conclusion | |
+
+
+## Invited Speakers 
+
+### Matthew Parkinson
+
+#### Talk: Project Verona's Concurrency Model
+
+> Project Verona is a research programming language exploring various interactions between ownership, memory management and concurrency.  In this talk, I will present its concurrency model, which enables asynchronously creating atomic and ordered units of work with exclusive access to a collection of independent resources. I will demonstrate the approach through a series of pedagogical examples, and briefly discuss both the implementation and the performance of the paradigm.
+
+#### Biography
+
+[Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) is a Principal Researcher at Microsoft Research. Prior to joining Microsoft in 2010, he spent four years as a RAEng/EPSRC research fellowship at the University of Cambridge, where he also did his Ph.D..
+
+His research focusses on Concurrency and Ownership, with a particular focus on memory safety. His recent research focusses on [Project Verona](https://github.com/microsoft/verona) and its allocator [snmalloc](https://github.com/microsoft/snmalloc).  Project Verona is a new language to explore research about efficient and safe ways to manage memory.
+
+### Ilaria Castellani
+
+#### Talk: Relating global and local specifications in a core multiparty session calculus
+
+> Multiparty session types (MPSTs) are a type discipline for ensuring safe interaction within multiparty sessions. In their original definition, MPSTs consist of two kinds of types: global types, which are global specifications for entire sessions, and local types, which are local specifications for individual participants. The relation between global types and local types is classically expressed using the notion of projection. In this talk, I will focus on a core session calculus without channels, where sessions are defined as networks of sequential processes, and local types coincide with processes. 
+I will review some increasingly permissive MPSTs for this core session calculus, including some recent proposals where global types can be related to local types without resorting to projection.
+>
+> This talk is based on joint work with Mariangiola Dezani-Ciancaglini and Paola Giannini.
+
+#### Biography
+
+[Ilaria Castellani](https://www-sop.inria.fr/members/Ilaria.Castellani/) is a senior researcher at INRIA Sophia Antipolis, France. Her main research interests are in non-interleaving semantics for process calculi, language-based security for concurrent programs and processes, and multiparty session types. She was the chair of the IFIP TC1 Working Group 1.8 on Concurrency Theory from 2014 to 2020. 
+
+
 ## Important Dates
 
 The following dates are in the [Anywhere on Earth time zone](https://time.is/Anywhere_on_Earth).
@@ -103,7 +105,7 @@ The following dates are in the [Anywhere on Earth time zone](https://time.is/Any
   * 12 July 2022: camera-ready for EPTCS post-proceedings
 
 
-## Selection Procedure
+## The ICE Selection Procedure
 
 Since [its first edition in 2008](#previous-editions), the distinguishing feature of ICE has been an innovative paper selection mechanism based on an interactive, friendly, and constructive discussion amongst authors and PC members in an online forum.
 
@@ -139,32 +141,6 @@ Accepted research papers will be published after the workshop in [Electronic Pro
 
 We plan to invite authors of selected papers and brief announcements to submit their work in a special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_. Such contributions will be regularly peer-reviewed according to the standard journal policy, but they will be handled in a shorter time than regular submissions. A list of published and in preparation special issues of previous ICE editions is reported below.
 
-## Invited Speakers 
-
-### Ilaria Castellani
-
-#### Talk: Relating global and local specifications in a core multiparty session calculus
-
-> Multiparty session types (MPSTs) are a type discipline for ensuring safe interaction within multiparty sessions. In their original definition, MPSTs consist of two kinds of types: global types, which are global specifications for entire sessions, and local types, which are local specifications for individual participants. The relation between global types and local types is classically expressed using the notion of projection. In this talk, I will focus on a core session calculus without channels, where sessions are defined as networks of sequential processes, and local types coincide with processes. 
-I will review some increasingly permissive MPSTs for this core session calculus, including some recent proposals where global types can be related to local types without resorting to projection.
->
-> This talk is based on joint work with Mariangiola Dezani-Ciancaglini and Paola Giannini.
-
-#### Biography
-
-[Ilaria Castellani](https://www-sop.inria.fr/members/Ilaria.Castellani/) is a senior researcher at INRIA Sophia Antipolis, France. Her main research interests are in non-interleaving semantics for process calculi, language-based security for concurrent programs and processes, and multiparty session types. She was the chair of the IFIP TC1 Working Group 1.8 on Concurrency Theory from 2014 to 2020. 
-
-### Matthew Parkinson
-
-#### Talk: Project Verona’s concurrency model
-
-> Project Verona is a research programming language exploring various interactions between ownership, memory management and concurrency.  In this talk, I will present its concurrency model, which enables asynchronously creating atomic and ordered units of work with exclusive access to a collection of independent resources. I will demonstrate the approach through a series of pedagogical examples, and briefly discuss both the implementation and the performance of the paradigm.
-
-#### Biography
-
-[Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) is a Principal Researcher at Microsoft Research. Prior to joining Microsoft in 2010, he spent four years as a RAEng/EPSRC research fellowship at the University of Cambridge, where he also did his Ph.D..
-
-His research focusses on Concurrency and Ownership, with a particular focus on memory safety. His recent research focusses on [Project Verona](https://github.com/microsoft/verona) and its allocator [snmalloc](https://github.com/microsoft/snmalloc).  Project Verona is a new language to explore research about efficient and safe ways to manage memory.
 
 ## ICEcreamers
 
@@ -174,6 +150,7 @@ His research focusses on Concurrency and Ownership, with a particular focus on m
   * [Alceste Scalas](https://www.imm.dtu.dk/~alcsc/) (Technical University of Denmark, DK) - `alcsc (at) dtu.dk`
 
 Use `ice22 (at) googlegroups.com` to reach all the ICEcreamers at once.
+,
 
 ## Programme Committee {#programme-committee}
 

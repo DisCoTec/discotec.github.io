@@ -21,7 +21,7 @@ Time | Presentation | Speacker
 
 
 **Invited Speaker**
-Prof. [Andrea Vandin](https://www.santannapisa.it/it/andrea-vandin) (Sant'Anna School for Advanced Studies, Pisa). 
+[Andrea Vandin](https://www.santannapisa.it/it/andrea-vandin) (Sant'Anna School for Advanced Studies, Pisa). 
 Tenure-track Assistant Professor in Computer Science
 Sant'Anna School of Advanced Studies, Pisa, Italy
 Adjunct Associate Professor
@@ -71,7 +71,7 @@ Proceedings shall be submitted to CEUR-WS.org for online publication. Selected, 
 - Pascal Poizat, University Paris Nanterre, France
 - Lorenzo Rossi, University of Camerino, Italy
 
-## Program Committee (to be completed)
+## Program Committee
 
 - Andrea Burattin, Technical University of Denmark, Denmark (co-chair)
 - Chiara Di Francescomarino, Fondazione Bruno Kessler, Italy
