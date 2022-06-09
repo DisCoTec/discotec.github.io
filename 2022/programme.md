@@ -34,11 +34,12 @@
 
 ### Conference Talks
 
-| Time | COORDINATION | DAIS | FORTE |
+| Time | DisCoTec Invited Talk (Cappella Guinigi)  | DisCoTec Invited Talk (Cappella Guinigi) | DisCoTec Invited Talk (Cappella Guinigi) |
 | :---: | :---: | :---: | :---: |
 | *09.45 - 10.00* | *welcome* | *welcome*| *welcome*|
-| **10.00 - 11.00** | [(Invited Talk) Muffy Calder: 30+ years of FORTE research: a personal perspective](invited#muffy-calder) | [(Invited Talk) Muffy Calder: 30+ years of FORTE research: a personal perspective](invited#muffy-calder) | [(Invited Talk) Muffy Calder: 30+ years of FORTE research: a personal perspective](invited#muffy-calder) |
+| **10.00 - 11.00** | [Muffy Calder: 30+ years of FORTE research: a personal perspective](invited#muffy-calder) | [Muffy Calder: 30+ years of FORTE research: a personal perspective](invited#muffy-calder) | [ Muffy Calder: 30+ years of FORTE research: a personal perspective](invited#muffy-calder) |
 | *11.00 - 11.25* | *break* | *break* | *break* |
+| **Time** | **COORDINATION** | **DAIS** | **FORTE** |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
 | | [Session 1: Timed, Probabilistic, and Collective Systems](#session-1-timed-probabilistic-and-collective-systems) | [Session 1: Blockchains & Cryptocurrencies](#session-1-blockchains--cryptocurrencies) | [Session 1: Process Calculi and Session Types](#session-1-process-calculi-and-session-types) |
 | **11.30 - 12.00** | [MIMOS: A Deterministic Model for the Design and Update of Real-Time Systems](#session-1-timed-probabilistic-and-collective-systems) | [Evaluating Blockchain Application Requirements and their Satisfaction in Hyperledger Fabric](#session-1-blockchains--cryptocurrencies) | [Encodability Criteria for Quantum Based Systems](#session-1-process-calculi-and-session-types) | 
