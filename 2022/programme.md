@@ -34,12 +34,12 @@
 
 ### Conference Talks
 
-| Time | DisCoTec Invited Talk (Cappella Guinigi)  | DisCoTec Invited Talk (Cappella Guinigi) | DisCoTec Invited Talk (Cappella Guinigi) |
+| Time | DisCoTec Invited Talk <br/> (Cappella Guinigi)  | DisCoTec Invited Talk <br/> (Cappella Guinigi) | DisCoTec Invited Talk <br/> (Cappella Guinigi) |
 | :---: | :---: | :---: | :---: |
 | *09.45 - 10.00* | *welcome* | *welcome*| *welcome*|
 | **10.00 - 11.00** | [Muffy Calder: 30+ years of FORTE research: a personal perspective](invited#muffy-calder) | [Muffy Calder: 30+ years of FORTE research: a personal perspective](invited#muffy-calder) | [ Muffy Calder: 30+ years of FORTE research: a personal perspective](invited#muffy-calder) |
 | *11.00 - 11.25* | *break* | *break* | *break* |
-| **Time** | **COORDINATION** | **DAIS** | **FORTE** |
+|  | **COORDINATION <br/> (Cappella Guinigi)** | **DAIS <br/> (Classroom 2)** | **FORTE <br/> (Refettorio)** |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
 | | [Session 1: Timed, Probabilistic, and Collective Systems](#session-1-timed-probabilistic-and-collective-systems) | [Session 1: Blockchains & Cryptocurrencies](#session-1-blockchains--cryptocurrencies) | [Session 1: Process Calculi and Session Types](#session-1-process-calculi-and-session-types) |
 | **11.30 - 12.00** | [MIMOS: A Deterministic Model for the Design and Update of Real-Time Systems](#session-1-timed-probabilistic-and-collective-systems) | [Evaluating Blockchain Application Requirements and their Satisfaction in Hyperledger Fabric](#session-1-blockchains--cryptocurrencies) | [Encodability Criteria for Quantum Based Systems](#session-1-process-calculi-and-session-types) | 
@@ -59,16 +59,17 @@
 ### Conference Talks
 
 
-|Time | COORDINATION | DAIS | FORTE |
+| Time | DisCoTec Invited Talk <br/> (Cappella Guinigi)  | DisCoTec Invited Talk <br/> (Cappella Guinigi) | DisCoTec Invited Talk <br/> (Cappella Guinigi) |
 | :---: | :---: | :---: | :---: |
 | *09.55 - 10.00* | *welcome* | *welcome* | *welcome* |
-| **10.00 - 11.00** | [(Invited Talk) Luca Viganò: Formal Methods for Socio-Technical Security](invited#luca-viganò) | [(Invited Talk) Luca Viganò: Formal Methods for Socio-Technical Security](invited#luca-viganò) | [(Invited Talk) Luca Viganò: Formal Methods for Socio-Technical Security](invited#luca-viganò) |
+| **10.00 - 11.00** | [Luca Viganò: Formal Methods for Socio-Technical Security](invited#luca-viganò) | [Luca Viganò: Formal Methods for Socio-Technical Security](invited#luca-viganò) | [Luca Viganò: Formal Methods for Socio-Technical Security](invited#luca-viganò) |
 | *11.00 - 11.30* | *break* | *break* | *break* |
-| | *Joint session: DisCoTec best papers* | *Joint session: DisCoTec best papers* | *Joint session: DisCoTec best papers* |
+| | **DisCoTec Best Papers <br/> (Cappella Guinigi)** | **DisCoTec Best Papers <br/> (Cappella Guinigi)** | **DisCoTec Best Papers <br/> (Cappella Guinigi)** |
 | **11.30 - 12.00** | [A Monitoring Tool for Linear-Time μHML](#coordination-best-paper) | [A Monitoring Tool for Linear-Time μHML](#coordination-best-paper) | [A Monitoring Tool for Linear-Time μHML](#coordination-best-paper)|
 | **12.00 - 12.30** | [Rebop: Reputation-based Incentives in Committee-based Blockchains](#dais-best-paper)  | [Rebop: Reputation-based Incentives in Committee-based Blockchains](#dais-best-paper)  | [Rebop: Reputation-based Incentives in Committee-based Blockchains](#dais-best-paper)  |
 | **12.30 - 13.00** | [Traits: Correctness-by-Construction for Free](#forte-best-paper) | [Traits: Correctness-by-Construction for Free](#forte-best-paper) | [Traits: Correctness-by-Construction for Free](#forte-best-paper) | 
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break* |
+| | **COORDINATION <br/> (Cappella Guinigi)** | **DAIS <br/> (Classroom 2)** | **FORTE <br/> (Refettorio)** |
 | | [Session 3: Processes and Languages](#session-3-processes-and-languages) | [Session 3: Trusted Execution, Deep Learning, and IoT](#session-3-trusted-execution-deep-learning-and-iot) | [Session 3: State-space reduction](#session-3-state-space-reduction) |
 | **15.00 - 15.30** | [Formal Choreographic Languages](#session-3-processes-and-languages) | [Attestation Mechanisms for Trusted Execution Environments Demystified](#session-3-trusted-execution-deep-learning-and-iot) | [LTL under reductions with weaker conditions than stutter-invariance](#session-3-state-space-reduction) |
 | **15.30 - 16.00** | [A Model of Actors and Grey Failures](#session-3-processes-and-languages) | [Accelerate Model Parallel Deep Learning Training Using Effective Graph Traversal Order in Device Placement](#session-3-trusted-execution-deep-learning-and-iot) | [Effective Reductions of Mealy Machines](#session-3-state-space-reduction) |
@@ -85,24 +86,26 @@
 
 ### Conference Talks
 
-| Time | COORDINATION | DAIS | FORTE |
+| Time | DisCoTec Invited Talk <br/> (Cappella Guinigi)  | DisCoTec Invited Talk <br/> (Cappella Guinigi) | DisCoTec Invited Talk <br/> (Cappella Guinigi) |
 | :---: | :---: | :---: | :---: |
 | *09.55 - 10.00* | *welcome* | *welcome* | *welcome* |
-| **10.00 - 11.00** | [(Invited Talk) Maarten van Steen: Challenges in automated measurement of pedestrian dynamics](invited#maarten-van-steen) | [(Invited Talk) Maarten van Steen: Challenges in automated measurement of pedestrian dynamics](invited#maarten-van-steen) | [(Invited Talk) Maarten van Steen: Challenges in automated measurement of pedestrian dynamics](invited#maarten-van-steen) |
+| **10.00 - 11.00** | [Maarten van Steen: Challenges in automated measurement of pedestrian dynamics](invited#maarten-van-steen) | [Maarten van Steen: Challenges in automated measurement of pedestrian dynamics](invited#maarten-van-steen) | [Maarten van Steen: Challenges in automated measurement of pedestrian dynamics](invited#maarten-van-steen) |
 | *11.00 - 11.30* | *break* | *break* | *break* |
+| | **COORDINATION <br/> (Cappella Guinigi)** | **DAIS <br/> (Classroom 2)** | **FORTE <br/> (Refettorio)** |
 | | [Session 4: Runtime Verification, Monitor Synthesis, and Microservices](#session-4-runtime-verification-monitor-synthesis-and-microservices) | [Session 4: Elastic and Scalable Systems](#session-4-elastic-and-scalable-systems) | [Session 4: Verification and Semantics](#session-4-verification-and-semantics) |
 | **11.30 - 12.00** | [A Synthesis Tool for Optimal Monitors in a Branching-Time Setting](#session-4-runtime-verification-monitor-synthesis-and-microservices) | [The HDFS Replica Placement Policies: a comparative experimental investigation](#session-4-elastic-and-scalable-systems) | [Process Algebra Can Save Lives: Static Analysis of XACML Access Control Policies using mCRL2](#session-4-verification-and-semantics) |
 | **12.00 - 12.30** | [Model-Driven Generation of Microservice Interfaces: From LEMMA Domain Models to Jolie APIs](#session-4-runtime-verification-monitor-synthesis-and-microservices) | [An Elastic and Scalable Topic-based Pub/Sub System using Deep Reinforcement Learning](#session-4-elastic-and-scalable-systems) |  [Branch-Well-Structured Transition Systems and Extensions](#session-4-verification-and-semantics) |
 | **12.30 - 13.00** | - | - | [Co-engineering safety-security using statistical model checking (Journal First)](#session-4-verification-and-semantics) |
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break* |
-| | [Joint session: DisCoTec Artefacts](#joint-session-discotec-artefacts) | [Joint session: DisCoTec Artefacts](#joint-session-discotec-artefacts) | [Joint session: DisCoTec Artefacts](#joint-session-discotec-artefacts) |
+| | [DisCoTec Artefacts (Cappella Guinigi)](#joint-session-discotec-artefacts) | [DisCoTec Artefacts (Cappella Guinigi)](#joint-session-discotec-artefacts) | [DisCoTec Artefacts (Cappella Guinigi)](#joint-session-discotec-artefacts) |
 | **15.00 - 15.10** | [Opening and presentation of the EAPLS Artefact Badges](#joint-session-discotec-artefacts) | [Opening and presentation of the EAPLS Artefact Badges](#joint-session-discotec-artefacts) | [Opening and presentation of the EAPLS Artefact Badges](#joint-session-discotec-artefacts) |
 | **15.10 - 15.20** | [The Science of Computer Programming track on Original Software Publications](#joint-session-discotec-artefacts) | [The Science of Computer Programming track on Original Software Publications](#joint-session-discotec-artefacts) | [The Science of Computer Programming track on Original Software Publications](#joint-session-discotec-artefacts) |
 | **15:20 - 15:25** | [Announcement of DisCoTec best tool award winner](#joint-session-discotec-artefacts) | [Announcement of DisCoTec best tool award winner](#joint-session-discotec-artefacts) | [Announcement of DisCoTec best tool award winner](#joint-session-discotec-artefacts) | 
 | **15.25 - 16.00** | [Birds of a Feather session on software artefacts and replication issues](#joint-session-discotec-artefacts) | [Birds of a Feather session on software artefacts and replication issues](#joint-session-discotec-artefacts) | [Birds of a Feather session on software artefacts and replication issues](#joint-session-discotec-artefacts) |
 | **16.00 - 16.30** | [Artefact demonstrations](#joint-session-discotec-artefacts) | [Artefact demonstrations](#joint-session-discotec-artefacts) | [Artefact demonstrations](#joint-session-discotec-artefacts) | 
 | *16.30 - 17.00* | *networking coffee* | *networking coffee* | *networking coffee* |
-| **17.00 - 18.00** | [(Remote Invited Talk) Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) | [(Remote Invited Talk) Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) | [(Remote Invited Talk) Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) |
+|| **DisCoTec Invited Talk <br/> (Cappella Guinigi)**  | **DisCoTec Invited Talk <br/> (Cappella Guinigi)** | **DisCoTec Invited Talk <br/> (Cappella Guinigi)** |
+| **17.00 - 18.00** | [Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) | [Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) | [Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) |
 
 <br/>
 
@@ -116,16 +119,50 @@
 <br/><br/>
 
 
-## Coordination programme
+## DisCoTec Invited Talk (Cappella Guinigi)
 
-### Coordination Invited Speaker
+#### FORTE Invited Speaker
+*(session chair: Mohammad Mousavi)*
+
+- [30+ years of FORTE research: a personal perspective](invited#30-years-of-forte-research-a-personal-perspective) <br/>  by Muffy Calder
+
+
+#### Coordination Invited Speaker
 *(session chair: Marjan Sirjani)*
 
 - [Formal Methods for Socio-Technical Security (Formal and Automated Analysis of Security Ceremonies)](invited#formal-methods-for-socio-technical-security-formal-and-automated-analysis-of-security-ceremonies) <br/>  by Luca Viganò
 
-### Coordination Best Paper
+#### DAIS Invited Speaker
+<!-- *(session chair: )* -->
+
+- [Challenges in automated measurement of pedestrian dynamics](invited#challenges-in-automated-measurement-of-pedestrian-dynamics) <br/>  by Maarten van Steen
+
+
+## DisCoTec Best Papers (Cappella Guinigi)
+*(session chair: Maurice ter Beek)*
+
+#### Coordination Best Paper
 
 - A Monitoring Tool for Linear-Time μHML <br/> by Luca Aceto, Antonis Achilleos, Duncan Paul Attard, Léo Exibard, Adrian Francalanza and Anna Ingólfsdóttir
+
+#### DAIS Best Paper
+
+- Rebop: Reputation-based Incentives in Committee-based Blockchains <br/> by Arian Baloochestani, Leander Jehl and Hein Meling
+
+#### FORTE Best Paper
+
+- Traits: Correctness-by-Construction for Free by <br/> Tobias Runge, Alex Potanin, Thomas Thüm and Ina Schaefer
+
+## DisCoTec Artefacts (Cappella Guinigi)
+*(session chair: Maurice ter Beek)*
+- Opening and presentation of the EAPLS Artefact Badges <br/> by Ferruccio Damiani
+- The Science of Computer Programming track on Original Software Publications <br/> by Mohammad Mousavi
+- Announcement of DisCoTec best tool award winner <br/> by Maurice ter Beek
+- Birds of a Feather session on software artefacts and replication issues <br/> moderated by Ferruccio Damiano, David Eyers, and Anna Philippou
+- Artefact demonstrations
+
+
+## Coordination programme
 
 ### Session 1: Timed, Probabilistic, and Collective Systems
 *(session chair: Mirko Viroli)*
@@ -157,15 +194,6 @@
 
 ## DAIS programme
 
-### DAIS Invited Speaker
-<!-- *(session chair: )* -->
-
-- [Challenges in automated measurement of pedestrian dynamics](invited#challenges-in-automated-measurement-of-pedestrian-dynamics) <br/>  by Maarten van Steen
-
-### DAIS Best Paper
-
-- Rebop: Reputation-based Incentives in Committee-based Blockchains <br/> by Arian Baloochestani, Leander Jehl and Hein Meling
-
 ### Session 1: Blockchains & Cryptocurrencies
 <!-- *(session chair: )* -->
 
@@ -192,15 +220,6 @@
 
 
 ## FORTE programme
-
-### FORTE Invited Speaker
-*(session chair: Mohammad Mousavi)*
-
-- [30+ years of FORTE research: a personal perspective](invited#30-years-of-forte-research-a-personal-perspective) <br/>  by Muffy Calder
-
-### FORTE Best Paper
-
-- Traits: Correctness-by-Construction for Free by <br/> Tobias Runge, Alex Potanin, Thomas Thüm and Ina Schaefer
 
 ### Session 1: Process Calculi and Session Types
 *(session chair: Anna Philippou)*
@@ -231,10 +250,3 @@
 - Co-engineering safety-security using statistical model checking (Journal - First) <br/> by Rajesh Kumar, Rohan Kela, Siddhant Singh and Bhavesh Narra
 
 
-## Joint session: DisCoTec Artefacts
-*(session chair: Maurice ter Beek)*
-- Opening and presentation of the EAPLS Artefact Badges <br/> by Ferruccio Damiani
-- The Science of Computer Programming track on Original Software Publications <br/> by Mohammad Mousavi
-- Announcement of DisCoTec best tool award winner <br/> by Maurice ter Beek
-- Birds of a Feather session on software artefacts and replication issues <br/> moderated by Ferruccio Damiano, David Eyers, and Anna Philippou
-- Artefact demonstrations
