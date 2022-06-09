@@ -124,17 +124,27 @@ The proceedings of the conferences are published in [LNCS-IFIP](https://www.spri
 - *A true concurrent model of smart contracts executions* <br/> by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia <br/> 
  [Paper](https://link.springer.com/chapter/10.1007/978-3-030-50029-0_16), [presentation](https://www.youtube.com/watch?v=vgoDvMa69cU&feature=youtu.be) and [award](DisCoTec-bpa-certificate.pdf)
 
-
+-->
 
 
 
 
 ## Special issues
-The individual conferences will organise special issues of extended and selected papers in reputable journal such as [Logical Methods in Computer Science](https://lmcs.episciences.org) and [Journal of Parallel and Distributed Computing](https://www.journals.elsevier.com/journal-of-parallel-and-distributed-computing).
--->
+The individual conferences will organise special issues of extended and selected papers in reputable journal such as [Logical Methods in Computer Science](https://lmcs.episciences.org) and of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming) for tool papers.
 
+### DisCoTec Special Issues (published/appearing this year)
+####  Coordination 2020 Special Issue 
+- [Architectures in parametric component-based systems: Qualitative and quantitative modelling](https://lmcs.episciences.org/8901) by Maria Pittou and George Rahonis
 
+- [A new operational representation of dependencies in Event Structures](https://lmcs.episciences.org/8791) by G. Michele Pinna
 
+- [Time-Fluid Field-Based Coordination through Programmable Distributed Schedulers](https://lmcs.episciences.org/8755) by Danilo Pianini, Roberto Casadei, Mirko Viroli, Stefano Mariani and Franco Zambonelli
+
+- [A theory of transaction parallelism in blockchains](https://lmcs.episciences.org/9031) by Massimo Bartoletti, Letterio Galletta and Maurizio Murgia
+
+- [Verifying liquidity of recursive Bitcoin contracts](https://lmcs.episciences.org/9031) by Massimo Bartoletti, Stefano Lande, Maurizio Murgia and Roberto Zunino
+
+- [Specification and Verification of Timing Properties in Interoperable Medical Systems](https://lmcs.episciences.org/9639) by Mahsa Zarneshan, Fatemeh Ghassemi, Ehsan Khamespanah, Marjan Sirjani and John Hatcliff
 
 ## Scientific Committees 
 
