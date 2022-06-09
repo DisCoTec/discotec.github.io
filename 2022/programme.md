@@ -25,8 +25,7 @@
 | **14.00 - 15.30** | [The ΔQ Systems Development Paradigm](tutorials#the-δq-systems-development-paradigm) | [A Gentle Adventure Mechanising Message Passing Concurrency Systems](tutorials#a-gentle-adventure-mechanising-message-passing-concurrency-systems)  | 
 | *15.30 - 16.00* | *coffee break* | *coffee break*|
 | **16.00 - 17.30** | [ChorChain: a Model-driven Approach for Trusted Execution of Multi-party Business Processes on Blockchain](tutorials#chorchain-a-model-driven-approach-for-trusted-execution-of-multi-party-business-processes-on-blockchain) | - | 
-| **Time** | <td colspan=2> <center>**Sala Canova** </center></td> 
-| *19.00 - 20.00* | <td colspan=2> <center>*Welcome reception*</center> </td>
+| *19.00 - 20.00* | *Welcome reception (Sala Canova)* | *Welcome reception (Sala Canova)* |
 
 <br/>
 
