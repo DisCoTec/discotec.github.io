@@ -12,13 +12,13 @@
 
 ### DisCoTec Workshops
 
-* **CoMinDs**: Go to the [programme page](cominds).
-* **FOCODILE**: Go to the [programme page](focodile).
+* **CoMinDs** (classroom 2): Go to the [programme page](cominds).
+* **FOCODILE** (classroom 1): Go to the [programme page](focodile).
 <br/>
 
 ### DisCoTec Tutorials 
 
-| Time | Blockchain Track | Verification Track|
+| Time | Blockchain Track (Sagrestia)  | Verification Track (Cappella Guinigi) |
 | :---: | :---: | :---: |
 | *10.50 - 11.00* | *welcome* | *welcome* |
 | **11.00 - 12.30** | [Smart contracts in Bitcoin and BitML](tutorials#smart-contracts-in-bitcoin-and-bitml)  |  [An introduction to Spatial Logics and Spatial Model Checking](tutorials#an-introduction-to-spatial-logics-and-spatial-model-checking) |
@@ -26,7 +26,13 @@
 | **14.00 - 15.30** | [The ΔQ Systems Development Paradigm](tutorials#the-δq-systems-development-paradigm) | [A Gentle Adventure Mechanising Message Passing Concurrency Systems](tutorials#a-gentle-adventure-mechanising-message-passing-concurrency-systems)  | 
 | *15.30 - 16.00* | *coffee break* | *coffee break*|
 | **16.00 - 17.30** | [ChorChain: a Model-driven Approach for Trusted Execution of Multi-party Business Processes on Blockchain](tutorials#chorchain-a-model-driven-approach-for-trusted-execution-of-multi-party-business-processes-on-blockchain) | - | 
-| *19.00 - 20.00* | *Welcome reception* | *Welcome reception* |
+
+<br/>
+
+
+| Time | Sala Canova  | 
+| :---: | :---: |
+| *19.00 - 20.00* | *Welcome reception* | 
 
 <br/>
 
