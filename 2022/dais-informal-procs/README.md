@@ -10,22 +10,22 @@ Viktória Fördős and Alexandre Jorge Barbosa Rodrigues. [*Lesser Evil: Embraci
 
 Rodrigo Canek, Chantal Taconet and Pedro Borges. [*Analysis of the impact of IoT protocols and interaction patterns on energy consumption for IoT consumer applications*](https://drive.google.com/file/d/1QcAqpTnFRg-z7Kbxcnol7Eh61rwlrEYg/view?usp=sharing)
 
-Thanos Giannakopoulos and Vana Kalogeraki. [*An Elastic and Scalable Topic-based Pub/Sub System using Deep Reinforcement Learning*](https://drive.google.com/file/d/1QcAqpTnFRg-z7Kbxcnol7Eh61rwlrEYg/view?usp=sharing)
+Thanos Giannakopoulos and Vana Kalogeraki. [*An Elastic and Scalable Topic-based Pub/Sub System using Deep Reinforcement Learning*](https://drive.google.com/file/d/1emBSkx17Cpj-KnINLuA9nHMA0TLotK82/view?usp=sharing)
 
-Tianze Wang, Amir H. Payberah, Desta Haileselassie Hagos and Vladimir Vlassov. [*Accelerate Model Parallel Deep Learning Training Using Effective Graph Traversal Order in Device Placement*](https://drive.google.com/file/d/1QcAqpTnFRg-z7Kbxcnol7Eh61rwlrEYg/view?usp=sharing)
+Tianze Wang, Amir H. Payberah, Desta Haileselassie Hagos and Vladimir Vlassov. [*Accelerate Model Parallel Deep Learning Training Using Effective Graph Traversal Order in Device Placement*](https://drive.google.com/file/d/1BYjIeT-T2A2sv9Ya_93IZf67z3hS29GT/view?usp=sharing)
 
 Rhauani Fazul and Patrícia Pitthan.	[*The HDFS Replica Placement Policies: a comparative experimental investigation*](https://drive.google.com/file/d/1YQ7YfYka7Pgj_eHX_ccXKydP7UYJbE64/view?usp=sharing)
 
-Arian Baloochestani, Leander Jehl and Hein Meling. [*Rebop: Reputation-based Incentives in Committee-based Blockchains*](https://drive.google.com/file/d/1YQ7YfYka7Pgj_eHX_ccXKydP7UYJbE64/view?usp=sharing) 
+Arian Baloochestani, Leander Jehl and Hein Meling. [*Rebop: Reputation-based Incentives in Committee-based Blockchains*](https://drive.google.com/file/d/1pX7a4V6Z8nvTJRwDDxGJAmwPrKMD735k/view?usp=sharing) 
 
 Emanuel Onica and Ciprian Amariei. [*Using SGX for Meta-Transactions Support in Ethereum DApps [Work-in-Progress Paper]*](https://drive.google.com/file/d/18h9n06cHWmL5n54wBDZ_pnSYITfZQWe5/view?usp=sharing)
 
-Jämes Ménétrey, Christian Göttel, Anum Khurshid, Marcelo Pasin, Pascal Felber, Valerio Schiavoni and Shahid Raza. [*Attestation Mechanisms for Trusted Execution Environments Demystified*](https://drive.google.com/file/d/18h9n06cHWmL5n54wBDZ_pnSYITfZQWe5/view?usp=sharing)
+Jämes Ménétrey, Christian Göttel, Anum Khurshid, Marcelo Pasin, Pascal Felber, Valerio Schiavoni and Shahid Raza. [*Attestation Mechanisms for Trusted Execution Environments Demystified*](https://drive.google.com/file/d/1LtZq0ApGXVMIWTZy06yZxWejiu7TRqtc/view?usp=sharing)
 
-Pasquale De Rosa and Valerio Schiavoni. [*Understanding Cryptocoins Trends Correlations [Work-in-Progress Paper]*](https://drive.google.com/file/d/18h9n06cHWmL5n54wBDZ_pnSYITfZQWe5/view?usp=sharing)
+Pasquale De Rosa and Valerio Schiavoni. [*Understanding Cryptocoins Trends Correlations [Work-in-Progress Paper]*](https://drive.google.com/file/d/1Ugd6BaF1TlgQqCqjwdVpsq78cadQWmkl/view?usp=sharing)
 
-Jacopo Soldani, Stefano Forti and Antonio Brogi. [*Failure Root Cause Analysis for Microservices, Explained*](https://drive.google.com/file/d/18h9n06cHWmL5n54wBDZ_pnSYITfZQWe5/view?usp=sharing)
+Jacopo Soldani, Stefano Forti and Antonio Brogi. [*Failure Root Cause Analysis for Microservices, Explained*](https://drive.google.com/file/d/1nm8NxJgHFu6y8Dsr2otAGX3SSq0dnzKI/view?usp=sharing)
 
-Maarten van Steen, Valeriu-Daniel Stanciu, Nadia Shafaeipour, Cristian Chilipirea, Ciprian Dobre, Andreas Peter and Mingshu Wang. [*Challenges in automated measurement of pedestrian dynamics*](https://drive.google.com/file/d/18h9n06cHWmL5n54wBDZ_pnSYITfZQWe5/view?usp=sharing)
+Maarten van Steen, Valeriu-Daniel Stanciu, Nadia Shafaeipour, Cristian Chilipirea, Ciprian Dobre, Andreas Peter and Mingshu Wang. [*Challenges in automated measurement of pedestrian dynamics*](https://drive.google.com/file/d/1OubspEnmaCBX3wXTpmiKNi45rjBwPGVX/view?usp=sharing)
 
 
