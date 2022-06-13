@@ -133,7 +133,7 @@
 - [Formal Methods for Socio-Technical Security (Formal and Automated Analysis of Security Ceremonies)](invited#formal-methods-for-socio-technical-security-formal-and-automated-analysis-of-security-ceremonies) <br/>  by Luca Viganò
 
 #### DAIS Invited Speaker
-<!-- *(session chair: )* -->
+*(session chair: Spyros Voulgaris )* 
 
 - [Challenges in automated measurement of pedestrian dynamics](invited#challenges-in-automated-measurement-of-pedestrian-dynamics) <br/>  by Maarten van Steen
 
@@ -195,25 +195,27 @@
 ## DAIS programme
 
 ### Session 1: Blockchains & Cryptocurrencies
-<!-- *(session chair: )* -->
+*(session chair: Marcelo Pasin)*
 
 - Evaluating Blockchain Application Requirements and their Satisfaction in Hyperledger Fabric <br/> by Sadok Ben Toumia, Christian Berger and Hans P. Reiser
 - Using SGX for Meta-Transactions Support in Ethereum DApps <br/> by Emanuel Onica and Ciprian Amariei
 - Understanding Cryptocoins Trends Correlations (Work-in-Progress Paper) <br/> by Pasquale De Rosa and Valerio Schiavoni
 
 ### Session 2: Fault Tolerance
-<!-- *(session chair: )* -->
+*(session chair: Valerio Schiavoni)*
+
 - Lesser Evil: Embracing Failure to Protect Overall System Availability <br/> by Viktória Fördős and Alexandre Jorge Barbosa Rodrigues
 - Failure Root Cause Analysis for Microservices, Explained <br/> by Jacopo Soldani, Stefano Forti and Antonio Brogi
 
 ### Session 3: Trusted Execution, Deep Learning, and IoT
-<!-- *(session chair: )* -->
+*(session chair: Claudio Antares Mezzina)*
+
 - Attestation Mechanisms for Trusted Execution Environments Demystified <br/> by Jämes Ménétrey, Christian Göttel, Anum Khurshid, Marcelo Pasin, Pascal Felber, Valerio Schiavoni and Shahid Raza
 - Accelerate Model Parallel Deep Learning Training Using Effective Graph Traversal Order in Device Placement <br/> by Tianze Wang, Amir H. Payberah, Desta Haileselassie Hagos and Vladimir Vlassov
 - Analysis of the impact of IoT protocols and interaction patterns on energy consumption for IoT consumer applications <br/> by Rodrigo Canek, Chantal Taconet and Pedro Borges
 
 ### Session 4: Elastic and Scalable Systems
-<!-- *(session chair: )* -->
+*(session chair: Arian Baloochestani)*
 
 - The HDFS Replica Placement Policies: a comparative experimental investigation <br/> by Rhauani Fazul and Patrícia Pitthan
 - An Elastic and Scalable Topic-based Pub/Sub System using Deep Reinforcement Learning <br/> Thanos Giannakopoulos and Vana Kalogeraki
