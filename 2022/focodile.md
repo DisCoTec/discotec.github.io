@@ -88,7 +88,6 @@ More info can be found to the [registration page](https://www.discotec.org/2022/
 | *16.30 - 16.45* | A Security Analysis of Avalanche |  Ignacio Amores Sesar, Christian Cachin and Enrico Tedeschi |
 | *16.45 - 17.00* | Hyperledger Fabric attacks mitigation  |  Remo Pareschi, Federico Zappone, Francesco Salzano and Pierluigi Di Pilla |
 | *17.00 - 17.15* | A Critique of Inflationary Validator Rewards and Consensus for Proof-of-Stake Systems  |  Harry Halpin |
-| *17.15 - 17.30* | The road to sustainable yield through cheaper, faster networks  | Nikitas Christodoulakis CEO@FLR Finance |
 | *19.00 - 20.00* | *Welcome reception* | *Welcome reception* |
 
 ## Keynote speaker
