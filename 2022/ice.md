@@ -6,9 +6,7 @@ Interaction and Concurrency Experiences (ICE) is a series of international scien
 
 **COVID-19:** ICE 2022 will be a physical, in-person event, with some support for remote presence, both for speakers and for other participants who are unable or unwilling to come.
 
-See the [**ICE 2022 programme**](#programme).
-
-You can also download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pdf).
+See the [**ICE 2022 programme and pre-proceedings**](#programme-and-pre-proceedings).
 
 ## Highlights
 
@@ -42,7 +40,9 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
   * Synthesis techniques
 
 
-## Programme
+## Programme and Pre-proceedings
+
+You can download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pdf).
 
 | Time CEST   | Session | Talk |
 | ------------| ------- | ---- |
