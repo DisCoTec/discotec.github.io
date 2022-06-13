@@ -8,9 +8,7 @@ Interaction and Concurrency Experiences (ICE) is a series of international scien
 
 See the [**ICE 2022 programme**](#programme).
 
-<!--
 You can also download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pdf).
--->
 
 ## Highlights
 
@@ -60,7 +58,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 | **14:30-15:30** | **Invited talk** | [**Ilaria Castellani (INRIA)**: _Relating global and local specifications in a core multiparty session calculus_](#ilaria-castellani)
 | 15:30-16:00 | Monitoring | Matteo Cimini: _Lang-n-Send Extended: Sending Regular Expressions to Monitors_ |
 | **16:00-16:30** | **Coffee break** | |
-| 16:30-16:50 | Oral communications | Marco Bernardo, Claudio Mezzina: _The NiRvAna project: Noninterference and Reversibility Analysis in Private Blockchains_ |
+| 16:30-16:50 | Oral communications | Marco Bernardo, Claudio Antares Mezzina: _The NiRvAna project: Noninterference and Reversibility Analysis in Private Blockchains_ |
 | 16:50-17:10 |                     | Michele Loreti, Michela Quadrini: _A Framework for Modeling Behaviour of Aggregated Agents_ |
 | 17:10-17:40 | Discussion | _The ICE Workshop: Past, Present, and Future_ |
 | 17:40-17:50 | Conclusion | |
