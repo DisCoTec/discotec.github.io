@@ -48,7 +48,7 @@
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break*|
 | | [Session 2: Aggregate Computing](#session-2-aggregate-computing) | [Session 2: Fault Tolerance](#session-2-fault-tolerance) | [Session 2: Monitoring and Program Verification](#session-2-monitoring-and-program-verification) |
 | **15.00 - 15.30** | [Extensible 3D Simulation of Aggregated Systems with FCPP](#session-2-aggregate-computing) | [Lesser Evil: Embracing Failure to Protect Overall System Availability](#session-2-fault-tolerance) | [Monitoring Hyperproperties with Circuits (Short paper)](#session-2-monitoring-and-program-verification) |
-| **15.30 - 16.00** | [Towards Reinforcement Learning-based Aggregate Computing](#session-2-aggregate-computing) | [Failure Root Cause Analysis for Microservices, Explained](#session-2-fault-tolerance) | [Monitoring of scattered uncertain logs using uncertain linear dynamical systems](#session-2-monitoring-and-program-verification) |
+| **15.30 - 16.00** | [Towards Reinforcement Learning-based Aggregate Computing](#session-2-aggregate-computing) | [Failure Root Cause Analysis for Microservices, Explained](#session-2-fault-tolerance) | [Offline and Online Monitoring of scattered uncertain logs using uncertain linear dynamical systems](#session-2-monitoring-and-program-verification) |
 | **16.00 - 16.30** | [Space-fluid Adaptive Sampling: a Field-based, Self-organising Approach](#session-2-aggregate-computing) | - | [Computing Race Variants in Message-Passing Concurrent Programming with Selective Receives](#session-2-monitoring-and-program-verification) | 
 | *16.30 - 17.00* | *networking coffee* | *networking coffee* | *networking coffee*|
 
@@ -197,28 +197,28 @@
 ### Session 1: Blockchains & Cryptocurrencies
 *(session chair: Marcelo Pasin)*
 
-- Evaluating Blockchain Application Requirements and their Satisfaction in Hyperledger Fabric <br/> by Sadok Ben Toumia, Christian Berger and Hans P. Reiser
-- Using SGX for Meta-Transactions Support in Ethereum DApps <br/> by Emanuel Onica and Ciprian Amariei
-- Understanding Cryptocoins Trends Correlations (Work-in-Progress Paper) <br/> by Pasquale De Rosa and Valerio Schiavoni
+- [Evaluating Blockchain Application Requirements and their Satisfaction in Hyperledger Fabric](https://drive.google.com/file/d/1z7thPAGZgx1o3pQJ-Qp0FZwdNCXTTgHL/view?usp=sharing) <br/> by Sadok Ben Toumia, Christian Berger and Hans P. Reiser
+- [Using SGX for Meta-Transactions Support in Ethereum DApps](https://drive.google.com/file/d/18h9n06cHWmL5n54wBDZ_pnSYITfZQWe5/view?usp=sharing) <br/> by Emanuel Onica and Ciprian Amariei
+- [Understanding Cryptocoins Trends Correlations (Work-in-Progress Paper)](https://drive.google.com/file/d/1Ugd6BaF1TlgQqCqjwdVpsq78cadQWmkl/view?usp=sharing) <br/> by Pasquale De Rosa and Valerio Schiavoni
 
 ### Session 2: Fault Tolerance
 *(session chair: Valerio Schiavoni)*
 
-- Lesser Evil: Embracing Failure to Protect Overall System Availability <br/> by Viktória Fördős and Alexandre Jorge Barbosa Rodrigues
-- Failure Root Cause Analysis for Microservices, Explained <br/> by Jacopo Soldani, Stefano Forti and Antonio Brogi
+- [Lesser Evil: Embracing Failure to Protect Overall System Availability](https://drive.google.com/file/d/1vjMkNjyBObasRkuOM8CMnoggIh6bLtW7/view?usp=sharing) <br/> by Viktória Fördős and Alexandre Jorge Barbosa Rodrigues
+- [Failure Root Cause Analysis for Microservices, Explained](https://drive.google.com/file/d/1nm8NxJgHFu6y8Dsr2otAGX3SSq0dnzKI/view?usp=sharing) <br/> by Jacopo Soldani, Stefano Forti and Antonio Brogi
 
 ### Session 3: Trusted Execution, Deep Learning, and IoT
 *(session chair: Claudio Antares Mezzina)*
 
-- Attestation Mechanisms for Trusted Execution Environments Demystified <br/> by Jämes Ménétrey, Christian Göttel, Anum Khurshid, Marcelo Pasin, Pascal Felber, Valerio Schiavoni and Shahid Raza
-- Accelerate Model Parallel Deep Learning Training Using Effective Graph Traversal Order in Device Placement <br/> by Tianze Wang, Amir H. Payberah, Desta Haileselassie Hagos and Vladimir Vlassov
-- Analysis of the impact of IoT protocols and interaction patterns on energy consumption for IoT consumer applications <br/> by Rodrigo Canek, Chantal Taconet and Pedro Borges
+- [Attestation Mechanisms for Trusted Execution Environments Demystified](https://drive.google.com/file/d/1LtZq0ApGXVMIWTZy06yZxWejiu7TRqtc/view?usp=sharing) <br/> by Jämes Ménétrey, Christian Göttel, Anum Khurshid, Marcelo Pasin, Pascal Felber, Valerio Schiavoni and Shahid Raza
+- [Accelerate Model Parallel Deep Learning Training Using Effective Graph Traversal Order in Device Placement](https://drive.google.com/file/d/1BYjIeT-T2A2sv9Ya_93IZf67z3hS29GT/view?usp=sharing) <br/> by Tianze Wang, Amir H. Payberah, Desta Haileselassie Hagos and Vladimir Vlassov
+- [Analysis of the impact of IoT protocols and interaction patterns on energy consumption for IoT consumer applications](https://drive.google.com/file/d/1QcAqpTnFRg-z7Kbxcnol7Eh61rwlrEYg/view?usp=sharing) <br/> by Rodrigo Canek, Chantal Taconet and Pedro Borges
 
 ### Session 4: Elastic and Scalable Systems
 *(session chair: Arian Baloochestani)*
 
-- The HDFS Replica Placement Policies: a comparative experimental investigation <br/> by Rhauani Fazul and Patrícia Pitthan
-- An Elastic and Scalable Topic-based Pub/Sub System using Deep Reinforcement Learning <br/> Thanos Giannakopoulos and Vana Kalogeraki
+- [The HDFS Replica Placement Policies: a comparative experimental investigation](https://drive.google.com/file/d/1YQ7YfYka7Pgj_eHX_ccXKydP7UYJbE64/view?usp=sharing) <br/> by Rhauani Fazul and Patrícia Pitthan
+- [An Elastic and Scalable Topic-based Pub/Sub System using Deep Reinforcement Learning](https://drive.google.com/file/d/1emBSkx17Cpj-KnINLuA9nHMA0TLotK82/view?usp=sharing) <br/> Thanos Giannakopoulos and Vana Kalogeraki
 
 
 ## FORTE programme
@@ -226,29 +226,29 @@
 ### Session 1: Process Calculi and Session Types
 *(session chair: Anna Philippou)*
 
-- Encodability Criteria for Quantum Based Systems <br/> by  Anna Schmitt, Kirstin Peters and Yuxin Deng 
-- The Reversible Temporal Process Language <br/> by Laura Bocchi, Ivan Lanese, Claudio Antares Mezzina and Shoji Yuen
-- Fault-Tolerant Multiparty Session Types <br/> by Kirstin Peters, Uwe Nestmann and Christoph Wagner
+- [Encodability Criteria for Quantum Based Systems](https://doi.org/10.1007/978-3-031-08679-3_10) <br/> by  Anna Schmitt, Kirstin Peters and Yuxin Deng 
+- [The Reversible Temporal Process Language](https://doi.org/10.1007/978-3-031-08679-3_3) <br/> by Laura Bocchi, Ivan Lanese, Claudio Antares Mezzina and Shoji Yuen
+- [Fault-Tolerant Multiparty Session Types](https://doi.org/10.1007/978-3-031-08679-3_7) <br/> by Kirstin Peters, Uwe Nestmann and Christoph Wagner
 
 
 ### Session 2: Monitoring and Program Verification
 *(session chair:  Claudio Antares Mezzina)*
 
-- Monitoring Hyperproperties with Circuits (Short paper) <br/> by Elli Anastasiadi, Luca Aceto, Antonis Achilleos and Adrian Francalanza
-- Monitoring of scattered uncertain logs using uncertain linear dynamical systems <br/> by Bineet Ghosh and Étienne André
-- Computing Race Variants in Message-Passing Concurrent Programming with Selective Receives <br/> by German Vidal
+- [Monitoring Hyperproperties with Circuits (Short paper)](https://doi.org/10.1007/978-3-031-08679-3_1) <br/> by Elli Anastasiadi, Luca Aceto, Antonis Achilleos and Adrian Francalanza
+- [Offline and Online Monitoring of scattered uncertain logs using uncertain linear dynamical systems](https://doi.org/10.1007/978-3-031-08679-3_5) <br/> by Bineet Ghosh and Étienne André
+- [Computing Race Variants in Message-Passing Concurrent Programming with Selective Receives](https://doi.org/10.1007/978-3-031-08679-3_12) <br/> by German Vidal
 
 ### Session 3: State-space reduction
 *(session chair: Étienne André)*
 
-- LTL under reductions with weaker conditions than stutter-invariance <br/> by Yann Thierry-Mieg, Emmanuel Paviot-Adet, Etienne Renault and Denis Poitrenaud
-- Effective Reductions of Mealy Machines <br/> by Florian Renkin, Philipp Schlehuber-Caissier, Alexandre Duret-Lutz and Adrien Pommellet
+- [LTL under reductions with weaker conditions than stutter-invariance](https://doi.org/10.1007/978-3-031-08679-3_11) <br/> by Yann Thierry-Mieg, Emmanuel Paviot-Adet, Etienne Renault and Denis Poitrenaud
+- [Effective Reductions of Mealy Machines](https://doi.org/10.1007/978-3-031-08679-3_8) <br/> by Florian Renkin, Philipp Schlehuber-Caissier, Alexandre Duret-Lutz and Adrien Pommellet
 
 ### Session 4: Verification and Semantics
 *(session chair: Adrian Francalanza)*
 
-- Process Algebra Can Save Lives: Static Analysis of XACML Access Control Policies using mCRL2 <br/> by Hamed Arshad, Ross Horne, Christian Johansen, Olaf Owe and Tim Willemse
-- Branch-Well-Structured Transition Systems and Extensions <br/> by Benedikt Bollig, Alain Finkel and Amrita Suresh
-- Co-engineering safety-security using statistical model checking (Journal - First) <br/> by Rajesh Kumar, Rohan Kela, Siddhant Singh and Bhavesh Narra
+- [Process Algebra Can Save Lives: Static Analysis of XACML Access Control Policies using mCRL2](https://doi.org/10.1007/978-3-031-08679-3_2) <br/> by Hamed Arshad, Ross Horne, Christian Johansen, Olaf Owe and Tim Willemse
+- [Branch-Well-Structured Transition Systems and Extensions](https://doi.org/10.1007/978-3-031-08679-3_4) <br/> by Benedikt Bollig, Alain Finkel and Amrita Suresh
+- [Co-engineering safety-security using statistical model checking (Journal - First)](https://doi.org/10.1007/978-3-031-08679-3_6) <br/> by Rajesh Kumar, Rohan Kela, Siddhant Singh and Bhavesh Narra
 
 
