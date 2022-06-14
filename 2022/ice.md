@@ -4,13 +4,9 @@
 
 Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. ICE 2022 is a satellite workshop of [DisCoTec 2022](https://www.discotec.org/2022/), held on 17 June 2022.
 
-**COVID-19:** ICE 2022 is planned as a physical, in-person event, with certain support for remote presence, both for speakers and for other participants who are unable or unwilling to come. Depending on the pandemic situation, we may have to make a decision whether to cancel the physical component of the event or not.
+**COVID-19:** ICE 2022 will be a physical, in-person event, with some support for remote presence, both for speakers and for other participants who are unable or unwilling to come.
 
-See the [**ICE 2022 programme**](#programme).
-
-<!--
-You can also download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pdf).
--->
+See the [**ICE 2022 programme and pre-proceedings**](#programme-and-pre-proceedings).
 
 ## Highlights
 
@@ -44,7 +40,9 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
   * Synthesis techniques
 
 
-## Programme
+## Programme and Pre-proceedings
+
+You can download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pdf).
 
 | Time CEST   | Session | Talk |
 | ------------| ------- | ---- |
@@ -60,7 +58,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 | **14:30-15:30** | **Invited talk** | [**Ilaria Castellani (INRIA)**: _Relating global and local specifications in a core multiparty session calculus_](#ilaria-castellani)
 | 15:30-16:00 | Monitoring | Matteo Cimini: _Lang-n-Send Extended: Sending Regular Expressions to Monitors_ |
 | **16:00-16:30** | **Coffee break** | |
-| 16:30-16:50 | Oral communications | Marco Bernardo, Claudio Mezzina: _The NiRvAna project: Noninterference and Reversibility Analysis in Private Blockchains_ |
+| 16:30-16:50 | Oral communications | Marco Bernardo, Claudio Antares Mezzina: _The NiRvAna project: Noninterference and Reversibility Analysis in Private Blockchains_ |
 | 16:50-17:10 |                     | Michele Loreti, Michela Quadrini: _A Framework for Modeling Behaviour of Aggregated Agents_ |
 | 17:10-17:40 | Discussion | _The ICE Workshop: Past, Present, and Future_ |
 | 17:40-17:50 | Conclusion | |
