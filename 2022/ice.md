@@ -168,7 +168,7 @@ Use `ice22 (at) googlegroups.com` to reach all the ICEcreamers at once.
 - [Julien Lange](https://www.cs.rhul.ac.uk/~jlange) (Royal Holloway, University of London, GB)
 - [Sergueï Lenglet](https://members.loria.fr/SLenglet/) (Université de Lorraine, FR)
 - [Diego Marmsoler](https://www.marmsoler.com/) (University of Exeter, GB)
-- Doriana Medić (University of Turin, IT)
+- [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) (University of Turin, IT)
 - [Kirstin Peters](https://www.informatik.tu-darmstadt.de/fb20/organisation_fb20/professuren_und_gruppenleitungen/fb20professuren_und_gruppenleitungen_detailseite_84096.en.jsp) (Technischen Universität Darmstadt, GE)
 - [Ivan Prokić](http://imft.ftn.uns.ac.rs/~iprokic/Main) (Faculty of Technical Sciences, University of Novi Sad, RS)
 - [Matteo Sammartino](https://matteosammartino.com/) (Royal Holloway, University of London, GB)
