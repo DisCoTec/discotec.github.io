@@ -107,6 +107,7 @@
 | **17.00 - 17.05** | **DisCoTec 2023 <br/> (Cappella Guinigi)**  | **DisCoTec 2023 <br/> (Cappella Guinigi)** | **DisCoTec 2023 <br/> (Cappella Guinigi)** |
 || **DisCoTec Invited Talk <br/> (Cappella Guinigi)**  | **DisCoTec Invited Talk <br/> (Cappella Guinigi)** | **DisCoTec Invited Talk <br/> (Cappella Guinigi)** |
 | **17.05 - 18.00** | [Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) | [Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) | [Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) |
+
 <br/>
 
 ## Friday June 17
