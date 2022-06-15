@@ -44,6 +44,9 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 You can download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pdf).
 
+*All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
+
+
 | Time CEST   | Session | Talk |
 | ------------| ------- | ---- |
 | 9:00-9:10   | Opening | _Welcome to ICE 2022_ |
