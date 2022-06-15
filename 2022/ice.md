@@ -40,7 +40,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
   * Synthesis techniques
 
 
-## Programme and Pre-proceedings
+## Programme and Pre-proceedings {#programme}
 
 You can download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pdf).
 
@@ -55,8 +55,7 @@ You can download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pdf).
 | 12:00-12:30 |                      | Luc Edixhoven, Guillermina Cledou, José Proença, Sung-Shik Jongmans: _Branching pomsets for choreographies_ |
 | 12:30-13:00 |                      | Franco Barbanera, Ivan Lanese, Emilio Tuosto: _On Composing Communicating Systems_ |
 | **13:00-14:30** | **Lunch break** | |
-| **14:30-15:30** | **Invited talk** | [**Ilaria Castellani (INRIA)**: _Global types and event structure semantics for asynchronous multiparty sessions
-_](#ilaria-castellani)
+| **14:30-15:30** | **Invited talk** | [**Ilaria Castellani (INRIA)**: _Global types and event structure semantics for asynchronous multiparty sessions_](#ilaria-castellani)
 | 15:30-16:00 | Monitoring | Matteo Cimini: _Lang-n-Send Extended: Sending Regular Expressions to Monitors_ |
 | **16:00-16:30** | **Coffee break** | |
 | 16:30-16:50 | Oral communications | Marco Bernardo, Claudio Antares Mezzina: _The NiRvAna project: Noninterference and Reversibility Analysis in Private Blockchains_ |
