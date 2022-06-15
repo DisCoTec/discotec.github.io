@@ -152,7 +152,6 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * [Alceste Scalas](https://www.imm.dtu.dk/~alcsc/) (Technical University of Denmark, DK) - `alcsc (at) dtu.dk`
 
 Use `ice22 (at) googlegroups.com` to reach all the ICEcreamers at once.
-,
 
 ## Programme Committee {#programme-committee}
 
