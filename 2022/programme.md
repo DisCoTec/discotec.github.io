@@ -143,15 +143,15 @@
 
 #### Coordination Best Paper
 
-- A Monitoring Tool for Linear-Time μHML <br/> by Luca Aceto, Antonis Achilleos, Duncan Paul Attard, Léo Exibard, Adrian Francalanza and Anna Ingólfsdóttir
+- [A Monitoring Tool for Linear-Time μHML](https://doi.org/10.1007/978-3-031-08143-9_12) <br/> by Luca Aceto, Antonis Achilleos, Duncan Paul Attard, Léo Exibard, Adrian Francalanza and Anna Ingólfsdóttir
 
 #### DAIS Best Paper
 
-- Rebop: Reputation-based Incentives in Committee-based Blockchains <br/> by Arian Baloochestani, Leander Jehl and Hein Meling
+- [Rebop: Reputation-based Incentives in Committee-based Blockchains](https://drive.google.com/file/d/1pX7a4V6Z8nvTJRwDDxGJAmwPrKMD735k/view?usp=sharing) <br/> by Arian Baloochestani, Leander Jehl and Hein Meling
 
 #### FORTE Best Paper
 
-- Traits: Correctness-by-Construction for Free by <br/> Tobias Runge, Alex Potanin, Thomas Thüm and Ina Schaefer
+- [Traits: Correctness-by-Construction for Free](https://doi.org/10.1007/978-3-031-08679-3_9) by <br/> Tobias Runge, Alex Potanin, Thomas Thüm and Ina Schaefer
 
 ## DisCoTec Artefacts (Cappella Guinigi)
 *(session chair: Maurice ter Beek)*
@@ -167,29 +167,29 @@
 ### Session 1: Timed, Probabilistic, and Collective Systems
 *(session chair: Mirko Viroli)*
 
-- MIMOS: A Deterministic Model for the Design and Update of Real-Time Systems <br/> by Wang Yi, Morteza Mohaqeqi and Susanne Graf 
-- A Sound Up-to-n,delta Bisimilarity for PCTL <br/> by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino  
-- Sibilla: A Tool for Reasoning about Collective Systems <br/> by Nicola Del Giudice, Lorenzo Matteucci, Michela Quadrini, Aniqa Rehman and Michele Loreti
+- [MIMOS: A Deterministic Model for the Design and Update of Real-Time Systems](https://doi.org/10.1007/978-3-031-08143-9_2) <br/> by Wang Yi, Morteza Mohaqeqi and Susanne Graf 
+- [A Sound Up-to-n,delta Bisimilarity for PCTL](https://doi.org/10.1007/978-3-031-08143-9_3) <br/> by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino  
+- [Sibilla: A Tool for Reasoning about Collective Systems](https://doi.org/10.1007/978-3-031-08143-9_6) <br/> by Nicola Del Giudice, Lorenzo Matteucci, Michela Quadrini, Aniqa Rehman and Michele Loreti
 
 ### Session 2: Aggregate Computing
 *(session chair: Emilio Tuosto)*
 
-- Extensible 3D Simulation of Aggregated Systems with FCPP <br/> by Giorgio Audrito, Luigi Rapetta and Gianluca Torta
-- Towards Reinforcement Learning-based Aggregate Computing <br/> by Gianluca Aguzzi, Roberto Casadei and Mirko Viroli
-- Space-fluid Adaptive Sampling: a Field-based, Self-organising Approach <br/> by Roberto Casadei, Stefano Mariani, Danilo Pianini, Mirko Viroli and Franco Zambonelli
+- [Extensible 3D Simulation of Aggregated Systems with FCPP](https://doi.org/10.1007/978-3-031-08143-9_4) <br/> by Giorgio Audrito, Luigi Rapetta and Gianluca Torta
+- [Towards Reinforcement Learning-based Aggregate Computing](https://doi.org/10.1007/978-3-031-08143-9_5) <br/> by Gianluca Aguzzi, Roberto Casadei and Mirko Viroli
+- [Space-fluid Adaptive Sampling: a Field-based, Self-organising Approach](https://doi.org/10.1007/978-3-031-08143-9_7) <br/> by Roberto Casadei, Stefano Mariani, Danilo Pianini, Mirko Viroli and Franco Zambonelli
 
 ### Session 3: Processes and Languages
 *(session chair: Michele Loreti)*
 
--  Formal Choreographic Languages <br/> by Franco Barbanera, Ivan Lanese and Emilio Tuosto
-- A Model of Actors and Grey Failures <br/> by Laura Bocchi, Julien Lange, Simon Thompson and A. Laura Voinea 
-- Soft Concurrent Constraint Programming with Local Variables <br/> by Laura Bussi, Fabio Gadducci and Francesco Santini
+- [Formal Choreographic Languages](https://doi.org/10.1007/978-3-031-08143-9_8) <br/> by Franco Barbanera, Ivan Lanese and Emilio Tuosto
+- [A Model of Actors and Grey Failures](https://doi.org/10.1007/978-3-031-08143-9_9) <br/> by Laura Bocchi, Julien Lange, Simon Thompson and A. Laura Voinea 
+- [Soft Concurrent Constraint Programming with Local Variables](https://doi.org/10.1007/978-3-031-08143-9_10) <br/> by Laura Bussi, Fabio Gadducci and Francesco Santini
 
 ### Session 4: Runtime Verification, Monitor Synthesis, and Microservices
 *(session chair: Narges Khakpour)*
 
-- A Synthesis Tool for Optimal Monitors in a Branching-Time Setting <br/> by Antonis Achilleos, Léo Exibard, Adrian Francalanza, Karoliina Lehtinen and Jasmine Xuereb
-- Model-Driven Generation of Microservice Interfaces: From LEMMA Domain Models to Jolie APIs <br/> by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti and Florian Rademacher
+- [A Synthesis Tool for Optimal Monitors in a Branching-Time Setting](https://doi.org/10.1007/978-3-031-08143-9_11) <br/> by Antonis Achilleos, Léo Exibard, Adrian Francalanza, Karoliina Lehtinen and Jasmine Xuereb
+- [Model-Driven Generation of Microservice Interfaces: From LEMMA Domain Models to Jolie APIs](https://doi.org/10.1007/978-3-031-08143-9_13) <br/> by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti and Florian Rademacher
 
 
 ## DAIS programme

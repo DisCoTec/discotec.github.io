@@ -10,6 +10,7 @@
 
  I attended the first FORTE conference in Scotland in 1988, and have published in several FORTE conferences since then.  Over the past 34 years the field has changed!  Using six example applications, from 1989 to 2020, I reflect on how my own research in fundamental theory, models, and tools for distributed systems has evolved, and where we might focus  research in the future.
 
+
 ### Biography
 
  Dame Muffy Calder is a Professor of Computing Science and  Vice-Principal and Head of College of Science and Engineering, University of Glasgow. Previously she was the Chief Scientific Adviser for Scotland.  Her research interests are in computational modelling and automated reasoning for complex, interactive, and sensor-driven systems.  She is a member of the UK Prime Minister’s Council for Science and Technology, and she attended the very first FORTE conference in 1988.
@@ -33,6 +34,7 @@ while protecting privacy. The results come from learning the hard way: having ru
 experiments extensively over the past years, we have gradually gained considerable
 insight in what is possible and what may lie ahead.
 
+[Link to the paper](https://drive.google.com/file/d/1OubspEnmaCBX3wXTpmiKNi45rjBwPGVX/view?usp=sharing)
 
 ### Biography
 MAARTEN VAN STEEN is professor at the University of Twente, where he
@@ -63,6 +65,8 @@ Moshe Y. Vardi Home page: <http://www.cs.rice.edu/~vardi>
 ### Formal Methods for Socio-Technical Security (Formal and Automated Analysis of Security Ceremonies)
 
 Software engineers and analysts traditionally focus on cyber systems as technical systems, which are built only from software processes, communication protocols, crypto algorithms, etc. They often neglect, or choose not, to consider the human user as a component of the system’s security as they lack the expertise to fully understand human factors and how they affect security. However, humans should not be designed out of the security loop. Instead, we must deal with security assurance as a true socio-technical problem rather than a mere technical one, and consider cyber systems as socio-technical systems with people at their hearts. The main goal of this talk is to advocate the use of formal methods to establish the security of socio-technical systems, and to discuss some of the most promising approaches, including those that I have helped develop.    
+
+[Link to the paper](https://doi.org/10.1007/978-3-031-08143-9_1)
 
 ### Biography
 

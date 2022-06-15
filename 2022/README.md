@@ -112,7 +112,7 @@ Trusted Execution Environments
 
 ## Proceedings
 The proceedings of the conferences are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. These shall be open access from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
-* COORDINATION: [LNCS13271](https://link.springer.com/book/9783031081453). [Here](https://www.dropbox.com/sh/1bb3bjytuno8nvl/AAAMXHB2HzzmuV_V6ZC-8h0ma?dl=0) you can access author final version of the papers.
+* COORDINATION: [LNCS13271](https://link.springer.com/book/9783031081453)
 * DAIS: [LNCS13272](dais-informal-procs/)
 * FORTE: [LNCS13273](https://link.springer.com/book/9783031086809)
 
