@@ -75,8 +75,8 @@
 | **15.30 - 16.00** | [A Model of Actors and Grey Failures](#session-3-processes-and-languages) | [Accelerate Model Parallel Deep Learning Training Using Effective Graph Traversal Order in Device Placement](#session-3-trusted-execution-deep-learning-and-iot) | [Effective Reductions of Mealy Machines](#session-3-state-space-reduction) |
 | **16.00 - 16.30** | [Soft Concurrent Constraint Programming with Local Variables](#session-3-processes-and-languages) | [Analysis of the impact of IoT protocols and interaction patterns on energy consumption for IoT consumer applications](#session-3-trusted-execution-deep-learning-and-iot) | - |
 | *16.30 - 17.00* | *networking coffee*| *networking coffee* | *networking coffee* |
-| *18.00 - 20.00* | *social event* | *social event* | *social event* |
-| *20.00 - 22.00* | *social dinner* | *social dinner* | *social dinner* |
+| *18.00 - 20.00* | *Social event event - guided tour of Lucca*<br/>*Meeting point Piazza San Francesco* | *Social event event - guided tour of Lucca*<br/>*Meeting point Piazza San Francesco* | *Social event event - guided tour of Lucca*<br/>*Meeting point Piazza San Francesco* |
+| *20.00 - 22.00* | *Social dinner @ Ristorante Mecenate* <br/> *Via del Fosso, 94* | *Social dinner @ Ristorante Mecenate* <br/> *Via del Fosso, 94* | *Social dinner @ Ristorante Mecenate* <br/> *Via del Fosso, 94* |
 
 <br/>
 
@@ -106,7 +106,6 @@
 | *16.30 - 17.00* | *networking coffee* | *networking coffee* | *networking coffee* |
 || **DisCoTec Invited Talk <br/> (Cappella Guinigi)**  | **DisCoTec Invited Talk <br/> (Cappella Guinigi)** | **DisCoTec Invited Talk <br/> (Cappella Guinigi)** |
 | **17.00 - 18.00** | [Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) | [Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) | [Moshe Y. Vardi: Lessons from Texas, COVID-19 and the 737 Max: Efficiency vs Resilience](invited#moshe-y-vardi) |
-
 <br/>
 
 ## Friday June 17
