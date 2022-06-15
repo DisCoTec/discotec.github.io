@@ -55,7 +55,8 @@ You can download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pdf).
 | 12:00-12:30 |                      | Luc Edixhoven, Guillermina Cledou, José Proença, Sung-Shik Jongmans: _Branching pomsets for choreographies_ |
 | 12:30-13:00 |                      | Franco Barbanera, Ivan Lanese, Emilio Tuosto: _On Composing Communicating Systems_ |
 | **13:00-14:30** | **Lunch break** | |
-| **14:30-15:30** | **Invited talk** | [**Ilaria Castellani (INRIA)**: _Relating global and local specifications in a core multiparty session calculus_](#ilaria-castellani)
+| **14:30-15:30** | **Invited talk** | [**Ilaria Castellani (INRIA)**: _Global types and event structure semantics for asynchronous multiparty sessions
+_](#ilaria-castellani)
 | 15:30-16:00 | Monitoring | Matteo Cimini: _Lang-n-Send Extended: Sending Regular Expressions to Monitors_ |
 | **16:00-16:30** | **Coffee break** | |
 | 16:30-16:50 | Oral communications | Marco Bernardo, Claudio Antares Mezzina: _The NiRvAna project: Noninterference and Reversibility Analysis in Private Blockchains_ |
@@ -80,12 +81,13 @@ His research focusses on Concurrency and Ownership, with a particular focus on m
 
 ### Ilaria Castellani
 
-#### Talk: Relating global and local specifications in a core multiparty session calculus
+#### Talk: Global types and event structure semantics for asynchronous multiparty sessions
 
-> Multiparty session types (MPSTs) are a type discipline for ensuring safe interaction within multiparty sessions. In their original definition, MPSTs consist of two kinds of types: global types, which are global specifications for entire sessions, and local types, which are local specifications for individual participants. The relation between global types and local types is classically expressed using the notion of projection. In this talk, I will focus on a core session calculus without channels, where sessions are defined as networks of sequential processes, and local types coincide with processes. 
-I will review some increasingly permissive MPSTs for this core session calculus, including some recent proposals where global types can be related to local types without resorting to projection.
+> In this talk, I will address the connection between multiparty session types (MPSTs) and event structures (ESs), focussing on a core asynchronous session calculus and on two simple classes of ESs, Prime ESs and Flow ESs. I will first introduce a new notion of global type for asynchronous multiparty sessions, which splits the standard communication construct of MPSTs in two constructs (one for output and one for input), and show that this new typing ensures the expected properties for asynchronous sessions, including progress.
 >
-> This talk is based on joint work with Mariangiola Dezani-Ciancaglini and Paola Giannini.
+> I will then present an interpretation of asynchronous multiparty sessions as Flow ESs and an interpretation of our new global types as Prime ESs. I will conclude with our main result, stating that the ES interpretation of a session is equivalent, when the session is typable, to the ES interpretation of its type, namely, that the two interpretations yield isomorphic domains of configurations.
+>
+> Based on joint work with Mariangiola Dezani-Ciancaglini and Paola Giannini.
 
 #### Biography
 
