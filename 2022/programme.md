@@ -100,7 +100,7 @@
 | | [DisCoTec Artefacts (Cappella Guinigi)](#joint-session-discotec-artefacts) | [DisCoTec Artefacts (Cappella Guinigi)](#joint-session-discotec-artefacts) | [DisCoTec Artefacts (Cappella Guinigi)](#joint-session-discotec-artefacts) |
 | **15.00 - 15.10** | [Opening and presentation of the EAPLS Artefact Badges](#joint-session-discotec-artefacts) | [Opening and presentation of the EAPLS Artefact Badges](#joint-session-discotec-artefacts) | [Opening and presentation of the EAPLS Artefact Badges](#joint-session-discotec-artefacts) |
 | **15.10 - 15.20** | [The Science of Computer Programming track on Original Software Publications](#joint-session-discotec-artefacts) | [The Science of Computer Programming track on Original Software Publications](#joint-session-discotec-artefacts) | [The Science of Computer Programming track on Original Software Publications](#joint-session-discotec-artefacts) |
-| **15:20 - 15:25** | [Announcement of DisCoTec best tool award winner](#joint-session-discotec-artefacts) | [Announcement of DisCoTec best tool award winner](#joint-session-discotec-artefacts) | [Announcement of DisCoTec best tool award winner](#joint-session-discotec-artefacts) | 
+| **15:20 - 15:25** | [Announcement of DisCoTec best tool award winners](#joint-session-discotec-artefacts) | [Announcement of DisCoTec best tool award winner](#joint-session-discotec-artefacts) | [Announcement of DisCoTec best tool award winners](#joint-session-discotec-artefacts) | 
 | **15.25 - 16.00** | [Birds of a Feather session on software artefacts and replication issues](#joint-session-discotec-artefacts) | [Birds of a Feather session on software artefacts and replication issues](#joint-session-discotec-artefacts) | [Birds of a Feather session on software artefacts and replication issues](#joint-session-discotec-artefacts) |
 | **16.00 - 16.30** | [Artefact demonstrations](#joint-session-discotec-artefacts) | [Artefact demonstrations](#joint-session-discotec-artefacts) | [Artefact demonstrations](#joint-session-discotec-artefacts) | 
 | *16.30 - 17.00* | *networking coffee* | *networking coffee* | *networking coffee* |
@@ -158,7 +158,7 @@
 *(session chair: Maurice ter Beek)*
 - Opening and presentation of the EAPLS Artefact Badges <br/> by Ferruccio Damiani
 - The Science of Computer Programming track on Original Software Publications <br/> by Mohammad Mousavi
-- Announcement of DisCoTec best tool award winner <br/> by Maurice ter Beek
+- [Announcement of DisCoTec best tool award winners](#discotec-best-artefacts) <br/> by Maurice ter Beek
 - Birds of a Feather session on software artefacts and replication issues <br/> moderated by Ferruccio Damiano, David Eyers, and Anna Philippou
 - Artefact demonstrations
 
@@ -253,3 +253,17 @@
 - [Co-engineering safety-security using statistical model checking (Journal - First)](https://doi.org/10.1007/978-3-031-08679-3_6) <br/> by Rajesh Kumar, Rohan Kela, Siddhant Singh and Bhavesh Narra
 
 
+## DisCoTec Best Artefacts
+*(session chair: Maurice ter Beek)*
+
+#### Coordination Best Artefact
+
+- Extensible 3D Simulation of Aggregated Systems with FCPP <br/> by Giorgio Audrito, Luigi Rapetta and Gianluca Torta
+
+#### DAIS Best Artefact
+
+- Failure Root Cause Analysis for Microservices, Explained <br/> by Jacopo Soldani, Stefano Forti and Antonio Brogi
+
+#### FORTE Best Artefact
+
+- Process Algebra Can Save Lives: Static Analysis of XACML Access Control Policies using mCRL2 <br/> by Hamed Arshad, Ross Horne, Christian Johansen, Olaf Owe and Tim Willemse
