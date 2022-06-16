@@ -6,7 +6,7 @@ Interaction and Concurrency Experiences (ICE) is a series of international scien
 
 **COVID-19:** ICE 2022 will be a physical, in-person event, with some support for remote presence, both for speakers and for other participants who are unable or unwilling to come.
 
-See the [**ICE 2022 programme and pre-proceedings**](#programme-and-pre-proceedings).
+See the [**ICE 2022 programme and pre-proceedings**](#programme).
 
 ## Highlights
 
@@ -43,6 +43,9 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 ## Programme and Pre-proceedings {#programme}
 
 You can download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pdf).
+
+*All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
+
 
 | Time CEST   | Session | Talk |
 | ------------| ------- | ---- |
@@ -149,7 +152,6 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * [Alceste Scalas](https://www.imm.dtu.dk/~alcsc/) (Technical University of Denmark, DK) - `alcsc (at) dtu.dk`
 
 Use `ice22 (at) googlegroups.com` to reach all the ICEcreamers at once.
-,
 
 ## Programme Committee {#programme-committee}
 
