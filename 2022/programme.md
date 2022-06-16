@@ -156,7 +156,7 @@
 
 ## DisCoTec Artefacts (Cappella Guinigi)
 *(session chair: Maurice ter Beek)*
-- Opening and presentation of the EAPLS Artefact Badges <br/> by Ferruccio Damiani
+- Opening and presentation of the [EAPLS Artefact Badges](https://eapls.org/pages/artifact_badges/) <br/> by Ferruccio Damiani
 - The Science of Computer Programming track on Original Software Publications <br/> by Mohammad Mousavi
 - [Announcement of DisCoTec best tool award winners](#discotec-best-artefacts) <br/> by Maurice ter Beek
 - Birds of a Feather session on software artefacts and replication issues <br/> moderated by Ferruccio Damiano, David Eyers, and Anna Philippou
