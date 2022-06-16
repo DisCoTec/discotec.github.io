@@ -44,6 +44,8 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 You can download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pdf).
 
+The talks will take place at **Cappella Guinigi**.
+
 *All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
 
 
