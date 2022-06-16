@@ -114,8 +114,8 @@
 
 ### DisCoTec Workshops
 
-* **BlockTee**: Go to the [programme page](blocktee).
-* **ICE**: Go to the [programme page](ice#programme).
+* **BlockTee** (Refettorio): Go to the [programme page](blocktee).
+* **ICE** (Cappella Guinigi): Go to the [programme page](ice#programme).
 
 <br/><br/>
 
