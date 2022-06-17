@@ -6,7 +6,8 @@ Interaction and Concurrency Experiences (ICE) is a series of international scien
 
 **COVID-19:** ICE 2022 will be a physical, in-person event, with some support for remote presence, both for speakers and for other participants who are unable or unwilling to come.
 
-**ICE 2022 Dinner**: 17 June, **21:30 at Mara Meo** - Piazza San Francesco, Lucca - https://g.page/Mara-Meo-SanFrancesco
+**ICE 2022 Dinner**: 17 June, **21:30 at [Mara Meo](https://g.page/Mara-Meo-SanFrancesco)** - Piazza San Francesco, Lucca.
+_(If you wish to join but have not filled the attendance sheet, please contact `ice22 (at) googlegroups.com`)_
 
 See the [**ICE 2022 programme and pre-proceedings**](#programme).
 
