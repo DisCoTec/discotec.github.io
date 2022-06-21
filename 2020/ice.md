@@ -140,7 +140,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Hugo Torres Vieira (C4 - University of Beira Interior, PT)
   * Laura Voinea (University of Glasgow, UK)
 
-★ **The _ICE 2022 Outstanding PC Member Award_ was awarded to Simon Fowler!**
+★ **The _ICE 2020 Outstanding PC Member Award_ was awarded to Simon Fowler!**
 
 ## Steering Committee
 
