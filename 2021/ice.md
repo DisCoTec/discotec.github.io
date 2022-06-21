@@ -133,11 +133,13 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Maurizio Murgia (University of Trento, IT)
   * Kirstin Peters (TU Darmstadt, DE)
   * Johannes Åman Pohjola (Data61/CSIRO, AU) 
-  * Ivan Prokic (University of Novi Sad, RS)
+  * **Ivan Prokić** (University of Novi Sad, RS) ★
   * Matteo Sammartino (Royal Holloway, University of London, UK)
   * Hugo Torres Vieira (C4 - University of Beira Interior, PT)
   * Laura Voinea (University of Kent, UK)
   * Uma Zalakian (University of Glasgow, UK)
+  
+★ The _ICE 2021 Outstanding PC Member Award_ was awarded to Ivan Prokić!
 
 
 ## Steering Committee

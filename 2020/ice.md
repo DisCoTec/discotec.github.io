@@ -120,7 +120,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Aimée Borda (Trinity College Dublin, IE)
   * Matteo Cimini (University of Massachusetts Lowell, USA)
   * Corina Cirstea (University of Southampton, UK)
-  * Simon Fowler (University of Edinburgh, UK)
+  * **Simon Fowler** (University of Edinburgh, UK) ★
   * Ludovic Henrio (ENS Lyon, FR)
   * Sung-Shik Jongmans (Open University of the Netherlands, NL)
   * Wen Kokke (University of Edinburgh, UK)
@@ -140,6 +140,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Hugo Torres Vieira (C4 - University of Beira Interior, PT)
   * Laura Voinea (University of Glasgow, UK)
 
+★ The _ICE 2022 Outstanding PC Member Award_ was awarded to Simon Fowler!
 
 ## Steering Committee
 

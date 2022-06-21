@@ -160,7 +160,7 @@ Use `ice22 (at) googlegroups.com` to reach all the ICEcreamers at once.
 
 ## Programme Committee {#programme-committee}
 
-- [Duncan Paul Attard](https://duncanatt.github.io/) (Reykjavík University, IS)
+- [**Duncan Paul Attard**](https://duncanatt.github.io/) (Reykjavík University, IS) ★
 - [Massimo Bartoletti](https://tcs.unica.it/members/bart) (Università di Cagliari, IT)
 - [Davide Basile](https://davidebasile.github.io/) (ISTI CNR, IT)
 - [Alex Coto](https://www.gssi.it/people/students/students-computer-science/item/4803-coto-alex) (Gran Sasso Science Institute, IT)
@@ -180,6 +180,8 @@ Use `ice22 (at) googlegroups.com` to reach all the ICEcreamers at once.
 - [Ivan Prokić](http://imft.ftn.uns.ac.rs/~iprokic/Main) (Faculty of Technical Sciences, University of Novi Sad, RS)
 - [Matteo Sammartino](https://matteosammartino.com/) (Royal Holloway, University of London, GB)
 - [Amrita Suresh](https://amritasuresh.github.io/) (ENS Paris Saclay, FR)
+
+★ The _ICE 2022 Outstanding PC Member Award_ was awarded to Duncan Paul Attard!
 
 
 ## Steering Committee
