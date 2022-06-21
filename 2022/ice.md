@@ -181,7 +181,7 @@ Use `ice22 (at) googlegroups.com` to reach all the ICEcreamers at once.
 - [Matteo Sammartino](https://matteosammartino.com/) (Royal Holloway, University of London, GB)
 - [Amrita Suresh](https://amritasuresh.github.io/) (ENS Paris Saclay, FR)
 
-★ The _ICE 2022 Outstanding PC Member Award_ was awarded to Duncan Paul Attard!
+★ **The _ICE 2022 Outstanding PC Member Award_ was awarded to Duncan Paul Attard!**
 
 
 ## Steering Committee

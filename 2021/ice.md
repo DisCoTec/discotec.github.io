@@ -139,7 +139,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
   * Laura Voinea (University of Kent, UK)
   * Uma Zalakian (University of Glasgow, UK)
   
-★ The _ICE 2021 Outstanding PC Member Award_ was awarded to Ivan Prokić!
+★ **The _ICE 2021 Outstanding PC Member Award_ was awarded to Ivan Prokić!**
 
 
 ## Steering Committee
