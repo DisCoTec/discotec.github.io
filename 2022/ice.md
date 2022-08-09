@@ -9,7 +9,7 @@ Interaction and Concurrency Experiences (ICE) is a series of international scien
 **ICE 2022 Dinner**: 17 June, **21:30 at [Mara Meo](https://g.page/Mara-Meo-SanFrancesco)** - Piazza San Francesco, Lucca.
 _(If you wish to join but have not filled the attendance sheet, please contact `ice22 (at) googlegroups.com`)_
 
-See the [**ICE 2022 programme and pre-proceedings**](#programme).
+See the [**ICE 2022 programme and pre-proceedings**](#programme), and [proceedings](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022).
 
 ## Highlights
 
@@ -19,7 +19,7 @@ See the [**ICE 2022 programme and pre-proceedings**](#programme).
   * [Invited speakers](#invited-speakers): 
       - [Ilaria Castellani](#ilaria-castellani) (INRIA, FR)
       - [Matthew Parkinson](#matthew-parkinson) (Microsoft Research, UK)
-  * Publication in [EPTCS](https://eptcs.org/)
+  * Publication in [EPTCS](https://eptcs.org/) as [EPTCS 365](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022)
   * Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
   * Contact: `ice22 (at) googlegroups.com`
 
@@ -46,6 +46,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 ## Programme and Pre-proceedings {#programme}
 
 You can download the [**ICE 2022 pre-proceedings**](ice22-preproceedings.pdf).
+The proceedings are also [available as EPTCS 365](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022).
 
 The talks will take place at **Cappella Guinigi**.
 
@@ -145,6 +146,7 @@ We are keen to enhance the balanced, inclusive and diverse nature of the ICE com
 Accepted research papers and communications must be presented at the workshop by one of the authors.
 
 Accepted research papers will be published after the workshop in [Electronic Proceedings in Theoretical Computer Science](http://about.eptcs.org/).
+(The proceedings have been [published as EPTCS 365](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022).)
 
 We plan to invite authors of selected papers and brief announcements to submit their work in a special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_. Such contributions will be regularly peer-reviewed according to the standard journal policy, but they will be handled in a shorter time than regular submissions. A list of published and in preparation special issues of previous ICE editions is reported below.
 
