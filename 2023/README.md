@@ -63,13 +63,17 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 
 To be announced.
 
-<!--* [Muffy Calder](invited#muffy-calder), University of Glasgow, UK
+<!--
+* [Muffy Calder](invited#muffy-calder), University of Glasgow, UK
 * [Maarten van Steen](invited#maarten-van-steen), University of Twente, NL 
 * [Moshe Y. Vardi](invited#moshe-y-vardi) (Remote), Rice University, USA
-* [Luca Viganò](invited#luca-viganò), King's College London, UK-->
+* [Luca Viganò](invited#luca-viganò), King's College London, UK
+-->
 
-<!--## Accepted Papers
-Go to the [list of accepted papers](accepted-papers)-->
+<!--
+## Accepted Papers
+Go to the [list of accepted papers](accepted-papers)
+-->
 
 ## Satellite Events
 <!--
@@ -94,12 +98,17 @@ DisCoTec 2023 gathers tutorials and workshops that cover a broad spectrum of dis
 
 Pre-conference workshops and tutorials will take place on **Monday, June 19, 2023**, and post-conference workshops on **Friday, June 23, 2023**.
 
-<!--### Tutorials-->
-<!--* [DisCoTec Tutorials](tutorials) -  Tutorial sessions-->
+<!--
+### Tutorials
+* [DisCoTec Tutorials](tutorials) -  Tutorial sessions
+-->
 
-<!--### Workshops-->
+<!--
+### Workshops
+-->
 
-<!--* [BlockTEE 2022](https://www.discotec.org/2022/blocktee) - Workshop on Blockchain Technologies and 
+<!--
+* [BlockTEE 2022](https://www.discotec.org/2022/blocktee) - Workshop on Blockchain Technologies and 
 Trusted Execution Environments
 * [CoMinDs 2022](https://www.discotec.org/2022/cominds) - Workshop on Collaborative Mining for Distributed Systems
 * [FOCODILE 2022](https://www.discotec.org/2022/focodile) - Workshop on the Foundations of Consensus and Distributed Ledgers
@@ -118,9 +127,12 @@ Trusted Execution Environments
 
 ## Proceedings
 The proceedings of the conferences are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. These shall be open access from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
-<!--* COORDINATION: [LNCS13271](https://link.springer.com/book/9783031081453)
+
+<!--
+* COORDINATION: [LNCS13271](https://link.springer.com/book/9783031081453)
 * DAIS: [LNCS13272](dais-informal-procs/)
-* FORTE: [LNCS13273](https://link.springer.com/book/9783031086809)-->
+* FORTE: [LNCS13273](https://link.springer.com/book/9783031086809)
+-->
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
@@ -169,7 +181,9 @@ The individual conferences will organise special issues of extended and selected
 * [António Ravara][AntonioWeb] (NOVA University Lisbon, PT)
 
 
-<!--*  IT — Chair of the Local Organizing Committee)-->
+<!--
+*  IT — Chair of the Local Organizing Committee)
+-->
 
 ## Organising Committee
 * [Carla Ferreira][CarlaWeb] (NOVA University Lisbon, PT — General Chair)
