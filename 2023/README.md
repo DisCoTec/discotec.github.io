@@ -97,7 +97,7 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 <!--### Tutorials-->
 <!--* [DisCoTec Tutorials](tutorials) -  Tutorial sessions-->
 
-### Workshops
+<!--### Workshops-->
 
 <!--* [BlockTEE 2022](https://www.discotec.org/2022/blocktee) - Workshop on Blockchain Technologies and 
 Trusted Execution Environments
