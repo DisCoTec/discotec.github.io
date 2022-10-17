@@ -1,4 +1,4 @@
-[![](discotec2022-banner.jpeg)](https://www.discotec.org/2023/)
+[![](discotec2023-banner.jpeg)](https://www.discotec.org/2023/)
 
 # DAIS 2023 - 23nd International Conference on Distributed Applications and Interoperable Systems
 
