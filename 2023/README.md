@@ -21,6 +21,7 @@ Due to the current COVID-19 developments, the conference is still hosted by the 
 ## Programme
 
 To be defined.
+
 <!--Go to the [programme page](https://www.discotec.org/2022/programme). *All times are listed for* **CEST** *(Central European **Summer** Time)* 
 -->
 
@@ -51,7 +52,7 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 * [FORTE 2023](https://www.discotec.org/2023/forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 
-### Important Dates
+## Important Dates
 * **Abstract submission:** February 3, 2023
 * **Paper submission:** February 10, 2023
 * **Paper notification:** March 31, 2023
@@ -61,6 +62,7 @@ Go to the [DisCoTec2021 Slack workspace](https://join.slack.com/t/discotec2021/s
 ## Keynote Speakers
 
 To be announced.
+
 <!--* [Muffy Calder](invited#muffy-calder), University of Glasgow, UK
 * [Maarten van Steen](invited#maarten-van-steen), University of Twente, NL 
 * [Moshe Y. Vardi](invited#moshe-y-vardi) (Remote), Rice University, USA
