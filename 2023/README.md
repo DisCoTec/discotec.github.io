@@ -1,4 +1,4 @@
-[![](discotec2022-banner.jpeg)](https://www.discotec.org/2023/)
+[![](discotec2023-banner.jpeg)](https://www.discotec.org/2023/)
 
 # DisCoTec 2023 - 18th International Federated Conference on Distributed Computing Techniques
 
@@ -10,11 +10,11 @@ DisCoTec 2023 will take place at the [NOVA University Lisbon](https://www.unl.pt
 
 <!--**COVID-19:** DisCoTec 2022 is planned as a physical, in-person event, with certain support for remote presence, 
 both for speakers and for other participants who are unable or unwilling to come. Depending on the 
-pandemic situation, we may have to make a decision whether to cancel the physical component of the 
+pandemic situation, we may have to make a decision on whether to cancel the physical component of the 
 event or not.-->
 
 <!--
-Due to the current COVID-19 developments, the conference is still hosted by the [University of Malta](http://www.um.edu.mt) but it will be held **online**.  Instead of physical meeting/presentations, the authors of accepted papers have recorded their talks to discuss them with the conference participants online.-->
+Due to the current COVID-19 developments, the conference is still hosted by the [University of Malta](http://www.um.edu.mt) but it will be held **online**.  Instead of physical meetings/presentations, the authors of accepted papers have recorded their talks to discuss them with the conference participants online.-->
 
  
 
@@ -88,11 +88,11 @@ For all tutorials:
 - **Tutorial proposal submission deadline:** February 28, 2022 
 - **Notification of accepted tutorial proposals:** March 07, 2022
 -->
-DisCoTec 2022 gathers tutorials and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+DisCoTec 2023 gathers tutorials and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
 
 Pre-conference workshops and tutorials will take place on **Monday, June 19, 2023**, and post-conference workshops on **Friday, June 23, 2023**.
 
-### Tutorials
+<!--### Tutorials-->
 <!--* [DisCoTec Tutorials](tutorials) -  Tutorial sessions-->
 
 ### Workshops
@@ -154,59 +154,54 @@ The individual conferences will organise special issues of extended and selected
 ## Scientific Committees 
 
 ### Coordination Program Committee Chairs
-* [Maurice ter Beek][MauriceWeb] (ISTI-CNR, IT)
-* [Marjan Sirjani][MarjanWeb] (Mälardalen University, SE)
+* [Antónia Lopes][AntoniaWeb] (University of Lisbon, PT)
+* [Sung-Shik Jongmans][Sung-ShikWeb] (Open University of the Netherlands, NL)
 
 
 ### DAIS Program Committee Chairs 
-* [David Eyers][DavidWeb] (University of Otago, NZ)
-* [Spyros Voulgaris][SpyrosWeb] (Athens University of Economics and Business, GR)
+* [Marta Patino-Martínez][MartaWeb] (Technical University of Madrid, ES)
+* [João Paulo][JPauloWeb] (University of Minho, PT)
 
 ### FORTE Program Committee Chairs
-* [Mohammad Mousavi][MohammadWeb] (King's College London, UK)
-* [Anna Philippou][AnnaWeb] (University of Cyprus, Cy)
+* [Marieke Huisman][MariekeWeb] (University of Twente, NL)
+* [António Ravara][AntonioWeb] (NOVA University Lisbon, PT)
 
 
+<!--*  IT — Chair of the Local Organizing Committee)-->
 
 ## Organising Committee
-* [Rocco De Nicola][RoccoWeb] (IMT School for Advanced Studies Lucca, IT — General Chair)
-* [Letterio Galletta][LilloWeb] (IMT School for Advanced Studies Lucca, IT — Chair of the Local Organizing Committee)
-* [Marinella Petrocchi][MarinellaWeb] (IIT-CNR, IT)
-* [Simone Soderi][SimoneWeb] (IMT School for Advanced Studies Lucca, IT)
-* [Francesco Tiezzi][FrancescoWeb] (University of Florence, IT — Workshops and Tutorials Chair)
-* [Giorgio Audrito][GiogioWeb] (University of Torino, IT — Publicity chair)
+* [Carla Ferreira][CarlaWeb] (NOVA University Lisbon, PT — General Chair)
+* [João Costa Seco][JSecoWeb] (NOVA University Lisbon, PT)
+* [João Leitão][JLeitaoWeb] (NOVA University Lisbon, PT)
+* [Mário Pereira][MarioWeb] (NOVA University Lisbon, PT)
+* [Simão Melo de Sousa][SimaoWeb] (University of Beira Interior, PT — Workshops and Tutorials Chair)
+* [Carlos Baquero][CarlosWeb] (University of Porto, PT — Workshops and Tutorials Chair)
 
-<!-- * [Duncan Attard][DuncanWeb] (University of Malta, MT — Workshops Chair)
-* [Christian Bartolo Burlo][ChristianWeb] (Gran Sasso Science Institute, IT — Workshops Chair)
-* Lucienne Bugeja (University of Malta, MT — Logistics) -->
 
-[RoccoWeb]: https://sysma.imtlucca.it/pages/rocco-denicola/
-[LilloWeb]: https://sysma.imtlucca.it/pages/letterio-galletta/
-[MarinellaWeb]: https://marinellapetrocchi.wixsite.com/mysite
-[SimoneWeb]: https://sysma.imtlucca.it/pages/simone-soderi/
-[MarjanWeb]: http://www.es.mdh.se/staff/3242-Marjan_Sirjani
-[MauriceWeb]: https://fmt.isti.cnr.it/~mtbeek/
-[MohammadWeb]: https://www.nms.kcl.ac.uk/mohammad.mousavi/
-[AnnaWeb]: https://www.cs.ucy.ac.cy/~annap/
-[DavidWeb]: https://www.otago.ac.nz/computer-science/people/David_Eyers.html
-[SpyrosWeb]: https://acropolis.aueb.gr/~spyros/www/
-[FrancescoWeb]: https://tiezzi.unicam.it/
-[GiogioWeb]: https://www.unito.it/persone/gaudrito
+[CarlaWeb]: http://ctp.di.fct.unl.pt/~cf/
+[JSecoWeb]: https://docentes.fct.unl.pt/jrcs/
+[JLeitaoWeb]: https://www.joaoleitao.org/
+[MarioWeb]: https://mariojppereira.github.io/
+[SimaoWeb]: https://www.di.ubi.pt/~desousa
+[CarlosWeb]: https://cbaquero.github.io/web/
 
-[DuncanWeb]: https://github.com/duncanatt
-[JasmineWeb]: https://github.com/jasmine97xuereb
-[ChristianWeb]: https://github.com/chrisbartoloburlo
-[FerruccioWeb]: http://www.di.unito.it/~damiani/
-[MiguelWeb]: https://www.gsd.inesc-id.pt/~mm/
-[FabiolaWeb]: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4723012U6
-[KirstinWeb]: https://www.informatik.tu-darmstadt.de/fb20/organisation_fb20/professuren_und_gruppenleitungen/fb20professuren_und_gruppenleitungen_detailseite_84096.de.jsp
-[TimWeb]: https://www.win.tue.nl/~timw/index.php
+[AntoniaWeb]: http://www.di.fc.ul.pt/~mal/
+[Sung-ShikWeb]: https://sungshik.github.io/
+
+[MartaWeb]: http://lsd.ls.fi.upm.es/Members/mpatino/
+[JPauloWeb]: https://haslab.uminho.pt/jtpaulo
+
+[MariekeWeb]: https://wwwhome.ewi.utwente.nl/~marieke/
+[AntonioWeb]: http://ctp.di.fct.unl.pt/~aravara/
+
 
 ## Conference Venue
-[IMT School for Advanced Studies Lucca](http://www.imtlucca.it/en)  San Francesco Complex  
-Piazza S. Francesco, 19 - 55100 Lucca, LU  
+[NOVA University Lisbon](https://www.unl.pt/en/)
+Campus de Campolide, Lisboa
+<!--San Francesco Complex
+Piazza S. Francesco, 19 - 55100 Lucca, LU -->
 
-### How to reach San Francesco Complex 
+<!--### How to reach San Francesco Complex 
 
 The San Francesco Complex is located in San Francesco square inside the ancient city walls.
 You can reach the campus following [these directions](http://www.imtlucca.it/en/campus-and-services/how-to-reach-us). 
@@ -219,8 +214,7 @@ You can find a list of Hotels and B&Bs nearby the conference venue [here](http:/
 ## Registration
 
 Go to the [registration page](https://www.discotec.org/2022/registration).
-
-
+-->
 ## Steering Committee
 * Gianluigi Zavattaro (University of Bologna, IT — Chair)
 * Rocco De Nicola (IMT School for Advanced Studies Lucca, IT)
@@ -257,7 +251,7 @@ Go to the [registration page](https://www.discotec.org/2022/registration).
 
 
 ## Further information
-For further information please contact the general chair at <r.denicola@imtlucca.it>.
+For further information please contact the general chair at <carla.ferreira@fct.unl.pt>.
 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
 
@@ -266,10 +260,10 @@ Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to dat
 <a href="https://www.ifip.org">
   <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="350px">
 </a>
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
+<!--&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <a href="https://eapls.org">
 <img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" width="350px">
 &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <a href="https://microservices.community/e/discotec2020/">
   <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
-</a>
+</a> -->
