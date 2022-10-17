@@ -133,7 +133,7 @@ For additional information, please contact the Program Committee Co-chairs: <dai
 <a href="https://www.ifip.org">
   <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="350px">
 </a>
-<!--&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <a href="https://eapls.org">
 <img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" width="350px">
-</a> -->
+</a>
