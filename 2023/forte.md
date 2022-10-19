@@ -1,4 +1,4 @@
-[![](discotec2023-banner.jpeg)](https://www.discotec.org/2022/)
+[![](discotec2023-banner.v2.jpeg)](https://www.discotec.org/2022/)
 
 # FORTE 2023 - 43nd International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
