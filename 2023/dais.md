@@ -4,19 +4,6 @@
 
 DAIS 2023 is one of the three conferences of [DisCoTec 2023](https://www.discotec.org/2023/).
 
-<!--**COVID-19:** DAIS 2022 is planned as a physical, in-person event, with certain support for remote presence, 
-both for speakers and for other participants who are unable or unwilling to come. Depending on the 
-pandemic situation, we may have to make a decision whether to cancel the physical component of the 
-event or not.-->
-
-<!-- 
-## Keynote Speakers
-
-* [Gilles Fedak](invited#gilles-fedak), iExec, FR
-* [Mira Mezini](invited#mira-mezini), Technical University of Darmstadt, DE
-* [Alexandra Silva](invited#alexandra-silva), University College London, UK 
--->
-
 # Scope
 The DAIS conference series addresses all practical and conceptual aspects of distributed applications, including their design, modeling, implementation and operation, the supporting middleware, appropriate software engineering methodologies and tools, as well as experimental studies and applications. Submissions will be judged on their originality, significance, clarity, relevance, and technical correctness.
 
@@ -73,11 +60,6 @@ All papers accepted in any of the conference tracks will be included in the conf
 Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted.
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
-
-<!---
-##Special Issue
-Selected papers from DAIS'21 will be invited to a special issue of a reputed journal (to be announced soon).
--->
 
 ## Submission link
 
