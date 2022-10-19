@@ -90,27 +90,6 @@ Selected papers from DAIS'21 will be invited to a special issue of a reputed jou
 ## Program committee 
 
 To be announced.
-<!--* Eduardo	Alchieri, Universidade de Brasília, Brazil 
-* Pierre-Louis Aublin, Keio University, Japan
-* Silvia Bonomi, Università degli Studi di Roma "La Sapienza”, Italy
-* Davide Frey, INRIA, France
-* Vana Kalogeraki, Athens University of Economics and Business, Greece
-* Evangelia Kalyvianaki, University of Cambridge, UK
-* Fábio Kon, University of São Paulo, Brazil
-* João Leitão, Universidade Nova de Lisboa, Portugal
-* Daniel Lucani, Aarhus University, Denmark
-* Kostas Magoutis, University of Ioannina, Greece
-* Hein	Meling, University of Stavanger, Norway
-* Claudio Antares Mezzina, University Urbino, Italy
-* Alberto Montresor, University of Trento, Italy
-* Daniel O’Keeffe, Royal Holloway University of London, England
-* Emanuel Onica, Alexandru Ioan Cuza University of Iasi, Romania
-* Marta Patino, Universidad Politecnica de Madrid, Spain
-* José Orlando Pereira, Universidade do Minho & INESC TEC, Portugal
-* Hans P. Reiser, Reykjavík University, Iceland
-* Romain Rouvoy, University of Lille 1, France
-* Valerio	Schiavoni, University of Neuchâtel, Switzerland
-* Pierre Sutra, Telecom SudParis, France -->
 
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands
