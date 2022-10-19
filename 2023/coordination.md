@@ -1,4 +1,4 @@
-[![](discotec2023-banner.jpeg)](https://www.discotec.org/2023/)
+[![](discotec2023-banner.v2.jpeg)](https://www.discotec.org/2023/)
 
 # COORDINATION 2023 - 25th International Conference on Coordination Models and Languages
 
