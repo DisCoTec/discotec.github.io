@@ -4,34 +4,6 @@
 
 FORTE 2023 is one of the three conferences of [DisCoTec 2023](https://www.discotec.org/2023/), the 18th International Federated Conference on Distributed Computing Techniques.
 
-<!--**COVID-19:** FORTE 2022 is planned as a physical, in-person event, with certain support for remote presence, 
-both for speakers and for other participants who are unable or unwilling to come. Depending on the 
-pandemic situation, we may have to make a decision whether to cancel the physical component of the 
-event or not.-->
-
-<!-- 
-## Keynote Speakers
-
-* [Gilles Fedak](invited#gilles-fedak), iExec, FR
-* [Mira Mezini](invited#mira-mezini), Technical University of Darmstadt, DE
-* [Alexandra Silva](invited#alexandra-silva), University College London, UK 
-
-### Accepted Papers
-* On Bidirectional Runtime Enforcement, _Luca Aceto, Ian Cassar, Adrian Francalanza and Anna Ingolfsdottir_
-* A Multi-Agent Model for Polarization under Confirmation Bias in Social Networks, _Mário S. Alvim, Bernardo Amorim, Sophia Knight, Santiago Quintero and Frank Valencia_
-* A Formalisation of SysML State Machines in mCRL2	Mark Bouwman, _Bas Luttik and Djurre van der Wal_
-* How Adaptive and Reliable is your Program?, _Valentina Castiglioni, Michele Loreti and Simone Tini_
-* Branching Place Bisimilarity: A Decidable Behavioral Equivalence for Finite Petri Nets with Silent Moves, _Roberto Gorrieri_
-* Prioritise the Best Variation, _Wen Kokke and Ornela Dardha_
-* Introduction and preservation analysis of refinement relations in CCSL, _Mathieu Montin and Marc Pantel_
-* A case study on parametric verification of failure detectors, _Thanh-Hai Tran, Igor Konnov and Josef Widder_
-* π with leftovers: a mechanisation in Agda, _Uma Zalakain and Ornela Dardha_
-* Supervisory Synthesis of Configurable Behavioural Contracts with Modalities, _Davide Basile, Maurice H. ter Beek, Pierpaolo Degano, Axel Legay, Gianluigi Ferrari, Stefania Gnesi and Felicita Di Giandomenico_
-* Off-the-shelf Automated Analysis of Liveness Properties for Just Paths, _Mark Bouwman, Bas Luttik and Tim Willemse_
-* Towards a spatial model checker on GPU, _Laura Bussi, Vincenzo Ciancia and Fabio Gadducci_
-* Formal verification of HotStuff, _Leander Jehl_
--->
-
 ### Quick Links:
 * [Important Dates](https://www.discotec.org/2023/#important-dates)
 * [Topics of Interest](#main-topics-of-interest)
@@ -147,33 +119,6 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ## Program committee members 
 To be announced.
-<!--* Étienne André, Université de Lorraine, CNRS, Inria, France
-* Nathalie Bertrand, INRIA Rennes Bretagne-Atlantique, France 
-* Georgiana Caltais, University of Konstanz, Germany 
-* Yu-Fang Chen, Academia Sinica, China
-* Louise Dennis, University of Manchester, UK
-* Adrian Francalanza, University of Malta, Malta
-* Hubert Garavel, Inria, France 
-* Fatemeh Ghassemi, University of Tehran, Iran 
-* Ebru Aydın Göl, Middle East Technical University, Turkey 
-* Ákos Hajdu, Meta Platforms Inc, UK
-* Arnd Hartmanns, University of Twente, The Netherlands
-* Marieke Huisman, University of Twente, The Netherlands
-* Peter Höfner, Australian National University, Australia
-* Wen Kokke,  University of Edinburgh, Scotland, UK
-* Barbara  König, University of Duisburg-Essen, Germany 
-* Annabelle McIver, Macquarie University, Australia
-* Massimo  Merro, University of Verona, Italy
-* Claudio Mezzina, Università di Urbino, Italy
-* Catuscia Palamidessi, École Polytechnique, France 
-* Kirstin Peters, TU Darmstadt, Germany
-* Sanjiva Prasad, Indian Institute of Technology Delhi, India
-* António Ravara, Universidade Nova de Lisboa, Portugal
-* Ana Sokolova, University of Salzburg, Austria
-* Mahsa Varshosaz, IT University of Copenhagen, Denmark
-* Mahesh Viswanathan, University of Illinois, USA 
-* Tim Willemse, Eindhoven University of Technology, The Netherlands
-* Ingrid Chieh Yu, University of Oslo, Norway-->
 
 ## Steering committee
 * Ahmed Bouajjani (University Paris Diderot, France)
