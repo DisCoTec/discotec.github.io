@@ -285,14 +285,14 @@ To improve and reward reproducibility and to give more visibility and credit to 
 ## Keynote speaker
 
 To de announced.
-<!--* [Luca Viganò](http://www.lucavigano.com/), King's College London, UK-->
+<!-- * [Luca Viganò](http://www.lucavigano.com/), King's College London, UK-->
 
 ## Program Committee chairs 
 * [Antónia Lopes](http://www.di.fc.ul.pt/~mal/) (University of Lisbon, Portugal)
 * [Sung-Shik Jongmans](https://sungshik.github.io/) (Open University of the Netherlands, Netherlands)
 
-## Tool track chair 
-* [Ferruccio Damiani](http://www.di.unito.it/~damiani/) (University of Turin, Italy)
+<!-- ## Tool track chair 
+* [Ferruccio Damiani](http://www.di.unito.it/~damiani/) (University of Turin, Italy) -->
 
 <!--
 
