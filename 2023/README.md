@@ -1,4 +1,4 @@
-[![](discotec2023-banner.v2.jpeg)](https://www.discotec.org/2023/)
+[![](discotec2023-banner.v3.png)](https://www.discotec.org/2023/)
 
 # DisCoTec 2023 - 18th International Federated Conference on Distributed Computing Techniques
 
