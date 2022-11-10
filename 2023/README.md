@@ -57,6 +57,9 @@ The individual conferences will organise special issues of extended and selected
 * [Marieke Huisman][MariekeWeb] (University of Twente, NL)
 * [António Ravara][AntonioWeb] (NOVA University Lisbon, PT)
 
+### DisCoTec Artefact Evaluation Chair
+* [Roberto Casadei][RobertoWeb] (University of Bologna, IT)
+
 ## Organising Committee
 * [Carla Ferreira][CarlaWeb] (NOVA University Lisbon, PT — General Chair)
 * [João Costa Seco][JSecoWeb] (NOVA University Lisbon, PT)
@@ -82,7 +85,7 @@ The individual conferences will organise special issues of extended and selected
 [MariekeWeb]: https://wwwhome.ewi.utwente.nl/~marieke/
 [AntonioWeb]: http://ctp.di.fct.unl.pt/~aravara/
 
-[FerruccioWeb]: http://www.di.unito.it/~damiani/ 
+[RobertoWeb]: https://www.unibo.it/sitoweb/roby.casadei/
 
 ## Conference Venue
 [NOVA University Lisbon](https://www.unl.pt/en/)
