@@ -4,11 +4,6 @@
 
 COORDINATION 2023 is one of the three conferences of [DisCoTec 2023](https://www.discotec.org/2023/).
 
-<!--## COVID-19
-COORDINATION 2022 is planned as a physical, in-person event, with certain support for remote presence, 
-both for speakers and for other participants who are unable or unwilling to come. Depending on the 
-pandemic situation, we may have to make a decision whether to cancel the physical component of the 
-event or not.-->
 
 <!--
 
@@ -294,54 +289,43 @@ To de announced.
 <!-- ## Tool track chair 
 * [Ferruccio Damiani](http://www.di.unito.it/~damiani/) (University of Turin, Italy) -->
 
-<!--
-
 ## Publicity chair
 * [Giorgio Audrito](https://www.unito.it/persone/gaudrito) (University of Torino, Italy)
 
--->
-
 ## Program Committee 
-<!--* Erika Ábrahám (RWTH Aachen University, Germany)
-* Davide Basile (ISTI-CNR, Italy)
-* Simon Bliudze (INRIA, France)
+* Giorgio Audrito (University of Turin, Italy)
+* Marco Autili (Università dell’Aquila, Italy)
+* Massimo Bartoletti (Università degli Studi di Cagliari, Italy)
+* Laura Bocchi (University of Kent, UK)
 * Marcello Bonsangue (Leiden University, The Netherlands)
-* Ornela Dardha (University of Glasgow, UK)
-* Patricia Derler (National Instruments, USA)
+* Javier Cámara (University of Malaga, Spain)
+* Ilara Castellani (INRIA, France)
 * Adrian Francalanza (University of Malta, Malta)
 * Vashti Galpin (University of Edinburgh, UK)
-* Fatemeh Ghassemi (University of Tehran, Iran)
-* Einar Broch Johnsen (University of Oslo, Norway)
-* Christine Julien (University of Texas at Austin, USA)
-* Narges Khakpour (Linnaeus University, Sweden)
-* eva Kühn (Vienna University of Technology, Austria)
-* Ivan Lanese (University of Bologna, Italy)
+* Narges Khakpour (Newcastle University, UK)
 * Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
 * Michele Loreti (University of Camerino, Italy)
-* Mieke Massink (ISTI-CNR, Italy)
+* Mieke Massink (CNR-ISTI, Italy)
+* Sung Meng (Peking University, China)
 * Hernán Melgratti (University of Buenos Aires, Argentina)
 * Fabrizio Montesi (University of Southern Denmark, Denmark)
+* Rumyana Neykova (Brunel University London, UK)
+* Anna Philippou (University of Cyprus, Cyprus)
 * José Proença (Polytechnic Institute of Porto, Portugal)
 * Rosario Pugliese (University of Florence, Italy)
-* Cristina Seceleanu (Mälardalen University, Sweden)
-* Meng Sun (Peking University, China)
+* Marjan Sirjani (Mälardalen University, Sweden)
+* Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
 * Carolyn Talcott (SRI International, USA)
-* Hugo Torres Vieira (Evidence Srl, Italy)
+* Silvia Lizeth Tapia Tarifa (University of Oslo, Norway)
+* Maurice ter Beek (CNR-ISTI, Italy)
+* Peter Thiemann (Universität Freiburg, Germany)
 * Emilio Tuosto (Gran Sasso Science Institute, Italy)
 * Mirko Viroli (University of Bologna, Italy)
 
 ## Artefact Evaluation Committee
-<!--* Gianluca Aguzzi (University of Bologna, Italy)
-* Giorgio Audrito (University of Torino, Italy)
-* Roberto Casadei (University of Bologna, Italy)
-* Guillermina Cledou (University of Minho, Portugal)
-* Giovanni Fabbretti (INRIA, France)
-* Fabrizio Fornari (University of Camerino, Italy)
-* Danilo Pianini (University of Bologna, Italy)
-* Lorenzo Rossi (University of Camerino, Italy)
-* Larisa Safina (INRIA, France)
-* Alceste Scalas (Technical University of Denmark, Denmark)-->
-To be defined.
+* Alceste Scalas (Technical University of Denmark, Denmark - Chair)
+
+To be announced.
  
 ## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
@@ -356,7 +340,7 @@ To be defined.
 * Tom Holvoet (KU Leuven, Belgium)
 * Jean-Marie Jacquet (University of Namur, Belgium)
 * Christine Julien (University of Texas at Austin, USA)
-* eva Kühn (Vienna University of Technology, Austria)
+* Eva Kühn (Vienna University of Technology, Austria)
 * Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
 * Michele Loreti (Università di Camerino, Italy)
 * Mieke Massink (ISTI-CNR, Pisa, Italy) - chair
