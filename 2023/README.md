@@ -66,7 +66,7 @@ The individual conferences will organise special issues of extended and selected
 * [João Leitão][JLeitaoWeb] (NOVA University Lisbon, PT)
 * [Mário Pereira][MarioWeb] (NOVA University Lisbon, PT)
 * [Simão Melo de Sousa][SimaoWeb] (University of Beira Interior, PT — Workshops and Tutorials Chair)
-* [Carlos Baquero][CarlosWeb] (University of Porto, PT — Workshops and Tutorials Chair)
+* [Carlos Baquero][CarlosWeb] (University of Porto, PT — Publicity Chair)
 
 
 [CarlaWeb]: http://ctp.di.fct.unl.pt/~cf/
