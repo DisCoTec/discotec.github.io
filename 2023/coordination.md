@@ -302,6 +302,7 @@ To de announced.
 * Ilara Castellani (INRIA, France)
 * Adrian Francalanza (University of Malta, Malta)
 * Vashti Galpin (University of Edinburgh, UK)
+* Eva Kühn (Vienna University of Technology, Austria)
 * Narges Khakpour (Newcastle University, UK)
 * Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
 * Michele Loreti (University of Camerino, Italy)
