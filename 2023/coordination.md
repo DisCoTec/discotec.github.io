@@ -4,63 +4,6 @@
 
 COORDINATION 2023 is one of the three conferences of [DisCoTec 2023](https://www.discotec.org/2023/).
 
-
-<!--
-
-We are monitoring the COVID-19 pandemic development and are prepared to run the conference virtually or in a hybrid fashion in the unfortunate situation that a physical conference is not feasible. The paper selection process will not be affected and LNCS proceedings will be prepared regardless of whether the conference is held physically, virtually or in a hybrid fashion.
-
- 
-
-## Keynote speakers
-
-* [Gilles Fedak](invited#gilles-fedak), iExec, FR
-* [Mira Mezini](invited#mira-mezini), Technical University of Darmstadt, DE
-* [Alexandra Silva](invited#alexandra-silva), University College London, UK 
-
-## List of accepted papers
-
-Below you will find the list of accepted papers grouped by submission category and ordered as they were submitted.
-
-The programme is available [here](https://www.discotec.org/2021/programme).
-
-**The proceedings are published by Springer, [LNCS 12717](https://www.springer.com/978-3-030-78141-5) ([online version](http://link.springer.com/openurl.asp?genre=issue&issn=0302-9743&volume=12717)).**
-
-Tutorial
-
-- *Modeling and analyzing resource-sensitive actors: A tutorial introduction* 
-by Rudolf Schlatte, Einar Broch Johnsen, Eduard Kamburjan and Silvia Lizeth Tapia Tarifa
-
-Communications: Types and Implemenations
-
-- *Manifestly Phased Communication via Shared Session Types* by Chuta Sano, Stephanie Balzer and Frank Pfenning
-- *Deconfined Global Types for Asynchronous Sessions* by Francesco Dagnino, Paola Giannini and Mariangiola Dezani-Ciancaglini
-- *Relating Functional and Imperative Session Types* by Hannes Saffrich and Peter Thiemann
-- *Safe Session-Based Asynchronous Coordination in Rust* by Zak Cutner and Nobuko Yoshida
-- *A Session Subtyping Tool* by Lorenzo Bacchiani, Mario Bravetti, Julien Lange and Gianluigi Zavattaro
-- *Towards Probabilistic Session-Type Monitoring* by Christian Bartolo Burlò, Adrian Francalanza, Alceste Scalas, Emilio Tuosto and Catia Trubiani
-- *Java Typestate Checker* by João Mota, Marco Giunti and António Ravara
-- *Asynchronous global types in co-logic programming* by Riccardo Bianchini and Francesco Dagnino
-
-Large-Scale Decentalised Systems
-
-- *Tuple-based coordination in large-scale situated systems* by Roberto Casadei, Mirko Viroli, Alessandro Ricci and Giorgio Audrito	
-- *A theory of Automated Market Makers in DeFi* by Massimo Bartoletti, James Hsin-Yu Chiang and Alberto Lluch Lafuente
-- *ReGraDa: Reactive Graph Data* by Leandro Galrinho, João Costa Seco, Søren Debois, Thomas Hildebrandt, Håkon Norman and Tijs Slaats
-
-Modelling: Structures and Implementations
-
-- *The Structure of Concurrent Process Histories* by Chad Nester
-- *A Clean and Efficient Implementation of Choreography Synthesis for Behavioural Contracts* by Davide Basile and Maurice H. ter Beek
-- *A Practical Tool-Chain for the Development of Coordination Scenarios: Graphical Modeler, DSL, Code Generators and Automaton-Based Simulator* by Eva Maria Kuehn	
-
-Microservices
-
-- *Microservice Dynamic Architecture-Level Deployment Orchestration* by Lorenzo Bacchiani, Mario Bravetti, Saverio Giallorenzo, Jacopo Mauro, Iacopo Talevi and Gianluigi Zavattaro
-- *Jolie & LEMMA: Model-Driven Engineering and Programming Languages Meet on Microservices* by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti, Florian Rademacher and Sabine Sachweh
-- *ScaFi-Web: a Web-based Application for Field-based Coordination Programming* by Gianluca Aguzzi, Roberto Casadei, Niccolò Maltoni, Danilo Pianini and Mirko Viroli
-
--->
-
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
 
@@ -81,143 +24,6 @@ Topics of interest encompass all areas of coordination, including (but not limit
 * Interdisciplinary aspects of coordination;
 * Industry-led efforts in coordination and case studies.
 
-<!--### Special topic
-
-We seek contributions that enable the cross-fertilisation with other research communities in computer science or in other engineering or scientific disciplines.
-Depending on the quality of the contributions, we plan to have dedicated sessions in the program, possibly together with a panel discussion.
-
-<!--
-
-<ul>
-
-<li>
-    <p>Configurable Systems in the DevOps Era</p>
-
-    <p>Highly configurable software systems, such as software product lines, 
-call for automatic mechanisms that allow to tame the complexity and variability. 
-DevOps have pushed forward the importance of automating every step 
-of the software development process, including the management of configurable systems. 
-In this special topic, we welcome submissions addressing novel techniques and methodologies 
-for the COORDINATION of automatic configuration tasks or for the COORDINATION 
-of the various phases from development to deployment supporting the continuous 
-release of software/products.
-
-<br>
-
-Moreover, given the relevance of the topic to industry and aligned with the main topics of COORDINATION, 
-we encourage submissions of efforts carried out in collaboration with industry, 
-including case studies.</p>
-
-    <p>Contacts: 
-Maurice ter Beek (<a href="mailto:maurice.terbeek@isti.cnr.it">maurice.terbeek@isti.cnr.it</a>) 
-and Hugo Torres Vieira (<a href="mailto:hugo.torres.vieira@ubi.pt">hugo.torres.vieira@ubi.pt</a>)</p>
-  </li>
-
-  <li>
-
-
-
-<ul>
-
-<li>
-
-<p>Microservices (in collaboration with the Microservices Community)</p>
- 
-<p style="float: left; width: 70%">The microservices architectural style is a recent paradigm that pushes the ideas of service-oriented computing to the extreme. In this style, applications are compositions of microservices: loosely-coupled entities that can be executed independently. A microservice should be small enough to be easily managed, modified, and if needed removed and rewritten from scratch. The aim is to obtain high flexibility, reconfigurability, and scalability, thanks also to the exploitation of container technologies (such as Docker). In this setting, coordination is essential: an application works only if the microservices coordinate well with each other, in order to reach their common goal. Establishing coordination techniques for obtaining the desired behaviour out of a system of microservices is therefore of the utmost importance.</p>
-&nbsp;
-<a style="float: right; width: 30%" href="https://microservices.community/e/discotec2020/">
-  <img alt="MicroServices Badge" src="https://www.microservices.community/assets/images/badges/1-black.png">
-</a>
-
-<div style="clear: both;"></div>
-
-<p>Contacts: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>)
-and Fabrizio Montesi (<a href="mailto:fmontesi@imada.sdu.dk">fmontesi@imada.sdu.dk</a>)</p>
-
-</li>
- 
-</ul>
--->
-
-<!--
-
-    <div class="pb-3" style="float:left">
-      <div class="container">
-        <div class="row">
-          <div class="col-3">
-            <a href="https://microservices.community/e/discotec2020/">
-            <img class="img-responsive align-middle" alt="Microservices Community Badge" src="https://www.microservices.community/assets/images/badges/1-black.png" width="500px">
-            </a>
-          </div>
-            <div class="col-9">
-            <div class="small border" style="padding: 5px;">
-              <p><strong>Other events organised by the Microservices Community</strong></p>
-              <p>
-                <em>Upcoming Events</em>
-              </p>
-              <div>
-                <ul id="microservices_community_events_upcoming">
-                </ul>
-              </div>
-              <p></p>
-              <p>
-                <em>Past Events</em>
-              </p>
-              <div>
-                <ul id="microservices_community_events_past">
-                </ul>
-              </div>
-              <p></p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div style="clear: both;"></div>
-
-    <p style="float: left; width: 70%">Contact: Ivan Lanese (<a href="mailto:ivan.lanese@unibo.it">ivan.lanese@unibo.it</a>) 
-     and Larisa Safina (<a href="mailto:larisa.safina@inria.fr">larisa.safina@inria.fr</a>).
-  </p>
-
-  </li>
-
-  <li>
-    <p>Techniques to reason about interacting digital contracts</p>
-
-    <p>With the rise of blockchains and cryptocurrencies, digital contracts have become popular in the form of smart contracts, which encode a financial transaction between possibly distrusting parties using a distributed consensus protocol.  Although smart contracts bear the potential to benefit society quite fundamentally (e.g., equalize access to financial infrastructure, increase fairness), the benefits are shadowed by the existence of severe security vulnerabilities in deployed smart contracts and smart contract languages.  
-In the 2022 edition of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques.</p>
-
-    <p>Contacts: Stephanie Balzer (<a href="mailto:balzers@cs.cmu.edu">balzers@cs.cmu.edu</a>) and Anastasia Mavridou (<a href="mailto:anastasia.mavridou@nasa.gov">anastasia.mavridou@nasa.gov</a>)</p>
-  </li>
-
-</ul>
-
--->
-
-<!-- 1. Microservices (in collaboration with the Microservices Community) -->
-
-<!--    Microservices are a novel architectural style, taking to an extreme -->
-<!-- the ideas of service oriented computing. In microservices, applications -->
-<!-- are composed by loosely coupled entities, the microservices. Beyond -->
-<!-- that, single microservices should be small enough to be easily managed, -->
-<!-- modified, and if needed removed and rewritten from scratch. -->
-<!-- Microservices aim at obtaining high flexibility, reconfigurability and -->
-<!-- scalability, thanks also to the exploitation of containerization -->
-<!-- technologies such as Docker. Given that microservice-based applications -->
-<!-- are composed by many loosely-coupled microservices, techniques allowing -->
-<!-- one to coordinate their execution in order to obtain the desired -->
-<!-- behaviour are of paramount importance. -->
-
-<!--    Contacts: Ivan Lanese ([ivan.lanese@unibo.it](mailto:ivan.lanese@unibo.it)) and Alberto Lluch -->
-<!-- Lafuente ([albl@dtu.dk](mailto:albl@dtu.dk)). -->
-
-<!-- 2. Techniques to reason about interacting digital contracts -->
-
-<!--    With the rise of blockchains and cryptocurrencies, digital contracts have become popular in the form of smart contracts, which encode a financial transaction between possibly distrusting parties using a distributed consensus protocol.  Although smart contracts bear the potential to benefit society quite fundamentally (e.g., equalize access to financial infrastructure, increase fairness), the benefits are shadowed by the existence of severe security vulnerabilities in deployed smart contracts and smart contract languages.  
-In the 2021 edition of COORDINATION, we are soliciting contributions on new programming language paradigms and patterns for expressing digital contract interactions, verification and analysis techniques for checking safety and liveness properties and guaranteeing correctness of digital contracts, as well as compositionality and scalability of digital contract reasoning techniques. 
-
-    Contacts: Stephanie Balzer ([balzers@cs.cmu.edu](mailto:balzers@cs.cmu.edu)) and Anastasia Mavridou ([anastasia.mavridou@nasa.gov](mailto:anastasia.mavridou@nasa.gov)) 
--->
 
 ### Tool papers
 
@@ -272,6 +78,28 @@ The conference proceedings, formed by accepted submissions from any category, wi
 ### Special issues
 
 Following the tradition of previous editions of COORDINATION, depending on the quality and number of the submissions, we will organise special issues of selected papers in reputable journals like the journal of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming) for tool papers and the journal of [Logical Methods in Computer Science](https://lmcs.episciences.org) for the remaining categories.
+
+### Proceedings and Special Issues from Previous Editions
+
+**Proceedings**
+The proceedings of previous editions of COORDINATION are available on [SpringerLink](https://link.springer.com/conference/coordination)
+
+**Special Issues**
+Special issues hosted by more recent editions of COORDINATION are listed below.
+
+* Selected Papers of Coordination 2019,  Special Issue of Logical Methods in Computer Science, edited by Emilio Tuosto and Hanne Riis Nielsen. Available at: https://lmcs.episciences.org/volume/view/id/377
+
+* Selected Tool Papers of Coordination 2019, Special Issue of Science of Computer Programming, edited by Hugo Torres Vieira and Omar Inverso. Available at:  https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/10H4835TWK9
+    
+* Selected Papers of Coordination 2020, Special Issue of Logical Methods in Computer Science, edited by Simon Bliudze and Laura Bocchi. Available at: https://lmcs.episciences.org/volume/view/id/415
+  
+* Selected Papers of Coordination 2021, Special Issue of Logical Methods in Computer Science, edited by Ferruccio Damiani and Ornela Dardha. Ongoing. Expected to appear before June 2023.
+
+* Selected Tool Papers of Coordination 2020 and Coordination 2021, Special Issue of Science of Computer Programming, edited by Hugo Vieira, Omar Inverso and Giorgio Audrito. Expected to appear before June 2023.
+
+* Selected Papers of Coordination 2022, Special Issue of Logical Methods in Computer Science, edited by Maurice ter Beek and Marjan Sirjani. In preparation.
+
+* Selected Software Artifacts from the Papers of DisCoTec 2022 - 17th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming, edited by Ferruccio Damiani, David Eyers and Anna Philippou. In preparation.
 
 ## EAPLS Artefact Badging 
 
