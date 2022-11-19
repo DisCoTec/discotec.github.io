@@ -19,8 +19,8 @@ To be defined.
 
 
 ## Important Dates
-* **Abstract submission:** February 3, 2023
-* **Paper submission:** February 10, 2023
+* **Abstract submission:** February 11, 2023
+* **Paper submission:** February 18, 2023
 * **Paper notification:** March 31, 2023
 * **Camera-ready:** April 30, 2023
 * **DisCoTec conference:** June 19-23, 2023
