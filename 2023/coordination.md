@@ -107,8 +107,7 @@ To improve and reward reproducibility and to give more visibility and credit to 
 
 ## Keynote speaker
 
-To de announced.
-<!-- * [Luca Viganò](http://www.lucavigano.com/), King's College London, UK-->
+* [Frank Pfenning](https://www.cs.cmu.edu/~fp/), Carnegie Mellon University, USA
 
 ## Program Committee chairs 
 * [Antónia Lopes](http://www.di.fc.ul.pt/~mal/) (University of Lisbon, Portugal)
@@ -152,9 +151,17 @@ To de announced.
 * Mirko Viroli (University of Bologna, Italy)
 
 ## Artefact Evaluation Committee
+* Lorenzo Bacchiani (University of Bologna, Italy)
+* Manel Barkallah (University of Namur, Belgium)
+* Christian	Bartolo Burlò (Gran Sasso Science Institute, Italy)
+* Luca Di Stefano (University of Gothenburg, Sweden)
+* Marco Giunti (Universidade NOVA de Lisboa, Portugal)
+* Stefano Mariani (Università degli Studi di Modena e Reggio Emilia, Italy)
+* Florian Rademacher (IDiAL Institute, University of Applied Sciences and Arts Dortmund, Germany)
+* Aniqa Rehman (University of Camerino, Italy)
+* Neea Rusch (Augusta University, US)
+* Larisa Safina (Inria - Lille Nord Europe, France)
 * Alceste Scalas (Technical University of Denmark, Denmark - Chair)
-
-To be announced.
  
 ## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
