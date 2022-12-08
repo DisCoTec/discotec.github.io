@@ -33,7 +33,24 @@ To be announced.
 
 DisCoTec 2023 gathers tutorials and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
 
-Pre-conference workshops and tutorials will take place on **Monday, June 19, 2023**, and post-conference workshops on **Friday, June 23, 2023**.
+[Call for Satellite Events Proposals](csep): We invite the community to submit proposals for one day workshops and tutorials on topics related to the distributed computing field. 
+
+ 
+### Important Dates
+For all workshops:
+- **Workshop proposal submission deadline:** January 30, 2023
+- **Notification of accepted workshop proposals:** February 2, 2023
+- **Workshop paper submission deadline:** Mid April 2023
+- **Notification of accepted workshop papers:** Mid May 2023 
+- **Workshops:** June 19 and 23, 2023
+
+For all tutorials:
+- **Tutorial proposal submission deadline:** March 7, 2023 
+- **Notification of accepted tutorial proposals:** March 14, 2023
+
+
+<!-- Pre-conference workshops and tutorials will take place on **Monday, June 19, 2023**, and post-conference workshops on **Friday, June 23, 2023**.
+-->
 
 ## Proceedings
 The proceedings of the conferences are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. These shall be open access from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
