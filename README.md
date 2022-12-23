@@ -1,15 +1,15 @@
 # DisCoTec - International Federated Conference on Distributed Computing Techniques 
 
 The DisCoTec series of federated conferences is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)). It gathers three main conferences:
-* [Coordination](https://www.discotec.org/2022/coordination) (IFIP WG6.1 International Conference on Coordination Models and Languages)
-* [DAIS](https://www.discotec.org/2022/dais) (IFIP WG6.1 International Conference on Distributed Applications and Interoperable Systems)
-* [FORTE](https://www.discotec.org/2022/forte) (IFIP WG6.1 International Conference on Formal Techniques for Distributed Objects, Components, and Systems)
+* [Coordination](https://www.discotec.org/2023/coordination) (IFIP WG6.1 International Conference on Coordination Models and Languages)
+* [DAIS](https://www.discotec.org/2023/dais) (IFIP WG6.1 International Conference on Distributed Applications and Interoperable Systems)
+* [FORTE](https://www.discotec.org/2023/forte) (IFIP WG6.1 International Conference on Formal Techniques for Distributed Objects, Components, and Systems)
 
 Together, these conferences cover a broad spectrum of distributed computing subjects,
 ranging from theoretical foundations and formal description techniques to systems
 research issues. 
 
-[DisCoTec 2022](http://www.discotec.org/2022) will take place at [IMT School for Advanced Studies Lucca](http://www.imtlucca.it/en) in June 13-17, 2022.
+[DisCoTec 2023](http://www.discotec.org/2023) will take place at [NOVA University Lisbon](https://www.unl.pt/en/) in June 19-23, 2023.
 
 ## Steering Committee
 * Gianluigi Zavattaro (University of Bologna, Italy) 
@@ -40,6 +40,7 @@ research issues.
 
 
 ## DisCoTec editions
+* [DisCoTec 2023](http://www.discotec.org/2023) - Lisbon, Portugal 
 * [DisCoTec 2022](http://www.discotec.org/2022) - Lucca, Italy 
 * [DisCoTec 2021](http://www.discotec.org/2021) - Malta (Virtual)
 * [DisCoTec 2020](http://www.discotec.org/2020) - Malta (Virtual)
