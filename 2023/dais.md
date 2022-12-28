@@ -55,11 +55,16 @@ All papers must be original, unpublished, and not submitted for publication else
 
 Contributions should be submitted electronically as PDF, using the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) to the conference submission website. Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear. 
 
+
 ## Proceedings
 All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. 
 Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted.
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
+
+## Artefact Submission
+To improve the reproducibility of results and to increase the visibility of prototypes and tools produced by our community, authors of accepted papers (full papers, experience reports, WiP papers) will be invited to submit publicly available artefacts associated with their paper for evaluation. 
+Based on the result of the evaluation, the paper may be awarded with badges. Artefact submission is optional and the result of the artefact evaluation will not alter the paper’s acceptance decision. Detailed guidelines for the preparation and submission of the artefacts will be made available to authors.
 
 ## Submission link
 
@@ -69,9 +74,33 @@ Proceedings will be made available at the conference. Submission implies that at
 * [Marta Patino-Martínez](http://lsd.ls.fi.upm.es/Members/mpatino/) (Technical University of Madrid, Spain)
 * [João Paulo](https://haslab.uminho.pt/jtpaulo) (University of Minho, Portugal)
 
-## Program committee 
+## Program committee
+* Ainhoa Azqueta, Universidad Politécnica de Madrid, Spain
+* Claudio Mezzina, University Urbino, Italy
+* Daniel O’Keeffe, Royal Holloway University of London, England
+* Davide Frey, INRIA, France
+* Emanuel Onica, Alexandru Ioan Cuza University of Iasi, Romania
+* Evangelia Kalyvianaki, University of Cambridge, UK
+* Etienne Riviére, Ecole Polytechnique de Louvain, Belgium
+* Fábio Coelho, INESC TEC & U. Minho, Portugal
+* Fábio Kon, University of São Paulo, Brazil
+* Hans P. Reiser, Reykjavík University, Iceland
+* Hein Meling, University of Stavanger, Norway
+* João Leitão, Universidade Nova de Lisboa, Portugal
+* Kostas Magoutis, University of Ioannina, Greece 
+* Miguel Matos, IST INESC-ID, Universidade de Lisboa, Portugal
+* Pierre-Louis Aublin, Keio University, Japan
+* Pierre Sutra, Telecom SudParis, France
+* Romain Rouvoy, University of Lille, France
+* Silvia Bonomi, Università degli Studi di Roma “La Sapienza”, Italy
+* Spyros Voulgaris, Athens University of Economics and Business, Greece
+* Valerio Schiavoni, University of Neuchâtel, Switzerland
+* Vana Kalogeraki, Athens University of Economics and Business, Greece
+* Vincenzo Gulisano, Chalmers University, Sweden
 
-To be announced.
+## Artefact Evaluation Committee
+* António Sousa, INESC TEC & U. Minho, Portugal
+* Vinícius Cogo, Faculdade de Ciências, Universidade de Lisboa, Portugal
 
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands
