@@ -156,7 +156,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 - [Clément Aubert](https://spots.augusta.edu/caubert/)  (Augusta University, USA) - `aubert (at) math.cnrs.fr`
 - [Cinzia Di Giusto](https://www.i3s.unice.fr/digiusto/node/1) (Université Côte d'Azur, CNRS, I3SSophia Antipolis, FR) - `cinzia.di-giusto (at) unice.fr`
-- [Simon Fowler](http://www.simonjf.com/) (University of Glasgow School of Computing Science, GB-SCT)
+- [Simon Fowler](http://www.simonjf.com/) (University of Glasgow School of Computing Science, GB-SCT) - `simon.fowler (at) glasgow.ac.uk`
 - [Larisa Safina](https://lsafina.github.io/) (Inria, FR) - `larisa.safina (at) inria.fr`
 
 Use `ice2023 (at) framalistes.org` to reach all the ICEcreamers at once.
