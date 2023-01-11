@@ -89,7 +89,7 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * João Leitão, Universidade Nova de Lisboa, Portugal
 * Kostas Magoutis, University of Ioannina, Greece 
 * Miguel Matos, IST INESC-ID, Universidade de Lisboa, Portugal
-* Pierre-Louis Aublin, Keio University, Japan
+* Pierre-Louis Aublin, IIJ Research Laboratory, Japan
 * Pierre Sutra, Telecom SudParis, France
 * Romain Rouvoy, University of Lille, France
 * Silvia Bonomi, Università degli Studi di Roma “La Sapienza”, Italy
