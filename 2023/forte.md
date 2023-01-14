@@ -113,6 +113,10 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ## Submission Link
 <https://easychair.org/conferences/?conf=forte2023>
 
+## Keynote speaker
+
+* [Azalea Raad](https://www.soundandcomplete.org/), Imperial College London, UK
+
 ## Program committee chairs 
 * [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/), University of Twente, Netherlands
 * [António Ravara](http://ctp.di.fct.unl.pt/~aravara/), NOVA University Lisbon, Portugal
