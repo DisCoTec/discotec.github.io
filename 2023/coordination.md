@@ -42,7 +42,7 @@ the potential tool presentation at the conference.
 * Paper submission: February 18, 2023
 * Paper notification: March 31, 2023
 * Artefact submission: April 14, 2023
-* Artefact notification: April 30, 2023
+* Artefact notification: April 28, 2023
 * Camera-ready: April 30, 2023
 * DisCoTec conference: June 19-23, 2023
 
