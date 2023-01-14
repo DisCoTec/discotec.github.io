@@ -27,7 +27,10 @@ To be defined.
 
 ## Keynote Speakers
 
-To be announced.
+* [Azalea Raad](https://www.soundandcomplete.org/), Imperial College London, UK
+* [Frank Pfenning](https://www.cs.cmu.edu/~fp/), Carnegie Mellon University, USA
+* [Peter Pietzuch](https://www.doc.ic.ac.uk/~prp/), Imperial College London, UK
+
 
 ## Satellite Events
 
