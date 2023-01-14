@@ -70,6 +70,10 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 
 <https://easychair.org/my/conference?conf=dais2023>
 
+## Keynote speaker
+
+* [Peter Pietzuch](https://www.doc.ic.ac.uk/~prp/), Imperial College London, UK
+
 ## Program committee chairs 
 * [Marta Patino-Martínez](http://lsd.ls.fi.upm.es/Members/mpatino/) (Technical University of Madrid, Spain)
 * [João Paulo](https://haslab.uminho.pt/jtpaulo) (University of Minho, Portugal)
