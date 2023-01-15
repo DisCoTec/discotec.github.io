@@ -1,128 +1,113 @@
-[![](discotec2023-banner.v2.jpeg)](https://www.discotec.org/2022/)
+[![](discotec2023-banner.v2.jpeg)](https://www.discotec.org/2023/)
 
 # FORTE 2023 - 43nd International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 FORTE 2023 is one of the three conferences of [DisCoTec 2023](https://www.discotec.org/2023/), the 18th International Federated Conference on Distributed Computing Techniques.
 
-### Quick Links:
-* [Important Dates](https://www.discotec.org/2023/#important-dates)
-* [Topics of Interest](#main-topics-of-interest)
-* [Submission Categories](#submission-categories)
-* [Submission Link](#submission-link)
-* [Special Issue](#special-issue)
-* [Program Committee](#program-committee-chairs)
-* [Contact](#more-information)
-
-## Scope
+## Topics of Interest
 FORTE 2023 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
 
-The conference solicits original contributions that advance the science and technology for distributed systems, with special interest in:
+We invite submissions focused on foundational aspects of distributed
+software systems, presenting approaches or tools to formally model,
+soundly implement, and rigorously validate these demanding but ever
+more necessary systems and applications. As our dependency on such
+software systems grow, also our responsibility as researchers grows to
+provide both trustworthy and usable solutions.
 
-* Component- and model-based design
-* Cyber-physical systems, autonomous systems, and AI-enabled systems design and trustworthiness
-* Object technology, modularity, software adaptation
-* Self-stabilization and self-healing/organizing
-* Software quality, reliability, availability, and safety
-* Security, privacy, and trust in distributed and/or communicating systems
-* Service-oriented, ubiquitous, and cloud computing systems
-* Verification, validation, formal analysis, and testing of the above.
+The main topics of interest include:
+* Language concepts for concurrency and distribution, supported by
+  rigorous semantics, well-supported pragmatics, and/or expressive
+  illustrative use-cases.
+* Analyses techniques, methodologies, and/or algorithms, using testing
+  and/or verification, to validate (aspects of) the soundness of
+  various types of concurrent and distributed systems, including
+  communication and network protocols, service-oriented systems,
+  adaptive distributed systems, cyber-physical systems and sensor
+  networks.
+* Principles for qualitative and quantitative security analysis of
+  distributed systems.
+* Applications of formal methods and techniques for studying the
+  quality, reliability, availability, and safety of concrete
+  distributed systems. We are specially interested in "real-life" case
+  studies and industrial applications involving real distributed
+  systems.
+* Emerging challenges and hot topics in distributed systems (broadly
+  construed), such as software-defined networks, distributed ledgers,
+  smart contracts, and blockchain technologies, etc.
 
-Aligned with the above, FORTE covers __models and formal specification__, __testing__ and __verification methods__ for distributed computing.  Application domains are multiple, and include all kinds of application-level distributed systems, telecommunication services, Internet, embedded and real-time systems, as well as networking and communication security and reliability.
+## Submission
 
-Contributions that __combine theory and practice__ and that exploit formal methods and theoretical foundations to present novel solutions to problems arising from the development of distributed systems are very much encouraged.
-
-## Main Topics of Interest
-Topics of interest include but are not limited to:
- * __Languages and semantic foundations__
-
-   New modeling and language concepts for distribution and concurrency; semantics for different types of languages, including programming languages, modeling languages, and domain-specific languages; real-time and probability aspects
-
-* __Rigorous analysis techniques__
-
-  Design, specification, analysis, verification, validation, testing and runtime verification of various types of distributed systems, including communications and network protocols, service-oriented systems, adaptive distributed systems, cyber-physical systems and sensor networks
-
-* __Foundations of security__
-
-  New principles for qualitative and quantitative security analysis of distributed systems, including formal models based on probabilistic concepts
-
-* __Applications of formal methods__
-
-  Applying formal methods and techniques for studying quality, reliability, availability, and safety of distributed systems
-
-* __Practical experience with formal methods__
-
-  Industrial applications, case studies and software tools for applying formal methods and description techniques to the development and analysis of real distributed systems.
-
-* __Emerging challenges and hot topics in distributed systems__ (broadly construed)
-
-  Formal specification, verification and  analysis of emerging systems and applications, such as, for instance, software-defined networks, distributed ledgers, smart contracts, and blockchain technologies.
-
-## Submission, Publication, and Special Issue
-
-### Submission dates
-
-See the [DisCoTec submission dates](https://www.discotec.org/2023/#important-dates).
+### Important Dates (AoE)
+* Abstract submission: February 11, 2023
+* Paper submission: February 18, 2023
+* Paper notification: March 31, 2023
+* Artefact submission: April 14, 2023
+* Artefact notification: April 28, 2023
+* Camera-ready: April 30, 2023
+* DisCoTec conference: June 19-23, 2023
 
 ### Submission Guidelines
 Contributions must be written in English according to one of the three categories described below. Apart from journal-first papers, all papers should report on original, unpublished work, not submitted for publication elsewhere (cf. [IFIP codes of conduct](http://www.ifip.org/index.php?option=com_content&task=view&id=219&Itemid=564), under Links).
 
 Submissions must be prepared as a PDF using [Springer’s LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Submissions not adhering to the specified constraints of their respective category may be rejected without review.
 
-### Submission Categories
-FORTE accepts contributions in three categories: __full papers__, __short papers__, and __journal-first papers__. These categories and their associated criteria are described in detail below.
-
-Notice that *short* and *journal-first* papers must be explicitly marked as such in the submission's title.
-
-1. __Full papers__ (page limit: up to 15 pages + 2 pages references)
-
-   A full paper submission describes thorough and complete research results in the scope of the conference.
-
-2. __Short papers__ (page limit: up to 6 pages + 2 pages references)
-
-   A short paper submission can be one of the following:
-   * *Rough diamonds*: Extended abstracts presenting innovative and promising ideas, possibly in an early form and without supporting evidence.
-   * *Tool (demonstration) papers*: Extended abstracts describing (or demonstrating) new tools (or tool components) that implement (or build upon) theoretical foundations.
-   * *Position papers* : Extended abstracts describing (i) calls to action,  or (ii) substantiated reflections on current and/or future research perspectives related to FORTE.
-
-3. Short paper submissions must be marked as such in the submission's title.
-
-4. __"Journal First" papers__ (page limit: up to 4 pages, including references)
-
-   This category aims at including published journal papers in the FORTE 2023 program. The objective is to offer FORTE attendees a richer program and further opportunities for interaction.
-
-   Authors of published papers in high-quality journals can submit a proposal to present their journal paper in FORTE. The journal paper must adhere to the following four criteria:
-
-   * It should be clearly in the scope of the conference.
-   * It should be recent: only journal papers available  after January 1, 2021 (online or paper) can be presented.
-   * It reports new research results that significantly extend prior work. As such, the journal paper does not simply extend prior work with material presented for completeness only (such as omitted proofs, algorithms, minor enhancements, or empirical results).
-   * It has not been presented at, and is not under consideration for, journal-first programs of other similar conferences or workshops.
-
-5. A journal-first submission is a concise but compelling summary of the published journal paper, which makes it clear why a related presentation would enrich the program of FORTE.
-
-   Journal-first submissions must be marked as such in the submission's title, and must explicitly include pointers to the journal publication (such as a DOI) but also to related conference and workshop papers, as appropriate. They will be judged on the basis of the above criteria, but also considering relevance and the potential of enriching and complementing the conference program.
+### Categories of Papers
+All papers should be submitted in LNCS format. We solicit papers in the following categories:
+* __Regular papers__ (7-15 pages, not counting references): describing thorough and complete research results and experience reports. Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the Artefact Evaluation Committee, but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
+* __Tool papers__ (7-15 pages, not counting references): describing technological artefacts in the scope of the research topics of FORTE.  The paper should present the underlying theory of the tool, a clear account of the tool’s functionality and limitations, and include case studies (with rigorous experimental evaluation). In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee.  The paper must contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes, to be submitted until a week after the paper submission deadline.
+* __Short papers__ (4-6 pages, not counting references): describing innovative and promising ideas, possibly in an early form, or demonstrating new tools (components), or presenting (i) calls to action, or (ii) substantiated reflections on current and/or future research perspectives related to FORTE, or a summary of a published journal paper clarifying why the presentation would enrich the program of FORTE. 
+  
+### Partial Rebuttal
+Some papers that raised doubts the reviewers would like to clarify to consider acceptance, will have 48h to respond to concrete questions. The responses will be taken into account during the PC discussions.
 
 ### Publication
-All accepted papers, including short papers and journal-first submissions, will be published in the FORTE 2023 formal proceedings, which will appear in Springer's LNCS-IFIP volume series.
-As such, they will be accessible free of charge from the [IFIP Digital Library](https://dl.ifip.org/) after a 3 years embargo.
+The conference proceedings, formed by accepted submissions from __any__ category, will be published by Springer as an LNCS-IFIP volume.
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
 ### Special Issue
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
 
-## Submission Link
+### Submission Link
 <https://easychair.org/conferences/?conf=forte2023>
 
-## Keynote speaker
-
+## Keynote Speaker
 * [Azalea Raad](https://www.soundandcomplete.org/), Imperial College London, UK
 
-## Program committee chairs 
+## Program Committee Chairs 
 * [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/), University of Twente, Netherlands
 * [António Ravara](http://ctp.di.fct.unl.pt/~aravara/), NOVA University Lisbon, Portugal
 
-## Program committee members 
-To be announced.
+## Program Committee Members 
+* Elvira Albert (Universidad Complutense de Madrid, Spain)
+* Jiri Barnat (Masaryk University, Czech Republic)
+* Georgiana Caltais (University of Twente, Netherlands)
+* Silvia Crafa (Università di Padova, Italy)
+* Mariangiola Dezani-Ciancaglini (Università di Torino, Italy)
+* Adrian Francalanza (University of Malta, Malta)
+* Hongfei Fu (Shanghai Jiao Tong University, China)
+* Fatemeh Ghassemi (University of Tehran, Iran)
+* Helle Hvid Hansen (University of Groningen, Netherlands)
+* Sung-Shik Jongmans (Open University of the Netherlands; Centrum Wiskunde & Informatica, Netherlands)
+* Jan Kofron (Charles University, Czech Republic)
+* Alfons Laarman (Leiden University, Netherlands)
+* Claudio Antares Mezzina (Università di Urbino, Italy)
+* Mohammadreza Mousavi (King's College London, UK)
+* Daniele Nantes-Sobrinho (Universidade de Brasília, Brasil)
+* Luca Padovani (Università di Camerino, Italy)
+* Kirstin Peters (Universität Augsburg, Germany)
+* Anna Philippou (University of Cyprus, Cyprus)
+* Anne Remke (WWU Münster, Germany)
+* Vasco T. Vasconcelos (LaSiGE and Dept. of Informatics, Faculty of Sciences, University of Lisbon, Portugal)
+* Rob van Glabbeek (Data61 - CSIRO, Australia)
+* Yuting Wang (Shanghai Jiao Tong University, China)
+
+## Artefact Evaluation Committee Chairs
+* Mário Pereira (NOVA University Lisbon, Portugal)
+* Tom van Dijk (University of Twente)
+
+## Artefact Evaluation Committee
+TBA
 
 ## Steering committee
 * Ahmed Bouajjani (University Paris Diderot, France)
