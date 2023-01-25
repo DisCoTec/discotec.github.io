@@ -163,7 +163,6 @@ Use `ice2023 (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ## Programme Committee {#programme-committee}
 
-
 - [Duncan Paul Attard](https://duncanatt.github.io/) (Reykjavík University, IS) 
 - [Massimo Bartoletti](https://tcs.unica.it/members/bart) (Università di Cagliari, IT) 
 - [Davide Basile](https://davidebasile.github.io/) (ISTI CNR, IT) 
@@ -192,8 +191,6 @@ Use `ice2023 (at) framalistes.org` to reach all the ICEcreamers at once.
 -->
 
 ## Steering Committee
-
-# Steering Committee
 
 - [Massimo Bartoletti](https://tcs.unica.it/members/bart) (University of Cagliari, IT)
 - [Ludovic Henrio](https://lhenrio.github.io/) (ENS Lyon, FR)
