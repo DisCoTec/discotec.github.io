@@ -2,7 +2,7 @@
 
 # ICE 2023 - 16th Interaction and Concurrency Experience
 
-Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. ICE 2023 is a satellite workshop of [DisCoTec 2023](https://www.discotec.org/2023/), held on <!-- FILL -->.
+Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. ICE 2023 is a satellite workshop of [DisCoTec 2023](https://www.discotec.org/2023/), held on Monday 19th June 2023 at the [NOVA University](https://www.unl.pt/en) in Lisbon, Portugal.
 
 <!--
 **COVID-19:** ICE 2023 will be a physical, in-person event, with some support for remote presence, both for speakers and for other participants who are unable or unwilling to come.
@@ -163,57 +163,32 @@ Use `ice2023 (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ## Programme Committee {#programme-committee}
 
-To be announced.
+
+- [Duncan Paul Attard](https://duncanatt.github.io/) (Reykjavík University, IS) 
+- [Massimo Bartoletti](https://tcs.unica.it/members/bart) (Università di Cagliari, IT) 
+- [Davide Basile](https://davidebasile.github.io/) (ISTI CNR, IT) 
+- [Hélène Coullon](https://helene-coullon.fr/) (IMT Atlantique, FR) 
+- [Jovana Dedeić](http://imft.ftn.uns.ac.rs/math/People/JovanaRadenovi%C4%87) (Faculty of Technical Sciences, University of Novi Sad, RS) 
+- [Luc Edixhoven](https://www.cwi.nl/people/luc-edixhoven) (Centrum Wiskunde & Informatica, NL) 
+- [Saverio Giallorenzo](https://www.saveriogiallorenzo.com/) (University of Bologna, IT) 
+- [Keigo Imai](https://keigoimai.info/) (Gifu University, JP) 
+- [Sung-Shik Jongmans](http://sungshik.github.io/) (Open University of the Netherlands, NL) 
+- [Eduard Kamburjan](https://www.mn.uio.no/ifi/english/people/aca/eduard/) (University of Oslo, NO) 
+- [Sergueï Lenglet](https://members.loria.fr/SLenglet/)  (Université de Lorraine, FR) 
+- [Diego Marmsoler](https://www.marmsoler.com/) (University of Exeter, GB) 
+- [Anastasia Mavridou](http://amavridou.com/) (NASA Ames, USA) 
+- [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) (University of Turin, IT) 
+- [Ivan Prokić](http://imft.ftn.uns.ac.rs/~iprokic/Main) (Faculty of Technical Sciences, University of Novi Sad, RS) 
+- [Matteo Sammartino](https://matteosammartino.com/)  (Royal Holloway, University of London, GB) 
+- [Amrita Suresh](https://amritasuresh.github.io/) (ENS Paris Saclay, FR) 
+- [Gerard Tabone](https://gerardtabone.com/) (University of Malta, MT) 
+- [Fangyi Zhou](http://www.doc.ic.ac.uk/~fz315/) (Imperial College London, GB) 
+
 
 <!--
+★
 
-- [Duncan Paul Attard](https://duncanatt.github.io/) (Reykjavík University, IS) <duncan.attard.01@um.edu.mt>
-- [Massimo Bartoletti](https://tcs.unica.it/members/bart) (Università di Cagliari, IT) <bart@unica.it>
-- [Davide Basile](https://davidebasile.github.io/) (ISTI CNR, IT) <davide.basile@isti.cnr.it>
-- [Alex Coto](https://www.gssi.it/people/students/students-computer-science/item/4803-coto-alex) (Gran Sasso Science Institute, IT) <alex.coto@gssi.it>
-- [Hélène Coullon](https://helene-coullon.fr/) (IMT Atlantique, FR) <helene.coullon@imt-atlantique.fr>
-- [Jovana Dedeić](http://imft.ftn.uns.ac.rs/math/People/JovanaRadenovi%C4%87) (Faculty of Technical Sciences, University of Novi Sad, RS) <radenovicj@uns.ac.rs>
-- [Luc Edixhoven](https://www.cwi.nl/people/luc-edixhoven) (Centrum Wiskunde & Informatica, NL) <luc.edixhoven@cwi.nl>
-- [Saverio Giallorenzo](https://www.saveriogiallorenzo.com/) (University of Bologna, IT) <saverio.giallorenzo@gmail.com>
-- [Laura Humphrey](https://scholar.google.com/citations?user=kBnVQpkAAAAJ&hl=en) (Air Force Research Laboratory, USA) <laura.humphrey@us.af.mil>
-- [Keigo Imai](https://keigoimai.info/) (Gifu University, JP) <keigoi@gifu-u.ac.jp>
-- [Sung-Shik Jongmans](http://sungshik.github.io/) (Open University of the Netherlands, NL) <ssj@ou.nl>
-- [Eduard Kamburjan](https://www.mn.uio.no/ifi/english/people/aca/eduard/) (University of Oslo, NO) <eduard@ifi.uio.no>
-- [Sergueï Lenglet](https://members.loria.fr/SLenglet/)  (Université de Lorraine, FR) <serguei.lenglet@univ-lorraine.fr>
-- [Diego Marmsoler](https://www.marmsoler.com/) (University of Exeter, GB) <d.marmsoler@exeter.ac.uk>
-- [Anastasia Mavridou](http://amavridou.com/) (NASA Ames, USA) <anastasia.mavridou@nasa.gov>
-- [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) (University of Turin, IT) <doriana.medic@gmail.com>
-- [Nadia Polikarpova](https://cseweb.ucsd.edu/~npolikarpova/) (University of California, San Diego, USA) <npolikarpova@eng.ucsd.edu>
-- [Ivan Prokić](http://imft.ftn.uns.ac.rs/~iprokic/Main) (Faculty of Technical Sciences, University of Novi Sad, RS) <prokic@uns.ac.rs>
-- [Matteo Sammartino](https://matteosammartino.com/)  (Royal Holloway, University of London, GB) <matteo.sammartino@rhul.ac.uk>
-- [Amrita Suresh](https://amritasuresh.github.io/) (ENS Paris Saclay, FR) <asuresh@lsv.fr>
-- [Gerard Tabone](https://gerardtabone.com/) (University of Malta, MT) <gerard@tabone.me>
-- [Fangyi Zhou](http://www.doc.ic.ac.uk/~fz315/) (Imperial College London, GB) <fangyi.zhou15@imperial.ac.uk>
-
-
-- [**Duncan Paul Attard**](https://duncanatt.github.io/) (Reykjavík University, IS) ★
-- [Massimo Bartoletti](https://tcs.unica.it/members/bart) (Università di Cagliari, IT)
-- [Davide Basile](https://davidebasile.github.io/) (ISTI CNR, IT)
-- [Alex Coto](https://www.gssi.it/people/students/students-computer-science/item/4803-coto-alex) (Gran Sasso Science Institute, IT)
-- [Hélène Coullon](https://helene-coullon.fr/) (IMT Atlantique, FR)
-- [Jovana Dedeić](http://imft.ftn.uns.ac.rs/math/People/JovanaRadenovi%C4%87) (Faculty of Technical Sciences, University of Novi Sad, RS)
-- [Simon Fowler](http://www.simonjf.com/) (University of Glasgow School of Computing Science, GB-SCT)
-- [Saverio Giallorenzo](https://www.saveriogiallorenzo.com/) (University of Bologna, IT)
-- [Ludovic Henrio](https://lhenrio.github.io/) (CNRS, FR)
-- [Keigo Imai](https://keigoimai.info/) (Gifu University, JP)
-- [Sung-Shik Jongmans](http://sungshik.github.io/) (Open University of the Netherlands, NL)
-- [Ivan Lanese](http://www.cs.unibo.it/~lanese/) (University of Bologna, IT)
-- [Julien Lange](https://www.cs.rhul.ac.uk/~jlange) (Royal Holloway, University of London, GB)
-- [Sergueï Lenglet](https://members.loria.fr/SLenglet/) (Université de Lorraine, FR)
-- [Diego Marmsoler](https://www.marmsoler.com/) (University of Exeter, GB)
-- [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) (University of Turin, IT)
-- [Kirstin Peters](https://www.informatik.tu-darmstadt.de/fb20/organisation_fb20/professuren_und_gruppenleitungen/fb20professuren_und_gruppenleitungen_detailseite_84096.en.jsp) (Technischen Universität Darmstadt, GE)
-- [Ivan Prokić](http://imft.ftn.uns.ac.rs/~iprokic/Main) (Faculty of Technical Sciences, University of Novi Sad, RS)
-- [Matteo Sammartino](https://matteosammartino.com/) (Royal Holloway, University of London, GB)
-- [Amrita Suresh](https://amritasuresh.github.io/) (ENS Paris Saclay, FR)
-
-★ **The _ICE 2023 Outstanding PC Member Award_ was awarded to Duncan Paul Attard!**
-
+★ **The _ICE 2023 Outstanding PC Member Award_ was awarded to <FILL>!**
 -->
 
 ## Steering Committee
@@ -234,7 +209,7 @@ The previous editions of ICE have been held on:
 
 - [ICE'22](https://www.discotec.org/2022/ice), June 17, 2022 in Lucca, Italy, co-located with [DisCoTec'22](https://www.discotec.org/2022/). The post-proceedings were published in [EPTCS (vol. 365)](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022) and selected papers are currently being reviewed to appear in a special issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/).
 - [ICE'21](http://www.discotec.org/2021/ice), June 18, 2020, online event co-located with [DisCoTec'21](https://www.discotec.org/2021/). The post-proceedings were published in [EPTCS (vol. 347)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2021) and selected papers appeared in a special issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/106L7VVC5FC).
-- [ICE'20](http://www.discotec.org/2020/ice), June 19, 2020, online event co-located with [DisCoTec'20](https://www.discotec.org/2020/). The post-proceedings were published in [EPTCS (vol. 324)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2020) and a special issue of JLAMP is in preparation.
+- [ICE'20](http://www.discotec.org/2020/ice), June 19, 2020, online event co-located with [DisCoTec'20](https://www.discotec.org/2020/). The post-proceedings were published in [EPTCS (vol. 324)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2020) and two papers appeared in JLAMP ([10.1016/j.jlamp.2021.100712](https://doi.org/10.1016/j.jlamp.2021.100712) and [10.1016/j.jlamp.2022.100776](https://doi.org/10.1016/j.jlamp.2022.100776)).
 - [ICE'19](http://www.discotec.org/2019/ice), June 20-21, 2019 in Lyngby, Denmark, co-located with [DisCoTec'19](https://www.discotec.org/2019/). The post-proceedings were published in [EPTCS (vol. 304)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2019) and selected papers appeared in a special issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/101ZSK6ZFQ4).
 - [ICE'18](http://2018.discotec.org/cfp_w_ice.html), June 20-21, 2018 in Madrid, Spain, co-located with DisCoTec'18. The post-proceedings were published in [EPTCS (vol. 279)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2018) and selected papers appeared in a special issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/10XN45J051V).
 - [ICE'17](http://2017.discotec.org/workshops/ice-2017.html), June 21-22 2017 in Neuchâtel, Switzerland, co-located with DisCoTec'17. The post-proceedings were published in [EPTCS (vol. 261)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2017) and a special issue of [JLAMP (Vol. 109)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/vol/109).
