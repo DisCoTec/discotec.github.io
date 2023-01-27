@@ -185,6 +185,7 @@ To improve and reward reproducibility and to give more visibility and credit to 
 * Hanne Riis Nielson (Technical University of Denmark, Denmark)
 * Marjan Sirjani (Mälardalen University, Sweden)
 * Carolyn Talcott (SRI International, California, USA)
+* Maurice ter Beek (CNR-ISTI, Italy)
 * Emilio Tuosto (Gran Sasso Science Institute, Italy)
 * Vasco T. Vasconcelos (University of Lisbon, Portugal)
 * Mirko Viroli (Università di Bologna, Italy)
