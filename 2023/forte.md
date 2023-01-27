@@ -38,7 +38,6 @@ The main topics of interest include:
 ## Submission
 
 ### Important Dates (AoE)
----------------------
 * Abstract submission: February 11, 2023
 * Paper submission: February 18, 2023
 * Artefact and video submission: February 25, 2023
