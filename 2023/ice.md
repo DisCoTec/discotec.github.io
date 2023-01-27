@@ -163,7 +163,7 @@ Use `ice2023 (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ## Programme Committee {#programme-committee}
 
-- [Duncan Paul Attard](https://duncanatt.github.io/) (Reykjavík University, IS) 
+- [Duncan Paul Attard](https://duncanatt.github.io/) (University of Glasgow School of Computing Science, GB-SCT) 
 - [Massimo Bartoletti](https://tcs.unica.it/members/bart) (Università di Cagliari, IT) 
 - [Davide Basile](https://davidebasile.github.io/) (ISTI CNR, IT) 
 - [Hélène Coullon](https://helene-coullon.fr/) (IMT Atlantique, FR) 
