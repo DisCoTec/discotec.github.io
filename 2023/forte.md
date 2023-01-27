@@ -38,11 +38,12 @@ The main topics of interest include:
 ## Submission
 
 ### Important Dates (AoE)
+---------------------
 * Abstract submission: February 11, 2023
 * Paper submission: February 18, 2023
-* Paper notification: March 31, 2023
-* Artefact submission: April 14, 2023
-* Artefact notification: April 28, 2023
+* Artefact and video submission: February 25, 2023
+* Rebuttal period: March 23 and 24
+* Paper and artefact notification: March 31, 2023
 * Camera-ready: April 30, 2023
 * DisCoTec conference: June 19-23, 2023
 
