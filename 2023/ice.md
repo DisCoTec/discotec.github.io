@@ -181,7 +181,7 @@ Use `ice2023 (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Matteo Sammartino](https://matteosammartino.com/)  (Royal Holloway, University of London, GB) 
 - [Amrita Suresh](https://amritasuresh.github.io/) (ENS Paris Saclay, FR) 
 - [Gerard Tabone](https://gerardtabone.com/) (University of Malta, MT) 
-- [Fangyi Zhou](http://www.doc.ic.ac.uk/~fz315/) (Imperial College London, GB) 
+- [Fangyi Zhou](http://www.doc.ic.ac.uk/~fz315/) (Imperial College London and University of Oxford, GB) 
 
 
 <!--
