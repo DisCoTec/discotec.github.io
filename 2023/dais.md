@@ -43,7 +43,15 @@ System issues and design goals, including
 * tail-performance and energy-efficiency.
 
 ## Submission dates
-See the [DisCoTec submission dates](https://www.discotec.org/2023/#important-dates).
+* Abstract submission: February 11, 2023
+* Paper submission: February 18, 2023
+* Paper notification: March 31, 2023
+* Artefact submission: April 14, 2023
+* Artefact notification: April 28, 2023
+* Camera-ready: April 30, 2023
+* DisCoTec conference: June 19-23, 2023
+
+Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
 
 ## Submission and Publication
 
