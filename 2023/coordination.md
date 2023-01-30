@@ -126,7 +126,7 @@ To improve and reward reproducibility and to give more visibility and credit to 
 * Laura Bocchi (University of Kent, UK)
 * Marcello Bonsangue (Leiden University, The Netherlands)
 * Javier Cámara (University of Malaga, Spain)
-* Ilara Castellani (INRIA, France)
+* Ilaria Castellani (INRIA, France)
 * Adrian Francalanza (University of Malta, Malta)
 * Vashti Galpin (University of Edinburgh, UK)
 * Eva Kühn (Vienna University of Technology, Austria)
