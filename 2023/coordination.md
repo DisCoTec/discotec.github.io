@@ -38,9 +38,9 @@ the potential tool presentation at the conference.
 
 ### Important dates
 
-* Abstract submission: February 11, 2023
-* Paper submission: February 18, 2023
-* Paper notification: March 31, 2023
+* Abstract submission: ~~February 11, 2023~~ February 24, 2023
+* Paper submission: ~~February 18, 2023~~ March 4, 2023
+* Paper notification: ~~March 31, 2023~~ April 7, 2023
 * Artefact submission: April 14, 2023
 * Artefact notification: April 28, 2023
 * Camera-ready: April 30, 2023
