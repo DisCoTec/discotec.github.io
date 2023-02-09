@@ -168,7 +168,7 @@ Use `ice2023 (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Davide Basile](https://davidebasile.github.io/) (ISTI CNR, IT) 
 - [Hélène Coullon](https://helene-coullon.fr/) (IMT Atlantique, FR) 
 - [Jovana Dedeić](http://imft.ftn.uns.ac.rs/math/People/JovanaRadenovi%C4%87) (Faculty of Technical Sciences, University of Novi Sad, RS) 
-- [Luc Edixhoven](https://www.cwi.nl/people/luc-edixhoven) (Centrum Wiskunde & Informatica, NL) 
+- [Luc Edixhoven](https://www.cwi.nl/people/luc-edixhoven) (Open University of the Netherlands, NL) 
 - [Saverio Giallorenzo](https://www.saveriogiallorenzo.com/) (University of Bologna, IT) 
 - [Keigo Imai](https://keigoimai.info/) (Gifu University, JP) 
 - [Sung-Shik Jongmans](http://sungshik.github.io/) (Open University of the Netherlands, NL) 
