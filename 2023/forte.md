@@ -40,7 +40,7 @@ The main topics of interest include:
 ### Important Dates (AoE)
 * Abstract submission: ~~February 11, 2023~~ February 24, 2023 (Extended)
 * Paper submission: ~~February 18, 2023~~ March 4, 2023 (Extended)
-* Artefact and video submission: ~~February 18, 2023~~ March 4, 2023 (Extended)
+* Artefact and video submission: ~~February 18, 2023~~ March 11, 2023 (Extended)
 * Rebuttal period: ~~March 23 and 24~~ March 30 and 31
 * Paper and artefact notification: ~~March 31, 2023~~ April 7, 2023
 * Camera-ready: April 30, 2023
@@ -56,6 +56,10 @@ All papers should be submitted in LNCS format. We solicit papers in the followin
 * __Regular papers__ (7-15 pages, not counting references): describing thorough and complete research results and experience reports. Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the Artefact Evaluation Committee, but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
 * __Tool papers__ (7-15 pages, not counting references): describing technological artefacts in the scope of the research topics of FORTE.  The paper should present the underlying theory of the tool, a clear account of the tool’s functionality and limitations, and include case studies (with rigorous experimental evaluation). In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee.  The paper must contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes, to be submitted until a week after the paper submission deadline.
 * __Short papers__ (4-6 pages, not counting references): describing innovative and promising ideas, possibly in an early form, or demonstrating new tools (components), or presenting (i) calls to action, or (ii) substantiated reflections on current and/or future research perspectives related to FORTE, or a summary of a published journal paper clarifying why the presentation would enrich the program of FORTE. 
+
+### Artefact Submission and Evalution Guidelines
+
+FORTE this year includes an artefact evaluation performed by the artefact evaluation committee (AEC). Refer to this [page](forte_ae.md) for additional details.
   
 ### Partial Rebuttal
 Some papers that raised doubts the reviewers would like to clarify to consider acceptance, will have 48h to respond to concrete questions. The responses will be taken into account during the PC discussions.
