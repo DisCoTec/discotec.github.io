@@ -36,7 +36,7 @@ To be defined.
 
 DisCoTec 2023 gathers tutorials and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
 
-[Call for Satellite Events Proposals](csep.md): We invite the community to submit proposals for one day workshops and tutorials on topics related to the distributed computing field. 
+[Call for Satellite Events Proposals](csep.md): We invite the community to submit proposals for one day workshops and tutorials on topics related to the distributed computing field.
 
  
 ### Important Dates
