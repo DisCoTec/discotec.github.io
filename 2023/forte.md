@@ -59,7 +59,7 @@ All papers should be submitted in LNCS format. We solicit papers in the followin
 
 ### Artefact Submission and Evalution Guidelines
 
-FORTE this year includes an artefact evaluation performed by the artefact evaluation committee (AEC). Refer to this [page](forte_ae.md) for additional details.
+FORTE 2023 includes an artefact evaluation performed by the artefact evaluation committee (AEC). Refer to this [**page**](forte_ae.md) for additional details.
   
 ### Partial Rebuttal
 Some papers that raised doubts the reviewers would like to clarify to consider acceptance, will have 48h to respond to concrete questions. The responses will be taken into account during the PC discussions.
