@@ -1,7 +1,7 @@
 [![](discotec2023-banner.v2.jpeg)](https://www.discotec.org/2023/)
 
 # Artefact Evaluation
-[FORTE](https://www.discotec.org/2023/forte) this year includes an artefact evaluation performed by the artefact evaluation committee (AEC). The goal of the artefact evaluation is to enable future researchers to more effectively build on and compare with previous work. The Artefact Evaluation Committee (AEC) will review the artefact. We will be attributing 3 badges, according to [EAPLS guidelines](https://eapls.org/pages/artifact_badges/):
+[FORTE 2023](https://www.discotec.org/2023/forte) this year includes an artefact evaluation performed by the artefact evaluation committee (AEC). The goal of the artefact evaluation is to enable future researchers to more effectively build on and compare with previous work. The Artefact Evaluation Committee (AEC) will review the artefact. We will be attributing 3 badges, according to [EAPLS guidelines](https://eapls.org/pages/artifact_badges/):
 1.	Artefact **functional**: documented, consistent, complete, exercisable;
 2.	Artefact **reusable**: exceeding functional, by being carefully documented and well-structured for reuse and repurposing, see below for details;
 3.	Artefact **available**: available on a publicly accessible archival repository to a permanent repository that provides a Digital Object Identifier (DOI).
