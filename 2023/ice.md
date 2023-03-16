@@ -114,7 +114,7 @@ The following dates are in the [Anywhere on Earth time zone](https://time.is/Any
 - 27 March 2023: abstract submission
 - 3 April 2023: paper submission
 - 8 May 2023: notification
-- June 19 or 23: ICE workshop
+- June 19: ICE workshop
 - 20 July 2023: camera-ready for EPTCS post-proceedings
 
 
