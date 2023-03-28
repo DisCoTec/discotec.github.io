@@ -91,6 +91,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Adrian Francalanza (University of Malta, Malta)
 * Hongfei Fu (Shanghai Jiao Tong University, China)
 * Fatemeh Ghassemi (University of Tehran, Iran)
+* Rob van Glabbeek (University of Edinburgh, UK)
 * Helle Hvid Hansen (University of Groningen, Netherlands)
 * Sung-Shik Jongmans (Open University of the Netherlands; Centrum Wiskunde & Informatica, Netherlands)
 * Jan Kofron (Charles University, Czech Republic)
@@ -103,7 +104,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Anna Philippou (University of Cyprus, Cyprus)
 * Anne Remke (WWU Münster, Germany)
 * Vasco T. Vasconcelos (LaSiGE and Dept. of Informatics, Faculty of Sciences, University of Lisbon, Portugal)
-* Rob van Glabbeek (Data61 - CSIRO, Australia)
+
 * Yuting Wang (Shanghai Jiao Tong University, China)
 
 ## Artefact Evaluation Committee Chairs
