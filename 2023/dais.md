@@ -111,8 +111,15 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * Vincenzo Gulisano, Chalmers University, Sweden
 
 ## Artefact Evaluation Committee
-* António Sousa, INESC TEC & U. Minho, Portugal
-* Vinícius Cogo, Faculdade de Ciências, Universidade de Lisboa, Portugal
+* António Sousa (chair), INESC TEC & U. Minho, Portugal
+* Bijun Li, Hainan Normal University, China
+* Cláudia Brito, INESC TEC & U. Minho, Portugal
+* Christian Berger, University of Passau, Germany
+* Giovanni Farina, Sapienza University of Rome, Italy
+* Nuno Dionísio, LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
+* Robin Vassantlal, LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
+* Tânia Esteves, INESC TEC & U. Minho, Portugal
+* Vinícius Vielmo Cogo (chair), LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
 
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands
