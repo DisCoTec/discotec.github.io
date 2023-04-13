@@ -21,7 +21,7 @@ See the [**ICE 2023 programme and pre-proceedings**](#programme), and [proceedin
 - Invited speakers:
     - [Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/) (NOVA Laboratory for Computer Science and Informatics, NOVA University of Lisbon)
     - [Adrian Francalanza](https://staff.um.edu.mt/afra1/) (Faculty of ICT, University of Malta)
-- Publication in [EPTCS](https://eptcs.org/).
+- Publication in the [Electronic Proceedings in Theoretical Computer Science](https://eptcs.org/).
 - Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
 - Contact: `ice2023 (at) framalistes.org`
 
