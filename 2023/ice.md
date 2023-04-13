@@ -24,7 +24,7 @@ See the [**ICE 2023 programme and pre-proceedings**](#programme), and [proceedin
 - Contact: `ice2023 (at) framalistes.org`
 - Invited speakers:
     - [Adrian Francalanza](https://staff.um.edu.mt/afra1/) (Faculty of ICT, University of Malta)
-    - More TBA
+    - [Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/) (NOVA Laboratory for Computer Science and Informatics, NOVA University of Lisbon)
 
 ## Scope
 
@@ -111,8 +111,8 @@ His research focusses on Concurrency and Ownership, with a particular focus on m
 
 The following dates are in the [Anywhere on Earth time zone](https://time.is/Anywhere_on_Earth).
 
+- 2̶7̶t̶h̶ ̶M̶a̶r̶c̶h̶ ̶2̶0̶2̶3̶ 13 April 2023: abstract submission
 - 3̶r̶d̶ ̶A̶p̶r̶i̶l̶ ̶2̶0̶2̶3̶ 13 April 2023: paper submission
-- 2̶7̶t̶h̶ ̶M̶a̶r̶c̶h̶ ̶2̶0̶2̶3̶ 10 April 2023: abstract submission
 - 8 May 2023: notification
 - June 19: ICE workshop
 - 20 July 2023: camera-ready for EPTCS post-proceedings
