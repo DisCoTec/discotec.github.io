@@ -181,7 +181,7 @@ Use `ice2023 (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) (University of Turin, IT) 
 - [Ivan Prokić](http://imft.ftn.uns.ac.rs/~iprokic/Main) (Faculty of Technical Sciences, University of Novi Sad, RS) 
 - [Matteo Sammartino](https://matteosammartino.com/)  (Royal Holloway, University of London, GB) 
-- [Amrita Suresh](https://amritasuresh.github.io/) (ENS Paris Saclay, FR) 
+- [Amrita Suresh](https://amritasuresh.github.io/) (University of Oxford UK) 
 - [Gerard Tabone](https://gerardtabone.com/) (University of Malta, MT) 
 - [Fangyi Zhou](http://www.doc.ic.ac.uk/~fz315/) (Imperial College London and University of Oxford, GB) 
 
