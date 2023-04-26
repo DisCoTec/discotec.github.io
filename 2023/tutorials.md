@@ -1,4 +1,4 @@
-[![](https://www.discotec.org/2022/discotec2022-banner.jpeg)](https://www.discotec.org/2022/)
+[![](https://www.discotec.org/2023/discotec2023-banner.jpeg)](https://www.discotec.org/2023/)
 
 # Tutorials
 
