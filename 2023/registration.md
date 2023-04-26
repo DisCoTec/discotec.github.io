@@ -4,7 +4,6 @@ Registration for the conference will open 28/June.
 <!-- Register for attending the conference by filling [this registration form](https://forms.gle/SCWpz94nh7ZbnejQ7). -->
 
 **NOTE:**
-* After submitting the form, participants will be contacted by the organizers with the instructions and the deadlines for the payment.
 * It is required that at least one author of papers accepted to DisCoTec conferences register to the conference by the early registration date. 
 * All registration fees below include 23% of VAT. 
 * Similar to past editions, there are no special fees for students, but we have a limited amount of student travel grants provided by IFIP. Please contact the local organization for details.
