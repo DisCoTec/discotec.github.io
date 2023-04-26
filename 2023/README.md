@@ -4,19 +4,16 @@
 
 [DisCoTec](https://www.discotec.org) 2023 is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)) and the European Association for Programming Languages and Systems ([EAPLS](https://eapls.org)). It gathers conferences and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
 
-
-
 DisCoTec 2023 will take place at the [NOVA University Lisbon](https://www.unl.pt/en), between June 19-23, 2023.  
-
-## Programme
-
-To be defined.
 
 ## Conferences
 * [COORDINATION 2023](https://www.discotec.org/2023/coordination) - International Conference on Coordination Models and Languages
 * [DAIS 2023](https://www.discotec.org/2023/dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2023](https://www.discotec.org/2023/forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
+## Programme
+
+To be defined.
 
 ## Important Dates
 * **Abstract submission:** ~~February 11, 2023~~ February 24, 2023 (Extended)
@@ -32,29 +29,39 @@ To be defined.
 * [Peter Pietzuch](https://www.doc.ic.ac.uk/~prp/), Imperial College London, UK
 
 
-## Satellite Events
+## Accepted Papers
 
-DisCoTec 2023 gathers tutorials and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+To appear.
+
+## Satellite Events
+The pre-conference workshop and tutorial will take place on Monday, June 19, 2023, and post-conference tutorials on Friday, June 23, 2023.
+
+<!--DisCoTec 2023 gathers tutorials and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
 
 [Call for Satellite Events Proposals](csep.md): We invite the community to submit proposals for tutorials on topics related to the distributed computing field.
+-->
 
  
-### Important Dates
-<!-- For all workshops:
+<!-- ### Important Dates
+ For all workshops:
 - **Workshop proposal submission deadline:** ~~January 30, 2023~~ February 13, 2023 (Extended)
 - **Notification of accepted workshop proposals:** ~~February 2, 2023~~ February 16, 2023
 - **Workshop paper submission deadline:** Mid April 2023
 - **Notification of accepted workshop papers:** Mid May 2023 
 - **Workshops:** June 23, 2023
--->
+
 
 For all tutorials:
 - **Tutorial proposal submission deadline:** ~~March 7, 2023~~ March 21, 2023 (Extended)
 - **Notification of accepted tutorial proposals:** ~~March 14, 2023~~ March 31, 2023
 - **Tutorials:** June 19 or 23, 2023
-
+-->
 
 <!-- Pre-conference workshops and tutorials will take place on **Monday, June 19, 2023**, and post-conference workshops on **Friday, June 23, 2023**.
+-->
+### Tutorials
+* DisCoTec Tutorials -  Tutorial sessions
+<!-- * [DisCoTec Tutorials](tutorials) -  Tutorial sessions
 -->
 
 ### Workshops
@@ -116,6 +123,9 @@ The individual conferences will organise special issues of extended and selected
 [NOVA University Lisbon](https://www.unl.pt/en/)
 Campus de Campolide, Lisboa
 
+## Registration
+
+Go to the [registration page](https://www.discotec.org/2023/registration).
 
 ## Steering Committee
 * Gianluigi Zavattaro (University of Bologna, IT — Chair)
