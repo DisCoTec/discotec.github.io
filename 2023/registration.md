@@ -1,6 +1,6 @@
 [![](discotec2023-banner.v3.png)](https://www.discotec.org/2023/)
 
-Registration for the conference will open 28/June.
+Registration for the conference will open 28/April.
 <!-- Register for attending the conference by filling [this registration form](https://forms.gle/SCWpz94nh7ZbnejQ7). -->
 
 **NOTE:**
