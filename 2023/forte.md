@@ -1,6 +1,6 @@
 [![](discotec2023-banner.v2.jpeg)](https://www.discotec.org/2023/)
 
-# FORTE 2023 - 43nd International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+# FORTE 2023 - 43rd International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 FORTE 2023 is one of the three conferences of [DisCoTec 2023](https://www.discotec.org/2023/), the 18th International Federated Conference on Distributed Computing Techniques.
 
