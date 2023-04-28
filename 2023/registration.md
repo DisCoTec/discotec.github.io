@@ -31,7 +31,7 @@ Registration to **DisCoTec Conferences only** includes:
 * Access to all Coordination, DAIS, and FORTE sessions on Tuesday 20, Wednesday 21, and Thursday 22.
 * Lunches and coffee breaks on Tuesday 20, Wednesday 21, and Thursday 22. 
 * Free access to the online LNCS proceedings of Coordination, DAIS, and FORTE.      
-* Social event and conference dinner on Wednesday 21. 
+* Conference dinner on Wednesday 21. 
 
 Registration to **Monday Workshop + Tutorials** includes:
 * Access to the Workshop session and DisCoTec Tutorials on Monday 19.
