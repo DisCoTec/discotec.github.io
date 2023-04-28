@@ -1,7 +1,6 @@
 [![](discotec2023-banner.v3.png)](https://www.discotec.org/2023/)
 
-Registration for the conference will open 28/April.
-<!-- Register for attending the conference by filling [this registration form](https://forms.gle/SCWpz94nh7ZbnejQ7). -->
+Register for attending the conference by filling [this registration form](https://www.congressospco.abreu.pt/DisCoTec2023-40209.aspx).
 
 **NOTE:**
 * It is required that at least one author of papers accepted to DisCoTec conferences register to the conference by the early registration date. 
