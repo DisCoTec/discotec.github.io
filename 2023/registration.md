@@ -2,6 +2,7 @@
 
 Register for attending the conference by filling [this registration form](https://www.congressospco.abreu.pt/DisCoTec2023-40209.aspx).
 
+
 **NOTE:**
 * It is required that at least one author of papers accepted to DisCoTec conferences register to the conference by the early registration date. 
 * All registration fees below include 23% of VAT. 
@@ -9,7 +10,7 @@ Register for attending the conference by filling [this registration form](https:
 * Registration form will be closed after *June 16*, we encourage potential participants to register before that date; in case they can't please contact the local organization.
 * In order to keep registration fees as low as possible, on-site registration is not supported. 
 
-<!-- If you have any questions about the registration, please contact <commev@imtlucca.it> (please, refer to DisCoTec 2023 in the subject). -->
+If you have any questions about the registration, please contact <madalena.almeida@abreu.pt> (please, refer to DisCoTec 2023 in the subject).
 
 
 ### Events
