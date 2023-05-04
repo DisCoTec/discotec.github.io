@@ -1,6 +1,6 @@
 [![](discotec2023-banner.v3.png)](https://www.discotec.org/2023/)
 
-# DAIS 2023 - 23nd International Conference on Distributed Applications and Interoperable Systems
+# DAIS 2023 - 23rd International Conference on Distributed Applications and Interoperable Systems
 
 DAIS 2023 is one of the three conferences of [DisCoTec 2023](https://www.discotec.org/2023/).
 
