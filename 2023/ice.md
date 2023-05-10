@@ -44,6 +44,17 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - Tools and techniques for automation
 - Synthesis techniques
 
+## Accepted Papers
+
+- *Research Challenges in Orchestration Synthesis* by Davide Basile and Maurice H ter Beek
+- *Partially Typed Multiparty Sessions* by Franco Barbanera and Mariangiola Dezani-Ciancaglini
+- *Algebraic Reasoning About Timeliness* by Seyed Hossein HAERI, Peter Van Roy, Peter Thompson, Magne Haveraaen, Neil Davies, Mikhail Barash,  Kevin Hammond and James Chapman
+- *Branching pomsets and event structures (Oral Communication)* by Luc Edixhoven, Sung-Shik Jongmans, José Proença and Ilaria Castellani
+- *On the Introduction of Guarded Lists in Bach: Expressiveness, Correctness, and Efficiency Issues* by Jean-Marie Jacquet
+- *Proofs about Network Communication: For Humans and Machines* by Wolfgang Jeltsch and Javier Díaz
+- *Revisiting Benchmarking for Concurrent Runtime Verification (Oral Communication)* by Duncan Paul Attard
+- *Comprehensive Specification and Formal Analysis of Attestation Mechanisms in Confidential Computing (Oral Communication)* by Muhammad Usama Sardar, Thomas Fossati and Simon Frost
+- *Type qualifier inference and code synthesis for a better data-centric synchronisation experience* by Ana Almeida Matos, António Ravara, Hervé Paulino, Jan Cederquist, João Matos and Marco Giunti
 
 <!--
 ## Programme and Pre-proceedings {#programme}
