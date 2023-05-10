@@ -48,7 +48,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 - *Research Challenges in Orchestration Synthesis* by Davide Basile and Maurice H ter Beek
 - *Partially Typed Multiparty Sessions* by Franco Barbanera and Mariangiola Dezani-Ciancaglini
-- *Algebraic Reasoning About Timeliness* by Seyed Hossein HAERI, Peter Van Roy, Peter Thompson, Magne Haveraaen, Neil Davies, Mikhail Barash,  Kevin Hammond and James Chapman
+- *Algebraic Reasoning About Timeliness* by Seyed Hossein Haeri, Peter Van Roy, Peter Thompson, Magne Haveraaen, Neil Davies, Mikhail Barash,  Kevin Hammond and James Chapman
 - *Branching pomsets and event structures (Oral Communication)* by Luc Edixhoven, Sung-Shik Jongmans, José Proença and Ilaria Castellani
 - *On the Introduction of Guarded Lists in Bach: Expressiveness, Correctness, and Efficiency Issues* by Jean-Marie Jacquet
 - *Proofs about Network Communication: For Humans and Machines* by Wolfgang Jeltsch and Javier Díaz
