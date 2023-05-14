@@ -2,7 +2,7 @@
 
 ## Coordination accepted papers
 
-### Long Regular Papers
+### Long regular papers
 
 A Formal MDE Framework for Inter-DSL Collaboration </br>
 *Salim Chehida, Akram Idani, Mario Cortes-Cornax and German Vega*
@@ -28,7 +28,7 @@ Safe asynchronous mixed-choice for timed interactions </br>
 Toward Run-time Coordination of Reconfiguration Requests in Cloud Computing</br>
 *Salman Farhat, Simon Bliudze, Laurence Duchien and Olga Kouchnarenko*
 
-### Long Tool Papers
+### Long tool papers
 
 JoT: A Jolie Framework for Testing Microservices</br>
 *Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti, Florian Rademacher and Narongrit Unwerawattana*
@@ -42,7 +42,7 @@ Shelley: a framework for model checking call ordering on hierarchical systems</b
 STARK: A Software Tool for the Analysis of Robustness in the unKnown environment</br>
 *Valentina Castiglioni, Michele Loreti and Simone Tini*
 
-### Short Tool Papers
+### Short tool papers
 
 Caos: A Reusable Scala Web Animator of Operational Semantics</br>
 *José Proença and Luc Edixhoven*
@@ -51,8 +51,6 @@ RSC to the ReSCu: Automated Verification of Systems of Communicating Automata </
 *Loïc Desgeorges and Loïc Germerie Guizouarn*
 
 ## DAIS accepted papers
-
-
 
 Community-based gossip algorithm for distributed averaging </br>
 *Christel Sirocchi and Alessandro Bogliolo*
@@ -77,3 +75,41 @@ Transactional Causal Consistent Microservices Simulator  </br>
 
 ## FORTE accepted papers
 
+A Survey of Tools for Grading Concurrent Programming Exercises </br>
+*Manuel Barros, Maria Ramos, Alexandre Gomes, Alcino Cunha, Jose Pereira and Paulo Sérgio Almeida*
+
+Branching Bisimulation Semantics Enables Noninterference Analysis of Reversible Systems </br>
+*Andrea Esposito, Alessandro Aldini and Marco Bernardo*
+
+Certified Compilation of Choreographies with hacc (short) </br>
+*Luís Cruz-Filipe, Lovro Lugović and Fabrizio Montesi*
+
+Efficient dynamic model based testing using greedy test case selection </br>
+*Flip van Spaendonck*
+
+Implementing a CTL Model Checker with mG, a Language for Programming Graph Neural Networks </br>
+*Matteo Belenchia, Flavio Corradini, Michela Quadrini and Michele Loreti*
+
+Impact Analysis of Coordinated Cyber-physical Attacks via Statistical Model Checking: A Case Study </br>
+*Ruggero Lanotte, Massimo Merro and Nicola Zannone*
+
+Minimal Generating Sets for Semiflows </br>
+*Gerard Memmi*
+
+On Bisimilarity for Polyhedral Models and SLCS </br>
+*Vincenzo Ciancia, David Gabelaia, Diego Latella, Mieke Massink and Erik P. de Vink*
+
+On the Use of Model and Logical Embeddings for Model Checking of Probabilistic Systems </br>
+*Susmoy Das and Arpit Sharma*
+
+Operations on Timed Scenarios </br>
+*Neda Saeedloei and Feliks Kluzniak*
+
+Relating Reversible Petri Nets and Reversible Event Structures, categorically </br>
+*Hernán Melgratti, Claudio Antares Mezzina and G. Michele Pinna*
+
+Towards an Automatic Proof of the Bakery Algorithm (short) </br>
+*Aman Goel, Stephan Merz and Karem Sakallah*
+
+With a little help from your friends: semi-cooperative games via Joker moves </br>
+*Petra van den Bos and Marielle Stoelinga*
