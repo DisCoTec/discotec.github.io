@@ -31,7 +31,7 @@ To be defined.
 
 ## Accepted Papers
 
-To appear.
+Go to the [list of accepted papers](accepted-papers)
 
 ## Satellite Events
 The pre-conference workshop and tutorial will take place on Monday, June 19, 2023, and post-conference tutorials on Friday, June 23, 2023.
