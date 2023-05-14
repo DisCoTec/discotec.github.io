@@ -62,7 +62,7 @@
 | :---: | :---: | :---: | :---: |
 | *09.45 - 10.00* | *welcome* | *welcome*| *welcome*|
 | **10.00 - 11.00** | [Azalea Raad: title to be defined](invited#azalea) | [Azalea Raad: title to be defined](invited#azalea) | [Azalea Raad: title to be defined](invited#azalea) |
-| *11.00 - 11.25* | *break* | *break* | *break* |
+| *11.00 - 11.25* | *coffee break* | *coffee break* | *coffee break* |
 |  | **COORDINATION <br/> (Room C)** | **DAIS <br/> (Room D)** | **FORTE <br/> (Room F)** |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
 | | [Artifact session](#session-artifact) | [Artifact session](#session-artifact) | [Artifact session](#session-artifact) |
