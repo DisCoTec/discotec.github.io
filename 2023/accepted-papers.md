@@ -4,19 +4,19 @@
 
 ### Long regular papers
 
-A Formal MDE Framework for Inter-DSL Collaboration </br>
+A Formal MDE Framework for Inter-DSL Collaboration<br>
 *Salim Chehida, Akram Idani, Mario Cortes-Cornax and German Vega*
 
-Legal Contracts amending with Stipula </br>
+Legal Contracts amending with Stipula <br>
 *Cosimo Laneve, Alessandro Parenti and Giovanni Sartor*
 
-MacroSwarm: a Field-based Compositional Framework for Swarm Programming </br>
+MacroSwarm: a Field-based Compositional Framework for Swarm Programming <br>
 *Gianluca Aguzzi, Roberto Casadei and Mirko Viroli*
 
-Programming Distributed Collective Processes for Dynamic Ensembles and Collective Tasks </br>
+Programming Distributed Collective Processes for Dynamic Ensembles and Collective Tasks <br>
 *Giorgio Audrito, Roberto Casadei, Ferruccio Damiani, Gianluca Torta and Mirko Viroli*
 
-Reasoning about Choreographic Programs </br>
+Reasoning about Choreographic Programs <br>
 *Luís Cruz-Filipe, Eva Graversen, Fabrizio Montesi and Marco Peressotti*
 
 Rollback Recovery in Session-based Programming </br>
