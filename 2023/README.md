@@ -34,7 +34,7 @@ To be defined.
 Go to the [list of accepted papers](https://www.discotec.org/2023/accepted-papers).
 
 ## Conference Venue
-[Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt)</br>
+[Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt)<br/>
 [NOVA University Lisbon](https://www.unl.pt/en/)<br/>
 Campus de Campolide, 1099-085 Lisboa
 
