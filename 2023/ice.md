@@ -186,7 +186,7 @@ Use `ice2023 (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Keigo Imai](https://keigoimai.info/) (Gifu University, JP) 
 - [Sung-Shik Jongmans](http://sungshik.github.io/) (Open University of the Netherlands, NL) 
 - [Eduard Kamburjan](https://www.mn.uio.no/ifi/english/people/aca/eduard/) (University of Oslo, NO) 
-- [Sergueï Lenglet](https://members.loria.fr/SLenglet/)  (Université de Lorraine, FR) 
+- **[Sergueï Lenglet](https://members.loria.fr/SLenglet/)  (Université de Lorraine, FR)** ★
 - [Diego Marmsoler](https://www.marmsoler.com/) (University of Exeter, GB) 
 - [Anastasia Mavridou](http://amavridou.com/) (NASA Ames, USA) 
 - [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) (University of Turin, IT) 
@@ -196,12 +196,7 @@ Use `ice2023 (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Gerard Tabone](https://gerardtabone.com/) (University of Malta, MT) 
 - [Fangyi Zhou](http://www.doc.ic.ac.uk/~fz315/) (Imperial College London and University of Oxford, GB) 
 
-
-<!--
-★
-
-★ **The _ICE 2023 Outstanding PC Member Award_ was awarded to <FILL>!**
--->
+★ **The _ICE 2023 Outstanding PC Member Award_ was awarded to [Sergueï Lenglet](https://members.loria.fr/SLenglet/)!**
 
 ## Steering Committee
 
