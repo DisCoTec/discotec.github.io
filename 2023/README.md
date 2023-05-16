@@ -33,6 +33,17 @@ To be defined.
 
 Go to the [list of accepted papers](https://www.discotec.org/2023/accepted-papers).
 
+## Conference Venue
+[Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt)</br>
+[NOVA University Lisbon](https://www.unl.pt/en/)<br/>
+Campus de Campolide, 1099-085 Lisboa
+
+## Accommodations
+You can find several hotels nearby the conference venue [here](https://www.google.pt/maps/search/Hotéis/@38.732843,-9.1729554,15z/data=!3m1!4b1!4m9!2m8!3m6!1zSG90w6lpcw!2sColégio+Almada+Negreiros,+Universidade+Nova+de+Lisboa,+Faculdade+de+Direito,+Tv.+Estêvão+Pinto,+1099-032+Lisboa!3s0xd19336270152f73:0x7f4b48ea0549f8e2!4m2!1d-9.1603597!2d38.7328185!6e3?hl=pt-PT).
+
+## Registration
+Go to the [registration page](https://www.discotec.org/2023/registration).
+
 ## Satellite Events
 The pre-conference workshop and tutorial will take place on Monday, June 19, 2023, and post-conference tutorials on Friday, June 23, 2023.
 
@@ -118,14 +129,6 @@ The individual conferences will organise special issues of extended and selected
 [AntonioWeb]: http://ctp.di.fct.unl.pt/~aravara/
 
 [RobertoWeb]: https://www.unibo.it/sitoweb/roby.casadei/
-
-## Conference Venue
-[NOVA University Lisbon](https://www.unl.pt/en/)
-Campus de Campolide, Lisboa
-
-## Registration
-
-Go to the [registration page](https://www.discotec.org/2023/registration).
 
 ## Steering Committee
 * Gianluigi Zavattaro (University of Bologna, IT — Chair)
