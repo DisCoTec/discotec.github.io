@@ -17,14 +17,14 @@
 |  | **COORDINATION <br/> (Room C)** | **DAIS <br/> (Room D)** | **FORTE <br/> (Room F)** |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
 | | [Session 1](#session-1-coordination) | [Session 1](#session-1-dais) | [Session 1](#session-1-forte) |
-| **11.30 - 12.00** | COORDINATION 1 | DAIS 1 | FORTE 1 | 
-| **12.00 - 12.30** | COORDINATION 2 | DAIS 2 | FORTE 2 | 
-| **12.30 - 13.00** | COORDINATION 3 | DAIS 3 | FORTE 3 | 
+| **11.30 - 12.00** | COORDINATION paper 1 | DAIS paper 1 | FORTE paper 1 | 
+| **12.00 - 12.30** | COORDINATION paper 2 | DAIS paper 2 | FORTE paper 2 | 
+| **12.30 - 13.00** | COORDINATION paper 3 | DAIS paper 3 | FORTE paper 3 | 
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break*|
 | | [Session 2](#session-2-coordination) | [Session 2](#session-2-dais) | [Session 2](#session-2-forte) |
-| **15.00 - 15.30** | COORDINATION 4 | DAIS 4 | FORTE 4 | 
-| **15.30 - 16.00** | COORDINATION 5 | DAIS 5 | FORTE 5 | 
-| **16.00 - 16.30** | COORDINATION 6 | DAIS 6 | FORTE 6 | 
+| **15.00 - 15.30** | COORDINATION paper 4 | DAIS paper 4 | FORTE paper 4 | 
+| **15.30 - 16.00** | COORDINATION paper 5 | DAIS paper 5 | FORTE paper 5 | 
+| **16.00 - 16.30** | COORDINATION paper 6 | DAIS paper 6 | FORTE paper 6  | 
 | *16.30 - 17.00* | *networking coffee* | *networking coffee* | *networking coffee*|
 
 <br/>
