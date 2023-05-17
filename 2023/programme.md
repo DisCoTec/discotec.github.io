@@ -61,15 +61,16 @@
 | Time | DisCoTec Invited Talk <br/> (Room)  | DisCoTec Invited Talk <br/> (Room) | DisCoTec Invited Talk <br/> (Room) |
 | :---: | :---: | :---: | :---: |
 | *09.45 - 10.00* | *welcome* | *welcome*| *welcome*|
-| **10.00 - 11.00** | [Azalea Raad: title to be defined](invited#azalea) | [Azalea Raad: title to be defined](invited#azalea) | [Azalea Raad: title to be defined](invited#azalea) |
-| *11.00 - 11.25* | *coffee break* | *coffee break* | *coffee break* |
+| *10.00 - 10.10* | *DisCoTec 2024* | *DisCoTec 2024*| *DisCoTec 2024*|
+| **10.10 - 11.10** | [Azalea Raad: title to be defined](invited#azalea) | [Azalea Raad: title to be defined](invited#azalea) | [Azalea Raad: title to be defined](invited#azalea) |
+| *11.10 - 11.25* | *coffee break* | *coffee break* | *coffee break* |
 |  | **COORDINATION <br/> (Room C)** | **DAIS <br/> (Room D)** | **FORTE <br/> (Room F)** |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
 | | [Best artefacts session](#session-artefact) | [Best artefacts session](#session-artefact) | [Best artefacts session](#session-artefact) |
-| **11.30 - 12.00** | COORDINATION best artefact | COORDINATION best paper | COORDINATION best paper | 
+| **11.30 - 12.00** | COORDINATION best artefact | COORDINATION best artefact | COORDINATION best artefact | 
 | **12.00 - 12.30** | DAIS best artefact | DAIS best artefact | DAIS best artefact | 
-| **12.30 - 13.00** | FORTE best paper  | FORTE best paper| FORTE best paper | 
-| *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break*|
+| **12.30 - 13.00** | FORTE best artefact  | FORTE best artefact| FORTE best artefact | 
+| *13.00 - 14:30* | *lunch break* | *lunch break* | *lunch break*|
 | | [Best papers session](#session-best-papers) | [Best papers session](#session-best-papers) | [Best papers session](#session-best-papers) |
 | **15.00 - 15.30** | COORDINATION best paper | COORDINATION best paper | COORDINATION best paper | 
 | **15.30 - 16.00** | DAIS best paper | DAIS best paper | DAIS best paper | 
