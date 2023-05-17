@@ -22,6 +22,12 @@ If you have any questions about the registration, please contact <madalena.almei
 | **Monday Workshop + Tutorials** | EUR 200 | EUR 200 |
 | **Friday Tutorials** | EUR 200 | EUR 200 |
 
+**Welcome reception (Cocktail) on Monday 19**
+Ticket for Welcome reception (**Cocktail**) on Monday 19 is included in:
+* Registration to **DisCoTec Conferences + Workshop + Tutorials**
+* Registration to Monday **Workshop + Tutorials**
+Participants with registration to **DisCoTec Conferences only** may buy tickets for Welcome reception, on the registration form.
+
 Registration to **DisCoTec Conferences + Workshop + Tutorials** includes:
 * All benefits of **DisCoTec Conferences only** (see below).
 * All benefits of **Monday Workshop + Tutorials** (see below).
