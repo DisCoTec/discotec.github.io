@@ -70,7 +70,7 @@
 | **11.30 - 12.00** | COORDINATION best artefact | COORDINATION best artefact | COORDINATION best artefact | 
 | **12.00 - 12.30** | DAIS best artefact | DAIS best artefact | DAIS best artefact | 
 | **12.30 - 13.00** | FORTE best artefact  | FORTE best artefact| FORTE best artefact | 
-| *13.00 - 14:30* | *lunch break* | *lunch break* | *lunch break*|
+| *13.00 - 15:00* | *lunch break* | *lunch break* | *lunch break*|
 | | [Best paper session](#session-best-papers) | [Best paper session](#session-best-papers) | [Best paper session](#session-best-papers) |
 | **15.00 - 15.30** | COORDINATION best paper | COORDINATION best paper | COORDINATION best paper | 
 | **15.30 - 16.00** | DAIS best paper | DAIS best paper | DAIS best paper | 
