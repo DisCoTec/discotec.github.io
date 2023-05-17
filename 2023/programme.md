@@ -41,14 +41,14 @@
 |  | **COORDINATION <br/> (Room C)** | **DAIS <br/> (Room D)** | **FORTE <br/> (Room F)** |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
 | | [Session 3](#session-3-coordination) | [Session 3](#session-3-dais) | [Session 3](#session-3-forte) |
-| **11.30 - 12.00** |  |  |  | 
-| **12.00 - 12.30** |  |  |  | 
+| **11.30 - 12.00** | ... | ... | ... | 
+| **12.00 - 12.30** | ... | ... | ... | 
 | **12.30 - 13.00** |  |  |  | 
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break*|
 | | [Session 4](#session-4-coordination) | [Session 4](#session-4-dais) | [Session 4](#session-4-forte) |
-| **15.00 - 15.30** |  |  |  | 
-| **15.30 - 16.00** |  |  |  | 
-| **16.00 - 16.30** |  |  |  | 
+| **15.00 - 15.30** | ... | ... | ... | 
+| **15.30 - 16.00** | ... | ... | ... | 
+| **16.00 - 16.30** | ... | ... | ... | 
 | *16.30 - 17.00* | *networking coffee*| *networking coffee* | *networking coffee* |
 | *20.00 - 22.00* | *Social dinner*| *Social dinner* | *Social dinner* |
 
