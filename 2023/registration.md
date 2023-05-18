@@ -24,10 +24,8 @@ If you have any questions about the registration, please contact <madalena.almei
 
 **Welcome reception (Cocktail) on Monday 19**<br/>
 Ticket for Welcome reception (**Cocktail**) on Monday 19 is included in:
-* Registration to **DisCoTec Conferences + Workshop + Tutorials**<br/>
-Participants with registration to **DisCoTec Conferences only** may buy tickets for Welcome reception, on the registration form.
-Additional tickets may also be purchased on the registration form.
-* Registration to Monday **Workshop + Tutorials**
+* Registration to **DisCoTec Conferences + Workshop + Tutorials**
+* Registration to Monday **Workshop + Tutorials**<br/>
 Participants with registration to **DisCoTec Conferences only** may buy tickets for Welcome reception, on the registration form.<br/>
 Additional tickets may also be purchased on the registration form.
 
