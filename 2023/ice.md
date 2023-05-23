@@ -56,13 +56,15 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - *Comprehensive Specification and Formal Analysis of Attestation Mechanisms in Confidential Computing (Oral Communication)* by Muhammad Usama Sardar, Thomas Fossati and Simon Frost
 - *Type qualifier inference and code synthesis for a better data-centric synchronisation experience* by Ana Almeida Matos, António Ravara, Hervé Paulino, Jan Cederquist, João Matos and Marco Giunti
 
-<!--
-## Programme and Pre-proceedings {#programme}
+## Programme {#programme} 
+
+<!-- and Pre-proceedings 
 
 You can download the [**ICE 2023 pre-proceedings**](ice22-preproceedings.pdf).
 The proceedings are also [available as EPTCS 365](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022).
 
 The talks will take place at **Cappella Guinigi**.
+-->
 
 *All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
 
@@ -70,22 +72,22 @@ The talks will take place at **Cappella Guinigi**.
 | Time CEST   | Session | Talk |
 | ------------| ------- | ---- |
 | 9:00-9:10   | Opening | _Welcome to ICE 2023_ |
-| **9:10-10:10**  | **Invited talk** | [**Matthew Parkinson (Microsoft Research UK)**: _Project Verona's Concurrency Model_](#matthew-parkinson)
-| 10:10-10:40 | Verification | Eduard Kamburjan, Nathan Wasser: _The Right Kind of Non-Determinism: Using Concurrency to Verify C Programs with Underspecified Semantics_ |
-| 10:40-11:00 |              | Muhammad Usama Sardar, Christof Fetzer: _Demystifying Attestation in Intel Trust Domain Extensions (TDX) via Formal Verification_ (oral communication)
-| **11:00-11:30** | **Coffee break** | |
-| 11:30-12:00 | Communication models | Gerard Tabone, Adrian Francalanza: _Session Fidelity for ElixirST: A Session-Based Type System for Elixir Modules_ |
-| 12:00-12:30 |                      | Luc Edixhoven, Guillermina Cledou, José Proença, Sung-Shik Jongmans: _Branching pomsets for choreographies_ |
-| 12:30-13:00 |                      | Franco Barbanera, Ivan Lanese, Emilio Tuosto: _On Composing Communicating Systems_ |
+| **9:10-10:10**  | **Invited talk** | Carla Ferreira |
+| 10:10-10:40 | Co-ordination | _Type qualifier inference and code synthesis for a better data-centric synchronisation experience_ (Ana Almeida Matos, António Ravara, Hervé Paulino, Jan Cederquist, João Matos and Marco Giunti) |
+| 10:40-11:10 |              | _Research Challenges in Orchestration Synthesis_ (Davide Basile and Maurice H ter Beek)
+| **11:10-11:30** | **Coffee break** | |
+| 11:30-12:00 | Semantics | _Branching pomsets and event structures_ (Oral Communication) (Luc Edixhoven, Sung-Shik Jongmans, José Proença and Ilaria Castellani) |
+| 12:00-12:30 | | _Algebraic Reasoning About Timeliness_ (Seyed Hossein Haeri, Peter Van Roy, Peter Thompson, Magne Haveraaen, Neil Davies, Mikhail Barash, Kevin Hammond and James Chapman) |
+| 12:30-13:00 | | _On the Introduction of Guarded Lists in Bach: Expressiveness, Correctness, and Efficiency Issues_ (Jean-Marie Jacquet) |
 | **13:00-14:30** | **Lunch break** | |
-| **14:30-15:30** | **Invited talk** | [**Ilaria Castellani (INRIA)**: _Global types and event structure semantics for asynchronous multiparty sessions_](#ilaria-castellani)
-| 15:30-16:00 | Monitoring | Matteo Cimini: _Lang-n-Send Extended: Sending Regular Expressions to Monitors_ |
+| **14:30-15:30** | **Invited talk** | Adrian Francalanza |
+| 15:30-16:00 | Runtime Verification | _Revisiting Benchmarking for Concurrent Runtime Verification_ (Oral Communication) (Duncan Paul Attard) |
 | **16:00-16:30** | **Coffee break** | |
-| 16:30-16:50 | Oral communications | Marco Bernardo, Claudio Antares Mezzina: _The NiRvAna project: Noninterference and Reversibility Analysis in Private Blockchains_ |
-| 16:50-17:10 |                     | Michele Loreti, Michela Quadrini: _A Framework for Modeling Behaviour of Aggregated Agents_ |
-| 17:10-17:40 | Discussion | _The ICE Workshop: Past, Present, and Future_ |
-| 17:40-17:50 | Conclusion | |
+| 16:30-17:00 | Confidentiality & Communication | _Comprehensive Specification and Formal Analysis of Attestation Mechanisms in Confidential Computing_ (Oral Communication) (Muhammad Usama Sardar, Thomas Fossati and Simon Frost) |
+| 17:00-17:30 | | _Partially Typed Multiparty Sessions_ (Franco Barbanera and Mariangiola Dezani-Ciancaglini) |
+| 17:30-18:00 | | _Proofs about Network Communication: For Humans and Machines_ (Wolfgang Jeltsch and Javier Díaz) |
 
+<!--
 
 ## Invited Speakers 
 
