@@ -72,7 +72,7 @@ The talks will take place at **Cappella Guinigi**.
 | Time CEST   | Session | Talk |
 | ------------| ------- | ---- |
 | 9:00-9:10   | Opening | _Welcome to ICE 2023_ |
-| **9:10-10:10**  | **Invited talk** | [Carla Ferreira](Carla-Ferreira) |
+| **9:10-10:10**  | **Invited talk** | [Carla Ferreira](#carla-ferreira) |
 | 10:10-10:40 | Co-ordination | _Type qualifier inference and code synthesis for a better data-centric synchronisation experience_ (Ana Almeida Matos, António Ravara, Hervé Paulino, Jan Cederquist, João Matos and Marco Giunti) |
 | 10:40-11:10 |              | _Research Challenges in Orchestration Synthesis_ (Davide Basile and Maurice H ter Beek)
 | **11:10-11:30** | **Coffee break** | |
@@ -80,7 +80,7 @@ The talks will take place at **Cappella Guinigi**.
 | 12:00-12:30 | | _Algebraic Reasoning About Timeliness_ (Seyed Hossein Haeri, Peter Van Roy, Peter Thompson, Magne Haveraaen, Neil Davies, Mikhail Barash, Kevin Hammond and James Chapman) |
 | 12:30-13:00 | | _On the Introduction of Guarded Lists in Bach: Expressiveness, Correctness, and Efficiency Issues_ (Jean-Marie Jacquet) |
 | **13:00-14:30** | **Lunch break** | |
-| **14:30-15:30** | **Invited talk** | [Adrian Francalanza](Adrian-Francalanza) |
+| **14:30-15:30** | **Invited talk** | [Adrian Francalanza](#adrian-francalanza) |
 | 15:30-16:00 | Runtime Verification | _Revisiting Benchmarking for Concurrent Runtime Verification_ (Oral Communication) (Duncan Paul Attard) |
 | **16:00-16:30** | **Coffee break** | |
 | 16:30-17:00 | Confidentiality & Communication | _Comprehensive Specification and Formal Analysis of Attestation Mechanisms in Confidential Computing_ (Oral Communication) (Muhammad Usama Sardar, Thomas Fossati and Simon Frost) |
