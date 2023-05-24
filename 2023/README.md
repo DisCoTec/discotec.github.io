@@ -24,9 +24,9 @@ To be defined.
 
 ## Keynote Speakers
 
-* [Azalea Raad](https://www.soundandcomplete.org/), Imperial College London, UK
-* [Frank Pfenning](https://www.cs.cmu.edu/~fp/), Carnegie Mellon University, USA
-* [Peter Pietzuch](https://www.doc.ic.ac.uk/~prp/), Imperial College London, UK
+* [Azalea Raad](https://www.discotec.org/2023/invited), Imperial College London, UK
+* [Frank Pfenning](https://www.discotec.org/2023/invited), Carnegie Mellon University, USA
+* [Peter Pietzuch](https://www.discotec.org/2023/invited), Imperial College London, UK
 
 
 ## Accepted Papers
