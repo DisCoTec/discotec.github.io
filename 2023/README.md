@@ -45,11 +45,12 @@ You can find several hotels nearby the conference venue [here](https://www.googl
 Go to the [registration page](https://www.discotec.org/2023/registration).
 
 ## Satellite Events
-The pre-conference workshop and tutorial will take place on Monday, June 19, 2023, and post-conference tutorials on Friday, June 23, 2023.
+DisCoTec 2023 gathers tutorials and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+The pre-conference workshop and tutorials will take place on Monday, June 19, 2023, and post-conference tutorials on Friday, June 23, 2023.
 
-<!--DisCoTec 2023 gathers tutorials and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
 
-[Call for Satellite Events Proposals](csep.md): We invite the community to submit proposals for tutorials on topics related to the distributed computing field.
+
+<!-- [Call for Satellite Events Proposals](csep.md): We invite the community to submit proposals for tutorials on topics related to the distributed computing field.
 -->
 
  
@@ -68,12 +69,10 @@ For all tutorials:
 - **Tutorials:** June 19 or 23, 2023
 -->
 
-<!-- Pre-conference workshops and tutorials will take place on **Monday, June 19, 2023**, and post-conference workshops on **Friday, June 23, 2023**.
+<!-- Pre-conference workshops and tutorials will take place on **Monday, June 19, 2023**, and post-conference tutorials on **Friday, June 23, 2023**.
 -->
 ### Tutorials
-* DisCoTec Tutorials -  Tutorial sessions
-<!-- * [DisCoTec Tutorials](tutorials) -  Tutorial sessions
--->
+* [DisCoTec Tutorials](www.discotec.org/2023/tutorials) -  Tutorial sessions
 
 ### Workshops
 * [ICE 2023](https://www.discotec.org/2023/ice) - Workshop on Interaction and Concurrency Experience
