@@ -4,144 +4,127 @@
 
 The DisCoTec Tutorials focus on emerging topics and aspects of the distributed computing field, ranging from new practical techniques and technologies to lessons learnt from projects and industry experiences.
 
-## An introduction to Spatial Logics and Spatial Model Checking
+## Implementing and Evaluating Distributed Protocols with Babel.
 
-This tutorial illustrates some emerging aspects of topological spatial and spatio-temporal model checking, going through spatial logics, the language SLCS, current implementation techniques, and some relevant tools and application domains. The audience is provided with a unifying theory of four apparently distant, but intimately related topics: formalization of properties of points in a topological space, identification of nodes in a graph, image segmentation, analysis of 3D meshes.
+### Description
 
-**Speaker** 
+In this tutorial we guide the audience through the implementation and evaluation of a simple distributed application with a tool that simplifies this process: Babel. Implementing and evaluating distributed applications and protocols is a dificult task. The developer must focus on many aspects of the implementations that include: networking, concurrency control, the handling of timeouts, the interaction between components, among others. Babel [2] is a tool and framework that simplifies the task of developing distributed applications and protocols by allowing the developer to focus mostly on the application/protocol logic. Babel achieves this by providing high level APIs that shield the developer from error-prone implementation aspects, mainly networking and concurrency control. The goal of the tutorial is to familiarize the audience with Babel by implementing a simple distributed application constituted by two protocols that interact with each other.  Furthermore, we will also provide a simple way to evaluate the implementations through emulation.
 
-[Vincenzo Ciancia](mailto:vincenzo.ciancia@isti.cnr.it) got his Ph.D. in 2009 with Ugo Montanari. As a post-doc at Univ. Complutense Madrid, ILLC (Amsterdam), IIT-CNR (Pisa), he focused on nominal computation, logic, category theory, process calculi, formal methods. Currently he works at ISTI-CNR Pisa (Formal Methods & Tools lab), on spatial and spatio-temporal model checking, geometric extensions, GPU implementations and HCI issues. He implemented many tools, among which the spatial model checker VoxLogicA, aimed at medical imaging.
-<br/><br/>
+### Speakers
 
-## A Gentle Adventure Mechanising Message Passing Concurrency Systems
+#### Pedro Fouto
 
-Mechanising programming language metatheory is a hard task. The POPLmark challenge identifies three key problems: (1) reasoning about binders; (2) mechanising complex induction arguments; and (3) building reusable components. In the field of message-passing concurrency, these challenges can be augmented, among other, to: (a) reasoning about linearity; and (b) doing complex coinduction arguments about non-terminating processes.
+Pedro Fouto is a Computer Science PhD student advised by Professors João Leitão and Nuno Preguiçaa at NOVA University of Lisbon. His main research area is distributed storage systems, where he has used Babel to develop his prototypes. In more detail, Babel was used to develop the prototypes presented in the paper "High Throughput Replication with Integrated Membership Management" published in the Proceedings of USENIX ATC'22. Pedro Fouto is also the first author of the Babel paper.
 
-The aim of this tutorial is to explore a repertoire of techniques that can be used for mechanising the metatheory of session-typed process calculi. We separate this workshop in three parts (acts). In Act I we explore strategies for representing binders in a binary session type system. In Acts II and III we explore reasoning about coinductive processes, in a multiparty process calculus, where Act II focuses on multiparty processes, and Act III on the mechanisation of Multiparty Session Types.
+#### Pedro Santos Costa
+Pedro Santos Costa is a Computer Science PhD student advised by Professor João Leitão at NOVA University of Lisbon.  His main research is distributed systems, where he has used Babel to develop the prototypes used in the paper "Overlay networks for edge management" published in the Proceedings of NCA'20. Pedro Santos Costa is also a co-author of the Babel paper.
 
-Discussed topics: understanding of basic session types, implementing shallow and deep embeddings in Coq, learning how to use locally nameless (and EMTST), how to mechanise metatheory of session types (both binary and multiparty), and using coinduction for semantic representation of communication systems.
+#### João Leitão
+João Leitão is an Associate Professor at the Department of Computer Science of the NOVA University of Lisbon. João Leitão teaches an advanced distributed systems courses where the students employ Babel to develop their project. João Leitão is also one of the authors of the Babel paper, published in 2022 in the Proceedings of SRDS'22.
 
-**Speakers**
+---
 
-[David Castro-Perez](d.castro-perez@kent.ac.uk) is a lecturer at the University of Kent. His research is on applying programming language-based techniques to the development of safe and predictable systems, with a strong emphasis on concurrent and distributed systems.
+## Deductive Verification of OCaml Programs in Cameleer.
 
-[Francisco Ferreira](francisco.ferreiraruiz@rhul.ac.uk) is a lecturer at Royal Holloway, University of London. His research is on safe and dependable software through a combination of type systems and mechanical proofs. Recently, his work concentrates on session types and mechanical proofs enabling certified software.
+In this tutorial we present Cameleer, an automated deductive verification
+tool for OCaml. We leverage on the recently proposed GOSPEL (Generic
+OCaml SPEcification Language) to attach rigorous, yet readable, behavioral specification to OCaml code. 
+The formally-specified program is fed to our toolchain, which translates it into an equivalent one in WhyML,
+the programming and specification language of the Why3 verification
+framework.  The tutorial is mainly an hands-on introduction to the tool and the verification of OCaml programs, 
+annotated with GOSPEL specification elements. The following five case studies are used during the tutorial:
 
-[Lorenzo Gheri](l.gheri@imperial.ac.uk) is a research associate (postdoc) at Imperial College London with a background in mathematics, he works on the mechanisation and theory of multiparty session types.
+- XOR-based cipher [.ml]
+- A simple applicative data structure, based on forests [.ml]
+- Array scanning function, using a for-loop [.ml]
+- Ephemeral implementation of a FIFO data structure [.ml]
+- Leftist Heaps implementation, directly issued from the ocaml-containers library [.ml]
 
-[Martin Vassor](m.vassor@imperial.ac.uk) is a research associate (postdoc) at Imperial College London with a background in computer sciences, he works on the theory and implementation of multiparty session types.
-<br/><br/>
+### Speaker
+#### Mário Pereira
 
-## Smart contracts in Bitcoin and BitML
+[Mário Pereira](https://mariojppereira.github.io/) is Assistant Professor at NOVA School of Science and Technology, as well as an integrated member of NOVA LINCS. Prior, he held a Marie Skłodowska-Curie individual fellowship (March 2020 - May 2022), where he was the main architect and lead developer of Cameleer, a framework for the deductive verification of OCaml-written code. Pereira completed his PhD in 2018, under the supervision of Jean-Christophe Filliâtre at Université Paris-Saclay. He is an expert in deductive software verification and functional programming. He actively collaborates with worldwide-acknowledged lead researchers in the fields of functional programming and software verification, namely in the development of the GOSPEL specification language and the Why3 verification framework.
+ 
 
-Besides plain transfers of crypto-currency, Bitcoin also allows users to exchange their bitcoins according to pre-agreed rules, i.e. smart contracts. To this purpose, Bitcoin transactions feature a non Turing-complete script language, which is used to specify their redeem conditions. To overcome the limited expressiveness of this language, writing a smart contract in Bitcoin requires devising a protocol through which users can append sequences of transactions in an order consistent with the ideal overall behaviour of the smart contract.
+---
 
-A drawback of this approach is that the complexity of writing smart contracts grows quickly in the number of transactions needed to implement it. Reasoning about the correctness of these contracts is even harder: one would have to consider computational adversaries who interact with the blockchain, only being constrained to use PPTIME algorithms. To overcome these issues we have proposed BitML, a high-level DSL for smart contracts with a computationally sound compiler to Bitcoin transactions.
+## SeTTS: Session Type Test Synthesis for Web-based APIs.
 
-The computational soundness property allows us to reason about contracts at the symbolic level of the BitML semantics. We exploit this possibility to investigate a landmark property of contracts, called liquidity, which ensures that funds never remain frozen within a contract. In particular, we develop a static analysis for liquidity of BitML contracts.
+### Description
 
-The tutorial has the following goals:
-- compare smart contracts in Bitcoin and in other blockchain platforms, and more in general the UTXO-based and the account-based approaches to blockchain design;
-- exemplify the design of smart contracts in Bitcoin
-- illustrate how to abstract the Bitcoin transaction mechanism into a high-level contract language, BitML
-- give the idea of how to prove the computational soundness of the BitML compiler
-- discuss how to enhance the expressiveness of Bitcoin contracts via minor extensions of the transaction mechanism
+ Most computer applications consist of software components that  interact by exchanging messages across a network. Such messages often  depend on each other and must follow a certain order, based on how  they change the state of the application. This is the case for many  classic Internet protocols (e.g., SMTP, IMAP, etc.); also, modern  web-based APIs (e.g. REST, GraphQL, etc.) have implicit dependencies  where some messages (i.e., HTTP requests) may enable/disable further  operations and resources. Testing these message-passing applications  typically requires a substantial amount of handwritten code. Previous
+ work has explored the automatic, randomised generation of tests for  REST APIs, which can speed up the testing process, but it offers  limited support for testing non-trivial sequences of interdependent  requests.
 
-**Speakers**
+ In this tutorial, we present an approach to test message-passing  applications — with an emphasis on REST APIs. We model  message-passing protocols using session types, and present a DSL based on OpenAPI specifications to specify the shape of correct message exchanges or API usages. This approach is instantiated in a tool, SeTTS, that generates randomised test executions and reports if the system under test violates the specification. We will showcase the usability of the tool on several open-source applications and show that it achieves comparable coverage w.r.t. handwritten tests, while only requiring a fraction of their code.
 
-[Massimo Bartoletti](mailto:bart@unica.it) is Associate Professor at the Department of Mathematics and Computer Science of the University of Cagliari. His research activity concerns the development of tools and techniques for the specification, analysis and verification of software, with a special emphasis on security. Massimo Bartoletti is founder of the laboratory "Blockchain@Unica" (http://blockchain.unica.it), one of the largest academic research group on blockchain technologies in Italy, director of the node of the Cyber Security National Lab for the University of Cagliari, and core member of the CINI working group on Blockchain. The laboratory is currently investigating several aspects of blockchain technologies, among which custom Domain-Specific Languages for smart contracts. He is principal investigator of several R&D projects on blockchain technologies, editor in chief of the “Smart contracts” section of Frontiers in Blockchains, and member of the scientific board of several workshops on blockchain technologies. 
+### Speaker
+#### Christian Bartolo Burlo 
 
-[Roberto Zunino](mailto:roberto.zunino@unitn.it) is Associate Professor at the Department of Mathematics of the University of Trento. His main research themes are related to the modelling of distributed systems and their verification, employing techniques from concurrency theory, programming languages theory, formal methods, type systems, and static analysis. He is currently researching languages for modelling smart contracts on top of blockchains which do not natively support them, and assessing their security through verification algorithms. He is part of CryptoLabTN, a research group at University of Trento focusing on cryptography and its applications, including blockchain technologies. He is a core member of the Italian Distributed Ledger Technology Working Group, and an associate editor of Frontiers in Blockchain.
-<br/><br/>
+ Christian Bartolo Burlo (https://github.com/chrisbartoloburlo) is a PhD student in Computer Science at the Gran Sasso Science Institute. His research activity concerns the development of tools and techniques for the verification of interacting software, backed by a formal foundation.
+ 
+---
 
+## Local-First Principles: a Behavioural Typing Approach.
 
-## The ΔQ Systems Development Paradigm
+### Description
 
-The ΔQ Systems Development paradigm (ΔQSD) is a novel and industrially-derived software development methodology for developing complex real-world distributed systems, which directly embeds statistically-based performance metrics from the outset of the system design process, and throughout the entire software production life cycle. Its main novelty lies in how it captures the mixture of delay and failure, the continuous and discrete in a single consistent notion.
+Fully distributed systems where components coordinate merely by exchanging messages are notoriously difficult to realise. A source of complexity is that maintaining invariants of the computation is hard: on the one hand, such invariants are properties of the *global* state emerging from the *local* states of the components; on the other hand, design principles suggest avoiding centralisation points in order to reduce bottlenecks and increase scalability and robustness. Therefore, distributed components have to coordinate with each other in order to maintain invariants. This boils down to ensure correct information flows through components.
 
-This paradigm has been developed by PNSol over a period of 20+ years, in collaboration with IOHK, BT, Vodafone, Boeing, Space and Defence, and other major companies who focus on the development of reliable high-quality, high integrity, distributed software systems, with strong real-time requirements.  It has been used to successfully manage performance and architectural tradeoffs in IOHK’s Cardano PoS, as well as being used to perform network service assessments, quantitative analysis of technology and products, in-life optimisation of performance characteristics of broadband network infrastructure. In just the aspect of creating a compositional framework for measurement of network quality, the paradigm has recently been adopted as a new Technical Report (TR 452.1) by the Broadband Forum and is the subject of ongoing standardisation and development effort as part of their QED programme.
+A radically new approach is to trade consistency for availability in the design of distributed systems advocating ideas from *local-first software*: components should operate no matter how precisely their “local view reflects the global computational state”...Hence, inconsistent states will obviously emerge! But the local-first philosophy is to embrace the emergence of local inconsistencies provided that global consistency is eventually attained. These ideas are the bread & butter of the [Actyx's platform](https://developer.actyx.com), an industrial middleware to coordinate applications consisting of *local-twins*, that is computational agents that do not rely on any central components such as servers, databases, or cloud.
 
-Key to the paradigm is that, whilst armed with a strong formal and mathematical basis, it has been developed to serve wider engineering needs. This development was through collaboration with senior technical  personnel. As a result, it can exploit a variety of real-world metrics. The ΔQ paradigm delivers technical depth, simplicity, and ease of understanding via its abstractions that allow direct comparison of performance and reliability between competing designs and implementations. Importantly, it provides a low-cost enhancement to existing functional software verification and testing approaches, that can be expensive and time consuming to deploy. UiB and UCLouvain recently formalised the paradigm by providing a mathematical model that underpins the processes and concerns of systems development a la ΔQ.
-
-In this tutorial, we will present the ΔQ paradigm, highlighting results from a number of large-scale industrial use cases, and providing hands-on introduction to how to use the process in real-world settings.  The tutorial is targeted at researchers, software developers, and managers.
-
-**Speakers**
-[Neil Davies](mailto:)
-Neil Davies is an expert in resolving the practical and theoretical
-challenges of large scale distributed and high-performance computing,
-particularly scalability effects in large distributed systems, their
-operational quality, and how to manage their degradation gracefully
-under saturation and adverse operational conditions. He is a computer
-scientist, mathematician and hands-on software developer who builds
-rigorously engineered working systems and scalable demonstrators of
-new computing and networking concepts.
-
-Throughout his 20-year career at the University of Bristol he was
-involved with early developments in networking, its protocols and
-their implementations. He collaborated with organisations such as
-NATS, Nuclear Electric, HSE, ST Microelectronics and CERN on issues
-relating to scalable performance and operational safety. He was also
-technical lead on several large EU Framework collaborations relating
-to high performance switching, and has mentored PhD candidates at
-CERN.
-
-He co-founded Degree2 Innovations in 2000, commercialising network QoS
-research, and went on to found Predictable Network Solutions in 2003.
-He has worked on performance aspects of the Department of Defense’s
-Future Combat Systems project, and has developed approaches to
-delivering consistent video telephony for sign language users over
-retail broadband. He is the co-author of several patent families.
-
-[Seyed Hossein Haeri](mailto:hossein.haeri@gmail.com) is a Programming Languages scientist with links to both the industry and academia. At the same time that he works for IOHK and Entropy Software Foundation, he is an associate professor at University of Bergen, Norway. Hossein's research is in the intersection between Programming Languages and Software Engineering.
-Over the past decade, his research has enjoyed a flavour of Distributed Systems on top.
-
-[Peter Thompson](mailto:) 
-Peter Thompson became Chief Technical Officer of Predictable Network
-Solutions after several years as Chief Scientist of GoS Networks
-Limited (formerly U4EA Technologies). Prior to that he was co-founder
-and CEO of Degree2 Innovations, commercialising advanced research into
-network QoS undertaken with Neil Davies during the preceding four
-years at the Partnership in Advanced Computing Technology in Bristol,
-England, where he was a Senior Research Fellow.
-
-Previously he spent eleven years at STMicroelectronics, where one of
-his numerous patents for parallel computing and communications
-received a corporate World-wide Technical Achievement Award. For five
-years he was the Subject Editor for VLSI and Architectures of the
-journal Microprocessors and Microsystems, published by Elsevier.
-
-He has degrees in mathematics and physics from the Universities of
-Warwick and Cambridge, and spent five years researching general
-relativity, twistor theory and quantum theory at the University of
-Oxford, supervised by Professor Roger Penrose. He has published papers
-and co-authored and co-edited several books on parallel computing and
-communications.
-
-He is also chair of the Bristol Energy Cooperative, has the rank of
-3rd Dan in Takemusu Aikido, and is a keen choral singer.
-
-In March 2021 he was presented with an Outstanding Contributor Award
-at the Broadband Forum virtual Quarterly Meeting.
+This tutorial will discuss the distributed coordination of communicating systems based on local-first principles, present a formal model capturing the semantics of the Actyx platform, and then present an approach based on a new class of behavioural types to specify and analyse systems consisting of distributed components communicating through an event notification mechanism. This formal framework has been implemented in a prototype demonstrated in the tutorial.  The tutorial is based on joint work with Roland Kuhn (Actyx AG, Germany) and Hernán Melgratti (UBA & CONICET, Argentina)
 
 
-[Peter Van Roy](mailto:pvr@info.ucl.ac.be)
-Peter Van Roy is professor in the ICTEAM Institute at the Université
-catholique de Louvain, where he heads the Programming Languages and
-Distributed Computing Research Group. He coordinated the EU projects
-SELFMAN and LIGHTKONE and was a partner in the projects EMJD-DC,
-SYNCFREE, MANCOOSI, EVERGROW, and PEPITO. He is a developer of the
-Mozart Programming System and author of a well-known textbook on
-computer programming published by MIT Press.
+### Speaker
 
-## ChorChain: a Model-driven Approach for Trusted Execution of Multi-party Business Processes on Blockchain
+#### Emilio Tuosto
+Emilio Tuosto is an associate professor at the [Gran Sasso Science Institute](http://www.gssi.it).  Emilio's main research interests are in theoretical and applied aspects of distributed and mobile systems. Recently he has been working on automata- and type-based models of distributed choreographies, contract- and graph-based models of distributed interactions.
 
-In inter-organizational scenarios, distributed parties that want to reach a common goal need to collaborate by exchanging information. However, this process takes place in untrusted environments, in which correct and secure behaviours cannot be assumed by any of the involved participants. To mitigate this, usually, a trusted third-party monitors and orchestrates the different phases of the collaboration, guaranteeing its right execution. In parallel, blockchain technology was born with the idea of providing a network in which communication takes place without relying on a third party while maintaining the fundamental properties of trust and security. This encouraged the creation of a new form of systems where the business logic is implemented as smart contracts (i.e. programs running inside the blockchain) enforcing the execution of the pre-defined steps.
+Before joining the GSSI, Emilio has been associate professor of the [School of Informatics](https://cs.le.ac.uk/) of [University of Leicester](https://www.le.ac.uk), which he joined in October 2005 as a lecturer of the Department of Computer Science. Emilio has been a research associate (2003-2005) at the Dipartimento di Informatica (University of Pisa). He graduated (1998) and got his PhD degree in Computer Science (2003) at the department of Computer Science, University of Pisa.
 
-The tutorial will explore how to implement such systems by exploiting model-driven techniques, necessary to master the technical complexity and to provide an easy-to-use instrument for the system designer.
+---
 
-In particular, we will illustrate the ChorChain framework, which provides indeed an automatic procedure for the generation and execution of smart contracts starting from a high-level specification. As a starting point, the choreography diagram of the BPMN standard is one of the advocated modelling languages able to represent the interactions that should occur among distributed participants.
+## JaTyC - Java Typestate Checker
 
-We will start by introducing the ChorChain framework and its main phases, namely, modelling, instantiation, execution and auditing. Initially, the modelling environment allows participants to design their interactions through the use of a choreography model. Distributed participants can then join it starting the collaboration based on blockchain in an automatic way. After all the roles specified in the model are covered, the execution phase allows participants to exchange information in a secure and immutable way. Finally, thanks to the transparency nature of blockchain, we will show how ChorChain supports process-oriented auditing activities, in which it is possible to retrieve relevant information and monitor the state of the process. During the tutorial, we will refer to real case studies to show the feasibility of the ChorChain framework. 
+### Description
 
-**Speaker**
-[Alessandro Marcelletti](mailto:) is a PhD candidate at the University of Camerino where he obtained his Master's Degree in 2019. His research interests refer to the area of Blockchain technology and its integration into the BPM discipline. His objective is to guarantee secure execution environments between untrusted and distributed business participants. He has also explored the benefits of Blockchain in the IoT sector, creating new forms of trusted systems. His main results involve the creation of different tools and development methodologies based on Blockchain. In these areas, he has published papers in relevant journals and conferences among the other ChorChain framework was published in ACM Transactions on Management Information Systems. He also acts as Co-Organizer and speaker of the 1st  and 2nd International Online Winter School on Blockchain Technology and Applications: Hyperledger, organized online by the University of Camerino.
+[JaTyC](https://github.com/jdmota/java-typestate-checker) is a tool that verifies Java source code with respect to *typestates*. A typestate is associated with a Java class with the `@Typestate` annotation and defines: the object's states, the methods that can be safely called in each state, and the states resulting from the calls. The tool statically verifies that when a Java program runs: sequences of method calls obey to object's protocols; objects' protocols are completed; null-pointer exceptions are not raised; subclasses' instances respect the protocol of their superclasses.
+
+JaTyC is a plugin for the [Checker Framework](https://checkerframework.org/). It is a purely transparent checker, i.e. does not modify the baseline Java compilation. This tool was inspired in the [Mungo](https://www.dcs.gla.ac.uk/research/mungo/) toolset. It is a new implementation that includes new features and improvements over the current version of Mungo. A comparison table between Mungo and this tool is available [here](https://github.com/jdmota/java-typestate-checker/wiki/Mungo-comparison). Features include:
+
+- checking that methods are called in the correct order specified by the protocol;
+- checking that protocols of objects are completed;
+- checking the absence of null pointer errors;
+- support for protocols to be associated with classes from the standard Java library or from third-party libraries;
+- support for "droppable" states, which allow one to specify states in which an object may be "dropped" (i.e. stop being used) without having to reach the final state;
+- support for transitions of state to depend on boolean values or enumeration values returned by methods.
+
+Invalid sequences of method calls are also ignored when analysing the use of objects stored inside other objects by taking into account that the methods of the outer object will only be called in the order specified by the corresponding protocol, thus avoiding false positives.
+
+It is worth noticing that JaTyC provides support for subtyping: a class with a protocol may extend another class with another protocol and the tool will ensure that the first protocol is a subtype of the second protocol.
+One can also create a class with a protocol that extends a class without protocol. In the class without protocol, all methods are available to be called and remain so in the subclass. Then in the subclass, one can add new methods and restrict their use by only allowing them in certain states.
+
+### Speakers
+
+#### João Mota
+
+[João Mota](https://github.com/jdmota/) is a PhD student at the [Department of Computer Science](https://www.di.fct.unl.pt/en) of the [NOVA School of Science and Technology](https://www.fct.unl.pt/en). The problem João is tackling is integrating object sharing mechanisms with typestates in a concurrent object-oriented language that statically guarantees safety properties: protocol compliance, protocol completion, and absence of data-races. For his MSc dissertation, João developed JaTyC, a tool that verifies Java source code with respect to typestates.
+
+#### Marco Giunti
+
+[Marco Giunti](http://ctp.di.fct.unl.pt/~mgiunti/) is a senior researcher associated with [NOVA LINCS](https://nova-lincs.di.fct.unl.pt/). 
+His research interests span the areas of behavioral type systems and static analysis, computer-assisted proofs, functional programming, language-based security, and process algebraic models of concurrent computations. He believes in static analysis techniques that are formally verified by means of proof assistants, and uses Coq to mechanise type and inference systems for mobile and object-oriented core languages. 
+
+#### António Ravara
+
+[António Ravara](https://nova-lincs.di.fct.unl.pt/people/antonio-ravara#resume) is an Associate Professor at the [Department of Computer Science](https://www.di.fct.unl.pt/en) of the [NOVA School of Science and Technology](https://www.fct.unl.pt/en). The main research problem driving António's work is how to ensure that inherently concurrent, highly distributed, software systems behave correctly. The focus is on the development of techniques, program constructions, and tools that help create safe and well-behaved systems, provably providing correctness guarantees. The toolbox used includes static analysis of source code, capturing defects before deployment, with decidable, low complexity, property-driven, proof systems, using behavioural descriptions of programs.
+
+#### Mário Bravetti
+
+[Mario Bravetti](https://www.unibo.it/sitoweb/mario.bravetti/en) is a Full Professor at the [Computer Science and Engineering Department of University of Bologna](https://disi.unibo.it/en). He is also permanent member of the [FOCUS (Fundations of Component-based Ubiquitous Systems)](https://team.inria.fr/focus/) team which is part of the INRIA Sophia Antipolis - Méditerranée French research center. He is PhD in computer science and winner of the award for the two best Italian PhD theses in theoretical computer science in the year 2002, assigned by the Italian Chapter of the European Association for Theoretical Computer Science. His research activity spans from formal description and verification of distributed systems based on concurrency and probability theory to more applicative topics such as service oriented and cloud computing.
+
+#### Lorenzo Bacchiani
+
+[Lorenzo Bacchiani](lorenzo.bacchiani@unibo.it) got his M.Sc. degree in Computer Science at the University of Bologna in 2020. 
+He is now a Ph.D. student in Computer Science and Engineering in the same university. He is currently working on behavioral based approaches and languages for component interaction, adaptation and deployment.
+
