@@ -4,8 +4,6 @@ The DisCoTec Tutorials focus on emerging topics and aspects of the distributed c
 
 ## SeTTS: Session Type Test Synthesis for Web-based APIs.
 
-------
-
 ### Description
 
  Most computer applications consist of software components that  interact by exchanging messages across a network. Such messages often  depend on each other and must follow a certain order, based on how  they change the state of the application. This is the case for many  classic Internet protocols (e.g., SMTP, IMAP, etc.); also, modern  web-based APIs (e.g. REST, GraphQL, etc.) have implicit dependencies  where some messages (i.e., HTTP requests) may enable/disable further  operations and resources. Testing these message-passing applications  typically requires a substantial amount of handwritten code. Previous
@@ -15,15 +13,10 @@ The DisCoTec Tutorials focus on emerging topics and aspects of the distributed c
 
 ### Speaker
 #### Christian Bartolo Burlo 
-
- Christian Bartolo Burlo (https://github.com/chrisbartoloburlo) is a PhD student in Computer Science at the Gran Sasso Science Institute. His research activity concerns the development of tools and techniques for the verification of interacting software, backed by a formal foundation.
-
-
+[Christian Bartolo Burlo](https://github.com/chrisbartoloburlo) is a PhD student in Computer Science at the Gran Sasso Science Institute. His research activity concerns the development of tools and techniques for the verification of interacting software, backed by a formal foundation.
 
 
 ## Local-First Principles: a Behavioural Typing Approach.
-
-------
 
 ### Description
 
@@ -41,31 +34,7 @@ Emilio Tuosto is an associate professor at the [Gran Sasso Science Institute](ht
 
 Before joining the GSSI, Emilio has been associate professor of the [School of Informatics](https://cs.le.ac.uk/) of [University of Leicester](https://www.le.ac.uk), which he joined in October 2005 as a lecturer of the Department of Computer Science. Emilio has been a research associate (2003-2005) at the Dipartimento di Informatica (University of Pisa). He graduated (1998) and got his PhD degree in Computer Science (2003) at the department of Computer Science, University of Pisa.
 
-
-## Implementing and Evaluating Distributed Protocols with Babel
-
--------
-
-### Description
-
-In this tutorial we guide the audience through the implementation and evaluation of a simple distributed application with a tool that simplifies this process: Babel. Implementing and evaluating distributed applications and protocols is a dificult task. The developer must focus on many aspects of the implementations that include: networking, concurrency control, the handling of timeouts, the interaction between components, among others. Babel [2] is a tool and framework that simplifies the task of developing distributed applications and protocols by allowing the developer to focus mostly on the application/protocol logic. Babel achieves this by providing high level APIs that shield the developer from error-prone implementation aspects, mainly networking and concurrency control. The goal of the tutorial is to familiarize the audience with Babel by implementing a simple distributed application constituted by two protocols that interact with each other.  Furthermore, we will also provide a simple way to evaluate the implementations through emulation.
-
-
-### Speakers
-
-#### Pedro Fouto
-
-Pedro Fouto is a Computer Science PhD student advised by Professors João Leitão and Nuno Preguiçaa at NOVA University of Lisbon. His main research area is distributed storage systems, where he has used Babel to develop his prototypes. In more detail, Babel was used to develop the prototypes presented in the paper "High Throughput Replication with Integrated Membership Management" published in the Proceedings of USENIX ATC'22. Pedro Fouto is also the first author of the Babel paper.
-
-#### Pedro Santos Costa
-Pedro Santos Costa is a Computer Science PhD student advised by Professor João Leitão at NOVA University of Lisbon.  His main research is distributed systems, where he has used Babel to develop the prototypes used in the paper "Overlay networks for edge management" published in the Proceedings of NCA'20. Pedro Santos Costa is also a co-author of the Babel paper.
-
-#### João Leitão
-João Leitão is an Associate Professor at the Department of Computer Science of the NOVA University of Lisbon. João Leitão teaches an advanced distributed systems courses where the students employ Babel to develop their project. João Leitão is also one of the authors of the Babel paper, published in 2022 in the Proceedings of SRDS'22.
-
 ## JaTyC - Java Typestate Checker
-
-------
 
 ### Description
 
@@ -91,14 +60,10 @@ One can also create a class with a protocol that extends a class without protoco
 
 [João Mota](https://github.com/jdmota/) is a PhD student at the [Department of Computer Science](https://www.di.fct.unl.pt/en) of the [NOVA School of Science and Technology](https://www.fct.unl.pt/en). The problem João is tackling is integrating object sharing mechanisms with typestates in a concurrent object-oriented language that statically guarantees safety properties: protocol compliance, protocol completion, and absence of data-races. For his MSc dissertation, João developed JaTyC, a tool that verifies Java source code with respect to typestates.
 
-
-
 #### Marco Giunti
 
 [Marco Giunti](http://ctp.di.fct.unl.pt/~mgiunti/) is a senior researcher associated with [NOVA LINCS](https://nova-lincs.di.fct.unl.pt/). 
 His research interests span the areas of behavioral type systems and static analysis, computer-assisted proofs, functional programming, language-based security, and process algebraic models of concurrent computations. He believes in static analysis techniques that are formally verified by means of proof assistants, and uses Coq to mechanise type and inference systems for mobile and object-oriented core languages. 
-
-
 
 #### António Ravara
 
@@ -110,4 +75,21 @@ His research interests span the areas of behavioral type systems and static anal
 
 [Lorenzo Bacchiani](lorenzo.bacchiani@unibo.it) got his M.Sc. degree in Computer Science at the University of Bologna in 2020. 
 He is now a Ph.D. student in Computer Science and Engineering in the same university. He is currently working on behavioral based approaches and languages for component interaction, adaptation and deployment.
+
+## Implementing and Evaluating Distributed Protocols with Babel
+
+### Description
+
+In this tutorial we guide the audience through the implementation and evaluation of a simple distributed application with a tool that simplifies this process: Babel. Implementing and evaluating distributed applications and protocols is a dificult task. The developer must focus on many aspects of the implementations that include: networking, concurrency control, the handling of timeouts, the interaction between components, among others. Babel is a tool and framework that simplifies the task of developing distributed applications and protocols by allowing the developer to focus mostly on the application/protocol logic. Babel achieves this by providing high level APIs that shield the developer from error-prone implementation aspects, mainly networking and concurrency control. The goal of the tutorial is to familiarize the audience with Babel by implementing a simple distributed application constituted by two protocols that interact with each other.  Furthermore, we will also provide a simple way to evaluate the implementations through emulation.
+
+### Speakers
+
+#### Pedro Fouto
+Pedro Fouto is a Computer Science PhD student advised by Professors João Leitão and Nuno Preguiçaa at NOVA University of Lisbon. His main research area is distributed storage systems, where he has used Babel to develop his prototypes. In more detail, Babel was used to develop the prototypes presented in the paper "High Throughput Replication with Integrated Membership Management" published in the Proceedings of USENIX ATC'22. Pedro Fouto is also the first author of the Babel paper.
+
+#### Pedro Santos Costa
+Pedro Santos Costa is a Computer Science PhD student advised by Professor João Leitão at NOVA University of Lisbon.  His main research is distributed systems, where he has used Babel to develop the prototypes used in the paper "Overlay networks for edge management" published in the Proceedings of NCA'20. Pedro Santos Costa is also a co-author of the Babel paper.
+
+#### João Leitão
+João Leitão is an Associate Professor at the Department of Computer Science of the NOVA University of Lisbon. João Leitão teaches an advanced distributed systems courses where the students employ Babel to develop their project. João Leitão is also one of the authors of the Babel paper, published in 2022 in the Proceedings of SRDS'22.
 
