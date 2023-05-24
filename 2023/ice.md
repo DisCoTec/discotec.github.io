@@ -88,7 +88,6 @@ The talks will take place at **Cappella Guinigi**.
 | 17:30-18:00 | | _Proofs about Network Communication: For Humans and Machines_ (Wolfgang Jeltsch and Javier Díaz) |
 
 
-
 ## Invited Speakers 
 
 ### Carla Ferreira
