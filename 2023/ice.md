@@ -97,7 +97,7 @@ The talks will take place at **Cappella Guinigi**.
 #### Biography
 
 [Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/) is an Associate Professor at [Computer Science Department](http://www.di.fct.unl.pt/) of the [NOVA University of Lisbon](http://www.fct.unl.pt/), and a researcher at [NOVA Laboratory for Computer Science and Informatics](http://nova-lincs.di.fct.unl.pt//) (NOVA LINCS) in the Software Systems research group.
-She started my academic career as an Assistant at [Universidade do Minho](http://www.uminho.pt/). After that, she joined the [Dependable Systems & Software Engineering Group](http://www.dsse.ecs.soton.ac.uk/) (DSSE) of the [University of Southampton](http://www.soton.ac.uk/), first as a PhD student and later as a research fellow. After returning to Portugal in 2003, she was an Assistant Professor at [IST](http://www.ist.utl.pt/).
+She started her academic career as an Assistant at [Universidade do Minho](http://www.uminho.pt/). After that, she joined the [Dependable Systems & Software Engineering Group](http://www.dsse.ecs.soton.ac.uk/) (DSSE) of the [University of Southampton](http://www.soton.ac.uk/), first as a PhD student and later as a research fellow. After returning to Portugal in 2003, she was an Assistant Professor at [IST](http://www.ist.utl.pt/).
 
 ### Adrian Francalanza
 
