@@ -19,7 +19,7 @@ See the [**ICE 2023 programme and pre-proceedings**](#programme), and [proceedin
 - ICE welcomes full papers to be included in the proceedings
 - ICE also welcomes oral communications of already published or preliminary work
 - Invited speakers:
-    - [Carla Ferreira](#carla-ferreira)(NOVA Laboratory for Computer Science and Informatics, NOVA University of Lisbon)
+    - [Carla Ferreira](#carla-ferreira) (NOVA Laboratory for Computer Science and Informatics, NOVA University of Lisbon)
     - [Adrian Francalanza](#adrian-francalanza) (Faculty of ICT, University of Malta)
 - Publication in the [Electronic Proceedings in Theoretical Computer Science](https://eptcs.org/).
 - Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
@@ -96,8 +96,7 @@ The talks will take place at **Cappella Guinigi**.
 
 #### Biography
 
-[Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/) is an Associate Professor at [Computer Science Department](http://www.di.fct.unl.pt/) of the [NOVA University of Lisbon](http://www.fct.unl.pt/), and a researcher at [NOVA Laboratory for Computer Science and Informatics](http://nova-lincs.di.fct.unl.pt//) (NOVA LINCS) in the Software Systems research group.
-She started her academic career as an Assistant at [Universidade do Minho](http://www.uminho.pt/). After that, she joined the [Dependable Systems & Software Engineering Group](http://www.dsse.ecs.soton.ac.uk/) (DSSE) of the [University of Southampton](http://www.soton.ac.uk/), first as a PhD student and later as a research fellow. After returning to Portugal in 2003, she was an Assistant Professor at [IST](http://www.ist.utl.pt/).
+[Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/) is an Associate Professor at [Computer Science Department](http://www.di.fct.unl.pt/) of the [NOVA University of Lisbon](http://www.fct.unl.pt/), and a researcher at [NOVA LINCS](http://nova-lincs.di.fct.unl.pt/). Her research focuses on developing formal calculi, techniques, and tools to express and reason about concurrent and distributed systems with the ultimate goal of helping programmers build trustworthy and efficient systems. Currently, she leads the [TaRDIS project](https://www.project-tardis.eu/), a Horizon Europe project centered around the correct and efficient development of applications for swarms and decentralized distributed systems.
 
 ### Adrian Francalanza
 
