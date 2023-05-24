@@ -34,7 +34,7 @@ the programming and specification language of the Why3 verification
 framework.  The tutorial is mainly an hands-on introduction to the tool and the verification of OCaml programs, 
 annotated with GOSPEL specification elements. The following five case studies are used during the tutorial:
 
-- XOR-based cipher [.ml]
+- XOR-based cipher
 - A simple applicative data structure, based on forests
 - Array scanning function, using a for-loop
 - Ephemeral implementation of a FIFO data structure
