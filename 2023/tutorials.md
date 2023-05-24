@@ -35,10 +35,10 @@ framework.  The tutorial is mainly an hands-on introduction to the tool and the 
 annotated with GOSPEL specification elements. The following five case studies are used during the tutorial:
 
 - XOR-based cipher [.ml]
-- A simple applicative data structure, based on forests [.ml]
-- Array scanning function, using a for-loop [.ml]
-- Ephemeral implementation of a FIFO data structure [.ml]
-- Leftist Heaps implementation, directly issued from the ocaml-containers library [.ml]
+- A simple applicative data structure, based on forests
+- Array scanning function, using a for-loop
+- Ephemeral implementation of a FIFO data structure
+- Leftist Heaps implementation, directly issued from the ocaml-containers library
 
 ### Speaker
 #### Mário Pereira
