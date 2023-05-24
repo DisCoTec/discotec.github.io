@@ -72,7 +72,7 @@ The talks will take place at **Cappella Guinigi**.
 | Time CEST   | Session | Talk |
 | ------------| ------- | ---- |
 | 9:00-9:10   | Opening | _Welcome to ICE 2023_ |
-| **9:10-10:10**  | **Invited talk** | Carla Ferreira |
+| **9:10-10:10**  | **Invited talk** | [Carla Ferreira](Carla-Ferreira) |
 | 10:10-10:40 | Co-ordination | _Type qualifier inference and code synthesis for a better data-centric synchronisation experience_ (Ana Almeida Matos, António Ravara, Hervé Paulino, Jan Cederquist, João Matos and Marco Giunti) |
 | 10:40-11:10 |              | _Research Challenges in Orchestration Synthesis_ (Davide Basile and Maurice H ter Beek)
 | **11:10-11:30** | **Coffee break** | |
@@ -80,44 +80,34 @@ The talks will take place at **Cappella Guinigi**.
 | 12:00-12:30 | | _Algebraic Reasoning About Timeliness_ (Seyed Hossein Haeri, Peter Van Roy, Peter Thompson, Magne Haveraaen, Neil Davies, Mikhail Barash, Kevin Hammond and James Chapman) |
 | 12:30-13:00 | | _On the Introduction of Guarded Lists in Bach: Expressiveness, Correctness, and Efficiency Issues_ (Jean-Marie Jacquet) |
 | **13:00-14:30** | **Lunch break** | |
-| **14:30-15:30** | **Invited talk** | Adrian Francalanza |
+| **14:30-15:30** | **Invited talk** | [Adrian Francalanza](Adrian-Francalanza) |
 | 15:30-16:00 | Runtime Verification | _Revisiting Benchmarking for Concurrent Runtime Verification_ (Oral Communication) (Duncan Paul Attard) |
 | **16:00-16:30** | **Coffee break** | |
 | 16:30-17:00 | Confidentiality & Communication | _Comprehensive Specification and Formal Analysis of Attestation Mechanisms in Confidential Computing_ (Oral Communication) (Muhammad Usama Sardar, Thomas Fossati and Simon Frost) |
 | 17:00-17:30 | | _Partially Typed Multiparty Sessions_ (Franco Barbanera and Mariangiola Dezani-Ciancaglini) |
 | 17:30-18:00 | | _Proofs about Network Communication: For Humans and Machines_ (Wolfgang Jeltsch and Javier Díaz) |
 
-<!--
+
 
 ## Invited Speakers 
 
-### Matthew Parkinson
+### Carla Ferreira
 
-#### Talk: Project Verona's Concurrency Model
-
-> Project Verona is a research programming language exploring various interactions between ownership, memory management and concurrency.  In this talk, I will present its concurrency model, which enables asynchronously creating atomic and ordered units of work with exclusive access to a collection of independent resources. I will demonstrate the approach through a series of pedagogical examples, and briefly discuss both the implementation and the performance of the paradigm.
+#### Talk: TBA
 
 #### Biography
 
-[Matthew Parkinson](https://www.microsoft.com/en-us/research/people/mattpark/) is a Principal Researcher at Microsoft Research. Prior to joining Microsoft in 2010, he spent four years as a RAEng/EPSRC research fellowship at the University of Cambridge, where he also did his Ph.D..
+[Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/) is an Associate Professor at [Computer Science Department](http://www.di.fct.unl.pt/) of the [NOVA University of Lisbon](http://www.fct.unl.pt/), and a researcher at [NOVA Laboratory for Computer Science and Informatics](http://nova-lincs.di.fct.unl.pt//) (NOVA LINCS) in the Software Systems research group.
+She started my academic career as an Assistant at [Universidade do Minho](http://www.uminho.pt/). After that, she joined the [Dependable Systems & Software Engineering Group](http://www.dsse.ecs.soton.ac.uk/) (DSSE) of the [University of Southampton](http://www.soton.ac.uk/), first as a PhD student and later as a research fellow. After returning to Portugal in 2003, she was an Assistant Professor at [IST](http://www.ist.utl.pt/).
 
-His research focusses on Concurrency and Ownership, with a particular focus on memory safety. His recent research focusses on [Project Verona](https://github.com/microsoft/verona) and its allocator [snmalloc](https://github.com/microsoft/snmalloc).  Project Verona is a new language to explore research about efficient and safe ways to manage memory.
+### Adrian Francalanza
 
-### Ilaria Castellani
-
-#### Talk: Global types and event structure semantics for asynchronous multiparty sessions
-
-> In this talk, I will address the connection between multiparty session types (MPSTs) and event structures (ESs), focussing on a core asynchronous session calculus and on two simple classes of ESs, Prime ESs and Flow ESs. I will first introduce a new notion of global type for asynchronous multiparty sessions, which splits the standard communication construct of MPSTs in two constructs (one for output and one for input), and show that this new typing ensures the expected properties for asynchronous sessions, including progress.
->
-> I will then present an interpretation of asynchronous multiparty sessions as Flow ESs and an interpretation of our new global types as Prime ESs. I will conclude with our main result, stating that the ES interpretation of a session is equivalent, when the session is typable, to the ES interpretation of its type, namely, that the two interpretations yield isomorphic domains of configurations.
->
-> Based on joint work with Mariangiola Dezani-Ciancaglini and Paola Giannini.
+#### Talk: TBA
 
 #### Biography
 
-[Ilaria Castellani](https://www-sop.inria.fr/members/Ilaria.Castellani/) is a senior researcher at INRIA Sophia Antipolis, France. Her main research interests are in non-interleaving semantics for process calculi, language-based security for concurrent programs and processes, and multiparty session types. She was the chair of the IFIP TC1 Working Group 1.8 on Concurrency Theory from 2014 to 2020. 
+[Adrian Francalanza](https://staff.um.edu.mt/afra1/) (Faculty of ICT, University of Malta)
 
--->
 
 ## Important Dates
 
@@ -234,3 +224,7 @@ The previous editions of ICE have been held on:
 ## More Information
 
 For additional information, please [contact the ICEcreamers](#icecreamers) at `ice2023 (at) framalistes.org`.
+
+## Sponsors
+
+ICE acknowledges the generous support of [EAPLS](https://eapls.org/) through its [support for workshops](https://eapls.org/pages/workshop_support/) initiative.
