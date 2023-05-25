@@ -72,7 +72,7 @@ For all tutorials:
 <!-- Pre-conference workshops and tutorials will take place on **Monday, June 19, 2023**, and post-conference tutorials on **Friday, June 23, 2023**.
 -->
 ### Tutorials
-* [DisCoTec Tutorials](www.discotec.org/2023/tutorials) -  Tutorial sessions
+* [DisCoTec Tutorials](https://www.discotec.org/2023/tutorials) -  Tutorial sessions
 
 ### Workshops
 * [ICE 2023](https://www.discotec.org/2023/ice) - Workshop on Interaction and Concurrency Experience
