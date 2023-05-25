@@ -4,6 +4,8 @@
 The DisCoTec Tutorials focus on emerging topics and aspects of the distributed computing field, ranging from new practical techniques and technologies to lessons learnt from projects and industry experiences.
 The pre-conference tutorials will take place on Monday, June 19, 2023, and post-conference tutorials on Friday, June 23, 2023.
 
+---
+
 # Tutorials - 19th June
 
 ## Implementing and Evaluating Distributed Protocols with Babel.
@@ -44,6 +46,8 @@ annotated with GOSPEL specification elements. The following five case studies ar
 #### Mário Pereira
 
 [Mário Pereira](https://mariojppereira.github.io/) is Assistant Professor at NOVA School of Science and Technology, as well as an integrated member of NOVA LINCS. Prior, he held a Marie Skłodowska-Curie individual fellowship (March 2020 - May 2022), where he was the main architect and lead developer of Cameleer, a framework for the deductive verification of OCaml-written code. Pereira completed his PhD in 2018, under the supervision of Jean-Christophe Filliâtre at Université Paris-Saclay. He is an expert in deductive software verification and functional programming. He actively collaborates with worldwide-acknowledged lead researchers in the fields of functional programming and software verification, namely in the development of the GOSPEL specification language and the Why3 verification framework.
+
+---
  
 # BehAPI (Behavioural APIs) Tutorials - 23rd June
 
@@ -124,5 +128,7 @@ His research interests span the areas of behavioral type systems and static anal
 
 [Lorenzo Bacchiani](lorenzo.bacchiani@unibo.it) got his M.Sc. degree in Computer Science at the University of Bologna in 2020. 
 He is now a Ph.D. student in Computer Science and Engineering in the same university. He is currently working on behavioral based approaches and languages for component interaction, adaptation and deployment.
+
+-
 
 ___BehAPI project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 778233.___
