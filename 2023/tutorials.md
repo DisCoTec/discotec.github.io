@@ -1,8 +1,13 @@
-[![](https://www.discotec.org/2023/discotec2023-banner.jpeg)](https://www.discotec.org/2023/)
+[![](discotec2023-banner.v3.png)](https://www.discotec.org/2023/)
 
 # Tutorials
-
 The DisCoTec Tutorials focus on emerging topics and aspects of the distributed computing field, ranging from new practical techniques and technologies to lessons learnt from projects and industry experiences.
+The pre-conference tutorials will take place on Monday, June 19, 2023, and post-conference tutorials on Friday, June 23, 2023.
+
+### [Tutorials 19th June](https://github.com/DisCoTec/discotec.github.io/edit/master/2023/tutorials.md#tutorials---19th-june)
+### [Tutorials 23rd June](https://github.com/DisCoTec/discotec.github.io/edit/master/2023/tutorials.md#tutorials---23rd-june)
+
+# Tutorials - 19th June
 
 ## Implementing and Evaluating Distributed Protocols with Babel.
 
@@ -21,8 +26,6 @@ Pedro Santos Costa is a Computer Science PhD student advised by Professor João 
 
 #### João Leitão
 João Leitão is an Associate Professor at the Department of Computer Science of the NOVA University of Lisbon. João Leitão teaches an advanced distributed systems courses where the students employ Babel to develop their project. João Leitão is also one of the authors of the Babel paper, published in 2022 in the Proceedings of SRDS'22.
-
----
 
 ## Deductive Verification of OCaml Programs in Cameleer.
 
@@ -45,8 +48,9 @@ annotated with GOSPEL specification elements. The following five case studies ar
 
 [Mário Pereira](https://mariojppereira.github.io/) is Assistant Professor at NOVA School of Science and Technology, as well as an integrated member of NOVA LINCS. Prior, he held a Marie Skłodowska-Curie individual fellowship (March 2020 - May 2022), where he was the main architect and lead developer of Cameleer, a framework for the deductive verification of OCaml-written code. Pereira completed his PhD in 2018, under the supervision of Jean-Christophe Filliâtre at Université Paris-Saclay. He is an expert in deductive software verification and functional programming. He actively collaborates with worldwide-acknowledged lead researchers in the fields of functional programming and software verification, namely in the development of the GOSPEL specification language and the Why3 verification framework.
  
+# BehAPI (Behavioural APIs) Tutorials - 23rd June
 
----
+<img src="behapi-project-logo.png" width="182"/>
 
 ## SeTTS: Session Type Test Synthesis for Web-based APIs.
 
@@ -61,8 +65,6 @@ annotated with GOSPEL specification elements. The following five case studies ar
 #### Christian Bartolo Burlo 
 
  Christian Bartolo Burlo (https://github.com/chrisbartoloburlo) is a PhD student in Computer Science at the Gran Sasso Science Institute. His research activity concerns the development of tools and techniques for the verification of interacting software, backed by a formal foundation.
- 
----
 
 ## Local-First Principles: a Behavioural Typing Approach.
 
@@ -81,8 +83,6 @@ This tutorial will discuss the distributed coordination of communicating systems
 Emilio Tuosto is an associate professor at the [Gran Sasso Science Institute](http://www.gssi.it).  Emilio's main research interests are in theoretical and applied aspects of distributed and mobile systems. Recently he has been working on automata- and type-based models of distributed choreographies, contract- and graph-based models of distributed interactions.
 
 Before joining the GSSI, Emilio has been associate professor of the [School of Informatics](https://cs.le.ac.uk/) of [University of Leicester](https://www.le.ac.uk), which he joined in October 2005 as a lecturer of the Department of Computer Science. Emilio has been a research associate (2003-2005) at the Dipartimento di Informatica (University of Pisa). He graduated (1998) and got his PhD degree in Computer Science (2003) at the department of Computer Science, University of Pisa.
-
----
 
 ## JaTyC - Java Typestate Checker
 
@@ -128,3 +128,4 @@ His research interests span the areas of behavioral type systems and static anal
 [Lorenzo Bacchiani](lorenzo.bacchiani@unibo.it) got his M.Sc. degree in Computer Science at the University of Bologna in 2020. 
 He is now a Ph.D. student in Computer Science and Engineering in the same university. He is currently working on behavioral based approaches and languages for component interaction, adaptation and deployment.
 
+___BehAPI project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement No 778233.___
