@@ -230,4 +230,5 @@ For additional information, please [contact the ICEcreamers](#icecreamers) at `i
 ## Sponsors
 
 ICE acknowledges the generous support of [EAPLS](https://eapls.org/) through its [support for workshops](https://eapls.org/pages/workshop_support/) initiative.  
-[![European Association for Programming Languages and Systems](eapls.png){ height=197px }](https://eapls.org/)
+
+<a href="https://eapls.org/"><img src="eapls.png" height="197" alt="European Association for Programming Languages and Systems" /></a>
