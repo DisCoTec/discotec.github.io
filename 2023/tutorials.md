@@ -88,7 +88,6 @@ Before joining the GSSI, Emilio has been associate professor of the [School of I
 ## JaTyC - Java Typestate Checker
 
 ### Description
-
 [JaTyC](https://github.com/jdmota/java-typestate-checker) is a tool that verifies Java source code with respect to *typestates*. A typestate is associated with a Java class with the `@Typestate` annotation and defines: the object's states, the methods that can be safely called in each state, and the states resulting from the calls. The tool statically verifies that when a Java program runs: sequences of method calls obey to object's protocols; objects' protocols are completed; null-pointer exceptions are not raised; subclasses' instances respect the protocol of their superclasses.
 
 JaTyC is a plugin for the [Checker Framework](https://checkerframework.org/). It is a purely transparent checker, i.e. does not modify the baseline Java compilation. This tool was inspired in the [Mungo](https://www.dcs.gla.ac.uk/research/mungo/) toolset. It is a new implementation that includes new features and improvements over the current version of Mungo. A comparison table between Mungo and this tool is available [here](https://github.com/jdmota/java-typestate-checker/wiki/Mungo-comparison). Features include:
@@ -104,6 +103,8 @@ Invalid sequences of method calls are also ignored when analysing the use of obj
 
 It is worth noticing that JaTyC provides support for subtyping: a class with a protocol may extend another class with another protocol and the tool will ensure that the first protocol is a subtype of the second protocol.
 One can also create a class with a protocol that extends a class without protocol. In the class without protocol, all methods are available to be called and remain so in the subclass. Then in the subclass, one can add new methods and restrict their use by only allowing them in certain states.
+
+This is a joint work with [Lorenzo Bacchiani](lorenzo.bacchiani@unibo.it),  [Mario Bravetti](https://www.unibo.it/sitoweb/mario.bravetti/en) and [Marco Giunti](http://ctp.di.fct.unl.pt/~mgiunti/).
 
 ### Speakers
 
