@@ -18,10 +18,10 @@ In this tutorial we guide the audience through the implementation and evaluation
 
 #### Pedro Fouto
 
-Pedro Fouto is a Computer Science PhD student advised by Professors João Leitão and Nuno Preguiçaa at NOVA University of Lisbon. His main research area is distributed storage systems, where he has used Babel to develop his prototypes. In more detail, Babel was used to develop the prototypes presented in the paper "High Throughput Replication with Integrated Membership Management" published in the Proceedings of USENIX ATC'22. Pedro Fouto is also the first author of the Babel paper.
+Pedro Fouto is a Computer Science PhD student advised by Professors João Leitão and Nuno Preguiça at NOVA University of Lisbon. His main research area is distributed storage systems, where he has used Babel to develop his prototypes. In more detail, Babel was used to develop the prototypes presented in the paper "High Throughput Replication with Integrated Membership Management" published in the Proceedings of USENIX ATC'22. Pedro Fouto is also the first author of the Babel paper.
 
-#### Pedro Santos Costa
-Pedro Santos Costa is a Computer Science PhD student advised by Professor João Leitão at NOVA University of Lisbon.  His main research is distributed systems, where he has used Babel to develop the prototypes used in the paper "Overlay networks for edge management" published in the Proceedings of NCA'20. Pedro Santos Costa is also a co-author of the Babel paper.
+#### Pedro Akos Costa
+Pedro Akos Costa is a Computer Science PhD student advised by Professor João Leitão at NOVA University of Lisbon.  His main research is distributed systems, where he has used Babel to develop the prototypes used in the paper "Overlay networks for edge management" published in the Proceedings of NCA'20. Pedro Santos Costa is also a co-author of the Babel paper.
 
 #### João Leitão
 João Leitão is an Associate Professor at the Department of Computer Science of the NOVA University of Lisbon. João Leitão teaches an advanced distributed systems courses where the students employ Babel to develop their project. João Leitão is also one of the authors of the Babel paper, published in 2022 in the Proceedings of SRDS'22.
