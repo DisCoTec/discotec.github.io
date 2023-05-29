@@ -100,11 +100,15 @@ The talks will take place at **Cappella Guinigi**.
 
 ### Adrian Francalanza
 
-#### Talk: TBA
+#### Talk: If At First You Don’t Succeed: Extended Monitorability through Multiple Executions
+
+> In this talk I will discuss recent work on investigating the increase in observational capabilities of monitors that analyse systems over multiple runs. I will illustrate how this augmented monitoring setup can affect the class of properties that can be verified at runtime focusing, in particular, on branching-time properties expressed in the modal mu-calculus. Although branching-time properties are considered  to be preserve of static verification techniques such as model-checking, our preliminary results show that the extended monitoring setup can be used to systematically extend previously established monitorability limits. If time permits, I will also discuss bounds that capture the correspondence between the syntactic structure of a branching-time property and the number of system runs required to conduct adequate runtime verification.  
+> This is joint work with Antonis Achilleos and Jasmine Xuereb.
 
 #### Biography
 
-[Adrian Francalanza](https://staff.um.edu.mt/afra1/) (Faculty of ICT, University of Malta)
+[Adrian Francalanza](https://staff.um.edu.mt/afra1/) is a full professor at the University of Malta.  His area of expertise covers both static and runtime verification, applied to behavioural models and languages for concurrency and distributed computation.
+He currently leads [BehAPI: Behavioural APIs](https://www.um.edu.mt/projects/behapi/), an H2020 RISE project on behavioural theories for API-based software, and participates on a RANNIS project called [MoVeMnt](http://icetcs.ru.is/movemnt/) which aims to extend the theory and capabilities of runtime verification. 
 
 
 ## Important Dates
