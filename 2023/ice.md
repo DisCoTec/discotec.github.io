@@ -231,4 +231,3 @@ For additional information, please [contact the ICEcreamers](#icecreamers) at `i
 
 ICE acknowledges the generous support of [EAPLS](https://eapls.org)/ through its [support for workshops](https://eapls.org/pages/workshop_support/) initiative.  
 [![](eapls.png)](eapls.png)
-
