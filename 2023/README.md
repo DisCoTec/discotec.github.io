@@ -13,7 +13,7 @@ DisCoTec 2023 will take place at the [NOVA University Lisbon](https://www.unl.pt
 
 ## Programme
 
-To be defined.
+Go to the [programme page](https://www.discotec.org/2023/programme).
 
 ## Important Dates
 * **Abstract submission:** ~~February 11, 2023~~ February 24, 2023 (Extended)
