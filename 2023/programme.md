@@ -65,15 +65,15 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | *11.00 - 11.25* | *coffee break* | *coffee break* | *coffee break* |
 |  | **COORDINATION <br/> (Room 219)** | **DAIS <br/> (Room 209)** | **FORTE <br/> (Room 217)** |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
-| | [Session 3](#session-3-coordination) | [Session 3](#session-3-dais) | [Session 3](#session-3-forte) |
-| **11.30 - 12.00** | ... | Transactional causal consistent microservices simulator | ... | 
-| **12.00 - 12.30** | ... | Runtime load-shifting of distributed monitors and controllers across networked devices | ... | 
+| | [Session 3](#session-3-coordination) | [Session 3: Distributed Architectures & Data Management](#session-3-distributed-architectures--data-management) | [Session 3](#session-3-forte) |
+| **11.30 - 12.00** | ... | [Transactional causal consistent microservices simulator](#session-3-distributed-architectures--data-management) | ... | 
+| **12.00 - 12.30** | ... | [Runtime load-shifting of distributed monitors and controllers across networked devices](#session-3-distributed-architectures--data-management) | ... | 
 | **12.30 - 13.00** | ... |  | ... |
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break*|
-| | [Session 4](#session-4-coordination) | [Session 4](#session-4-dais) | [Session 4](#session-4-forte) |
-| **15.00 - 15.30** | ... | ... | ... | 
-| **15.30 - 16.00** | ... | ... | ... | 
-| **16.00 - 16.30** | ... | ... | ... | 
+| | [Session 4](#session-4-coordination) |  | [Session 4](#session-4-forte) |
+| **15.00 - 15.30** | ... |  | ... | 
+| **15.30 - 16.00** | ... |  | ... | 
+| **16.00 - 16.30** | ... |  | ... | 
 | *16.30 - 17.00* | *networking coffee*| *networking coffee* | *networking coffee* |
 | *20.00 - 22.00* | *Social dinner*| *Social dinner* | *Social dinner* |
 
@@ -85,7 +85,7 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | :---: | :---: | :---: | :---: |
 | *09.45 - 10.00* | *welcome* | *welcome*| *welcome*|
 | *10.00 - 10.10* | *DisCoTec 2024* | *DisCoTec 2024*| *DisCoTec 2024*|
-| **10.10 - 11.10** | [Azalea Raad: title to be defined](invited#azalea) | [Azalea Raad: title to be defined](invited#azalea) | [Azalea Raad: title to be defined](invited#azalea) |
+| **10.10 - 11.10** | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)  | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad) | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)  |
 | *11.10 - 11.25* | *coffee break* | *coffee break* | *coffee break* |
 |  | **COORDINATION <br/> (Room 217)** | **DAIS <br/> (Room 217)** | **FORTE <br/> (Room 217)** |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
