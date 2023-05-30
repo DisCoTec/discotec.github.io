@@ -97,7 +97,7 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | | [Best paper session](#discotec-best-papers-room-217) | [Best paper session](#discotec-best-papers-room-217) | [Best paper session](#discotec-best-artefacts-room-217)  |
 | **15.00 - 15.30** | COORDINATION best paper | COORDINATION best paper | COORDINATION best paper | 
 | **15.30 - 16.00** | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217) | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217) | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217)| 
-| 16.00 - 16.30 | FORTE best paper | FORTE best paper | FORTE best paper | 
+| 16.00 - 16.30 | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | 
 | **16.30 - 17.00** | *networking coffee* | *networking coffee* | *networking coffee* |
 
 <br/>
