@@ -89,14 +89,14 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | *11.10 - 11.25* | *coffee break* | *coffee break* | *coffee break* |
 |  | **COORDINATION <br/> (Room 217)** | **DAIS <br/> (Room 217)** | **FORTE <br/> (Room 217)** |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
-| | [Best artefact session](#session-artefact) | [Best artefact session](#session-artefact) | [Best artefact session](#session-artefact) |
+| | [Best artefact session](#discotec-best-artefacts-room-217) | [Best artefact session](#discotec-best-artefacts-room-217)  | [Best artefact session](#discotec-best-artefacts-room-217) |
 | **11.30 - 12.00** | COORDINATION best artefact | COORDINATION best artefact | COORDINATION best artefact | 
 | **12.00 - 12.30** | DAIS best artefact | DAIS best artefact | DAIS best artefact | 
 | **12.30 - 13.00** | FORTE best artefact  | FORTE best artefact| FORTE best artefact | 
 | *13.00 - 15:00* | *lunch break* | *lunch break* | *lunch break*|
-| | [Best paper session](#session-best-papers) | [Best paper session](#session-best-papers) | [Best paper session](#session-best-papers) |
+| | [Best paper session](#discotec-best-papers-room-217) | [Best paper session](#discotec-best-papers-room-217) | [Best paper session](#discotec-best-artefacts-room-217)  |
 | **15.00 - 15.30** | COORDINATION best paper | COORDINATION best paper | COORDINATION best paper | 
-| **15.30 - 16.00** | DAIS best paper | DAIS best paper | DAIS best paper | 
+| **15.30 - 16.00** | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217) | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217) | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217)| 
 | 16.00 - 16.30 | FORTE best paper | FORTE best paper | FORTE best paper | 
 | **16.30 - 17.00** | *networking coffee* | *networking coffee* | *networking coffee* |
 
