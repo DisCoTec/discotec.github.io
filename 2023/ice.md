@@ -56,11 +56,11 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - *Comprehensive Specification and Formal Analysis of Attestation Mechanisms in Confidential Computing (Oral Communication)* by Muhammad Usama Sardar, Thomas Fossati and Simon Frost
 - *Type qualifier inference and code synthesis for a better data-centric synchronisation experience* by Ana Almeida Matos, António Ravara, Hervé Paulino, Jan Cederquist, João Matos and Marco Giunti
 
-## Programme {#programme} 
+## Programme and Pre-proceedings  {#programme} 
 
-<!-- and Pre-proceedings 
+You can download the [**ICE 2023 pre-proceedings**](ice_2023_preproceedings.pdf) (to be completed).
 
-You can download the [**ICE 2023 pre-proceedings**](ice22-preproceedings.pdf).
+<!-- 
 The proceedings are also [available as EPTCS 365](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022).
 
 The talks will take place at **Cappella Guinigi**.
