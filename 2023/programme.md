@@ -44,13 +44,13 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 |  | **COORDINATION <br/> (Room 217)** | **DAIS <br/> (Room 209)** | **FORTE <br/> (Room 219)** |
 | *11:25 - 11:30* | *welcome* | *welcome* | *welcome* |
 | | [Session 1](#session-1-coordination) | [Session 1: Distributed Algorithms and Systems](#session-1-distributed-algorithms-and-systems) | [Session 1: Concurrent Programming](#session-1-concurrent-programming) |
-| **11:30 - 12:00** | COORDINATION paper 1 | [TADA: A toolkit for approximate distributed agreement](#session-1-distributed-algorithms-and-systems)| A Survey of Tools for Grading Concurrent Programming Exercises | 
-| **12:00 - 12:30** | COORDINATION paper 2 | [Community-based gossip algorithm for distributed averaging](#session-1-distributed-algorithms-and-systems) | Towards an Automatic Proof of the Bakery Algorithm (short) <br/> Certified Compilation of Choreographies with hacc (short)| 
-| **12:30 - 13:00** | COORDINATION paper 3 | [Studying the workload of a fully decentralized Web3 system: IPFS](#session-1-distributed-algorithms-and-systems) | Implementing a CTL Model Checker with mG, a Language for Programming Graph Neural Networks | 
+| **11:30 - 12:00** | COORDINATION paper 1 | [TADA: A toolkit for approximate distributed agreement](#session-1-distributed-algorithms-and-systems)| [A Survey of Tools for Grading Concurrent Programming Exercises](#session-1-concurrent-programming) | 
+| **12:00 - 12:30** | COORDINATION paper 2 | [Community-based gossip algorithm for distributed averaging](#session-1-distributed-algorithms-and-systems) | [Towards an Automatic Proof of the Bakery Algorithm (short)](#session-1-concurrent-programming) <br/> [Certified Compilation of Choreographies with hacc (short)](#session-1-concurrent-programming)| 
+| **12:30 - 13:00** | COORDINATION paper 3 | [Studying the workload of a fully decentralized Web3 system: IPFS](#session-1-distributed-algorithms-and-systems) | [Implementing a CTL Model Checker with mG, a Language for Programming Graph Neural Networks](#session-1-concurrent-programming) | 
 | *13:00 - 15:00* | *lunch break* | *lunch break* | *lunch break*|
 | | [Session 2](#session-2-coordination) |  | [Session 2: Security](#session-2-security) |
-| **15:00 - 15:30** | COORDINATION paper 4 |  || Branching Bisimulation Semantics Enables Noninterference Analysis of Reversible Systems | 
-| **15:30 - 16:00** | COORDINATION paper 5 | | Impact Analysis of Coordinated Cyber-physical Attacks via Statistical Model Checking: A Case Study | 
+| **15:00 - 15:30** | COORDINATION paper 4 |  | [Branching Bisimulation Semantics Enables Noninterference Analysis of Reversible Systems](#session-2-security) | 
+| **15:30 - 16:00** | COORDINATION paper 5 |  | [Impact Analysis of Coordinated Cyber-physical Attacks via Statistical Model Checking: A Case Study](#session-2-security) | 
 | **16:00 - 16:30** | COORDINATION paper 6 |  | 
 | *16:30 - 17:00* | *networking coffee* | *networking coffee* | *networking coffee*|
 
@@ -65,15 +65,15 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | *11.00 - 11.25* | *coffee break* | *coffee break* | *coffee break* |
 |  | **COORDINATION <br/> (Room 219)** | **DAIS <br/> (Room 209)** | **FORTE <br/> (Room 217)** |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
-| | [Session 3](#session-3-coordination) | [Session 3: Distributed Architectures & Data Management](#session-3-distributed-architectures--data-management) | [Session 3](#session-3-forte) |
-| **11.30 - 12.00** | ... | [Transactional causal consistent microservices simulator](#session-3-distributed-architectures--data-management) | ... | 
-| **12.00 - 12.30** | ... | [Runtime load-shifting of distributed monitors and controllers across networked devices](#session-3-distributed-architectures--data-management) | ... | 
-| **12.30 - 13.00** | ... |  | ... |
+| | [Session 3](#session-3-coordination) | [Session 3: Distributed Architectures & Data Management](#session-3-distributed-architectures--data-management) | [Session 3: Probabilities, Time and other Resources](#session-3-probabilities-time-and-other-resources) |
+| **11.30 - 12.00** | ... | [Transactional causal consistent microservices simulator](#session-3-distributed-architectures--data-management) | Operations on Timed Scenarios | 
+| **12.00 - 12.30** | ... | [Runtime load-shifting of distributed monitors and controllers across networked devices](#session-3-distributed-architectures--data-management) | On the Use of Model and Logical Embeddings for Model Checking of Probabilistic Systems | 
+| **12.30 - 13.00** | ... |  | On Bisimilarity for Polyhedral Models and SLCS |
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break*|
 | | [Session 4](#session-4-coordination) |  | [Session 4](#session-4-forte) |
-| **15.00 - 15.30** | ... |  | ... | 
-| **15.30 - 16.00** | ... |  | ... | 
-| **16.00 - 16.30** | ... |  | ... | 
+| **15.00 - 15.30** | ... |  | With a little help from your friends: semi-cooperative games via Joker moves | 
+| **15.30 - 16.00** | ... |  | Efficient dynamic model based testing using greedy test case selection | 
+| **16.00 - 16.30** | ... |  | Minimal Generating Sets for Semiflows | 
 | *16.30 - 17.00* | *networking coffee*| *networking coffee* | *networking coffee* |
 | *20.00 - 22.00* | *Social dinner*| *Social dinner* | *Social dinner* |
 
