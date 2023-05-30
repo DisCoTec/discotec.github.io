@@ -11,6 +11,9 @@
 Go to the [programme page](https://www.discotec.org/2023/ice).
 
 ### Tutorials
+
+The tutorials will take place at **Room 219 at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt)**.
+
 | Time   | Distribution Track |
 | :---: | :---: |
 | 10:10-11:10 | Implementing and Evaluating Distributed Protocols with Babel (I) | 
@@ -25,16 +28,20 @@ Go to the [programme page](https://www.discotec.org/2023/ice).
 
 <br/>
 
-## Tuesday June 20
 
-### Conference Talks
 
-| Time | DisCoTec Invited Talk <br/> (Room)  | DisCoTec Invited Talk <br/> (Room) | DisCoTec Invited Talk <br/> (Room) |
+## Conference Talks
+
+The conference talks will take place in **rooms 209, 217, and 219 at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt)**.
+
+### Tuesday June 20th
+
+| Time | DisCoTec Invited Talk <br/> (Room 217)  | DisCoTec Invited Talk <br/> (Room 217) | DisCoTec Invited Talk <br/> (Room 217) |
 | :---: | :---: | :---: | :---: |
 | *09.45 - 10.00* | *welcome* | *welcome*| *welcome*|
 | **10.00 - 11.00** | [Peter Pietzuch: title to be defined](invited#peter) | [Peter Pietzuch: title to be defined](invited#peter) | [Peter Pietzuch: title to be defined](invited#peter) |
 | *11.00 - 11.25* | *coffee break* | *coffee break* | *coffee break* |
-|  | **COORDINATION <br/> (Room C)** | **DAIS <br/> (Room D)** | **FORTE <br/> (Room F)** |
+|  | **COORDINATION <br/> (Room 217)** | **DAIS <br/> (Room 209)** | **FORTE <br/> (Room 219)** |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
 | | [Session 1](#session-1-coordination) | [Session 1](#session-1-dais) | [Session 1](#session-1-forte) |
 | **11.30 - 12.00** | COORDINATION paper 1 | DAIS paper 1 | FORTE paper 1 | 
@@ -49,16 +56,14 @@ Go to the [programme page](https://www.discotec.org/2023/ice).
 
 <br/>
 
-## Wednesday June 21
+### Wednesday June 21st
 
-### Conference Talks
-
-| Time | DisCoTec Invited Talk <br/> (Room)  | DisCoTec Invited Talk <br/> (Room) | DisCoTec Invited Talk <br/> (Room) |
+| Time | DisCoTec Invited Talk <br/> (Room 217)  | DisCoTec Invited Talk <br/> (Room 217) | DisCoTec Invited Talk <br/> (Room 217) |
 | :---: | :---: | :---: | :---: |
 | *09.45 - 10.00* | *welcome* | *welcome*| *welcome*|
 | **10.00 - 11.00** | [Frank Pfenning: title to be defined](invited#frank) | [Frank Pfenning: title to be defined](invited#frank) | [Frank Pfenning: title to be defined](invited#frank) |
 | *11.00 - 11.25* | *coffee break* | *coffee break* | *coffee break* |
-|  | **COORDINATION <br/> (Room C)** | **DAIS <br/> (Room D)** | **FORTE <br/> (Room F)** |
+|  | **COORDINATION <br/> (Room 219)** | **DAIS <br/> (Room 209)** | **FORTE <br/> (Room 217)** |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
 | | [Session 3](#session-3-coordination) | [Session 3](#session-3-dais) | [Session 3](#session-3-forte) |
 | **11.30 - 12.00** | ... | ... | ... | 
@@ -74,17 +79,15 @@ Go to the [programme page](https://www.discotec.org/2023/ice).
 
 <br/>
 
-## Thursday June 21
+### Thursday June 22nd
 
-### Conference Talks
-
-| Time | DisCoTec Invited Talk <br/> (Room)  | DisCoTec Invited Talk <br/> (Room) | DisCoTec Invited Talk <br/> (Room) |
+| Time | DisCoTec Invited Talk <br/> (Room 217)  | DisCoTec Invited Talk <br/> (Room 217) | DisCoTec Invited Talk <br/> (Room 217) |
 | :---: | :---: | :---: | :---: |
 | *09.45 - 10.00* | *welcome* | *welcome*| *welcome*|
 | *10.00 - 10.10* | *DisCoTec 2024* | *DisCoTec 2024*| *DisCoTec 2024*|
 | **10.10 - 11.10** | [Azalea Raad: title to be defined](invited#azalea) | [Azalea Raad: title to be defined](invited#azalea) | [Azalea Raad: title to be defined](invited#azalea) |
 | *11.10 - 11.25* | *coffee break* | *coffee break* | *coffee break* |
-|  | **COORDINATION <br/> (Room C)** | **DAIS <br/> (Room D)** | **FORTE <br/> (Room F)** |
+|  | **COORDINATION <br/> (Room 217)** | **DAIS <br/> (Room 217)** | **FORTE <br/> (Room 217)** |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
 | | [Best artefact session](#session-artefact) | [Best artefact session](#session-artefact) | [Best artefact session](#session-artefact) |
 | **11.30 - 12.00** | COORDINATION best artefact | COORDINATION best artefact | COORDINATION best artefact | 
@@ -98,3 +101,24 @@ Go to the [programme page](https://www.discotec.org/2023/ice).
 | *16.30 - 17.00* | *networking coffee* | *networking coffee* | *networking coffee* |
 
 <br/>
+
+## Friday June 23rd
+
+### Tutorials
+
+The tutorials will take place at **Room 219 at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt)**.
+
+| Time   | Distribution Track |
+| :---: | :---: |
+| 10:10-11:10 | Implementing and Evaluating Distributed Protocols with Babel (I) | 
+| **11:10-11:30** | **Coffee break** |
+| 11:30-13:00 | Implementing and Evaluating Distributed Protocols with Babel (II) |
+| **13:00-14:30** | **Lunch break** |
+| __**Time**__   | __**Verification Track**__ |
+| 14:30-15:30 | Deductive Verification of OCaml Programs in Cameleer (I) |
+| **16:00-16:30** | **Coffee break** | |
+| 16:30-18:00 | Deductive Verification of OCaml Programs in Cameleer (II) |
+| **19.00-20.00** | **Welcome reception** | 
+
+<br/>
+
