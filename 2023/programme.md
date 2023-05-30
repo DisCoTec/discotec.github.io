@@ -86,7 +86,7 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | Time | COORDINATION | DAIS | FORTE |
 | :---: | :---: | :---: | :---: |
 | *09:55-10:00* | *welcome* | *welcome*| *welcome*|
-| *10:00-10:10* | *DisCoTec 2024* | *DisCoTec 2024*| *DisCoTec 2024*|
+| *10:00-10:10* | *DisCoTec 2024*  (Room 217) | *DisCoTec 2024* (Room 217) | *DisCoTec 2024* (Room 217)|
 |  | **DisCoTec Invited Talk** <br/> (Room 217)  | **DisCoTec Invited Talk**  <br/> (Room 217) | **DisCoTec Invited Talk**  <br/> (Room 217) |
 | **10:10-11:10** | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)  | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad) | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)  |
 | *11:10-11:25* | *coffee break* | *coffee break* | *coffee break* |
