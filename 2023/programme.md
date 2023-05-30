@@ -136,13 +136,37 @@ by Azalea Raad
 
 ## Coordination programme
 
-### Session 1:
+### Session 1: Run-Time Changes
+- Legal Contracts amending with Stipula <br/>
+by Cosimo Laneve, Alessandro Parenti, and Giovanni Sartor
+- Toward Run-time Coordination of Reconfiguration Requests in Cloud Computing <br/>
+by Salman Farhat, Simon Bliudze, Laurence Duchien, and Olga Kouchnarenko
+- Caos: A Reusable Scala Web Animator of Operational Semantics (short) <br/>
+by José Proença and Luc Edixhoven
 
-### Session 2:
+### Session 2: Languages and Processes
+- Safe asynchronous mixed-choice for timed interactions <br/>
+by Jonah Pears, Laura Bocchi, and Andy King
+- Reasoning about Choreographic Programs <br/>
+by Luís Cruz-Filipe, Eva Graversen, Fabrizio Montesi, and Marco Peressotti
+- A Formal MDE Framework for Inter-DSL Collaboration <br/>
+by Salim Chehida, Akram Idani, Mario Cortes-Cornax, and German Vega
 
-### Session 3:
+### Session 3: Collective Adaptive Systems and Aggregate Computing
+- MacroSwarm: a Field-based Compositional Framework for Swarm Programming <br/>
+by Gianluca Aguzzi, Roberto Casadei, and Mirko Viroli
+- Programming Distributed Collective Processes for Dynamic Ensembles and Collective Tasks <br/>
+by Giorgio Audrito, Roberto Casadei, Ferruccio Damiani, Gianluca Torta, and Mirko Viroli
+- ScaRLib: A Framework for Cooperative Many Agent Deep Reinforcement Learning in Scala <br/>
+by Davide Domini, Filippo Cavallari, Gianluca Aguzzi, and Mirko Viroli
 
-### Session 4:
+### Session 4: Cyber-Physical Systems
+- Shelley: a framework for model checking call ordering on hierarchical systems <br/>
+by Carlos Mão de Ferro, Tiago Cogumbreiro, and Francisco Martins
+- STARK: A Software Tool for the Analysis of Robustness in the unKnown environment <br/>
+by Valentina Castiglioni, Michele Loreti, and Simone Tini
+- RSC to the ReSCu: Automated Verification of Systems of Communicating Automata (short) <br/>
+by Loïc Desgeorges and Loïc Germerie Guizouarn
 
 ## DAIS programme
 
@@ -153,7 +177,6 @@ by Eduardo Conceição, Ana Nunes Alonso, Rui Oliveira, and Jose Pereira
 by Christel Sirocchi and Alessandro Bogliolo
 - Studying the workload of a fully decentralized Web3 system: IPFS <br/>
 by Pedro Ákos Costa, João Leitão, and Yiannis Psaras
- 
 
 ### Session 3: Distributed Architectures & Data Management
 - Transactional causal consistent microservices simulator <br/>
@@ -195,10 +218,11 @@ by Flip van Spaendonck
 - Minimal Generating Sets for Semiflows <br/>
 by Gerard Memmi
 
-## DisCoTec Best Papers (Room 217)
+## DisCoTec Best Papers
 
 #### Coordination Best Paper
-- 
+- Rollback Recovery in Session-based Programming <br/> 
+by Claudio Antares Mezzina, Francesco Tiezzi, and Nobuko Yoshida
 
 #### DAIS Best Paper
 - EdgeEmu - Emulator for Android Edge Devicess <br/> 
@@ -208,10 +232,11 @@ by Lyla Naghipour Vijouyeh, Rodrigo Bruno, and Paulo Ferreira
 - Relating Reversible Petri Nets and Reversible Event Structures, categorically <br/>
 by Hernán Melgratti, Claudio Antares Mezzina, and G. Michele Pinna
 
-## DisCoTec Best Artefacts (Room 217)
+## DisCoTec Best Artefacts
 
 #### Coordination Best Artefact
--
+- JoT: A Jolie Framework for Testing Microservices <br/>
+by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti, Florian Rademacher, and Narongrit Unwerawattana
 
 #### DAIS Best Artefact
 
@@ -219,5 +244,4 @@ by Hernán Melgratti, Claudio Antares Mezzina, and G. Michele Pinna
 by Sina Sheikholeslami, Amir H. Payberah, Tianze Wang, Jim Dowling, and Vladimir Vlassov
 
 #### FORTE Best Artefact
-
--
+(to be defined)
