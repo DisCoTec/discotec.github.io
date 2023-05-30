@@ -70,10 +70,10 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | **12:00-12:30** | [Programming Distributed Collective Processes for Dynamic Ensembles and Collective Tasks](#session-3-collective-adaptive-systems-and-aggregate-computing) | [Runtime load-shifting of distributed monitors and controllers across networked devices](#session-3-distributed-architectures--data-management) | [On the Use of Model and Logical Embeddings for Model Checking of Probabilistic Systems](#session-3-probabilities-time-and-other-resources) | 
 | **12:30-13:00** | [ScaRLib: A Framework for Cooperative Many Agent Deep Reinforcement Learning in Scala](#session-3-collective-adaptive-systems-and-aggregate-computing) |  | [On Bisimilarity for Polyhedral Models and SLCS](#session-3-probabilities-time-and-other-resources) |
 | *13:00-15:00* | *lunch break* | *lunch break* | *lunch break*|
-| | [Session 4: Cyber-Physical Systems](#session-4-coordination) |  | [Session 4: Model-based testing & Petri Nets](#session-4-model-based-testing--petri-nets) |
-| **15:00-15:30** | Shelley: a framework for model checking call ordering on hierarchical systems |  | [With a little help from your friends: semi-cooperative games via Joker moves](#session-4-model-based-testing--petri-nets) | 
-| **15:30-16:00** | STARK: A Software Tool for the Analysis of Robustness in the unKnown environment |  | [Efficient dynamic model based testing using greedy test case selection](#session-4-model-based-testing--petri-nets) | 
-| **16:00-16:30** | RSC to the ReSCu: Automated Verification of Systems of Communicating Automata (short) |  | [Minimal Generating Sets for Semiflows](#session-4-model-based-testing--petri-nets) | 
+| | [Session 4: Cyber-Physical Systems](#session-4-cyber-physical-systems) |  | [Session 4: Model-based testing & Petri Nets](#session-4-model-based-testing--petri-nets) |
+| **15:00-15:30** | [Shelley: a framework for model checking call ordering on hierarchical systems](#session-4-cyber-physical-systems) |  | [With a little help from your friends: semi-cooperative games via Joker moves](#session-4-model-based-testing--petri-nets) | 
+| **15:30-16:00** | [STARK: A Software Tool for the Analysis of Robustness in the unKnown environment](#session-4-cyber-physical-systems) |  | [Efficient dynamic model based testing using greedy test case selection](#session-4-model-based-testing--petri-nets) | 
+| **16:00-16:30** | [RSC to the ReSCu: Automated Verification of Systems of Communicating Automata (short)](#session-4-cyber-physical-systems) |  | [Minimal Generating Sets for Semiflows](#session-4-model-based-testing--petri-nets) | 
 | *16:30-17:00* | *networking coffee*| *networking coffee* | *networking coffee* |
 | *20:00-22:00* | *Social dinner*| *Social dinner* | *Social dinner* |
 
@@ -88,16 +88,16 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | **10:10-11:10** | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)  | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad) | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)  |
 | *11:10-11:25* | *coffee break* | *coffee break* | *coffee break* |
 |  | **COORDINATION <br/> (Room 217)** | **DAIS <br/> (Room 217)** | **FORTE <br/> (Room 217)** |
-| | [Best artefact session](#discotec-best-artefacts-room-217) | [Best artefact session](#discotec-best-artefacts-room-217)  | [Best artefact session](#discotec-best-artefacts-room-217) |
-| **11.30 - 12.00** | COORDINATION best artefact | COORDINATION best artefact | COORDINATION best artefact | 
-| 12.00 - 12.30 | DAIS best artefact | DAIS best artefact | DAIS best artefact | 
-| 12.30 - 13.00 | FORTE best artefact  | FORTE best artefact| FORTE best artefact | 
-| **13.00 - 15:00** | *lunch break* | *lunch break* | *lunch break*|
+| | [**Best Artefact Session**](#discotec-best-artefacts) | [**Best Artefact Session**](#discotec-best-artefacts)  | [**Best Artefact Session**](#discotec-best-artefacts) |
+| **11:30-12:00** | COORDINATION <br/> JoT: A Jolie Framework for Testing Microservices | COORDINATION <br/> JoT: A Jolie Framework for Testing Microservice | COORDINATION <br/> JoT: A Jolie Framework for Testing Microservices | 
+| 12:00-12:30 | DAIS <br/> The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks | DAIS <br/> The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks | DAIS <br/> The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks | 
+| 12:30-13:00 | FORTE best artefact  | FORTE best artefact| FORTE best artefact | 
+| **13:00-15:00** | *lunch break* | *lunch break* | *lunch break*|
 | | [Best paper session](#discotec-best-papers-room-217) | [Best paper session](#discotec-best-papers-room-217) | [Best paper session](#discotec-best-artefacts-room-217)  |
-| **15.00 - 15.30** | COORDINATION best paper | COORDINATION best paper | COORDINATION best paper | 
-| 15:30 - 16:00| [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217) | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217) | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217)| 
-| 16:00 - 16:30 | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | 
-| **16:30 - 17:00** | *networking coffee* | *networking coffee* | *networking coffee* |
+| **15:00-15:30** | COORDINATION best paper | COORDINATION best paper | COORDINATION best paper | 
+| 15:30-16:00| [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217) | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217) | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217)| 
+| 16:00-16:30 | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | 
+| **16:30-17:00** | *networking coffee* | *networking coffee* | *networking coffee* |
 
 <br/>
 
