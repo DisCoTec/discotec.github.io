@@ -44,14 +44,14 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 |  | **COORDINATION <br/> (Room 217)** | **DAIS <br/> (Room 209)** | **FORTE <br/> (Room 219)** |
 | *11:25 - 11:30* | *welcome* | *welcome* | *welcome* |
 | | [Session 1](#session-1-coordination) | [Session 1: Distributed Algorithms and Systems](#session-1-distributed-algorithms-and-systems) | [Session 1](#session-1-forte) |
-| **11:30 - 12:00** | COORDINATION paper 1 | DAIS paper 1 | FORTE paper 1 | 
-| **12:00 - 12:30** | COORDINATION paper 2 | DAIS paper 2 | FORTE paper 2 | 
-| **12:30 - 13:00** | COORDINATION paper 3 | DAIS paper 3 | FORTE paper 3 | 
+| **11:30 - 12:00** | COORDINATION paper 1 | [TADA: A toolkit for approximate distributed agreement](#session-1-distributed-algorithms-and-systems)| FORTE paper 1 | 
+| **12:00 - 12:30** | COORDINATION paper 2 | [Community-based gossip algorithm for distributed averaging](#session-1-distributed-algorithms-and-systems) | FORTE paper 2 | 
+| **12:30 - 13:00** | COORDINATION paper 3 | [Studying the workload of a fully decentralized Web3 system: IPFS](#session-1-distributed-algorithms-and-systems) | FORTE paper 3 | 
 | *13:00 - 15:00* | *lunch break* | *lunch break* | *lunch break*|
-| | [Session 2](#session-2-coordination) | [Session 2](#session-2-dais) | [Session 2](#session-2-forte) |
-| **15:00 - 15:30** | COORDINATION paper 4 | DAIS paper 4 | FORTE paper 4 | 
-| **15:30 - 16:00** | COORDINATION paper 5 | DAIS paper 5 | FORTE paper 5 | 
-| **16:00 - 16:30** | COORDINATION paper 6 | DAIS paper 6 | FORTE paper 6  | 
+| | [Session 2](#session-2-coordination) |  | [Session 2](#session-2-forte) |
+| **15:00 - 15:30** | COORDINATION paper 4 |  | FORTE paper 4 | 
+| **15:30 - 16:00** | COORDINATION paper 5 |  | FORTE paper 5 | 
+| **16:00 - 16:30** | COORDINATION paper 6 |  | FORTE paper 6  | 
 | *16:30 - 17:00* | *networking coffee* | *networking coffee* | *networking coffee*|
 
 <br/>
@@ -61,14 +61,14 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | Time | DisCoTec Invited Talk <br/> (Room 217)  | DisCoTec Invited Talk <br/> (Room 217) | DisCoTec Invited Talk <br/> (Room 217) |
 | :---: | :---: | :---: | :---: |
 | *09.45 - 10.00* | *welcome* | *welcome*| *welcome*|
-| **10.00 - 11.00** | [Frank Pfenning: title to be defined](invited#frank) | [Frank Pfenning: title to be defined](invited#frank) | [Frank Pfenning: title to be defined](invited#frank) |
+| **10.00 - 11.00** | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) |
 | *11.00 - 11.25* | *coffee break* | *coffee break* | *coffee break* |
 |  | **COORDINATION <br/> (Room 219)** | **DAIS <br/> (Room 209)** | **FORTE <br/> (Room 217)** |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
 | | [Session 3](#session-3-coordination) | [Session 3](#session-3-dais) | [Session 3](#session-3-forte) |
-| **11.30 - 12.00** | ... | ... | ... | 
-| **12.00 - 12.30** | ... | ... | ... | 
-| **12.30 - 13.00** |  |  |  | 
+| **11.30 - 12.00** | ... | Transactional causal consistent microservices simulator | ... | 
+| **12.00 - 12.30** | ... | Runtime load-shifting of distributed monitors and controllers across networked devices | ... | 
+| **12.30 - 13.00** | ... |  | ... |
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break*|
 | | [Session 4](#session-4-coordination) | [Session 4](#session-4-dais) | [Session 4](#session-4-forte) |
 | **15.00 - 15.30** | ... | ... | ... | 
@@ -182,18 +182,6 @@ by Pedro Pereira and António Rito Silva
 by Angelo Filaseta and Danilo Pianini
 
 ## FORTE programme
-
-### Session 1
--
-
-
-### Session 2: Monitoring and Program Verification
-
-
-### Session 3: State-space reduction
-
-
-### Session 4: Verification and Semantics
 
 ## DisCoTec Best Papers (Room 217)
 
