@@ -38,21 +38,21 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 
 | Time | DisCoTec Invited Talk <br/> (Room 217)  | DisCoTec Invited Talk <br/> (Room 217) | DisCoTec Invited Talk <br/> (Room 217) |
 | :---: | :---: | :---: | :---: |
-| *09:45 - 10:00* | *welcome* | *welcome*| *welcome*|
-| **10:00 - 11:00** | [Peter Pietzuch](https://www.discotec.org/2023/invited#peter-pietzuch) | [Peter Pietzuch](https://www.discotec.org/2023/invited#peter-pietzuch) | [Peter Pietzuch](https://www.discotec.org/2023/invited#peter-pietzuch) |
-| *11:00 - 11:25* | *coffee break* | *coffee break* | *coffee break* |
+| *09:45-10:00* | *welcome* | *welcome*| *welcome*|
+| **10:00-11:00** | [Peter Pietzuch](https://www.discotec.org/2023/invited#peter-pietzuch) | [Peter Pietzuch](https://www.discotec.org/2023/invited#peter-pietzuch) | [Peter Pietzuch](https://www.discotec.org/2023/invited#peter-pietzuch) |
+| *11:00-11:25* | *coffee break* | *coffee break* | *coffee break* |
 |  | **COORDINATION <br/> (Room 217)** | **DAIS <br/> (Room 209)** | **FORTE <br/> (Room 219)** |
-| *11:25 - 11:30* | *welcome* | *welcome* | *welcome* |
-| | [Session 1](#session-1-coordination) | [Session 1: Distributed Algorithms and Systems](#session-1-distributed-algorithms-and-systems) | [Session 1: Concurrent Programming](#session-1-concurrent-programming) |
-| **11:30 - 12:00** | COORDINATION paper 1 | [TADA: A toolkit for approximate distributed agreement](#session-1-distributed-algorithms-and-systems)| [A Survey of Tools for Grading Concurrent Programming Exercises](#session-1-concurrent-programming) | 
-| **12:00 - 12:30** | COORDINATION paper 2 | [Community-based gossip algorithm for distributed averaging](#session-1-distributed-algorithms-and-systems) | [Towards an Automatic Proof of the Bakery Algorithm (short)](#session-1-concurrent-programming) <br/> [Certified Compilation of Choreographies with hacc (short)](#session-1-concurrent-programming)| 
-| **12:30 - 13:00** | COORDINATION paper 3 | [Studying the workload of a fully decentralized Web3 system: IPFS](#session-1-distributed-algorithms-and-systems) | [Implementing a CTL Model Checker with mG, a Language for Programming Graph Neural Networks](#session-1-concurrent-programming) | 
-| *13:00 - 15:00* | *lunch break* | *lunch break* | *lunch break*|
-| | [Session 2](#session-2-coordination) |  | [Session 2: Security](#session-2-security) |
-| **15:00 - 15:30** | COORDINATION paper 4 |  | [Branching Bisimulation Semantics Enables Noninterference Analysis of Reversible Systems](#session-2-security) | 
-| **15:30 - 16:00** | COORDINATION paper 5 |  | [Impact Analysis of Coordinated Cyber-physical Attacks via Statistical Model Checking: A Case Study](#session-2-security) | 
-| **16:00 - 16:30** | COORDINATION paper 6 |  | 
-| *16:30 - 17:00* | *networking coffee* | *networking coffee* | *networking coffee*|
+| *11:00-11:25* | *welcome* | *welcome* | *welcome* |
+| | [Session 1: Run-Time Changes](#session-1-run-time-changes) | [Session 1: Distributed Algorithms and Systems](#session-1-distributed-algorithms-and-systems) | [Session 1: Concurrent Programming](#session-1-concurrent-programming) |
+| **11:30-12:00** | [Legal Contracts amending with Stipula](#session-1-run-time-changes) | [TADA: A toolkit for approximate distributed agreement](#session-1-distributed-algorithms-and-systems)| [A Survey of Tools for Grading Concurrent Programming Exercises](#session-1-concurrent-programming) | 
+| **12:00-12:30** | [Toward Run-time Coordination of Reconfiguration Requests in Cloud Computing](#session-1-run-time-changes) | [Community-based gossip algorithm for distributed averaging](#session-1-distributed-algorithms-and-systems) | [Towards an Automatic Proof of the Bakery Algorithm (short)](#session-1-concurrent-programming) <br/> [Certified Compilation of Choreographies with hacc (short)](#session-1-concurrent-programming)| 
+| **12:30-13:00** | [Caos: A Reusable Scala Web Animator of Operational Semantics (short)](#session-1-run-time-changes) | [Studying the workload of a fully decentralized Web3 system: IPFS](#session-1-distributed-algorithms-and-systems) | [Implementing a CTL Model Checker with mG, a Language for Programming Graph Neural Networks](#session-1-concurrent-programming) | 
+| *13:00-15:00* | *lunch break* | *lunch break* | *lunch break*|
+| | [Session 2: Languages and Processes](#session-2-languages-and-processes) |  | [Session 2: Security](#session-2-security) |
+| **15:00-15:30** | [Safe asynchronous mixed-choice for timed interactions](#session-2-languages-and-processes) |  | [Branching Bisimulation Semantics Enables Noninterference Analysis of Reversible Systems](#session-2-security) | 
+| **15:30-16:00** | [Reasoning about Choreographic Programs](#session-2-languages-and-processes) |  | [Impact Analysis of Coordinated Cyber-physical Attacks via Statistical Model Checking: A Case Study](#session-2-security) | 
+| **16:00-16:30** | [A Formal MDE Framework for Inter-DSL Collaboration](#session-2-languages-and-processes) |  | 
+| *16:30-17:00* | *networking coffee* | *networking coffee* | *networking coffee*|
 
 <br/>
 
@@ -60,22 +60,22 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 
 | Time | DisCoTec Invited Talk <br/> (Room 217)  | DisCoTec Invited Talk <br/> (Room 217) | DisCoTec Invited Talk <br/> (Room 217) |
 | :---: | :---: | :---: | :---: |
-| *09.45 - 10.00* | *welcome* | *welcome*| *welcome*|
-| **10.00 - 11.00** | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) |
-| *11.00 - 11.25* | *coffee break* | *coffee break* | *coffee break* |
+| *09:45-10:00* | *welcome* | *welcome*| *welcome*|
+| **10:00-11:00** | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) |
+| *11:00-11:25* | *coffee break* | *coffee break* | *coffee break* |
 |  | **COORDINATION <br/> (Room 219)** | **DAIS <br/> (Room 209)** | **FORTE <br/> (Room 217)** |
-| *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
-| | [Session 3](#session-3-coordination) | [Session 3: Distributed Architectures & Data Management](#session-3-distributed-architectures--data-management) | [Session 3: Probabilities, Time and other Resources](#session-3-probabilities-time-and-other-resources) |
-| **11.30 - 12.00** | ... | [Transactional causal consistent microservices simulator](#session-3-distributed-architectures--data-management) | [Operations on Timed Scenarios](#session-3-probabilities-time-and-other-resources) | 
-| **12.00 - 12.30** | ... | [Runtime load-shifting of distributed monitors and controllers across networked devices](#session-3-distributed-architectures--data-management) | [On the Use of Model and Logical Embeddings for Model Checking of Probabilistic Systems](#session-3-probabilities-time-and-other-resources) | 
-| **12.30 - 13.00** | ... |  | [On Bisimilarity for Polyhedral Models and SLCS](#session-3-probabilities-time-and-other-resources) |
-| *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break*|
-| | [Session 4](#session-4-coordination) |  | [Session 4: Model-based testing & Petri Nets](#session-4-model-based-testing--petri-nets) |
-| **15.00 - 15.30** | ... |  | [With a little help from your friends: semi-cooperative games via Joker moves](#session-4-model-based-testing--petri-nets) | 
-| **15.30 - 16.00** | ... |  | [Efficient dynamic model based testing using greedy test case selection](#session-4-model-based-testing--petri-nets) | 
-| **16.00 - 16.30** | ... |  | [Minimal Generating Sets for Semiflows](#session-4-model-based-testing--petri-nets) | 
-| *16.30 - 17.00* | *networking coffee*| *networking coffee* | *networking coffee* |
-| *20.00 - 22.00* | *Social dinner*| *Social dinner* | *Social dinner* |
+| *11:25-11:30* | *welcome* | *welcome* | *welcome* |
+| | [Session 3: Collective Adaptive Systems and Aggregate Computing](#session-3-coordination) | [Session 3: Distributed Architectures & Data Management](#session-3-distributed-architectures--data-management) | [Session 3: Probabilities, Time and other Resources](#session-3-probabilities-time-and-other-resources) |
+| **11:30-12:00** | MacroSwarm: a Field-based Compositional Framework for Swarm Programming | [Transactional causal consistent microservices simulator](#session-3-distributed-architectures--data-management) | [Operations on Timed Scenarios](#session-3-probabilities-time-and-other-resources) | 
+| **12:00-12:30** | Programming Distributed Collective Processes for Dynamic Ensembles and Collective Tasks | [Runtime load-shifting of distributed monitors and controllers across networked devices](#session-3-distributed-architectures--data-management) | [On the Use of Model and Logical Embeddings for Model Checking of Probabilistic Systems](#session-3-probabilities-time-and-other-resources) | 
+| **12:30-13:00** | ScaRLib: A Framework for Cooperative Many Agent Deep Reinforcement Learning in Scala |  | [On Bisimilarity for Polyhedral Models and SLCS](#session-3-probabilities-time-and-other-resources) |
+| *13:00-15:00* | *lunch break* | *lunch break* | *lunch break*|
+| | [Session 4: Cyber-Physical Systems](#session-4-coordination) |  | [Session 4: Model-based testing & Petri Nets](#session-4-model-based-testing--petri-nets) |
+| **15:00-15:30** | Shelley: a framework for model checking call ordering on hierarchical systems |  | [With a little help from your friends: semi-cooperative games via Joker moves](#session-4-model-based-testing--petri-nets) | 
+| **15:30-16:00** | STARK: A Software Tool for the Analysis of Robustness in the unKnown environment |  | [Efficient dynamic model based testing using greedy test case selection](#session-4-model-based-testing--petri-nets) | 
+| **16:00-16:30** | RSC to the ReSCu: Automated Verification of Systems of Communicating Automata (short) |  | [Minimal Generating Sets for Semiflows](#session-4-model-based-testing--petri-nets) | 
+| *16:30-17:00* | *networking coffee*| *networking coffee* | *networking coffee* |
+| *20:00-22:00* | *Social dinner*| *Social dinner* | *Social dinner* |
 
 <br/>
 
@@ -83,22 +83,21 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 
 | Time | DisCoTec Invited Talk <br/> (Room 217)  | DisCoTec Invited Talk <br/> (Room 217) | DisCoTec Invited Talk <br/> (Room 217) |
 | :---: | :---: | :---: | :---: |
-| *09.45 - 10.00* | *welcome* | *welcome*| *welcome*|
-| *10.00 - 10.10* | *DisCoTec 2024* | *DisCoTec 2024*| *DisCoTec 2024*|
-| **10.10 - 11.10** | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)  | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad) | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)  |
-| *11.10 - 11.25* | *coffee break* | *coffee break* | *coffee break* |
+| *09:45-10:00* | *welcome* | *welcome*| *welcome*|
+| *10:00-10:10* | *DisCoTec 2024* | *DisCoTec 2024*| *DisCoTec 2024*|
+| **10:10-11:10** | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)  | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad) | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)  |
+| *11:10-11:25* | *coffee break* | *coffee break* | *coffee break* |
 |  | **COORDINATION <br/> (Room 217)** | **DAIS <br/> (Room 217)** | **FORTE <br/> (Room 217)** |
-| *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
 | | [Best artefact session](#discotec-best-artefacts-room-217) | [Best artefact session](#discotec-best-artefacts-room-217)  | [Best artefact session](#discotec-best-artefacts-room-217) |
 | **11.30 - 12.00** | COORDINATION best artefact | COORDINATION best artefact | COORDINATION best artefact | 
-| **12.00 - 12.30** | DAIS best artefact | DAIS best artefact | DAIS best artefact | 
-| **12.30 - 13.00** | FORTE best artefact  | FORTE best artefact| FORTE best artefact | 
-| *13.00 - 15:00* | *lunch break* | *lunch break* | *lunch break*|
+| 12.00 - 12.30 | DAIS best artefact | DAIS best artefact | DAIS best artefact | 
+| 12.30 - 13.00 | FORTE best artefact  | FORTE best artefact| FORTE best artefact | 
+| **13.00 - 15:00** | *lunch break* | *lunch break* | *lunch break*|
 | | [Best paper session](#discotec-best-papers-room-217) | [Best paper session](#discotec-best-papers-room-217) | [Best paper session](#discotec-best-artefacts-room-217)  |
 | **15.00 - 15.30** | COORDINATION best paper | COORDINATION best paper | COORDINATION best paper | 
-| **15.30 - 16.00** | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217) | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217) | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217)| 
-| 16.00 - 16.30 | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | 
-| **16.30 - 17.00** | *networking coffee* | *networking coffee* | *networking coffee* |
+| 15:30 - 16:00| [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217) | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217) | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217)| 
+| 16:00 - 16:30 | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | 
+| **16:30 - 17:00** | *networking coffee* | *networking coffee* | *networking coffee* |
 
 <br/>
 
