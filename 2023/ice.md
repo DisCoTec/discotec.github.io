@@ -86,7 +86,7 @@ The talks will take place at **Cappella Guinigi**.
 | 16:30-17:00 | Confidentiality & Communication | _Comprehensive Specification and Formal Analysis of Attestation Mechanisms in Confidential Computing_ (Oral Communication) (Muhammad Usama Sardar, Thomas Fossati and Simon Frost) |
 | 17:00-17:30 | | _Partially Typed Multiparty Sessions_ (Franco Barbanera and Mariangiola Dezani-Ciancaglini) |
 | 17:30-18:00 | | _Proofs about Network Communication: For Humans and Machines_ (Wolfgang Jeltsch and Javier Díaz) |
-
+| **19.00-20.00** | **Welcome reception** | 
 
 ## Invited Speakers 
 
