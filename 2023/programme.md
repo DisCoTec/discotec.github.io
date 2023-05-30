@@ -36,12 +36,13 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 
 ### Tuesday June 20th
 
-| Time | DisCoTec Invited Talk <br/> (Room 217)  | DisCoTec Invited Talk <br/> (Room 217) | DisCoTec Invited Talk <br/> (Room 217) |
+| Time | COORDINATION | DAIS | FORTE |
 | :---: | :---: | :---: | :---: |
 | *09:45-10:00* | *welcome* | *welcome*| *welcome*|
+|  | **DisCoTec Invited Talk** <br/> (Room 217)  | **DisCoTec Invited Talk**  <br/> (Room 217) | **DisCoTec Invited Talk**  <br/> (Room 217) |
 | **10:00-11:00** | [Peter Pietzuch](https://www.discotec.org/2023/invited#peter-pietzuch) | [Peter Pietzuch](https://www.discotec.org/2023/invited#peter-pietzuch) | [Peter Pietzuch](https://www.discotec.org/2023/invited#peter-pietzuch) |
 | *11:00-11:25* | *coffee break* | *coffee break* | *coffee break* |
-|  | **COORDINATION <br/> (Room 217)** | **DAIS <br/> (Room 209)** | **FORTE <br/> (Room 219)** |
+|  | COORDINATION (Room 217) | DAIS (Room 209) | FORTE (Room 219) |
 | *11:00-11:25* | *welcome* | *welcome* | *welcome* |
 | | [Session 1: Run-Time Changes](#session-1-run-time-changes) | [Session 1: Distributed Algorithms and Systems](#session-1-distributed-algorithms-and-systems) | [Session 1: Concurrent Programming](#session-1-concurrent-programming) |
 | **11:30-12:00** | [Legal Contracts amending with Stipula](#session-1-run-time-changes) | [TADA: A toolkit for approximate distributed agreement](#session-1-distributed-algorithms-and-systems)| [A Survey of Tools for Grading Concurrent Programming Exercises](#session-1-concurrent-programming) | 
@@ -58,9 +59,10 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 
 ### Wednesday June 21st
 
-| Time | DisCoTec Invited Talk <br/> (Room 217)  | DisCoTec Invited Talk <br/> (Room 217) | DisCoTec Invited Talk <br/> (Room 217) |
+| Time | COORDINATION | DAIS | FORTE |
 | :---: | :---: | :---: | :---: |
-| *09:45-10:00* | *welcome* | *welcome*| *welcome*|
+| *09:55-10:00* | *welcome* | *welcome*| *welcome*|
+|  | **DisCoTec Invited Talk** <br/> (Room 217)  | **DisCoTec Invited Talk**  <br/> (Room 217) | **DisCoTec Invited Talk**  <br/> (Room 217) |
 | **10:00-11:00** | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) |
 | *11:00-11:25* | *coffee break* | *coffee break* | *coffee break* |
 |  | **COORDINATION <br/> (Room 219)** | **DAIS <br/> (Room 209)** | **FORTE <br/> (Room 217)** |
@@ -81,10 +83,11 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 
 ### Thursday June 22nd
 
-| Time | DisCoTec Invited Talk <br/> (Room 217)  | DisCoTec Invited Talk <br/> (Room 217) | DisCoTec Invited Talk <br/> (Room 217) |
+| Time | COORDINATION | DAIS | FORTE |
 | :---: | :---: | :---: | :---: |
-| *09:45-10:00* | *welcome* | *welcome*| *welcome*|
+| *09:55-10:00* | *welcome* | *welcome*| *welcome*|
 | *10:00-10:10* | *DisCoTec 2024* | *DisCoTec 2024*| *DisCoTec 2024*|
+|  | **DisCoTec Invited Talk** <br/> (Room 217)  | **DisCoTec Invited Talk**  <br/> (Room 217) | **DisCoTec Invited Talk**  <br/> (Room 217) |
 | **10:10-11:10** | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)  | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad) | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)  |
 | *11:10-11:25* | *coffee break* | *coffee break* | *coffee break* |
 |  | **COORDINATION <br/> (Room 217)** | **DAIS <br/> (Room 217)** | **FORTE <br/> (Room 217)** |
