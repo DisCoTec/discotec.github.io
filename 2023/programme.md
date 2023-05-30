@@ -4,7 +4,24 @@
 # Programme
 
 *All times are listed for* [**WEST** *(Western European Summer Time)*](https://time.is/WEST)
-  
+
+## Monday June 19th
+
+### Tutorials
+| Time   | Distribution Track |
+| :---: | :---: |
+| 10:10-11:10 | Implementing and Evaluating Distributed Protocols with Babel (I) | 
+| **11:10-11:30** | **Coffee break** |
+| 11:30-13:00 | Implementing and Evaluating Distributed Protocols with Babel (II) |
+| **13:00-14:30** | **Lunch break** |
+| __**Time**__   | __**Verification Track**__ |
+| 14:30-15:30 | Deductive Verification of OCaml Programs in Cameleer (I) |
+| **16:00-16:30** | **Coffee break** | |
+| 16:30-18:00 | Deductive Verification of OCaml Programs in Cameleer (II) |
+| **19.00-20.00** | **Welcome reception** | 
+
+<br/>
+
 ## Tuesday June 20
 
 ### Conference Talks
