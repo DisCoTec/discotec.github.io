@@ -70,10 +70,10 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | **12.00 - 12.30** | ... | [Runtime load-shifting of distributed monitors and controllers across networked devices](#session-3-distributed-architectures--data-management) | On the Use of Model and Logical Embeddings for Model Checking of Probabilistic Systems | 
 | **12.30 - 13.00** | ... |  | On Bisimilarity for Polyhedral Models and SLCS |
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break*|
-| | [Session 4](#session-4-coordination) |  | [Session 4](#session-4-forte) |
-| **15.00 - 15.30** | ... |  | With a little help from your friends: semi-cooperative games via Joker moves | 
-| **15.30 - 16.00** | ... |  | Efficient dynamic model based testing using greedy test case selection | 
-| **16.00 - 16.30** | ... |  | Minimal Generating Sets for Semiflows | 
+| | [Session 4](#session-4-coordination) |  | [Session 4: Model-based testing & Petri Nets](#session-4-model-based-testing--petri-nets) |
+| **15.00 - 15.30** | ... |  | [With a little help from your friends: semi-cooperative games via Joker moves](#session-4-model-based-testing--petri-nets) | 
+| **15.30 - 16.00** | ... |  | [Efficient dynamic model based testing using greedy test case selection](#session-4-model-based-testing--petri-nets) | 
+| **16.00 - 16.30** | ... |  | [Minimal Generating Sets for Semiflows](#session-4-model-based-testing--petri-nets) | 
 | *16.30 - 17.00* | *networking coffee*| *networking coffee* | *networking coffee* |
 | *20.00 - 22.00* | *Social dinner*| *Social dinner* | *Social dinner* |
 
