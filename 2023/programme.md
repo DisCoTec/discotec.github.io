@@ -206,7 +206,7 @@ by Lyla Naghipour Vijouyeh, Rodrigo Bruno, and Paulo Ferreira
 
 #### FORTE Best Paper
 - Relating Reversible Petri Nets and Reversible Event Structures, categorically <br/>
-by Hernán Melgratti, Claudio Antares Mezzina and G. Michele Pinna
+by Hernán Melgratti, Claudio Antares Mezzina, and G. Michele Pinna
 
 ## DisCoTec Best Artefacts (Room 217)
 
