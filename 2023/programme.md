@@ -65,7 +65,7 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 |  | **DisCoTec Invited Talk** <br/> (Room 217)  | **DisCoTec Invited Talk**  <br/> (Room 217) | **DisCoTec Invited Talk**  <br/> (Room 217) |
 | **10:00-11:00** | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) |
 | *11:00-11:25* | *coffee break* | *coffee break* | *coffee break* |
-|  | **COORDINATION <br/> (Room 219)** | **DAIS <br/> (Room 209)** | **FORTE <br/> (Room 217)** |
+|  | **COORDINATION** <br/> (Room 219) | **DAIS <br/>** (Room 209) | **FORTE** <br/> (Room 217) |
 | *11:25-11:30* | *welcome* | *welcome* | *welcome* |
 | | [Session 3: Collective Adaptive Systems and Aggregate Computing](#session-3-collective-adaptive-systems-and-aggregate-computing) | [Session 3: Distributed Architectures & Data Management](#session-3-distributed-architectures--data-management) | [Session 3: Probabilities, Time and other Resources](#session-3-probabilities-time-and-other-resources) |
 | **11:30-12:00** | [MacroSwarm: a Field-based Compositional Framework for Swarm Programming](#session-3-collective-adaptive-systems-and-aggregate-computing) | [Transactional causal consistent microservices simulator](#session-3-distributed-architectures--data-management) | [Operations on Timed Scenarios](#session-3-probabilities-time-and-other-resources) | 
@@ -86,11 +86,11 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | Time | COORDINATION | DAIS | FORTE |
 | :---: | :---: | :---: | :---: |
 | *09:55-10:00* | *welcome* | *welcome*| *welcome*|
-| *10:00-10:10* | *DisCoTec 2024*  (Room 217) | *DisCoTec 2024* (Room 217) | *DisCoTec 2024* (Room 217)|
+| *10:00-10:10* | *DisCoTec 2024* <br/> (Room 217) | *DisCoTec 2024* <br/> (Room 217) | *DisCoTec 2024* <br/> (Room 217)|
 |  | **DisCoTec Invited Talk** <br/> (Room 217)  | **DisCoTec Invited Talk**  <br/> (Room 217) | **DisCoTec Invited Talk**  <br/> (Room 217) |
 | **10:10-11:10** | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)  | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad) | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)  |
 | *11:10-11:25* | *coffee break* | *coffee break* | *coffee break* |
-|  | **COORDINATION <br/> (Room 217)** | **DAIS <br/> (Room 217)** | **FORTE <br/> (Room 217)** |
+|  | **COORDINATION** <br/> (Room 217) | **DAIS <br/>** (Room 217) | **FORTE** <br/> (Room 217) |
 | | [**Best Artefact Session**](#discotec-best-artefacts) | [**Best Artefact Session**](#discotec-best-artefacts)  | [**Best Artefact Session**](#discotec-best-artefacts ) |
 | **11:30-12:00** | COORDINATION <br/> [JoT: A Jolie Framework for Testing Microservices](#discotec-best-artefacts) | COORDINATION <br/> [JoT: A Jolie Framework for Testing Microservices](#discotec-best-artefacts) | COORDINATION <br/> [JoT: A Jolie Framework for Testing Microservices](#discotec-best-artefacts) | 
 | 12:00-12:30 | DAIS <br/> [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-artefacts) | DAIS <br/> [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-artefacts) | DAIS <br/> [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-artefacts) | 
