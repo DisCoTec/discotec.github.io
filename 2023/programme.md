@@ -93,10 +93,10 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | 12:00-12:30 | DAIS <br/> The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks | DAIS <br/> The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks | DAIS <br/> The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks | 
 | 12:30-13:00 | FORTE best artefact  | FORTE best artefact| FORTE best artefact | 
 | **13:00-15:00** | *lunch break* | *lunch break* | *lunch break*|
-| | [Best paper session](#discotec-best-papers-room-217) | [Best paper session](#discotec-best-papers-room-217) | [Best paper session](#discotec-best-artefacts-room-217)  |
-| **15:00-15:30** | COORDINATION best paper | COORDINATION best paper | COORDINATION best paper | 
-| 15:30-16:00| [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217) | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217) | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers-room-217)| 
-| 16:00-16:30 | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers-room-217) | 
+| | [**Best Paper Session**](#discotec-best-papers) | [**Best Paper Session**](#discotec-best-papers) | [**Best Paper Session**](#discotec-best-papers) |
+| **15:00-15:30** | COORDINATION <br/> [Rollback Recovery in Session-based Programming](#discotec-best-papers) | COORDINATION <br/> [Rollback Recovery in Session-based Programming](#discotec-best-papers) | COORDINATION <br/> [Rollback Recovery in Session-based Programming](#discotec-best-papers) | 
+| 15:30-16:00| [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers) | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers) | [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-papers)| 
+| 16:00-16:30 | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers) | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers) | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers) | 
 | **16:30-17:00** | *networking coffee* | *networking coffee* | *networking coffee* |
 
 <br/>
