@@ -127,42 +127,22 @@ The tutorials will take place at **Room 219** at [Colégio Almada Negreiros](htt
 - [Peter Pietzuch](https://www.discotec.org/2023/invited#peter-pietzuch)
 
 #### Coordination Invited Speaker
-- [Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) <br/>
-by Frank Pfenning.
+- [Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) 
+by Frank Pfenning
 
 #### DAIS Invited Speaker
-- [Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad) <br/>  
+- [Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)
 by Azalea Raad
 
 ## Coordination programme
 
-### Session 1: Timed, Probabilistic, and Collective Systems
-*(session chair: Mirko Viroli)*
+### Session 1:
 
-- [MIMOS: A Deterministic Model for the Design and Update of Real-Time Systems](https://doi.org/10.1007/978-3-031-08143-9_2) <br/> by Wang Yi, Morteza Mohaqeqi and Susanne Graf 
-- [A Sound Up-to-n,delta Bisimilarity for PCTL](https://doi.org/10.1007/978-3-031-08143-9_3) <br/> by Massimo Bartoletti, Maurizio Murgia and Roberto Zunino  
-- [Sibilla: A Tool for Reasoning about Collective Systems](https://doi.org/10.1007/978-3-031-08143-9_6) <br/> by Nicola Del Giudice, Lorenzo Matteucci, Michela Quadrini, Aniqa Rehman and Michele Loreti
+### Session 2:
 
-### Session 2: Aggregate Computing
-*(session chair: Emilio Tuosto)*
+### Session 3:
 
-- [Extensible 3D Simulation of Aggregated Systems with FCPP](https://doi.org/10.1007/978-3-031-08143-9_4) <br/> by Giorgio Audrito, Luigi Rapetta and Gianluca Torta
-- [Towards Reinforcement Learning-based Aggregate Computing](https://doi.org/10.1007/978-3-031-08143-9_5) <br/> by Gianluca Aguzzi, Roberto Casadei and Mirko Viroli
-- [Space-fluid Adaptive Sampling: a Field-based, Self-organising Approach](https://doi.org/10.1007/978-3-031-08143-9_7) <br/> by Roberto Casadei, Stefano Mariani, Danilo Pianini, Mirko Viroli and Franco Zambonelli
-
-### Session 3: Processes and Languages
-*(session chair: Michele Loreti)*
-
-- [Formal Choreographic Languages](https://doi.org/10.1007/978-3-031-08143-9_8) <br/> by Franco Barbanera, Ivan Lanese and Emilio Tuosto
-- [A Model of Actors and Grey Failures](https://doi.org/10.1007/978-3-031-08143-9_9) <br/> by Laura Bocchi, Julien Lange, Simon Thompson and A. Laura Voinea 
-- [Soft Concurrent Constraint Programming with Local Variables](https://doi.org/10.1007/978-3-031-08143-9_10) <br/> by Laura Bussi, Fabio Gadducci and Francesco Santini
-
-### Session 4: Runtime Verification, Monitor Synthesis, and Microservices
-*(session chair: Narges Khakpour)*
-
-- [A Synthesis Tool for Optimal Monitors in a Branching-Time Setting](https://doi.org/10.1007/978-3-031-08143-9_11) <br/> by Antonis Achilleos, Léo Exibard, Adrian Francalanza, Karoliina Lehtinen and Jasmine Xuereb
-- [Model-Driven Generation of Microservice Interfaces: From LEMMA Domain Models to Jolie APIs](https://doi.org/10.1007/978-3-031-08143-9_13) <br/> by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti and Florian Rademacher
-
+### Session 4:
 
 ## DAIS programme
 
