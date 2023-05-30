@@ -95,8 +95,8 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | **13:00-15:00** | *lunch break* | *lunch break* | *lunch break*|
 | | [**Best Paper Session**](#discotec-best-papers) | [**Best Paper Session**](#discotec-best-papers) | [**Best Paper Session**](#discotec-best-papers) |
 | **15:00-15:30** | COORDINATION <br/> [Rollback Recovery in Session-based Programming](#discotec-best-papers) | COORDINATION <br/> [Rollback Recovery in Session-based Programming](#discotec-best-papers) | COORDINATION <br/> [Rollback Recovery in Session-based Programming](#discotec-best-papers) | 
-| 15:30-16:00| [EdgeEmu - Emulator for Android Edge Devices](#discotec-best-papers) | [EdgeEmu - Emulator for Android Edge Devices](#discotec-best-papers) | EdgeEmu - Emulator for Android Edge Devices](#discotec-best-papers)| 
-| 16:00-16:30 | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers) | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers) | [Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers) | 
+| 15:30-16:00| DAIS <br/>[EdgeEmu - Emulator for Android Edge Devices](#discotec-best-papers) | DAIS <br/>[EdgeEmu - Emulator for Android Edge Devices](#discotec-best-papers) | DAIS <br/>[EdgeEmu - Emulator for Android Edge Devices](#discotec-best-papers)| 
+| 16:00-16:30 | FORTE<br/>[Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers) | FORTE<br/>[Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers) | FORTE<br/>[Relating Reversible Petri Nets and Reversible Event Structures, categorically](#discotec-best-papers) | 
 | **16:30-17:00** | *networking coffee* | *networking coffee* | *networking coffee* |
 
 <br/>
