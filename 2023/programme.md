@@ -7,6 +7,9 @@
 
 ## Monday June 19th
 
+### ICE (Workshop on Interaction and Concurrency Experience)
+Go to the [programme page](https://www.discotec.org/2023/ice).
+
 ### Tutorials
 | Time   | Distribution Track |
 | :---: | :---: |
