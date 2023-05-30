@@ -12,7 +12,7 @@ Go to the [programme page](https://www.discotec.org/2023/ice).
 
 ### Tutorials
 
-The tutorials will take place at **Room 219 at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt)**.
+The tutorials will take place at **Room 219** at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt).
 
 | Time   | Distribution Track |
 | :---: | :---: |
@@ -97,28 +97,26 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | | [Best paper session](#session-best-papers) | [Best paper session](#session-best-papers) | [Best paper session](#session-best-papers) |
 | **15.00 - 15.30** | COORDINATION best paper | COORDINATION best paper | COORDINATION best paper | 
 | **15.30 - 16.00** | DAIS best paper | DAIS best paper | DAIS best paper | 
-| **16.00 - 16.30** | FORTE best paper | FORTE best paper | FORTE best paper | 
-| *16.30 - 17.00* | *networking coffee* | *networking coffee* | *networking coffee* |
+| 16.00 - 16.30 | FORTE best paper | FORTE best paper | FORTE best paper | 
+| **16.30 - 17.00** | *networking coffee* | *networking coffee* | *networking coffee* |
 
 <br/>
 
 ## Friday June 23rd
 
-### Tutorials
+### BehAPI Tutorials
 
-The tutorials will take place at **Room 219 at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt)**.
+<img src="behapi-project-logo.png" width="182"/>
 
-| Time   | Distribution Track |
+The tutorials will take place at **Room 219** at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt).
+
+| Time   | BehAPI |
 | :---: | :---: |
-| 10:10-11:10 | Implementing and Evaluating Distributed Protocols with Babel (I) | 
-| **11:10-11:30** | **Coffee break** |
-| 11:30-13:00 | Implementing and Evaluating Distributed Protocols with Babel (II) |
+| 09:30-11:00 | SeTTS: Session Type Test Synthesis for Web-based APIs | 
+| **11:00-11:30** | **Coffee break** |
+| 11:30-13:00 | Local-First Principles: a Behavioural Typing Approach |
 | **13:00-14:30** | **Lunch break** |
-| __**Time**__   | __**Verification Track**__ |
-| 14:30-15:30 | Deductive Verification of OCaml Programs in Cameleer (I) |
-| **16:00-16:30** | **Coffee break** | |
-| 16:30-18:00 | Deductive Verification of OCaml Programs in Cameleer (II) |
-| **19.00-20.00** | **Welcome reception** | 
+| 14:30-16:00 |JaTyC - Java Typestate Checker |
+| **16:30-17:00** | *networking coffee* |
 
 <br/>
-
