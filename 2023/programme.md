@@ -66,9 +66,9 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 |  | **COORDINATION <br/> (Room 219)** | **DAIS <br/> (Room 209)** | **FORTE <br/> (Room 217)** |
 | *11.25 - 11.30* | *welcome* | *welcome* | *welcome* |
 | | [Session 3](#session-3-coordination) | [Session 3: Distributed Architectures & Data Management](#session-3-distributed-architectures--data-management) | [Session 3: Probabilities, Time and other Resources](#session-3-probabilities-time-and-other-resources) |
-| **11.30 - 12.00** | ... | [Transactional causal consistent microservices simulator](#session-3-distributed-architectures--data-management) | Operations on Timed Scenarios | 
-| **12.00 - 12.30** | ... | [Runtime load-shifting of distributed monitors and controllers across networked devices](#session-3-distributed-architectures--data-management) | On the Use of Model and Logical Embeddings for Model Checking of Probabilistic Systems | 
-| **12.30 - 13.00** | ... |  | On Bisimilarity for Polyhedral Models and SLCS |
+| **11.30 - 12.00** | ... | [Transactional causal consistent microservices simulator](#session-3-distributed-architectures--data-management) | [Operations on Timed Scenarios](#session-3-probabilities-time-and-other-resources) | 
+| **12.00 - 12.30** | ... | [Runtime load-shifting of distributed monitors and controllers across networked devices](#session-3-distributed-architectures--data-management) | [On the Use of Model and Logical Embeddings for Model Checking of Probabilistic Systems](#session-3-probabilities-time-and-other-resources) | 
+| **12.30 - 13.00** | ... |  | [On Bisimilarity for Polyhedral Models and SLCS](#session-3-probabilities-time-and-other-resources) |
 | *13.00 - 15.00* | *lunch break* | *lunch break* | *lunch break*|
 | | [Session 4](#session-4-coordination) |  | [Session 4: Model-based testing & Petri Nets](#session-4-model-based-testing--petri-nets) |
 | **15.00 - 15.30** | ... |  | [With a little help from your friends: semi-cooperative games via Joker moves](#session-4-model-based-testing--petri-nets) | 
