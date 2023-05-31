@@ -13,7 +13,7 @@ DisCoTec 2023 will take place at the [NOVA University Lisbon](https://www.unl.pt
 
 ## Programme
 
-To be defined.
+Go to the [programme page](https://www.discotec.org/2023/programme).
 
 ## Important Dates
 * **Abstract submission:** ~~February 11, 2023~~ February 24, 2023 (Extended)
@@ -165,8 +165,13 @@ Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to dat
 ## Sponsors & Supporters
 
 <a href="https://www.ifip.org">
-  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="350px">
+  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="250px">
 </a>
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
+&nbsp;   &nbsp;   &nbsp;   &nbsp;  
 <a href="https://eapls.org">
-<img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" width="350px">
+<img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" width="250px">
+</a>
+&nbsp;   &nbsp;   &nbsp;   &nbsp;  
+<a href="https://eapls.org">
+<img alt="novalincs-logo" src="https://www.discotec.org/2023/novalincs-img.jpg" width="250px">
+</a>
