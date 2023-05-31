@@ -50,7 +50,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - *Partially Typed Multiparty Sessions* by Franco Barbanera and Mariangiola Dezani-Ciancaglini
 - *Algebraic Reasoning About Timeliness* by Seyed Hossein Haeri, Peter Van Roy, Peter Thompson, Magne Haveraaen, Neil Davies, Mikhail Barash,  Kevin Hammond and James Chapman
 - *Branching pomsets and event structures (Oral Communication)* by Luc Edixhoven, Sung-Shik Jongmans, José Proença and Ilaria Castellani
-- *On the Introduction of Guarded Lists in Bach: Expressiveness, Correctness, and Efficiency Issues* by Jean-Marie Jacquet
+- *On the Introduction of Guarded Lists in Bach: Expressiveness, Correctness, and Efficiency Issues* by Manel Barkallah and Jean-Marie Jacquet
 - *Proofs about Network Communication: For Humans and Machines* by Wolfgang Jeltsch and Javier Díaz
 - *Revisiting Benchmarking for Concurrent Runtime Verification (Oral Communication)* by Duncan Paul Attard
 - *Comprehensive Specification and Formal Analysis of Attestation Mechanisms in Confidential Computing (Oral Communication)* by Muhammad Usama Sardar, Thomas Fossati and Simon Frost
@@ -77,7 +77,7 @@ The talks will take place at **Room 217 at [Colégio Almada Negreiros](https://g
 | **11:10-11:30** | **Coffee break** | |
 | 11:30-12:00 | Semantics (Chair: Davide Basile) | _Branching pomsets and event structures_ (Oral Communication) (Luc Edixhoven, Sung-Shik Jongmans, José Proença and Ilaria Castellani) |
 | 12:00-12:30 | | _Algebraic Reasoning About Timeliness_ (Seyed Hossein Haeri, Peter Van Roy, Peter Thompson, Magne Haveraaen, Neil Davies, Mikhail Barash, Kevin Hammond and James Chapman) |
-| 12:30-13:00 | | _On the Introduction of Guarded Lists in Bach: Expressiveness, Correctness, and Efficiency Issues_ (Jean-Marie Jacquet) |
+| 12:30-13:00 | | _On the Introduction of Guarded Lists in Bach: Expressiveness, Correctness, and Efficiency Issues_ (Manel Barkallah and Jean-Marie Jacquet) |
 | **13:00-14:30** | **Lunch break** | |
 | **14:30-15:30** | **Invited talk** | [Adrian Francalanza](#adrian-francalanza) |
 | 15:30-16:00 | Runtime Verification (Chair: Simon Fowler) | _Revisiting Benchmarking for Concurrent Runtime Verification_ (Oral Communication) (Duncan Paul Attard) |
