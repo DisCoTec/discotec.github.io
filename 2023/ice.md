@@ -54,7 +54,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - *Proofs about Network Communication: For Humans and Machines* by Wolfgang Jeltsch and Javier Díaz
 - *Revisiting Benchmarking for Concurrent Runtime Verification (Oral Communication)* by Duncan Paul Attard
 - *Comprehensive Specification and Formal Analysis of Attestation Mechanisms in Confidential Computing (Oral Communication)* by Muhammad Usama Sardar, Thomas Fossati and Simon Frost
-- *Type qualifier inference and code synthesis for a better data-centric synchronisation experience* by Ana Almeida Matos, António Ravara, Hervé Paulino, Jan Cederquist, João Matos and Marco Giunti
+- *Type qualifier inference and code synthesis for a better data-centric synchronisation experience (Oral Communication)* by Ana Almeida Matos, António Ravara, Hervé Paulino, Jan Cederquist, João Matos and Marco Giunti
 
 ## Programme and Pre-proceedings  {#programme} 
 
@@ -72,7 +72,7 @@ The talks will take place at **Room 217 at [Colégio Almada Negreiros](https://g
 | ------------| ------- | ---- |
 | 9:00-9:10   | Opening | _Welcome to ICE 2023_ |
 | **9:10-10:10**  | **Invited talk** | [Carla Ferreira](#carla-ferreira) |
-| 10:10-10:40 | Co-ordination (Chair: Simon Fowler) | _Type qualifier inference and code synthesis for a better data-centric synchronisation experience_ (Ana Almeida Matos, António Ravara, Hervé Paulino, Jan Cederquist, João Matos and Marco Giunti) |
+| 10:10-10:40 | Co-ordination (Chair: Simon Fowler) | _Type qualifier inference and code synthesis for a better data-centric synchronisation experience_  (Oral Communication) (Ana Almeida Matos, António Ravara, Hervé Paulino, Jan Cederquist, João Matos and Marco Giunti) |
 | 10:40-11:10 |              | _Research Challenges in Orchestration Synthesis_ (Davide Basile and Maurice H ter Beek)
 | **11:10-11:30** | **Coffee break** | |
 | 11:30-12:00 | Semantics (Chair: Davide Basile) | _Branching pomsets and event structures_ (Oral Communication) (Luc Edixhoven, Sung-Shik Jongmans, José Proença and Ilaria Castellani) |
