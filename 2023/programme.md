@@ -73,9 +73,9 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | **12:30-13:00** | [ScaRLib: A Framework for Cooperative Many Agent Deep Reinforcement Learning in Scala](#session-3-collective-adaptive-systems-and-aggregate-computing) |  | [On Bisimilarity for Polyhedral Models and SLCS](#session-3-probabilities-time-and-other-resources) |
 | *13:00-15:00* | *lunch break* | *lunch break* | *lunch break*|
 | | [Session 4: Cyber-Physical Systems](#session-4-cyber-physical-systems) |  | [Session 4: Model-based testing & Petri Nets](#session-4-model-based-testing--petri-nets) |
-| **15:00-15:30** | [Shelley: a framework for model checking call ordering on hierarchical systems](#session-4-cyber-physical-systems) |  | [With a little help from your friends: semi-cooperative games via Joker moves](#session-4-model-based-testing--petri-nets) | 
-| **15:30-16:00** | [STARK: A Software Tool for the Analysis of Robustness in the unKnown environment](#session-4-cyber-physical-systems) |  | [Efficient dynamic model based testing using greedy test case selection](#session-4-model-based-testing--petri-nets) | 
-| **16:00-16:30** | [RSC to the ReSCu: Automated Verification of Systems of Communicating Automata (short)](#session-4-cyber-physical-systems) |  | [Minimal Generating Sets for Semiflows](#session-4-model-based-testing--petri-nets) | 
+| **15:00-15:30** | [Shelley: a framework for model checking call ordering on hierarchical systems](#session-4-cyber-physical-systems) |  | [Efficient dynamic model based testing using greedy test case selection](#session-4-model-based-testing--petri-nets) | 
+| **15:30-16:00** | [STARK: A Software Tool for the Analysis of Robustness in the unKnown environment](#session-4-cyber-physical-systems) |  | [Minimal Generating Sets for Semiflows](#session-4-model-based-testing--petri-nets) | 
+| **16:00-16:30** | [RSC to the ReSCu: Automated Verification of Systems of Communicating Automata (short)](#session-4-cyber-physical-systems) |  |  | 
 | *16:30-17:00* | *networking coffee*| *networking coffee* | *networking coffee* |
 | *20:00-22:00* | *Social dinner*| *Social dinner* | *Social dinner* |
 
@@ -94,7 +94,7 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | | [**Best Artefact Session**](#discotec-best-artefacts) | [**Best Artefact Session**](#discotec-best-artefacts)  | [**Best Artefact Session**](#discotec-best-artefacts ) |
 | **11:30-12:00** | COORDINATION best artefact <br/> [JoT: A Jolie Framework for Testing Microservices](#discotec-best-artefacts) | COORDINATION best artefact <br/> [JoT: A Jolie Framework for Testing Microservices](#discotec-best-artefacts) | COORDINATION best artefact<br/> [JoT: A Jolie Framework for Testing Microservices](#discotec-best-artefacts) | 
 | 12:00-12:30 | DAIS best artefact <br/> [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-artefacts) | DAIS best artefact <br/> [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-artefacts) | DAIS best artefact <br/> [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-artefacts) | 
-| 12:30-13:00 | FORTE best artefact  | FORTE best artefact| FORTE best artefact | 
+| 12:30-13:00 | FORTE best artefact <br/> [With a little help from your friends: semi-cooperative games via Joker moves](#discotec-best-artefacts) | FORTE best artefact <br/> [With a little help from your friends: semi-cooperative games via Joker moves](#discotec-best-artefacts)| FORTE best artefact <br/>[With a little help from your friends: semi-cooperative games via Joker moves](#discotec-best-artefacts)| 
 | **13:00-15:00** | *lunch break* | *lunch break* | *lunch break*|
 | | [**Best Paper Session**](#discotec-best-papers) | [**Best Paper Session**](#discotec-best-papers) | [**Best Paper Session**](#discotec-best-papers) |
 | **15:00-15:30** | COORDINATION best paper <br/> [Rollback Recovery in Session-based Programming](#discotec-best-papers) | COORDINATION best paper <br/> [Rollback Recovery in Session-based Programming](#discotec-best-papers) | COORDINATION best paper  <br/> [Rollback Recovery in Session-based Programming](#discotec-best-papers) | 
@@ -213,8 +213,6 @@ by Susmoy Das and Arpit Sharma
 by Vincenzo Ciancia, David Gabelaia, Diego Latella, Mieke Massink, and Erik P. de Vink
 
 ### Session 4: Model-based testing & Petri Nets
-- With a little help from your friends: semi-cooperative games via Joker moves <br/>
-by Petra van den Bos and Marielle Stoelinga
 - Efficient dynamic model based testing using greedy test case selection <br/>
 by Flip van Spaendonck
 - Minimal Generating Sets for Semiflows <br/>
@@ -246,4 +244,7 @@ by Saverio Giallorenzo, Fabrizio Montesi, Marco Peressotti, Florian Rademacher, 
 by Sina Sheikholeslami, Amir H. Payberah, Tianze Wang, Jim Dowling, and Vladimir Vlassov
 
 #### FORTE Best Artefact
-(to be defined)
+- With a little help from your friends: semi-cooperative games via Joker moves <br/> 
+by Petra van den Bos and Marielle Stoelinga
+
+
