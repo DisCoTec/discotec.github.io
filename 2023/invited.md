@@ -22,4 +22,6 @@ We exhibit a strong bisimulation between asynchronous message passing concurrenc
 ## Peter Pietzuch
 [Imperial College London, UK](https://www.doc.ic.ac.uk/~prp/)
 
-### To be defined
+### Making Cloud Applications Safe and Efficient with Memory Capabilities
+
+An increasing number of distribution applications, e.g., micro-service architectures and machine learning workloads, are deployed in the cloud. Traditional cloud security focusses on strict isolation, but distributed applications require the efficient yet secure sharing of data between components and services. In this talk, I will explore how we can use a new hardware feature, memory capabilities, to design a cloud stack that bridges the tension between isolation and sharing. Memory capabilities constrain memory accesses, and they can be used to provide a VM-like isolation mechanism, cVMs, that can share data more efficiently than containers. They can also increase efficiency by safely de-duplicating application components. I will discuss our experience in building a cloud stack using memory capabilities on the CHERI architecture, as implemented by Arm's Morello hardware.
