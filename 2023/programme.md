@@ -126,12 +126,13 @@ The tutorials will take place at **Room 219** at [Colégio Almada Negreiros](htt
 ## DisCoTec Invited Talks (Room 217)
 
 
-#### Coordination Invited Speaker
-- [Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) 
-by Frank Pfenning
 
 #### DAIS Invited Speaker
 - [Making Cloud Applications Safe and Efficient with Memory Capabilities](https://www.discotec.org/2023/invited#peter-pietzuch) by Peter Pietzuch 
+
+#### Coordination Invited Speaker
+- [Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) 
+by Frank Pfenning
 
 #### FORTE Invited Speaker
 - [Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)
