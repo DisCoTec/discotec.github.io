@@ -40,7 +40,7 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | :---: | :---: | :---: | :---: |
 | *09:45-10:00* | *welcome* | *welcome*| *welcome*|
 |  | **DisCoTec Invited Talk** <br/> (Room 217)  | **DisCoTec Invited Talk**  <br/> (Room 217) | **DisCoTec Invited Talk**  <br/> (Room 217) |
-| **10:00-11:00** | [Peter Pietzuch](https://www.discotec.org/2023/invited#peter-pietzuch) | [Peter Pietzuch](https://www.discotec.org/2023/invited#peter-pietzuch) | [Peter Pietzuch](https://www.discotec.org/2023/invited#peter-pietzuch) |
+| **10:00-11:00** | [Peter Pietzuch: Making Cloud Applications Safe and Efficient with Memory Capabilities](https://www.discotec.org/2023/invited#peter-pietzuch) | [Peter Pietzuch: Making Cloud Applications Safe and Efficient with Memory Capabilities](https://www.discotec.org/2023/invited#peter-pietzuch) | [Peter Pietzuch: Making Cloud Applications Safe and Efficient with Memory Capabilities](https://www.discotec.org/2023/invited#peter-pietzuch) |
 | *11:00-11:25* | *coffee break* | *coffee break* | *coffee break* |
 |  | COORDINATION (Room 217) | DAIS (Room 209) | FORTE (Room 219) |
 | *11:00-11:25* | *welcome* | *welcome* | *welcome* |
