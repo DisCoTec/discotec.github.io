@@ -131,7 +131,7 @@ The tutorials will take place at **Room 219** at [Colégio Almada Negreiros](htt
 by Frank Pfenning
 
 #### DAIS Invited Speaker
-- [Peter Pietzuch: Making Cloud Applications Safe and Efficient with Memory Capabilities](https://www.discotec.org/2023/invited#peter-pietzuch)
+- [Making Cloud Applications Safe and Efficient with Memory Capabilities](https://www.discotec.org/2023/invited#peter-pietzuch) by Peter Pietzuch 
 
 #### FORTE Invited Speaker
 - [Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)
