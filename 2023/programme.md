@@ -189,11 +189,11 @@ by Angelo Filaseta and Danilo Pianini
 ## FORTE programme
 
 ### Session 1: Concurrent Programming
-- A Survey of Tools for Grading Concurrent Programming Exercises </br>
+- A Survey of Tools for Grading Concurrent Programming Exercises <br/>
 by Manuel Barros, Maria Ramos, Alexandre Gomes, Alcino Cunha, Jose Pereira, and Paulo Sérgio Almeida
-- Towards an Automatic Proof of the Bakery Algorithm (short) </br>
+- Towards an Automatic Proof of the Bakery Algorithm (short) <br/>
 by Aman Goel, Stephan Merz, and Karem Sakallah
-- Certified Compilation of Choreographies with hacc (short)</br>
+- Certified Compilation of Choreographies with hacc (short)<br/>
 by Luís Cruz-Filipe, Lovro Lugović, and Fabrizio Montesi
 - Implementing a CTL Model Checker with mG, a Language for Programming Graph Neural Networks <br/>
 by Matteo Belenchia, Flavio Corradini, Michela Quadrini, and Michele Loreti. 
