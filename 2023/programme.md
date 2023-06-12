@@ -125,14 +125,15 @@ The tutorials will take place at **Room 219** at [Colégio Almada Negreiros](htt
 
 ## DisCoTec Invited Talks (Room 217)
 
-#### FORTE Invited Speaker
-- [Peter Pietzuch](https://www.discotec.org/2023/invited#peter-pietzuch)
 
 #### Coordination Invited Speaker
 - [Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) 
 by Frank Pfenning
 
 #### DAIS Invited Speaker
+- [Peter Pietzuch](https://www.discotec.org/2023/invited#peter-pietzuch)
+
+#### FORTE Invited Speaker
 - [Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)
 by Azalea Raad
 
