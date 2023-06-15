@@ -32,17 +32,17 @@ The tutorials will take place at **Room 219** at [Colégio Almada Negreiros](htt
 
 ## Conference Talks
 
-The conference talks will take place in **rooms 209, 217, and 219 at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt)**.
+The conference talks will take place in **rooms A224, 209, and 217 at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt)**.
 
 ### Tuesday June 20th
 
 | Time | COORDINATION | DAIS | FORTE |
 | :---: | :---: | :---: | :---: |
 | *09:45-10:00* | *welcome* | *welcome*| *welcome*|
-|  | **DisCoTec Invited Talk** <br/> (Room 217)  | **DisCoTec Invited Talk**  <br/> (Room 217) | **DisCoTec Invited Talk**  <br/> (Room 217) |
+|  | **DisCoTec Invited Talk** <br/> (Room A224)  | **DisCoTec Invited Talk**  <br/> (Room A224) | **DisCoTec Invited Talk**  <br/> (Room A224) |
 | **10:00-11:00** | [Peter Pietzuch: Making Cloud Applications Safe and Efficient with Memory Capabilities](https://www.discotec.org/2023/invited#peter-pietzuch) | [Peter Pietzuch: Making Cloud Applications Safe and Efficient with Memory Capabilities](https://www.discotec.org/2023/invited#peter-pietzuch) | [Peter Pietzuch: Making Cloud Applications Safe and Efficient with Memory Capabilities](https://www.discotec.org/2023/invited#peter-pietzuch) |
 | *11:00-11:25* | *coffee break* | *coffee break* | *coffee break* |
-|  | COORDINATION (Room 217) | DAIS (Room 209) | FORTE (Room 219) |
+|  | COORDINATION (Room A224) | DAIS (Room 209) | FORTE (Room 217) |
 | *11:00-11:25* | *welcome* | *welcome* | *welcome* |
 | | [Session 1: Run-Time Changes](#session-1-run-time-changes) | [Session 1: Distributed Algorithms and Systems](#session-1-distributed-algorithms-and-systems) | [Session 1: Concurrent Programming](#session-1-concurrent-programming) |
 | **11:30-12:00** | [Legal Contracts amending with Stipula](#session-1-run-time-changes) | [TADA: A toolkit for approximate distributed agreement](#session-1-distributed-algorithms-and-systems)| [A Survey of Tools for Grading Concurrent Programming Exercises](#session-1-concurrent-programming) | 
@@ -62,10 +62,10 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | Time | COORDINATION | DAIS | FORTE |
 | :---: | :---: | :---: | :---: |
 | *09:55-10:00* | *welcome* | *welcome*| *welcome*|
-|  | **DisCoTec Invited Talk** <br/> (Room 217)  | **DisCoTec Invited Talk**  <br/> (Room 217) | **DisCoTec Invited Talk**  <br/> (Room 217) |
+|  | **DisCoTec Invited Talk** <br/> (Room A224)  | **DisCoTec Invited Talk**  <br/> (Room A224) | **DisCoTec Invited Talk**  <br/> (Room A224) |
 | **10:00-11:00** | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) |
 | *11:00-11:25* | *coffee break* | *coffee break* | *coffee break* |
-|  | **COORDINATION** <br/> (Room 219) | **DAIS <br/>** (Room 209) | **FORTE** <br/> (Room 217) |
+|  | **COORDINATION** <br/> (Room A224) | **DAIS <br/>** (Room 209) | **FORTE** <br/> (Room 217) |
 | *11:25-11:30* | *welcome* | *welcome* | *welcome* |
 | | [Session 3: Collective Adaptive Systems and Aggregate Computing](#session-3-collective-adaptive-systems-and-aggregate-computing) | [Session 3: Distributed Architectures & Data Management](#session-3-distributed-architectures--data-management) | [Session 3: Probabilities, Time and other Resources](#session-3-probabilities-time-and-other-resources) |
 | **11:30-12:00** | [MacroSwarm: a Field-based Compositional Framework for Swarm Programming](#session-3-collective-adaptive-systems-and-aggregate-computing) | [Transactional causal consistent microservices simulator](#session-3-distributed-architectures--data-management) | [Operations on Timed Scenarios](#session-3-probabilities-time-and-other-resources) | 
@@ -86,11 +86,11 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 | Time | COORDINATION | DAIS | FORTE |
 | :---: | :---: | :---: | :---: |
 | *09:55-10:00* | *welcome* | *welcome*| *welcome*|
-| *10:00-10:10* | **DisCoTec 2024** <br/> (Room 217) | **DisCoTec 2024** <br/> (Room 217) | **DisCoTec 2024** <br/> (Room 217)|
-|  | **DisCoTec Invited Talk** <br/> (Room 217)  | **DisCoTec Invited Talk**  <br/> (Room 217) | **DisCoTec Invited Talk**  <br/> (Room 217) |
+| *10:00-10:10* | **DisCoTec 2024** <br/> (Room A224) | **DisCoTec 2024** <br/> (Room A224) | **DisCoTec 2024** <br/> (Room A224)|
+|  | **DisCoTec Invited Talk** <br/> (Room A224)  | **DisCoTec Invited Talk**  <br/> (Room A224) | **DisCoTec Invited Talk**  <br/> (Room A224) |
 | **10:10-11:10** | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)  | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad) | [Azalea Raad: Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)  |
 | *11:10-11:25* | *coffee break* | *coffee break* | *coffee break* |
-|  | **COORDINATION** <br/> (Room 217) | **DAIS <br/>** (Room 217) | **FORTE** <br/> (Room 217) |
+|  | **COORDINATION** <br/> (Room A224) | **DAIS <br/>** (Room A224) | **FORTE** <br/> (Room A224) |
 | | [**Best Artefact Session**](#discotec-best-artefacts) | [**Best Artefact Session**](#discotec-best-artefacts)  | [**Best Artefact Session**](#discotec-best-artefacts ) |
 | **11:30-12:00** | COORDINATION best artefact <br/> [JoT: A Jolie Framework for Testing Microservices](#discotec-best-artefacts) | COORDINATION best artefact <br/> [JoT: A Jolie Framework for Testing Microservices](#discotec-best-artefacts) | COORDINATION best artefact<br/> [JoT: A Jolie Framework for Testing Microservices](#discotec-best-artefacts) | 
 | 12:00-12:30 | DAIS best artefact <br/> [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-artefacts) | DAIS best artefact <br/> [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-artefacts) | DAIS best artefact <br/> [The Impact of Importance-aware Dataset Partitioning on Data-parallel Training of Deep Neural Networks](#discotec-best-artefacts) | 
@@ -110,7 +110,7 @@ The conference talks will take place in **rooms 209, 217, and 219 at [Colégio A
 
 <img src="behapi-project-logo.png" width="182"/>
 
-The tutorials will take place at **Room 219** at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt).
+The tutorials will take place at **Room 209** at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt).
 
 | Time   | BehAPI |
 | :---: | :---: |
@@ -123,7 +123,7 @@ The tutorials will take place at **Room 219** at [Colégio Almada Negreiros](htt
 
 <br/>
 
-## DisCoTec Invited Talks (Room 217)
+## DisCoTec Invited Talks (Room A224)
 
 
 
