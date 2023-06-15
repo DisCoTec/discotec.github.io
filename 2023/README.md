@@ -38,6 +38,14 @@ Go to the [list of accepted papers](https://www.discotec.org/2023/accepted-paper
 [NOVA University Lisbon](https://www.unl.pt/en/)<br/>
 Campus de Campolide, 1099-085 Lisboa
 
+## How to get from the airport to the conference venue
+
+### Subway (Metro)
+The nearest metro station to NOVA is São Sebastião (700m, 9 min walking distance)
+The red line directly connects Lisbon Airport to the metro station *São Sebastião*.
+
+The subway (Metro) network diagram can be found [here](https://www.metrolisboa.pt/en/travel/diagrams-and-maps/).
+
 ## Accommodations
 You can find several hotels nearby the conference venue [here](https://www.google.pt/maps/search/Hotéis/@38.732843,-9.1729554,15z/data=!3m1!4b1!4m9!2m8!3m6!1zSG90w6lpcw!2sColégio+Almada+Negreiros,+Universidade+Nova+de+Lisboa,+Faculdade+de+Direito,+Tv.+Estêvão+Pinto,+1099-032+Lisboa!3s0xd19336270152f73:0x7f4b48ea0549f8e2!4m2!1d-9.1603597!2d38.7328185!6e3?hl=pt-PT).
 
