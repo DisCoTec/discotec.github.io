@@ -40,13 +40,13 @@ Campus de Campolide, 1099-085 Lisboa
 
 ## Welcome reception venue
 
-[ROOFTOP Bar](https://www.google.pt/maps/place/Rooftop+Bar+-+Hotel+Mundial/@38.7150406,-9.1396277,17z/data=!3m2!4b1!5s0xd193387bd378359:0x68e38d227b2282d1!4m6!3m5!1s0xd193387a16d6ecd:0x3253a2b503cf2ed8!8m2!3d38.7150364!4d-9.1370474!16s%2Fg%2F11cs6cc9cz?entry=ttu) - Hotel Mundial
+[ROOFTOP Bar](https://www.google.pt/maps/place/Rooftop+Bar+-+Hotel+Mundial/@38.7150406,-9.1396277,17z/data=!3m2!4b1!5s0xd193387bd378359:0x68e38d227b2282d1!4m6!3m5!1s0xd193387a16d6ecd:0x3253a2b503cf2ed8!8m2!3d38.7150364!4d-9.1370474!16s%2Fg%2F11cs6cc9cz?entry=ttu) - Hotel Mundial<br/>
 Hotel Mundial, Praça Martim Moniz 2, 1100-341, Mouraria, Lisboa
 
 ## Dinner venue
 
-Restaurant [Sacramento do Chiado](https://www.google.pt/maps/place/Sacramento+do+Chiado/@38.7115125,-9.1429414,17z/data=!3m1!4b1!4m6!3m5!1s0xd19347f33b8a461:0x47a2ef573c89dc11!8m2!3d38.7115083!4d-9.1403611!16s%2Fg%2F1th29nxp?entry=ttu)
-Calçada Sacramento 44
+Restaurant [Sacramento do Chiado](https://www.google.pt/maps/place/Sacramento+do+Chiado/@38.7115125,-9.1429414,17z/data=!3m1!4b1!4m6!3m5!1s0xd19347f33b8a461:0x47a2ef573c89dc11!8m2!3d38.7115083!4d-9.1403611!16s%2Fg%2F1th29nxp?entry=ttu)<br/>
+Calçada Sacramento 44<br/>
 1200-394 Lisboa, Portugal
 
 
