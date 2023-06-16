@@ -38,6 +38,8 @@ Go to the [list of accepted papers](https://www.discotec.org/2023/accepted-paper
 [NOVA University Lisbon](https://www.unl.pt/en/)<br/>
 Campus de Campolide, 1099-085 Lisboa
 
+![Map](map.png)
+
 ## Welcome reception venue
 
 [ROOFTOP Bar](https://www.google.pt/maps/place/Rooftop+Bar+-+Hotel+Mundial/@38.7150406,-9.1396277,17z/data=!3m2!4b1!5s0xd193387bd378359:0x68e38d227b2282d1!4m6!3m5!1s0xd193387a16d6ecd:0x3253a2b503cf2ed8!8m2!3d38.7150364!4d-9.1370474!16s%2Fg%2F11cs6cc9cz?entry=ttu) - Hotel Mundial<br/>
