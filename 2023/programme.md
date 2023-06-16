@@ -12,7 +12,7 @@ Go to the [programme page](https://www.discotec.org/2023/ice).
 
 ### Tutorials
 
-The tutorials will take place at **Room 219** at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt).
+The tutorials will take place at **Room 217** at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt).
 
 | Time   | Distribution Track |
 | :---: | :---: |
@@ -42,7 +42,7 @@ The conference talks will take place in **rooms A224, 209, and 217 at [Colégio 
 |  | **DisCoTec Invited Talk** <br/> (Room A224)  | **DisCoTec Invited Talk**  <br/> (Room A224) | **DisCoTec Invited Talk**  <br/> (Room A224) |
 | **10:00-11:00** | [Peter Pietzuch: Making Cloud Applications Safe and Efficient with Memory Capabilities](https://www.discotec.org/2023/invited#peter-pietzuch) | [Peter Pietzuch: Making Cloud Applications Safe and Efficient with Memory Capabilities](https://www.discotec.org/2023/invited#peter-pietzuch) | [Peter Pietzuch: Making Cloud Applications Safe and Efficient with Memory Capabilities](https://www.discotec.org/2023/invited#peter-pietzuch) |
 | *11:00-11:25* | *coffee break* | *coffee break* | *coffee break* |
-|  | COORDINATION (Room A224) | DAIS (Room 209) | FORTE (Room 217) |
+|  | COORDINATION (Room A224) | DAIS (Room 217) | FORTE (Room 209) |
 | *11:00-11:25* | *welcome* | *welcome* | *welcome* |
 | | [Session 1: Run-Time Changes](#session-1-run-time-changes) | [Session 1: Distributed Algorithms and Systems](#session-1-distributed-algorithms-and-systems) | [Session 1: Concurrent Programming](#session-1-concurrent-programming) |
 | **11:30-12:00** | [Legal Contracts amending with Stipula](#session-1-run-time-changes) | [TADA: A toolkit for approximate distributed agreement](#session-1-distributed-algorithms-and-systems)| [A Survey of Tools for Grading Concurrent Programming Exercises](#session-1-concurrent-programming) | 
@@ -65,7 +65,7 @@ The conference talks will take place in **rooms A224, 209, and 217 at [Colégio 
 |  | **DisCoTec Invited Talk** <br/> (Room A224)  | **DisCoTec Invited Talk**  <br/> (Room A224) | **DisCoTec Invited Talk**  <br/> (Room A224) |
 | **10:00-11:00** | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) |
 | *11:00-11:25* | *coffee break* | *coffee break* | *coffee break* |
-|  | **COORDINATION** <br/> (Room A224) | **DAIS <br/>** (Room 209) | **FORTE** <br/> (Room 217) |
+|  | **COORDINATION** <br/> (Room A224) | **DAIS <br/>** (Room 217) | **FORTE** <br/> (Room 209) |
 | *11:25-11:30* | *welcome* | *welcome* | *welcome* |
 | | [Session 3: Collective Adaptive Systems and Aggregate Computing](#session-3-collective-adaptive-systems-and-aggregate-computing) | [Session 3: Distributed Architectures & Data Management](#session-3-distributed-architectures--data-management) | [Session 3: Probabilities, Time and other Resources](#session-3-probabilities-time-and-other-resources) |
 | **11:30-12:00** | [MacroSwarm: a Field-based Compositional Framework for Swarm Programming](#session-3-collective-adaptive-systems-and-aggregate-computing) | [Transactional causal consistent microservices simulator](#session-3-distributed-architectures--data-management) | [Operations on Timed Scenarios](#session-3-probabilities-time-and-other-resources) | 
