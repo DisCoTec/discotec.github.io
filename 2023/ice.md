@@ -63,7 +63,7 @@ You can download the [**ICE 2023 pre-proceedings**](ice_2023_preproceedings.pdf)
 <!-- 
 The proceedings are also [available as EPTCS 365](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022).
 -->
-The talks will take place at **Room 217 at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt)**.
+The talks will take place at **Room 219 at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt)**.
 
 *All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
 
