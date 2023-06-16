@@ -11,6 +11,14 @@ DisCoTec 2023 will take place at the [NOVA University Lisbon](https://www.unl.pt
 * [DAIS 2023](https://www.discotec.org/2023/dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2023](https://www.discotec.org/2023/forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
+## Proceedings
+
+* COORDINATION: [LNCS 13908](https://link.springer.com/book/10.1007/978-3-031-35361-1)
+* DAIS: [LNCS 13910](https://link.springer.com/book/10.1007/978-3-031-35260-7)
+* FORTE: [LNCS 13910](https://link.springer.com/book/10.1007/978-3-031-35355-0)
+
+<img src="lncs-logo.jpg" width="182" height="68"/>
+
 ## Programme
 
 Go to the [programme page](https://www.discotec.org/2023/programme).
