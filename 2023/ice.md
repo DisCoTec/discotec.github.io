@@ -91,7 +91,11 @@ The talks will take place at **Room 219 at [Colégio Almada Negreiros](https://g
 
 ### Carla Ferreira
 
-#### Talk: TBA
+#### Talk: Techniques for safe and highly available cloud applications
+
+> Cloud applications provide increasingly complex services on a global scale. To achieve the quality of service demanded by users, a common technique is to maintain copies of the application's shared data across geographically dispersed locations closer to end users.
+> To this end, it has become increasingly popular to develop applications that rely on weak consistency models where operations requested by a client are executed locally without any coordination with other replicas and immediately returned to the client. These operations are later propagated in the background, leading to different replicas' execution orders and, potentially, divergent replica states.
+> Replicated Data Types (RDTs) that resemble sequential data types (e.g. sets, maps) guarantee convergence by design by providing efficient and deterministic data reconciliation solutions. However, designing new RDTs is challenging. In fact, even experienced researchers may miss subtle corner cases when designing RDTs for simple data structures. In this talk, I will discuss techniques for checking the correctness of RDTs and deriving correct-by-construction RDTs.
 
 #### Biography
 
