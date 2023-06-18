@@ -12,18 +12,22 @@ The pre-conference tutorials will take place on Monday, June 19, 2023, and post-
 
 ### Description
 
-In this tutorial we guide the audience through the implementation and evaluation of a simple distributed application with a tool that simplifies this process: Babel. Implementing and evaluating distributed applications and protocols is a dificult task. The developer must focus on many aspects of the implementations that include: networking, concurrency control, the handling of timeouts, the interaction between components, among others. Babel [2] is a tool and framework that simplifies the task of developing distributed applications and protocols by allowing the developer to focus mostly on the application/protocol logic. Babel achieves this by providing high level APIs that shield the developer from error-prone implementation aspects, mainly networking and concurrency control. The goal of the tutorial is to familiarize the audience with Babel by implementing a simple distributed application constituted by two protocols that interact with each other.  Furthermore, we will also provide a simple way to evaluate the implementations through emulation.
+In this tutorial we guide the audience through the implementation and evaluation of a simple distributed application with a tool that simplifies this process: Babel. Implementing and evaluating distributed applications and protocols is a difficult task. The developer must focus on many aspects of the implementations that include: networking, concurrency control, the handling of timeouts, the interaction between components, among others. Babel [2] is a tool and framework that simplifies the task of developing distributed applications and protocols by allowing the developer to focus mostly on the application/protocol logic. Babel achieves this by providing high-level APIs that shield the developer from error-prone implementation aspects, mainly networking and concurrency control. The goal of the tutorial is to familiarize the audience with Babel by implementing a simple distributed application constituted by two protocols that interact with each other.  Furthermore, we will also provide a simple way to evaluate the implementations through emulation.
+
+Materials for the tutorial are available [here](https://github.com/pfouto/babel-tutorial).
 
 ### Speakers
 
-#### Pedro Fouto
+#### (Pedro Fouto)[https://novasys.di.fct.unl.pt/~pfouto/]
 
 Pedro Fouto is a Computer Science PhD student advised by Professors João Leitão and Nuno Preguiça at NOVA University of Lisbon. His main research area is distributed storage systems, where he has used Babel to develop his prototypes. In more detail, Babel was used to develop the prototypes presented in the paper "High Throughput Replication with Integrated Membership Management" published in the Proceedings of USENIX ATC'22. Pedro Fouto is also the first author of the Babel paper.
 
-#### Pedro Akos Costa
+#### (Pedro Akos Costa)[https://novasys.di.fct.unl.pt/~akos/]
+
 Pedro Akos Costa is a Computer Science PhD student advised by Professor João Leitão at NOVA University of Lisbon.  His main research is distributed systems, where he has used Babel to develop the prototypes used in the paper "Overlay networks for edge management" published in the Proceedings of NCA'20. Pedro Santos Costa is also a co-author of the Babel paper.
 
-#### João Leitão
+#### (João Leitão)[https://asc.di.fct.unl.pt/~jleitao/index.php]
+
 João Leitão is an Associate Professor at the Department of Computer Science of the NOVA University of Lisbon. João Leitão teaches an advanced distributed systems courses where the students employ Babel to develop their project. João Leitão is also one of the authors of the Babel paper, published in 2022 in the Proceedings of SRDS'22.
 
 ## Deductive Verification of OCaml Programs in Cameleer.
