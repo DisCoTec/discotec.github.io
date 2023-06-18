@@ -65,7 +65,7 @@ The proceedings are also [available as EPTCS 365](http://eptcs.web.cse.unsw.edu.
 -->
 The talks will take place at **Room 219 at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt)**.
 
-*All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
+*All times are listed for* [**WEST** *(Western European Summer Time)*](https://time.is/WEST)
 
 
 | Time CEST   | Session | Talk |
