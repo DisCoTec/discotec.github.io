@@ -62,7 +62,7 @@ The conference talks will take place in **rooms A224, 209, and 217 at [Colégio 
 | Time | COORDINATION | DAIS | FORTE |
 | :---: | :---: | :---: | :---: |
 | *09:55-10:00* | *welcome* | *welcome*| *welcome*|
-|  | **DisCoTec Invited Talk** <br/> (Room A224)  | **DisCoTec Invited Talk**  <br/> (Room A224) | **DisCoTec Invited Talk**  <br/> (Room A224) |
+|  | **DisCoTec Invited Talk** <br/> (Room A224) <br/> (Chair: Sung-Shik Jongmans) | **DisCoTec Invited Talk**  <br/> (Room A224) | **DisCoTec Invited Talk**  <br/> (Room A224) |
 | **10:00-11:00** | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) | [Frank Pfenning: Relating Message Passing and Shared Memory, Proof-Theoretically](https://www.discotec.org/2023/invited#frank-pfenning) |
 | *11:00-11:25* | *coffee break* | *coffee break* | *coffee break* |
 |  | **COORDINATION** <br/> (Room A224) | **DAIS <br/>** (Room 217) | **FORTE** <br/> (Room 209) |
