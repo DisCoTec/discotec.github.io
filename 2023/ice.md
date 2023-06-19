@@ -68,7 +68,7 @@ The talks will take place at **Room 219 at [Colégio Almada Negreiros](https://g
 *All times are listed for* [**WEST** *(Western European Summer Time)*](https://time.is/WEST)
 
 
-| Time CEST   | Session | Talk |
+| Time WEST   | Session | Talk |
 | ------------| ------- | ---- |
 | 9:00-9:10   | Opening | _Welcome to ICE 2023_ |
 | **9:10-10:10**  | **Invited talk** | [Carla Ferreira](#carla-ferreira) |
