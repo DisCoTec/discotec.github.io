@@ -21,9 +21,9 @@ The tutorials will take place at **Room 217** at [Colégio Almada Negreiros](htt
 | 11:30-13:00 | Implementing and Evaluating Distributed Protocols with Babel (II) |
 | **13:00-14:30** | **Lunch break** |
 | __**Time**__   | __**Verification Track**__ |
-| 14:30-15:30 | Deductive Verification of OCaml Programs in Cameleer (I) |
+| 14:30-15:30 | ~~Deductive Verification of OCaml Programs in Cameleer (I)~~ (Cancelled due to a force majeure event) |
 | **16:00-16:30** | **Coffee break** | |
-| 16:30-18:00 | Deductive Verification of OCaml Programs in Cameleer (II) |
+| 16:30-18:00 | ~~Deductive Verification of OCaml Programs in Cameleer (II)~~ (Cancelled due to a force majeure event) |
 | **19:00-20:00** | **Welcome reception** | 
 
 <br/>
