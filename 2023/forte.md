@@ -112,7 +112,11 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Tom van Dijk (University of Twente)
 
 ## Artefact Evaluation Committee
-TBA
+* Andrea Esposito, Università di Urbino
+* Ludovico Fusco, University of Urbino "Carlo Bo"
+* Luís Horta, NOVA LINCS, University of Beira Interior
+* Milan Lopuhaä-Zwakenberg, Universiteit Twente
+* Peixin Wang, University of Oxford
 
 ## Steering committee
 * Ahmed Bouajjani (University Paris Diderot, France)
