@@ -30,7 +30,7 @@ Pedro Akos Costa is a Computer Science PhD student advised by Professor João Le
 
 João Leitão is an Associate Professor at the Department of Computer Science of the NOVA University of Lisbon. João Leitão teaches an advanced distributed systems courses where the students employ Babel to develop their project. João Leitão is also one of the authors of the Babel paper, published in 2022 in the Proceedings of SRDS'22.
 
-## Deductive Verification of OCaml Programs in Cameleer.
+## Deductive Verification of OCaml Programs in Cameleer (Cancelled due to a force majeure event).
 
 In this tutorial we present Cameleer, an automated deductive verification
 tool for OCaml. We leverage on the recently proposed GOSPEL (Generic
