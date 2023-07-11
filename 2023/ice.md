@@ -80,7 +80,7 @@ The talks will take place at **Room 219 at [Colégio Almada Negreiros](https://g
 | 12:30-13:00 | | [_On the Introduction of Guarded Lists in Bach: Expressiveness, Correctness, and Efficiency Issues_](ice_slides/On_the_Introduction_of_Guarded_Lists_in_Bach.pdf) (Manel Barkallah and Jean-Marie Jacquet) |
 | **13:00-14:30** | **Lunch break** | |
 | **14:30-15:30** | **Invited talk** | [Adrian Francalanza](#adrian-francalanza) |
-| 15:30-16:00 | Runtime Verification (Chair: Simon Fowler) | _Revisiting Benchmarking for Concurrent Runtime Verification_ (Oral Communication) (Duncan Paul Attard) |
+| 15:30-16:00 | Runtime Verification (Chair: Simon Fowler) | [_Revisiting Benchmarking for Concurrent Runtime Verification_](ice_slides/Revisiting_Benchmarking.pdf) (Oral Communication) (Duncan Paul Attard) |
 | **16:00-16:30** | **Coffee break** | |
 | 16:30-17:00 | Confidentiality & Communication (Chair: Duncan Paul Attard) | [_Comprehensive Specification and Formal Analysis of Attestation Mechanisms in Confidential Computing_ (Oral Communication)](ice_slides/Confidential_Computing.pdf) (Muhammad Usama Sardar, Thomas Fossati and Simon Frost) |
 | 17:00-17:30 | | [_Partially Typed Multiparty Sessions_](ice_slides/Partially_Typed_Multiparty_Sessions.pdf) (Franco Barbanera and Mariangiola Dezani-Ciancaglini) |
