@@ -82,7 +82,7 @@ The talks will take place at **Room 219 at [Colégio Almada Negreiros](https://g
 | **14:30-15:30** | **Invited talk** | [Adrian Francalanza](#adrian-francalanza) |
 | 15:30-16:00 | Runtime Verification (Chair: Simon Fowler) | _Revisiting Benchmarking for Concurrent Runtime Verification_ (Oral Communication) (Duncan Paul Attard) |
 | **16:00-16:30** | **Coffee break** | |
-| 16:30-17:00 | Confidentiality & Communication (Chair: Duncan Paul Attard) | _Comprehensive Specification and Formal Analysis of Attestation Mechanisms in Confidential Computing_ (Oral Communication) (Muhammad Usama Sardar, Thomas Fossati and Simon Frost) |
+| 16:30-17:00 | Confidentiality & Communication (Chair: Duncan Paul Attard) | [_Comprehensive Specification and Formal Analysis of Attestation Mechanisms in Confidential Computing_ (Oral Communication)](ice_slides/Confidential_Computing.pdf) (Muhammad Usama Sardar, Thomas Fossati and Simon Frost) |
 | 17:00-17:30 | | [_Partially Typed Multiparty Sessions_](ice_slides/Partially_Typed_Multiparty_Sessions.pdf) (Franco Barbanera and Mariangiola Dezani-Ciancaglini) |
 | 17:30-18:00 | | _Proofs about Network Communication: For Humans and Machines_ (Wolfgang Jeltsch and Javier Díaz) |
 | **19.00-20.00** | **Welcome reception** | 
