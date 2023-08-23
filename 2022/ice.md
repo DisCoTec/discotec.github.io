@@ -20,7 +20,7 @@ See the [**ICE 2022 programme and pre-proceedings**](#programme), and [proceedin
       - [Ilaria Castellani](#ilaria-castellani) (INRIA, FR)
       - [Matthew Parkinson](#matthew-parkinson) (Microsoft Research, UK)
   * Publication in [EPTCS](https://eptcs.org/) as [EPTCS 365](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022)
-  * Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
+  * Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(in press)_
   * Contact: `ice22 (at) googlegroups.com`
 
 ## Scope
