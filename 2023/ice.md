@@ -21,7 +21,7 @@ See the [**ICE 2023 programme and pre-proceedings**](#programme), and [proceedin
 - Invited speakers:
     - [Carla Ferreira](#carla-ferreira) (NOVA Laboratory for Computer Science and Informatics, NOVA University of Lisbon)
     - [Adrian Francalanza](#adrian-francalanza) (Faculty of ICT, University of Malta)
-- Publication in the [Electronic Proceedings in Theoretical Computer Science](https://eptcs.org/).
+- Publication in [EPTCS](https://eptcs.org/) as [EPTCS 383](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2023)
 - Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
 - Contact: `ice2023 (at) framalistes.org`
 
@@ -59,6 +59,9 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 ## Programme and Pre-proceedings  {#programme} 
 
 You can download the [**ICE 2023 pre-proceedings**](ice_2023_preproceedings.pdf), and the slides or presentation below by clicking on the talk title.
+
+The proceedings are also [available as EPTCS 383](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2023).
+
 
 <!-- 
 The proceedings are also [available as EPTCS 365](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022).
