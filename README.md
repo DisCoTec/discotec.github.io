@@ -9,7 +9,9 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 ranging from theoretical foundations and formal description techniques to systems
 research issues. 
 
-[DisCoTec 2023](http://www.discotec.org/2023) will take place at [NOVA University Lisbon](https://www.unl.pt/en/) in June 19-23, 2023.
+**DisCoTec 2024** will take place at [University of Groningen](https://www.rug.nl) in June 17-21, 2024.
+
+[DisCoTec 2023](http://www.discotec.org/2023) took place at [NOVA University Lisbon](https://www.unl.pt/en/) in June 19-23, 2023.
 
 ## Steering Committee
 * Gianluigi Zavattaro (University of Bologna, Italy) 
