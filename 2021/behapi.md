@@ -42,7 +42,7 @@ To avoid conflicts and overlaps with the ICE workshop, the idea is to share the 
 
 ## Program Chair
 
-* [António Ravara](http://nova-lincs.di.fct.unl.pt/person/47) (NOVA School of Science and Technology, Portugal)
+* [António Ravara](https://nova-lincs.di.fct.unl.pt/person/47) (NOVA School of Science and Technology, Portugal)
 
 
 ## More Information
