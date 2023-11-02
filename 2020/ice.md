@@ -18,7 +18,7 @@ Due to the ongoing COVID-19 outbreak, ICE 2020 will be held **online**, as the r
   * Invited speakers:
       - Cinzia Di Giusto (Université Côte d'Azur, CNRS, I3S, France)
       - Karoliina Lehtinen (University of Liverpool, UK)
-  * Publication in [EPTCS](https://eptcs.org/)
+  * Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/)
   * Special issue in the Journal of Logical and Algebraic Methods in Programming (Elsevier) (to be confirmed)
 
 ## Programme
@@ -163,9 +163,9 @@ The previous editions of ICE have been held on:
 * [ICE'12](http://www.artist-embedded.org/artist/Overview,2429.html), June 16, 2012 in Stockholm, Sweden, co-located with DisCoTec'12. The post-proceedings were published in EPTCS (vol. 104) and selected papers appeared in a special issue of SCP (vol. 100).
 * [ICE'13](https://web.archive.org/web/20160423143634/2013.discotec.org/workshops/ice2013/), June 6, 2013 in Florence, Italy, co-located with DisCoTec’13. The post-proceedings were published in EPTCS (vol. 131) and selected papers appeared in a special issue of SCP (vol. 109).
 * [ICE'14](http://www.discotec2014.tu-berlin.de/workshops/ice-2014), June 6, 2014 in Berlin, Germany, co-located with DisCoTec’14. The post-proceedings were published in EPTCS (vol. 166) and selected papers appeared in a special issue of JLAMP (Vol. 85, Number 3).
-* [ICE'15](http://discotec2015.inria.fr/workshops/ice-2015/), June 4-5, 2015 in Grenoble, France, co-located with DisCoTec’15. The post-proceedings were published in EPTCS (vol. 189) and selected papers appeared in a special issue of JLAMP (Vol. 86, Number 1).
+* [ICE'15](https://discotec2015.inria.fr/workshops/ice-2015/), June 4-5, 2015 in Grenoble, France, co-located with DisCoTec’15. The post-proceedings were published in EPTCS (vol. 189) and selected papers appeared in a special issue of JLAMP (Vol. 86, Number 1).
 * [ICE'16](https://web.archive.org/web/20220331031727/http://2016.discotec.org/index713e.html), June 21-22, 2016 in Heraklion, Greece, co-located with DisCoTec’16. The post-proceedings were published in EPTCS (vol. 223) and a special issue of JLAMP (Vol. 92).
-* [ICE'17](http://2017.discotec.org/workshops/ice-2017.html), June 21-22 2017 in Neuchâtel, Switzerland, co-located with DisCoTec’17. The post-proceedings were published in EPTCS (vol. 261) and a special issue of JLAMP (Vol. 109).
+* [ICE'17](https://2017.discotec.org/workshops/ice-2017.html), June 21-22 2017 in Neuchâtel, Switzerland, co-located with DisCoTec’17. The post-proceedings were published in EPTCS (vol. 261) and a special issue of JLAMP (Vol. 109).
 * [ICE'18](http://2018.discotec.org/cfp_w_ice.html), June 20-21, 2018 in Madrid, Spain, co-located with DisCoTec'18. The post-proceedings were published in EPTCS (vol. 279) and a special issue of JLAMP is in preparation.
 * [ICE'19](http://www.discotec.org/2019/ice), June 20-21, 2019 in Lyngby, Denmark, co-located with DisCoTec'19. The post-proceedings were published in EPTCS (vol. 304) and a special issue of JLAMP is in preparation.
 

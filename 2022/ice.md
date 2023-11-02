@@ -19,8 +19,8 @@ See the [**ICE 2022 programme and pre-proceedings**](#programme), and [proceedin
   * [Invited speakers](#invited-speakers): 
       - [Ilaria Castellani](#ilaria-castellani) (INRIA, FR)
       - [Matthew Parkinson](#matthew-parkinson) (Microsoft Research, UK)
-  * Publication in [EPTCS](https://eptcs.org/) as [EPTCS 365](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022)
-  * [Special issue](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/10NR188XZQV) in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier)
+  * Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/) as [EPTCS 365](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022)
+  * [Special issue](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/10NR188XZQV) in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier)
   * Contact: `ice22 (at) googlegroups.com`
 
 ## Scope
@@ -148,7 +148,7 @@ Accepted research papers and communications must be presented at the workshop by
 Accepted research papers will be published after the workshop in [Electronic Proceedings in Theoretical Computer Science](http://about.eptcs.org/).
 (The proceedings have been [published as EPTCS 365](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022).)
 
-We plan to invite authors of selected papers and brief announcements to submit their work in a special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_. Such contributions will be regularly peer-reviewed according to the standard journal policy, but they will be handled in a shorter time than regular submissions. A list of published and in preparation special issues of previous ICE editions is reported below.
+We plan to invite authors of selected papers and brief announcements to submit their work in a special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_. Such contributions will be regularly peer-reviewed according to the standard journal policy, but they will be handled in a shorter time than regular submissions. A list of published and in preparation special issues of previous ICE editions is reported below.
 
 
 ## ICEcreamers
@@ -168,7 +168,7 @@ Use `ice22 (at) googlegroups.com` to reach all the ICEcreamers at once.
 - [Alex Coto](https://www.gssi.it/people/students/students-computer-science/item/4803-coto-alex) (Gran Sasso Science Institute, IT)
 - [Hélène Coullon](https://helene-coullon.fr/) (IMT Atlantique, FR)
 - [Jovana Dedeić](http://imft.ftn.uns.ac.rs/math/People/JovanaRadenovi%C4%87) (Faculty of Technical Sciences, University of Novi Sad, RS)
-- [Simon Fowler](http://www.simonjf.com/) (University of Glasgow School of Computing Science, GB-SCT)
+- [Simon Fowler](https://simonjf.com/) (University of Glasgow School of Computing Science, GB-SCT)
 - [Saverio Giallorenzo](https://www.saveriogiallorenzo.com/) (University of Bologna, IT)
 - [Ludovic Henrio](https://lhenrio.github.io/) (CNRS, FR)
 - [Keigo Imai](https://keigoimai.info/) (Gifu University, JP)
@@ -176,10 +176,10 @@ Use `ice22 (at) googlegroups.com` to reach all the ICEcreamers at once.
 - [Ivan Lanese](http://www.cs.unibo.it/~lanese/) (University of Bologna, IT)
 - [Julien Lange](https://www.cs.rhul.ac.uk/~jlange) (Royal Holloway, University of London, GB)
 - [Sergueï Lenglet](https://members.loria.fr/SLenglet/) (Université de Lorraine, FR)
-- [Diego Marmsoler](https://www.marmsoler.com/) (University of Exeter, GB)
+- [Diego Marmsoler](https://marmsoler.com/) (University of Exeter, GB)
 - [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) (University of Turin, IT)
 - [Kirstin Peters](https://www.informatik.tu-darmstadt.de/fb20/organisation_fb20/professuren_und_gruppenleitungen/fb20professuren_und_gruppenleitungen_detailseite_84096.en.jsp) (Technischen Universität Darmstadt, GE)
-- [Ivan Prokić](http://imft.ftn.uns.ac.rs/~iprokic/Main) (Faculty of Technical Sciences, University of Novi Sad, RS)
+- [Ivan Prokić](http://imft.ftn.uns.ac.rs/iprokic/Main) (Faculty of Technical Sciences, University of Novi Sad, RS)
 - [Matteo Sammartino](https://matteosammartino.com/) (Royal Holloway, University of London, GB)
 - [Amrita Suresh](https://amritasuresh.github.io/) (ENS Paris Saclay, FR)
 
@@ -203,9 +203,9 @@ The previous editions of ICE have been held on:
 * [ICE'20](http://www.discotec.org/2020/ice), June 19, 2020, online event co-located with DisCoTec'20. The post-proceedings were published in [EPTCS (vol. 324)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2020) and a special issue of JLAMP is in preparation.
 * [ICE'19](http://www.discotec.org/2019/ice), June 20-21, 2019 in Lyngby, Denmark, co-located with DisCoTec'19. The post-proceedings were published in [EPTCS (vol. 304)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2019) and selected papers appeared in a special issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/101ZSK6ZFQ4).
 * [ICE'18](http://2018.discotec.org/cfp_w_ice.html), June 20-21, 2018 in Madrid, Spain, co-located with DisCoTec'18. The post-proceedings were published in [EPTCS (vol. 279)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2018) and selected papers appeared in a special issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/10XN45J051V).
-* [ICE'17](http://2017.discotec.org/workshops/ice-2017.html), June 21-22 2017 in Neuchâtel, Switzerland, co-located with DisCoTec'17. The post-proceedings were published in [EPTCS (vol. 261)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2017) and a special issue of [JLAMP (Vol. 109)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/vol/109).
+* [ICE'17](https://2017.discotec.org/workshops/ice-2017.html), June 21-22 2017 in Neuchâtel, Switzerland, co-located with DisCoTec'17. The post-proceedings were published in [EPTCS (vol. 261)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2017) and a special issue of [JLAMP (Vol. 109)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/vol/109).
 * [ICE'16](https://web.archive.org/web/20220331031727/http://2016.discotec.org/index713e.html), June 21-22, 2016 in Heraklion, Greece, co-located with DisCoTec'16. The post-proceedings were published in [EPTCS (vol. 223)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2016) and a special issue of [JLAMP (Vol. 92)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/vol/92).
-* [ICE'15](http://discotec2015.inria.fr/workshops/ice-2015/), June 4-5, 2015 in Grenoble, France, co-located with DisCoTec'15. The post-proceedings were published in [EPTCS (vol. 189)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2015) and selected papers appeared in a special issue of [JLAMP (Vol. 86, Number 1)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/vol/86).
+* [ICE'15](https://discotec2015.inria.fr/workshops/ice-2015/), June 4-5, 2015 in Grenoble, France, co-located with DisCoTec'15. The post-proceedings were published in [EPTCS (vol. 189)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2015) and selected papers appeared in a special issue of [JLAMP (Vol. 86, Number 1)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/vol/86).
 * [ICE'14](http://www.discotec2014.tu-berlin.de/workshops/ice-2014), June 6, 2014 in Berlin, Germany, co-located with DisCoTec'14. The post-proceedings were published in [EPTCS (vol. 166)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2014) and selected papers appeared in a special issue of [JLAMP (Vol. 85, Number 3)](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/vol/86/issue/3).
 * [ICE'13](https://web.archive.org/web/20160423143634/2013.discotec.org/workshops/ice2013/), June 6, 2013 in Florence, Italy, co-located with DisCoTec'13. The post-proceedings were published in [EPTCS (vol. 131)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2013) and selected papers appeared in a special issue of [SCP (vol. 109)](https://www.sciencedirect.com/journal/science-of-computer-programming/vol/109).
 * [ICE'12](http://www.artist-embedded.org/artist/Overview,2429.html), June 16, 2012 in Stockholm, Sweden, co-located with DisCoTec'12. The post-proceedings were published in [EPTCS (vol. 104)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2012) and selected papers appeared in a special issue of [SCP (vol. 100)](https://www.sciencedirect.com/journal/science-of-computer-programming/vol/100).
