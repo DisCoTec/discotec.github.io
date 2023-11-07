@@ -1,20 +1,19 @@
-# DisCoTec - International Federated Conference on Distributed Computing Techniques 
+# DisCoTec - International Federated Conference on Distributed Computing Techniques
 
-The DisCoTec series of federated conferences is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)). It gathers three main conferences:
-* [Coordination](https://www.discotec.org/2023/coordination) (IFIP WG6.1 International Conference on Coordination Models and Languages)
-* [DAIS](https://www.discotec.org/2023/dais) (IFIP WG6.1 International Conference on Distributed Applications and Interoperable Systems)
-* [FORTE](https://www.discotec.org/2023/forte) (IFIP WG6.1 International Conference on Formal Techniques for Distributed Objects, Components, and Systems)
+The DisCoTec series of federated conferences is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)).
+It gathers three main conferences:
+* [Coordination](/2023/coordination) (IFIP WG6.1 International Conference on Coordination Models and Languages)
+* [DAIS](/2024/dais) (IFIP WG6.1 International Conference on Distributed Applications and Interoperable Systems)
+* [FORTE](/2024/forte) (IFIP WG6.1 International Conference on Formal Techniques for Distributed Objects, Components, and Systems)
 
-Together, these conferences cover a broad spectrum of distributed computing subjects,
-ranging from theoretical foundations and formal description techniques to systems
-research issues. 
+Together, these conferences cover a broad spectrum of distributed computing subjects, ranging from theoretical foundations and formal description techniques to systems research issues.
 
 **DisCoTec 2024** will take place at [University of Groningen](https://www.rug.nl) in June 17-21, 2024.
 
-[DisCoTec 2023](http://www.discotec.org/2023) took place at [NOVA University Lisbon](https://www.unl.pt/en/) in June 19-23, 2023.
+[DisCoTec 2023](/2023/) took place at [NOVA University Lisbon](https://www.unl.pt/en/) in June 19-23, 2023.
 
 ## Steering Committee
-* Gianluigi Zavattaro (University of Bologna, Italy) 
+* Gianluigi Zavattaro (University of Bologna, Italy)
 * Rocco De Nicola (IMT Lucca, Italy)
 * Kurt Geihs (University of Kasel, Germany)
 * Elie Najm (Telecom Paris Tech, France)
@@ -42,11 +41,12 @@ research issues.
 
 
 ## DisCoTec editions
-* [DisCoTec 2023](http://www.discotec.org/2023) - Lisbon, Portugal 
-* [DisCoTec 2022](http://www.discotec.org/2022) - Lucca, Italy 
-* [DisCoTec 2021](http://www.discotec.org/2021) - Malta (Virtual)
-* [DisCoTec 2020](http://www.discotec.org/2020) - Malta (Virtual)
-* [DisCoTec 2019](http://www.discotec.org/2019) - Kongens Lyngby, Denmark
+* DisCoTec 2024 - Groningen, The Netherlands
+* [DisCoTec 2023](/2023/) - Lisbon, Portugal
+* [DisCoTec 2022](/2022/) - Lucca, Italy
+* [DisCoTec 2021](/2021/) - Malta (Virtual)
+* [DisCoTec 2020](/2020/) - Malta (Virtual)
+* [DisCoTec 2019](/2019/) - Kongens Lyngby, Denmark
 * [DisCoTec 2018](http://2018.discotec.org/) - Madrid, Spain
 * [DisCoTec 2017](http://2017.discotec.org/) - Neuchâtel, Switzerland
 * [DisCoTec 2016](http://2016.discotec.org/) - Heraklion, Greece
