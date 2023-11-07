@@ -8,7 +8,7 @@ It gathers conferences and workshops that cover a broad spectrum of distributed 
 DisCoTec 2024 will take place at the [University of Groningen](https://www.rug.nl/), between June 17-21, 2024.
 
 ## Conferences
-* [COORDINATION 2024](coordination) - International Conference on Coordination Models and Languages
+* [COORDINATION 2024](coordination.md) - International Conference on Coordination Models and Languages
 * [DAIS 2024](dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2024](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
