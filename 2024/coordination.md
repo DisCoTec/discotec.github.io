@@ -1,4 +1,4 @@
-[![](discotec2023-banner.v3.png)](.)
+[![](banner2024.png)](.)
 
 # COORDINATION 2024 - 26th International Conference on Coordination Models and Languages
 
