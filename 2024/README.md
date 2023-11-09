@@ -1,4 +1,4 @@
-[![](banner2024.png)](.)
+[![](banner2024.v2.png)](.)
 
 # DisCoTec 2024 - 19th International Federated Conference on Distributed Computing Techniques
 
