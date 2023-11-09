@@ -71,9 +71,9 @@ To improve and reward reproducibility and to give more visibility and credit to 
 
 artefact submission is mandatory for tool paper submissions and the result of the artefact evaluation will be considered in the tool paper’s acceptance decision. Instead, artefact submission is optional for all the other paper categories and the result of the artefact evaluation will not alter the paper’s acceptance decision but may impact the decision on best papers.
 
-\[1\] https://www.acm.org/publications/policies/artifact-review-and-badging-current
+\[1\] [https://www.acm.org/publications/policies/artifact-review-and-badging-current](https://www.acm.org/publications/policies/artifact-review-and-badging-current)
 
-\[2\] https://eapls.org/pages/artifact_badges
+\[2\] [https://eapls.org/pages/artifact_badges](https://eapls.org/pages/artifact_badges)
 
 
 ### Proceedings
