@@ -1,5 +1,5 @@
 [![](banner2024.v2.png)](.)
-%Photo credit: Robin Mathlener via [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)* 
+*Photo credit: Robin Mathlener via [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)* 
 
 # DisCoTec 2024 - 19th International Federated Conference on Distributed Computing Techniques
 
