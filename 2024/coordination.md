@@ -72,7 +72,9 @@ To improve and reward reproducibility and to give more visibility and credit to 
 artefact submission is mandatory for tool paper submissions and the result of the artefact evaluation will be considered in the tool paper’s acceptance decision. Instead, artefact submission is optional for all the other paper categories and the result of the artefact evaluation will not alter the paper’s acceptance decision but may impact the decision on best papers.
 
 \[1\] https://www.acm.org/publications/policies/artifact-review-and-badging-current
+
 \[2\] https://eapls.org/pages/artifact_badges
+
 
 ### Proceedings
 The conference proceedings, formed by accepted submissions from any category, will be published by Springer in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.
@@ -83,6 +85,7 @@ The conference proceedings, formed by accepted submissions from any category, wi
 ### Special issues
 After the conference, accepted papers (except for tool papers) selected from COORDINATION and FORTE programmes will be invited to a special issue of the [Logical Methods in Computer Science](https://lmcs.episciences.org) journal. Selected accepted tool papers, instead, will be invited to a special issue of a reputable journal with a track dedicated to software, 
 like the Journal of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming).
+
 
 ### Proceedings and Special Issues from Previous Editions
 
@@ -110,6 +113,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 * Selected Software Artefacts from the Papers of DisCoTec 2023 - 18th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. In preparation.
 
+
 ## Program Committee co-chairs
 * [Ilaria Castellani](https://www-sop.inria.fr/members/Ilaria.Castellani/) (INRIA Sophia Antipolis, France)
 * [Francesco Tiezzi](http://www.disia.unifi.it/tiezzi) (University of Florence, Italy)
@@ -118,14 +122,18 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 ## Publicity chair
 * TBA
 
+
 ## Program Committee
 * TBA
+
 
 ## Artefact Evaluation Committee chair
 * TBA
 
+
 ## Artefact Evaluation Committee
 * TBA
+
 
 ## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
