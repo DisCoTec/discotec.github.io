@@ -2,15 +2,14 @@
 
 The DisCoTec series of federated conferences is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)).
 It gathers three main conferences:
-* [Coordination](/2023/coordination) (IFIP WG6.1 International Conference on Coordination Models and Languages)
+* [Coordination](/2024/coordination) (IFIP WG6.1 International Conference on Coordination Models and Languages)
 * [DAIS](/2024/dais) (IFIP WG6.1 International Conference on Distributed Applications and Interoperable Systems)
 * [FORTE](/2024/forte) (IFIP WG6.1 International Conference on Formal Techniques for Distributed Objects, Components, and Systems)
 
 Together, these conferences cover a broad spectrum of distributed computing subjects, ranging from theoretical foundations and formal description techniques to systems research issues.
 
-**DisCoTec 2024** will take place at [University of Groningen](https://www.rug.nl) in June 17-21, 2024.
+> [DisCoTec 2024](/2024/) will take place at [University of Groningen, The Netherlands](https://www.rug.nl) in June 17-21, 2024.
 
-[DisCoTec 2023](/2023/) took place at [NOVA University Lisbon](https://www.unl.pt/en/) in June 19-23, 2023.
 
 ## Steering Committee
 * Gianluigi Zavattaro (University of Bologna, Italy)
@@ -41,7 +40,7 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 
 
 ## DisCoTec editions
-* DisCoTec 2024 - Groningen, The Netherlands
+* [DisCoTec 2024](/2024/) - Groningen, The Netherlands
 * [DisCoTec 2023](/2023/) - Lisbon, Portugal
 * [DisCoTec 2022](/2022/) - Lucca, Italy
 * [DisCoTec 2021](/2021/) - Malta (Virtual)
