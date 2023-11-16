@@ -1,4 +1,6 @@
-[![](banner2024.png)](.)
+[![](banner2024.v2.png)](.)
+*Photo credit: Robin Mathlener via [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)* 
+
 
 # COORDINATION 2024 - 26th International Conference on Coordination Models and Languages
 

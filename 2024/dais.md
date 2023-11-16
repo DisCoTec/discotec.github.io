@@ -1,4 +1,6 @@
-[![](discotec2023-banner.v3.png)](.)
+[![](banner2024.v2.png)](.)
+*Photo credit: Robin Mathlener via [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)* 
+
 
 # DAIS 2024 - 24th International Conference on Distributed Applications and Interoperable Systems
 

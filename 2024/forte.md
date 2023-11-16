@@ -1,4 +1,6 @@
-[![](discotec2023-banner.v2.jpeg)](.)
+[![](banner2024.v2.png)](.)
+*Photo credit: Robin Mathlener via [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)* 
+
 
 # FORTE 2024 - 44th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
