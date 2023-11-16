@@ -28,8 +28,9 @@ DisCoTec 2024 will take place at the [University of Groningen](https://www.rug.n
 Go to the [programme page](https://www.discotec.org/2023/programme).
 -->
 ## Important Dates
-To be announced
-<!--
+To be announced soon.
+
+<!---
 * **Abstract submission:** ~~February 11, 2023~~ February 24, 2023 (Extended)
 * **Paper submission:** ~~February 18, 2023~~ March 4, 2023 (Extended)
 * **Paper notification:** ~~March 31, 2023~~ April 7, 2023
