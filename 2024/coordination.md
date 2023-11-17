@@ -7,27 +7,25 @@
 COORDINATION 2024 is one of the three conferences of [DisCoTec 2024](.).
 
 ## Scope
-Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today’s software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
-
+Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today’s software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, rchitectures, and implementation techniques for coordination.
 
 ## Main topics
-
 Topics of interest encompass all areas of coordination, including (but not limited to) coordination related aspects of:
-* Theoretical models and foundations for coordination: component composition, concurrency, mobility, dynamic, spatial and probabilistic aspects of coordination, logic, types, semantics.
+* Theoretical models and foundations for coordination: component composition, concurrency, distribution, mobility; dynamic, spatial and probabilistic aspects of coordination; logic, types, semantics.
+* Coordination of multi-agent and collective systems: models, languages, infrastructures, self-adaptation, self-organisation, distributed solving, collective intelligence and emerging behaviour.
+* Coordination and modern distributed computing: web services, microservices, peer-to-peer networks, grid computing, context-awareness, ubiquitous computing, mobile computing, reversible computing.
+* Session-based programming: models, languages, behavioural types, and tools.
+* Models, languages, verification techniques and tools for interacting smart contracts and (blockchain-based) decentralised applications.
+* Languages, methodologies and tools for secure coordination. 
+* Cybersecurity aspects of coordinated systems, coordinated approaches to cybersecurity.
+* Nature- and bio-inspired approaches to coordination.
 * Specification, refinement, and analysis of architectures: patterns and styles, verification of functional and non-functional properties, including performance and security aspects.
 * Dynamic software architectures: distributed mobile code, configuration, reconfiguration, networked computing, parallel, high-performance and cloud computing.
-* Nature- and bio-inspired approaches to coordination. 
-* Coordination of multi-agent and collective systems: models, languages, infrastructures, self-adaptation, self-organisation, distributed solving, collective intelligence and emerging behaviour.
-* Coordination and modern distributed computing: web services, microservices, peer-to-peer networks, grid computing, context-awareness, ubiquitous computing, mobile computing,       reversible computing.
 * Coordination platforms for infrastructures of emergent new application domains, like IoT, fog- and edge-computing.
-* Cybersecurity aspects of coordinated systems, coordinated approaches to cybersecurity.
 * Programming methodologies, languages, middleware, tools, and environments for the development and verification of coordinated applications, including DevOps approaches.
-* Languages, methodologies and tools for secure coordination. 
-* Session-based programming: models, languages, behavioural types, and tools.
+* Coordination in business process management: coordination models for business process management, process mining techniques and tools for coordination models.       
 * Industrial relevance of coordination and software architectures: programming in the large, domain-specific software architectures and coordination models, industry-driven efforts in coordination and case studies.
 * Interdisciplinary aspects of coordination.
-* Coordination in business process management: coordination models for business process management, process mining techniques and tools for coordination models.       
-* Models, languages, verification techniques and tools for interacting smart contracts and (blockchain-based) decentralised applications.
 
 ## Keynote speaker
 
@@ -37,10 +35,9 @@ Topics of interest encompass all areas of coordination, including (but not limit
 
 ### Important dates
 
-* Abstract submission: February 09, 2024
-* Paper submission: February 16, 2024
-* Artefact submission: February 29, 2024
-* Paper and artefact notification: March 29, 2024
+* Abstract submission: February 02, 2024
+* Paper submission: February 09, 2024
+* Paper notification: March 29, 2024
 * Camera-ready: April 28, 2024
 * Conference:  June 18-20, 2024
 
@@ -57,7 +54,9 @@ Authors are invited to submit papers electronically in PostScript or PDF using a
 
 Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see [http://www.ifip.org/](http://www.ifip.org/) under Publications/Links). The submissions must not exceed the total page number limit (see below) prepared using [Springer’s LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Submissions not adhering to the above specified constraints may be rejected without review.
 
+<!--
 **NOTE**: a lightweight rebuttal will be introduced during the reviewing phase, allowing reviewers to ask for a quick rebuttal in case of a clearly identifiable issue that seems decisive for the review outcome and which can likely be quickly clarified by the authors. The rebuttal is only used when such questions arise, so not necessarily for all papers.
+-->
 
 Submission categories:
 * **Regular papers** (7-15 pages, not counting references): describing thorough and complete research results and experience reports. In a clear case of need, as an exception, authors may ask for permission via email to the PC co-chairs to exceed the paper’s max length by at most 10%, under the condition that last-minute shortening would really damage the clarity of the paper or result in non-submission. The authors must make a draft of the paper available to the PC co-chairs via EasyChair.
