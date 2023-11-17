@@ -79,15 +79,12 @@ Dates (AoE):
 * Artefact notification: March 29, 2024
 
 ### Proceedings
-The conference proceedings, formed by accepted submissions from any category, will be published by Springer in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.
+The conference proceedings, consisting of accepted submissions from any paper category, will be published by Springer in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
-
 ### Special issues
-After the conference, accepted papers (except for tool papers) selected from COORDINATION and FORTE programmes will be invited to a special issue of the [Logical Methods in Computer Science](https://lmcs.episciences.org) journal. Selected accepted tool papers, instead, will be invited to a special issue of a reputable journal with a track dedicated to software, 
-like the Journal of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming).
-
+After the conference, accepted papers (except for tool papers) selected from COORDINATION and FORTE programmes will be invited to a special issue of the [Logical Methods in Computer Science](https://lmcs.episciences.org) journal. Selected accepted tool papers, instead, will be invited to a special issue of a reputable journal with a track dedicated to software, like the Journal of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming).
 
 ### Proceedings and Special Issues from Previous Editions
 
@@ -115,22 +112,19 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 * Selected Software Artefacts from the Papers of DisCoTec 2023 - 18th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. In preparation.
 
-
-## Program Committee co-chairs
+## Programme Committee co-chairs
 * [Ilaria Castellani](https://www-sop.inria.fr/members/Ilaria.Castellani/) (INRIA Sophia Antipolis, France)
 * [Francesco Tiezzi](http://www.disia.unifi.it/tiezzi) (University of Florence, Italy)
 
-
 ## Publicity chair
-* TBA
+* [Saverio Giallorenzo](https://www.unibo.it/sitoweb/saverio.giallorenzo2/) (University of Bologna, Italy)
 
-
-## Program Committee
+## Programme Committee
 * TBA
 
 
 ## Artefact Evaluation Committee chair
-* TBA
+* [Rumyana Neykova](https://www.brunel.ac.uk/people/rumyana-neykova) (Brunel University London, UK)
 
 
 ## Artefact Evaluation Committee
