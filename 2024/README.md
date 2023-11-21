@@ -8,7 +8,7 @@ Welcome to DisCoTec 2024!
 [DisCoTec](/) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)) and the European Association for Programming Languages and Systems ([EAPLS](https://eapls.org)).
 
 
-DisCoTec 2024 will take place in [Groningen, The Netherlands](/venue.md), between June 17-21, 2024, hosted by the [University of Groningen](https://www.rug.nl).
+DisCoTec 2024 will take place in [Groningen, The Netherlands](venue.md), between June 17-21, 2024, hosted by the [University of Groningen](https://www.rug.nl).
 
 ## Main Conferences
 DisCoTec gathers conferences that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
