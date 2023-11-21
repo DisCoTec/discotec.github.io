@@ -39,14 +39,9 @@ The following deadlines expire at 23:59 anywhere on earth (AoE) on the dates lis
 
 
 ## Keynote Speakers
-* **Marieke Huisman**, University of Twente, The Netherlands
-* **Laura Kovács** Vienna University of Technology, Austria
-* **Paulo Veríssimo**, KAUST, Saudi Arabia
-<!--
-* [Marieke Huisman](https://www.discotec.org/2024/invited), University of Twente, The Netherlands
-* [Laura Kovács](https://www.discotec.org/2024/invited), Vienna University of Technology, Austria
-* [Paulo Veríssimo](https://www.discotec.org/2024/invited), KAUST, Saudi Arabia
--->
+* [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, The Netherlands)
+* [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, Austria)
+* [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, Saudi Arabia)
 
 <!--
 ## Accepted Papers
@@ -128,14 +123,14 @@ The proceeding volumes will be *open access* from the [IFIP digital library](htt
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
 
-## Special issues
-Each main conference will organize special issues of extended/selected papers in high-quality journals such as [Logical Methods in Computer Science](https://lmcs.episciences.org) and of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming) for tool papers.
+## Journal Special Issues
+Main conferences will organize special issues of extended/selected papers in high-quality journals such as [Logical Methods in Computer Science](https://lmcs.episciences.org) and of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming) for tool papers.
 
 ## Scientific Committees
 
-### Coordination Program Committee Chairs
-* [Ilaria Castellani][IlariaWeb] (INRIA Sophia Antipolis, France)
-* [Francesco Tiezzi][FranWeb] (University of Florence, Italy)
+### COORDINATION Program Committee Chairs
+* [Ilaria Castellani][IlariaWeb] (INRIA Sophia Antipolis, FR)
+* [Francesco Tiezzi][FranWeb] (University of Florence, IT)
 
 ### DAIS Program Committee Chairs
 * [Rolando Martins][RolandoWeb] (University of Porto, PT)
@@ -148,8 +143,8 @@ Each main conference will organize special issues of extended/selected papers in
 ### DisCoTec Artefact Evaluation Chair
 * [Roberto Casadei][RobertoWeb] (University of Bologna, IT)
 
-## Organising Committee
-* [Jorge A. Pérez][JorgeWeb] (University of Groningen, NL — *General Chair*)
+## Organizing Committee
+* [Jorge A. Pérez][JorgeWeb] (University of Groningen, NL — **General Chair**)
 * [Dan Frumin][DanWeb] (University of Groningen, NL — Workshops and Tutorials Co-chair)
 * [Claudio Antares Mezzina][ClaudioWeb] (University of Urbino, IT — Workshops and Tutorials Co-chair)
 * [Bas van den Heuvel][BasWeb] (Karlsruhe University of Applied Sciences and University of Freiburg, DE — Publicity Chair)
@@ -181,7 +176,7 @@ Each main conference will organize special issues of extended/selected papers in
 * Adrian Francalanza (University of Malta, MT)
 
 
-## Advisory board
+## Advisory Board
 * Alain Girault (INRIA Grenoble, FR)
 * Uwe Nestmann (TU Berlin, DE)
 * Michele Loreti (University of Camerino, IT)
@@ -196,12 +191,11 @@ Each main conference will organize special issues of extended/selected papers in
 * Rui Oliveira (University of Minho, PT)
 * Jean-Bernard Stefani (INRIA Grenoble, FR)
 
-<!--
-## Further information
-For further information please contact the general chair at <carla.ferreira@fct.unl.pt>.
--->
 
-Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
+## Further Information
+* For further information please contact the general chair ([Jorge A. Pérez][JorgeWeb])
+
+* Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
 
 ## Sponsors & Supporters
 
@@ -212,8 +206,8 @@ Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to dat
 <a href="https://eapls.org">
 <img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" width="250px">
 </a>
-<!--&nbsp;   &nbsp;   &nbsp;   &nbsp;
-<a href="https://eapls.org">
-<img alt="novalincs-logo" src="https://www.discotec.org/2023/novalincs-img.jpg" width="250px">
+&nbsp;   &nbsp;   &nbsp;   &nbsp;
+<a href="http://rug.nl/fse/">
+<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/logo-faculteiten/eng-logo/horizontal/rood/png/rugr_fse_logoen_rood_rgb.png" width="1000px">
 </a>
--->
+
