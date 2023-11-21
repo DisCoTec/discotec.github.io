@@ -127,6 +127,10 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * Vinícius Vielmo Cogo (chair), LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
 -->
 
+## Program committee chairs
+* Rolando Martins, University of Porto, Portugal
+* Mennan Selimi, South East European University, North Macedonia
+
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands
 * Frank Eliassen, University of Oslo, Norway
