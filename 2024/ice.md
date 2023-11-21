@@ -249,5 +249,5 @@ ICE acknowledges the generous support of [EAPLS](https://eapls.org/) through its
 </a>
 &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <a href="http://rug.nl/fse/">
-<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/logo-faculteiten/eng-logo/horizontal/rood/png/rugr_fse_logoen_rood_rgb.png" width="1000px">
+<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/logo-faculteiten/eng-logo/horizontal/rood/png/rugr_fse_logoen_rood_rgb.png" width="420px">
 </a>

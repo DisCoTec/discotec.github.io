@@ -39,18 +39,23 @@ Go to the [programme page](https://www.discotec.org/2023/programme).
 ## (Open-Access) Proceedings
 The proceedings of the main conferences will be published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. 
 
-The proceeding volumes will be *open access* from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
-
 <img src="lncs-logo.jpg" width="182" height="68"/>
+
+The volumes will be **open access** from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
+
+
+## Journal Special Issues
+Main conferences will organize special issues of extended/selected papers in high-quality journals such as [Logical Methods in Computer Science](https://lmcs.episciences.org) and of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming) for tool papers.
 
 
 ## Important Dates
-The following deadlines expire at 23:59 anywhere on earth (AoE) on the dates listed above.
+The following deadlines expire at 23:59 [anywhere on earth (AoE)](https://www.timeanddate.com/time/zones/aoe_) on the dates listed below:
 * **Abstract submission:** February 2, 2024 
 * **Paper submission:** February 9, 2024
 * **Paper notification:** March 29, 2024
 * **Camera-ready:** April 28, 2024
 * **DisCoTec conference:** June 17-21, 2024
+
 
 
 <!--
@@ -127,8 +132,6 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 
 
 
-## Journal Special Issues
-Main conferences will organize special issues of extended/selected papers in high-quality journals such as [Logical Methods in Computer Science](https://lmcs.episciences.org) and of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming) for tool papers.
 
 ## Scientific Committees
 
@@ -212,6 +215,6 @@ Main conferences will organize special issues of extended/selected papers in hig
 </a>
 &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <a href="http://rug.nl/fse/">
-<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/logo-faculteiten/eng-logo/horizontal/rood/png/rugr_fse_logoen_rood_rgb.png" width="400px">
+<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/logo-faculteiten/eng-logo/horizontal/rood/png/rugr_fse_logoen_rood_rgb.png" width="420px">
 </a>
 
