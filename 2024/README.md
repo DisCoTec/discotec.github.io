@@ -220,6 +220,6 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 </a>
 &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <a href="http://rug.nl/fse/">
-<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/logo-faculteiten/eng-logo/horizontal/rood/png/rugr_fse_logoen_rood_rgb.png" height="90px">
+<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logoen_rood_rgb.jpg" height="90px">
 </a>
 

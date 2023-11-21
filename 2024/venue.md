@@ -4,6 +4,11 @@
 
 # Venue: Groningen, The Netherlands
 
+## Location
+DisCoTec 2024 will take place at the Zernike Campus (Bernoulliborg) of the University of Groningen. 
+
+
+
 ## About Groningen
 
 The city of Groningen is the capital of the province of Groningen, the most north eastern province of the Netherlands. The largest (230000 people) urban center in the area, it is a relatively undiscovered and unspoiled part of the Netherlands that has kept most of its authenticity.
