@@ -7,7 +7,7 @@
 
 DisCoTec gathers conferences and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
 
-DisCoTec 2024 will take place in [Groningen, The Netherlands](/2024/venue), between June 17-21, 2024, hosted by the [University of Groningen, The Netherlands](https://www.rug.nl).
+DisCoTec 2024 will take place in [Groningen, The Netherlands](/2024/venue), between June 17-21, 2024, hosted by the [University of Groningen](https://www.rug.nl).
 
 ## Conferences
 * [COORDINATION 2024](coordination.md) - International Conference on Coordination Models and Languages
@@ -28,24 +28,22 @@ DisCoTec 2024 will take place in [Groningen, The Netherlands](/2024/venue), betw
 Go to the [programme page](https://www.discotec.org/2023/programme).
 -->
 ## Important Dates
-To be announced soon.
+The following deadlines expire at 23:59 anywhere on earth (AoE) on the dates listed above.
+* **Abstract submission:** February 2, 2024 
+* **Paper submission:** February 9, 20243
+* **Paper notification:** March 29, 2024
+* **Camera-ready:** April 28, 2024
+* **DisCoTec conference:** June 17-21, 2024
 
-<!---
-* **Abstract submission:** ~~February 11, 2023~~ February 24, 2023 (Extended)
-* **Paper submission:** ~~February 18, 2023~~ March 4, 2023 (Extended)
-* **Paper notification:** ~~March 31, 2023~~ April 7, 2023
-* **Camera-ready:** April 30, 2023
-* **DisCoTec conference:** June 19-23, 2023
--->
+
+
+
+## Keynote Speakers
+* [Marieke Huisman](https://www.discotec.org/2024/invited), University of Twente, The Netherlands
+* [Laura Kovács](https://www.discotec.org/2024/invited), Vienna University of Technology, Austria
+* [Paulo Veríssimo](https://www.discotec.org/2024/invited), KAUST, Saudi Arabia
 
 <!--
-## Keynote Speakers
-
-* [Azalea Raad](https://www.discotec.org/2023/invited), Imperial College London, UK
-* [Frank Pfenning](https://www.discotec.org/2023/invited), Carnegie Mellon University, USA
-* [Peter Pietzuch](https://www.discotec.org/2023/invited), Imperial College London, UK
-
-
 ## Accepted Papers
 
 Go to the [list of accepted papers](https://www.discotec.org/2023/accepted-papers).
@@ -85,7 +83,9 @@ Go to the [registration page](https://www.discotec.org/2023/registration).
 -->
 
 ## Satellite Events
-DisCoTec 2024 gathers tutorials and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+DisCoTec 2024 will gather tutorials and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+
+A call for workshops/tutorials will be announced soon.
 
 <!--
 The pre-conference workshop and tutorials will take place on Monday, June 19, 2023, and post-conference tutorials on Friday, June 23, 2023.
@@ -115,8 +115,10 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 * [ICE 2023](https://www.discotec.org/2023/ice) - Workshop on Interaction and Concurrency Experience
 -->
 
-## Proceedings
-The proceedings of the conferences are published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. These shall be open access from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
+## (Open-Access) Proceedings
+The proceedings of the main conferences will be published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. 
+
+The proceeding volumes will be *open access* from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
@@ -142,7 +144,7 @@ Each main conference will organize special issues of extended/selected papers in
 * [Roberto Casadei][RobertoWeb] (University of Bologna, IT)
 
 ## Organising Committee
-* [Jorge A. Pérez][JorgeWeb] (University of Groningen, NL — General Chair)
+* [Jorge A. Pérez][JorgeWeb] (University of Groningen, NL — *General Chair*)
 * [Dan Frumin][DanWeb] (University of Groningen, NL — Workshops and Tutorials Co-chair)
 * [Claudio Antares Mezzina][ClaudioWeb] (University of Urbino, IT — Workshops and Tutorials Co-chair)
 * [Bas van den Heuvel][BasWeb] (Karlsruhe University of Applied Sciences and University of Freiburg, DE — Publicity Chair)

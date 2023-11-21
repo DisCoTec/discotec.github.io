@@ -8,7 +8,7 @@ It gathers three main conferences:
 
 Together, these conferences cover a broad spectrum of distributed computing subjects, ranging from theoretical foundations and formal description techniques to systems research issues.
 
-> [DisCoTec 2024](/2024/) will take place in [Groningen, The Netherlands](/2024/venue), between June 17-21, 2024, hosted by the [University of Groningen, The Netherlands](https://www.rug.nl).
+> [DisCoTec 2024](/2024/) will take place in [Groningen, The Netherlands](/2024/venue), between June 17-21, 2024, hosted by the [University of Groningen](https://www.rug.nl).
 
 
 ## Steering Committee
