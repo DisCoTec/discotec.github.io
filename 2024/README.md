@@ -3,16 +3,21 @@
 
 # DisCoTec 2024 - 19th International Federated Conference on Distributed Computing Techniques
 
+Welcome to DisCoTec 2024! 
+
 [DisCoTec](/) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)) and the European Association for Programming Languages and Systems ([EAPLS](https://eapls.org)).
 
-DisCoTec gathers conferences and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
 
 DisCoTec 2024 will take place in [Groningen, The Netherlands](/2024/venue), between June 17-21, 2024, hosted by the [University of Groningen](https://www.rug.nl).
 
 ## Main Conferences
+DisCoTec gathers conferences that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+
 * [COORDINATION 2024](coordination.md) - International Conference on Coordination Models and Languages
 * [DAIS 2024](dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2024](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+
+Please visit the pages of each conference for details on topics of interest and submission categories.
 
 <!--
 ## Proceedings
@@ -29,15 +34,14 @@ Go to the [programme page](https://www.discotec.org/2023/programme).
 -->
 
 
-
-
 ## Keynote Speakers
+We are pleased to announce the following keynote speakers:
 * [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, The Netherlands)
 * [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, Austria)
 * [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, Saudi Arabia)
 
-## (Open-Access) Proceedings
-The proceedings of the main conferences will be published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. 
+## Proceedings
+The proceedings of the main conferences will be published as volumens in the [Springer LNCS-IFIP](https://www.springer.com/series/8345) series. 
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
@@ -45,7 +49,7 @@ The volumes will be **open access** from the [IFIP digital library](https://hal.
 
 
 ## Journal Special Issues
-Main conferences will organize special issues of extended/selected papers in high-quality journals such as [Logical Methods in Computer Science](https://lmcs.episciences.org) and of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming) for tool papers.
+Main conferences will organize special issues of selected papers in high-quality journals such as [Logical Methods in Computer Science](https://lmcs.episciences.org) and of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming) for tool papers.
 
 
 ## Important Dates
@@ -98,9 +102,11 @@ Go to the [registration page](https://www.discotec.org/2023/registration).
 -->
 
 ## Satellite Events
-DisCoTec 2024 will gather tutorials and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+DisCoTec 2024 will include tutorials and workshops on a broad spectrum of distributed computing subjects.
 
-A call for workshops/tutorials will be announced soon.
+Satellite events will take place on Monday, June 17, 2024, and on Friday, June 21, 2024.
+
+A **call for workshops/tutorials** will be announced soon.
 
 <!--
 The pre-conference workshop and tutorials will take place on Monday, June 19, 2023, and post-conference tutorials on Friday, June 23, 2023.
@@ -182,7 +188,7 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 * Alberto Lluch Lafuente (Technical University of Denmark, DK)
 * Adrian Francalanza (University of Malta, MT)
 
-
+<!--
 ## Advisory Board
 * Alain Girault (INRIA Grenoble, FR)
 * Uwe Nestmann (TU Berlin, DE)
@@ -197,24 +203,23 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 * Kostas Magoutis (ICS-FORTH, GR)
 * Rui Oliveira (University of Minho, PT)
 * Jean-Bernard Stefani (INRIA Grenoble, FR)
-
+-->
 
 ## Further Information
 * For further information please contact the general chair ([Jorge A. Pérez][JorgeWeb])
-
 * Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
 
 ## Sponsors & Supporters
 
 <a href="https://www.ifip.org">
-  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="250px">
+  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" height="90px">
 </a>
 &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <a href="https://eapls.org">
-<img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" width="250px">
+<img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" height="90px">
 </a>
 &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <a href="http://rug.nl/fse/">
-<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/logo-faculteiten/eng-logo/horizontal/rood/png/rugr_fse_logoen_rood_rgb.png" width="400px">
+<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/logo-faculteiten/eng-logo/horizontal/rood/png/rugr_fse_logoen_rood_rgb.png" height="90px">
 </a>
 
