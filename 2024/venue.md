@@ -5,10 +5,10 @@
 # Venue: Groningen, The Netherlands
 
 ## Location
-DisCoTec 2024 will take place at the Zernike Campus of the University of Groningen. 
+DisCoTec 2024 will take place at the *Bernoulliborg* (Bernoulli building), one of the main buildings in the Zernike Campus of the University of Groningen. 
 
-* *Address*:  Nijenborgh 9 (Bernoulliborg), 9747 AG Groningen 
-* How to reach this location: [Detailed information](https://www.rug.nl/staff/location/5161)
+* *Address*:  Nijenborgh 9, 9747 AG Groningen (Bus stop: [Nijenborg](https://maps.app.goo.gl/3kyPY9j6sbjaa5kVA))
+* Detailed information on how to reach the Bernoulliborg: [read here](https://www.rug.nl/staff/location/5161)
 
 
 [![](bborg.jpg)](.)
@@ -25,7 +25,7 @@ The city of Groningen is the capital of the province of Groningen, the most nort
 
 Groningen is one of the happiest cities in Europe, and happiest small city in the Netherlands, scoring in the top five European cities for quality of life, education, public domain, health care and air quality. Students comprise an estimated 25% of its total population and makes it the country's demographically youngest city.
 
-Groningen offers plenty of options for visitors; see [here](https://www.visitgroningen.nl/en) for touristic information.
+Groningen offers plenty of options for visitors. Please see [here](https://www.visitgroningen.nl/en) for (official) touristic information.
 
 ### The University of Groningen
 Founded in 1614, the University of Groningen comprises
@@ -39,7 +39,7 @@ more than 120 nationalities (see [more facts and figures](https://www.rug.nl/abo
 ### Travel by Air
 The simplest option is to travel to [Schiphol International Airport](https://www.schiphol.nl/en/) (Amsterdam, AMS) and then connect to Groningen by train.
 
-Once at Schiphol, the underground train station is within walking distance of luggage claim areas. The [Dutch railway company (NS)](https://www.ns.nl/en) is easy to recognize with its yellow and blue colors. Just follow the illuminated signs that direct ‘to trains’.
+Once at Schiphol, the underground train station is within walking distance of the luggage claim areas. The [Dutch railway company (NS)](https://www.ns.nl/en) is easy to recognize with its yellow and blue colors - just follow the illuminated signs that direct ‘to trains’.
 
 Groningen can also be reached by traveling to Groningen Airport Eelde (GRQ), which covers a few seasonal destinations (see more information [here](https://www.groningenairport.nl/en/destinations)).
 
@@ -47,9 +47,9 @@ Groningen can also be reached by traveling to Groningen Airport Eelde (GRQ), whi
 ### Travel by Train
 
 #### Schedules
-The journey from Schiphol Airport takes approximately two hours, with connections every 30 minutes. The trains are relatively comfortable and most of them offer free WiFi in all classes and 220V AC outlets in first class. Food and drinks are not sold on the trains.
+The journey from Schiphol Airport takes approximately two hours, with connections every 30 minutes. The trains are comfortable;  most of them offer free WiFi in all classes and 220V AC outlets in first class. Food and drinks are not sold on the trains.
 
-Further information on travelling by train is available on the [NS website](https://www.ns.nl/en).
+Further information on travelling by train is available on the [NS website](https://www.ns.nl/en). The [NS app](https://www.ns.nl/en/travel-information/ns-app) offers up-to-date  information on delays and disruptions. For international train connections from/to Groningen, please visit [NS International](https://www.nsinternational.com/en).
 
 #### Tickets
 We recommend purchasing your train tickets online at the [NS website](https://www.ns.nl/en). 
@@ -60,10 +60,15 @@ You can purchase tickets from the machines only by using your Credit Card or a D
 
 If you use a single-use chip card or OV-chipkaart please make sure you check in and out; hold your OV-chipkaart up against the NS card reader in one of the gates or free-standing posts.
 
-### Planning your journey in the Netherlands
-The website/app [9292.nl](www.9292.nl) is the most useful tool for planning your journey in the Netherlands. 
+### Moving around by bike
+It is possible to rent bikes for moving around during your stay. The NS offers a very convenient alternative, see [here](https://www.ns.nl/en/door-to-door/ov-fiets) for details.
+
+## Planning your journey in the Netherlands
+The website/app [9292.nl](www.9292.nl) is a very useful tool for planning your journey in the Netherlands. 
 
 The planner combines all available public transportation (trains, buses, trams, metro, and boats) to provide an optimal route. It also informs you real-time about the current delays and disruptions in public transportation.
+
+
 
 
 ## Accommodation
