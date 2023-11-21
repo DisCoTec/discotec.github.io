@@ -1,5 +1,5 @@
 [![](banner2024.v2.png)](.)
-*Photo credit: Robin Mathlener via [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)* 
+*Photo by Robin Mathlener on [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)* 
 
 # DisCoTec 2024 - 19th International Federated Conference on Distributed Computing Techniques
 
@@ -8,7 +8,7 @@ Welcome to DisCoTec 2024!
 [DisCoTec](/) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)) and the European Association for Programming Languages and Systems ([EAPLS](https://eapls.org)).
 
 
-DisCoTec 2024 will take place in [Groningen, The Netherlands](/2024/venue), between June 17-21, 2024, hosted by the [University of Groningen](https://www.rug.nl).
+DisCoTec 2024 will take place in [Groningen, The Netherlands](/venue.md), between June 17-21, 2024, hosted by the [University of Groningen](https://www.rug.nl).
 
 ## Main Conferences
 DisCoTec gathers conferences that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
@@ -36,12 +36,12 @@ Go to the [programme page](https://www.discotec.org/2023/programme).
 
 ## Keynote Speakers
 We are pleased to announce the following keynote speakers:
-* [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, The Netherlands)
-* [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, Austria)
-* [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, Saudi Arabia)
+* [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, NL)
+* [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
+* [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, SA)
 
 ## Proceedings
-The proceedings of the main conferences will be published as volumens in the [Springer LNCS-IFIP](https://www.springer.com/series/8345) series. 
+The proceedings of the main conferences will be published as volumes in the [Springer LNCS-IFIP](https://www.springer.com/series/8345) series. 
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
@@ -58,7 +58,7 @@ The following deadlines expire at 23:59 [anywhere on earth (AoE)](https://www.ti
 * **Paper submission:** February 9, 2024
 * **Paper notification:** March 29, 2024
 * **Camera-ready:** April 28, 2024
-* **DisCoTec conference:** June 17-21, 2024
+* **Conferences:** June 17-21, 2024
 
 
 
@@ -219,7 +219,7 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 <img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" height="90px">
 </a>
 &nbsp;   &nbsp;   &nbsp;   &nbsp;
-<a href="http://rug.nl/fse/">
+<a href="http://rug.nl">
 <img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logoen_rood_rgb.jpg" height="90px">
 </a>
 
