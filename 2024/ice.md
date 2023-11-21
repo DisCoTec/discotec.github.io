@@ -1,10 +1,13 @@
-[![](discotec2023-banner.v3.png)](https://www.discotec.org/2023/)
+[![](banner2024.v2.png)](.)
+*Photo credit: Robin Mathlener via [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)* 
 
-# ICE 2023 - 16th Interaction and Concurrency Experience
+# ICE 2024 - 17th Interaction and Concurrency Experience
 
-Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. ICE 2023 is a satellite workshop of [DisCoTec 2023](https://www.discotec.org/2023/), held on Monday 19th June 2023 at the [NOVA University](https://www.unl.pt/en) in Lisbon, Portugal.
-
+Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. 
 <!--
+ICE 2023 is a satellite workshop of [DisCoTec 2023](https://www.discotec.org/2023/), held on Monday 19th June 2023 at the [NOVA University](https://www.unl.pt/en) in Lisbon, Portugal.
+
+
 **COVID-19:** ICE 2023 will be a physical, in-person event, with some support for remote presence, both for speakers and for other participants who are unable or unwilling to come.
 
 **ICE 2023 Dinner**: 17 June, **21:30 at [Mara Meo](https://g.page/Mara-Meo-SanFrancesco)** - Piazza San Francesco, Lucca.

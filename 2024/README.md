@@ -30,7 +30,7 @@ Go to the [programme page](https://www.discotec.org/2023/programme).
 ## Important Dates
 The following deadlines expire at 23:59 anywhere on earth (AoE) on the dates listed above.
 * **Abstract submission:** February 2, 2024 
-* **Paper submission:** February 9, 20243
+* **Paper submission:** February 9, 2024
 * **Paper notification:** March 29, 2024
 * **Camera-ready:** April 28, 2024
 * **DisCoTec conference:** June 17-21, 2024
@@ -39,9 +39,14 @@ The following deadlines expire at 23:59 anywhere on earth (AoE) on the dates lis
 
 
 ## Keynote Speakers
+* **Marieke Huisman**, University of Twente, The Netherlands
+* **Laura Kovács** Vienna University of Technology, Austria
+* **Paulo Veríssimo**, KAUST, Saudi Arabia
+<!--
 * [Marieke Huisman](https://www.discotec.org/2024/invited), University of Twente, The Netherlands
 * [Laura Kovács](https://www.discotec.org/2024/invited), Vienna University of Technology, Austria
 * [Paulo Veríssimo](https://www.discotec.org/2024/invited), KAUST, Saudi Arabia
+-->
 
 <!--
 ## Accepted Papers
