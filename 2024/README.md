@@ -3,13 +3,13 @@
 
 # DisCoTec 2024 - 19th International Federated Conference on Distributed Computing Techniques
 
-[DisCoTec](/) 2024 is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)) and the European Association for Programming Languages and Systems ([EAPLS](https://eapls.org)).
+[DisCoTec](/) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)) and the European Association for Programming Languages and Systems ([EAPLS](https://eapls.org)).
 
 DisCoTec gathers conferences and workshops that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
 
 DisCoTec 2024 will take place in [Groningen, The Netherlands](/2024/venue), between June 17-21, 2024, hosted by the [University of Groningen](https://www.rug.nl).
 
-## Conferences
+## Main Conferences
 * [COORDINATION 2024](coordination.md) - International Conference on Coordination Models and Languages
 * [DAIS 2024](dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2024](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
@@ -27,13 +27,6 @@ DisCoTec 2024 will take place in [Groningen, The Netherlands](/2024/venue), betw
 
 Go to the [programme page](https://www.discotec.org/2023/programme).
 -->
-## Important Dates
-The following deadlines expire at 23:59 anywhere on earth (AoE) on the dates listed above.
-* **Abstract submission:** February 2, 2024 
-* **Paper submission:** February 9, 2024
-* **Paper notification:** March 29, 2024
-* **Camera-ready:** April 28, 2024
-* **DisCoTec conference:** June 17-21, 2024
 
 
 
@@ -42,6 +35,23 @@ The following deadlines expire at 23:59 anywhere on earth (AoE) on the dates lis
 * [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, The Netherlands)
 * [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, Austria)
 * [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, Saudi Arabia)
+
+## (Open-Access) Proceedings
+The proceedings of the main conferences will be published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. 
+
+The proceeding volumes will be *open access* from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
+
+<img src="lncs-logo.jpg" width="182" height="68"/>
+
+
+## Important Dates
+The following deadlines expire at 23:59 anywhere on earth (AoE) on the dates listed above.
+* **Abstract submission:** February 2, 2024 
+* **Paper submission:** February 9, 2024
+* **Paper notification:** March 29, 2024
+* **Camera-ready:** April 28, 2024
+* **DisCoTec conference:** June 17-21, 2024
+
 
 <!--
 ## Accepted Papers
@@ -115,12 +125,6 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 * [ICE 2023](https://www.discotec.org/2023/ice) - Workshop on Interaction and Concurrency Experience
 -->
 
-## (Open-Access) Proceedings
-The proceedings of the main conferences will be published in [LNCS-IFIP](https://www.springer.com/series/8345) volumes. 
-
-The proceeding volumes will be *open access* from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
-
-<img src="lncs-logo.jpg" width="182" height="68"/>
 
 
 ## Journal Special Issues
@@ -208,6 +212,6 @@ Main conferences will organize special issues of extended/selected papers in hig
 </a>
 &nbsp;   &nbsp;   &nbsp;   &nbsp;
 <a href="http://rug.nl/fse/">
-<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/logo-faculteiten/eng-logo/horizontal/rood/png/rugr_fse_logoen_rood_rgb.png" width="1000px">
+<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/logo-faculteiten/eng-logo/horizontal/rood/png/rugr_fse_logoen_rood_rgb.png" width="400px">
 </a>
 
