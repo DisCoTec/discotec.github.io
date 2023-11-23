@@ -134,9 +134,9 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands
 * Frank Eliassen, University of Oslo, Norway
-* Rüdiger Kapitza, Technical University of Braunschweig, Germany
+* Rüdiger Kapitza, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
 * Rui Oliveira, University of Minho / INESC TEC, Portugal
-* Hans P. Reiser, University of Passau, Germany
+* Hans P. Reiser, Reykjavik University, Iceland
 * Laura Ricci, University of Pisa, Italy
 * Silvia Bonomi, Università degli Studi di Roma "La Sapienza”, Italy
 * Etienne Riviére, Ecole Polytechnique de Louvain, Belgium
