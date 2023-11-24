@@ -1,5 +1,5 @@
 [![](banner2024.v2.png)](.)
-*Photo credit: Robin Mathlener via [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)* 
+*Photo by Robin Mathlener on [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)*  
 
 
 # FORTE 2024 - 44th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
@@ -68,7 +68,13 @@ FORTE 2023 includes an artefact evaluation performed by the artefact evaluation 
 Some papers that raised doubts the reviewers would like to clarify to consider acceptance, will have 48h to respond to concrete questions. The responses will be taken into account during the PC discussions.
 -->
 
-### Publication
+## Keynote speakers
+
+* [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, NL)
+* [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
+* [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, SA)
+
+## Publication
 The conference proceedings, formed by accepted submissions from __any__ category, will be published by Springer as an LNCS-IFIP volume.
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
@@ -146,10 +152,15 @@ For additional information, please contact the Program Committee Co-chairs: fort
 -->
 
 ## Sponsors & Supporters
+
 <a href="https://www.ifip.org">
-  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="350px">
+  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" height="90px">
 </a>
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
+&nbsp;   &nbsp;   &nbsp;   &nbsp;
 <a href="https://eapls.org">
-<img alt="eapls-logo" src="/2021/EAPLS_logo.jpg" width="350px">
+<img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" height="90px">
+</a>
+&nbsp;   &nbsp;   &nbsp;   &nbsp;
+<a href="http://rug.nl">
+<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logoen_rood_rgb.jpg" height="90px">
 </a>

@@ -1,5 +1,5 @@
 [![](banner2024.v2.png)](.)
-*Photo credit: Robin Mathlener via [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)* 
+*Photo by Robin Mathlener on [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)*  
 
 
 # COORDINATION 2024 - 26th International Conference on Coordination Models and Languages
@@ -27,9 +27,11 @@ Topics of interest encompass all areas of coordination, including (but not limit
 * Industrial relevance of coordination and software architectures: programming in the large, domain-specific software architectures and coordination models, industry-driven efforts in coordination and case studies.
 * Interdisciplinary aspects of coordination.
 
-## Keynote speaker
+## Keynote speakers
 
-* [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/), University of Twente, The Netherlands
+* [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, NL)
+* [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
+* [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, SA)
 
 ## Submissions
 
@@ -164,8 +166,13 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 ## Sponsors & Supporters
 
 <a href="https://www.ifip.org">
-  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="350px">
+  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" height="90px">
 </a>
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp;
+&nbsp;   &nbsp;   &nbsp;   &nbsp;
 <a href="https://eapls.org">
-<img alt="eapls-logo" src="/2021/EAPLS_logo.jpg" width="350px">
+<img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" height="90px">
+</a>
+&nbsp;   &nbsp;   &nbsp;   &nbsp;
+<a href="http://rug.nl">
+<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logoen_rood_rgb.jpg" height="90px">
+</a>
