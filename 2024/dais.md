@@ -45,11 +45,16 @@ System issues and design goals, including
 * scalability and elasticity, and
 * tail-performance and energy-efficiency.
 
+## Keynote speakers
+
+* [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, NL)
+* [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
+* [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, SA)
 
 ## Submission dates
-* Abstract submission: ~~February 2, 2024
-* Paper submission: ~~February 9, 2024
-* Paper notification: ~~March 29, 2024
+* Abstract submission: February 2, 2024
+* Paper submission: February 9, 2024
+* Paper notification: March 29, 2024
 * Camera-ready: April 28, 2023
 
 Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
@@ -63,13 +68,6 @@ All papers must be original, unpublished, and not submitted for publication else
 * Work-in-progress papers, describing ongoing work and interim results, in no more than 6 pages + 2 pages references.
 
 Contributions should be submitted electronically as PDF, using the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) to the conference submission website. Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear.
-
-
-## Keynote speakers
-
-* [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, NL)
-* [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
-* [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, SA)
 
 ## Proceedings
 All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.
