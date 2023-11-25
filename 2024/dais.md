@@ -88,6 +88,7 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 ## Submission link
 
 <https://easychair.org/conferences/?conf=dais2024>
+
 <!--
 ## Keynote speaker
 
