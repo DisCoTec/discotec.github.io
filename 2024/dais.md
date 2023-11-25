@@ -156,6 +156,14 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * Davide Frey, INRIA, France
 * Odorico Machado Mendizabal, UFSC, Brasil
 
+## Artefact Evaluation Committee
+* João Soares (chair), University of Porto, Portugal
+* Nuhi Besimi (chair), South East European University, North Macedonia
+* Christian Berger, University of Passau, Germany
+* Giovanni Farina, Sapienza University of Rome, Italy
+* Nuno Neto, University of Porto, Portugal
+* Bijun Li, Hainan Normal University, China
+* Lamir Shkurti, South East European University, North Macedonia
 
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands
