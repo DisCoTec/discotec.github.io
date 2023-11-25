@@ -45,28 +45,25 @@ System issues and design goals, including
 * scalability and elasticity, and
 * tail-performance and energy-efficiency.
 
-<!--
+
 ## Submission dates
-* Abstract submission: ~~February 11, 2023~~ March 4, 2023 (Extended)
-* Paper submission: ~~February 18, 2023~~ March 4, 2023 (Extended)
-* Paper notification: ~~March 31, 2023~~ April 7, 2023
-* Artefact submission: April 14, 2023
-* Artefact notification: April 28, 2023
-* Camera-ready: April 30, 2023
-* DisCoTec conference: June 19-23, 2023
+* Abstract submission: ~~February 2, 2024
+* Paper submission: ~~February 9, 2024
+* Paper notification: ~~March 29, 2024
+* Camera-ready: April 28, 2023
 
 Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
 
 ## Submission and Publication
 
-All papers must be original, unpublished, and not submitted for publication elsewhere. DAIS 2023 offers three submission tracks:
+All papers must be original, unpublished, and not submitted for publication elsewhere. DAIS 2024 offers three submission tracks:
 
 * Full research papers in no more than 15 pages + 2 pages references.
 * Full practical experience reports, including experimental and evaluation studies, case studies, and practice reports in no more than 15 pages + 2 pages references.
 * Work-in-progress papers, describing ongoing work and interim results, in no more than 6 pages + 2 pages references.
 
 Contributions should be submitted electronically as PDF, using the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) to the conference submission website. Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear.
--->
+
 
 ## Keynote speakers
 
