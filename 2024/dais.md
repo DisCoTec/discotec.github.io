@@ -84,11 +84,11 @@ Proceedings will be made available at the conference. Submission implies that at
 To improve the reproducibility of results and to increase the visibility of prototypes and tools produced by our community, authors of accepted papers (full papers, experience reports, WiP papers) will be invited to submit publicly available artefacts associated with their paper for evaluation.
 Based on the result of the evaluation, the paper may be awarded with badges. Artefact submission is optional and the result of the artefact evaluation will not alter the paper’s acceptance decision. Detailed guidelines for the preparation and submission of the artefacts will be made available to authors.
 
-<!--
+
 ## Submission link
 
-<https://easychair.org/my/conference?conf=dais2023>
-
+<https://easychair.org/conferences/?conf=dais2024>
+<!--
 ## Keynote speaker
 
 * [Peter Pietzuch](https://www.doc.ic.ac.uk/~prp/), Imperial College London, UK
