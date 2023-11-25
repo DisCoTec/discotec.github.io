@@ -16,6 +16,7 @@ Novel and innovative distributed applications and systems, particularly in the a
 * cloud, edge and fog computing,
 * big data processing,
 * streaming and complex event processing,
+* distributed embedded machine learning (TinyML),
 * distributed social networking,
 * IoT and cyber-physical systems,
 * mobile computing,
@@ -133,8 +134,8 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 -->
 
 ## Program committee chairs
-* Rolando Martins, University of Porto, Portugal
-* Mennan Selimi, South East European University, North Macedonia
+* [Rolando Martins](https://www.dcc.fc.up.pt/~rmartins/), University of Porto, Portugal
+* [Mennan Selimi](https://mvdsi.seeu.edu.mk/mselimi/), South East European University, North Macedonia
 
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands
