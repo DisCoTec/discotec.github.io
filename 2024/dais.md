@@ -137,6 +137,26 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * [Rolando Martins](https://www.dcc.fc.up.pt/~rmartins/), University of Porto, Portugal
 * [Mennan Selimi](https://mvdsi.seeu.edu.mk/mselimi/), South East European University, North Macedonia
 
+## Program committee
+* Evangelia Kalyvianaki, University of Cambridge, UK
+* Valerio Schiavoni, University of Neuchâtel, Switzerland
+* Marco Zennaro, ICTP, Italy
+* Mirela Riveni, University of Groningen, Netherlands
+* Etienne Riviére, Ecole Polytechnique de Louvain, Belgium
+* Felix Freitag, Universitat Politècnica de Catalunya (UPC), Spain
+* Hans P. Reiser, Reykjavík University, Iceland
+* Håvard Dagenborg,UiT The Arctic University of Norway, Norway
+* João Leitão, Universidade Nova de Lisboa, Portugal
+* Spyros Voulgaris, Athens University of Economics and Business, Greece
+* Kai Rannenberg, Goethe University, Germany
+* Zhiyuan Chen, UMBC, USA
+* Pradeeban Kathiravelu, University Alaska Anchorage, USA
+* Paolo Bellavista, University of Bologna, Italy
+* Luís Veiga, INESC-ID, Universidade de Lisboa, Portugal
+* Davide Frey, INRIA, France
+* Odorico Machado Mendizabal, UFSC, Brasil
+
+
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands
 * Frank Eliassen, University of Oslo, Norway
