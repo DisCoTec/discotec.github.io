@@ -8,12 +8,12 @@ Welcome to DisCoTec 2024!
 [DisCoTec](/) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)) and the European Association for Programming Languages and Systems ([EAPLS](https://eapls.org)).
 
 
-DisCoTec 2024 will take place in [Groningen, The Netherlands](venue.md), between June 17-21, 2024, hosted by the [University of Groningen](https://www.rug.nl).
+DisCoTec 2024 will take place in [Groningen, The Netherlands](venue), between June 17-21, 2024, hosted by the [University of Groningen](https://www.rug.nl).
 
 ## Main Conferences
 DisCoTec gathers conferences that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
 
-* [COORDINATION 2024](coordination.md) - International Conference on Coordination Models and Languages
+* [COORDINATION 2024](coordination) - International Conference on Coordination Models and Languages
 * [DAIS 2024](dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2024](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
@@ -66,13 +66,14 @@ The following deadlines expire at 23:59 [anywhere on earth (AoE)](https://www.ti
 ## Accepted Papers
 
 Go to the [list of accepted papers](https://www.discotec.org/2023/accepted-papers).
+-->
 
 ## Conference Venue
-[Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt)<br/>
-[NOVA University Lisbon](https://www.unl.pt/en/)<br/>
-Campus de Campolide, 1099-085 Lisboa
+[Bernoulliborg (Bernoulli building)](https://maps.app.goo.gl/19cPCD1vyGQX4ph49) <br />
+[University of Groningen](https://www.rug.nl/) <br />
+Nijenborgh 9, 9747 AG Groningen
 
-![Map](map.png)
+<!--
 
 ## Welcome reception venue
 
