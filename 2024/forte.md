@@ -131,11 +131,12 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Dmitriy Traytel (University of Copenhagen, Denmark)
 * Jana Wagemaker (Reykjavik University, Iceland)
 
-<!--
-## Artefact Evaluation Committee Chairs
-* Mário Pereira (NOVA University Lisbon, Portugal)
-* Tom van Dijk (University of Twente)
 
+## Artefact Evaluation Committee Chairs
+* Duncan P. Attard (University of Glasgow, UK)
+* Emanuele D'Osualdo (Max Planc Institute for Software Systems, Germany)
+
+<!--
 ## Artefact Evaluation Committee
 * Andrea Esposito, Università di Urbino
 * Ludovico Fusco, University of Urbino "Carlo Bo"
