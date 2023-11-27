@@ -70,3 +70,10 @@ nb-configuration.xml
 # Tool-generated files and directories.
 target/
 doc/
+
+_config.yml
+Gemfile
+Gemfile.lock
+Mailing lists.txt
+.sass-cache/*
+_site/
