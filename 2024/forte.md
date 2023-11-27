@@ -86,6 +86,9 @@ Some papers that raised doubts the reviewers would like to clarify to consider a
 * [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
 * [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, SA)
 -->
+## Keynote Speaker
+* [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
+
 
 ## Publication
 The conference proceedings, formed by accepted submissions from __any__ category, will be published by Springer as an LNCS-IFIP volume.
@@ -99,8 +102,6 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ### Submission Link
 <https://easychair.org/conferences/?conf=forte2024>
 
-## Keynote Speaker
-* [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
   
 
 ## Program Committee Chairs
@@ -108,9 +109,12 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * [Adrian Francalanza](https://www.um.edu.mt/profile/adrianfrancalanza), University of Malta, Malta
 
 ## Program Committee Members
-* Giovanni Bernardi (University of Paris Diderot - IRIF, France)
+* Giovanni Bernardi (Université of Paris Diderot - IRIF, France)
 * Petra van den Bos (University of Twente, The Netherlands)
 * Silvia Crafa (University of Padova, Italy)
+* Carla Ferreira (Universidade Nova de Lisboa, Portugal)
+* Simon Fowler (University of Glasgow, UK)
+* Cinzia di Giusto (Université Cote D'Azure, CNRS, I3S, France)
 * Daniele Gorla (University of Rome La Sapienza, Italy)
 * Ross Horne (University of Strathclyde, UK)
 * Wen Kokke (University of Strathclyde, UK)
@@ -118,6 +122,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Peter Olveczky (University of Oslo, Norway)
 * Ana-Maria Oprescu (University of Amsterdam, The Netherlands)
 * Kirstin Perters (University of Augsburg, Germany)
+* Anna Philippou (University of Cyprus, Cyprus)
 * Michela Quadrini (University of Camerino, Italy)
 * Anne Remke (WWU Munster, Germany)
 * Larisa Safina (INRIA – Lille Nord Europe, France)
