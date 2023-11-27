@@ -78,16 +78,13 @@ FORTE 2024 includes an artefact evaluation performed by the artefact evaluation 
 <!--
 ### Partial Rebuttal
 Some papers that raised doubts the reviewers would like to clarify to consider acceptance, will have 48h to respond to concrete questions. The responses will be taken into account during the PC discussions.
-
+-->
 
 ## Keynote speakers
 
 * [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, NL)
 * [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
 * [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, SA)
--->
-## Keynote Speaker
-* [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
 
 
 ## Publication
@@ -117,6 +114,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Cinzia di Giusto (Université Cote D'Azure, CNRS, I3S, France)
 * Daniele Gorla (University of Rome La Sapienza, Italy)
 * Ross Horne (University of Strathclyde, UK)
+* Andreas Katis (KBR Inc. at NASA Ames Research Center, USA)
 * Wen Kokke (University of Strathclyde, UK)
 * Vasileios Koutavas (Trinity College Dublin, Ireland)
 * Peter Olveczky (University of Oslo, Norway)
