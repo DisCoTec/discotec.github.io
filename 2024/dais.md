@@ -137,6 +137,7 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 
 ## Program committee
 * Evangelia Kalyvianaki, University of Cambridge, UK
+* David Bermbach, TU Berlin, Germany
 * Valerio Schiavoni, University of Neuchâtel, Switzerland
 * Marco Zennaro, ICTP, Italy
 * Mirela Riveni, University of Groningen, Netherlands
@@ -153,6 +154,7 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * Luís Veiga, INESC-ID, Universidade de Lisboa, Portugal
 * Davide Frey, INRIA, France
 * Odorico Machado Mendizabal, UFSC, Brasil
+* Guillaume Pierre, IRISA, France
 
 ## Artefact Evaluation Committee
 * João Soares (chair), University of Porto, Portugal
