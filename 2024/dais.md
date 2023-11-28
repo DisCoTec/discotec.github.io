@@ -155,6 +155,7 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * Davide Frey, INRIA, France
 * Odorico Machado Mendizabal, UFSC, Brasil
 * Guillaume Pierre, IRISA, France
+* Roberto Yus, UMBC, USA
 
 ## Artefact Evaluation Committee
 * João Soares (chair), University of Porto, Portugal
