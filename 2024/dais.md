@@ -148,14 +148,14 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * João Leitão, Universidade Nova de Lisboa, Portugal
 * Spyros Voulgaris, Athens University of Economics and Business, Greece
 * Kai Rannenberg, Goethe University, Germany
-* Zhiyuan Chen, UMBC, USA
+* Zhiyuan Chen, University of Maryland, Baltimore County, USA
 * Pradeeban Kathiravelu, University Alaska Anchorage, USA
 * Paolo Bellavista, University of Bologna, Italy
 * Luís Veiga, INESC-ID, Universidade de Lisboa, Portugal
 * Davide Frey, INRIA, France
 * Odorico Machado Mendizabal, UFSC, Brasil
 * Guillaume Pierre, IRISA, France
-* Roberto Yus, UMBC, USA
+* Roberto Yus, University of Maryland, Baltimore County, USA
 
 ## Artefact Evaluation Committee
 * João Soares (chair), University of Porto, Portugal
