@@ -49,7 +49,7 @@ The volumes will be **open access** from the [IFIP digital library](https://hal.
 
 
 ## Journal Special Issues
-Full versions of selected papers accepted at the main conferences will be invited for submission to special issues in high-quality journals: 
+Selected papers accepted at the main conferences will be invited for submission to special issues in high-quality journals: 
 * [Logical Methods in Computer Science](https://lmcs.episciences.org) 
 * [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/) ([Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming)).
 
