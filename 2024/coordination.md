@@ -40,7 +40,7 @@ Topics of interest encompass all areas of coordination, including (but not limit
 * Abstract submission: February 02, 2024
 * Paper submission: February 09, 2024
 * Paper notification: March 29, 2024
-* Camera-ready: April 28, 2024
+* Camera-ready: April 24, 2024
 * Conference:  June 18-20, 2024
 
 Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
