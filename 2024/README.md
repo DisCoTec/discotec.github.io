@@ -11,13 +11,13 @@ Welcome to DisCoTec 2024!
 DisCoTec 2024 will take place in [Groningen, The Netherlands](venue), between June 17-21, 2024, hosted by the [University of Groningen](https://www.rug.nl).
 
 ## Main Conferences
-DisCoTec gathers conferences that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+DisCoTec gathers conferences that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches:
 
 * [COORDINATION 2024](coordination) - International Conference on Coordination Models and Languages
 * [DAIS 2024](dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2024](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
-Please visit the pages of each conference for details on topics of interest and submission categories.
+Please visit the pages of each conference for details on topics of interest, paper  categories, and submission links.
 
 <!--
 ## Proceedings
@@ -49,15 +49,18 @@ The volumes will be **open access** from the [IFIP digital library](https://hal.
 
 
 ## Journal Special Issues
-Main conferences will organize special issues of selected papers in high-quality journals such as [Logical Methods in Computer Science](https://lmcs.episciences.org) and of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming) for tool papers.
+Full versions of selected papers accepted at the main conferences will be invited for submission to special issues in high-quality journals: 
+* [Logical Methods in Computer Science](https://lmcs.episciences.org) 
+* [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/) ([Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming)).
 
+Please visit the page of each conference for details on these special issues.
 
-## Important Dates
-The following deadlines expire at 23:59 [anywhere on earth (AoE)](https://www.timeanddate.com/time/zones/aoe_) on the dates listed below:
+## Important Dates (All Conferences)
+The following deadlines expire at 23:59 [anywhere on earth (AoE)](https://www.timeanddate.com/time/zones/aoe) on the dates listed below:
 * **Abstract submission:** February 2, 2024 
 * **Paper submission:** February 9, 2024
 * **Paper notification:** March 29, 2024
-* **Camera-ready:** April 28, 2024
+* **Camera-ready:** April 24, 2024
 * **Conferences:** June 17-21, 2024
 
 
@@ -70,6 +73,7 @@ Go to the [list of accepted papers](https://www.discotec.org/2023/accepted-paper
 
 ## Conference Venue
 [Bernoulliborg (Bernoulli building)](https://maps.app.goo.gl/19cPCD1vyGQX4ph49) <br />
+Faculty of Science and Engineering <br />
 [University of Groningen](https://www.rug.nl/) <br />
 Nijenborgh 9, 9747 AG Groningen
 
@@ -157,7 +161,7 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 ### DisCoTec Artefact Evaluation Chair
 * [Roberto Casadei][RobertoWeb] (University of Bologna, IT)
 
-## Organizing Committee
+## Organizing Committee (TBC)
 * [Jorge A. Pérez][JorgeWeb] (University of Groningen, NL — **General Chair**)
 * [Dan Frumin][DanWeb] (University of Groningen, NL — Workshops and Tutorials Co-chair)
 * [Claudio Antares Mezzina][ClaudioWeb] (University of Urbino, IT — Workshops and Tutorials Co-chair)
@@ -177,7 +181,7 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 
 [RobertoWeb]: https://www.unibo.it/sitoweb/roby.casadei/
 
-## Steering Committee
+## Steering Committee 
 * Gianluigi Zavattaro (University of Bologna, IT — Chair)
 * Rocco De Nicola (IMT School for Advanced Studies Lucca, IT)
 * Kurt Geihs (University of Kasel, DE)
@@ -207,7 +211,7 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 -->
 
 ## Further Information
-* For further information please contact the general chair ([Jorge A. Pérez][JorgeWeb])
+* Please contact the general chair ([Jorge A. Pérez][JorgeWeb])
 * Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
 
 ## Sponsors & Supporters
