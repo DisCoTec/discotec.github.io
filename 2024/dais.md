@@ -156,7 +156,9 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * Odorico Machado Mendizabal, UFSC, Brasil
 * Guillaume Pierre, IRISA, France
 * Roberto Yus, University of Maryland, Baltimore County, USA
-
+* Pierre-Louis Aublin, IIJ Research Laboratory, Japan
+* Ali Shoker, King Abdullah University of Science and Technology, Saudi Arabia
+  
 ## Artefact Evaluation Committee
 * João Soares (chair), University of Porto, Portugal
 * Nuhi Besimi (chair), South East European University, North Macedonia
