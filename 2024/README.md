@@ -163,10 +163,13 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 
 ## Organizing Committee (TBC)
 * [Jorge A. Pérez][JorgeWeb] (University of Groningen, NL — **General Chair**)
+* [Anton Chernev][AntonWeb] (University of Groningen, NL)
 * [Dan Frumin][DanWeb] (University of Groningen, NL — Workshops and Tutorials Co-chair)
+* [Juan C. Jaramillo][JuanWeb] (University of Groningen, NL)
 * [Claudio Antares Mezzina][ClaudioWeb] (University of Urbino, IT — Workshops and Tutorials Co-chair)
 * [Bas van den Heuvel][BasWeb] (Karlsruhe University of Applied Sciences and University of Freiburg, DE — Publicity Chair)
 
+[AntonWeb]: https://www.rug.nl/staff/a.chernev/
 [IlariaWeb]: https://www-sop.inria.fr/members/Ilaria.Castellani/
 [FranWeb]: http://www.disia.unifi.it/tiezzi
 [RolandoWeb]: https://www.dcc.fc.up.pt/~rmartins/
@@ -175,6 +178,7 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 [AdrianWeb]: http://staff.um.edu.mt/afra1/
 
 [JorgeWeb]: https://www.jperez.nl
+[JuanWeb]: https://www.rug.nl/staff/j.c.jaramillo.londono/
 [DanWeb]: https://groupoid.moe
 [ClaudioWeb]: https://sites.google.com/view/claudio-mezzina
 [BasWeb]: https://basvdheuvel.github.io
@@ -184,7 +188,7 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 ## Steering Committee 
 * Gianluigi Zavattaro (University of Bologna, IT — Chair)
 * Rocco De Nicola (IMT School for Advanced Studies Lucca, IT)
-* Kurt Geihs (University of Kasel, DE)
+* Kurt Geihs (University of Kassel, DE)
 * Elie Najm (Telecom Paris Tech, FR)
 * Mieke Massink (CNR-ISTI, IT)
 * Luís Veiga (INESC-ID, Universidade de Lisboa, PT)
