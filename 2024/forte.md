@@ -47,7 +47,7 @@ For papers:
 * Abstract submission: February 2, 2024
 * Paper submission: February 9, 2024
 * Paper notification: March 29, 2024
-* Camera-ready: April 28, 2024
+* Camera-ready: April 24, 2024
 
 For artefacts:
 
