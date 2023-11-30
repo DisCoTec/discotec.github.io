@@ -129,6 +129,10 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * Robin Vassantlal, LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
 * Tânia Esteves, INESC TEC & U. Minho, Portugal
 * Vinícius Vielmo Cogo (chair), LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
+
+* Christian Berger, University of Passau, Germany
+* Giovanni Farina, Sapienza University of Rome, Italy
+* Bijun Li, Hainan Normal University, China
 -->
 
 ## Program committee chairs
@@ -163,10 +167,7 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 ## Artefact Evaluation Committee
 * João Soares (chair), University of Porto, Portugal
 * Nuhi Besimi (chair), South East European University, North Macedonia
-* Christian Berger, University of Passau, Germany
-* Giovanni Farina, Sapienza University of Rome, Italy
 * Nuno Neto, University of Porto, Portugal
-* Bijun Li, Hainan Normal University, China
 * Lamir Shkurti, South East European University, North Macedonia
 
 ## Steering committee
