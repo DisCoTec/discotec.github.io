@@ -158,6 +158,7 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * Roberto Yus, University of Maryland, Baltimore County, USA
 * Pierre-Louis Aublin, IIJ Research Laboratory, Japan
 * Ali Shoker, King Abdullah University of Science and Technology, Saudi Arabia
+* Fred Buining HIRO-MicroDataCenters, Netherlands
   
 ## Artefact Evaluation Committee
 * João Soares (chair), University of Porto, Portugal
