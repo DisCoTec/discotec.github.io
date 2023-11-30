@@ -74,6 +74,5 @@ doc/
 _config.yml
 Gemfile
 Gemfile.lock
-Mailing lists.txt
 .sass-cache/*
 _site/
