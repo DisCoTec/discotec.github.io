@@ -188,14 +188,14 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 ## Steering Committee 
 * Gianluigi Zavattaro (University of Bologna, IT — Chair)
 * Rocco De Nicola (IMT School for Advanced Studies Lucca, IT)
-* Kurt Geihs (University of Kassel, DE)
-* Elie Najm (Telecom Paris Tech, FR)
-* Mieke Massink (CNR-ISTI, IT)
-* Luís Veiga (INESC-ID, Universidade de Lisboa, PT)
-* Ivan Lanese (University of Bologna/INRIA, IT)
-* Manuel Núñez (Universidad Complutense de Madrid, ES)
-* Alberto Lluch Lafuente (Technical University of Denmark, DK)
 * Adrian Francalanza (University of Malta, MT)
+* Kurt Geihs (University of Kassel, DE)
+* Ivan Lanese (University of Bologna/INRIA, IT)
+* Alberto Lluch Lafuente (Technical University of Denmark, DK)
+* Mieke Massink (CNR-ISTI, IT)
+* Elie Najm (Telecom Paris Tech, FR)
+* Manuel Núñez (Universidad Complutense de Madrid, ES)
+* Luís Veiga (INESC-ID, Universidade de Lisboa, PT)
 
 <!--
 ## Advisory Board
