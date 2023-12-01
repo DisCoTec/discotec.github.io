@@ -69,5 +69,5 @@ Artefacts seeking the “reusable” badge need to clear a significantly higher 
     
 ## Contact
 For any questions please contact the two AE chairs:
-* Duncan P. Attard (Duncan.Attard@glasgow.ac.uk)
-* Emanuele D'Osualdo (dosualdo@mpi-sws.org)
+* [Duncan P. Attard](https://duncanatt.github.io/) (Duncan.Attard@glasgow.ac.uk)
+* [Emanuele D'Osualdo](https://www.emanueledosualdo.com/) (dosualdo@mpi-sws.org)
