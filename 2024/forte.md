@@ -131,8 +131,8 @@ After the conference, accepted papers (except for tool papers) selected from FOR
 
 
 ## Artefact Evaluation Committee Chairs
-* Duncan P. Attard (University of Glasgow, UK)
-* Emanuele D'Osualdo (Max Planc Institute for Software Systems, Germany)
+* [Duncan P. Attard](https://duncanatt.github.io/) (University of Glasgow, UK)
+* [Emanuele D'Osualdo](https://www.emanueledosualdo.com/) (Max Planc Institute for Software Systems, Germany)
 
 <!--
 ## Artefact Evaluation Committee
