@@ -167,6 +167,7 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 ## Artefact Evaluation Committee
 * João Soares (chair), University of Porto, Portugal
 * Nuhi Besimi (chair), South East European University, North Macedonia
+* Giovanni Farina, Sapienza University of Rome, Italy
 * Nuno Neto, University of Porto, Portugal
 * Lamir Shkurti, South East European University, North Macedonia
 
