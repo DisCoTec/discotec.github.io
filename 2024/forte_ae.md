@@ -1,7 +1,8 @@
-[![](discotec2023-banner.v2.jpeg)](https://www.discotec.org/2023/)
+[![](banner2024.v2.png)](.)
+*Photo by Robin Mathlener on [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)*
 
 # Artefact Evaluation
-[FORTE](https://www.discotec.org/2023/forte) this year includes an artefact evaluation performed by the artefact evaluation committee (AEC). The goal of the artefact evaluation is to enable future researchers to more effectively build on and compare with previous work. The Artefact Evaluation Committee (AEC) will review the artefact. We will be attributing 3 badges, according to [EAPLS guidelines](https://eapls.org/pages/artifact_badges/):
+[FORTE](https://www.discotec.org/2024/forte) this year includes an artefact evaluation performed by the artefact evaluation committee (AEC). The goal of the artefact evaluation is to enable future researchers to more effectively build on and compare with previous work. The Artefact Evaluation Committee (AEC) will review the artefact. We will be attributing 3 badges, according to [EAPLS guidelines](https://eapls.org/pages/artifact_badges/):
 1.	Artefact **functional**: documented, consistent, complete, exercisable;
 2.	Artefact **reusable**: exceeding functional, by being carefully documented and well-structured for reuse and repurposing, see below for details;
 3.	Artefact **available**: available on a publicly accessible archival repository to a permanent repository that provides a Digital Object Identifier (DOI).
@@ -11,12 +12,14 @@ Authors of **regular papers** are invited (but not required) to submit a relevan
 Members of the artefact evaluation committee and the program committee are asked to use submitted artefacts for the sole purpose of evaluating the contribution associated with the artefact.
 
 ## Important Dates
-* Saturday March 11, 2023: authors submit artefact
-* March 30-31, 2023: rebuttal period
-* Friday April 7, 2023: author notification
+
+* Artefact submission: February 29, 2024
+* Problem reports from reviewers: 8 March, 2024 
+* Authors' response to reviewers: 15 March, 2024 
+* Artefact notification: March 29, 2024
 
 ## Submission Guidelines
-Submission site: [https://easychair.org/conferences/?conf=forte2023](https://easychair.org/conferences/?conf=forte2023). Please select the “FORTE AEC 2023” track when making a new submission and use the same title (and pdf of the paper) as for the FORTE submission.
+Submission site: [https://easychair.org/conferences/?conf=forte2023](https://easychair.org/conferences/?conf=forte2024). Please select the “FORTE AEC 2024” track when making a new submission and use the same title (and pdf of the paper) as for the FORTE submission.
 
 A final artefact submission should consist of
 * an **abstract**
@@ -66,5 +69,5 @@ Artefacts seeking the “reusable” badge need to clear a significantly higher 
     
 ## Contact
 For any questions please contact the two AE chairs:
-* Tom van Dijk (t.vandijk@utwente.nl)
-* Mário Pereira (mjp.pereira@fct.unl.pt)
+* Duncan P. Attard (Duncan.Attard@glasgow.ac.uk)
+* Emanuele D'Osualdo (dosualdo@mpi-sws.org)
