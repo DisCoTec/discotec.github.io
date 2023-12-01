@@ -94,7 +94,11 @@ The conference proceedings, formed by accepted submissions from __any__ category
 
 
 ### Special Issue
-After the conference, accepted papers (except for tool papers) selected from FORTE and COORDINATION programmes will be invited to a special issue of the [Logical Methods in Computer Science](https://lmcs.episciences.org) journal. Selected accepted tool papers, instead, will be invited to a special issue of a reputable journal with a track dedicated to software, like the Journal of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming).
+After the conference, accepted papers (except for tool papers) selected from FORTE and COORDINATION programmes will be invited to a special issue of the [Logical Methods in Computer Science](https://lmcs.episciences.org) journal, with the following tentative schedule:
+* October/November 2024: deadline for the first submitted version;
+* February 2025: notification for the first round of reviews.
+
+Moreover, selected accepted tool papers, instead, will be invited to a special issue of a reputable journal with a track dedicated to software, like the Journal of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming).
 
 ### Submission Link
 <https://easychair.org/conferences/?conf=forte2024>
