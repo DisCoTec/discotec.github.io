@@ -36,7 +36,6 @@ Topics of interest encompass all areas of coordination, including (but not limit
 ## Submissions
 
 ### Important dates
-
 * Abstract submission: February 02, 2024
 * Paper submission: February 09, 2024
 * Paper notification: March 29, 2024
@@ -46,12 +45,10 @@ Topics of interest encompass all areas of coordination, including (but not limit
 Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
 
 ### Submission site
-
 [https://easychair.org/conferences/?conf=coordination2024](https://easychair.org/conferences/?conf=coordination2024)
 
 
 ### Publication
-
 Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the above submission dates and submissions are handled through the EasyChair conference management system, accessible from the above submission site.
 
 Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see [http://www.ifip.org/](http://www.ifip.org/) under Publications/Links). The submissions must not exceed the total page number limit (see below) prepared using [Springer’s LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Submissions not adhering to the above specified constraints may be rejected without review.
@@ -89,7 +86,6 @@ The conference proceedings, consisting of accepted submissions from any paper ca
 After the conference, accepted papers (except for tool papers) selected from COORDINATION and FORTE programmes will be invited to a special issue of the [Logical Methods in Computer Science](https://lmcs.episciences.org) journal. Selected accepted tool papers, instead, will be invited to a special issue of a reputable journal with a track dedicated to software, like the Journal of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming).
 
 ### Proceedings and Special Issues from Previous Editions
-
 **Proceedings**
 The proceedings of previous editions of COORDINATION are available on [SpringerLink](https://link.springer.com/conference/coordination)
 
@@ -122,16 +118,41 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * [Saverio Giallorenzo](https://www.unibo.it/sitoweb/saverio.giallorenzo2/) (University of Bologna, Italy)
 
 ## Programme Committee
-* TBA
-
+* Giorgio Audrito (University of Turin, Italy)  
+* Laura Bocchi (University of Kent, UK)
+* Chiara	Bodei (University of Pisa, Italy)
+* Marcello Bonsangue (Leiden University, The Netherlands)
+* Cinzia Di Giusto (Université Côte d'Azur, France)
+* Paola Giannini (University of Piemonte Orientale, Italy)
+* Hannah Gommerstadt (Vassar College, USA)
+* Heerko	 Groefsema (University of Groningen, The Netherlands)
+* Thomas Hildebrandt (University of Copenhagen, Denmark)
+* Sung-Shik Jongmans (Open University of the Netherlands, The Netherlands)
+* Jean Krivine (IRIF, CNRS, France)
+* Eva Kühn (Vienna University of Technology, Austria) 
+* Roland Kuhn (Actyx, Germany)
+* Alberto Lluch Lafuente (Technical University of Denmark, Denmark) 
+* Antónia Lopes (University of Lisbon, Portugal)
+* Michele Loreti (University of Camerino, Italy)
+* Mieke Massink (CNR-ISTI, Italy)
+* Hernán Melgratti (University of Buenos Aires, Argentina)
+* Maurizio Murgia (Gran Sasso Science Institute, Italy)
+* Anna Philippou (University of Cyprus, Cyprus)
+* José Proença (Polytechnic Institute of Porto, Portugal)
+* Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
+* Barbara Re (University of Camerino, Italy)
+* Marjan Sirjani (Mälardalen University, Sweden)
+* Meng Sun (Peking University, China)
+* Carolyn Talcott (SRI International, USA)
+* Peter Thiemann (Universität Freiburg, Germany)
+* Mirko Viroli (University of Bologna, Italy) 
+* Franco Zambonelli (University of Modena and Reggio Emilia, Italy) 
 
 ## Artefact Evaluation Committee chair
 * [Rumyana Neykova](https://www.brunel.ac.uk/people/rumyana-neykova) (Brunel University London, UK)
 
-
 ## Artefact Evaluation Committee
-* TBA
-
+* To be added
 
 ## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
@@ -161,7 +182,6 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Vasco T. Vasconcelos (University of Lisbon, Portugal)
 * Mirko Viroli (Università di Bologna, Italy)
 * Gianluigi Zavattaro (Università di Bologna, Italy)
-
 
 ## Sponsors & Supporters
 
