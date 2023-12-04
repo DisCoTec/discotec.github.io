@@ -123,6 +123,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Laura Bocchi (University of Kent, UK)
 * Chiara	Bodei (University of Pisa, Italy)
 * Marcello Bonsangue (Leiden University, The Netherlands)
+* Silvia Crafa (University of Padova, Italy)
 * Cinzia Di Giusto (Université Côte d'Azur, France)
 * Paola Giannini (University of Piemonte Orientale, Italy)
 * Hannah Gommerstadt (Vassar College, USA)
