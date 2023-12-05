@@ -141,7 +141,7 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 
 ## Program committee
 * Evangelia Kalyvianaki, University of Cambridge, UK
-* Rüdiger Kapitza, Friedrich-Alexander-Universitäm, Germany
+* Rüdiger Kapitza, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
 * Valerio Schiavoni, University of Neuchâtel, Switzerland
 * David Bermbach, TU Berlin, Germany
 * Marco Zennaro, ICTP, Italy
@@ -163,7 +163,7 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * Roberto Yus, University of Maryland, Baltimore County, USA
 * Pierre-Louis Aublin, IIJ Research Laboratory, Japan
 * Ali Shoker, King Abdullah University of Science and Technology, Saudi Arabia
-* Fred Buining HIRO-MicroDataCenters, Netherlands
+* Fred Buining, HIRO-MicroDataCenters, Netherlands
   
 ## Artefact Evaluation Committee
 * João Soares (chair), University of Porto, Portugal
