@@ -149,7 +149,7 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * Etienne Riviére, Ecole Polytechnique de Louvain, Belgium
 * Felix Freitag, Universitat Politècnica de Catalunya (UPC), Spain
 * Hans P. Reiser, Reykjavík University, Iceland
-* Håvard Dagenborg,UiT The Arctic University of Norway, Norway
+* Håvard Dagenborg, UiT The Arctic University of Norway, Norway
 * João Leitão, Universidade Nova de Lisboa, Portugal
 * Spyros Voulgaris, Athens University of Economics and Business, Greece
 * Kai Rannenberg, Goethe University, Germany
