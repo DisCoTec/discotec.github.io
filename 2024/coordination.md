@@ -198,3 +198,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 <a href="http://rug.nl">
 <img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logoen_rood_rgb.jpg" height="90px">
 </a>
+
+<a href="https://microservices.community/e/coordination2024/">
+  <img alt="In collaboration with Microservices Community" src="https://www.microservices.community/assets/images/badges/1-black.png" width="150px">
+</a>
