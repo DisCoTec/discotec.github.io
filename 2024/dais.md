@@ -141,8 +141,9 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 
 ## Program committee
 * Evangelia Kalyvianaki, University of Cambridge, UK
-* David Bermbach, TU Berlin, Germany
+* Rüdiger Kapitza, Friedrich-Alexander-Universitäm, Germany
 * Valerio Schiavoni, University of Neuchâtel, Switzerland
+* David Bermbach, TU Berlin, Germany
 * Marco Zennaro, ICTP, Italy
 * Mirela Riveni, University of Groningen, Netherlands
 * Etienne Riviére, Ecole Polytechnique de Louvain, Belgium
