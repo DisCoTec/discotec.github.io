@@ -130,6 +130,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Heerko	 Groefsema (University of Groningen, The Netherlands)
 * Thomas Hildebrandt (University of Copenhagen, Denmark)
 * Sung-Shik Jongmans (Open University of the Netherlands, The Netherlands)
+* Dimka	Karastoyanova (University of Groningen, The Netherlands)
 * Jean Krivine (IRIF, CNRS, France)
 * Eva Kühn (Vienna University of Technology, Austria) 
 * Roland Kuhn (Actyx, Germany)
