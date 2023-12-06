@@ -1,4 +1,4 @@
-https://eapls.org
-http://www.wikicfp.com/cfp/
-http://listserv.aisnet.org/
-https://dbworld.sigmod.org/
++https://eapls.org
+!http://www.wikicfp.com/cfp/
+-http://listserv.aisnet.org/ (registration seems broken)
+-https://dbworld.sigmod.org/ (404)
