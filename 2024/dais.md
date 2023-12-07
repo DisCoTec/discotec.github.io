@@ -130,7 +130,6 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * Tânia Esteves, INESC TEC & U. Minho, Portugal
 * Vinícius Vielmo Cogo (chair), LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
 
-* Christian Berger, University of Passau, Germany
 * Giovanni Farina, Sapienza University of Rome, Italy
 * Bijun Li, Hainan Normal University, China
 -->
@@ -143,6 +142,7 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * Evangelia Kalyvianaki, University of Cambridge, UK
 * Rüdiger Kapitza, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
 * Valerio Schiavoni, University of Neuchâtel, Switzerland
+* Carlos Molina Jimenez, University of Cambridge, UK 
 * David Bermbach, TU Berlin, Germany
 * Marco Zennaro, ICTP, Italy
 * Mirela Riveni, University of Groningen, Netherlands
@@ -170,6 +170,7 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * Nuhi Besimi (chair), South East European University, North Macedonia
 * Giovanni Farina, Sapienza University of Rome, Italy
 * Nuno Neto, University of Porto, Portugal
+* Christian Berger, University of Passau, Germany
 * Lamir Shkurti, South East European University, North Macedonia
 
 ## Steering committee
