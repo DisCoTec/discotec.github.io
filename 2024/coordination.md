@@ -29,9 +29,9 @@ Topics of interest encompass all areas of coordination, including (but not limit
 
 ## Keynote speakers
 
-* [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, NL)
-* [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
-* [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, SA)
+* [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, The Netherlands)
+* [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, Austria)
+* [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, Kingdom of Saudi Arabia)
 
 ## Submissions
 
@@ -141,7 +141,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Hernán Melgratti (University of Buenos Aires, Argentina)
 * Maurizio Murgia (Gran Sasso Science Institute, Italy)
 * Anna Philippou (University of Cyprus, Cyprus)
-* José Proença (Polytechnic Institute of Porto, Portugal)
+* José Proença (University of Porto, Portugal)
 * Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
 * Barbara Re (University of Camerino, Italy)
 * Marjan Sirjani (Mälardalen University, Sweden)
@@ -176,7 +176,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Antónia Lopes (University of Lisbon, Portugal)
 * Michele Loreti (Università di Camerino, Italy)
 * Mieke Massink (ISTI-CNR, Pisa, Italy) - chair
-* José Proença (CISTER, ISEP, Portugal)
+* José Proença (University of Porto, Portugal)
 * Rosario Pugliese (Università di Firenze, Italy)
 * Marjan Sirjani (Mälardalen University, Sweden)
 * Carolyn Talcott (SRI International, California, USA)
