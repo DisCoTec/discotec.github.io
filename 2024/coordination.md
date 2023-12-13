@@ -83,8 +83,8 @@ The conference proceedings, consisting of accepted submissions from any paper ca
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
 ### Special issues
-After the conference, accepted papers (except for tool papers) selected from COORDINATION and FORTE programmes will be invited to a special issue of the [Logical Methods in Computer Science](https://lmcs.episciences.org) journal. The paper submission deadline is planned for October/November 2024, while the notifications for the first round of reviews around February 2025. 
-Selected accepted tool papers, instead, will be invited to a special issue of a reputable journal with a track dedicated to software, like the Journal of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming).
+After the conference, selected papers from COORDINATION and FORTE programmes (except for tool papers) will be invited to a special issue of the [Logical Methods in Computer Science](https://lmcs.episciences.org) journal. The paper submission deadline is planned for October/November 2024, and the notifications for the first round of reviews around February 2025. 
+Selected tool papers, instead, will be invited to a special issue of a reputable journal with a track dedicated to software, like the Journal of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming).
 
 ### Proceedings and Special Issues from Previous Editions
 **Proceedings**
