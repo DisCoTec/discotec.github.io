@@ -172,6 +172,7 @@ Based on the result of the evaluation, the paper may be awarded with badges. Art
 * Nuno Neto, University of Porto, Portugal
 * Christian Berger, University of Passau, Germany
 * Lamir Shkurti, South East European University, North Macedonia
+* Bijun Li, Hainan Normal University, China
 
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands
