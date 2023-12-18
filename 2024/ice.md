@@ -7,27 +7,12 @@ Interaction and Concurrency Experiences (ICE) is a series of international scien
 
 ICE 2024 is a satellite workshop of [DisCoTec 2024](https://www.discotec.org/2024/), held on Friday 21th June 2024 at the [University of Groningen](https://www.rug.nl/) in Groningen, The Netherlands.
 
-<!--
-
-
-**COVID-19:** ICE 2023 will be a physical, in-person event, with some support for remote presence, both for speakers and for other participants who are unable or unwilling to come.
-
-**ICE 2023 Dinner**: 17 June, **21:30 at [Mara Meo](https://g.page/Mara-Meo-SanFrancesco)** - Piazza San Francesco, Lucca.
-_(If you wish to join but have not filled the attendance sheet, please contact `ice (at) framalistes.org`)_
-
-See the [**ICE 2023 programme and pre-proceedings**](#programme), and [proceedings](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022).
--->
-
 ## Highlights
 
 - Distinctive selection procedure
 - ICE welcomes full papers to be included in the proceedings
 - ICE also welcomes oral communications of already published or preliminary work
 - Invited speakers to be confirmed.
-<!--
-  - [Carla Ferreira](#carla-ferreira) (NOVA Laboratory for Computer Science and Informatics, NOVA University of Lisbon)
-  - [Adrian Francalanza](#adrian-francalanza) (Faculty of ICT, University of Malta)
--->
 - Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/) _(to be confirmed)_
 - Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
 - Contact: `ice (at) framalistes.org`
@@ -50,81 +35,6 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - Coinductive techniques
 - Tools and techniques for automation
 - Synthesis techniques
-
-<!--
-## Accepted Papers
-
-- *Research Challenges in Orchestration Synthesis* by Davide Basile and Maurice H ter Beek
-- *Partially Typed Multiparty Sessions* by Franco Barbanera and Mariangiola Dezani-Ciancaglini
-- *Algebraic Reasoning About Timeliness* by Seyed Hossein Haeri, Peter Van Roy, Peter Thompson, Magne Haveraaen, Neil Davies, Mikhail Barash,  Kevin Hammond and James Chapman
-- *Branching pomsets and event structures (Oral Communication)* by Luc Edixhoven, Sung-Shik Jongmans, José Proença and Ilaria Castellani
-- *On the Introduction of Guarded Lists in Bach: Expressiveness, Correctness, and Efficiency Issues* by Manel Barkallah and Jean-Marie Jacquet
-- *Proofs about Network Communication: For Humans and Machines* by Wolfgang Jeltsch and Javier Díaz
-- *Revisiting Benchmarking for Concurrent Runtime Verification (Oral Communication)* by Duncan Paul Attard
-- *Comprehensive Specification and Formal Analysis of Attestation Mechanisms in Confidential Computing (Oral Communication)* by Muhammad Usama Sardar, Thomas Fossati and Simon Frost
-- *Type qualifier inference and code synthesis for a better data-centric synchronisation experience (Oral Communication)* by Ana Almeida Matos, António Ravara, Hervé Paulino, Jan Cederquist, João Matos and Marco Giunti
-
-## Programme and Pre-proceedings  {#programme} 
-
-You can download the [**ICE 2023 pre-proceedings**](ice_2023_preproceedings.pdf), and the slides or presentation below by clicking on the talk title.
-
-The proceedings are also [available as EPTCS 383](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2023).
--->
-
-<!-- 
-The proceedings are also [available as EPTCS 365](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022).
--->
-<!--
-The talks will take place at **Room 219 at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt)**.
-
-*All times are listed for* [**WEST** *(Western European Summer Time)*](https://time.is/WEST)
-
-
-| Time WEST   | Session | Talk |
-| ------------| ------- | ---- |
-| 9:00-9:10   | Opening | _Welcome to ICE 2023_ |
-| **9:10-10:10**  | **Invited talk** | [Carla Ferreira](#carla-ferreira) |
-| 10:10-10:40 | Co-ordination (Chair: Simon Fowler) | _Type qualifier inference and code synthesis for a better data-centric synchronisation experience_  (Oral Communication) (Ana Almeida Matos, António Ravara, Hervé Paulino, Jan Cederquist, João Matos and Marco Giunti) |
-| 10:40-11:10 |              | [_Research Challenges in Orchestration Synthesis_](https://youtu.be/c1wcA9kBfDY) (Davide Basile and Maurice H ter Beek)
-| **11:10-11:30** | **Coffee break** | |
-| 11:30-12:00 | Semantics (Chair: Davide Basile) | [_Branching pomsets and event structures_](ice_slides/Branching_pomsets.pdf) (Oral Communication) (Luc Edixhoven, Sung-Shik Jongmans, José Proença and Ilaria Castellani) |
-| 12:00-12:30 | | [_Algebraic Reasoning About Timeliness_](ice_slides/Algebraic_Reasoning_About_Timeliness.pdf) (Seyed Hossein Haeri, Peter Van Roy, Peter Thompson, Magne Haveraaen, Neil Davies, Mikhail Barash, Kevin Hammond and James Chapman) |
-| 12:30-13:00 | | [_On the Introduction of Guarded Lists in Bach: Expressiveness, Correctness, and Efficiency Issues_](ice_slides/On_the_Introduction_of_Guarded_Lists_in_Bach.pdf) (Manel Barkallah and Jean-Marie Jacquet) |
-| **13:00-14:30** | **Lunch break** | |
-| **14:30-15:30** | **Invited talk** | [Adrian Francalanza](#adrian-francalanza) |
-| 15:30-16:00 | Runtime Verification (Chair: Simon Fowler) | [_Revisiting Benchmarking for Concurrent Runtime Verification_](ice_slides/Revisiting_Benchmarking.pdf) (Oral Communication) (Duncan Paul Attard) |
-| **16:00-16:30** | **Coffee break** | |
-| 16:30-17:00 | Confidentiality & Communication (Chair: Duncan Paul Attard) | [_Comprehensive Specification and Formal Analysis of Attestation Mechanisms in Confidential Computing_ (Oral Communication)](ice_slides/Confidential_Computing.pdf) (Muhammad Usama Sardar, Thomas Fossati and Simon Frost) |
-| 17:00-17:30 | | [_Partially Typed Multiparty Sessions_](ice_slides/Partially_Typed_Multiparty_Sessions.pdf) (Franco Barbanera and Mariangiola Dezani-Ciancaglini) |
-| 17:30-18:00 | | [_Proofs about Network Communication: For Humans and Machines_](ice_slides/Proofs_about_Network_Communication.pdf) (Wolfgang Jeltsch and Javier Díaz) |
-| **19.00-20.00** | **Welcome reception** | 
-
-## Invited Speakers 
-
-### Carla Ferreira
-
-#### Talk: Techniques for safe and highly available cloud applications
-
-> Cloud applications provide increasingly complex services on a global scale. To achieve the quality of service demanded by users, a common technique is to maintain copies of the application's shared data across geographically dispersed locations closer to end users.
-> To this end, it has become increasingly popular to develop applications that rely on weak consistency models where operations requested by a client are executed locally without any coordination with other replicas and immediately returned to the client. These operations are later propagated in the background, leading to different replicas' execution orders and, potentially, divergent replica states.
-> Replicated Data Types (RDTs) that resemble sequential data types (e.g. sets, maps) guarantee convergence by design by providing efficient and deterministic data reconciliation solutions. However, designing new RDTs is challenging. In fact, even experienced researchers may miss subtle corner cases when designing RDTs for simple data structures. In this talk, I will discuss techniques for checking the correctness of RDTs and deriving correct-by-construction RDTs.
-
-#### Biography
-
-[Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/) is an Associate Professor at [Computer Science Department](https://www.di.fct.unl.pt/) of the [NOVA University of Lisbon](https://www.fct.unl.pt/), and a researcher at [NOVA LINCS](https://nova-lincs.di.fct.unl.pt/). Her research focuses on developing formal calculi, techniques, and tools to express and reason about concurrent and distributed systems with the ultimate goal of helping programmers build trustworthy and efficient systems. Currently, she leads the [TaRDIS project](https://www.project-tardis.eu/), a Horizon Europe project centered around the correct and efficient development of applications for swarms and decentralized distributed systems.
-
-### Adrian Francalanza
-
-#### Talk: If At First You Don’t Succeed: Extended Monitorability through Multiple Executions
-
-> In this talk I will discuss recent work on investigating the increase in observational capabilities of monitors that analyse systems over multiple runs. I will illustrate how this augmented monitoring setup can affect the class of properties that can be verified at runtime focussing, in particular, on branching-time properties expressed in the modal mu-calculus. Although branching-time properties are considered  to be preserve of static verification techniques such as model-checking, our preliminary results show that the extended monitoring setup can be used to systematically extend previously established monitorability limits. If time permits, I will also discuss bounds that capture the correspondence between the syntactic structure of a branching-time property and the number of system runs required to conduct adequate runtime verification.  
-> This is joint work with Antonis Achilleos and Jasmine Xuereb.
-
-#### Biography
-
-[Adrian Francalanza](https://staff.um.edu.mt/afra1/) is a full professor at the University of Malta.  His area of expertise covers both static and runtime verification, applied to behavioural models and languages for concurrency and distributed computation.
-He currently leads [BehAPI: Behavioural APIs](https://www.um.edu.mt/projects/behapi/), an H2020 RISE project on behavioural theories for API-based software, and participates on a RANNIS project called [MoVeMnt](http://icetcs.ru.is/movemnt/) which aims to extend the theory and capabilities of runtime verification. 
--->
 
 ## Important Dates
 
@@ -209,14 +119,6 @@ Felix | Stutz | <https://fstutz.pages.mpi-sws.org/felix-stutz/> | Max Planck Ins
 Lorenzo | Gheri | <https://sites.google.com/view/lorgheri/home> | University of Liverpool 
 Andreia | Mordido | <https://www.di.fc.ul.pt/~amordido/> |  LASIGE, University of Lisbon 
 
-<!--
-Michael | Lienhardt | <http://gzoumix.wikidot.com/> | 
-Rumyana | Neykova | <https://www.brunel.ac.uk/people/rumyana-neykova> | <rumyana.neykova@brunel.ac.uk>
--->
-
-<!--
-★ **The _ICE 2023 Outstanding PC Member Award_ was awarded to [Sergueï Lenglet](https://members.loria.fr/SLenglet/)!**
--->
 ## Steering Committee
 
 - [Massimo Bartoletti](https://tcs.unica.it/members/bart) (University of Cagliari, IT)
@@ -252,21 +154,3 @@ The previous editions of ICE have been held on:
 ## More Information
 
 For additional information, please [contact the ICEcreamers](#icecreamers) at `ice (at) framalistes.org`.
-
-<!--
-## Sponsors
-
-ICE acknowledges the generous support of [EAPLS](https://eapls.org/) through its [support for workshops](https://eapls.org/pages/workshop_support/) initiative.  
-
-<a href="https://www.ifip.org">
-  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" width="250px">
-</a>
-&nbsp;   &nbsp;   &nbsp;   &nbsp;
-<a href="https://eapls.org">
-<img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" width="250px">
-</a>
-&nbsp;   &nbsp;   &nbsp;   &nbsp;
-<a href="http://rug.nl/fse/">
-<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/logo-faculteiten/eng-logo/horizontal/rood/png/rugr_fse_logoen_rood_rgb.png" width="400px">
-</a>
--->
