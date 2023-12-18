@@ -76,7 +76,7 @@ We invite two types of submissions:
 
 Authors of research papers must omit their names and institutions from the title page, they should refer to their other work in the third person and omit acknowledgements that could reveal their identity or affiliation. The purpose is to avoid any bias based on authors' identity characteristics, such as gender, seniority, or nationality, in the review process. Our goal is to facilitate an unbiased approach to reviewing by supporting reviewers' access to works that do not carry obvious references to the authors' identities. As mentioned above, this is a lightweight double-blind process. Anonymization should not be a heavy burden for authors, and should not make papers weaker or more difficult to review. Advertising the paper on alternate forums (e.g., on a personal web-page, pre-print archive, email, talks, discussions with colleagues) is permitted, and authors will not be penalized by for such advertisement.
 
-Papers in the "Oral communications" category need not be anonymized. For any questions concerning the double blind process, feel free to consult the ICEcreamers.
+Papers in the "Oral communications" category need not be anonymized. For any questions concerning the double blind process, feel free to [contact the ICEcreamers](#icecreamers).
 
 We are keen to enhance the balanced, inclusive and diverse nature of the ICE community, and would particularly encourage female colleagues and members of other underrepresented groups to submit their work.
 
@@ -94,13 +94,12 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 - [Clément Aubert](https://spots.augusta.edu/caubert/)  (Augusta University, USA) - `aubert (at) math.cnrs.fr`
 - [Cinzia Di Giusto](https://www.i3s.unice.fr/digiusto/node/1) (Université Côte d'Azur, CNRS, I3SSophia Antipolis, FR) - `cinzia.di-giusto (at) unice.fr`
-- [Violet Ka I Pun](https://violet.foldr.org/) (Western Norway University of Applied Sciences, NO) - `Violet.Ka.I.Pun (at) hvl.no`
 - [Simon Fowler](https://simonjf.com/) (University of Glasgow School of Computing Science, GB-SCT) - `simon.fowler (at) glasgow.ac.uk`
+- [Violet Ka I Pun](https://violet.foldr.org/) (Western Norway University of Applied Sciences, NO) - `Violet.Ka.I.Pun (at) hvl.no`
 
 Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ## Programme Committee {#programme-committee}
-
 
 - [Matthew Alan Le Brun](<https://matthewalanlebrun.github.io/>), University of Glasgow 
 - [Kirstin Peters](<https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/>), Augsburg University 
