@@ -4,8 +4,10 @@
 # ICE 2024 - 17th Interaction and Concurrency Experience
 
 Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. 
+
+ICE 2024 is a satellite workshop of [DisCoTec 2024](https://www.discotec.org/2024/), held on Friday 21th June 2024 at the [University of Groningen](https://www.rug.nl/) in Groningen, The Netherlands.
+
 <!--
-ICE 2023 is a satellite workshop of [DisCoTec 2023](https://www.discotec.org/2023/), held on Monday 19th June 2023 at the [NOVA University](https://www.unl.pt/en) in Lisbon, Portugal.
 
 
 **COVID-19:** ICE 2023 will be a physical, in-person event, with some support for remote presence, both for speakers and for other participants who are unable or unwilling to come.
@@ -21,10 +23,12 @@ See the [**ICE 2023 programme and pre-proceedings**](#programme), and [proceedin
 - Distinctive selection procedure
 - ICE welcomes full papers to be included in the proceedings
 - ICE also welcomes oral communications of already published or preliminary work
-- Invited speakers:
-    - [Carla Ferreira](#carla-ferreira) (NOVA Laboratory for Computer Science and Informatics, NOVA University of Lisbon)
-    - [Adrian Francalanza](#adrian-francalanza) (Faculty of ICT, University of Malta)
-- Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/) as [EPTCS 383](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2023)
+- Invited speakers to be confirmed.
+<!--
+  - [Carla Ferreira](#carla-ferreira) (NOVA Laboratory for Computer Science and Informatics, NOVA University of Lisbon)
+  - [Adrian Francalanza](#adrian-francalanza) (Faculty of ICT, University of Malta)
+-->
+- Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/) _(to be confirmed)_
 - Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
 - Contact: `ice (at) framalistes.org`
 
@@ -47,6 +51,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - Tools and techniques for automation
 - Synthesis techniques
 
+<!--
 ## Accepted Papers
 
 - *Research Challenges in Orchestration Synthesis* by Davide Basile and Maurice H ter Beek
@@ -64,11 +69,12 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 You can download the [**ICE 2023 pre-proceedings**](ice_2023_preproceedings.pdf), and the slides or presentation below by clicking on the talk title.
 
 The proceedings are also [available as EPTCS 383](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2023).
-
+-->
 
 <!-- 
 The proceedings are also [available as EPTCS 365](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022).
 -->
+<!--
 The talks will take place at **Room 219 at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt)**.
 
 *All times are listed for* [**WEST** *(Western European Summer Time)*](https://time.is/WEST)
@@ -118,17 +124,21 @@ The talks will take place at **Room 219 at [Colégio Almada Negreiros](https://g
 
 [Adrian Francalanza](https://staff.um.edu.mt/afra1/) is a full professor at the University of Malta.  His area of expertise covers both static and runtime verification, applied to behavioural models and languages for concurrency and distributed computation.
 He currently leads [BehAPI: Behavioural APIs](https://www.um.edu.mt/projects/behapi/), an H2020 RISE project on behavioural theories for API-based software, and participates on a RANNIS project called [MoVeMnt](http://icetcs.ru.is/movemnt/) which aims to extend the theory and capabilities of runtime verification. 
-
+-->
 
 ## Important Dates
 
 The following dates are in the [Anywhere on Earth time zone](https://time.is/Anywhere_on_Earth).
 
-- 2̶7̶t̶h̶ ̶M̶a̶r̶c̶h̶ ̶2̶0̶2̶3̶ 13 April 2023: abstract submission
-- 3̶r̶d̶ ̶A̶p̶r̶i̶l̶ ̶2̶0̶2̶3̶ 13 April 2023: paper submission
-- 8 May 2023: notification
-- June 19: ICE workshop
-- 20 July 2023: camera-ready for EPTCS post-proceedings
+- 27th March, 2024: 1st abstract submission deadline
+- 3rd April, 2024: 1st paper submission deadline
+- 12nd April, 2024: 2nd paper submission deadline (no abstract needed)
+- April 3rd -- May 1st, 2024: Forum interaction, reviews, and PC discussion
+- May 8th, 2024: Notification to authors
+- June 21st 2024: Workshop in Groningen, The Netherlands
+- 20th July, 2024: Camera-ready for post-proceedings
+
+All deadlines are firm.
 
 
 ## The ICE Selection Procedure
@@ -141,10 +151,12 @@ As witnessed by the past editions of ICE, this procedure considerably improves t
 
 ICE adopts a light double-blind reviewing process, [detailed below](#submission-guidelines).
 
+This year, ICE implements a two-round paper submission procedure, with the understanding that all deadlines are now firm, and that papers submitted during the second round will have less time for discussion and feedback.
+
 
 ## Submission Guidelines
 
-Submissions must be made electronically in PDF format via [OpenReview](https://openreview.net/group?id=DisCoTec.org/2023/Workshop/ICE).
+Submissions must be made electronically in PDF format via [hotcrp](https://ice24.hotcrp.com/).
 
 We invite two types of submissions:
 
@@ -163,7 +175,7 @@ We are keen to enhance the balanced, inclusive and diverse nature of the ICE com
 
 Accepted research papers and communications must be presented at the workshop by one of the authors.
 
-Accepted research papers will be published after the workshop in [Electronic Proceedings in Theoretical Computer Science](http://about.eptcs.org/).
+Accepted research papers will be published after the workshop in [Electronic Proceedings in Theoretical Computer Science](http://about.eptcs.org/) _(to be confirmed)_.
 
 We plan to invite authors of selected papers and brief announcements to submit their work in a special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_. Such contributions will be regularly peer-reviewed according to the standard journal policy, but they will be handled in a shorter time than regular submissions. A list of published and in preparation special issues of previous ICE editions is reported below.
 
@@ -179,28 +191,32 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ## Programme Committee {#programme-committee}
 
-- [Duncan Paul Attard](https://duncanatt.github.io/) (University of Glasgow School of Computing Science, GB-SCT) 
-- [Massimo Bartoletti](https://tcs.unica.it/members/bart) (Università di Cagliari, IT) 
-- [Davide Basile](https://davidebasile.github.io/) (ISTI CNR, IT) 
-- [Hélène Coullon](https://helene-coullon.fr/) (IMT Atlantique, FR) 
-- [Jovana Dedeić](http://imft.ftn.uns.ac.rs/math/People/JovanaRadenovi%C4%87) (Faculty of Technical Sciences, University of Novi Sad, RS) 
-- [Luc Edixhoven](https://www.cwi.nl/people/luc-edixhoven) (Open University of the Netherlands, NL) 
-- [Saverio Giallorenzo](https://www.saveriogiallorenzo.com/) (University of Bologna, IT) 
-- [Keigo Imai](https://keigoimai.info/) (Gifu University, JP) 
-- [Sung-Shik Jongmans](https://sungshik.github.io/) (Open University of the Netherlands, NL) 
-- [Eduard Kamburjan](https://www.mn.uio.no/ifi/english/people/aca/eduard/) (University of Oslo, NO) 
-- **[Sergueï Lenglet](https://members.loria.fr/SLenglet/)  (Université de Lorraine, FR)** ★
-- [Diego Marmsoler](https://marmsoler.com/) (University of Exeter, GB) 
-- [Anastasia Mavridou](http://amavridou.com/) (NASA Ames, USA) 
-- [Doriana Medić](https://alpha.di.unito.it/doriana-medic/) (University of Turin, IT) 
-- [Ivan Prokić](http://imft.ftn.uns.ac.rs/iprokic/Main) (Faculty of Technical Sciences, University of Novi Sad, RS) 
-- [Matteo Sammartino](https://matteosammartino.com/)  (Royal Holloway, University of London, GB) 
-- [Amrita Suresh](https://amritasuresh.github.io/) (University of Oxford UK) 
-- [Gerard Tabone](https://gerardtabone.com/) (University of Malta, MT) 
-- [Fangyi Zhou](http://www.doc.ic.ac.uk/~fz315/) (Imperial College London and University of Oxford, GB) 
+First | Last | Website | Institution 
+--- | --- | --- | --- | 
+Matthew Alan | Le Brun  | <https://matthewalanlebrun.github.io/> | University of Glasgow 
+Kirstin | Peters | <https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/> | Augsburg University 
+Carla | Ferreira | <http://ctp.di.fct.unl.pt/~cf/> | NOVA University Lisbon 
+Eva | Graversen | <https://portal.findresearcher.sdu.dk/en/persons/efgraversen> | University of Southern Denmark 
+Bas | van den Heuvel | <https://basvdheuvel.github.io/> | Karlsruhe University of Applied Sciences / University of Freiburg 
+Gerard | Tabone | <https://gerardtabone.com/> | University of Malta 
+Ping | Hou | <https://www.cs.ox.ac.uk/people/ping.hou/> | University of Oxford 
+Sergueï | Lenglet | <https://members.loria.fr/SLenglet/>  | Université de Lorraine - Université Sorbonne Paris-Nord 
+Emanuele | D'Osualdo | <https://www.emanueledosualdo.com/> | Max Planck Institute for Software Systems 
+Seyed Hossein | Haeri | <https://scholar.google.co.uk/citations?user=61frEtoAAAAJ&hl=en> | IOG & University of Bergen 
+Ivan | Prokić | <http://imft.ftn.uns.ac.rs/~iprokic/Main> |  Faculty of Technical Sciences, University of Novi Sad 
+Luc | Edixhoven | <https://research.ou.nl/en/persons/luc-edixhoven> | Open University of the Netherlands 
+Felix | Stutz | <https://fstutz.pages.mpi-sws.org/felix-stutz/> | Max Planck Institute for Software Systems
+Lorenzo | Gheri | <https://sites.google.com/view/lorgheri/home> | University of Liverpool 
+Andreia | Mordido | <https://www.di.fc.ul.pt/~amordido/> |  LASIGE, University of Lisbon 
 
+<!--
+Michael | Lienhardt | <http://gzoumix.wikidot.com/> | 
+Rumyana | Neykova | <https://www.brunel.ac.uk/people/rumyana-neykova> | <rumyana.neykova@brunel.ac.uk>
+-->
+
+<!--
 ★ **The _ICE 2023 Outstanding PC Member Award_ was awarded to [Sergueï Lenglet](https://members.loria.fr/SLenglet/)!**
-
+-->
 ## Steering Committee
 
 - [Massimo Bartoletti](https://tcs.unica.it/members/bart) (University of Cagliari, IT)
@@ -215,6 +231,7 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
 The previous editions of ICE have been held on:
 
+- [ICE'23](https://www.discotec.org/2023/ice), June 19, 2023 in Lisbon, Portugal, co-located with [DisCoTec'23](https://www.discotec.org/2023/). The post-proceedings were published in [EPTCS (vol. 383)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2023) and selected papers will appeared in a special issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/).
 - [ICE'22](https://www.discotec.org/2022/ice), June 17, 2022 in Lucca, Italy, co-located with [DisCoTec'22](https://www.discotec.org/2022/). The post-proceedings were published in [EPTCS (vol. 365)](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022) and selected papers appeared in a special issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/10NR188XZQV).
 - [ICE'21](http://www.discotec.org/2021/ice), June 18, 2020, online event co-located with [DisCoTec'21](https://www.discotec.org/2021/). The post-proceedings were published in [EPTCS (vol. 347)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2021) and selected papers appeared in a special issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/106L7VVC5FC).
 - [ICE'20](http://www.discotec.org/2020/ice), June 19, 2020, online event co-located with [DisCoTec'20](https://www.discotec.org/2020/). The post-proceedings were published in [EPTCS (vol. 324)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2020) and two papers appeared in JLAMP ([10.1016/j.jlamp.2021.100712](https://doi.org/10.1016/j.jlamp.2021.100712) and [10.1016/j.jlamp.2022.100776](https://doi.org/10.1016/j.jlamp.2022.100776)).
@@ -236,6 +253,7 @@ The previous editions of ICE have been held on:
 
 For additional information, please [contact the ICEcreamers](#icecreamers) at `ice (at) framalistes.org`.
 
+<!--
 ## Sponsors
 
 ICE acknowledges the generous support of [EAPLS](https://eapls.org/) through its [support for workshops](https://eapls.org/pages/workshop_support/) initiative.  
@@ -251,3 +269,4 @@ ICE acknowledges the generous support of [EAPLS](https://eapls.org/) through its
 <a href="http://rug.nl/fse/">
 <img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/logo-faculteiten/eng-logo/horizontal/rood/png/rugr_fse_logoen_rood_rgb.png" width="400px">
 </a>
+-->
