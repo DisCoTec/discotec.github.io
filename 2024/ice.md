@@ -101,23 +101,22 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ## Programme Committee {#programme-committee}
 
-First | Last | Website | Institution 
---- | --- | --- | --- | 
-Matthew Alan | Le Brun  | <https://matthewalanlebrun.github.io/> | University of Glasgow 
-Kirstin | Peters | <https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/> | Augsburg University 
-Carla | Ferreira | <http://ctp.di.fct.unl.pt/~cf/> | NOVA University Lisbon 
-Eva | Graversen | <https://portal.findresearcher.sdu.dk/en/persons/efgraversen> | University of Southern Denmark 
-Bas | van den Heuvel | <https://basvdheuvel.github.io/> | Karlsruhe University of Applied Sciences / University of Freiburg 
-Gerard | Tabone | <https://gerardtabone.com/> | University of Malta 
-Ping | Hou | <https://www.cs.ox.ac.uk/people/ping.hou/> | University of Oxford 
-Sergueï | Lenglet | <https://members.loria.fr/SLenglet/>  | Université de Lorraine - Université Sorbonne Paris-Nord 
-Emanuele | D'Osualdo | <https://www.emanueledosualdo.com/> | Max Planck Institute for Software Systems 
-Seyed Hossein | Haeri | <https://scholar.google.co.uk/citations?user=61frEtoAAAAJ&hl=en> | IOG & University of Bergen 
-Ivan | Prokić | <http://imft.ftn.uns.ac.rs/~iprokic/Main> |  Faculty of Technical Sciences, University of Novi Sad 
-Luc | Edixhoven | <https://research.ou.nl/en/persons/luc-edixhoven> | Open University of the Netherlands 
-Felix | Stutz | <https://fstutz.pages.mpi-sws.org/felix-stutz/> | Max Planck Institute for Software Systems
-Lorenzo | Gheri | <https://sites.google.com/view/lorgheri/home> | University of Liverpool 
-Andreia | Mordido | <https://www.di.fc.ul.pt/~amordido/> |  LASIGE, University of Lisbon 
+
+- [Matthew Alan Le Brun ](<https://matthewalanlebrun.github.io/>), University of Glasgow 
+- [Kirstin Peters](<https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/>), Augsburg University 
+- [Carla Ferreira](<http://ctp.di.fct.unl.pt/~cf/>), NOVA University Lisbon 
+- [Eva Graversen](<https://portal.findresearcher.sdu.dk/en/persons/efgraversen>), University of Southern Denmark 
+- [Bas van den Heuvel](<https://basvdheuvel.github.io/>), Karlsruhe University of Applied Sciences / University of Freiburg 
+- [Gerard Tabone](<https://gerardtabone.com/>), University of Malta 
+- [Ping Hou](<https://www.cs.ox.ac.uk/people/ping.hou/>), University of Oxford 
+- [Sergueï Lenglet](<https://members.loria.fr/SLenglet/> ), Université de Lorraine - Université Sorbonne Paris-Nord 
+- [Emanuele D'Osualdo](<https://www.emanueledosualdo.com/>), Max Planck Institute for Software Systems 
+- [Seyed Hossein Haeri](<https://scholar.google.co.uk/citations?user=61frEtoAAAAJ&hl=en>), IOG & University of Bergen 
+- [Ivan Prokić](<http://imft.ftn.uns.ac.rs/~iprokic/Main>),  Faculty of Technical Sciences, University of Novi Sad 
+- [Luc Edixhoven](<https://research.ou.nl/en/persons/luc-edixhoven>), Open University of the Netherlands 
+- [Felix Stutz](<https://fstutz.pages.mpi-sws.org/felix-stutz/>), Max Planck Institute for Software Systems
+- [Lorenzo Gheri](<https://sites.google.com/view/lorgheri/home>), University of Liverpool 
+- [Andreia Mordido](<https://www.di.fc.ul.pt/~amordido/>),  LASIGE, University of Lisbon 
 
 ## Steering Committee
 
