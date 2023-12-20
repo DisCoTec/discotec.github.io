@@ -107,11 +107,17 @@ Go to the [registration page](https://www.discotec.org/2023/registration).
 -->
 
 ## Satellite Events
-DisCoTec 2024 will include tutorials and workshops on a broad spectrum of distributed computing subjects.
+DisCoTec 2024 will include *tutorials and workshops* on a broad spectrum of distributed computing subjects.
 
 Satellite events will take place on Monday, June 17, 2024, and on Friday, June 21, 2024.
 
+### Call for Satellite Events 
 A **call for workshops/tutorials** will be announced soon.
+
+### Confirmed Satellite Events
+* [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience (June 21, 2024)
+* PLNL 2024: The Fourth VERSEN Workshop on Programming Languages in The Netherlands (date TBD)
+
 
 <!--
 The pre-conference workshop and tutorials will take place on Monday, June 19, 2023, and post-conference tutorials on Friday, June 23, 2023.
