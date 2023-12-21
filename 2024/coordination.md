@@ -101,9 +101,9 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 * Selected Papers of Coordination 2021, Special Issue of Logical Methods in Computer Science, edited by Ferruccio Damiani and Ornela Dardha. Available at: [https://lmcs.episciences.org/volume/view/id/449](https://lmcs.episciences.org/volume/view/id/449)
 
-* Selected Tool Papers of Coordination 2020 and Coordination 2021, Special Issue of Science of Computer Programming, edited by Hugo Vieira, Omar Inverso and Giorgio Audrito. To appear.
+* Selected Tool Papers of Coordination 2020 and Coordination 2021, Special Issue of Science of Computer Programming, edited by Hugo Vieira, Omar Inverso and Giorgio Audrito. Available at: [https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/1046VCJSPCD](https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/1046VCJSPCD)
 
-* Selected Papers of Coordination 2022, Special Issue of Logical Methods in Computer Science, edited by Maurice ter Beek and Marjan Sirjani. In preparation.
+* Selected Papers of Coordination 2022, Special Issue of Logical Methods in Computer Science, edited by Maurice ter Beek and Marjan Sirjani. Available at: [https://lmcs.episciences.org/volume/view/id/654](https://lmcs.episciences.org/volume/view/id/654)
 
 * Selected Software Artefacts from the Papers of DisCoTec 2022 - 18th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming, edited by Ferruccio Damiani, David Eyers and Anna Philippou. In preparation.
 
