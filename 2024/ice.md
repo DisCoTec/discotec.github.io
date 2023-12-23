@@ -38,17 +38,16 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 ## Important Dates
 
-The following dates are in the [Anywhere on Earth time zone](https://time.is/Anywhere_on_Earth).
-
-- 27th March, 2024: 1st abstract submission deadline
-- 3rd April, 2024: 1st paper submission deadline
-- 12nd April, 2024: 2nd paper submission deadline (no abstract needed)
+- March 27th, 2024: 1st abstract submission deadline
+- April 3rd, 2024: 1st paper submission deadline
+- April 12nd, 2024: 2nd paper submission deadline (no abstract needed)
 - April 3rd -- May 1st, 2024: Forum interaction, reviews, and PC discussion
 - May 8th, 2024: Notification to authors
 - June 21st 2024: Workshop in Groningen, The Netherlands
-- 20th July, 2024: Camera-ready for post-proceedings
+- July 20th, 2024: Camera-ready for post-proceedings
+- October, 2024 (tentative): Invitation to special issue
 
-All deadlines are firm.
+All dates are in the [Anywhere on Earth time zone](https://time.is/Anywhere_on_Earth), and deadlines are firm.
 
 
 ## The ICE Selection Procedure
@@ -72,7 +71,7 @@ We invite two types of submissions:
 
 * **Research papers**, original contributions that will be published in the workshop post-proceedings. Research papers must not be simultaneously submitted to other conferences/workshops with refereed proceedings. Research papers should be 3-16 pages plus at most 2 pages of references. Short research papers are welcome; for example a 5 page short paper fits this category perfectly. The submitted PDF can use any LaTeX style (but the post-proceedings will use the [EPTCS style](http://style.eptcs.org/)).
 
-* **Oral communications** will be presented at the workshop, but will not appear in the post-proceedings. This type of contribution includes e.g.,  previously published contributions, preliminary work, and position papers. There is no strict page limit for this kind of submission but papers of 1-5 pages would be appreciated. For example, a one page summary of previously published work is welcome in this category.
+* **Oral communications** will be presented at the workshop, but will not appear in the post-proceedings. This type of contribution includes e.g., previously published contributions, preliminary work, and position papers. There is no strict page limit for this kind of submission but papers of 1-5 pages would be appreciated. For example, a one page summary of previously published work is welcome in this category.
 
 Authors of research papers must omit their names and institutions from the title page, they should refer to their other work in the third person and omit acknowledgements that could reveal their identity or affiliation. The purpose is to avoid any bias based on authors' identity characteristics, such as gender, seniority, or nationality, in the review process. Our goal is to facilitate an unbiased approach to reviewing by supporting reviewers' access to works that do not carry obvious references to the authors' identities. As mentioned above, this is a lightweight double-blind process. Anonymization should not be a heavy burden for authors, and should not make papers weaker or more difficult to review. Advertising the paper on alternate forums (e.g., on a personal web-page, pre-print archive, email, talks, discussions with colleagues) is permitted, and authors will not be penalized by for such advertisement.
 
@@ -101,21 +100,21 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ## Programme Committee {#programme-committee}
 
-- [Matthew Alan Le Brun](<https://matthewalanlebrun.github.io/>), University of Glasgow 
-- [Kirstin Peters](<https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/>), Augsburg University 
-- [Carla Ferreira](<http://ctp.di.fct.unl.pt/~cf/>), NOVA University Lisbon 
-- [Eva Graversen](<https://portal.findresearcher.sdu.dk/en/persons/efgraversen>), University of Southern Denmark 
-- [Bas van den Heuvel](<https://basvdheuvel.github.io/>), Karlsruhe University of Applied Sciences / University of Freiburg 
-- [Gerard Tabone](<https://gerardtabone.com/>), University of Malta 
-- [Ping Hou](<https://www.cs.ox.ac.uk/people/ping.hou/>), University of Oxford 
-- [Sergueï Lenglet](<https://members.loria.fr/SLenglet/>), Université de Lorraine - Université Sorbonne Paris-Nord 
-- [Emanuele D'Osualdo](<https://www.emanueledosualdo.com/>), Max Planck Institute for Software Systems 
-- [Seyed Hossein Haeri](<https://scholar.google.co.uk/citations?user=61frEtoAAAAJ&hl=en>), IOG & University of Bergen 
-- [Ivan Prokić](<http://imft.ftn.uns.ac.rs/~iprokic/Main>),  Faculty of Technical Sciences, University of Novi Sad 
-- [Luc Edixhoven](<https://research.ou.nl/en/persons/luc-edixhoven>), Open University of the Netherlands 
-- [Felix Stutz](<https://fstutz.pages.mpi-sws.org/felix-stutz/>), Max Planck Institute for Software Systems
-- [Lorenzo Gheri](<https://sites.google.com/view/lorgheri/home>), University of Liverpool 
-- [Andreia Mordido](<https://www.di.fc.ul.pt/~amordido/>),  LASIGE, University of Lisbon 
+- [Matthew Alan Le Brun](https://matthewalanlebrun.github.io/), University of Glasgow 
+- [Kirstin Peters](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/), Augsburg University 
+- [Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/), NOVA University Lisbon 
+- [Eva Graversen](https://portal.findresearcher.sdu.dk/en/persons/efgraversen), University of Southern Denmark 
+- [Bas van den Heuvel](https://basvdheuvel.github.io/), Karlsruhe University of Applied Sciences / University of Freiburg 
+- [Gerard Tabone](https://gerardtabone.com/), University of Malta 
+- [Ping Hou](https://www.cs.ox.ac.uk/people/ping.hou/), University of Oxford 
+- [Sergueï Lenglet](https://members.loria.fr/SLenglet/), Université de Lorraine - Université Sorbonne Paris-Nord 
+- [Emanuele D'Osualdo](https://www.emanueledosualdo.com/), Max Planck Institute for Software Systems 
+- [Seyed Hossein Haeri](https://scholar.google.co.uk/citations?user=61frEtoAAAAJ&hl=en), IOG & University of Bergen 
+- [Ivan Prokić](http://imft.ftn.uns.ac.rs/~iprokic/Main), Faculty of Technical Sciences, University of Novi Sad 
+- [Luc Edixhoven](https://research.ou.nl/en/persons/luc-edixhoven), Open University of the Netherlands 
+- [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/), Max Planck Institute for Software Systems
+- [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home), University of Liverpool 
+- [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/), LASIGE, University of Lisbon 
 
 ## Steering Committee
 
