@@ -155,7 +155,18 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * [Rumyana Neykova](https://www.brunel.ac.uk/people/rumyana-neykova) (Brunel University London, UK)
 
 ## Artefact Evaluation Committee
-* To be added
+* Nour Ali (Brunel University London, UK)
+* Tiago Cogumbreiro (UMass Boston, USA)
+* Arwa Hameed (University of Glasgow, UK)
+* Keigo Imai (DeNA, Japan)
+* Omar Inverso (Gran Sasso Science Institute, Italy)
+* Doriana Medic (University of Turin, Italy)
+* Mário Pereira (NOVA School of Science and Technology, Portugal)
+* Lorenzo Rossi (University of Camerino, Italy)
+* Cristina Seceleanu( Mälardalen University, Sweden)
+* Felix Stutz (MPI SWS, Germany)
+* Fangyi Zhou (Amazon, UK)
+* To be comlpeted
 
 ## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
