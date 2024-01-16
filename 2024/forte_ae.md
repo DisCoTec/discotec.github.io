@@ -19,7 +19,7 @@ Members of the artefact evaluation committee and the program committee are asked
 * Artefact notification: March 29, 2024
 
 ## Submission Guidelines
-Submission site: [https://easychair.org/conferences/?conf=forte2023](https://easychair.org/conferences/?conf=forte2024). Please select the “FORTE AEC 2024” track when making a new submission and use the same title (and pdf of the paper) as for the FORTE submission.
+Submission site: [https://easychair.org/conferences/?conf=forte2024](https://easychair.org/conferences/?conf=forte2024). Please select the “FORTE AEC 2024” track when making a new submission and use the same title (and pdf of the paper) as for the FORTE submission.
 
 A final artefact submission should consist of
 * an **abstract**
