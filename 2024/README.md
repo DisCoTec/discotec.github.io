@@ -107,12 +107,22 @@ Go to the [registration page](https://www.discotec.org/2023/registration).
 -->
 
 ## Satellite Events
+
 DisCoTec 2024 will include *tutorials and workshops* on a broad spectrum of distributed computing subjects.
 
 Satellite events will take place on Monday, June 17, 2024, and on Friday, June 21, 2024.
 
 ### Call for Satellite Events 
-A **call for workshops/tutorials** will be announced soon.
+
+Researchers and practitioners are invited to [submit proposals for satellite events (workshops and tutorials)](csep) to be affiliated to DisCoTec 2024.
+
+#### Important Dates
+
+* Proposal submission deadline:
+  Monday, February 12, 2024
+  (but we would like to hear about prospective proposals as soon as possible).
+* Notification of accepted satellite events:
+  Friday, March 1st, 2024.
 
 ### Confirmed Satellite Events
 * [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience (June 21, 2024)
