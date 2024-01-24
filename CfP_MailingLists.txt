@@ -5,90 +5,92 @@
 -: not possible
 ==============================
 
-!!cphc-conf@jiscmail.ac.uk
-!!fmics@inria.fr
-!!fmics@inrialpes.fr
-!!podc-related@acm.org
-!!podc-related@listserv.acm.org
+!!!cphc-conf@jiscmail.ac.uk
+!!!fmics@inria.fr
+!!!fmics@inrialpes.fr
+!!!podc-related@acm.org
+!!!podc-related@listserv.acm.org
 
-++announce@informatics-europe.org
-++bull-i3@irit.fr
-++concurrency@listserver.tue.nl
-++dbworld@cs.wisc.edu
-++distjisbd@lcc.uma.es
-++dmanet@zpr.uni-koeln.de (subscribe at https://www.zaik.uni-koeln.de/mailman/listinfo/dmanet)
-++eutypes@cs.ru.nl
-++facs-events@jiscmail.ac.uk
-+?fg-arc@lists.uni-paderborn.de
-++fmnet-request@jiscmail.ac.uk
-+!folli@folli.info (subscribe by sending email to folli-subscribe@folli.info; still blocked; accepted through institution email)
-+?gdr.gpl@imag.fr
-+?gratra@upb.de
-++hipeac.publicity@lists.ugent.be
-++hol-info@lists.sourceforge.net
-++ic.eatcs@di.unipi.it
-+!ipalist@listserver.tue.nl
-++it-fmeurope-events@lists.uu.se
-+?maude-users@cs.uiuc.edu
-++moca-announce@list.it.uu.se
-++nwpt-info@lists.ioc.ee
-++petrinet@informatik.uni-hamburg.de
-++procos-request@jiscmail.ac.uk
-++prog-lang@diku.dk
-++prog-lang@lists.cs.illinois.edu
-++protege-user@lists.stanford.edu
-++sal@csl.sri.com
-++tccc-announce@computer.org (subscribe at https://cs-tccc.org/membership/)
-++theory-a@listserv.nodak.edu
-+?theorynt@listserv.nodak.edu
+++ aisworld@lists.aisnet.org
++++announce@informatics-europe.org
++++bull-i3@irit.fr
++++concurrency@listserver.tue.nl
++++dbworld@cs.wisc.edu
++++distjisbd@lcc.uma.es
++++dmanet@zpr.uni-koeln.de (subscribe at https://www.zaik.uni-koeln.de/mailman/listinfo/dmanet)
++++facs-events@jiscmail.ac.uk
+++?fg-arc@lists.uni-paderborn.de
++++fmnet-request@jiscmail.ac.uk
++!!folli@folli.info (subscribe by sending email to folli-subscribe@folli.info; still blocked; accepted through institution email; 2nd time rejected but still got posted)
+++?gratra@upb.de
++++hipeac.publicity@lists.ugent.be
++++hol-info@lists.sourceforge.net
+++!ipalist@listserver.tue.nl
++++it-fmeurope-events@lists.uu.se
+++?maude-users@cs.uiuc.edu
++++moca-announce@list.it.uu.se
++++nwpt-info@lists.ioc.ee
++++petrinet@informatik.uni-hamburg.de
++++procos-request@jiscmail.ac.uk
++++prog-lang@diku.dk
++++prog-lang@lists.cs.illinois.edu
++++protege-user@lists.stanford.edu
++++theory-a@listserv.nodak.edu
+++?theorynt@listserv.nodak.edu
 
-??aila@unicam.it
-??announcements@lists.artist-embedded.org
-??bt-eu@dcs.gla.ac.uk
-??cabernet-events@jiscmail.ac.uk
-?+caml-list@inria.fr
-??categories@mta.ca
-?*cl-theory@lists.cam.ac.uk (subscribe at https://lists.cam.ac.uk/sympa/info/cl-theory; tried again with institution)
-??d-con@lists.rwth-aachen.de
-?+dl@dl.kr.org
-?+event@in.tu-clausthal.de
-??fm-announcements@lists.nasa.gov
-??fmindia@cmi.ac.in
-??fttc@dependability.org
-??grin-eventi-owner@grin-informatica.it
-??las-lics@lists.tu-berlin.de
-??lfcs-interest@dcs.ed.ac.uk
-??logic-list@helsinki.fi
-??logic.list@outlook.com
-??logic@cs.stanford.edu
-??logic@math.uni-bonn.de
-?!microservices-community@googlegroups.com (subscribe at https://groups.google.com/g/microservices-community and post there or mail)
-?*mycolleagues@mailman.ufsc.br (subscribe at https://mailman.ufsc.br/mailman/listinfo/mycolleagues)
-?+ppopp@infor.uva.es
-??pvs@csl.sri.com
-??tccc-announce@comsoc-listserv.ieee.org
-??theorem-provers@ai.mit.edu
-?*theory-logic@cs.cmu.edu (short version required)
-?*types@lists.chalmers.se (subscribe at https://lists.chalmers.se/mailman/listinfo/types)
-?!types-announce@lists.seas.upenn.edu
+???aila@unicam.it
+???announcements@lists.artist-embedded.org
+???bt-eu@dcs.gla.ac.uk
+???cabernet-events@jiscmail.ac.uk
+??+caml-list@inria.fr
+???categories@mta.ca
+??*cl-theory@lists.cam.ac.uk (subscribe at https://lists.cam.ac.uk/sympa/info/cl-theory; tried again with institution)
+???d-con@lists.rwth-aachen.de
+??+dl@dl.kr.org
+?!+eutypes@cs.ru.nl (post without other recipients; under moderation because >40KB; rejected because >40KB; rejected because BCC)
+??+event@in.tu-clausthal.de
+???fm-announcements@lists.nasa.gov
+???fmindia@cmi.ac.in
+???fttc@dependability.org
+?+?gdr.gpl@imag.fr
+?? gpce-news@cs.rice.edu
+???grin-eventi-owner@grin-informatica.it
+?++ic.eatcs@di.unipi.it
+???las-lics@lists.tu-berlin.de
+???lfcs-interest@dcs.ed.ac.uk
+???logic-list@helsinki.fi
+???logic.list@outlook.com
+???logic@cs.stanford.edu
+???logic@math.uni-bonn.de
+??!microservices-community@googlegroups.com (subscribe at https://groups.google.com/g/microservices-community and post there or mail)
+??*mycolleagues@mailman.ufsc.br (subscribe at https://mailman.ufsc.br/mailman/listinfo/mycolleagues)
+??+ppopp@infor.uva.es
+???pvs@csl.sri.com
+?++sal@csl.sri.com
+?++tccc-announce@computer.org (subscribe at https://cs-tccc.org/membership/)
+???theorem-provers@ai.mit.edu
+??*theory-logic@cs.cmu.edu (short version required)
+??*types@lists.chalmers.se (subscribe at https://lists.chalmers.se/mailman/listinfo/types)
+??!types-announce@lists.seas.upenn.edu
 
-*?seworld@sigsoft.org (subscribe; email sent about how)
-*+revcomp-list@jiscmail.ac.uk (subscribe at https://www.jiscmail.ac.uk/cgi-bin/WA-JISC.exe?OK=F85BE92C&L=REVCOMP-LIST; has to be accepted)
+ *?seworld@sigsoft.org (subscribe; email sent about how)
 
--*announcements@univ-grenoble-alpes.fr (subscribe, unclear how)
--caic1402arvi@isp.uni-luebeck.de (attempted to subscribe, doesn't exist...)
--complog@cs.nmsu.edu (no idea how to reach)
--coq-club@inria.fr (too large)
--ecoop-info@ecoop.org (doesn't seem to function anymore)
--FMxSOCandBPM@cs.unibo.it (subscribe at https://lists.cs.unibo.it/mailman3/postorius/lists/fmxsocandbpm.lists.cs.unibo.it/; still doesn't function)
--gdr.gpl@univ-grenoble-alpes.fr (subscribe at https://listes.univ-grenoble-alpes.fr/sympa/info/gdr.gpl; still blocked)
--hpc-announce@mcs.anl.gov (subscribe at https://lists.mcs.anl.gov/mailman/listinfo/hpc-announce; still blocked)
--*ifip@ifip.or.at (weird errors; tried again with institution)
--ifmsig@cs.tcd.ie (check https://www.scss.tcd.ie/Andrew.Butterfield/IFMSIG/IFMSIG.html how to subscribe; request blocked)
--papm@informatics.ed.ac.uk (not supposed to from outside)
--planetmde@univ-grenoble-alpes.fr (specifically for Model Driven Engineering)
--public-owl-dev@w3.org (inappropriate for list)
--?qest-announce@iti.uiuc.edu (delivery errors)
--*reflective-middleware@cs.uiuc.edu (too short version necessary: <=40kB)
--*rv@cs.uiuc.edu (subscribe at https://lists.cs.illinois.edu/lists/info/rv; still blocked; tried again with institution; still errors)
--*sbc-l@sbc.org.br (subscribe at https://grupos.ufrgs.br/mailman/listinfo/sbc-l; only for paid members)
+ -*announcements@univ-grenoble-alpes.fr (subscribe, unclear how)
+  -caic1402arvi@isp.uni-luebeck.de (attempted to subscribe, doesn't exist...)
+  -complog@cs.nmsu.edu (no idea how to reach)
+  -coq-club@inria.fr (too large)
+  -ecoop-info@ecoop.org (doesn't seem to function anymore)
+  -FMxSOCandBPM@cs.unibo.it (subscribe at https://lists.cs.unibo.it/mailman3/postorius/lists/fmxsocandbpm.lists.cs.unibo.it/; still doesn't function)
+  -gdr.gpl@univ-grenoble-alpes.fr (subscribe at https://listes.univ-grenoble-alpes.fr/sympa/info/gdr.gpl; still blocked)
+  -hpc-announce@mcs.anl.gov (subscribe at https://lists.mcs.anl.gov/mailman/listinfo/hpc-announce; still blocked)
+ -*ifip@ifip.or.at (weird errors; tried again with institution)
+  -ifmsig@cs.tcd.ie (check https://www.scss.tcd.ie/Andrew.Butterfield/IFMSIG/IFMSIG.html how to subscribe; request blocked)
+  -papm@informatics.ed.ac.uk (not supposed to from outside)
+  -planetmde@univ-grenoble-alpes.fr (specifically for Model Driven Engineering)
+  -public-owl-dev@w3.org (inappropriate for list)
+ -?qest-announce@iti.uiuc.edu (delivery errors)
+ -*reflective-middleware@cs.uiuc.edu (too short version necessary: <=40kB)
+-*+revcomp-list@jiscmail.ac.uk (subscribe at https://www.jiscmail.ac.uk/cgi-bin/WA-JISC.exe?OK=F85BE92C&L=REVCOMP-LIST; has to be accepted)
+ -*rv@cs.uiuc.edu (subscribe at https://lists.cs.illinois.edu/lists/info/rv; still blocked; tried again with institution; still errors)
+ -*sbc-l@sbc.org.br (subscribe at https://grupos.ufrgs.br/mailman/listinfo/sbc-l; only for paid members)
+-??tccc-announce@comsoc-listserv.ieee.org ("no such list")
