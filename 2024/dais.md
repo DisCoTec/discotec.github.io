@@ -52,9 +52,9 @@ System issues and design goals, including
 * [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, SA)
 
 ## Submission dates
-* Abstract submission: February 2, 2024
-* Paper submission: February 9, 2024
-* Paper notification: March 29, 2024
+* Abstract submission: ~~February 2, 2024~~ February 16, 2024
+* Paper submission: ~~February 9, 2024~~ February 23, 2024
+* Paper notification: ~~March 29, 2024~~ April 5, 2024
 * Camera-ready: April 28, 2024
 * DisCoTec conference:  June 17-21, 2024
 
