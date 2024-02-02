@@ -4,14 +4,14 @@
 
 DisCoTec is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS).
 
-DisCoTec 2024 will gather three main conferences (COORDINATION, DAIS, FORTE) that cover a broad spectrum of distributed computing subjects.
+[DisCoTec 2024](.) will gather three main conferences (COORDINATION, DAIS, FORTE) that cover a broad spectrum of distributed computing subjects.
 
 Researchers and practitioners are invited to submit proposals for satellite events (workshops and tutorials) to be affiliated to DisCoTec 2024.
 We welcome proposals on topics related to distributed systems: from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
 
 In the past, DisCoTec has been accompanied by successful workshops and tutorials on a variety of emerging topics in distributed computing; please browse the pages of previous editions of DisCoTec to have an idea of past satellite events.
 
-The satellite events (tutorials and workshops) will be held on Monday, June 17, 2024 and on Friday, June 21, 2024.
+The satellite events (tutorials and workshops) will be held on **Monday, June 17, 2024** and on **Friday, June 21, 2024**.
 
 ## Format for Proposals
 
@@ -27,7 +27,7 @@ Proposals of satellite events should include:
 
 ## What the DisCoTec 2024 Organization Offers
 
-* A link from the DisCoTec 2024 web site;
+* A link from the [DisCoTec 2024](.) web site;
 * Setup of meeting space and related equipment;
 * Coffee-breaks and lunch for the participants on the day of the satellite event;
 * On-line registration for participants to the satellite event;
