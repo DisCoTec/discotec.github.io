@@ -57,9 +57,9 @@ Please visit the page of each conference for details on these special issues.
 
 ## Important Dates (All Conferences)
 The following deadlines expire at 23:59 [anywhere on earth (AoE)](https://www.timeanddate.com/time/zones/aoe) on the dates listed below:
-* **Abstract submission:** February 2, 2024 
-* **Paper submission:** February 9, 2024
-* **Paper notification:** March 29, 2024
+* **Abstract submission:** ~~February 2, 2024~~ February 16, 2024 (Extended)
+* **Paper submission:** ~~February 9, 2024~~ February 23, 2024 (Extended)
+* **Paper notification:** ~~March 29, 2024~~ April 5, 2024 (Extended)
 * **Camera-ready:** April 24, 2024
 * **Conferences:** June 17-21, 2024
 
@@ -118,10 +118,10 @@ Researchers and practitioners are invited to [submit proposals for satellite eve
 
 #### Important Dates
 
-* Proposal submission deadline:
+* **Proposal submission deadline**:
   Monday, February 12, 2024
   (but we would like to hear about prospective proposals as soon as possible).
-* Notification of accepted satellite events:
+* **Notification of accepted satellite events**:
   Friday, March 1st, 2024.
 
 ### Confirmed Satellite Events
