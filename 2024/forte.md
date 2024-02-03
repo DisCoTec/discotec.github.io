@@ -44,9 +44,9 @@ The main topics of interest include:
 
 For papers:
 
-* Abstract submission: February 2, 2024
-* Paper submission: February 9, 2024
-* Paper notification: March 29, 2024
+* **Abstract submission:** ~~February 2, 2024~~ February 16, 2024 (Extended)
+* **Paper submission:** ~~February 9, 2024~~ February 23, 2024 (Extended)
+* **Paper notification:** ~~March 29, 2024~~ April 5, 2024 (Extended)
 * Camera-ready: April 24, 2024
 
 For artefacts:
