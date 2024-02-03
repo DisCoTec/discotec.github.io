@@ -35,10 +35,10 @@ Topics of interest encompass all areas of coordination, including (but not limit
 
 ## Submissions
 
-### Important dates
-* Abstract submission: February 02, 2024
-* Paper submission: February 09, 2024
-* Paper notification: March 29, 2024
+### Important dates (extended)
+* Abstract submission: ~~February 02, 2024~~  February 16, 2024
+* Paper submission: ~~February 09, 2024~~  February 23, 2024
+* Paper notification: ~~March 29, 2024~~  April 5, 2024
 * Camera-ready: April 24, 2024
 * Conference:  June 18-20, 2024
 
