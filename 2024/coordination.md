@@ -157,6 +157,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 ## Artefact Evaluation Committee
 * Nour Ali (Brunel University London, UK)
 * Tiago Cogumbreiro (UMass Boston, USA)
+* Saverio Giallorenzo (University of Bologna, Italy)
 * Arwa Hameed (University of Glasgow, UK)
 * Keigo Imai (DeNA, Japan)
 * Omar Inverso (Gran Sasso Science Institute, Italy)
@@ -166,7 +167,6 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Cristina Seceleanu( Mälardalen University, Sweden)
 * Felix Stutz (MPI SWS, Germany)
 * Fangyi Zhou (Amazon, UK)
-* To be comlpeted
 
 ## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
