@@ -93,12 +93,14 @@ The conference proceedings, formed by accepted submissions from __any__ category
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
 
-### Special Issue
-After the conference, accepted papers (except for tool papers) selected from FORTE and COORDINATION programmes will be invited to a special issue of the [Logical Methods in Computer Science](https://lmcs.episciences.org) journal, with the following tentative schedule:
+### Journal Special Issue
+After the conference, accepted papers (except for tool papers) selected from FORTE and COORDINATION programmes will be invited to a __journal special issue__ of the [Logical Methods in Computer Science](https://lmcs.episciences.org), with the following tentative schedule:
 * October/November 2024: deadline for the first submitted version;
 * February 2025: notification for the first round of reviews.
 
-Moreover, selected accepted tool papers, instead, will be invited to a special issue of a reputable journal with a track dedicated to software, like the Journal of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming).
+Selected tool papers will be invited to a __journal special issue__ of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming). 
+<!-- a reputable journal with a track dedicated to software, like the Journal of--> 
+
 
 ### Submission Link
 <https://easychair.org/conferences/?conf=forte2024>
@@ -138,14 +140,12 @@ Moreover, selected accepted tool papers, instead, will be invited to a special i
 * [Duncan P. Attard](https://duncanatt.github.io/) (University of Glasgow, UK)
 * [Emanuele D'Osualdo](https://www.emanueledosualdo.com/) (Max Planc Institute for Software Systems, Germany)
 
-<!--
+
 ## Artefact Evaluation Committee
-* Andrea Esposito, Università di Urbino
-* Ludovico Fusco, University of Urbino "Carlo Bo"
-* Luís Horta, NOVA LINCS, University of Beira Interior
-* Milan Lopuhaä-Zwakenberg, Universiteit Twente
-* Peixin Wang, University of Oxford
--->
+* Gerard Tabone, University of Malta
+* Dominika Regéciová, Brno University of Technology
+* Felix Stutz, University of Luxembourg
+* Bas van den Heuvel,  University of Freiburg
 
 ## Steering committee
 * Ahmed Bouajjani (University Paris Diderot, France)
