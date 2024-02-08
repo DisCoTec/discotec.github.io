@@ -112,6 +112,7 @@ Selected tool papers will be invited to a __journal special issue__ of [Science 
 * [Adrian Francalanza](https://www.um.edu.mt/profile/adrianfrancalanza), University of Malta, Malta
 
 ## Program Committee Members
+* Duncan P. Attard (University of Glasgow, UK)
 * Giovanni Bernardi (Université of Paris Diderot - IRIF, France)
 * Petra van den Bos (University of Twente, The Netherlands)
 * Silvia Crafa (University of Padova, Italy)
@@ -126,6 +127,7 @@ Selected tool papers will be invited to a __journal special issue__ of [Science 
 * Peter Olveczky (University of Oslo, Norway)
 * Ana-Maria Oprescu (University of Amsterdam, The Netherlands)
 * Kirstin Perters (University of Augsburg, Germany)
+* Emanuele D'Osualdo (Max Planck Institute for Software Systems, Germany)
 * Anna Philippou (University of Cyprus, Cyprus)
 * Michela Quadrini (University of Camerino, Italy)
 * Anne Remke (WWU Munster, Germany)
@@ -138,14 +140,16 @@ Selected tool papers will be invited to a __journal special issue__ of [Science 
 
 ## Artefact Evaluation Committee Chairs
 * [Duncan P. Attard](https://duncanatt.github.io/) (University of Glasgow, UK)
-* [Emanuele D'Osualdo](https://www.emanueledosualdo.com/) (Max Planc Institute for Software Systems, Germany)
+* [Emanuele D'Osualdo](https://www.emanueledosualdo.com/) (Max Planck Institute for Software Systems, Germany)
 
 
 ## Artefact Evaluation Committee
-* Gerard Tabone, University of Malta
+* Lennar Gäher, Max Planck Institute for Software Systems, Germany
+* Bas van den Heuvel,  University of Freiburg
 * Dominika Regéciová, Brno University of Technology
 * Felix Stutz, University of Luxembourg
-* Bas van den Heuvel,  University of Freiburg
+* Gerard Tabone, University of Malta
+ 
 
 ## Steering committee
 * Ahmed Bouajjani (University Paris Diderot, France)
