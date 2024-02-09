@@ -71,11 +71,11 @@ To improve and reward reproducibility and to give more visibility and credit to 
 Artefact submission is mandatory for tool papers and the result of the artefact evaluation will be considered in the tool paper’s acceptance decision. Instead, artefact submission is optional for all the other paper categories and the result of the artefact evaluation will not affect the paper’s acceptance decision but may affect the best paper selection.
 
 Dates (AoE):
-* Artefact submission: February 29, 2024   
+* Artefact submission: ~~February 29, 2024~~ March 8, 2024
 * Kick-the-tires phase:
-  - Problem reports from reviewers: 8 March, 2024
-  - Authors' response to reviewers: 15 March, 2024
-* Artefact notification: March 29, 2024
+  - Problem reports from reviewers: ~~8 March, 2024~~ March 15, 2024
+  - Authors' response to reviewers: ~~15 March, 2024~~ March 22, 2024
+* Artefact notification: ~~March 29, 2024~~ April 5, 2024
 
 ### Proceedings
 The conference proceedings, consisting of accepted submissions from any paper category, will be published by Springer in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.
