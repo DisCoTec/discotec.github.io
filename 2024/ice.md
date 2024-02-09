@@ -12,7 +12,7 @@ ICE 2024 is a satellite workshop of [DisCoTec 2024](https://www.discotec.org/202
 - Distinctive selection procedure
 - ICE welcomes full papers to be included in the proceedings
 - ICE also welcomes oral communications of already published or preliminary work
-- Invited speakers to be confirmed.
+- Invited speaker: [Jorge A. Pérez](https://www.jperez.nl/)
 - Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/)
 - Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
 - Contact: `ice (at) framalistes.org`
@@ -35,6 +35,17 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - Coinductive techniques
 - Tools and techniques for automation
 - Synthesis techniques
+
+## Invited Speaker: Jorge A. Pérez
+
+### Talk: _TBA_
+
+_To be announced_
+
+### Biography
+
+_To come_
+
 
 ## Important Dates
 
