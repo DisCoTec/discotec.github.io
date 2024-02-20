@@ -112,21 +112,17 @@ DisCoTec 2024 will include *tutorials and workshops* on a broad spectrum of dist
 
 Satellite events will take place on Monday, June 17, 2024, and on Friday, June 21, 2024.
 
-### Call for Satellite Events 
-
-Researchers and practitioners are invited to [submit proposals for satellite events (workshops and tutorials)](csep) to be affiliated to DisCoTec 2024.
-
 #### Important Dates
 
-* **Proposal submission deadline**:
-  Monday, February 12, 2024
-  (but we would like to hear about prospective proposals as soon as possible).
+* ~~**Proposal submission deadline**~~:
+  ~~Monday, February 12, 2024~~
+  ~~(but we would like to hear about prospective proposals as soon as possible).~~
 * **Notification of accepted satellite events**:
   Friday, March 1st, 2024.
 
 ### Confirmed Satellite Events
 * [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience (June 21, 2024)
-* PLNL 2024: The Fourth VERSEN Workshop on Programming Languages in The Netherlands (date TBD)
+* PLNL 2024: The Fourth VERSEN Workshop on Programming Languages in The Netherlands (June 21, 2024)
 
 
 <!--
