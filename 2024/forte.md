@@ -145,7 +145,7 @@ Selected tool papers will be invited to a __journal special issue__ of [Science 
 
 ## Artefact Evaluation Committee
 * Lennard Gäher, Max Planck Institute for Software Systems, Germany
-* Bas van den Heuvel,  University of Freiburg
+* Bas van den Heuvel, Karlsruhe University of Applied Sciences and University of Freiburg
 * Dominika Regéciová, Brno University of Technology
 * Felix Stutz, University of Luxembourg
 * Gerard Tabone, University of Malta
