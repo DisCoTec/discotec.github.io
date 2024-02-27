@@ -38,13 +38,32 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 ## Invited Speaker: Jorge A. Pérez
 
-### Talk: _TBA_
+### Talk: Asynchronous Session-Based Concurrency
 
-_To be announced_
+While formal models of concurrency tend to focus on synchronous communication, _asynchronous_ communication is of clear practical relevance: it is the standard in most distributed systems and web-based applications nowadays. This talk will discuss asynchronous communication in the context of _session-based concurrency_, the model of computation in which _session types_ specify the structure of the two-party protocols implemented by the channels of a communicating process. 
+
+In my talk, I will overview several recent results on asynchronous session-based concurrency. 
+Specifically, I will discuss the challenge of ensuring the deadlock-freedom property for message-passing processes
+that communicate asynchronously in cyclic process networks governed by session types.
 
 ### Biography
 
-_To come_
+[Jorge A. Pérez](https://www.jperez.nl) is Associate Professor (tenured) at the University of
+Groningen, The Netherlands.
+Since 2019, he leads the [Fundamental Computing Group](www.rug.nl/fse/fc), one of the
+research groups of the Bernoulli Institute of Mathematics, Computer
+Science, and Artificial Intelligence. 
+Prior to his current position in Groningen, Jorge worked as Post-doctoral
+Researcher at NOVA University Lisbon (2010-2014) and obtained his PhD
+at the University of Bologna (2010).
+
+Jorge’s research
+interests concern Concurrency Theory, Semantics of Programming
+Languages, and Logic in Computer Science.
+  During February
+2019 - January 2024, his research was supported by the Dutch Research
+Council (NWO) under a prestigious VIDI grant entitled “[Unifying
+Correctness for Communicating Software](https://www.jperez.nl/research/vidi)".
 
 
 ## Important Dates
