@@ -50,7 +50,7 @@ that communicate asynchronously in cyclic process networks governed by session t
 
 [Jorge A. Pérez](https://www.jperez.nl) is Associate Professor (tenured) at the University of
 Groningen, The Netherlands.
-Since 2019, he leads the [Fundamental Computing Group](www.rug.nl/fse/fc), one of the
+Since 2019, he leads the [Fundamental Computing Group](https://www.rug.nl/fse/fc), one of the
 research groups of the Bernoulli Institute of Mathematics, Computer
 Science, and Artificial Intelligence. 
 Prior to his current position in Groningen, Jorge worked as Post-doctoral
