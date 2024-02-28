@@ -77,6 +77,8 @@ Dates (AoE):
   - Authors' response to reviewers: ~~15 March, 2024~~ March 22, 2024
 * Artefact notification: ~~March 29, 2024~~ April 5, 2024
 
+Detailed information on srtefact submission and evaluation is available [here](ae_coordination). 
+
 ### Proceedings
 The conference proceedings, consisting of accepted submissions from any paper category, will be published by Springer in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.
 
