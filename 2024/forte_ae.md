@@ -30,6 +30,7 @@ A final artefact submission should consist of
     * if applicable, a description of any special requirements beyond a VM or Docker image (e.g., cloud-computing resources, certain hardware, etc.), and,
     * if you are aiming for a reusable badge, an explanation why you believe your artefact is reusable, and
 * a **.pdf** file of the submitted paper.
+
 Detailed submission guidlines can be found [here](https://drive.google.com/file/d/1Jm11qhByQnuBKNZeqYsZ3-G5T3g_A9OS/view?usp=sharing).
 
 When uploading your artefact to the URL, please update the **SHA256** checksum of the .zip file in the abstract. You can generate the checksum using the following command-line tools.
