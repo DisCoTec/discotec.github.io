@@ -123,6 +123,7 @@ Satellite events will take place on Monday, June 17, 2024, and on Friday, June 2
 ### Confirmed Satellite Events
 * [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience (June 21, 2024)
 * [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands (June 21, 2024)
+* [DiDiT 2024](https://distributeddigitaltwins.github.io/2024/): The 1st International Workshop on Distributed Digital Twins (June 17, 2024)
 
 
 <!--
