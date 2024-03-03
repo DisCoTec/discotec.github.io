@@ -19,17 +19,10 @@ DisCoTec gathers conferences that cover a broad spectrum of distributed computin
 
 Please visit the pages of each conference for details on topics of interest, paper  categories, and submission links.
 
-<!--
-## Proceedings
-
-* COORDINATION: [LNCS 13908](https://link.springer.com/book/10.1007/978-3-031-35361-1)
-* DAIS: [LNCS 13910](https://link.springer.com/book/10.1007/978-3-031-35260-7)
-* FORTE: [LNCS 13910](https://link.springer.com/book/10.1007/978-3-031-35355-0)
-
-<img src="lncs-logo.jpg" width="182" height="68"/>
 
 ## Programme
-
+To be announced.
+<!--
 Go to the [programme page](https://www.discotec.org/2023/programme).
 -->
 
@@ -40,6 +33,8 @@ We are pleased to announce the following keynote speakers:
 * [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
 * [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, SA)
 
+Go to the [dedicated page](https://www.discotec.org/2024/invited) for details on these keynote lectures.
+
 ## Proceedings
 The proceedings of the main conferences will be published as volumes in the [Springer LNCS-IFIP](https://www.springer.com/series/8345) series. 
 
@@ -47,6 +42,12 @@ The proceedings of the main conferences will be published as volumes in the [Spr
 
 The volumes will be **open access** from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
 
+
+<!--
+* COORDINATION: [LNCS 13908](https://link.springer.com/book/10.1007/978-3-031-35361-1)
+* DAIS: [LNCS 13910](https://link.springer.com/book/10.1007/978-3-031-35260-7)
+* FORTE: [LNCS 13910](https://link.springer.com/book/10.1007/978-3-031-35355-0)
+-->
 
 ## Journal Special Issues
 Selected papers accepted at the main conferences will be invited for submission to special issues in high-quality journals: 
@@ -57,8 +58,8 @@ Please visit the page of each conference for details on these special issues.
 
 ## Important Dates (All Conferences)
 The following deadlines expire at 23:59 [anywhere on earth (AoE)](https://www.timeanddate.com/time/zones/aoe) on the dates listed below:
-* **Abstract submission:** ~~February 2, 2024~~ February 16, 2024 (Extended)
-* **Paper submission:** ~~February 9, 2024~~ February 23, 2024 (Extended)
+* **Abstract submission:** ~~February 2, 2024 February 16, 2024 (Extended)~~
+* **Paper submission:** ~~February 9, 2024 February 23, 2024 (Extended)~~
 * **Paper notification:** ~~March 29, 2024~~ April 5, 2024 (Extended)
 * **Camera-ready:** April 24, 2024
 * **Conferences:** June 17-21, 2024
@@ -121,9 +122,10 @@ Satellite events will take place on Monday, June 17, 2024, and on Friday, June 2
   Friday, March 1st, 2024.
 
 ### Confirmed Satellite Events
+* [DiDiT 2024](https://distributeddigitaltwins.github.io/2024/): The 1st International Workshop on Distributed Digital Twins (June 17, 2024)
 * [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience (June 21, 2024)
 * [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands (June 21, 2024)
-* [DiDiT 2024](https://distributeddigitaltwins.github.io/2024/): The 1st International Workshop on Distributed Digital Twins (June 17, 2024)
+
 
 
 <!--
@@ -244,4 +246,7 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 <a href="http://rug.nl">
 <img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logoen_rood_rgb.jpg" height="90px">
 </a>
-
+&nbsp;   &nbsp;   &nbsp;   &nbsp;
+<a href="httsp://www.nwo.nl">
+<img alt="nwo-logo" src="NWO.jpg" height="120px">
+</a>
