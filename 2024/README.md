@@ -21,10 +21,7 @@ Please visit the pages of each conference for details on topics of interest, pap
 
 
 ## Programme
-To be announced.
-<!--
-Go to the [programme page](https://www.discotec.org/2023/programme).
--->
+Go to the [programme page](https://www.discotec.org/2024/programme) for preliminary information.
 
 
 ## Keynote Speakers
@@ -238,11 +235,11 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 ## Sponsors & Supporters
 
 <a href="httsp://www.nwo.nl">
-<img alt="nwo-logo" src="NWO.jpg" height="140px">
+<img alt="nwo-logo" src="NWO.jpg" height="135px">
 </a> &nbsp;   &nbsp;<a href="https://www.ifip.org">
-  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" height="90px">
-</a>&nbsp;   &nbsp; <a href="https://eapls.org">
-<img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" height="90px">
+  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" height="88px">
+</a>&nbsp;   &nbsp;<a href="https://eapls.org">
+<img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" height="88px">
 </a>&nbsp;   &nbsp;<a href="http://rug.nl">
-<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logoen_rood_rgb.jpg" height="90px">
+<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logoen_rood_rgb.jpg" height="88px">
 </a>
