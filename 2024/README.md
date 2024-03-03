@@ -236,7 +236,7 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 
 ## Sponsors & Supporters
 
-<a href="httsp://www.nwo.nl">
+<a href="https://www.nwo.nl">
 <img alt="nwo-logo" src="NWO.jpg" height="135px">&nbsp;&nbsp;</a> &nbsp;&nbsp;<a href="https://www.ifip.org">
   <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" height="88px">
 </a>&nbsp; &nbsp;<a href="https://eapls.org">

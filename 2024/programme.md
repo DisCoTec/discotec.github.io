@@ -271,7 +271,7 @@ by Petra van den Bos and Marielle Stoelinga
 
 ## Sponsors & Supporters
 
-<a href="httsp://www.nwo.nl">
+<a href="https://www.nwo.nl">
 <img alt="nwo-logo" src="https://www.nwo.nl/themes/custom/nwo/assets/images/logo.svg?v=23" height="135px">
 </a> &nbsp;   &nbsp;<a href="https://www.ifip.org">
   <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" height="88px">
