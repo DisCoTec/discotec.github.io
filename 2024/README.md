@@ -99,9 +99,11 @@ The subway (Metro) network diagram can be found [here](https://www.metrolisboa.p
 
 ## Accommodations
 You can find several hotels nearby the conference venue [here](https://www.google.pt/maps/search/Hotéis/@38.732843,-9.1729554,15z/data=!3m1!4b1!4m9!2m8!3m6!1zSG90w6lpcw!2sColégio+Almada+Negreiros,+Universidade+Nova+de+Lisboa,+Faculdade+de+Direito,+Tv.+Estêvão+Pinto,+1099-032+Lisboa!3s0xd19336270152f73:0x7f4b48ea0549f8e2!4m2!1d-9.1603597!2d38.7328185!6e3?hl=pt-PT).
+-->
 
 ## Registration
-Go to the [registration page](https://www.discotec.org/2023/registration).
+Details will be made available soon.
+<!--Go to the [registration page](https://www.discotec.org/2023/registration).
 -->
 
 ## Satellite Events
@@ -235,9 +237,7 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 ## Sponsors & Supporters
 
 <a href="httsp://www.nwo.nl">
-<img alt="nwo-logo" src="NWO.jpg" height="135px">
-<br>
-</a> &nbsp;&nbsp;<a href="https://www.ifip.org">
+<img alt="nwo-logo" src="NWO.jpg" height="135px">&nbsp;&nbsp;</a> &nbsp;&nbsp;<a href="https://www.ifip.org">
   <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" height="88px">
 </a>&nbsp; &nbsp;<a href="https://eapls.org">
 <img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" height="88px">

@@ -6,7 +6,7 @@
 ## In A Nutshell
 
 ### Monday, June 17: DisCoTec Workshops
-* [DiDiT 2024](https://distributeddigitaltwins.github.io/2024/): The 1st International Workshop on Distributed Digital Twins (June 17, 2024)
+* [DiDiT 2024](https://distributeddigitaltwins.github.io/2024/): The 1st International Workshop on Distributed Digital Twins 
 * Welcome reception
 
 
@@ -25,8 +25,8 @@
 
 
 ### Friday, June 21: DisCoTec Workshops
-* [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience (June 21, 2024)
-* [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands (June 21, 2024)
+* [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience 
+* [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands 
 
 ## Detailed Program
 *To be announced.*
@@ -272,7 +272,7 @@ by Petra van den Bos and Marielle Stoelinga
 ## Sponsors & Supporters
 
 <a href="httsp://www.nwo.nl">
-<img alt="nwo-logo" src="NWO.jpg" height="135px">
+<img alt="nwo-logo" src="https://www.nwo.nl/themes/custom/nwo/assets/images/logo.svg?v=23" height="135px">
 </a> &nbsp;   &nbsp;<a href="https://www.ifip.org">
   <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" height="88px">
 </a>&nbsp;   &nbsp;<a href="https://eapls.org">
