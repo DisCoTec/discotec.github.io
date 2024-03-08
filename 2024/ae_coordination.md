@@ -28,13 +28,15 @@ Submission site: [https://easychair.org/my/conference?conf=coordination2024](htt
 
 A final artefact submission should consist of
 
-* an **abstract**
+* an  **abstract**
    * that summarises the artefact and explains its relation to the paper including
    * a URL from which a **.zip** file containing the artefact can be downloaded – we encourage you to provide a DOI – and
    * the **SHA256** checksum of the .zip file (on submission), and,
    * if applicable, a description of any special requirements beyond a VM or Docker image (e.g., cloud-computing resources, certain hardware, etc.), and,
    * if you are aiming for a reusable badge, an explanation why you believe your artefact is reusable, and
 * a **.pdf** file of the submitted paper.
+
+You can upload the **abstract** as a separate pdf (<em> pdf of the paper </em>) or as an appendix to the submitted (COORDINATION) research paper. In the latter case, upload the paper with the appendix  (<em> pdf of the paper </em>).
 
 When uploading your artefact to the URL, please update the **SHA256** checksum of the .zip file in the abstract. You can generate the checksum using the following command-line tools.
 
