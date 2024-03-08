@@ -48,7 +48,7 @@ When uploading your artefact to the URL, please update the **SHA256** checksum o
 ## Packaging Guidelines
 Your artefact .zip file must contain the following elements.
 
-* The **artefact**, i.e., data, software, libraries, scripts, etc. required to replicate the results of your paper. Please prepare a Docker Image or a Virtual Machine. You could use VirtualBox to save a VM image as an OVA file.
+* The **artefact**, i.e., data, software, libraries, scripts, etc. required to replicate the results of your paper. Where applicable please prepare a Docker Image or a Virtual Machine. You could use VirtualBox to save a VM image as an OVA file.
 * A LICENSE file. This does not need to be complicated. Your licence simply needs to allow the artefact evaluation chairs to download and distribute the artefact to the artefact evaluation committee members and the artefact evaluation committee members must be allowed to evaluate the artefact, e.g., use, execute, and modify the artefact for the purpose of artefact evaluation.
 * A README text file that introduces the artefact to the user and guides the user through replication of your results. Ideally, it should consist of the following parts:
    * Any additional requirements for running the artefact, such as hardware requirements or additional proprietary software;
