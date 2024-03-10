@@ -18,8 +18,8 @@ for the sole purpose of evaluating the contribution associated with the artefact
 
 ## Important Dates
 * Artefact submission: March 8, 2024
-* Problem reports from reviewers: March 15, 2024
-* Authors’ response to reviewers: March 22, 2024
+* Problem reports from reviewers: March 17, 2024
+* Authors’ response to reviewers: March 23, 2024
 * Artefact notification: April 5, 2024
 
 ## Submission Guidelines
