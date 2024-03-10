@@ -73,8 +73,8 @@ Artefact submission is mandatory for tool papers and the result of the artefact 
 Dates (AoE):
 * Artefact submission: ~~February 29, 2024~~ March 8, 2024
 * Kick-the-tires phase:
-  - Problem reports from reviewers: ~~8 March, 2024~~ March 15, 2024
-  - Authors' response to reviewers: ~~15 March, 2024~~ March 22, 2024
+  - Problem reports from reviewers: ~~8 March, 2024~~ March 17 2024
+  - Authors' response to reviewers: ~~15 March, 2024~~ March 23 2024
 * Artefact notification: ~~March 29, 2024~~ April 5, 2024
 
 Detailed information on artefact submission and evaluation is available [here](ae_coordination.md). 
@@ -167,7 +167,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Mário Pereira (NOVA School of Science and Technology, Portugal)
 * Lorenzo Rossi (University of Camerino, Italy)
 * Cristina Seceleanu( Mälardalen University, Sweden)
-* Felix Stutz (MPI SWS, Germany)
+* Felix Stutz (University of Luxembourg, Luxembourg)
 * Fangyi Zhou (Amazon, UK)
 
 ## Steering Committee
