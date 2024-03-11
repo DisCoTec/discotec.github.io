@@ -13,10 +13,10 @@ Members of the artefact evaluation committee and the program committee are asked
 
 ## Important Dates
 
-* **Artefact submission**: ~~February 29, 2024~~ March 8, 2024 (Extended)
+* **Artefact submission**: ~~February 29, 2024~~ March 15, 2024 (Extended)
 * **Kick-the-tires phase**:
-  * Problem reports from reviewers: ~~8 March, 2024~~ March 15, 2024 (Extended)
-  * Authors’ response to reviewers: ~~15 March, 2024~~ March 22, 2024 (Extended)
+  * Problem reports from reviewers: ~~8 March, 2024~~ March 22, 2024 (Extended)
+  * Authors’ response to reviewers: ~~15 March, 2024~~ March 29, 2024 (Extended)
 * **Artefact notification**: ~~March 29, 2024~~ April 5, 2024 (Extended)
 
 ## Submission Guidelines
