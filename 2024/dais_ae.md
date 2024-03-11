@@ -71,8 +71,7 @@ Artefacts seeking the “reusable” badge need to clear a significantly higher 
     
 ## Contact
 For any questions please contact the two AE chairs:
-* João Soares (chair), University of Porto, Portugal 
-* Nuhi Besimi (chair), South East European University, North Macedonia
+* João Soares (jsoares@dcc.fc.up.pt), University of Porto, Portugal 
+* Nuhi Besimi (n.besimi@seeu.edu.mk), South East European University, North Macedonia
 
-* [João Soares] (jsoares@dcc.fc.up.pt)
-* [Nuhi Besimi] (n.besimi@seeu.edu.mk)
+
