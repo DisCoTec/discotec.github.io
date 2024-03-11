@@ -95,11 +95,7 @@ Dates (AoE):
   - Authors' response to reviewers: ~~15 March, 2024~~ March 29 2024
 * Artefact notification: ~~March 29, 2024~~ April 5, 2024
 
-Detailed information on artefact submission and evaluation is available [here](ae_coordination.md).
-
-
-
-
+Detailed information on artefact submission and evaluation is available [here](dais_ae.md).
 
 
 ## Submission link
