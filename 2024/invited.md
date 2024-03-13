@@ -27,7 +27,7 @@ Modern distributed and/or modular computer systems rely on support abstractions 
 
 Over the years, given the undeniable successes of these abstractions, there has been a tendency to overestimate their reliability. For example, considering that complex middleware can be made fault free, or assuming that a hypervisor is a TCB. Such threats coming “from the basement” (since they were not assumed) can lead to unexpected and severe failures.
 
-What has been done about this, and what more can we do? I will digress through several approaches aiming at achieving sufficient resilience of platforms at several levels, namely middleware and hypervisor fault and intrusion tolerance. But this is notenough. As years go by, threats appear at progressively lower levels. I will report some recent results aiming at achieving resilience at quite low levels of platform architectures, such as MPSoC (multi-processor systems-on-a-chip), and FPGA fabrics, exemplifying how these mechanisms yield resilience at the higher levels of modular and distributed systems.
+What has been done about this, and what more can we do? I will digress through several approaches aiming at achieving sufficient resilience of platforms at several levels, namely middleware and hypervisor fault and intrusion tolerance. But this is not enough. As years go by, threats appear at progressively lower levels. I will report some recent results aiming at achieving resilience at quite low levels of platform architectures, such as MPSoC (multi-processor systems-on-a-chip), and FPGA fabrics, exemplifying how these mechanisms yield resilience at the higher levels of modular and distributed systems.
 
 ## Thursday, June 20: [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/)  
 
