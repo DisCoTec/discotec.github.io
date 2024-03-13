@@ -28,7 +28,7 @@ Go to the [programme page](https://www.discotec.org/2024/programme) for prelimin
 We are pleased to announce the following keynote speakers:
 * [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, NL)
 * [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
-* [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, SA)
+* [Paulo Veríssimo](https://cemse.kaust.edu.sa/people/person/paulo-verissimo) (KAUST, SA)
 
 Go to the [dedicated page](https://www.discotec.org/2024/invited) for details on these keynote lectures.
 

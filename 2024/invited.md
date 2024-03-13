@@ -18,12 +18,16 @@ Doing so, we reduce security analysis to satisfiability checking in first-order 
 Our approach is implemented in the CheckMate verifier and successfully applied to
 decentralized protocols, board games, and game-theoretic examples.
 
-## Wednesday, June 19: [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo)
-KAUST, Saudi Arabia
+## Wednesday, June 19: [Paulo Veríssimo](https://cemse.kaust.edu.sa/people/person/paulo-verissimo)
+KAUST, CEMSE, RC3 (Resilient Computing and Cybersecurity Center), Saudi Arabia
 
-### Abstract
+### Platform Resilience? Beware of Threats from the "basement"
 
-To be announced.
+Modern distributed and/or modular computer systems rely on support abstractions to ease the task of building applications, such as middleware, hypervisors, libraries of secure or fault-tolerant functions, specialized hardware extensions, etc.
+
+Over the years, given the undeniable successes of these abstractions, there has been a tendency to overestimate their reliability. For example, considering that complex middleware can be made fault free, or assuming that a hypervisor is a TCB. Such threats coming “from the basement” (since they were not assumed) can lead to unexpected and severe failures.
+
+What has been done about this, and what more can we do? I will digress through several approaches aiming at achieving sufficient resilience of platforms at several levels, namely middleware and hypervisor fault and intrusion tolerance. But this is notenough. As years go by, threats appear at progressively lower levels. I will report some recent results aiming at achieving resilience at quite low levels of platform architectures, such as MPSoC (multi-processor systems-on-a-chip), and FPGA fabrics, exemplifying how these mechanisms yield resilience at the higher levels of modular and distributed systems.
 
 ## Thursday, June 20: [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/)  
 
