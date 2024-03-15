@@ -142,7 +142,7 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Seyed Hossein Haeri](https://scholar.google.co.uk/citations?user=61frEtoAAAAJ&hl=en), IOG & University of Bergen 
 - [Ivan Prokić](http://imft.ftn.uns.ac.rs/~iprokic/Main), Faculty of Technical Sciences, University of Novi Sad 
 - [Luc Edixhoven](https://research.ou.nl/en/persons/luc-edixhoven), Open University of the Netherlands 
-- [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/), Max Planck Institute for Software Systems
+- [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/), University of Luxembourg
 - [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home), University of Liverpool 
 - [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/), LASIGE, University of Lisbon 
 
