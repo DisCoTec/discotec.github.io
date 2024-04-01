@@ -53,7 +53,7 @@ For artefacts:
 
 * Artefact submission: February 29, 2024
 * Problem reports from reviewers: 8 March, 2024 
-* Authors' response to reviewers: 15 March, 2024 
+* Author response to reviewers: 15 March, 2024 
 * Artefact notification: March 29, 2024
   
 DisCoTec conference:  June 17-21, 2024
@@ -113,7 +113,7 @@ Selected tool papers will be invited to a __journal special issue__ of [Science 
 
 ## Program Committee Members
 * Duncan P. Attard (University of Glasgow, UK)
-* Giovanni Bernardi (Université of Paris Diderot - IRIF, France)
+* Giovanni Bernardi (Université Paris Cité, France)
 * Petra van den Bos (University of Twente, The Netherlands)
 * Silvia Crafa (University of Padova, Italy)
 * Carla Ferreira (Universidade Nova de Lisboa, Portugal)

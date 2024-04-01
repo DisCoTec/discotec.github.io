@@ -1,0 +1,13 @@
+Marco Autili is associate professor at the Department of Information Engineering, Computer Science, and Mathematics – University of L’Aquila.
+
+Home page: //people.disim.univaq.it/~marco.autili/
+
+Marco graduated with honors in Computer Science at the University of L’Aquila in April 2004, and he received his PhD in April 2008 with the best grade.
+
+He is (has been) involved in several EU and Italian research and development projects, as scientific coordinator, scientific and technical project leader, research unit coordinator, and work package leader. He is (co-)author of over 80 publications in international journals, conference proceedings, and books. He is serving as reviewer for several international conferences, workshops, and top level international journals.
+
+Main research areas are Software Engineering, Distributed Systems, Context-oriented Programming, and Formal Methods. In these areas, main research & development activities include (i) automated software synthesis for composing complex distributed systems, from system architecture to integration code, from coordination to protocol mediation/adaptation; (ii) modeling and analysis of complex distributed systems; (iii) automated synthesis of context-aware (mobile) applications; (iv) resource-oriented analysis of adaptable (mobile) applications; (v) formal specification and checking of temporal properties.
+
+He actively works on the (from theory to practice) application of software engineering methods to the modeling, verification, analysis and automatic synthesis of complex distributed systems, and application of context-oriented programming and analysis techniques to the development of adaptable (mobile) applications.
+
+Recently, he is working on the definition of architectural patterns for creating robust, reliable and efficient microservice-based systems, and on the definition of methods and techniques to transform a monolithic system to a microservice-based one.

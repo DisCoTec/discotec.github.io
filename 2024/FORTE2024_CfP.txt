@@ -1,0 +1,160 @@
+FORTE 2024 Extended Deadline (23 Feb) and Journal Special Issue Confirmed
+===================================================================
+Final CALL FOR PAPERS
+FORTE 2024
+44th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+June 17-21, 2024
+Groningen, The Netherlands
+
+EXTENDED DEADLINE February 23, 2024!
+
+https://www.discotec.org/2024/forte
+===================================================================
+
+FORTE 2024 is one of the three conferences of DisCoTec 2024, the 19th International Federated Conference on Distributed Computing Techniques.
+
+=== Topics of Interest ===
+
+FORTE 2024 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
+
+We invite submissions focused on foundational aspects of distributed software systems, presenting approaches or tools to formally model, soundly implement, and rigorously validate these demanding but ever more necessary systems and applications. As our dependency on such software systems grow, also our responsibility as researchers grows to provide both trustworthy and usable solutions.
+
+The main topics of interest include:
+
+- Language concepts for concurrency and distribution, supported by rigorous semantics, well-supported pragmatics, and/or expressive illustrative use-cases.
+
+- Analyses techniques, methodologies, and/or algorithms, using testing and/or verification, to validate (aspects of) the soundness of various types of concurrent and distributed systems, including communication and network protocols, service-oriented systems, adaptive distributed systems, cyber-physical systems and sensor networks.
+
+- Principles for qualitative and quantitative security analysis of distributed systems.
+
+- Applications of formal methods and techniques for studying the quality, reliability, availability, and safety of concrete distributed systems. We are specially interested in “real-life” case studies and industrial applications involving real distributed systems.
+
+- Emerging challenges and hot topics in distributed systems (broadly construed), such as software-defined networks, distributed ledgers, smart contracts, and blockchain technologies, etc.
+
+
+
+=== Keynote Speakers ===
+
+Marieke Huisman (University of Twente, The Netherlands)
+Laura Kovács (Vienna University of Technology, Austria)
+Paulo Verissimo (KAUST, Saudi Arabia)
+
+
+=== FORTE Program Committee ===
+
+PC chairs:
+
+- Valentina Castiglioni (Eindhoven University of Technology, The Netherlands)
+- Adrian Francalanza (University of Malta, Malta)
+
+
+PC members:
+
+- Duncan P. Attard (University of Glasgow, UK)
+- Giovanni Bernardi (Université of Paris Diderot - IRIF, France)
+- Petra van den Bos (University of Twente, The Netherlands)
+- Silvia Crafa (University of Padova, Italy)
+- Carla Ferreira (Universidade Nova de Lisboa, Portugal)
+- Simon Fowler (University of Glasgow, UK)
+- Cinzia di Giusto (Université Cote D’Azure, CNRS, I3S, France)
+- Daniele Gorla (University of Rome La Sapienza, Italy)
+- Ross Horne (University of Strathclyde, UK)
+- Andreas Katis (KBR Inc. at NASA Ames Research Center, USA)
+- Wen Kokke (University of Strathclyde, UK)
+- Vasileios Koutavas (Trinity College Dublin, Ireland)
+- Peter Olveczky (University of Oslo, Norway)
+- Ana-Maria Oprescu (University of Amsterdam, The Netherlands)
+- Emanuele D’Osualdo (Max Planc Institute for Software Systems, Germany)
+- Kirstin Perters (University of Augsburg, Germany)
+- Anna Philippou (University of Cyprus, Cyprus)
+- Michela Quadrini (University of Camerino, Italy)
+- Anne Remke (WWU Munster, Germany)
+- Larisa Safina (INRIA – Lille Nord Europe, France)
+- Alceste Scalas (Technical University of Denmark, Denmark)
+- Simone Tini (University of Insubria, Italy)
+- Dmitriy Traytel (University of Copenhagen, Denmark)
+- Jana Wagemaker (Reykjavik University, Iceland)
+
+
+Artefact Evaluation chairs:
+
+- Duncan P. Attard (University of Glasgow, UK)
+- Emanuele D’Osualdo (Max Planc Institute for Software Systems, Germany)
+
+Artefact Evaluation committee:
+
+- Lennard Gäher, Max Planck Institute for Software Systems, Germany
+- Bas van den Heuvel,  University of Freiburg
+- Dominika Regéciová, Brno University of Technology
+- Felix Stutz, University of Luxembourg
+- Gerard Tabone, University of Malta
+
+
+
+=== Important Dates ===
+
+For papers:
+
+    Abstract submission: February 16, 2024 (Extended)
+    Paper submission: February 23, 2024 (Extended)
+    Paper notification: April 5, 2024 (Extended)
+    Camera-ready: April 24, 2024
+
+For artefacts:
+
+    Artefact submission: February 29, 2024
+    Problem reports from reviewers: 8 March, 2024
+    Author response to reviewers: 15 March, 2024
+    Artefact notification: March 29, 2024
+
+DisCoTec conference: June 17-21, 2024
+
+Deadlines expire at 23:59 (AoE, anywhere on earth) on the dates displayed above.
+
+We solicit papers in the following categories:
+
+- Regular papers (7-15 pages, not counting references): describing thorough and complete research results and experience reports. Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the Artefact Evaluation Committee, but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
+
+- Tool papers (7-15 pages, not counting references): describing technological artefacts in the scope of the research topics of FORTE. The paper should present the underlying theory of the tool, a clear account of the tool’s functionality and limitations, and include case studies (with rigorous experimental evaluation). In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee. The paper must contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes, to be submitted until a week after the paper submission deadline.
+
+- Short papers (up to 6 pages, not counting references): describing innovative and promising ideas, possibly in an early form, or demonstrating new tools (components), or presenting (i) calls to action, or (ii) substantiated reflections on current and/or future research perspectives related to FORTE, or a summary of a published journal paper clarifying why the presentation would enrich the program of FORTE.
+
+
+See the website for EasyChair submission instructions. 
+
+
+
+=== Proceedings ===
+
+The proceedings of COORDINATION, DAIS, and FORTE will be published as volumes in the Springer LNCS-IFIP series.
+The volumes will be open access from the IFIP digital library after a 3-year embargo.
+
+
+
+=== Journal Special Issues ===
+
+After the conference, accepted papers (except for tool papers) selected from FORTE and COORDINATION programmes will be invited to a journal special issue of the Logical Methods in Computer Science, with the following tentative schedule:
+
+- October/November 2024: deadline for the first submitted version;
+- February 2025: notification for the first round of reviews.
+
+Selected tool papers will be invited to a journal special issue of Science of Computer Programming's Software Track.
+
+=== FORTE Steering Committee ===
+
+- Ahmed Bouajjani (University Paris Diderot, France)
+- Christel Baier (University Dresden, Germany)
+- Frank de Boer (CWI, Netherlands)
+- Luís Caires (Universidade Nova de Lisboa, Portugal)
+- Alexey Gotsman (IMDEA Software Institute, Spain)
+- Einar Broch Johnsen (University of Oslo, Norway)
+- Ivan Lanese (University of Bologna/INRIA, Italy – Chair)
+- Jorge A. Pérez (University of Groningen, The Netherlands)
+- Alexandra Silva (University College London, UK)
+- Ana Sokolova (University of Salzburg, Austria)
+- Jean-Bernard Stefani (INRIA, France)
+- Nobuko Yoshida (Imperial College London, UK)
+- Heike Wehrheim (Paderborn University, Germany)
+- Tim Willemse (Eindhoven University of Technology, The Netherlands)
+
+
