@@ -2,7 +2,7 @@
 *Photo by Robin Mathlener on [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)*
 
 # Artefact Evaluation
-[FORTE](https://www.discotec.org/2024/forte) this year includes an artefact evaluation performed by the artefact evaluation committee (AEC). The goal of the artefact evaluation is to enable future researchers to more effectively build on and compare with previous work. The Artefact Evaluation Committee (AEC) will review the artefact. We will be attributing 3 badges, according to [EAPLS guidelines](https://eapls.org/pages/artifact_badges/):
+[DAIS](https://www.discotec.org/2024/dais) this year includes an artefact evaluation performed by the artefact evaluation committee (AEC). The goal of the artefact evaluation is to enable future researchers to more effectively build on and compare with previous work. The Artefact Evaluation Committee (AEC) will review the artefact. We will be attributing 3 badges, according to [EAPLS guidelines](https://eapls.org/pages/artifact_badges/):
 1.	Artefact **functional**: documented, consistent, complete, exercisable;
 2.	Artefact **reusable**: exceeding functional, by being carefully documented and well-structured for reuse and repurposing, see below for details;
 3.	Artefact **available**: available on a publicly accessible archival repository to a permanent repository that provides a Digital Object Identifier (DOI).
@@ -13,14 +13,14 @@ Members of the artefact evaluation committee and the program committee are asked
 
 ## Important Dates
 
-* **Artefact submission**: ~~February 29, 2024~~ March 8, 2024 (Extended)
+* **Artefact submission**: ~~February 29, 2024~~ March 15, 2024 (Extended)
 * **Kick-the-tires phase**:
-  * Problem reports from reviewers: ~~8 March, 2024~~ March 15, 2024 (Extended)
-  * Authors’ response to reviewers: ~~15 March, 2024~~ March 22, 2024 (Extended)
+  * Problem reports from reviewers: ~~8 March, 2024~~ March 22, 2024 (Extended)
+  * Authors’ response to reviewers: ~~15 March, 2024~~ March 29, 2024 (Extended)
 * **Artefact notification**: ~~March 29, 2024~~ April 5, 2024 (Extended)
 
 ## Submission Guidelines
-Submission site: [https://easychair.org/conferences/?conf=forte2024](https://easychair.org/conferences/?conf=forte2024). Please select the “FORTE AEC 2024” track when making a new submission and use the same title (and pdf of the paper) as for the FORTE submission.
+Submission site: [[https://easychair.org/conferences/?conf=dais2024](https://easychair.org/conferences/?conf=dais2024)]. Please select the “DAIS AEC 2024” track when making a new submission and use the same title (and pdf of the paper) as for the DAIS submission.
 
 A final artefact submission should consist of
 * an **abstract**
@@ -31,7 +31,6 @@ A final artefact submission should consist of
     * if you are aiming for a reusable badge, an explanation why you believe your artefact is reusable, and
 * a **.pdf** file of the submitted paper.
 
-Detailed submission guidlines can be found [here](https://drive.google.com/file/d/1Jm11qhByQnuBKNZeqYsZ3-G5T3g_A9OS/view?usp=sharing).
 
 When uploading your artefact to the URL, please update the **SHA256** checksum of the .zip file in the abstract. You can generate the checksum using the following command-line tools.
 * Linux: sha256sum <file>
@@ -72,5 +71,7 @@ Artefacts seeking the “reusable” badge need to clear a significantly higher 
     
 ## Contact
 For any questions please contact the two AE chairs:
-* [Duncan P. Attard](https://duncanatt.github.io/) (Duncan.Attard@glasgow.ac.uk)
-* [Emanuele D'Osualdo](https://www.emanueledosualdo.com/) (dosualdo@mpi-sws.org)
+* João Soares (jsoares@dcc.fc.up.pt), University of Porto, Portugal 
+* Nuhi Besimi (n.besimi@seeu.edu.mk), South East European University, North Macedonia
+
+

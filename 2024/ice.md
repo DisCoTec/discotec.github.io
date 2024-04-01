@@ -12,7 +12,7 @@ ICE 2024 is a satellite workshop of [DisCoTec 2024](https://www.discotec.org/202
 - Distinctive selection procedure
 - ICE welcomes full papers to be included in the proceedings
 - ICE also welcomes oral communications of already published or preliminary work
-- Invited speakers to be confirmed.
+- Invited speaker: [Jorge A. Pérez](https://www.jperez.nl/)
 - Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/)
 - Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
 - Contact: `ice (at) framalistes.org`
@@ -35,6 +35,36 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - Coinductive techniques
 - Tools and techniques for automation
 - Synthesis techniques
+
+## Invited Speaker: Jorge A. Pérez
+
+### Talk: Asynchronous Session-Based Concurrency
+
+While formal models of concurrency tend to focus on synchronous communication, _asynchronous_ communication is of clear practical relevance: it is the standard in most distributed systems and web-based applications nowadays. This talk will discuss asynchronous communication in the context of _session-based concurrency_, the model of computation in which _session types_ specify the structure of the two-party protocols implemented by the channels of a communicating process. 
+
+In my talk, I will overview several recent results on asynchronous session-based concurrency. 
+Specifically, I will discuss the challenge of ensuring the deadlock-freedom property for message-passing processes
+that communicate asynchronously in cyclic process networks governed by session types.
+
+### Biography
+
+[Jorge A. Pérez](https://www.jperez.nl) is Associate Professor (tenured) at the University of
+Groningen, The Netherlands.
+Since 2019, he leads the [Fundamental Computing Group](https://www.rug.nl/fse/fc), one of the
+research groups of the Bernoulli Institute of Mathematics, Computer
+Science, and Artificial Intelligence. 
+Prior to his current position in Groningen, Jorge worked as Post-doctoral
+Researcher at NOVA University Lisbon (2010-2014) and obtained his PhD
+at the University of Bologna (2010).
+
+Jorge’s research
+interests concern Concurrency Theory, Semantics of Programming
+Languages, and Logic in Computer Science.
+  During February
+2019 - January 2024, his research was supported by the Dutch Research
+Council (NWO) under a prestigious VIDI grant entitled “[Unifying
+Correctness for Communicating Software](https://www.jperez.nl/research/vidi)".
+
 
 ## Important Dates
 
@@ -92,7 +122,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 ## ICEcreamers
 
 - [Clément Aubert](https://spots.augusta.edu/caubert/)  (Augusta University, USA) - `aubert (at) math.cnrs.fr`
-- [Cinzia Di Giusto](https://www.i3s.unice.fr/digiusto/node/1) (Université Côte d'Azur, CNRS, I3SSophia Antipolis, FR) - `cinzia.di-giusto (at) unice.fr`
+- [Cinzia Di Giusto](https://webusers.i3s.unice.fr/~cdigiusto/web) (Université Côte d'Azur, CNRS, I3SSophia Antipolis, FR) - `cinzia.di-giusto (at) unice.fr`
 - [Simon Fowler](https://simonjf.com/) (University of Glasgow School of Computing Science, GB-SCT) - `simon.fowler (at) glasgow.ac.uk`
 - [Violet Ka I Pun](https://violet.foldr.org/) (Western Norway University of Applied Sciences, NO) - `Violet.Ka.I.Pun (at) hvl.no`
 
@@ -112,7 +142,7 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Seyed Hossein Haeri](https://scholar.google.co.uk/citations?user=61frEtoAAAAJ&hl=en), IOG & University of Bergen 
 - [Ivan Prokić](http://imft.ftn.uns.ac.rs/~iprokic/Main), Faculty of Technical Sciences, University of Novi Sad 
 - [Luc Edixhoven](https://research.ou.nl/en/persons/luc-edixhoven), Open University of the Netherlands 
-- [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/), Max Planck Institute for Software Systems
+- [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/), University of Luxembourg
 - [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home), University of Liverpool 
 - [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/), LASIGE, University of Lisbon 
 

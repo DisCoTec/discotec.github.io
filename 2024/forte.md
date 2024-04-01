@@ -51,10 +51,12 @@ For papers:
 
 For artefacts:
 
-* Artefact submission: February 29, 2024
-* Problem reports from reviewers: 8 March, 2024 
-* Author response to reviewers: 15 March, 2024 
-* Artefact notification: March 29, 2024
+* **Artefact submission**: ~~February 29, 2024~~ March 8, 2024 (Extended)
+* **Kick-the-tires phase**:
+  * Problem reports from reviewers: ~~8 March, 2024~~ March 15, 2024 (Extended)
+  * Authors’ response to reviewers: ~~15 March, 2024~~ March 22, 2024 (Extended)
+* **Artefact notification**: ~~March 29, 2024~~ April 5, 2024 (Extended)
+
   
 DisCoTec conference:  June 17-21, 2024
 
@@ -145,7 +147,7 @@ Selected tool papers will be invited to a __journal special issue__ of [Science 
 
 ## Artefact Evaluation Committee
 * Lennard Gäher, Max Planck Institute for Software Systems, Germany
-* Bas van den Heuvel,  University of Freiburg
+* Bas van den Heuvel, Karlsruhe University of Applied Sciences and University of Freiburg
 * Dominika Regéciová, Brno University of Technology
 * Felix Stutz, University of Luxembourg
 * Gerard Tabone, University of Malta

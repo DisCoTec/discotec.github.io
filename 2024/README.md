@@ -19,26 +19,18 @@ DisCoTec gathers conferences that cover a broad spectrum of distributed computin
 
 Please visit the pages of each conference for details on topics of interest, paper  categories, and submission links.
 
-<!--
-## Proceedings
-
-* COORDINATION: [LNCS 13908](https://link.springer.com/book/10.1007/978-3-031-35361-1)
-* DAIS: [LNCS 13910](https://link.springer.com/book/10.1007/978-3-031-35260-7)
-* FORTE: [LNCS 13910](https://link.springer.com/book/10.1007/978-3-031-35355-0)
-
-<img src="lncs-logo.jpg" width="182" height="68"/>
 
 ## Programme
-
-Go to the [programme page](https://www.discotec.org/2023/programme).
--->
+Go to the [programme page](https://www.discotec.org/2024/programme) for preliminary information.
 
 
 ## Keynote Speakers
 We are pleased to announce the following keynote speakers:
 * [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, NL)
 * [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
-* [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, SA)
+* [Paulo Veríssimo](https://cemse.kaust.edu.sa/people/person/paulo-verissimo) (KAUST, SA)
+
+Go to the [dedicated page](https://www.discotec.org/2024/invited) for details on these keynote lectures.
 
 ## Proceedings
 The proceedings of the main conferences will be published as volumes in the [Springer LNCS-IFIP](https://www.springer.com/series/8345) series. 
@@ -47,6 +39,12 @@ The proceedings of the main conferences will be published as volumes in the [Spr
 
 The volumes will be **open access** from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
 
+
+<!--
+* COORDINATION: [LNCS 13908](https://link.springer.com/book/10.1007/978-3-031-35361-1)
+* DAIS: [LNCS 13910](https://link.springer.com/book/10.1007/978-3-031-35260-7)
+* FORTE: [LNCS 13910](https://link.springer.com/book/10.1007/978-3-031-35355-0)
+-->
 
 ## Journal Special Issues
 Selected papers accepted at the main conferences will be invited for submission to special issues in high-quality journals: 
@@ -57,8 +55,8 @@ Please visit the page of each conference for details on these special issues.
 
 ## Important Dates (All Conferences)
 The following deadlines expire at 23:59 [anywhere on earth (AoE)](https://www.timeanddate.com/time/zones/aoe) on the dates listed below:
-* **Abstract submission:** ~~February 2, 2024~~ February 16, 2024 (Extended)
-* **Paper submission:** ~~February 9, 2024~~ February 23, 2024 (Extended)
+* **Abstract submission:** ~~February 2, 2024 February 16, 2024 (Extended)~~
+* **Paper submission:** ~~February 9, 2024 February 23, 2024 (Extended)~~
 * **Paper notification:** ~~March 29, 2024~~ April 5, 2024 (Extended)
 * **Camera-ready:** April 24, 2024
 * **Conferences:** June 17-21, 2024
@@ -101,32 +99,34 @@ The subway (Metro) network diagram can be found [here](https://www.metrolisboa.p
 
 ## Accommodations
 You can find several hotels nearby the conference venue [here](https://www.google.pt/maps/search/Hotéis/@38.732843,-9.1729554,15z/data=!3m1!4b1!4m9!2m8!3m6!1zSG90w6lpcw!2sColégio+Almada+Negreiros,+Universidade+Nova+de+Lisboa,+Faculdade+de+Direito,+Tv.+Estêvão+Pinto,+1099-032+Lisboa!3s0xd19336270152f73:0x7f4b48ea0549f8e2!4m2!1d-9.1603597!2d38.7328185!6e3?hl=pt-PT).
+-->
 
 ## Registration
-Go to the [registration page](https://www.discotec.org/2023/registration).
+Details will be made available soon.
+<!--Go to the [registration page](https://www.discotec.org/2023/registration).
 -->
 
 ## Satellite Events
 
-DisCoTec 2024 will include *tutorials and workshops* on a broad spectrum of distributed computing subjects.
+DisCoTec 2024 will include workshops on a broad spectrum of distributed computing subjects.
 
+<!--
 Satellite events will take place on Monday, June 17, 2024, and on Friday, June 21, 2024.
-
-### Call for Satellite Events 
-
-Researchers and practitioners are invited to [submit proposals for satellite events (workshops and tutorials)](csep) to be affiliated to DisCoTec 2024.
 
 #### Important Dates
 
-* **Proposal submission deadline**:
-  Monday, February 12, 2024
-  (but we would like to hear about prospective proposals as soon as possible).
+* ~~**Proposal submission deadline**~~:
+  ~~Monday, February 12, 2024~~
+  ~~(but we would like to hear about prospective proposals as soon as possible).~~
 * **Notification of accepted satellite events**:
   Friday, March 1st, 2024.
 
 ### Confirmed Satellite Events
+-->
+* [DiDiT 2024](https://distributeddigitaltwins.github.io/2024/): The 1st International Workshop on Distributed Digital Twins (June 17, 2024)
 * [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience (June 21, 2024)
-* PLNL 2024: The Fourth VERSEN Workshop on Programming Languages in The Netherlands (date TBD)
+* [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands (June 21, 2024)
+
 
 
 <!--
@@ -231,20 +231,25 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 -->
 
 ## Further Information
-* Please contact the general chair ([Jorge A. Pérez][JorgeWeb])
+* Please contact the general chair ([Jorge A. Pérez][JorgeWeb]).
 * Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
 
 ## Sponsors & Supporters
 
-<a href="https://www.ifip.org">
-  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" height="90px">
-</a>
-&nbsp;   &nbsp;   &nbsp;   &nbsp;
-<a href="https://eapls.org">
-<img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" height="90px">
-</a>
-&nbsp;   &nbsp;   &nbsp;   &nbsp;
-<a href="http://rug.nl">
-<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logoen_rood_rgb.jpg" height="90px">
-</a>
-
+<p float="left">
+  <a href="https://www.nwo.nl">
+    <img alt="nwo-logo" src="NWO.jpg" height="135px" />
+  </a>
+  &nbsp;
+  <a href="https://www.ifip.org">
+    <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" height="88px" />
+  </a>
+  &nbsp;
+  <a href="https://eapls.org">
+    <img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" height="88px" />
+  </a>
+  &nbsp;
+  <a href="http://rug.nl">
+    <img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logoen_rood_rgb.jpg" height="88px" />
+  </a>
+</p>

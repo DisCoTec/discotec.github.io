@@ -1,7 +1,37 @@
-[![](discotec2023-banner.v3.png)](https://www.discotec.org/2023/)
-
+[![](banner2024.v2.png)](.)
+*Photo by Robin Mathlener on [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)* 
 
 # Programme
+
+## In A Nutshell
+
+### Monday, June 17: DisCoTec Workshops
+* [DiDiT 2024](https://distributeddigitaltwins.github.io/2024/): The 1st International Workshop on Distributed Digital Twins 
+* Welcome reception
+
+
+### Tuesday, June 18: DisCoTec Main Conferences
+* Invited Talk: [Laura Kovács](https://www.discotec.org/2024/invited) 
+* Contributed papers (COORDINATION, DAIS, FORTE)
+
+### Wednesday, June 19: DisCoTec Main Conferences
+* Invited Talk: [Paulo Veríssimo](https://www.discotec.org/2024/invited)
+* Contributed papers (COORDINATION, DAIS, FORTE)
+* Social activities: excursion and social dinner
+
+### Thursday, June 20: DisCoTec Main Conferences
+* Invited Talk: [Marieke Huisman](https://www.discotec.org/2024/invited) 
+* Joint session: Best contributed papers (COORDINATION, DAIS, FORTE)
+
+
+### Friday, June 21: DisCoTec Workshops
+* [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience 
+* [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands 
+
+## Detailed Program
+*To be announced.*
+
+<!--
 
 *All times are listed for* [**WEST** *(Western European Summer Time)*](https://time.is/WEST)
 
@@ -10,23 +40,6 @@
 ### ICE (Workshop on Interaction and Concurrency Experience)
 Go to the [programme page](https://www.discotec.org/2023/ice).
 
-### Tutorials
-
-The tutorials will take place at **Room 217** at [Colégio Almada Negreiros](https://goo.gl/maps/PQuWDiXQ3qnbofnm8?coh=178572&entry=tt).
-
-| Time   | Distribution Track |
-| :---: | :---: |
-| 10:10-11:10 | Implementing and Evaluating Distributed Protocols with Babel (I) | 
-| **11:10-11:30** | **Coffee break** |
-| 11:30-13:00 | Implementing and Evaluating Distributed Protocols with Babel (II) |
-| **13:00-14:30** | **Lunch break** |
-| __**Time**__   | __**Verification Track**__ |
-| 14:30-15:30 | ~~Deductive Verification of OCaml Programs in Cameleer (I)~~ (Cancelled due to a force majeure event) |
-| **16:00-16:30** | **Coffee break** | |
-| 16:30-18:00 | ~~Deductive Verification of OCaml Programs in Cameleer (II)~~ (Cancelled due to a force majeure event) |
-| **19:00-20:00** | **Welcome reception** | 
-
-<br/>
 
 
 
@@ -249,4 +262,21 @@ by Sina Sheikholeslami, Amir H. Payberah, Tianze Wang, Jim Dowling, and Vladimir
 - With a little help from your friends: semi-cooperative games via Joker moves <br/> 
 by Petra van den Bos and Marielle Stoelinga
 
+-->
 
+
+## Further Information
+* Please contact the general chair ([Jorge A. Pérez][JorgeWeb])
+* Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
+
+## Sponsors & Supporters
+
+<a href="https://www.nwo.nl">
+<img alt="nwo-logo" src="https://www.nwo.nl/themes/custom/nwo/assets/images/logo.svg?v=23" height="135px">
+</a> &nbsp;   &nbsp;<a href="https://www.ifip.org">
+  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" height="88px">
+</a>&nbsp;   &nbsp;<a href="https://eapls.org">
+<img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" height="88px">
+</a>&nbsp;   &nbsp;<a href="http://rug.nl">
+<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logoen_rood_rgb.jpg" height="88px">
+</a>
