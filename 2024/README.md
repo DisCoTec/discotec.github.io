@@ -21,7 +21,7 @@ Please visit the pages of each conference for details on topics of interest, pap
 
 
 ## Programme
-Go to the [programme page](https://www.discotec.org/2024/programme) for preliminary information.
+Go to the [programme page](https://www.discotec.org/2024/programme) for detailed information.
 
 
 ## Keynote Speakers
@@ -105,7 +105,7 @@ Details will be made available soon.
 
 ## Accommodation
 
-We strongly recommend booking a room as soon as possible: mid June is a busy period in the Groningen area.
+We strongly recommend booking a room **as soon as possible**: mid June is a busy period in the Groningen area.
 
 The DisCoTec events will take place in the Zernike campus, which is located in the north part of the city. The campus is about 4 km from the city center, where most hotels are located. We recommend staying in the center, as there are good bus connections with the Zernike campus. 
 
