@@ -66,7 +66,7 @@ Applications should arrive by the early registration date, and will be handled o
 
 
 ## Visa Information
-For official information about visas for entering The Netherlands, please refer to the following webpage: https://www.netherlandsworldwide.nl/visa-the-netherlands
+For official information about visas for entering The Netherlands, please refer to [this webpage](https://www.netherlandsworldwide.nl/visa-the-netherlands).
 
 In case you need an invitation letter, after completing the registration process, please send your request to discotec2024@rug.nl (subject: “DisCoTec 2024 - Visa invitation letter”) by specifying the following details:
 
@@ -83,7 +83,7 @@ In case you need an invitation letter, after completing the registration process
 In order to keep registration fees as low as possible, there will be no refunds in cases of cancellation. However, registered participants who have to cancel their participation may be substituted by another participant at no extra cost.
 
 
-## Sponsors & Supporters
+# Sponsors & Supporters
 
 <p float="left">
   <a href="https://www.nwo.nl">
@@ -102,3 +102,4 @@ In order to keep registration fees as low as possible, there will be no refunds 
     <img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logoen_rood_rgb.jpg" height="88px" />
   </a>
 </p>
+
