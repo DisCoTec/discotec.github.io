@@ -25,17 +25,22 @@ Register for attending the conference by filling this registration form (LINK TB
 
 | | Early (until May 22) | Late (until June 12) |
 | - | -: | -: |
-| **DisCoTec Conferences + Workshops (Monday - Friday)** | EUR -  | EUR - | 
-| **DisCoTec Conferences only (Tuesday - Thursday)** | EUR - | EUR - |
+| **DisCoTec Conferences + Workshops** (Monday - Friday) | EUR -  | EUR - | 
+| **DisCoTec Conferences only** (Tuesday - Thursday) | EUR - | EUR - |
 | **Monday Workshop (DiDiT)** | EUR - | EUR - |
 | **Friday Workshops (ICE and PLNL)** | EUR - | EUR - |
 
+## Social Events
 ### Welcome reception on Monday 17
-Access to the Welcome reception on Monday, June 17 is included in:
+Access to the Welcome reception on Monday (at the House of Connections), June 17 is included in:
 * Registration to “DisCoTec Conferences + Workshops”
 * Registration to “Monday Workshop” 
 
+### Social program on Wednesday 19
+* Excursion
+* Conference dinner
 
+## Event Description
 ### Registration to “DisCoTec Conferences + Workshops” includes:
 * All benefits of “DisCoTec Conferences only” (see below).
 * All benefits of “Monday Workshop” (see below).
@@ -45,9 +50,9 @@ Access to the Welcome reception on Monday, June 17 is included in:
 * Access to all Coordination, DAIS, and FORTE sessions on Tuesday 18, Wednesday 19, and Thursday 20.
 * Lunch and two coffee breaks on Tuesday 18, Wednesday 19, and Thursday 20.
 * Free access to the online LNCS proceedings of Coordination, DAIS, and FORTE.
-* Excursion and Conference dinner on Wednesday 19.
+* Excursion and conference dinner on Wednesday 19.
 
-#### Registration to “Monday Workshop” includes:
+### Registration to “Monday Workshop” includes:
 * Access to the workshop DiDiT on Monday 17.
 * Lunch and two coffee breaks on Monday 17.
 * Welcome reception (at the House of Connections) on Monday 17.
