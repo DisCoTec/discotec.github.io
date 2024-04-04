@@ -96,15 +96,25 @@ The nearest metro station to NOVA is São Sebastião (700m, 9 min walking distan
 The red line directly connects Lisbon Airport to the metro station *São Sebastião*.
 
 The subway (Metro) network diagram can be found [here](https://www.metrolisboa.pt/en/travel/diagrams-and-maps/).
-
-## Accommodations
-You can find several hotels nearby the conference venue [here](https://www.google.pt/maps/search/Hotéis/@38.732843,-9.1729554,15z/data=!3m1!4b1!4m9!2m8!3m6!1zSG90w6lpcw!2sColégio+Almada+Negreiros,+Universidade+Nova+de+Lisboa,+Faculdade+de+Direito,+Tv.+Estêvão+Pinto,+1099-032+Lisboa!3s0xd19336270152f73:0x7f4b48ea0549f8e2!4m2!1d-9.1603597!2d38.7328185!6e3?hl=pt-PT).
 -->
 
 ## Registration
 Details will be made available soon.
-<!--Go to the [registration page](https://www.discotec.org/2023/registration).
+<!--Go to the [registration page](https://www.discotec.org/2024/registration).
 -->
+
+## Accommodation
+
+We strongly recommend booking a room as soon as possible: mid June is a busy period in the Groningen area.
+
+The DisCoTec events will take place in the Zernike campus, which is located in the north part of the city. The campus is about 4 km from the city center, where most hotels are located. We recommend staying in the center, as there are good bus connections with the Zernike campus. 
+
+You can book accommodation using well-known platforms such as [booking.com](https://www.booking.com) and [airbnb](https://www.airbnb.com).
+
+We are working on special arrangements for DisCoTec participamts; details will be made available soon.
+ 
+<!--Alternatively, we have blocked a limited number of rooms in selected hotels for DisCoTec participants. These rooms are available on a first-come, first-served basis. To get details about prices and secure your booking, please check [here](https://www.discotec.org/2024/hotels)-->
+
 
 ## Satellite Events
 
