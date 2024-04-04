@@ -13,7 +13,7 @@
 * At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
 * All registration fees below include 23% of VAT.
 * Similar to past editions, there are no special fees for students, but we have a limited amount of student travel grants provided by IFIP; see below for details.
-* The online registration form will close on June 12. We encourage potential participants to register before that date; in case this is not possible, please contact the local organization (discotec2024@rug.nl) well in advance.
+* The online registration form will close on June 12. If registering by this date is not possible, please contact the local organization (discotec2024@rug.nl) well in advance.
 * In order to keep registration fees as low as possible, on-site registration and cancellations/refunds are not supported (see also below). 
 * If you have any questions about the registration, please contact discotec2024@rug.nl (please, refer to “DisCoTec 2024 Registration” in the subject).
 

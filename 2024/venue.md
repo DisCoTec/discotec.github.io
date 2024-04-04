@@ -63,11 +63,11 @@ You can purchase tickets from the machines only by using your Credit Card or a D
 If you use a single-use chip card or OV-chipkaart please make sure you check in and out; hold your OV-chipkaart up against the NS card reader in one of the gates or free-standing posts.
 
 ### Moving around by bike
-Moving around Groningen by bike is an excellent alternative. The NS offers a very convenient alternative for bicycle renting; see [here](https://www.ns.nl/en/door-to-door/ov-fiets) for details. Always make sure sure to know and follow the [cycling rules in the Netherlands](https://holland2stay.com/blog/dutch-cycling-rules.html).
+Moving around Groningen by bike is an excellent alternative. The NS offers a very convenient alternative for bicycle renting; see [here](https://www.ns.nl/en/door-to-door/ov-fiets) for details. Always make sure to know and follow the [cycling rules in the Netherlands](https://holland2stay.com/blog/dutch-cycling-rules.html).
 
 ### Travel by Car
 We discourage arriving to Groningen by car. 
-Due to [major construction works in the roads surrounding Groningen](https://www.groningenbereikbaar.nl/en/serious-traffic-disruption-in-groningen), serious traffic disruptions are expected. 
+Serious traffic disruptions are expected due to [major construction works in the roads surrounding Groningen](https://www.groningenbereikbaar.nl/en/serious-traffic-disruption-in-groningen). 
 
 ## Planning your journey in the Netherlands
 The website/app [9292.nl](www.9292.nl) is a very useful tool for planning your journey in the Netherlands. 
