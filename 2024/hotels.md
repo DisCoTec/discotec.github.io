@@ -21,11 +21,11 @@ Alternatively, we have arranged some limited block reservations and special deal
 * Address: Grote Markt 31, 9712 HS Groningen
 * Tel.no.: +31(0)50 207 4600 
 * E-mail: info@themarkethotel.nl
-* Block reservation (until 16 April): 
+* Block reservation (**until 16 April**): 
   * 9 Superior rooms for 17-21 June for:
     * €143/night incl. breakfast and city tax for single occupancy.
     * €168/night incl. breakfast and city tax for double occupancy.
-* How to reserve: Reservation requests should be made via [this form](https://forms.gle/EdwCLcDxRfN2S4jt5).
+* How to reserve: Reservation requests should be made via [**this form**](https://forms.gle/EdwCLcDxRfN2S4jt5).
 
 
 
@@ -33,7 +33,7 @@ Alternatively, we have arranged some limited block reservations and special deal
 * Address: Gedempte Zuiderdiep 8, 9711 HG Groningen
 * Tel.no.: +31 (0)50 312 9919
 * E-mail: info@martinihotel.nl
-* Block reservation (until 29 April): 
+* Block reservation (**until 29 April**): 
   * 10 Small double/twin rooms for 16-22 June for €104.50/night incl. breakfast (based on single occupancy).
 * How to reserve:  By email directly to the hotel. Please mention the code: MRT-GF2405 (and the DisCoTec conference). 
 
@@ -41,7 +41,7 @@ Alternatively, we have arranged some limited block reservations and special deal
 * Address: Oosterstraat 53, 9711 NR Groningen
 * Tel.no.: +31 (0)50 318 9502
 * E-mail: info@schimmelpenninckhuys.nl
-* Block reservation (until 15 April): Prices are per room excl. breakfast (€17.50 pp/day) and excl. city tax (ca. €5 pp/day).
+* Block reservation (**until 15 April**): Prices are per room excl. breakfast (€17.50 pp/day) and excl. city tax (ca. €5 pp/day).
   * 4x Single room  €85/night
   * 2x Cosy (small double bed): €95/night
   * 2x Charme (double/twin room):  €105/night
@@ -53,7 +53,7 @@ See the hotel website for details on room types.
 * Address: Ganzevoortsingel 2-1, 9711 AL Groningen
 * Tel.no.: +31(0)50 368 4810
 * E-mail: info@asgardhotel.nl
-* Block reservation (until 16 April): 
+* Block reservation (**until 16 April**): 
   * 7 rooms (2x single, 5x double) for 16-21 June for €121.50/night incl. breakfast and city tax (based on single occupancy). (Check-out 22 June is not possible.)  
 * How to reserve: By email or telephone directly to the hotel. Please mention the code: DisCoTec congres
 
