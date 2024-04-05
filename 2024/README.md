@@ -111,9 +111,9 @@ The DisCoTec events will take place in the Zernike campus, which is located in t
 
 You can book accommodation using well-known platforms such as [booking.com](https://www.booking.com) and [airbnb](https://www.airbnb.com).
 
-We are working on special arrangements for DisCoTec participamts; details will be made available soon.
+<!--We are working on special arrangements for DisCoTec participamts; details will be made available soon.-->
  
-<!--Alternatively, we have blocked a limited number of rooms in selected hotels for DisCoTec participants. These rooms are available on a first-come, first-served basis. To get details about prices and secure your booking, please check [here](https://www.discotec.org/2024/hotels)-->
+Alternatively, we have blocked a limited number of rooms in selected hotels for DisCoTec participants. These rooms are available on a first-come, first-served basis. To get details about prices and secure your booking, please check [here](https://www.discotec.org/2024/hotels).
 
 
 ## Satellite Events
