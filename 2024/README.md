@@ -99,7 +99,15 @@ The subway (Metro) network diagram can be found [here](https://www.metrolisboa.p
 -->
 
 ## Registration
-Details will be made available soon.
+At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
+
+The interface for online registration will be active on **April 11, 2024**, at the latest.  
+
+Important dates:
+* Early registration: Possible until **May 22, 2024**. 
+* Late registration: Possible until **June 12, 2024**. 
+
+
 <!--Go to the [registration page](https://www.discotec.org/2024/registration).
 -->
 

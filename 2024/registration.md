@@ -25,10 +25,10 @@ Register for attending the conference by filling this registration form (LINK TB
 
 | | Early (until May 22) | Late (until June 12) |
 | - | -: | -: |
-| **DisCoTec Conferences + Workshops** (Monday - Friday) | EUR -  | EUR - | 
-| **DisCoTec Conferences only** (Tuesday - Thursday) | EUR - | EUR - |
-| **Monday Workshop (DiDiT)** | EUR - | EUR - |
-| **Friday Workshops (ICE and PLNL)** | EUR - | EUR - |
+| **DisCoTec Conferences + Workshops** (Monday - Friday) | EUR 650  | EUR 750 | 
+| **DisCoTec Conferences only** (Tuesday - Thursday) | EUR 525 | EUR 625 |
+| **Monday Workshop (DiDiT)** | EUR 180 | EUR 180 |
+| **Friday Workshops (ICE and PLNL)** | EUR 180 | EUR 180 |
 
 ## Social Events
 ### Welcome reception on Monday 17

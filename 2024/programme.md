@@ -265,10 +265,6 @@ by Petra van den Bos and Marielle Stoelinga
 -->
 
 
-## Further Information
-* Please contact the general chair ([Jorge A. Pérez][JorgeWeb])
-* Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
-
 ## Sponsors & Supporters
 
 <a href="https://www.nwo.nl">
