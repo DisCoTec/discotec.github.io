@@ -66,11 +66,10 @@ The following deadlines expire at 23:59 [anywhere on earth (AoE)](https://www.ti
 
 
 
-<!--
+
 ## Accepted Papers
 
-Go to the [list of accepted papers](https://www.discotec.org/2023/accepted-papers).
--->
+Go to the [list of accepted papers](https://www.discotec.org/2024/accepted-papers).
 
 ## Conference Venue
 [Bernoulliborg (Bernoulli building)](https://maps.app.goo.gl/19cPCD1vyGQX4ph49) <br />
