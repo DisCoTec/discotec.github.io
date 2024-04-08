@@ -33,9 +33,7 @@ Topics of interest encompass all areas of coordination, including (but not limit
 * [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, Austria)
 * [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, Kingdom of Saudi Arabia)
 
-## Submissions
-
-### Important dates (extended)
+## Important dates (extended)
 * Abstract submission: ~~February 02, 2024~~  February 16, 2024
 * Paper submission: ~~February 09, 2024~~  February 23, 2024
 * Paper notification: ~~March 29, 2024~~  April 5, 2024
@@ -43,6 +41,35 @@ Topics of interest encompass all areas of coordination, including (but not limit
 * Conference:  June 18-20, 2024
 
 Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
+
+## List of accepted papers 
+The following list does not include conditionally accepted papers.
+
+### Regular papers
+* Sourabh Pal, Ivan Lanese and Massimo Clo.	_Choreographic Automata: A Case Study in Healthcare Management_.
+* Marco Carbone and Adele Veschetti. _A Probabilistic Choreography Language for PRISM_.
+* Benjamin Bogø, Andrea Burattin and Alceste Scalas.	_Encoding Petri Nets into CCS_.
+* Davide Domini, Gianluca Aguzzi, Mirko Viroli and Lukas Esterle. _Field-based Coordination for Federated Learning_.
+* Christian Bartolo Burlò, Adrian Francalanza, Emilio Tuosto and Alceste Scalas. _COTS: Connected OpenAPI Test Synthesis for RESTful Applications_.
+* Davide Basile. _Modelling, Verifying and Testing the Contract Automata Runtime Environment with Uppaal_.
+* Muhammad Rizwan Ali, Yngve Lamo and Violet Ka I Pun. _Simulation-based Decision Support for Cross-Organisational Workflows: A Case Study of Emergency Handling_.
+* Giorgio Audrito, Daniele Bortoluzzi, Ferruccio Damiani, Giordano Scarso and Gianluca Torta. _An Enhanced Exchange Operator for XC_.
+  
+### Short papers
+* Marco Carbone, David Castro-Perez, Francisco Ferreira, Lorenzo Gheri, Frederik Krogsdal Jacobsen, Alberto Momigliano, Luca Padovani, Alceste Scalas, Dawit Tirore, Martin Vassor, Nobuko Yoshida and Daniel Zackon. _The Concurrent Calculi Formalisation Benchmark_.
+
+### Survey papers
+* Maurice ter Beek, Rolf Hennicker and José Proença. _Team Automata: Overview and Roadmap_.
+
+### Tool papers
+* Giuseppe De Palma, Saverio Giallorenzo, Jacopo Mauro, Matteo Trentin and Gianluigi Zavattaro. _An OpenWhisk Extension for Topology-aware Allocation Priority Policies_.
+* Joao Afonso, Elvis Gerardin Konjoh Selabi, Maurizio Murgia, Antonio Ravara and Emilio Tuosto. _TRAC: a tool for data-aware coordination (with an application to smart contracts)_.
+* Gianluca Aguzzi, Roberto Casadei, Matteo Cerioni and Mirko Viroli. _ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design_.
+* Nicola Del Giudice, Federico Maria Cruciani and Michele Loreti. _Visualisation of Collective Systems with Sequit and Sibilla_.
+* Adrian Francalanza, Frank Pfenning and Gerard Tabone. _Implementing a Message-Passing Interpretation of the Semi-Axiomatic Sequent Calculus (SAX)_.  
+
+
+## Submissions
 
 ### Submission site
 [https://easychair.org/conferences/?conf=coordination2024](https://easychair.org/conferences/?conf=coordination2024)
