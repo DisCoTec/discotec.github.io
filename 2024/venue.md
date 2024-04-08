@@ -70,7 +70,7 @@ We discourage arriving to Groningen by car.
 Serious traffic disruptions are expected due to [major construction works in the roads surrounding Groningen](https://www.groningenbereikbaar.nl/en/serious-traffic-disruption-in-groningen). 
 
 ## Planning your journey in the Netherlands
-The website/app [9292.nl](www.9292.nl) is a very useful tool for planning your journey in the Netherlands. 
+The website/app [9292.nl](https://www.9292.nl) is a very useful tool for planning your journey in the Netherlands. 
 
 The planner combines all available public transportation (trains, buses, trams, metro, and boats) to provide an optimal route. It also informs you real-time about the current delays and disruptions in public transportation.
 

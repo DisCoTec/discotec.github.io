@@ -10,6 +10,9 @@ Welcome to DisCoTec 2024!
 
 DisCoTec 2024 will take place in [Groningen, The Netherlands](venue), between June 17-21, 2024, hosted by the [University of Groningen](https://www.rug.nl).
 
+## Venue: Groningen, The Netherlands
+See detailed information [here](venue). See below for accommodation and registration information.
+
 ## Main Conferences
 DisCoTec gathers conferences that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches:
 
