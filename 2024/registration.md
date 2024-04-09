@@ -18,7 +18,7 @@
 * If you have any questions about the registration, please contact discotec2024@rug.nl (please, refer to “DisCoTec 2024 Registration” in the subject).
 
 ## Registration Link
-Register for attending the conference by filling this registration form (LINK TBA).
+Register for attending the conference by filling the [registration form](https://santu.com/dsy027).
 
 
 ## Events and Fees
@@ -32,13 +32,18 @@ Register for attending the conference by filling this registration form (LINK TB
 
 ## Social Events
 ### Welcome reception on Monday 17
-Access to the Welcome reception on Monday (at the House of Connections), June 17 is included in:
+Access to the Welcome reception on Monday, June 17 (at the House of Connections) is included in:
 * Registration to “DisCoTec Conferences + Workshops”
 * Registration to “Monday Workshop” 
 
 ### Social program on Wednesday 19
 * Excursion
 * Conference dinner
+
+### Closing drinks on Friday 21
+Access to the closing drinks on Friday, June 21 (at the Bernoulliborg )is included in:
+* Registration to “DisCoTec Conferences + Workshops”
+* Registration to “Friday Workshop” 
 
 ## Event Description
 ### Registration to “DisCoTec Conferences + Workshops” includes:
