@@ -24,7 +24,7 @@ Please visit the pages of each conference for details on topics of interest, pap
 
 
 ## Programme
-Go to the [programme page](https://www.discotec.org/2024/programme) for detailed information.
+Go to the [programme page](./programme) for detailed information.
 
 
 ## Keynote Speakers
@@ -33,7 +33,7 @@ We are pleased to announce the following keynote speakers:
 * [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
 * [Paulo Veríssimo](https://cemse.kaust.edu.sa/people/person/paulo-verissimo) (KAUST, SA)
 
-Go to the [dedicated page](https://www.discotec.org/2024/invited) for details on these keynote lectures.
+Go to the [dedicated page](./invited) for details on these keynote lectures.
 
 ## Proceedings
 The proceedings of the main conferences will be published as volumes in the [Springer LNCS-IFIP](https://www.springer.com/series/8345) series. 
@@ -69,7 +69,7 @@ The following deadlines expire at 23:59 [anywhere on earth (AoE)](https://www.ti
 
 ## Accepted Papers
 
-Go to the [list of accepted papers](https://www.discotec.org/2024/accepted-papers).
+Go to the [list of accepted papers](./accepted-papers).
 
 ## Conference Venue
 [Bernoulliborg (Bernoulli building)](https://maps.app.goo.gl/19cPCD1vyGQX4ph49) <br />
@@ -110,7 +110,7 @@ Important dates:
 * Late registration: Possible until **June 12, 2024**. 
 
 
-<!--Go to the [registration page](https://www.discotec.org/2024/registration).
+<!--Go to the [registration page](./registration).
 -->
 
 ## Accommodation
@@ -123,7 +123,7 @@ You can book accommodation using well-known platforms such as [booking.com](http
 
 <!--We are working on special arrangements for DisCoTec participamts; details will be made available soon.-->
  
-Alternatively, we have blocked a limited number of rooms in selected hotels for DisCoTec participants. These rooms are available on a first-come, first-served basis. To get details about prices and secure your booking, please check [here](https://www.discotec.org/2024/hotels).
+Alternatively, we have blocked a limited number of rooms in selected hotels for DisCoTec participants. These rooms are available on a first-come, first-served basis. To get details about prices and secure your booking, please check [here](./hotels).
 
 
 ## Satellite Events
@@ -144,7 +144,7 @@ Satellite events will take place on Monday, June 17, 2024, and on Friday, June 2
 ### Confirmed Satellite Events
 -->
 * [DiDiT 2024](https://distributeddigitaltwins.github.io/2024/): The 1st International Workshop on Distributed Digital Twins (June 17, 2024)
-* [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience (June 21, 2024)
+* [ICE 2024](./ice): 17th Interaction and Concurrency Experience (June 21, 2024)
 * [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands (June 21, 2024)
 
 
@@ -204,6 +204,7 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 * [Juan C. Jaramillo][JuanWeb] (University of Groningen, NL)
 * [Claudio Antares Mezzina][ClaudioWeb] (University of Urbino, IT — Workshops and Tutorials Co-chair)
 * [Bas van den Heuvel][BasWeb] (Karlsruhe University of Applied Sciences and University of Freiburg, DE — Publicity Chair)
+* [Helle Hvid Hansen][HelleWeb] (University of Groningen, NL)
 
 [AntonWeb]: https://www.rug.nl/staff/a.chernev/
 [IlariaWeb]: https://www-sop.inria.fr/members/Ilaria.Castellani/
@@ -218,6 +219,7 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 [DanWeb]: https://groupoid.moe
 [ClaudioWeb]: https://sites.google.com/view/claudio-mezzina
 [BasWeb]: https://basvdheuvel.github.io
+[HelleWeb]: https://www.rug.nl/staff/h.h.hansen/
 
 [RobertoWeb]: https://www.unibo.it/sitoweb/roby.casadei/
 
