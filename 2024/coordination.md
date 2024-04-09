@@ -44,6 +44,7 @@ Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
 
 ## Accepted Papers 
 Go to the [list of accepted papers](https://www.discotec.org/2024/accepted-papers).
+
 <!--
 The following list does not include conditionally accepted papers.
 
