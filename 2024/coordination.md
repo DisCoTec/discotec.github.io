@@ -42,7 +42,9 @@ Topics of interest encompass all areas of coordination, including (but not limit
 
 Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
 
-## List of accepted papers 
+## Accepted Papers 
+Go to the [list of accepted papers](https://www.discotec.org/2024/accepted-papers).
+<!--
 The following list does not include conditionally accepted papers.
 
 ### Regular papers
@@ -67,7 +69,7 @@ The following list does not include conditionally accepted papers.
 * Gianluca Aguzzi, Roberto Casadei, Matteo Cerioni and Mirko Viroli. _ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design_.
 * Nicola Del Giudice, Federico Maria Cruciani and Michele Loreti. _Visualisation of Collective Systems with Sequit and Sibilla_.
 * Adrian Francalanza, Frank Pfenning and Gerard Tabone. _Implementing a Message-Passing Interpretation of the Semi-Axiomatic Sequent Calculus (SAX)_.  
-
+-->
 
 ## Submissions
 
