@@ -8,7 +8,7 @@ DisCoTec 2024 will take place in Groningen, The Netherlands (see information abo
 We strongly recommend booking a room **as soon as possible**: mid June is a busy period in the Groningen area. 
 
 The DisCoTec events will take place in the Zernike campus, which is located in the north part of the city. The campus is about 4 km from the city center, where most hotels are located. Still, we recommend staying in the center, as there are good bus connections with the Zernike campus. 
-For transport information, we recommend to use [9292](https://9292.nl) or Google Maps.  
+For transport information, we recommend to use [9292](https://9292.nl/en) or Google Maps.  
 
 You can book accommodation using well-known platforms such as [booking.com](https://www.booking.com) and [airbnb](https://www.airbnb.com).
  
@@ -19,7 +19,7 @@ Alternatively, we have arranged some limited block reservations and special deal
 
 ### [The Market Hotel](https://themarkethotel.com/) 
 * Address: Grote Markt 31, 9712 HS Groningen
-* Tel.no.: +31(0)50 207 4600 
+* Tel.no.: +31 (0)50 207 4600 
 * E-mail: info@themarkethotel.nl
 * Block reservation (**until 16 April**): 
   * 9 Superior rooms for 17-21 June for:
@@ -51,7 +51,7 @@ See the hotel website for details on room types.
 
 ### [Asgard Hotel](https://www.asgardhotel.nl/en/)
 * Address: Ganzevoortsingel 2-1, 9711 AL Groningen
-* Tel.no.: +31(0)50 368 4810
+* Tel.no.: +31 (0)50 368 4810
 * E-mail: info@asgardhotel.nl
 * Block reservation (**until 16 April**): 
   * 7 rooms (2x single, 5x double) for 16-21 June for €121.50/night incl. breakfast and city tax (based on single occupancy). (Check-out 22 June is not possible.)  
