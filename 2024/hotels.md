@@ -61,7 +61,7 @@ Alternatively, we have arranged some limited block reservations and special deal
 * Special deal: Free breakfast.
 * How to reserve: Book via the hostel’s website, fill in discount code “discotec24” to get free breakfast.
 
-### [Bud Gett Hostel](https://www.budgetthostels.nl)
+### [BudGett Hostel](https://www.budgetthostels.nl/?lang=en)
 * Address: Gedempte Zuiderdiep 8, 9711 HG Groningen
 * Tel.no.: +31 (0)50 588 6558
 * E-mail: receptie@budgetthostels.nl
