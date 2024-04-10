@@ -29,7 +29,7 @@
 * [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands 
 
 ## Detailed Program
-*To be announced.*
+To be announced. In the meantime, go to the [list of accepted papers](./accepted-papers).
 
 <!--
 

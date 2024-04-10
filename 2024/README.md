@@ -12,21 +12,23 @@ DisCoTec 2024 will take place in [Groningen, The Netherlands](venue), between Ju
 
 ## Quick Links
 * [Venue](#venue-groningen-the-netherlands)
-* [Kenote Speakers](#keynote-speakers)
+* [Keynote Speakers](#keynote-speakers)
 * [Accepted Papers](#accepted-papers)
 * [Accommodation](#accommodation)
 * [Registration](#registration)
+* [Main Conferences](#main-conferences)
+* [Workshops](#satellite-events)
 * [Further Informatiom](#further-information)
 
 ## Venue: Groningen, The Netherlands
-## Conference Venue
+### Conference Location
 [Bernoulliborg (Bernoulli building)](https://maps.app.goo.gl/19cPCD1vyGQX4ph49) <br />
 Faculty of Science and Engineering <br />
 [University of Groningen](https://www.rug.nl/) <br />
 Nijenborgh 9, 9747 AG Groningen
 
-See detailed information about Groningen [here](venue). See below for accommodation and registration information.
-
+### More Information
+See detailed information about Groningen [here](venue). 
 ## Main Conferences
 DisCoTec gathers conferences that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches:
 
@@ -112,15 +114,13 @@ The subway (Metro) network diagram can be found [here](https://www.metrolisboa.p
 ## Registration
 At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
 
-The interface for online registration will be active on **April 11, 2024**, at the latest.  
+The interface for online registration is available at the [registration page](./registration).
 
 Important dates:
 * Early registration: Possible until **May 22, 2024**. 
 * Late registration: Possible until **June 12, 2024**. 
 
 
-<!--Go to the [registration page](./registration).
--->
 
 ## Accommodation
 
