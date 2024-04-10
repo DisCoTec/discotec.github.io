@@ -80,11 +80,16 @@ The planner combines all available public transportation (trains, buses, trams, 
 ## Accommodation
 We strongly recommend booking a room as soon as possible: mid June is a busy period in the Groningen area.
 
-The DisCoTec events will take place in the Zernike campus, which is located in the north part of the city. The campus is about 4 km from the city center, where most hotels are located. We recommend staying in the center, as there are good bus connections with the Zernike campus. 
+For more details, please see the [accommodation page](./hotels).
+
+<!-- The DisCoTec events will take place in the Zernike campus, which is located in the north part of the city. The campus is about 4 km from the city center, where most hotels are located. We recommend staying in the center, as there are good bus connections with the Zernike campus. 
 
 You can book accommodation using well-known platforms such as [booking.com](https://www.booking.com) and [airbnb](https://www.airbnb.com).
 
 We are working on special arrangements for DisCoTec participamts; details will be made available soon.
+-->
+
+
 
 # Sponsors & Supporters
 
