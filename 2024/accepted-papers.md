@@ -34,9 +34,29 @@ The following list does not include conditionally accepted papers.
 
 * To be announced
 
-## FORTE accepted papers
+## [FORTE](https://www.discotec.org/2024/forte.html)
 
-* To be announced
+### Regualr papers
+
+* Mário S. Alvim, Sophia Knight, Artur Gaspar Silva and Frank Valencia. _A Multi-Agent Model for Opinion Evolution under Cognitive Biases_.
+* Nick Bezhanishvili, Vincenzo Ciancia, David Gabelaia, Mamuka Jibladze, Diego Latella, Mieke Massink and Erik De Vink. _Weak Simplicial Bisimilarity for Polyhedral Models and SLCSη_.
+* Andrea Esposito, Alessandro Aldini and Marco Bernardo. _Noninterference Analysis of Reversible Probabilistic Systems_.
+* Christopher Esterhuyse, Tim Müller and L. Thomas van Binsbergen. _JustAct: Actions Universally Justified by Partial Dynamic Policies_.
+* Julien Grange and Mathieu Lehaut. _Synthesis for prefix first-order logic on data words_.
+* Matthew Alan Le Brun and Ornela Dardha. _MAGπ!: The Role of Replication in Typing Failure-Prone Communication_.
+* Sergueï Lenglet and Alan Schmitt. _Leaf-First Zipper Semantics_.
+* Neda Saeedloei and Feliks Kluzniak. _Synthesizing Timed Automata with Minimal Numbers of Clocks from Optimized Timed Scenarios_.
+* Ennio Visconti, Ezio Bartocci, Yliès Falcone and Laura Nenzi. _Adaptable configuration of decentralized monitors_.
+* Weili Wang, Jianyu Niu, Michael Reiter and Yinqian Zhang. _Formally Verifying a Rollback-Prevention Protocol for TEEs_.
+
+### Short papers
+
+* Tom T.P. Franken and Thomas Neele. _AuDaLa is Turing Complete_.
+* Rong Gu, Zahra Moezkarimi and Marjan Sirjani. _Guess and then Check: Controller Synthesis for Safe and Secure Cyber-Physical Systems_.
+
+### Tool papers
+
+* Tom Rousseaux, Christophe Crochet, John Aoga and Axel Legay. _Network Simulator-centric Compositional Testing_.
 
 
 ## Sponsors & Supporters
