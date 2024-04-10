@@ -21,7 +21,7 @@ Alternatively, we have arranged some limited block reservations and special deal
 * Address: Grote Markt 31, 9712 HS Groningen
 * Tel.no.: +31 (0)50 207 4600 
 * E-mail: info@themarkethotel.nl
-* Block reservation (**until 16 April**): 
+* Block reservation (**until 1 June**): 
   * 9 Superior rooms for 17-21 June for:
     * €143/night incl. breakfast and city tax for single occupancy.
     * €168/night incl. breakfast and city tax for double occupancy.
