@@ -28,7 +28,6 @@ Alternatively, we have arranged some limited block reservations and special deal
 * How to reserve: Reservation requests should be made via [**this form**](https://forms.gle/EdwCLcDxRfN2S4jt5).
 
 
-
 ### [Martini Hotel](https://martinihotel.nl/?lang=en)
 * Address: Gedempte Zuiderdiep 8, 9711 HG Groningen
 * Tel.no.: +31 (0)50 312 9919
@@ -43,8 +42,8 @@ Alternatively, we have arranged some limited block reservations and special deal
 * E-mail: info@schimmelpenninckhuys.nl
 * Block reservation (**until 15 April**): Prices are per room excl. breakfast (€17.50 pp/day) and excl. city tax (ca. €5 pp/day).
   * 4x Single room  €85/night
-  * 2x Cosy (small double bed): €95/night
-  * 2x Charme (double/twin room):  €105/night
+  * 2x Cosy room (small double bed): €95/night
+  * 2x Charme room (double/twin room):  €105/night
   * 2x Deluxe room (kingsize bed): €125/night
 * How to reserve: By email or telephone directly to the hotel. Please mention the code: DisCoTec RUG
 
