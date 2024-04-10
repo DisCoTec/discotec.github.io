@@ -36,7 +36,7 @@ Alternatively, we have arranged some limited block reservations and special deal
   * 10 Small double/twin rooms for 16-22 June for €104.50/night incl. breakfast (based on single occupancy).
 * How to reserve:  By email directly to the hotel. Please mention the code: MRT-GF2405 (and the DisCoTec conference). 
 
-### [Hotel Schimmelpennick Huys](https://www.charmehotels.eu/nl/hotels/groningen/)
+### [Hotel Schimmelpenninck Huys](https://www.charmehotels.eu/nl/hotels/groningen/)
 * Address: Oosterstraat 53, 9711 NR Groningen
 * Tel.no.: +31 (0)50 318 9502
 * E-mail: info@schimmelpenninckhuys.nl
