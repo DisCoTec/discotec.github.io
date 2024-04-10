@@ -36,7 +36,7 @@ The following list does not include conditionally accepted papers.
 
 ## [FORTE](https://www.discotec.org/2024/forte.html)
 
-### Regualr papers
+### Regular papers
 
 * Mário S. Alvim, Sophia Knight, Artur Gaspar Silva and Frank Valencia. _A Multi-Agent Model for Opinion Evolution under Cognitive Biases_.
 * Nick Bezhanishvili, Vincenzo Ciancia, David Gabelaia, Mamuka Jibladze, Diego Latella, Mieke Massink and Erik De Vink. _Weak Simplicial Bisimilarity for Polyhedral Models and SLCSη_.
