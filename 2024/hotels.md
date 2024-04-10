@@ -37,7 +37,7 @@ Alternatively, we have arranged some limited block reservations and special deal
   * 10 Small double/twin rooms for 16-22 June for €104.50/night incl. breakfast (based on single occupancy).
 * How to reserve:  By email directly to the hotel. Please mention the code: MRT-GF2405 (and the DisCoTec conference). 
 
-### [Schimmelpennick Huys Hotel](https://www.charmehotels.eu/nl/hotels/groningen/)
+### [Hotel Schimmelpennick Huys](https://www.charmehotels.eu/nl/hotels/groningen/)
 * Address: Oosterstraat 53, 9711 NR Groningen
 * Tel.no.: +31 (0)50 318 9502
 * E-mail: info@schimmelpenninckhuys.nl
@@ -45,8 +45,7 @@ Alternatively, we have arranged some limited block reservations and special deal
   * 4x Single room  €85/night
   * 2x Cosy (small double bed): €95/night
   * 2x Charme (double/twin room):  €105/night
-  * 2x Deluxe kamer (kingsize bed): €125/night)
-See the hotel website for details on room types.
+  * 2x Deluxe room (kingsize bed): €125/night
 * How to reserve: By email or telephone directly to the hotel. Please mention the code: DisCoTec RUG
 
 ### [Asgard Hotel](https://www.asgardhotel.nl/en/)
@@ -62,6 +61,16 @@ See the hotel website for details on room types.
 * E-mail: info@simplonhostel.nl
 * Special deal: Free breakfast.
 * How to reserve: Book via the hostel’s website, fill in discount code “discotec24” to get free breakfast.
+
+### [Bud Gett Hostel](https://www.budgetthostels.nl)
+* Address: Gedempte Zuiderdiep 8, 9711 HG Groningen
+* Tel.no.: +31 (0)50 588 6558
+* E-mail: receptie@budgetthostels.nl
+* Block reservation (**until 29 April**):  Prices are excluding city tax of €2.15 pp/night.
+  *  3x 2-person rooms: €75/night incl. breakfast (single occupancy) or €85 euro//night incl. breakfast (double occupancy)
+  * 1x 4-person room: €170/night incl. breakfast (4-pp occupancy)
+* Note that at this hostel, there might be better prices available directly on the hostel’s webpage.
+* How to reserve: By email directly to the hotel. Please mention that you are attending the DisCoTec conference.
 
 
 <!--
