@@ -36,8 +36,11 @@ The following list does not include conditionally accepted papers.
 * Rémy Raes, Olivier Ruas, Adrien Luxey and Romain Rouvoy. _Compact Storage of Data Streams in Mobile Devices_.
 * Enrico Tedeschi, Øyvind Nohr, Håvard Dafenborg and Dag Johansen. _Mining Profitability in Bitcoin: Calculations of User-Miner Equilibria and Cost of Mining_.
 * Claudia-Lavinia Ignat, Victorien Elvinger and Habibatou Ba. _A CRDT for Replicated Relational Databases with Integrity Constraints_.
-* Amir Javadpour, Forough Ja'Fari and Tarik Taleb. _Encryption as a Service: A Review of Architectures and Taxonomies_.
 * Luís Alves and Luís Veiga. _Stream Economics: Resource Efficiency in Streams with Task Over-Allocation and Load Shedding_.
+
+### Short papers
+
+* Amir Javadpour, Forough Ja'Fari and Tarik Taleb. _Encryption as a Service: A Review of Architectures and Taxonomies_.
 
 
 ## [FORTE](https://www.discotec.org/2024/forte.html)
