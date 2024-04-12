@@ -13,9 +13,9 @@
 * At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
 * All registration fees below include 23% of VAT.
 * Similar to past editions, there are no special fees for students, but we have a limited amount of student travel grants provided by IFIP; see below for details.
-* The online registration form will close on June 12. If registering by this date is not possible, please contact the local organization (discotec2024@rug.nl) well in advance.
+* The online registration form will close on June 12. If registering by this date is not possible, please contact the local organization (<discotec2024@rug.nl>) well in advance.
 * In order to keep registration fees as low as possible, on-site registration and cancellations/refunds are not supported (see also below). 
-* If you have any questions about the registration, please contact discotec2024@rug.nl (please, refer to “DisCoTec 2024 Registration” in the subject).
+* If you have any questions about the registration, please contact <discotec2024@rug.nl> (please, refer to “DisCoTec 2024 Registration” in the subject).
 
 ## Registration Link
 Register for attending the conference by filling the [registration form](https://santu.com/dsy027).
@@ -68,9 +68,9 @@ Access to the closing drinks on Friday, June 21 (at the Bernoulliborg )is includ
 * Closing drinks (at the Bernoulliborg) on Friday 21.
 
 ## Student Travel Grants 
-Similar to past editions, there are no special fees for students but we have a limited amount of student travel grants provided by IFIP (subject to conditions). 
+Similar to past editions, there are no special fees for students but we have a limited amount of student travel grants provided by [IFIP](https://www.ifip.org) (subject to conditions). 
 
-In order to apply to these grants, candidates should send their application (CV and a one-page motivation letter) via email to discotec2024@rug.nl with the subject “DisCoTec 2024 - student travel grant”. 
+In order to apply to these grants, candidates should send their application (CV and a one-page motivation letter) via email to <discotec2024@rug.nl> with the subject “DisCoTec 2024 - student travel grant”. 
 
 Applications should arrive by the early registration date, and will be handled on a first-come, first-served basis. 
 
@@ -78,15 +78,18 @@ Applications should arrive by the early registration date, and will be handled o
 ## Visa Information
 For official information about visas for entering The Netherlands, please refer to [this webpage](https://www.netherlandsworldwide.nl/visa-the-netherlands).
 
-In case you need an invitation letter, after completing the registration process, please send your request to discotec2024@rug.nl (subject: “DisCoTec 2024 - Visa invitation letter”) by specifying the following details:
+In case you need an invitation letter, after completing the registration process, please send your request to <discotec2024@rug.nl> (subject: “DisCoTec 2024 - Visa invitation letter”) by specifying the following details:
 
 * Date in which you completed the registration and payment process
 * Full name (as shown in your passport)
 * Date of birth
-* Snail mail address, phone and fax number
-* E-mail address
+* Snail mail address
+* Professional e-mail address
+* If you are presenting a paper: title of the paper, submission number, name of the conference/workshop
 * Proof of student or professional status
 * Passport number, expiration date, issuing country
+
+We aim at processing letter requests quickly (via email), after having confirmed that registration has taken place. 
 
 
 ## Cancellation/Refund Policy
