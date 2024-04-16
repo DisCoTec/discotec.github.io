@@ -40,7 +40,7 @@ Alternatively, we have arranged some limited block reservations and special deal
 * Address: Oosterstraat 53, 9711 NR Groningen
 * Tel.no.: +31 (0)50 318 9502
 * E-mail: info@schimmelpenninckhuys.nl
-* Block reservation (**until 15 April**): Prices are per room excl. breakfast (€17.50 pp/day) and excl. city tax (ca. €5 pp/day).
+* Block reservation (**until 22 April**): Prices are per room excl. breakfast (€17.50 pp/day) and excl. city tax (ca. €5 pp/day).
   * 4x Single room  €85/night
   * 2x Cosy room (small double bed): €95/night
   * 2x Charme room (double/twin room):  €105/night
