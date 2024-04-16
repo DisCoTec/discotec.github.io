@@ -51,7 +51,7 @@ Alternatively, we have arranged some limited block reservations and special deal
 * Address: Ganzevoortsingel 2-1, 9711 AL Groningen
 * Tel.no.: +31 (0)50 368 4810
 * E-mail: info@asgardhotel.nl
-* Block reservation (**until 16 April**): 
+* Block reservation (**until 30 April**): 
   * 7 rooms (2x single, 5x double) for 16-21 June for €121.50/night incl. breakfast and city tax (based on single occupancy). (Check-out 22 June is not possible.)  
 * How to reserve: By email or telephone directly to the hotel. Please mention the code: DisCoTec congres
 
