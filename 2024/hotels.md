@@ -15,14 +15,14 @@ You can book accommodation using well-known platforms such as [booking.com](http
 Alternatively, we have arranged some limited block reservations and special deals at selected hotels for DisCoTec participants. These rooms are available on a first-come, first-served basis. For details about room types etc. please see the hotel websites, or contact the hotel directly. To secure your booking, please follow the instructions below. 
 
 ## Block Reservations and Special Deals
-(Last updated: April 11, 2024)
+(Last updated: April 17, 2024)
 
 ### [The Market Hotel](https://themarkethotel.com/) 
 * Address: Grote Markt 31, 9712 HS Groningen
 * Tel.no.: +31 (0)50 207 4600 
 * E-mail: info@themarkethotel.nl
 * Block reservation (**until 1 June**): 
-  * 9 Superior rooms for 17-21 June for:
+  * 9 Superior rooms (beds can be separated) for 17-21 June for:
     * €143/night incl. breakfast and city tax for single occupancy.
     * €168/night incl. breakfast and city tax for double occupancy.
 * How to reserve: Reservation requests should be made via [**this form**](https://forms.gle/EdwCLcDxRfN2S4jt5).
@@ -43,7 +43,7 @@ Alternatively, we have arranged some limited block reservations and special deal
 * Block reservation (**until 22 April**): Prices are per room excl. breakfast (€17.50 pp/day) and excl. city tax (ca. €5 pp/day).
   * 4x Single room  €85/night
   * 2x Cosy room (small double bed): €95/night
-  * 2x Charme room (double/twin room):  €105/night
+  * 2x Charme room (double/twin room): €105/night
   * 2x Deluxe room (kingsize bed): €125/night
 * How to reserve: By email or telephone directly to the hotel. Please mention the code: DisCoTec RUG
 
