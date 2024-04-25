@@ -54,6 +54,7 @@ The following list does not include conditionally accepted papers.
 * Julien Grange and Mathieu Lehaut. _Synthesis for prefix first-order logic on data words_.
 * Matthew Alan Le Brun and Ornela Dardha. _MAGπ!: The Role of Replication in Typing Failure-Prone Communication_.
 * Sergueï Lenglet and Alan Schmitt. _Leaf-First Zipper Semantics_.
+* Tom Rousseaux, Christophe Crochet, John Aoga and Axel Legay. _Network Simulator-centric Compositional Testing_.
 * Neda Saeedloei and Feliks Kluzniak. _Synthesizing Timed Automata with Minimal Numbers of Clocks from Optimized Timed Scenarios_.
 * Ennio Visconti, Ezio Bartocci, Yliès Falcone and Laura Nenzi. _Adaptable configuration of decentralized monitors_.
 * Weili Wang, Jianyu Niu, Michael Reiter and Yinqian Zhang. _Formally Verifying a Rollback-Prevention Protocol for TEEs_.
@@ -62,10 +63,6 @@ The following list does not include conditionally accepted papers.
 
 * Tom T.P. Franken and Thomas Neele. _AuDaLa is Turing Complete_.
 * Rong Gu, Zahra Moezkarimi and Marjan Sirjani. _Guess and then Check: Controller Synthesis for Safe and Secure Cyber-Physical Systems_.
-
-### Tool papers
-
-* Tom Rousseaux, Christophe Crochet, John Aoga and Axel Legay. _Network Simulator-centric Compositional Testing_.
 
 
 ## Sponsors & Supporters
