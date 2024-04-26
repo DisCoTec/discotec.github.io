@@ -4,8 +4,6 @@
 # Accepted papers
 ## [COORDINATION](coordination)
 
-The following list does not include conditionally accepted papers.
-
 ### Regular papers
 * Sourabh Pal, Ivan Lanese and Massimo Clo.	_Choreographic Automata: A Case Study in Healthcare Management_.
 * Marco Carbone and Adele Veschetti. _A Probabilistic Choreography Language for PRISM_.
@@ -13,6 +11,7 @@ The following list does not include conditionally accepted papers.
 * Davide Domini, Gianluca Aguzzi, Mirko Viroli and Lukas Esterle. _Field-based Coordination for Federated Learning_.
 * Christian Bartolo Burlò, Adrian Francalanza, Emilio Tuosto and Alceste Scalas. _COTS: Connected OpenAPI Test Synthesis for RESTful Applications_.
 * Davide Basile. _Modelling, Verifying and Testing the Contract Automata Runtime Environment with Uppaal_.
+* Carlos Gustavo Lopez Pombo, Pablo Montepagano and Emilio Tuosto. _SEArch: an execution infrastructure for service-based software systems_.	
 * Muhammad Rizwan Ali, Yngve Lamo and Violet Ka I Pun. _Simulation-based Decision Support for Cross-Organisational Workflows: A Case Study of Emergency Handling_.
 * Giorgio Audrito, Daniele Bortoluzzi, Ferruccio Damiani, Giordano Scarso and Gianluca Torta. _An Enhanced Exchange Operator for XC_.
   
@@ -24,6 +23,7 @@ The following list does not include conditionally accepted papers.
 
 ### Tool papers
 * Giuseppe De Palma, Saverio Giallorenzo, Jacopo Mauro, Matteo Trentin and Gianluigi Zavattaro. _An OpenWhisk Extension for Topology-aware Allocation Priority Policies_.
+* Arwa Hameed Alsubhi and Ornela Dardha. _Coconut: Typestates for Embedded Systems_.
 * Joao Afonso, Elvis Gerardin Konjoh Selabi, Maurizio Murgia, Antonio Ravara and Emilio Tuosto. _TRAC: a tool for data-aware coordination (with an application to smart contracts)_.
 * Gianluca Aguzzi, Roberto Casadei, Matteo Cerioni and Mirko Viroli. _ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design_.
 * Nicola Del Giudice, Federico Maria Cruciani and Michele Loreti. _Visualisation of Collective Systems with Sequit and Sibilla_.
