@@ -51,6 +51,21 @@ System issues and design goals, including
 * [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
 * [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, SA)
 
+
+## DAIS Accepted Papers
+
+### Regular papers
+
+* Rémy Raes, Olivier Ruas, Adrien Luxey and Romain Rouvoy. _Compact Storage of Data Streams in Mobile Devices_.
+* Enrico Tedeschi, Øyvind Nohr, Håvard Dafenborg and Dag Johansen. _Mining Profitability in Bitcoin: Calculations of User-Miner Equilibria and Cost of Mining_.
+* Claudia-Lavinia Ignat, Victorien Elvinger and Habibatou Ba. _A CRDT for Replicated Relational Databases with Integrity Constraints_.
+* Luís Alves and Luís Veiga. _Stream Economics: Resource Efficiency in Streams with Task Over-Allocation and Load Shedding_.
+
+### Short papers
+
+* Amir Javadpour, Forough Ja'Fari and Tarik Taleb. _Encryption as a Service: A Review of Architectures and Taxonomies_.
+
+
 ## Submission dates
 * Abstract submission: ~~February 2, 2024~~ February 16, 2024
 * Paper submission: ~~February 9, 2024~~ February 23, 2024
