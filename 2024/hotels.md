@@ -15,7 +15,7 @@ You can book accommodation using well-known platforms such as [booking.com](http
 Alternatively, we have arranged some limited block reservations and special deals at selected hotels for DisCoTec participants. These rooms are available on a first-come, first-served basis. For details about room types etc. please see the hotel websites, or contact the hotel directly. To secure your booking, please follow the instructions below. 
 
 ## Block Reservations and Special Deals
-(Last updated: April 17, 2024)
+(Last updated: May 16, 2024)
 
 ### [The Market Hotel](https://themarkethotel.com/) 
 * Address: Grote Markt 31, 9712 HS Groningen
@@ -32,7 +32,7 @@ Alternatively, we have arranged some limited block reservations and special deal
 * Address: Gedempte Zuiderdiep 8, 9711 HG Groningen
 * Tel.no.: +31 (0)50 312 9919
 * E-mail: info@martinihotel.nl
-* Block reservation (**until 29 April**): 
+* Block reservation (**until 29 April**). After this date, the rooms can still be booked at the rate mentioned below based on availability. 
   * 10 Small double/twin rooms for 16-22 June for €104.50/night incl. breakfast (based on single occupancy).
 * How to reserve:  By email directly to the hotel. Please mention the code: MRT-GF2405 (and the DisCoTec conference). 
 
@@ -40,7 +40,7 @@ Alternatively, we have arranged some limited block reservations and special deal
 * Address: Oosterstraat 53, 9711 NR Groningen
 * Tel.no.: +31 (0)50 318 9502
 * E-mail: info@schimmelpenninckhuys.nl
-* Block reservation (**until 22 April**): Prices are per room excl. breakfast (€17.50 pp/day) and excl. city tax (ca. €5 pp/day).
+* Block reservation (**until 22 April**). After this date, the rooms can still be booked at the rate mentioned below based on availability. Prices are per room excl. breakfast (€17.50 pp/day) and excl. city tax (ca. €5 pp/day).
   * 4x Single room  €85/night
   * 2x Cosy room (small double bed): €95/night
   * 2x Charme room (double/twin room): €105/night
@@ -65,7 +65,7 @@ Alternatively, we have arranged some limited block reservations and special deal
 * Address: Gedempte Zuiderdiep 8, 9711 HG Groningen
 * Tel.no.: +31 (0)50 588 6558
 * E-mail: receptie@budgetthostels.nl
-* Block reservation (**until 29 April**):  Prices are excluding city tax of €2.15 pp/night.
+* Block reservation (**until 29 April**). After this date, the rooms can still be booked at the rate mentioned below based on availability. Prices are excluding city tax of €2.15 pp/night.
   *  3x 2-person rooms: €75/night incl. breakfast (single occupancy) or €85 euro//night incl. breakfast (double occupancy)
   * 1x 4-person room: €170/night incl. breakfast (4-pp occupancy)
 * Note that at this hostel, there might be better prices available directly on the hostel’s webpage.
