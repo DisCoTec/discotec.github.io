@@ -18,7 +18,7 @@
 * If you have any questions about the registration, please contact <discotec2024@rug.nl> (please, refer to “DisCoTec 2024 Registration” in the subject).
 
 ## Registration Link
-*(May 22, 17:20)* The registration form was down, but now it is available again. Due to the disruption, the early registration deadline is extended until Friday, May 24th. Apologies for the inconvenience!
+*(May 22, 17:20)* The registration form was down, but now it is available again. Due to the disruption, the early registration deadline is extended until Friday, May 24th (noon, CEST). Apologies for the inconvenience!
 
 Register for attending the conference by filling the [registration form](https://santu.com/dsy027). 
 
