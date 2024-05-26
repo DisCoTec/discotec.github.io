@@ -3,7 +3,7 @@
 
 
 ## Important Dates
-* Early registration: Possible until **May 22, 2024**, using the link below. 
+* ~~Early registration: Possible until **May 22, 2024**, using the link below~~. 
 * Late registration: Possible until **June 12, 2024**, using the link below. 
 * DisCoTeC 2024: **June 17 to 21, 2024**.
 
@@ -18,20 +18,28 @@
 * If you have any questions about the registration, please contact <discotec2024@rug.nl> (please, refer to “DisCoTec 2024 Registration” in the subject).
 
 ## Registration Link
-*(May 22, 17:20)* The registration form was down, but now it is available again. Due to the disruption, the early registration deadline is extended until Friday, May 24th (noon, CEST). Apologies for the inconvenience!
+<!--*(May 22, 17:20)* The registration form was down, but now it is available again. Due to the disruption, the early registration deadline is extended until Friday, May 24th (noon, CEST). Apologies for the inconvenience!-->
 
-Register for attending the conference by filling the [registration form](https://santu.com/dsy027). 
+The deadline for early registration has passed. 
+
+You can still register for attending the conference  **until June 12** by filling the [registration form](https://santu.com/dsy027). 
 
 
 
 ## Events and Fees
-
+ 
 | | Early (until May 22) | Late (until June 12) |
 | - | -: | -: |
 | **DisCoTec Conferences + Workshops** (Monday - Friday) | EUR 650  | EUR 750 | 
 | **DisCoTec Conferences only** (Tuesday - Thursday) | EUR 525 | EUR 625 |
 | **Monday Workshop (DiDiT)** | EUR 180 | EUR 180 |
 | **Friday Workshops (ICE and PLNL)** | EUR 180 | EUR 180 |
+
+## Invoices
+If you need an invoice for your registration, please send an email to <discotec2024@rug.nl> with subject "Invoice Request DisCoTec" indicating:
+- your full name and email address; 
+- the date on which you completed the online payment; 
+- the exact information that you need to appear on it (institution, address, VAT number, etc)
 
 ## Social Events
 ### Welcome reception on Monday 17
