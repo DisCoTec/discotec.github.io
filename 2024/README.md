@@ -117,7 +117,7 @@ At least one author of papers/presentations accepted to the DisCoTec events (mai
 The interface for online registration is available at the [registration page](./registration).
 
 Important dates:
-* Early registration: Possible until **May 22, 2024**. 
+* ~~Early registration: Possible until **May 22, 2024**~~. 
 * Late registration: Possible until **June 12, 2024**. 
 
 
