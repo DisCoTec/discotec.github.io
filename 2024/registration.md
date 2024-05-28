@@ -12,7 +12,7 @@
 * DisCoTec 2024 is planned as an on-site event.
 * At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
 * All registration fees below include 23% of VAT.
-* Similar to past editions, there are no special fees for students, but we have a limited amount of student travel grants provided by IFIP; see below for details.
+* Similar to past editions, there are no special fees for students, but we have a limited amount of **student travel grants** provided by IFIP; see below for details.
 * The online registration form will close on June 12. If registering by this date is not possible, please contact the local organization (<discotec2024@rug.nl>) well in advance.
 * In order to keep registration fees as low as possible, on-site registration and cancellations/refunds are not supported (see also below). 
 * If you have any questions about the registration, please contact <discotec2024@rug.nl> (please, refer to “DisCoTec 2024 Registration” in the subject).
@@ -32,8 +32,8 @@ You can still register for attending the conference  **until June 12** by fillin
 | - | -: | -: |
 | **DisCoTec Conferences + Workshops** (Monday - Friday) | EUR 650  | EUR 750 | 
 | **DisCoTec Conferences only** (Tuesday - Thursday) | EUR 525 | EUR 625 |
-| **Monday Workshop (DiDiT)** | EUR 180 | EUR 180 |
-| **Friday Workshops (ICE and PLNL)** | EUR 180 | EUR 180 |
+| **Monday Workshop (DiDiT)** | ~~EUR 180~~ EUR 80| ~~EUR 180~~ EUR 80 |
+| **Friday Workshops (ICE and PLNL)** | ~~EUR 180~~ EUR 80 | ~~EUR 180~~ EUR 80 |
 
 ## Invoices
 If you need an invoice for your registration, please send an email to <discotec2024@rug.nl> with subject "Invoice Request DisCoTec" indicating:
