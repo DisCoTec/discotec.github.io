@@ -36,11 +36,30 @@ DisCoTec gathers conferences that cover a broad spectrum of distributed computin
 * [DAIS 2024](dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2024](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
-Please visit the pages of each conference for details on topics of interest, paper  categories, and submission links.
+<!-- Please visit the pages of each conference for details on topics of interest, paper  categories, and submission links.-->
+
+## Satellite Events
+
+DisCoTec 2024 will include workshops on a broad spectrum of distributed computing subjects.
+
+<!--
+Satellite events will take place on Monday, June 17, 2024, and on Friday, June 21, 2024.
+
+#### Important Dates
+
+* ~~**Proposal submission deadline**~~:
+  ~~Monday, February 12, 2024~~
+  ~~(but we would like to hear about prospective proposals as soon as possible).~~
+* **Notification of accepted satellite events**:
+  Friday, March 1st, 2024.
+
+### Confirmed Satellite Events
+-->
+* [DiDiT 2024](https://distributeddigitaltwins.github.io/2024/): The 1st International Workshop on Distributed Digital Twins (June 17, 2024)
+* [ICE 2024](./ice): 17th Interaction and Concurrency Experience (June 21, 2024)
+* [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands (June 21, 2024)
 
 
-## Programme
-Go to the [programme page](./programme) for detailed information.
 
 
 ## Keynote Speakers
@@ -50,6 +69,9 @@ We are pleased to announce the following keynote speakers:
 * [Paulo Veríssimo](https://cemse.kaust.edu.sa/people/person/paulo-verissimo) (KAUST, SA)
 
 Go to the [dedicated page](./invited) for details on these keynote lectures.
+
+## Programme
+Go to the [programme page](./programme) for detailed information.
 
 ## Proceedings
 The proceedings of the main conferences will be published as volumes in the [Springer LNCS-IFIP](https://www.springer.com/series/8345) series. 
@@ -135,26 +157,7 @@ You can book accommodation using well-known platforms such as [booking.com](http
 Alternatively, we have blocked a limited number of rooms in selected hotels for DisCoTec participants. These rooms are available on a first-come, first-served basis. To get details about prices and secure your booking, please check [here](./hotels).
 
 
-## Satellite Events
 
-DisCoTec 2024 will include workshops on a broad spectrum of distributed computing subjects.
-
-<!--
-Satellite events will take place on Monday, June 17, 2024, and on Friday, June 21, 2024.
-
-#### Important Dates
-
-* ~~**Proposal submission deadline**~~:
-  ~~Monday, February 12, 2024~~
-  ~~(but we would like to hear about prospective proposals as soon as possible).~~
-* **Notification of accepted satellite events**:
-  Friday, March 1st, 2024.
-
-### Confirmed Satellite Events
--->
-* [DiDiT 2024](https://distributeddigitaltwins.github.io/2024/): The 1st International Workshop on Distributed Digital Twins (June 17, 2024)
-* [ICE 2024](./ice): 17th Interaction and Concurrency Experience (June 21, 2024)
-* [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands (June 21, 2024)
 
 
 

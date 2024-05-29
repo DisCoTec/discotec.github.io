@@ -27,18 +27,20 @@ You can still register for attending the conference  **until June 12** by fillin
 
 
 ## Events and Fees
+
+*(May 28)* The registration fee for one-day workshops (Monday or Friday) has been reduced to 80 Euro.
  
-| | Early (until May 22) | Late (until June 12) |
+| | ~~Early (until May 22)~~ | Late (until June 12) |
 | - | -: | -: |
-| **DisCoTec Conferences + Workshops** (Monday - Friday) | EUR 650  | EUR 750 | 
-| **DisCoTec Conferences only** (Tuesday - Thursday) | EUR 525 | EUR 625 |
-| **Monday Workshop (DiDiT)** | ~~EUR 180~~ EUR 80| ~~EUR 180~~ EUR 80 |
-| **Friday Workshops (ICE and PLNL)** | ~~EUR 180~~ EUR 80 | ~~EUR 180~~ EUR 80 |
+| **DisCoTec Conferences + Workshops** (Monday - Friday) | ~~EUR 650~~  | EUR 750 | 
+| **DisCoTec Conferences only** (Tuesday - Thursday) | ~~EUR 525~~ | EUR 625 |
+| **Monday Workshop (DiDiT)** | ~~EUR 180~~ | ~~EUR 180~~ EUR 80 |
+| **Friday Workshops (ICE and PLNL)** | ~~EUR 180~~  | ~~EUR 180~~ EUR 80 |
 
 ## Invoices
 If you need an invoice for your registration, please send an email to <discotec2024@rug.nl> with subject "Invoice Request DisCoTec" indicating:
 - your full name and email address; 
-- the date on which you completed the online payment; 
+- the amount and the date on which you completed the online payment; 
 - the exact information that you need to appear on it (institution, address, VAT number, etc)
 
 ## Social Events
