@@ -52,7 +52,7 @@ The pre-proceedings will be made available by June 16th.
 *All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
 
 
-| Time WEST   |  |
+| Time CEST   |  |
 | ------------| ------- | 
 | 9:00-9:10   | Opening |
 | 9:10-10:10  | [Jorge A. Pérez](#invited-speaker-jorge-a-pérez) -- *Asynchronous Session-Based Concurrency* (Invited talk) |
