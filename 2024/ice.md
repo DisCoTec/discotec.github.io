@@ -36,6 +36,36 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - Tools and techniques for automation
 - Synthesis techniques
 
+## Accepted Papers
+
+- *Safe Composition of Systems of Communicating Finite State Machines* by F. Barbanera and R. Hennicker
+- *The B2SCala Tool: integrating Bach in Scala with security in Mind* by J. Jacquet, M. Barkallah and D. Ouardi
+- *A Maude Formalization of the Distributed Reconfiguration Language Concerto-D* by H. Coullon, S. Robillard, F. Loulergue, F. Arfi and J. Philippe 
+- *Towards Formal Verification of Attested TLS: Potential Replay Attacks on RA-TLS (Oral Communication)* by M. Sardar, A. Niemi, H. Tschofenig and T. Fossati
+
+
+## Programme and Pre-proceedings  {#programme} 
+
+The pre-proceedings will be made available by June 16th.
+
+
+*All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
+
+
+| Time WEST   |  |
+| ------------| ------- | 
+| 9:00-9:10   | Opening |
+| 9:10-10:10  | [Jorge A. Pérez](#invited-speaker-jorge-a-pérez) -- *Asynchronous Session-Based Concurrency* (Invited talk) |
+| 10:10-10:40 | _Towards Formal Verification of Attested TLS: Potential Replay Attacks on RA-TLS_ (oral communication) |
+| 10:40-11:00 | **Coffee break** |
+| 11:00-11:30 | _Safe Composition of Systems of Communicating Finite State Machines_ |
+| 11:30-12:00 | _The B2SCala Tool: integrating Bach in Scala with security in Mind_ |
+| 12:00-12:30 | _A Maude Formalization of the Distributed Reconfiguration Language Concerto-D_ |
+| 12:30-12:45 | Closing |
+
+There will be a panel, open to all, about the future of ICE from 14:00 to 16:00.
+
+
 ## Invited Speaker: Jorge A. Pérez
 
 ### Talk: Asynchronous Session-Based Concurrency
