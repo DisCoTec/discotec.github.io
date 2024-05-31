@@ -153,10 +153,11 @@ by Frank Pfenning
 #### FORTE Invited Speaker
 - [Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)
 by Azalea Raad
-
 -->
 
-## Coordination programme
+<!-- THIS IS THE UPDATED PROGRAMME OF COORDINATION 2024
+
+## COORDINATION programme
 
 ### Best Papers Session: 
 - A Probabilistic Choreography Language for PRISM <br/>
@@ -205,6 +206,7 @@ by Davide Basile
 by Benjamin Bogø, Andrea Burattin and Alceste Scalas
 - Implementing a Message-Passing Interpretation of the Semi-Axiomatic Sequent Calculus (SAX)<br/>
 by Adrian Francalanza, Frank Pfenning and Gerard Tabone
+-->
 
 <!--
 ## DAIS programme
