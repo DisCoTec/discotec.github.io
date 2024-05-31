@@ -32,9 +32,11 @@
 * [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands 
 
 ## Detailed Program
-To be announced. In the meantime, go to the [list of accepted papers](./accepted-papers).
+To be finalized. In the meantime, go to the [list of accepted papers](./accepted-papers).
 
 ### Monday, June 17: DisCoTec Workshops
+* [DiDiT 2024](https://distributeddigitaltwins.github.io/2024/): The 1st International Workshop on Distributed Digital Twins 
+* Welcome reception
 
 ### Tuesday, June 18: DisCoTec Main Conferences
 
@@ -63,10 +65,154 @@ To be announced. In the meantime, go to the [list of accepted papers](./accepted
  
 
 ### Wednesday, June 19: DisCoTec Main Conferences
+| Time | COORDINATION | DAIS + FORTE |
+| :---: | :---: | :---: | 
+| *08:50-09:00*  | *Welcome* | *Welcome* | 
+|  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chair: TBD | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chair: TBD  |
+| **09:00-10:00** | [**Paulo Veríssimo**: <br/> Platform Resilience? Beware of Threats from the “basement”](https://www.discotec.org/2024/invited)  | [**Paulo Veríssimo**: <br/> Platform Resilience? Beware of Threats from the “basement”](https://www.discotec.org/2024/invited)  | 
+| *10:00-10:30* | *coffee break* | *coffee break* |
+| | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
+|  | **Session 4: <br/> TBD**  | **Session 4: <br/> TBD**   |
+| **10:30-11:00** |*TBD* | *TBD* |
+| **11:00-11:30** | *TBD* | *TBD* |
+| **11:30-12:00** | *TBD* | *TBD* |
+| **12:00-12:30** | *TBD* | *TBD* |
+| *12:30-14:00* | *lunch break* | *lunch break* |
+| *14:30-16:30* | **Excursion** <br/> (city center) |  **Excursion** <br/> (city center) |
+| *17:00-21:00* | **Dinner** <br/> Feithhuis (city center) | **Dinner** <br/> Feithhuis (city center) |
+
 
 ### Thursday, June 20: DisCoTec Main Conferences
+| Time | COORDINATION | DAIS + FORTE |
+| :---: | :---: | :---: | 
+| *09:20-09:30*  | *Welcome* | *Welcome* | 
+|  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chair: TBD | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chair: TBD  |
+| **09:30-10:30** | [**Marieke Huisman**: <br/> VerCors: Inclusive Software Verification](https://www.discotec.org/2024/invited)  | [**Marieke Huisman**: <br/> VerCors: Inclusive Software Verification](https://www.discotec.org/2024/invited)  | 
+| *10:30-11:00* | *coffee break* | *coffee break* |
+| | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
+|  | **Session 5: <br/> TBD**  | **Session 5: <br/> TBD**   |
+| **11:00-11:30** | *TBD* | *TBD* |
+| **11:30-12:00** | *TBD* | *TBD* |
+| **12:00-12:30** | *TBD* | *TBD* |
+| *12:30-14:00* | *lunch break* | *lunch break* |
+|  | **Joint Session: <br/> DisCoTec Awards** <br/> (Room BB 5161.0105)  | **Joint Session: <br/> DisCoTec Awards** <br/> (Room BB 5161.0105) |
+| **14:00-14:20** | Awards | Awards |
+| | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
+|  | **Session 6: <br/> TBD**  | **Session 7: <br/> TBD**   |
+| **14:30-15:00** | *TBD* | *TBD* |
+| **15:00-15:30** | *TBD* | *TBD* |
+| *15:30-16:00* | *coffee break* | *coffee break* |
+|  | **Session 7: <br/> TBD**  | **Session 8: <br/> TBD**   |
+| **16:00-16:30** |  *TBD* | *TBD* |
+| **16:30-17:00** |  *TBD* | *TBD* |
+
 
 ### Friday, June 21: DisCoTec Workshops
+* [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience 
+* [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands 
+
+
+## DisCoTec 2024 Best Papers (Session 1)
+- **A Probabilistic Choreography Language for PRISM** <br/>
+by Marco Carbone and Adele Veschetti (COORDINATION)
+- **Compact Storage of Data Streams in Mobile Devices** <br/> by Rémy Raes, Olivier Ruas, Adrien Luxey-Bitri, Romain Rouvoy (DAIS)
+- **Weak Simplicial Bisimilarity for Polyhedral Models and SLCSη** <br/> by Nick Bezhanishvili, Vincenzo Ciancia, David Gabelaia, Mamuka Jibladze, Diego Latella, Mieke Massink and Erik De Vink (FORTE)
+
+
+## COORDINATION Programme
+
+### Session 2 (session chair: Michele Loreti): Coordination Approaches
+- Field-based Coordination for Federated Learning<br/>
+by Davide Domini, Gianluca Aguzzi, Mirko Viroli and Lukas Esterle
+- An Enhanced Exchange Operator for XC<br/>
+by Giorgio Audrito, Daniele Bortoluzzi, Ferruccio Damiani, Giordano Scarso and Gianluca Torta
+- TRAC: a tool for data-aware coordination (with an application to smart contracts)<br/>
+by Joao Afonso, Elvis Gerardin Konjoh Selabi, Maurizio Murgia, Antonio Ravara and Emilio Tuosto
+
+### Session 3 (session chair: Mieke Massink): Collective Systems
+- ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design<br/>
+by Gianluca Aguzzi, Roberto Casadei, Matteo Cerioni and Mirko Viroli
+- Visualisation of Collective Systems with Sequit and Sibilla<br/>
+by Nicola Del Giudice, Federico Maria Cruciani and Michele Loreti
+
+### Session 4 (session chair: Mirko Viroli): Tools for Coordination
+- COTS: Connected OpenAPI Test Synthesis for RESTful Applications<br/>
+by Christian Bartolo Burlò, Adrian Francalanza, Emilio Tuosto and Alceste Scalas
+- An OpenWhisk Extension for Topology-aware Allocation Priority Policies<br/>
+by Giuseppe De Palma, Saverio Giallorenzo, Jacopo Mauro, Matteo Trentin and Gianluigi Zavattaro
+- SEArch: an execution infrastructure for service-based software systems<br/>
+by Carlos Gustavo Lopez Pombo, Pablo Montepagano and Emilio Tuosto
+- Coconut: Typestates for Embedded Systems<br/>
+by Arwa Hameed Alsubhi and Ornela Dardha
+
+### Session 5 (session chair: Antonio Ravara): Call for Action and Case Studies
+- The Concurrent Calculi Formalisation Benchmark<br/>
+by Marco Carbone, David Castro-Perez, Francisco Ferreira, Lorenzo Gheri, Frederik Krogsdal Jacobsen, Alberto Momigliano, Luca Padovani, Alceste Scalas, Dawit Tirore, Martin Vassor, Nobuko Yoshida and Daniel Zackon
+- Choreographic Automata: A Case Study in Healthcare Management<br/>
+by Sourabh Pal, Ivan Lanese and Massimo Clo
+- Simulation-based Decision Support for Cross-Organisational Workflows: A Case Study of Emergency Handling<br/>
+by Muhammad Rizwan Ali, Yngve Lamo and Violet Ka I Pun
+ 
+### Session 6 (session chair: Alceste Scalas): Automata-based Models
+- Team Automata: Overview and Roadmap<br/>
+by Maurice ter Beek, Rolf Hennicker and José Proença
+- Modelling, Verifying and Testing the Contract Automata Runtime Environment with Uppaal<br/>
+by Davide Basile 
+
+### Session 7 (session chair: José Proença): Concurrency Models and Calculi
+- Encoding Petri Nets into CCS<br/>
+by Benjamin Bogø, Andrea Burattin and Alceste Scalas
+- Implementing a Message-Passing Interpretation of the Semi-Axiomatic Sequent Calculus (SAX)<br/>
+by Adrian Francalanza, Frank Pfenning and Gerard Tabone
+
+
+## DAIS+FORTE Programme 
+
+### Session 2 (FORTE)
+- Network simulation-centric compositional testing<br/>
+by Tom Rousseaux, Christophe Crochet, John Aoga and Axel Legay
+Guess and then check: controller synthesis for safe and secure cyber-physical systems<br/>
+by Rong Gu, Zahra Moezkarimi and Marjan Sirjani
+- Formally verifying a rollback-prevention protocol for TEEs<br/>
+by Weili Wang, Jianyu Niu, Michael Reiter and Yinqian Zhang
+
+### Session 3 (DAIS) - Session name: Blockchain and CRDTs - Session chair: Rolando Martins
+- Mining Profitability in Bitcoin: Calculations of User-Miner Equilibria and Cost of Mining<br/>
+by Enrico Tedeschi, Øyvind Nohr, Håvard Dafenborg and Dag Johansen. 
+- A CRDT for Replicated Relational Databases with Integrity Constraints, Claudia-Lavinia Ignat<br/>
+by Victorien Elvinger and Habibatou Ba
+     
+
+### Session 4 (FORTE)
+- AuDaLa is Turing complete<br/>
+by Tom T.P. Franken and Thomas Neele
+- Synthesis for prefix first-order logic on data words<br/>
+by Julien Grange and Mathieu Lehaut
+- Synthesizing timed automata with minimal number of clocks for optimised timed scenarios<br/>
+by Neda Saeedloei and Feliks Kluzniak
+- Adaptable configuration of decentralised monitors<br/>
+by Ennio Visconti, Ezio Bartocci, Yliès Falcone and Laura Nenzi
+
+###  Session 5 (DAIS+FORTE)
+- Stream Economics: Resource Efficiency in Streams with Task Over-Allocation and Load Shedding<br/>
+by Luís Alves and Luís Veiga 
+- Encryption as a Service: A Review of Architectures and Taxonomies<br/>
+by Amir Javadpour, Forough Ja’Fari and Tarik Taleb
+- JustAct: Actions universally justified by partial dynamic policies<br/>
+by Christopher Esterhuyse, Tim Müller and L. Thomas van Binsbergen
+
+###  Session 6 (FORTE)
+- Noninterference analysis of reversible probabilistic systems<br/>
+by Andrea Esposito, Alessandro Aldini and Marco Bernardo
+- A multi-agent model for opinion evolution in social networks and cognitive biases<br/>
+by Mário S. Alvim, Sophia Knight, Artur Gaspar Silva and Frank Valencia
+
+###  Session 7 (FORTE)
+- Leaf-first zipper semantics<br/>
+by Sergueï Lenglet and Alan Schmitt
+- MAG𝜋! The role of replication in typing failure prone communication<br/>
+by Matthew Alan Le Brun and Ornela Dardha
+
 
 <!--
 
@@ -191,56 +337,7 @@ by Azalea Raad
 
 <!-- THIS IS THE UPDATED PROGRAMME OF COORDINATION 2024
 
-## COORDINATION programme
 
-### Best Papers Session: 
-- A Probabilistic Choreography Language for PRISM <br/>
-by Marco Carbone and Adele Veschetti
-
-### Session 1 (session chair: Michele Loreti): Coordination Approaches
-- Field-based Coordination for Federated Learning<br/>
-by Davide Domini, Gianluca Aguzzi, Mirko Viroli and Lukas Esterle
-- An Enhanced Exchange Operator for XC<br/>
-by Giorgio Audrito, Daniele Bortoluzzi, Ferruccio Damiani, Giordano Scarso and Gianluca Torta
-- TRAC: a tool for data-aware coordination (with an application to smart contracts)<br/>
-by Joao Afonso, Elvis Gerardin Konjoh Selabi, Maurizio Murgia, Antonio Ravara and Emilio Tuosto
-
-### Session 2 (session chair: Mieke Massink): Collective Systems
-- ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design<br/>
-by Gianluca Aguzzi, Roberto Casadei, Matteo Cerioni and Mirko Viroli
-- Visualisation of Collective Systems with Sequit and Sibilla<br/>
-by Nicola Del Giudice, Federico Maria Cruciani and Michele Loreti
-
-### Session 3 (session chair: Mirko Viroli): Tools for Coordination
-- COTS: Connected OpenAPI Test Synthesis for RESTful Applications<br/>
-by Christian Bartolo Burlò, Adrian Francalanza, Emilio Tuosto and Alceste Scalas
-- An OpenWhisk Extension for Topology-aware Allocation Priority Policies<br/>
-by Giuseppe De Palma, Saverio Giallorenzo, Jacopo Mauro, Matteo Trentin and Gianluigi Zavattaro
-- SEArch: an execution infrastructure for service-based software systems<br/>
-by Carlos Gustavo Lopez Pombo, Pablo Montepagano and Emilio Tuosto
-- Coconut: Typestates for Embedded Systems<br/>
-by Arwa Hameed Alsubhi and Ornela Dardha
-
-### Session 4 (session chair: Antonio Ravara): Call for Action and Case Studies
-- The Concurrent Calculi Formalisation Benchmark<br/>
-by Marco Carbone, David Castro-Perez, Francisco Ferreira, Lorenzo Gheri, Frederik Krogsdal Jacobsen, Alberto Momigliano, Luca Padovani, Alceste Scalas, Dawit Tirore, Martin Vassor, Nobuko Yoshida and Daniel Zackon
-- Choreographic Automata: A Case Study in Healthcare Management<br/>
-by Sourabh Pal, Ivan Lanese and Massimo Clo
-- Simulation-based Decision Support for Cross-Organisational Workflows: A Case Study of Emergency Handling<br/>
-by Muhammad Rizwan Ali, Yngve Lamo and Violet Ka I Pun
- 
-### Session 5 (session chair: Alceste Scalas): Automata-based Models
-- Team Automata: Overview and Roadmap<br/>
-by Maurice ter Beek, Rolf Hennicker and José Proença
-- Modelling, Verifying and Testing the Contract Automata Runtime Environment with Uppaal<br/>
-by Davide Basile 
-
-### Session 6 (session chair: José Proença): Concurrency Models and Calculi
-- Encoding Petri Nets into CCS<br/>
-by Benjamin Bogø, Andrea Burattin and Alceste Scalas
-- Implementing a Message-Passing Interpretation of the Semi-Axiomatic Sequent Calculus (SAX)<br/>
-by Adrian Francalanza, Frank Pfenning and Gerard Tabone
--->
 
 <!--
 ## DAIS programme
