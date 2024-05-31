@@ -34,6 +34,40 @@
 ## Detailed Program
 To be announced. In the meantime, go to the [list of accepted papers](./accepted-papers).
 
+### Monday, June 17: DisCoTec Workshops
+
+### Tuesday, June 18: DisCoTec Main Conferences
+
+| Time | COORDINATION | DAIS + FORTE |
+| :---: | :---: | :---: | 
+| *09:00-09:30*  | *Opening Ceremony* | *Opening Ceremony* | 
+|  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chair: TBD | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chair: TBD  |
+| **09:30-10:30** | [**Laura Kovács**: <br/> Automated Reasoning in BlockChain Security](https://www.discotec.org/2024/invited)  | [**Laura Kovács**: <br/> Automated Reasoning in BlockChain Security](https://www.discotec.org/2024/invited)  | 
+| *10:30-11:00* | *coffee break* | *coffee break* |
+|  | **Session 1 (Joint): <br/> DisCoTec Best Papers** <br/> (Room BB 5161.0105)  | **Session 1 (Joint): <br/> DisCoTec Best Papers**  <br/> (Room BB 5161.0105) |
+| **11:00-11:30** | A Probabilistic Choreography Language for PRISM | A Probabilistic Choreography Language for PRISM |
+| **11:30-12:00** | *TBD* | *TBD* |
+| **12:00-12:30** | *TBD* | *TBD* |
+| *12:30-14:00* | *lunch break* | *lunch break* |
+| | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
+|  | **Session 2: <br/> TBD**  | **Session 2: <br/> TBD**   |
+| **14:00-14:30** | Field-based Coordination for Federated Learning | *TBD* |
+| **14:30-15:00** | An Enhanced Exchange Operator for XC | *TBD* |
+| **15:00-15:30** | TRAC: a tool for data-aware coordination (with an application to smart contracts) | *TBD* |
+| *15:30-16:00* | *coffee break* | *coffee break* |
+|  | **Session 3: <br/> TBD**  | **Session 3: <br/> TBD**   |
+| **16:00-16:30** | ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design | *TBD* |
+| **16:30-17:00** | Visualisation of Collective Systems with Sequit and Sibilla | *TBD* |
+| *18:00-20:00* |  **Opening Reception**  <br/> House of Connections <br/> (city center)  | **Opening Reception**  <br/> House of Connections <br/> (city center) |
+
+ 
+
+### Wednesday, June 19: DisCoTec Main Conferences
+
+### Thursday, June 20: DisCoTec Main Conferences
+
+### Friday, June 21: DisCoTec Workshops
+
 <!--
 
 *All times are listed for* [**WEST** *(Western European Summer Time)*](https://time.is/WEST)
