@@ -154,40 +154,59 @@ by Frank Pfenning
 - [Principles of Persistent Programming](https://www.discotec.org/2023/invited#azalea-raad)
 by Azalea Raad
 
+-->
+
 ## Coordination programme
 
-### Session 1: Run-Time Changes
-- Legal Contracts amending with Stipula <br/>
-by Cosimo Laneve, Alessandro Parenti, and Giovanni Sartor
-- Toward Run-time Coordination of Reconfiguration Requests in Cloud Computing <br/>
-by Salman Farhat, Simon Bliudze, Laurence Duchien, and Olga Kouchnarenko
-- Caos: A Reusable Scala Web Animator of Operational Semantics (short) <br/>
-by José Proença and Luc Edixhoven
+### Best Papers Session: 
+- A Probabilistic Choreography Language for PRISM <br/>
+by Marco Carbone and Adele Veschetti
 
-### Session 2: Languages and Processes
-- Safe asynchronous mixed-choice for timed interactions <br/>
-by Jonah Pears, Laura Bocchi, and Andy King
-- Reasoning about Choreographic Programs <br/>
-by Luís Cruz-Filipe, Eva Graversen, Fabrizio Montesi, and Marco Peressotti
-- A Formal MDE Framework for Inter-DSL Collaboration <br/>
-by Salim Chehida, Akram Idani, Mario Cortes-Cornax, and German Vega
+### Session 1 (session chair: Michele Loreti): Coordination Approaches
+- Field-based Coordination for Federated Learning<br/>
+by Davide Domini, Gianluca Aguzzi, Mirko Viroli and Lukas Esterle
+- An Enhanced Exchange Operator for XC<br/>
+by Giorgio Audrito, Daniele Bortoluzzi, Ferruccio Damiani, Giordano Scarso and Gianluca Torta
+- TRAC: a tool for data-aware coordination (with an application to smart contracts)<br/>
+by Joao Afonso, Elvis Gerardin Konjoh Selabi, Maurizio Murgia, Antonio Ravara and Emilio Tuosto
 
-### Session 3: Collective Adaptive Systems and Aggregate Computing
-- MacroSwarm: a Field-based Compositional Framework for Swarm Programming <br/>
-by Gianluca Aguzzi, Roberto Casadei, and Mirko Viroli
-- Programming Distributed Collective Processes for Dynamic Ensembles and Collective Tasks <br/>
-by Giorgio Audrito, Roberto Casadei, Ferruccio Damiani, Gianluca Torta, and Mirko Viroli
-- ScaRLib: A Framework for Cooperative Many Agent Deep Reinforcement Learning in Scala <br/>
-by Davide Domini, Filippo Cavallari, Gianluca Aguzzi, and Mirko Viroli
+### Session 2 (session chair: Mieke Massink): Collective Systems
+- ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design<br/>
+by Gianluca Aguzzi, Roberto Casadei, Matteo Cerioni and Mirko Viroli
+- Visualisation of Collective Systems with Sequit and Sibilla<br/>
+by Nicola Del Giudice, Federico Maria Cruciani and Michele Loreti
 
-### Session 4: Cyber-Physical Systems
-- Shelley: a framework for model checking call ordering on hierarchical systems <br/>
-by Carlos Mão de Ferro, Tiago Cogumbreiro, and Francisco Martins
-- STARK: A Software Tool for the Analysis of Robustness in the unKnown environment <br/>
-by Valentina Castiglioni, Michele Loreti, and Simone Tini
-- RSC to the ReSCu: Automated Verification of Systems of Communicating Automata (short) <br/>
-by Loïc Desgeorges and Loïc Germerie Guizouarn
+### Session 3 (session chair: Mirko Viroli): Tools for Coordination
+- COTS: Connected OpenAPI Test Synthesis for RESTful Applications<br/>
+by Christian Bartolo Burlò, Adrian Francalanza, Emilio Tuosto and Alceste Scalas
+- An OpenWhisk Extension for Topology-aware Allocation Priority Policies<br/>
+by Giuseppe De Palma, Saverio Giallorenzo, Jacopo Mauro, Matteo Trentin and Gianluigi Zavattaro
+- SEArch: an execution infrastructure for service-based software systems<br/>
+by Carlos Gustavo Lopez Pombo, Pablo Montepagano and Emilio Tuosto
+- Coconut: Typestates for Embedded Systems<br/>
+by Arwa Hameed Alsubhi and Ornela Dardha
 
+### Session 4 (session chair: Antonio Ravara): Call for Action and Case Studies
+- The Concurrent Calculi Formalisation Benchmark<br/>
+by Marco Carbone, David Castro-Perez, Francisco Ferreira, Lorenzo Gheri, Frederik Krogsdal Jacobsen, Alberto Momigliano, Luca Padovani, Alceste Scalas, Dawit Tirore, Martin Vassor, Nobuko Yoshida and Daniel Zackon
+- Choreographic Automata: A Case Study in Healthcare Management<br/>
+by Sourabh Pal, Ivan Lanese and Massimo Clo
+- Simulation-based Decision Support for Cross-Organisational Workflows: A Case Study of Emergency Handling<br/>
+by Muhammad Rizwan Ali, Yngve Lamo and Violet Ka I Pun
+ 
+### Session 5 (session chair: Alceste Scalas): Automata-based Models
+- Team Automata: Overview and Roadmap<br/>
+by Maurice ter Beek, Rolf Hennicker and José Proença
+- Modelling, Verifying and Testing the Contract Automata Runtime Environment with Uppaal<br/>
+by Davide Basile 
+
+### Session 6 (session chair: José Proença): Concurrency Models and Calculi
+- Encoding Petri Nets into CCS<br/>
+by Benjamin Bogø, Andrea Burattin and Alceste Scalas
+- Implementing a Message-Passing Interpretation of the Semi-Axiomatic Sequent Calculus (SAX)<br/>
+by Adrian Francalanza, Frank Pfenning and Gerard Tabone
+
+<!--
 ## DAIS programme
 
 ### Session 1: Distributed Algorithms and Systems
@@ -204,6 +223,8 @@ by Pedro Pereira and António Rito Silva
 -  Runtime load-shifting of distributed monitors and controllers across networked devices <br/>
 by Angelo Filaseta and Danilo Pianini
 
+
+ 
 ## FORTE programme
 
 ### Session 1: Concurrent Programming
