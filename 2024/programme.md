@@ -67,9 +67,6 @@ To be finalized. In the meantime, go to the [list of accepted papers](./accepted
 ### Wednesday, June 19: DisCoTec Main Conferences
 | Time | COORDINATION | DAIS + FORTE |
 | :---: | :---: | :---: | 
-| *08:50-09:00*  | *Welcome* | *Welcome* | 
-| *10:00-10:30* | *coffee break* | *coffee break* |
-| | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
 |  | **Session 4: <br/> TBD**  | **Session 4: <br/> TBD**   |
 | **10:30-11:00** |*TBD* | *TBD* |
 | **11:00-11:30** | *TBD* | *TBD* |
@@ -80,6 +77,10 @@ To be finalized. In the meantime, go to the [list of accepted papers](./accepted
 | *17:00-21:00* | **Dinner** <br/> Feithhuis (city center) | **Dinner** <br/> Feithhuis (city center) |
 
 <!--
+| *08:50-09:00*  | *Welcome* | *Welcome* | 
+| *10:00-10:30* | *coffee break* | *coffee break* |
+| | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
+
 |  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chair: TBD | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chair: TBD  |
 | **09:00-10:00** | [**Paulo Veríssimo**: <br/> Platform Resilience? Beware of Threats from the “basement”](https://www.discotec.org/2024/invited)  | [**Paulo Veríssimo**: <br/> Platform Resilience? Beware of Threats from the “basement”](https://www.discotec.org/2024/invited)  | -->
 
