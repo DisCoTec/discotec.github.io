@@ -65,18 +65,19 @@ To be finalized. In the meantime, go to the [list of accepted papers](./accepted
  
 
 ### Wednesday, June 19: DisCoTec Main Conferences
+
 | Time | COORDINATION | DAIS + FORTE |
 | :---: | :---: | :---: | 
-|  | **Session 4: <br/> TBD**  | **Session 4: <br/> TBD**   |
 | **10:30-11:00** |*TBD* | *TBD* |
 | **11:00-11:30** | *TBD* | *TBD* |
 | **11:30-12:00** | *TBD* | *TBD* |
 | **12:00-12:30** | *TBD* | *TBD* |
 | *12:30-14:00* | *lunch break* | *lunch break* |
-| *14:30-16:30* | **Excursion** <br/> (city center) |  **Excursion** <br/> (city center) |
+| *14:30-16:30* | **Excursion** <br/> (city center) |  **Excursion** <br> (city center) |
 | *17:00-21:00* | **Dinner** <br/> Feithhuis (city center) | **Dinner** <br/> Feithhuis (city center) |
 
 <!--
+|  | **Session 4: <br/> TBD**  | **Session 4: <br/> TBD**   |
 | *08:50-09:00*  | *Welcome* | *Welcome* | 
 | *10:00-10:30* | *coffee break* | *coffee break* |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
