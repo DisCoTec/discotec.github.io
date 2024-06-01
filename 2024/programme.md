@@ -34,12 +34,11 @@
 
 
 ### Friday, June 21: DisCoTec Workshops
-* [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience 
-* [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands 
+* [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience. Location: BB 5161.0165 (Max Gruber room)
+* [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands. Location: BB 5161.0134. 
 * Closing reception at the Bernoulliborg 
 
-## Detailed Program (Main Conferences)
-To be finalized. In the meantime, go to the [list of accepted papers](./accepted-papers).
+# Overview (Tuesday - Thursday)
 
 
 ### Tuesday, June 18: DisCoTec Main Conferences
@@ -117,6 +116,7 @@ To be finalized. In the meantime, go to the [list of accepted papers](./accepted
 
 
 # Detailed Program 
+
 ## DisCoTec 2024 Best Papers (Session 1)
 - **A Probabilistic Choreography Language for PRISM** <br/>
 by Marco Carbone and Adele Veschetti (COORDINATION)
