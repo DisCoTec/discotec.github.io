@@ -94,8 +94,6 @@ To be finalized. In the meantime, go to the [list of accepted papers](./accepted
 | **09:30-10:30** | [**Marieke Huisman**: <br/> VerCors: Inclusive Software Verification](https://www.discotec.org/2024/invited)  | [**Marieke Huisman**: <br/> VerCors: Inclusive Software Verification](https://www.discotec.org/2024/invited)  | 
 | *10:30-11:00* | *coffee break* | *coffee break* |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
-
-<!--
 |  | **Session 5: <br/> TBD**  | **Session 5: <br/> TBD**   |
 | **11:00-11:30** | *TBD* | *TBD* |
 | **11:30-12:00** | *TBD* | *TBD* |
@@ -111,7 +109,7 @@ To be finalized. In the meantime, go to the [list of accepted papers](./accepted
 |  | **Session 7: <br/> TBD**  | **Session 8: <br/> TBD**   |
 | **16:00-16:30** |  *TBD* | *TBD* |
 | **16:30-17:00** |  *TBD* | *TBD* |
--->
+
 
 ### Friday, June 21: DisCoTec Workshops
 * [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience 
