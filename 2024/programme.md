@@ -5,24 +5,30 @@
 
 ## In A Nutshell
 
-### Monday, June 17: DisCoTec Workshops
+### Monday, June 17
 * [DiDiT 2024](https://distributeddigitaltwins.github.io/2024/): The 1st International Workshop on Distributed Digital Twins 
-* Welcome reception
+* Location: Bernoulliborg 5161.0165 (Max Gruber room, first floor)
+* Opening reception at the **House of Connections** (city center) Grote Markt 21, 9712 HR Groningen [(Google maps)](https://maps.app.goo.gl/5jKuy5guapawf7iJ8)
 
 
-### Tuesday, June 18: DisCoTec Main Conferences
-* Invited Talk: [Laura Kovács](https://www.discotec.org/2024/invited) 
-* Contributed papers (COORDINATION, DAIS, FORTE)
+### Tuesday, June 18: Main Conferences
+* Opening (**09:00h**)
+* Invited Talk: [Laura Kovács](https://www.discotec.org/2024/invited) (**09:30h**)
+* Contributed papers in two tracks (COORDINATION, DAIS+ FORTE)
+* Location: Bernoulliborg 5161.0105 (first floor) and 5161.0253 (second floor)
 
-### Wednesday, June 19: DisCoTec Main Conferences
-* Invited Talk: [Paulo Veríssimo](https://www.discotec.org/2024/invited)
-* Contributed papers (COORDINATION, DAIS, FORTE)
-* Social activities: excursion and social dinner
+### Wednesday, June 19: Main Conferences
+* Invited Talk: [Paulo Veríssimo](https://www.discotec.org/2024/invited)  (**09:00h**)
+* Contributed papers in two tracks (COORDINATION, DAIS+ FORTE)
+* Location: Bernoulliborg 5161.0105 (first floor) and 5161.0253 (second floor)
+* Social activities: 
+   * Excursion (meeting point: city center) 
+   * Dinner at the **'t Feithhuis** (Martinikerkhof 10, 9712 JG, [Google maps](https://maps.app.goo.gl/86mN6q44xmXH1VVNA))
 
 ### Thursday, June 20: DisCoTec Main Conferences
-* Invited Talk: [Marieke Huisman](https://www.discotec.org/2024/invited) 
-* Contributed papers (COORDINATION, DAIS, FORTE)
-
+* Invited Talk: [Marieke Huisman](https://www.discotec.org/2024/invited) (**09:30h**)
+* Contributed papers in two tracks (COORDINATION, DAIS+ FORTE)
+* Location: Bernoulliborg 5161.0105 (first floor) and 5161.0253 (second floor)
 <!-- * Joint session: Best contributed papers (COORDINATION, DAIS, FORTE)
 -->
 
@@ -30,13 +36,11 @@
 ### Friday, June 21: DisCoTec Workshops
 * [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience 
 * [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands 
+* Closing reception at the Bernoulliborg 
 
-## Detailed Program
+## Detailed Program (Main Conferences)
 To be finalized. In the meantime, go to the [list of accepted papers](./accepted-papers).
 
-### Monday, June 17: DisCoTec Workshops
-* [DiDiT 2024](https://distributeddigitaltwins.github.io/2024/): The 1st International Workshop on Distributed Digital Twins 
-* Welcome reception
 
 ### Tuesday, June 18: DisCoTec Main Conferences
 
@@ -69,7 +73,7 @@ To be finalized. In the meantime, go to the [list of accepted papers](./accepted
 | Time | COORDINATION | DAIS + FORTE |
 | :---: | :---: | :---: | 
 | *08:50-09:00*  | *Welcome* | *Welcome* | 
-|  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chair: TBD | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chair: TBD  |
+|  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chair: Rolando Martins | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chair: Rolando Martins  |
 | **09:00-10:00** | [**Paulo Veríssimo**: <br/> Platform Resilience? Beware of Threats from the “basement”](https://www.discotec.org/2024/invited) | [**Paulo Veríssimo**: <br/> Platform Resilience? Beware of Threats from the “basement”](https://www.discotec.org/2024/invited) | 
 | *10:00-10:30* | *coffee break* | *coffee break* |
 |  | **Session 4: <br/> TBD**  | **Session 4: <br/> TBD**   |
@@ -90,7 +94,7 @@ To be finalized. In the meantime, go to the [list of accepted papers](./accepted
 | Time | COORDINATION | DAIS + FORTE |
 | :---: | :---: | :---: | 
 | *09:20-09:30*  | *Welcome* | *Welcome* | 
-|  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chair: TBD | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chair: TBD  |
+|  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chairs: Ilaria Castellani and Francesco Tiezzi | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chairs: Ilaria Castellani and Francesco Tiezzi   |
 | **09:30-10:30** | [**Marieke Huisman**: <br/> VerCors: Inclusive Software Verification](https://www.discotec.org/2024/invited)  | [**Marieke Huisman**: <br/> VerCors: Inclusive Software Verification](https://www.discotec.org/2024/invited)  | 
 | *10:30-11:00* | *coffee break* | *coffee break* |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
@@ -111,11 +115,8 @@ To be finalized. In the meantime, go to the [list of accepted papers](./accepted
 | **16:30-17:00** |  *TBD* | *TBD* |
 
 
-### Friday, June 21: DisCoTec Workshops
-* [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience 
-* [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands 
 
-
+# Detailed Program 
 ## DisCoTec 2024 Best Papers (Session 1)
 - **A Probabilistic Choreography Language for PRISM** <br/>
 by Marco Carbone and Adele Veschetti (COORDINATION)
