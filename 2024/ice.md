@@ -48,22 +48,21 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 The pre-proceedings will be made available by June 16th.
 
-
 *All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
 
 
 | Time CEST   |  |
 | ------------| ------- | 
-| 9:00-9:10   | Opening |
-| 9:10-10:10  | [Jorge A. Pérez](#invited-speaker-jorge-a-pérez) -- *Asynchronous Session-Based Concurrency* (Invited talk) |
-| 10:10-10:40 | _Towards Formal Verification of Attested TLS: Potential Replay Attacks on RA-TLS_ (oral communication) |
-| 10:40-11:00 | **Coffee break** |
+| 8:50-9:00   | Opening |
+| 9:00-10:00  | [Jorge A. Pérez](#invited-speaker-jorge-a-pérez) -- *Asynchronous Session-Based Concurrency* (Invited talk) |
+| 10:00-10:30 | _Towards Formal Verification of Attested TLS: Potential Replay Attacks on RA-TLS_ (oral communication) |
+| 10:30-11:00 | **Coffee break** |
 | 11:00-11:30 | _Safe Composition of Systems of Communicating Finite State Machines_ |
 | 11:30-12:00 | _The B2SCala Tool: integrating Bach in Scala with security in Mind_ |
 | 12:00-12:30 | _A Maude Formalization of the Distributed Reconfiguration Language Concerto-D_ |
-| 12:30-12:45 | Closing |
-
-There will be a panel, open to all, about the future of ICE from 14:00 to 16:00.
+| 12:30-12:40 | Closing |
+| 12:40-14:00 | **Lunch** | 
+| 14:00-16:00 | Panel - Future of Ice (open to all) |
 
 
 ## Invited Speaker: Jorge A. Pérez
