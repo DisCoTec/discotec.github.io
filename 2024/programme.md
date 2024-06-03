@@ -46,19 +46,19 @@
 | Time | COORDINATION | DAIS + FORTE |
 | :---: | :---: | :---: | 
 | *09:00-09:30*  | *Opening Ceremony* | *Opening Ceremony* | 
-|  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chair: TBD | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chair: TBD  |
+|  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chair: Valentina Castiglioni | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chair: Valentina Castiglioni  |
 | **09:30-10:30** | [**Laura Kovács**: <br/> Automated Reasoning in BlockChain Security](https://www.discotec.org/2024/invited)  | [**Laura Kovács**: <br/> Automated Reasoning in BlockChain Security](https://www.discotec.org/2024/invited)  | 
 | *10:30-11:00* | *coffee break* | *coffee break* |
 |  | **Session 1 (Joint): <br/> DisCoTec Best Papers** <br/> (Room BB 5161.0105)  | **Session 1 (Joint): <br/> DisCoTec Best Papers**  <br/> (Room BB 5161.0105) |
 | **11:00-11:30** | A Probabilistic Choreography Language for PRISM | A Probabilistic Choreography Language for PRISM |
 | **11:30-12:00** | *TBD* | *TBD* |
-| **12:00-12:30** | *TBD* | *TBD* |
+| **12:00-12:30** | Weak Simplicial Bisimilarity for Polyhedral Models and SLCSη | Weak Simplicial Bisimilarity for Polyhedral Models and SLCSη |
 | *12:30-14:00* | *lunch break* | *lunch break* |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
-|  | **Session 2: <br/> TBD**  | **Session 2: <br/> TBD**   |
-| **14:00-14:30** | Field-based Coordination for Federated Learning | *TBD* |
-| **14:30-15:00** | An Enhanced Exchange Operator for XC | *TBD* |
-| **15:00-15:30** | TRAC: a tool for data-aware coordination (with an application to smart contracts) | *TBD* |
+|  | **Session 2: <br/> TBD**  | **Session 2: <br/> Testing and Verification**   |
+| **14:00-14:30** | Field-based Coordination for Federated Learning | Network simulation-centric compositional testing |
+| **14:30-15:00** | An Enhanced Exchange Operator for XC | Guess and then check: controller synthesis for safe and secure cyber-physical systems |
+| **15:00-15:30** | TRAC: a tool for data-aware coordination (with an application to smart contracts) | Formally verifying a rollback-prevention protocol for TEEs |
 | *15:30-16:00* | *coffee break* | *coffee break* |
 |  | **Session 3: <br/> TBD**  | **Session 3: <br/> TBD**   |
 | **16:00-16:30** | ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design | *TBD* |
@@ -75,12 +75,12 @@
 |  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chair: Rolando Martins | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chair: Rolando Martins  |
 | **09:00-10:00** | [**Paulo Veríssimo**: <br/> Platform Resilience? Beware of Threats from the “basement”](https://www.discotec.org/2024/invited) | [**Paulo Veríssimo**: <br/> Platform Resilience? Beware of Threats from the “basement”](https://www.discotec.org/2024/invited) | 
 | *10:00-10:30* | *coffee break* | *coffee break* |
-|  | **Session 4: <br/> TBD**  | **Session 4: <br/> TBD**   |
+|  | **Session 4: <br/> TBD**  | **Session 4: <br/> Automata, Languages and Monitoring**   |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
-| **10:30-11:00** | *TBD* | *TBD* |
-| **11:00-11:30** | *TBD* | *TBD* |
-| **11:30-12:00** | *TBD* | *TBD* |
-| **12:00-12:30** | *TBD* | *TBD* |
+| **10:30-11:00** | *TBD* | AuDaLa is Turing complete |
+| **11:00-11:30** | *TBD* | Synthesis for prefix first-order logic on data words |
+| **11:30-12:00** | *TBD* | Synthesizing timed automata with minimal number of clocks for optimised timed scenarios |
+| **12:00-12:30** | *TBD* | Adaptable configuration of decentralised monitors |
 | *12:30-14:00* | *lunch break* | *lunch break* |
 | *14:30-16:30* | **Excursion** <br/> (city center) |  **Excursion** <br> (city center) |
 | *17:00-21:00* | **Dinner** <br/> Feithhuis (city center) | **Dinner** <br/> Feithhuis (city center) |
@@ -100,18 +100,18 @@
 |  | **Session 5: <br/> TBD**  | **Session 5: <br/> TBD**   |
 | **11:00-11:30** | *TBD* | *TBD* |
 | **11:30-12:00** | *TBD* | *TBD* |
-| **12:00-12:30** | *TBD* | *TBD* |
+| **12:00-12:30** | *TBD* | JustAct: Actions universally justified by partial dynamic policies |
 | *12:30-14:00* | *lunch break* | *lunch break* |
 |  | **Joint Session: <br/> DisCoTec Awards** <br/> (Room BB 5161.0105)  | **Joint Session: <br/> DisCoTec Awards** <br/> (Room BB 5161.0105) |
 | **14:00-14:20** | Awards | Awards |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
-|  | **Session 6: <br/> TBD**  | **Session 7: <br/> TBD**   |
-| **14:30-15:00** | *TBD* | *TBD* |
-| **15:00-15:30** | *TBD* | *TBD* |
+|  | **Session 6: <br/> TBD**  | **Session 6: <br/> Security**   |
+| **14:30-15:00** | *TBD* | Noninterference analysis of reversible probabilistic systems |
+| **15:00-15:30** | *TBD* | A multi-agent model for opinion evolution in social networks and cognitive biases |
 | *15:30-16:00* | *coffee break* | *coffee break* |
-|  | **Session 7: <br/> TBD**  | **Session 8: <br/> TBD**   |
-| **16:00-16:30** |  *TBD* | *TBD* |
-| **16:30-17:00** |  *TBD* | *TBD* |
+|  | **Session 7: <br/> TBD**  | **Session 7: <br/> Types**   |
+| **16:00-16:30** |  *TBD* | Leaf-first zipper semantics |
+| **16:30-17:00** |  *TBD* | MAG𝜋! The role of replication in typing failure prone communication |
 
 
 
@@ -173,10 +173,10 @@ by Adrian Francalanza, Frank Pfenning and Gerard Tabone
 
 ## DAIS+FORTE Programme 
 
-### Session 2 (FORTE)
+### Session 2 (FORTE, session chair: Adrian Francalanza): Testing and Verification
 - Network simulation-centric compositional testing<br/>
 by Tom Rousseaux, Christophe Crochet, John Aoga and Axel Legay
-Guess and then check: controller synthesis for safe and secure cyber-physical systems<br/>
+- Guess and then check: controller synthesis for safe and secure cyber-physical systems<br/>
 by Rong Gu, Zahra Moezkarimi and Marjan Sirjani
 - Formally verifying a rollback-prevention protocol for TEEs<br/>
 by Weili Wang, Jianyu Niu, Michael Reiter and Yinqian Zhang
@@ -188,7 +188,7 @@ by Enrico Tedeschi, Øyvind Nohr, Håvard Dafenborg and Dag Johansen.
 by Victorien Elvinger and Habibatou Ba
      
 
-### Session 4 (FORTE)
+### Session 4 (FORTE, session chair: Adrian Francalanza): Automata, Languages and Monitoring
 - AuDaLa is Turing complete<br/>
 by Tom T.P. Franken and Thomas Neele
 - Synthesis for prefix first-order logic on data words<br/>
@@ -206,13 +206,13 @@ by Amir Javadpour, Forough Ja’Fari and Tarik Taleb
 - JustAct: Actions universally justified by partial dynamic policies<br/>
 by Christopher Esterhuyse, Tim Müller and L. Thomas van Binsbergen
 
-###  Session 6 (FORTE)
+###  Session 6 (FORTE, session chair: Diego Latella): Security
 - Noninterference analysis of reversible probabilistic systems<br/>
 by Andrea Esposito, Alessandro Aldini and Marco Bernardo
 - A multi-agent model for opinion evolution in social networks and cognitive biases<br/>
 by Mário S. Alvim, Sophia Knight, Artur Gaspar Silva and Frank Valencia
 
-###  Session 7 (FORTE)
+###  Session 7 (FORTE, session chair: Valentina Castiglioni): Types.
 - Leaf-first zipper semantics<br/>
 by Sergueï Lenglet and Alan Schmitt
 - MAG𝜋! The role of replication in typing failure prone communication<br/>
