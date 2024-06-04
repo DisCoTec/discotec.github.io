@@ -47,7 +47,7 @@
 
 | Time | COORDINATION | DAIS + FORTE |
 | :---: | :---: | :---: | 
-| *09:00-09:30*  | *Opening Ceremony* | *Opening Ceremony* | 
+| *09:00-09:30*  | *Opening Ceremony DisCoTec 2024* | *Opening Ceremony DisCoTec 2024* | 
 |  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chair: Valentina Castiglioni | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chair: Valentina Castiglioni  |
 | **09:30-10:30** | [**Laura Kovács**: <br/> Automated Reasoning in BlockChain Security](https://www.discotec.org/2024/invited)  | [**Laura Kovács**: <br/> Automated Reasoning in BlockChain Security](https://www.discotec.org/2024/invited)  | 
 | *10:30-11:00* | *coffee break* | *coffee break* |
@@ -55,8 +55,9 @@
 | **11:00-11:30** | A Probabilistic Choreography Language for PRISM | A Probabilistic Choreography Language for PRISM |
 | **11:30-12:00** | *TBD* | *TBD* |
 | **12:00-12:30** | Weak Simplicial Bisimilarity for Polyhedral Models and SLCSη | Weak Simplicial Bisimilarity for Polyhedral Models and SLCSη |
-| *12:30-14:00* | *lunch break* | *lunch break* |
+| *12:30-13:50* | *lunch break* | *lunch break* |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
+| *13:50 - 14:00* | *Welcome COORDINATION* | *Welcome DAIS+FORTE* |
 |  | **Session 2: <br/> TBD**  | **Session 2: <br/> Testing and Verification**   |
 | **14:00-14:30** | Field-based Coordination for Federated Learning | Network simulation-centric compositional testing |
 | **14:30-15:00** | An Enhanced Exchange Operator for XC | Guess and then check: controller synthesis for safe and secure cyber-physical systems |
