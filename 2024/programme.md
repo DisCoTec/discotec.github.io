@@ -22,7 +22,9 @@
 * Contributed papers in two tracks (COORDINATION, DAIS+ FORTE)
 * Location: Bernoulliborg 5161.0105 (first floor) and 5161.0253 (second floor)
 * Social activities: 
-   * Excursion (meeting point: city center) 
+   * Excursion. Two meeting points, both nearby the Groningen train station: 
+       * Uncle Loek’s (white) horse [(Google maps)](https://maps.app.goo.gl/jv7gSPCKEFjwz9u78)
+       * Boat tour agency [(Google maps)](https://maps.app.goo.gl/NZPnLYBhdaq8x64ZA)  
    * Dinner at the **'t Feithhuis** (Martinikerkhof 10, 9712 JG, [Google maps](https://maps.app.goo.gl/86mN6q44xmXH1VVNA))
 
 ### Thursday, June 20: DisCoTec Main Conferences
@@ -63,7 +65,6 @@
 |  | **Session 3: <br/> TBD**  | **Session 3: <br/> TBD**   |
 | **16:00-16:30** | ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design | *TBD* |
 | **16:30-17:00** | Visualisation of Collective Systems with Sequit and Sibilla | *TBD* |
-| *18:00-20:00* |  **Opening Reception**  <br/> House of Connections <br/> (city center)  | **Opening Reception**  <br/> House of Connections <br/> (city center) |
 
  
 
@@ -148,7 +149,7 @@ by Giuseppe De Palma, Saverio Giallorenzo, Jacopo Mauro, Matteo Trentin and Gian
 - SEArch: an execution infrastructure for service-based software systems<br/>
 by Carlos Gustavo Lopez Pombo, Pablo Montepagano and Emilio Tuosto
 - Coconut: Typestates for Embedded Systems<br/>
-by Arwa Hameed Alsubhi and Ornela Dardha
+by Arwa Hameed Alsubhi and Ornela Dardha *(remote talk)*
 
 ### Session 5 (session chair: Antonio Ravara): Call for Action and Case Studies
 - The Concurrent Calculi Formalisation Benchmark<br/>
@@ -200,7 +201,7 @@ by Ennio Visconti, Ezio Bartocci, Yliès Falcone and Laura Nenzi
 
 ###  Session 5 (DAIS+FORTE)
 - Stream Economics: Resource Efficiency in Streams with Task Over-Allocation and Load Shedding<br/>
-by Luís Alves and Luís Veiga 
+by Luís Alves and Luís Veiga *(remote talk)*
 - Encryption as a Service: A Review of Architectures and Taxonomies<br/>
 by Amir Javadpour, Forough Ja’Fari and Tarik Taleb
 - JustAct: Actions universally justified by partial dynamic policies<br/>
