@@ -63,7 +63,7 @@
 | **14:30-15:00** | An Enhanced Exchange Operator for XC | Guess and then check: controller synthesis for safe and secure cyber-physical systems |
 | **15:00-15:30** | TRAC: a tool for data-aware coordination (with an application to smart contracts) | Formally verifying a rollback-prevention protocol for TEEs |
 | *15:30-16:00* | *coffee break* | *coffee break* |
-|  | **Session 3: <br/> TBD**  | **Session 3: <br/> TBD**   |
+|  | **Session 3: <br/> Collective Systems** </br> Chair: Mieke Massink | **Session 3: <br/> TBD**   |
 | **16:00-16:30** | ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design | *TBD* |
 | **16:30-17:00** | Visualisation of Collective Systems with Sequit and Sibilla | *TBD* |
 
