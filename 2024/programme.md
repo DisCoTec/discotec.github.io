@@ -111,9 +111,9 @@
 | **14:30-15:00** | Team Automata: Overview and Roadmap | Noninterference analysis of reversible probabilistic systems |
 | **15:00-15:30** | Modelling, Verifying and Testing the Contract Automata Runtime Environment with Uppaal | A multi-agent model for opinion evolution in social networks and cognitive biases |
 | *15:30-16:00* | *coffee break* | *coffee break* |
-|  | **Session 7: <br/> TBD**  | **Session 7: <br/> Types**   |
-| **16:00-16:30** |  *TBD* | Leaf-first zipper semantics |
-| **16:30-17:00** |  *TBD* | MAG𝜋! The role of replication in typing failure prone communication |
+|  | **Session 7: <br/> Concurrency Models and Calculi** <br/> Chair: José Proença | **Session 7: <br/> Types**   |
+| **16:00-16:30** |  Encoding Petri Nets into CCS | Leaf-first zipper semantics |
+| **16:30-17:00** |  Implementing a Message-Passing Interpretation of the Semi-Axiomatic Sequent Calculus (SAX) | MAG𝜋! The role of replication in typing failure prone communication |
 
 
 
