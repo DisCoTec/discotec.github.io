@@ -63,7 +63,7 @@
 | **14:30-15:00** | An Enhanced Exchange Operator for XC | Guess and then check: controller synthesis for safe and secure cyber-physical systems |
 | **15:00-15:30** | TRAC: a tool for data-aware coordination (with an application to smart contracts) | Formally verifying a rollback-prevention protocol for TEEs |
 | *15:30-16:00* | *coffee break* | *coffee break* |
-|  | **Session 3: <br/> Collective Systems** </br> Chair: Mieke Massink | **Session 3: <br/> TBD**   |
+|  | **Session 3: <br/> Collective Systems** <br/> Chair: Mieke Massink | **Session 3: <br/> TBD**   |
 | **16:00-16:30** | ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design | *TBD* |
 | **16:30-17:00** | Visualisation of Collective Systems with Sequit and Sibilla | *TBD* |
 
@@ -78,7 +78,7 @@
 | **09:00-10:00** | [**Paulo Veríssimo**: <br/> Platform Resilience? Beware of Threats from the “basement”](https://www.discotec.org/2024/invited) | [**Paulo Veríssimo**: <br/> Platform Resilience? Beware of Threats from the “basement”](https://www.discotec.org/2024/invited) | 
 | *10:00-10:30* | *coffee break* | *coffee break* |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
-|  | **Session 4: <br/> Tools for Coordination** </br> Chair: Mirko Viroli | **Session 4: <br/> Automata, Languages and Monitoring**   |
+|  | **Session 4: <br/> Tools for Coordination** <br/> Chair: Mirko Viroli | **Session 4: <br/> Automata, Languages and Monitoring**   |
 | **10:30-11:00** | COTS: Connected OpenAPI Test Synthesis for RESTful Applications | AuDaLa is Turing complete |
 | **11:00-11:30** | An OpenWhisk Extension for Topology-aware Allocation Priority Policies | Synthesis for prefix first-order logic on data words |
 | **11:30-12:00** | SEArch: an execution infrastructure for service-based software systems | Synthesizing timed automata with minimal number of clocks for optimised timed scenarios |
