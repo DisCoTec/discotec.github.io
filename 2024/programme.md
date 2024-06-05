@@ -99,9 +99,9 @@
 | **09:30-10:30** | [**Marieke Huisman**: <br/> VerCors: Inclusive Software Verification](https://www.discotec.org/2024/invited)  | [**Marieke Huisman**: <br/> VerCors: Inclusive Software Verification](https://www.discotec.org/2024/invited)  | 
 | *10:30-11:00* | *coffee break* | *coffee break* |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
-|  | **Session 5: <br/> Call for Action and Case Studies** <br/> Chair: Antonio Ravara | **Session 5: <br/> TBD**   |
-| **11:00-11:30** | The Concurrent Calculi Formalisation Benchmark | *TBD* |
-| **11:30-12:00** | Choreographic Automata: A Case Study in Healthcare Management | *TBD* |
+|  | **Session 5: <br/> Call for Action and Case Studies** <br/> Chair: Antonio Ravara | **Session 5: <br/> Security and Resource Allocation** <br/> Chair: TBD  |
+| **11:00-11:30** | The Concurrent Calculi Formalisation Benchmark | Stream Economics: Resource Efficiency in Streams with Task Over-Allocation and Load Shedding |
+| **11:30-12:00** | Choreographic Automata: A Case Study in Healthcare Management | Encryption as a Service: A Review of Architectures and Taxonomies |
 | **12:00-12:30** | Simulation-based Decision Support for Cross-Organisational Workflows: A Case Study of Emergency Handling | JustAct: Actions universally justified by partial dynamic policies |
 | *12:30-14:00* | *lunch break* | *lunch break* |
 |  | **Joint Session: <br/> DisCoTec Awards** <br/> (Room BB 5161.0105)  | **Joint Session: <br/> DisCoTec Awards** <br/> (Room BB 5161.0105) |
