@@ -53,7 +53,7 @@
 | *10:30-11:00* | *coffee break* | *coffee break* |
 |  | **Session 1 (Joint): <br/> DisCoTec Best Papers** <br/> (Room BB 5161.0105)  | **Session 1 (Joint): <br/> DisCoTec Best Papers**  <br/> (Room BB 5161.0105) |
 | **11:00-11:30** | A Probabilistic Choreography Language for PRISM | A Probabilistic Choreography Language for PRISM |
-| **11:30-12:00** | *TBD* | *TBD* |
+| **11:30-12:00** | Compact Storage of Data Streams in Mobile Devices | Compact Storage of Data Streams in Mobile Devices |
 | **12:00-12:30** | Weak Simplicial Bisimilarity for Polyhedral Models and SLCSη | Weak Simplicial Bisimilarity for Polyhedral Models and SLCSη |
 | *12:30-13:50* | *lunch break* | *lunch break* |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
