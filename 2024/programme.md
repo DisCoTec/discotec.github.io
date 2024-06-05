@@ -77,8 +77,8 @@
 |  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chair: Rolando Martins | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chair: Rolando Martins  |
 | **09:00-10:00** | [**Paulo Veríssimo**: <br/> Platform Resilience? Beware of Threats from the “basement”](https://www.discotec.org/2024/invited) | [**Paulo Veríssimo**: <br/> Platform Resilience? Beware of Threats from the “basement”](https://www.discotec.org/2024/invited) | 
 | *10:00-10:30* | *coffee break* | *coffee break* |
-|  | **Session 4: <br/> Tools for Coordination** </br> Chair: Mirko Viroli | **Session 4: <br/> Automata, Languages and Monitoring**   |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
+|  | **Session 4: <br/> Tools for Coordination** </br> Chair: Mirko Viroli | **Session 4: <br/> Automata, Languages and Monitoring**   |
 | **10:30-11:00** | COTS: Connected OpenAPI Test Synthesis for RESTful Applications | AuDaLa is Turing complete |
 | **11:00-11:30** | An OpenWhisk Extension for Topology-aware Allocation Priority Policies | Synthesis for prefix first-order logic on data words |
 | **11:30-12:00** | SEArch: an execution infrastructure for service-based software systems | Synthesizing timed automata with minimal number of clocks for optimised timed scenarios |
