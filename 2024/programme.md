@@ -99,7 +99,7 @@
 | **09:30-10:30** | [**Marieke Huisman**: <br/> VerCors: Inclusive Software Verification](https://www.discotec.org/2024/invited)  | [**Marieke Huisman**: <br/> VerCors: Inclusive Software Verification](https://www.discotec.org/2024/invited)  | 
 | *10:30-11:00* | *coffee break* | *coffee break* |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
-|  | **Session 5: <br/> Call for Action and Case Studies** <br/> Chair: Antonio Ravara | **Session 5: <br/> Security and Resource Allocation** <br/> Chair: TBD  |
+|  | **Session 5: <br/> Call for Action and Case Studies** <br/> Chair: Antonio Ravara | **Session 5: <br/> Stream Processing and Security** <br/> Chair: TBD  |
 | **11:00-11:30** | The Concurrent Calculi Formalisation Benchmark | Stream Economics: Resource Efficiency in Streams with Task Over-Allocation and Load Shedding |
 | **11:30-12:00** | Choreographic Automata: A Case Study in Healthcare Management | Encryption as a Service: A Review of Architectures and Taxonomies |
 | **12:00-12:30** | Simulation-based Decision Support for Cross-Organisational Workflows: A Case Study of Emergency Handling | JustAct: Actions universally justified by partial dynamic policies |
@@ -183,7 +183,7 @@ by Rong Gu, Zahra Moezkarimi and Marjan Sirjani
 - Formally verifying a rollback-prevention protocol for TEEs<br/>
 by Weili Wang, Jianyu Niu, Michael Reiter and Yinqian Zhang
 
-### Session 3 (DAIS) - Session name: Blockchain and CRDTs - Session chair: Rolando Martins
+### Session 3 (DAIS, session chair: Rolando Martins): Blockchain and CRDTs 
 - Mining Profitability in Bitcoin: Calculations of User-Miner Equilibria and Cost of Mining<br/>
 by Enrico Tedeschi, Øyvind Nohr, Håvard Dafenborg and Dag Johansen. 
 - A CRDT for Replicated Relational Databases with Integrity Constraints, Claudia-Lavinia Ignat<br/>
@@ -200,7 +200,7 @@ by Neda Saeedloei and Feliks Kluzniak
 - Adaptable configuration of decentralised monitors<br/>
 by Ennio Visconti, Ezio Bartocci, Yliès Falcone and Laura Nenzi
 
-###  Session 5 (DAIS+FORTE)
+###  Session 5 (DAIS+FORTE, session chair: TBD): Stream Processing and Security
 - Stream Economics: Resource Efficiency in Streams with Task Over-Allocation and Load Shedding<br/>
 by Luís Alves and Luís Veiga *(remote talk)*
 - Encryption as a Service: A Review of Architectures and Taxonomies<br/>
