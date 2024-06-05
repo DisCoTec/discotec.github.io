@@ -77,12 +77,12 @@
 |  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chair: Rolando Martins | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chair: Rolando Martins  |
 | **09:00-10:00** | [**Paulo Veríssimo**: <br/> Platform Resilience? Beware of Threats from the “basement”](https://www.discotec.org/2024/invited) | [**Paulo Veríssimo**: <br/> Platform Resilience? Beware of Threats from the “basement”](https://www.discotec.org/2024/invited) | 
 | *10:00-10:30* | *coffee break* | *coffee break* |
-|  | **Session 4: <br/> TBD**  | **Session 4: <br/> Automata, Languages and Monitoring**   |
+|  | **Session 4: <br/> Tools for Coordination** </br> Chair: Mirko Viroli | **Session 4: <br/> Automata, Languages and Monitoring**   |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
-| **10:30-11:00** | *TBD* | AuDaLa is Turing complete |
-| **11:00-11:30** | *TBD* | Synthesis for prefix first-order logic on data words |
-| **11:30-12:00** | *TBD* | Synthesizing timed automata with minimal number of clocks for optimised timed scenarios |
-| **12:00-12:30** | *TBD* | Adaptable configuration of decentralised monitors |
+| **10:30-11:00** | COTS: Connected OpenAPI Test Synthesis for RESTful Applications | AuDaLa is Turing complete |
+| **11:00-11:30** | An OpenWhisk Extension for Topology-aware Allocation Priority Policies | Synthesis for prefix first-order logic on data words |
+| **11:30-12:00** | SEArch: an execution infrastructure for service-based software systems | Synthesizing timed automata with minimal number of clocks for optimised timed scenarios |
+| **12:00-12:30** | Coconut: Typestates for Embedded Systems | Adaptable configuration of decentralised monitors |
 | *12:30-14:00* | *lunch break* | *lunch break* |
 | *14:30-16:30* | **Excursion** <br/> (city center) |  **Excursion** <br> (city center) |
 | *17:00-21:00* | **Dinner** <br/> Feithhuis (city center) | **Dinner** <br/> Feithhuis (city center) |
