@@ -58,7 +58,7 @@
 | *12:30-13:50* | *lunch break* | *lunch break* |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
 | *13:50 - 14:00* | *Welcome COORDINATION* | *Welcome DAIS+FORTE* |
-|  | **Session 2: <br/> TBD**  | **Session 2: <br/> Testing and Verification**   |
+|  | **Session 2: <br/> Coordination Approaches**<br/> Chair: Michele Loreti | **Session 2: <br/> Testing and Verification**   |
 | **14:00-14:30** | Field-based Coordination for Federated Learning | Network simulation-centric compositional testing |
 | **14:30-15:00** | An Enhanced Exchange Operator for XC | Guess and then check: controller synthesis for safe and secure cyber-physical systems |
 | **15:00-15:30** | TRAC: a tool for data-aware coordination (with an application to smart contracts) | Formally verifying a rollback-prevention protocol for TEEs |
