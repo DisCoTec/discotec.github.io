@@ -95,7 +95,7 @@
 | Time | COORDINATION | DAIS + FORTE |
 | :---: | :---: | :---: | 
 | *09:20-09:30*  | *Welcome* | *Welcome* | 
-|  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chairs: Ilaria Castellani and Francesco Tiezzi | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chairs: Ilaria Castellani and Francesco Tiezzi   |
+|  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chairs: Ilaria Castellani | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chairs: Ilaria Castellani |
 | **09:30-10:30** | [**Marieke Huisman**: <br/> VerCors: Inclusive Software Verification](https://www.discotec.org/2024/invited)  | [**Marieke Huisman**: <br/> VerCors: Inclusive Software Verification](https://www.discotec.org/2024/invited)  | 
 | *10:30-11:00* | *coffee break* | *coffee break* |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
