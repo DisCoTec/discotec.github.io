@@ -107,9 +107,9 @@
 |  | **Joint Session: <br/> DisCoTec Awards** <br/> (Room BB 5161.0105)  | **Joint Session: <br/> DisCoTec Awards** <br/> (Room BB 5161.0105) |
 | **14:00-14:20** | Awards | Awards |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
-|  | **Session 6: <br/> TBD**  | **Session 6: <br/> Security**   |
-| **14:30-15:00** | *TBD* | Noninterference analysis of reversible probabilistic systems |
-| **15:00-15:30** | *TBD* | A multi-agent model for opinion evolution in social networks and cognitive biases |
+|  | **Session 6: <br/> Automata-based Models** <br/> Chair: Alceste Scalas | **Session 6: <br/> Security**   |
+| **14:30-15:00** | Team Automata: Overview and Roadmap | Noninterference analysis of reversible probabilistic systems |
+| **15:00-15:30** | Modelling, Verifying and Testing the Contract Automata Runtime Environment with Uppaal | A multi-agent model for opinion evolution in social networks and cognitive biases |
 | *15:30-16:00* | *coffee break* | *coffee break* |
 |  | **Session 7: <br/> TBD**  | **Session 7: <br/> Types**   |
 | **16:00-16:30** |  *TBD* | Leaf-first zipper semantics |
