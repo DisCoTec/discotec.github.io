@@ -3,11 +3,23 @@
 
 # Programme
 
+## Location
+DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in the Zernike Campus of the University of Groningen. 
+
+* *Address*:  Nijenborgh 9, 9747 AG Groningen </br> Bus stop: Nijenborg [(Google Maps)](https://maps.app.goo.gl/3kyPY9j6sbjaa5kVA)
+* [Video tour of the Bernoulliborg](https://www.youtube.com/watch?v=Oot1J1NtwKQ)
+* Detailed information on how to reach the Bernoulliborg: [read here](https://www.rug.nl/staff/location/5161)
+* Relevant rooms: 0165, 0151, 0134, 0253 ([more details](https://www.rug.nl/fse/education/fse-teaching-locations/bernoulliborg-teaching-rooms/rooms-at-bb-link-page?lang=en#bb165))
+
+
+[![](bborg.jpg)](.)
+*<a href="https://commons.wikimedia.org/wiki/File:Bernoulliborg_2022.jpg">Laurensvanheerde</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons*
+
 ## In A Nutshell
 
 ### Monday, June 17
 * [DiDiT 2024](https://distributeddigitaltwins.github.io/2024/): The 1st International Workshop on Distributed Digital Twins 
-* Location: Bernoulliborg 5161.0165 (Max Gruber room, first floor)
+* Location: Bernoulliborg **0165** (Max Gruber room, first floor)
 * Opening reception at the **House of Connections** (city center) Grote Markt 21, 9712 HR Groningen [(Google maps)](https://maps.app.goo.gl/5jKuy5guapawf7iJ8)
 
 
@@ -15,12 +27,12 @@
 * Opening (**09:00h**)
 * Invited Talk: [Laura Kovács](https://www.discotec.org/2024/invited) (**09:30h**)
 * Contributed papers in two tracks (COORDINATION, DAIS+ FORTE)
-* Location: Bernoulliborg 5161.0105 (first floor) and 5161.0253 (second floor)
+* Locations: Bernoulliborg **0105** (first floor) and **0253** (second floor)
 
 ### Wednesday, June 19: Main Conferences
 * Invited Talk: [Paulo Veríssimo](https://www.discotec.org/2024/invited)  (**09:00h**)
 * Contributed papers in two tracks (COORDINATION, DAIS+ FORTE)
-* Location: Bernoulliborg 5161.0105 (first floor) and 5161.0253 (second floor)
+* Location: Bernoulliborg **0105** (first floor) and **0253** (second floor)
 * Social activities: 
    * Excursion. Two meeting points, both nearby the Groningen train station: 
        * Uncle Loek’s (white) horse [(Google maps)](https://maps.app.goo.gl/jv7gSPCKEFjwz9u78)
@@ -30,14 +42,14 @@
 ### Thursday, June 20: DisCoTec Main Conferences
 * Invited Talk: [Marieke Huisman](https://www.discotec.org/2024/invited) (**09:30h**)
 * Contributed papers in two tracks (COORDINATION, DAIS+ FORTE)
-* Location: Bernoulliborg 5161.0105 (first floor) and 5161.0253 (second floor)
+* Location: Bernoulliborg **0105** (first floor) and **0253** (second floor)
 <!-- * Joint session: Best contributed papers (COORDINATION, DAIS, FORTE)
 -->
 
 
 ### Friday, June 21: DisCoTec Workshops
-* [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience. Location: BB 5161.0165 (Max Gruber room)
-* [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands. Location: BB 5161.0134. 
+* [ICE 2024](https://www.discotec.org/2024/ice): 17th Interaction and Concurrency Experience. <br> Location: Bernoulliborg **0165** (Max Gruber room)
+* [PLNL 2024](https://conf.researchr.org/home/plnl-2024): The Fourth VERSEN Workshop on Programming Languages in The Netherlands. <br>  Location: Bernoulliborg **0134**. 
 * Closing reception at the Bernoulliborg 
 
 # Overview (Tuesday - Thursday)
