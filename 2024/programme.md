@@ -85,7 +85,7 @@
 | **12:00-12:30** | Coconut: Typestates for Embedded Systems | Adaptable configuration of decentralised monitors |
 | *12:30-14:00* | *lunch break* | *lunch break* |
 | *14:30-16:30* | **Excursion** <br/> (city center) |  **Excursion** <br> (city center) |
-| *17:00-21:00* | **Dinner** <br/> Feithhuis (city center) | **Dinner** <br/> Feithhuis (city center) |
+| *18:00-21:00* | **Dinner** <br/> Feithhuis (city center) | **Dinner** <br/> Feithhuis (city center) |
 
  
 
