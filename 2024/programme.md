@@ -6,10 +6,10 @@
 ## Location
 DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in the Zernike Campus of the University of Groningen. 
 
-* *Address*:  Nijenborgh 9, 9747 AG Groningen </br> Bus stop: Nijenborg [(Google Maps)](https://maps.app.goo.gl/3kyPY9j6sbjaa5kVA)
+* *Address*:  Nijenborgh 9, 9747 AG Groningen <br/> Bus stop: Nijenborg [(Google Maps)](https://maps.app.goo.gl/3kyPY9j6sbjaa5kVA)
 * [Video tour of the Bernoulliborg](https://www.youtube.com/watch?v=Oot1J1NtwKQ)
 * Detailed information on how to reach the Bernoulliborg: [read here](https://www.rug.nl/staff/location/5161)
-* Relevant rooms: 0165, 0151, 0134, 0253 ([more details](https://www.rug.nl/fse/education/fse-teaching-locations/bernoulliborg-teaching-rooms/rooms-at-bb-link-page?lang=en#bb165))
+* Rooms: 0165, 0151, 0134, 0253 ([more details](https://www.rug.nl/fse/education/fse-teaching-locations/bernoulliborg-teaching-rooms/rooms-at-bb-link-page?lang=en#bb165))
 
 
 [![](bborg.jpg)](.)
@@ -19,20 +19,25 @@ DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in t
 
 ### Monday, June 17
 * [DiDiT 2024](https://distributeddigitaltwins.github.io/2024/): The 1st International Workshop on Distributed Digital Twins 
-* Location: Bernoulliborg **0165** (Max Gruber room, first floor)
-* Opening reception at the **House of Connections** (city center) Grote Markt 21, 9712 HR Groningen [(Google maps)](https://maps.app.goo.gl/5jKuy5guapawf7iJ8)
-
+   * Location: Bernoulliborg **0165** (Max Gruber room, first floor)
+* **DisCoTec Opening reception**
+  *  Location: **House of Connections** (city center) <br/>Grote Markt 21, 9712 HR Groningen [(Google maps)](https://maps.app.goo.gl/5jKuy5guapawf7iJ8)
+  * Time: 18:00 - 19:30
 
 ### Tuesday, June 18: Main Conferences
-* Opening (**09:00h**)
-* Invited Talk: [Laura Kovács](https://www.discotec.org/2024/invited) (**09:30h**)
-* Contributed papers in two tracks (COORDINATION, DAIS+ FORTE)
-* Locations: Bernoulliborg **0105** (first floor) and **0253** (second floor)
+* Opening (**09:00h**) and Invited Talk: [Laura Kovács](https://www.discotec.org/2024/invited) (**09:30h**)
+   * Bernoulliborg Room **0105** (first floor)
+* Joint best paper session:  Bernoulliborg Room **0105** (first floor)
+* Contributed papers in two tracks: 
+   * COORDINATION: Bernoulliborg Room **0105** (first floor)
+   * DAIS+ FORTE: Bernoulliborg Room **0253** (second floor)
 
 ### Wednesday, June 19: Main Conferences
 * Invited Talk: [Paulo Veríssimo](https://www.discotec.org/2024/invited)  (**09:00h**)
-* Contributed papers in two tracks (COORDINATION, DAIS+ FORTE)
-* Location: Bernoulliborg **0105** (first floor) and **0253** (second floor)
+   * Bernoulliborg Room **0105** (first floor)
+* Contributed papers in two tracks: 
+   * COORDINATION: Bernoulliborg Room **0105** (first floor)
+   * DAIS+ FORTE: Bernoulliborg Room **0253** (second floor)
 * Social activities: 
    * Excursion. Two meeting points, both nearby the Groningen train station: 
        * Uncle Loek’s (white) horse [(Google maps)](https://maps.app.goo.gl/jv7gSPCKEFjwz9u78)
@@ -41,8 +46,11 @@ DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in t
 
 ### Thursday, June 20: DisCoTec Main Conferences
 * Invited Talk: [Marieke Huisman](https://www.discotec.org/2024/invited) (**09:30h**)
-* Contributed papers in two tracks (COORDINATION, DAIS+ FORTE)
-* Location: Bernoulliborg **0105** (first floor) and **0253** (second floor)
+  * Bernoulliborg Room **0105** (first floor)
+* Joint award session:  Bernoulliborg Room **0105** (first floor)
+* Contributed papers in two tracks: 
+   * COORDINATION: Bernoulliborg Room **0105** (first floor)
+   * DAIS+ FORTE: Bernoulliborg Room **0253** (second floor)
 <!-- * Joint session: Best contributed papers (COORDINATION, DAIS, FORTE)
 -->
 
@@ -63,14 +71,14 @@ DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in t
 |  | **DisCoTec Invited Talk** <br/> (Room BB 5161.0105)  <br/> Chair: Valentina Castiglioni | **DisCoTec Invited Talk**  <br/> (Room BB 5161.0105) <br/> Chair: Valentina Castiglioni  |
 | **09:30-10:30** | [**Laura Kovács**: <br/> Automated Reasoning in BlockChain Security](https://www.discotec.org/2024/invited)  | [**Laura Kovács**: <br/> Automated Reasoning in BlockChain Security](https://www.discotec.org/2024/invited)  | 
 | *10:30-11:00* | *coffee break* | *coffee break* |
-|  | **Session 1 (Joint): <br/> DisCoTec Best Papers** <br/> (Room BB 5161.0105)  | **Session 1 (Joint): <br/> DisCoTec Best Papers**  <br/> (Room BB 5161.0105) |
+|  | **Session 1 (Joint):  DisCoTec Best Papers** <br/> (Room BB 5161.0105)  <br/> Chair: Jorge Pérez | **Session 1 (Joint): DisCoTec Best Papers**  <br/> (Room BB 5161.0105) <br/> Chair: Jorge Pérez |
 | **11:00-11:30** | A Probabilistic Choreography Language for PRISM | A Probabilistic Choreography Language for PRISM |
 | **11:30-12:00** | Compact Storage of Data Streams in Mobile Devices | Compact Storage of Data Streams in Mobile Devices |
 | **12:00-12:30** | Weak Simplicial Bisimilarity for Polyhedral Models and SLCSη | Weak Simplicial Bisimilarity for Polyhedral Models and SLCSη |
 | *12:30-13:50* | *lunch break* | *lunch break* |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
 | *13:50 - 14:00* | *Welcome COORDINATION* | *Welcome DAIS+FORTE* |
-|  | **Session 2: <br/> Coordination Approaches**<br/> Chair: Michele Loreti | **Session 2: <br/> Testing and Verification**   |
+|  | **Session 2: <br/> Coordination Approaches**<br/> Chair: Michele Loreti | **Session 2: <br/> Testing and Verification** <br/> Chair: Adrian Francalanza   |
 | **14:00-14:30** | Field-based Coordination for Federated Learning | Network simulation-centric compositional testing |
 | **14:30-15:00** | An Enhanced Exchange Operator for XC | Guess and then check: controller synthesis for safe and secure cyber-physical systems |
 | **15:00-15:30** | TRAC: a tool for data-aware coordination (with an application to smart contracts) | Formally verifying a rollback-prevention protocol for TEEs |
@@ -90,7 +98,7 @@ DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in t
 | **09:00-10:00** | [**Paulo Veríssimo**: <br/> Platform Resilience? Beware of Threats from the “basement”](https://www.discotec.org/2024/invited) | [**Paulo Veríssimo**: <br/> Platform Resilience? Beware of Threats from the “basement”](https://www.discotec.org/2024/invited) | 
 | *10:00-10:30* | *coffee break* | *coffee break* |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
-|  | **Session 4: <br/> Tools for Coordination** <br/> Chair: Mirko Viroli | **Session 4: <br/> Automata, Languages and Monitoring**   |
+|  | **Session 4: <br/> Tools for Coordination** <br/> Chair: Mirko Viroli | **Session 4: <br/> Automata, Languages and Monitoring** <br/> Chair: Adrian Francalanza  |
 | **10:30-11:00** | COTS: Connected OpenAPI Test Synthesis for RESTful Applications | AuDaLa is Turing complete |
 | **11:00-11:30** | An OpenWhisk Extension for Topology-aware Allocation Priority Policies | Synthesis for prefix first-order logic on data words |
 | **11:30-12:00** | SEArch: an execution infrastructure for service-based software systems | Synthesizing timed automata with minimal number of clocks for optimised timed scenarios |
@@ -111,7 +119,7 @@ DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in t
 | **09:30-10:30** | [**Marieke Huisman**: <br/> VerCors: Inclusive Software Verification](https://www.discotec.org/2024/invited)  | [**Marieke Huisman**: <br/> VerCors: Inclusive Software Verification](https://www.discotec.org/2024/invited)  | 
 | *10:30-11:00* | *coffee break* | *coffee break* |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
-|  | **Session 5: <br/> Call for Action and Case Studies** <br/> Chair: Antonio Ravara | **Session 5: <br/> Stream Processing and Security** <br/> Chair: TBD  |
+|  | **Session 5: <br/> Call for Action and Case Studies** <br/> Chair: Antonio Ravara | **Session 5: <br/> Stream Processing and Security** <br/> Chair: Rolando Martins  |
 | **11:00-11:30** | The Concurrent Calculi Formalisation Benchmark | Stream Economics: Resource Efficiency in Streams with Task Over-Allocation and Load Shedding |
 | **11:30-12:00** | Choreographic Automata: A Case Study in Healthcare Management | Encryption as a Service: A Review of Architectures and Taxonomies |
 | **12:00-12:30** | Simulation-based Decision Support for Cross-Organisational Workflows: A Case Study of Emergency Handling | JustAct: Actions universally justified by partial dynamic policies |
@@ -119,11 +127,11 @@ DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in t
 |  | **Joint Session: <br/> DisCoTec Awards** <br/> (Room BB 5161.0105)  | **Joint Session: <br/> DisCoTec Awards** <br/> (Room BB 5161.0105) |
 | **14:00-14:20** | Awards | Awards |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
-|  | **Session 6: <br/> Automata-based Models** <br/> Chair: Alceste Scalas | **Session 6: <br/> Security**   |
+|  | **Session 6: <br/> Automata-based Models** <br/> Chair: Alceste Scalas | **Session 6: <br/> Security**  <br/> Chair: Diego Latella |
 | **14:30-15:00** | Team Automata: Overview and Roadmap | Noninterference analysis of reversible probabilistic systems |
 | **15:00-15:30** | Modelling, Verifying and Testing the Contract Automata Runtime Environment with Uppaal | A multi-agent model for opinion evolution in social networks and cognitive biases |
 | *15:30-16:00* | *coffee break* | *coffee break* |
-|  | **Session 7: <br/> Concurrency Models and Calculi** <br/> Chair: José Proença | **Session 7: <br/> Types**   |
+|  | **Session 7: <br/> Concurrency Models and Calculi** <br/> Chair: José Proença | **Session 7: <br/> Types**  <br/> Chair: Valentina Castiglioni |
 | **16:00-16:30** |  Encoding Petri Nets into CCS | Leaf-first zipper semantics |
 | **16:30-17:00** |  Implementing a Message-Passing Interpretation of the Semi-Axiomatic Sequent Calculus (SAX) | MAG𝜋! The role of replication in typing failure prone communication |
 
