@@ -222,6 +222,8 @@ Detailed information on artefact submission and evaluation is available [here](d
 
 For additional information, please contact the Program Committee Co-chairs: <dais2023@easychair.org>
 -->
+## DAIS24 Conference Book
+https://link.springer.com/book/10.1007/978-3-031-62638-8
 
 ## Sponsors & Supporters
 
