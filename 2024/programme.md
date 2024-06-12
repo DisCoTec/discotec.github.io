@@ -3,6 +3,12 @@
 
 # Programme
 
+## Quick Links
+* [Location](#location)
+* [Programme in a Nutshell](#in-a-nutshell)
+* [Overview of Parallel Tracks (Main Conferences)](#overview-tuesday---thursday)
+* [Detailed Programme](#detailed-program)
+
 ## Location
 DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in the Zernike Campus of the University of Groningen. 
 
@@ -137,7 +143,7 @@ DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in t
 
 
 
-# Detailed Program 
+# Detailed Programme 
 
 ## DisCoTec 2024 Best Papers (Session 1)
 - **A Probabilistic Choreography Language for PRISM** <br/>
