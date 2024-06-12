@@ -133,13 +133,13 @@ DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in t
 |  | **Joint Session: <br/> DisCoTec Awards** <br/> (Room BB 5161.0105)  | **Joint Session: <br/> DisCoTec Awards** <br/> (Room BB 5161.0105) |
 | **14:00-14:20** | Awards | Awards |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
-|  | **Session 6: <br/> Automata-based Models** <br/> Chair: Alceste Scalas | **Session 6: <br/> Security**  <br/> Chair: Diego Latella |
-| **14:30-15:00** | Team Automata: Overview and Roadmap | Noninterference analysis of reversible probabilistic systems |
-| **15:00-15:30** | Modelling, Verifying and Testing the Contract Automata Runtime Environment with Uppaal | A multi-agent model for opinion evolution in social networks and cognitive biases |
+|  | **Session 6: <br/> Automata-based Models** <br/> Chair: Alceste Scalas | **Session 6: <br/> Types**  <br/> Chair: Valentina Castiglioni |
+| **14:30-15:00** | Team Automata: Overview and Roadmap | Leaf-first zipper semantics |
+| **15:00-15:30** | Modelling, Verifying and Testing the Contract Automata Runtime Environment with Uppaal | MAG𝜋! The role of replication in typing failure prone communication |
 | *15:30-16:00* | *coffee break* | *coffee break* |
-|  | **Session 7: <br/> Concurrency Models and Calculi** <br/> Chair: José Proença | **Session 7: <br/> Types**  <br/> Chair: Valentina Castiglioni |
-| **16:00-16:30** |  Encoding Petri Nets into CCS | Leaf-first zipper semantics |
-| **16:30-17:00** |  Implementing a Message-Passing Interpretation of the Semi-Axiomatic Sequent Calculus (SAX) | MAG𝜋! The role of replication in typing failure prone communication |
+|  | **Session 7: <br/> Concurrency Models and Calculi** <br/> Chair: José Proença | **Session 7: <br/> Security**  <br/> Chair: Diego Latella |
+| **16:00-16:30** |  Encoding Petri Nets into CCS | Noninterference analysis of reversible probabilistic systems |
+| **16:30-17:00** |  Implementing a Message-Passing Interpretation of the Semi-Axiomatic Sequent Calculus (SAX) | A multi-agent model for opinion evolution in social networks and cognitive biases |
 
 
 
@@ -234,17 +234,17 @@ by Amir Javadpour, Forough Ja’Fari and Tarik Taleb
 - JustAct: Actions universally justified by partial dynamic policies<br/>
 by Christopher Esterhuyse, Tim Müller and L. Thomas van Binsbergen
 
-###  Session 6 (FORTE, session chair: Diego Latella): Security
-- Noninterference analysis of reversible probabilistic systems<br/>
-by Andrea Esposito, Alessandro Aldini and Marco Bernardo
-- A multi-agent model for opinion evolution in social networks and cognitive biases<br/>
-by Mário S. Alvim, Sophia Knight, Artur Gaspar Silva and Frank Valencia
-
-###  Session 7 (FORTE, session chair: Valentina Castiglioni): Types.
+###  Session 6 (FORTE, session chair: Valentina Castiglioni): Types
 - Leaf-first zipper semantics<br/>
 by Sergueï Lenglet and Alan Schmitt
 - MAG𝜋! The role of replication in typing failure prone communication<br/>
 by Matthew Alan Le Brun and Ornela Dardha
+
+###  Session 7 (FORTE, session chair: Diego Latella): Security.
+- Noninterference analysis of reversible probabilistic systems<br/>
+by Andrea Esposito, Alessandro Aldini and Marco Bernardo
+- A multi-agent model for opinion evolution in social networks and cognitive biases<br/>
+by Mário S. Alvim, Sophia Knight, Artur Gaspar Silva and Frank Valencia
 
 
 <!--
