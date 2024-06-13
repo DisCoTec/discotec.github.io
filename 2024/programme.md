@@ -12,10 +12,10 @@
 ## Location
 DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in the Zernike Campus of the University of Groningen. 
 
-* *Address*:  Nijenborgh 9, 9747 AG Groningen <br/> Bus stop: Nijenborg [(Google Maps)](https://maps.app.goo.gl/3kyPY9j6sbjaa5kVA)
-* [Video tour of the Bernoulliborg](https://www.youtube.com/watch?v=Oot1J1NtwKQ)
+* *Address*:  Nijenborgh 9, 9747 AG Groningen <br/> Bus stop: **Nijenborgh** [(Google Maps)](https://maps.app.goo.gl/3kyPY9j6sbjaa5kVA)
 * Detailed information on how to reach the Bernoulliborg: [read here](https://www.rug.nl/staff/location/5161)
 * Rooms: 0165, 0151, 0134, 0253 ([more details](https://www.rug.nl/fse/education/fse-teaching-locations/bernoulliborg-teaching-rooms/rooms-at-bb-link-page?lang=en#bb165))
+* [Video tour of the Bernoulliborg](https://www.youtube.com/watch?v=Oot1J1NtwKQ)
 
 
 [![](bborg.jpg)](.)
