@@ -130,16 +130,16 @@ The red line directly connects Lisbon Airport to the metro station *São Sebasti
 The subway (Metro) network diagram can be found [here](https://www.metrolisboa.pt/en/travel/diagrams-and-maps/).
 -->
 
-<!--
+--
 ## Registration
 At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
 
-The interface for online registration is available at the [registration page](./registration).
+The deadline for online registration has passed. The interface for registration was available at the [registration page](./registration).
 
 Important dates:
 * ~~Early registration: Possible until **May 22, 2024**~~. 
-* Late registration: Possible until **June 12, 2024**. 
--->
+* ~~Late registration: Possible until **June 12, 2024**~~. 
+
 
 
 ## Accommodation
