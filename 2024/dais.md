@@ -87,9 +87,9 @@ All papers must be original, unpublished, and not submitted for publication else
 Contributions should be submitted electronically as PDF, using the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) to the conference submission website. Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear.
 
 ## Proceedings
-All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.
-Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted.
-
+<- All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.->
+<- Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted. ->
+All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in [LNCS-IFIP](https://link.springer.com/book/10.1007/978-3-031-62638-8) volumes.
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
 ## Artefact Submission
@@ -222,8 +222,6 @@ Detailed information on artefact submission and evaluation is available [here](d
 
 For additional information, please contact the Program Committee Co-chairs: <dais2023@easychair.org>
 -->
-## DAIS24 Conference Book
-<https://link.springer.com/book/10.1007/978-3-031-62638-8>
 
 ## Sponsors & Supporters
 
