@@ -89,7 +89,8 @@ Contributions should be submitted electronically as PDF, using the [Springer LNC
 ## Proceedings
 <!-- All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.-->
 <!-- Proceedings will be made available at the conference. Submission implies that at least one author will register and attend the conference if the paper is accepted. -->
-All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in [LNCS-IFIP](https://link.springer.com/book/10.1007/978-3-031-62638-8) volumes.
+All papers accepted in any of the conference tracks will be included in the conference proceedings, which will be published by Springer-Verlag in [LNCS-IFIP volumes](https://link.springer.com/book/10.1007/978-3-031-62638-8).
+
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
 ## Artefact Submission
