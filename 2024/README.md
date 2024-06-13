@@ -206,7 +206,7 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 ### DisCoTec Artefact Evaluation Chair
 * [Roberto Casadei][RobertoWeb] (University of Bologna, IT)
 
-## Organizing Committee (TBC)
+## Organizing Committee
 * [Jorge A. Pérez][JorgeWeb] (University of Groningen, NL — **General Chair**)
 * [Ivan Bliznets][IvanWeb]  (University of Groningen, NL)
 * [Anton Chernev][AntonWeb] (University of Groningen, NL)
