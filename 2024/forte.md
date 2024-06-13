@@ -90,7 +90,7 @@ Some papers that raised doubts the reviewers would like to clarify to consider a
 
 
 ## Publication
-The conference proceedings, formed by accepted submissions from __any__ category, will be published by Springer as an LNCS-IFIP volume.
+The conference proceedings, formed by accepted submissions from __any__ category, will be published by Springer as [volume 14678 of LNCS-IFIP](https://link.springer.com/book/10.1007/978-3-031-62645-6).
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
