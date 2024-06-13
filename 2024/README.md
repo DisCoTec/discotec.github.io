@@ -208,12 +208,14 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 
 ## Organizing Committee (TBC)
 * [Jorge A. Pérez][JorgeWeb] (University of Groningen, NL — **General Chair**)
+* [Ivan Bliznets][IvanWeb]  (University of Groningen, NL)
 * [Anton Chernev][AntonWeb] (University of Groningen, NL)
 * [Dan Frumin][DanWeb] (University of Groningen, NL — Workshops and Tutorials Co-chair)
+* [Helle Hvid Hansen][HelleWeb] (University of Groningen, NL)
+* [Bas van den Heuvel][BasWeb] (Karlsruhe University of Applied Sciences and University of Freiburg, DE — Publicity Chair)
 * [Juan C. Jaramillo][JuanWeb] (University of Groningen, NL)
 * [Claudio Antares Mezzina][ClaudioWeb] (University of Urbino, IT — Workshops and Tutorials Co-chair)
-* [Bas van den Heuvel][BasWeb] (Karlsruhe University of Applied Sciences and University of Freiburg, DE — Publicity Chair)
-* [Helle Hvid Hansen][HelleWeb] (University of Groningen, NL)
+* [Revantha Ramanayake][RevanthaWeb]  (University of Groningen, NL)
 
 [AntonWeb]: https://www.rug.nl/staff/a.chernev/
 [IlariaWeb]: https://www-sop.inria.fr/members/Ilaria.Castellani/
@@ -229,6 +231,8 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 [ClaudioWeb]: https://sites.google.com/view/claudio-mezzina
 [BasWeb]: https://basvdheuvel.github.io
 [HelleWeb]: https://www.rug.nl/staff/h.h.hansen/
+[IvanWeb]: https://www.rug.nl/staff/i.bliznets/
+[RevanthaWeb]: https://www.rug.nl/staff/d.r.s.ramanayake/?lang=en
 
 [RobertoWeb]: https://www.unibo.it/sitoweb/roby.casadei/
 
