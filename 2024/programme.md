@@ -108,7 +108,7 @@ DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in t
 | **10:30-11:00** | COTS: Connected OpenAPI Test Synthesis for RESTful Applications | AuDaLa is Turing complete |
 | **11:00-11:30** | An OpenWhisk Extension for Topology-aware Allocation Priority Policies | Synthesis for prefix first-order logic on data words |
 | **11:30-12:00** | SEArch: an execution infrastructure for service-based software systems | Synthesizing timed automata with minimal number of clocks for optimised timed scenarios |
-| **12:00-12:30** | Coconut: Typestates for Embedded Systems | Adaptable configuration of decentralised monitors |
+| **12:00-12:30** | Coconut: Typestates for Embedded Systems *(Remote)* | Adaptable configuration of decentralised monitors  |
 | *12:30-14:00* | *lunch break* | *lunch break* |
 | *14:30-16:30* | **Excursion** <br/> (city center) |  **Excursion** <br> (city center) |
 | *18:00-21:00* | **Dinner** <br/> Feithhuis (city center) | **Dinner** <br/> Feithhuis (city center) |
@@ -126,7 +126,7 @@ DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in t
 | *10:30-11:00* | *coffee break* | *coffee break* |
 | | **COORDINATION** <br/> (Room BB 5161.0105) | **DAIS + FORTE** <br/> (Room BB 5161.0253) |
 |  | **Session 5: <br/> Call for Action and Case Studies** <br/> Chair: Antonio Ravara | **Session 5: <br/> Stream Processing and Security** <br/> Chair: Rolando Martins  |
-| **11:00-11:30** | The Concurrent Calculi Formalisation Benchmark | Stream Economics: Resource Efficiency in Streams with Task Over-Allocation and Load Shedding |
+| **11:00-11:30** | The Concurrent Calculi Formalisation Benchmark | Stream Economics: Resource Efficiency in Streams with Task Over-Allocation and Load Shedding *(Remote)*|
 | **11:30-12:00** | Choreographic Automata: A Case Study in Healthcare Management | Encryption as a Service: A Review of Architectures and Taxonomies |
 | **12:00-12:30** | Simulation-based Decision Support for Cross-Organisational Workflows: A Case Study of Emergency Handling | JustAct: Actions universally justified by partial dynamic policies |
 | *12:30-14:00* | *lunch break* | *lunch break* |
