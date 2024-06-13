@@ -12,13 +12,10 @@ DisCoTec 2024 will take place in [Groningen, The Netherlands](venue), between Ju
 
 ## Quick Links
 * [Venue](#venue-groningen-the-netherlands)
-* [Keynote Speakers](#keynote-speakers)
 * [Programme](#programme)
-* [Accommodation](#accommodation)
-* [Registration](#registration)
+* [Keynote Speakers](#keynote-speakers)
 * [Main Conferences](#main-conferences)
 * [Workshops](#satellite-events)
-* [Further Informatiom](#further-information)
 
 ## Venue: Groningen, The Netherlands
 ### Conference Location
@@ -98,19 +95,19 @@ Please visit the page of each conference for details on these special issues.
 The following deadlines expire at 23:59 [anywhere on earth (AoE)](https://www.timeanddate.com/time/zones/aoe) on the dates listed below:
 * **Abstract submission:** ~~February 2, 2024 February 16, 2024 (Extended)~~
 * **Paper submission:** ~~February 9, 2024 February 23, 2024 (Extended)~~
-* **Paper notification:** ~~March 29, 2024~~ April 5, 2024 (Extended)
-* **Camera-ready:** April 24, 2024
+* **Paper notification:** ~~March 29, 2024 April 5, 2024 (Extended)~~
+* **Camera-ready:** ~~April 24, 2024~~
 * **Conferences:** June 17-21, 2024
 
 
-
+<!--
 
 ## Accepted Papers
 
 Go to the [list of accepted papers](./accepted-papers).
 
 
-<!--
+
 
 ## Welcome reception venue
 
@@ -133,6 +130,7 @@ The red line directly connects Lisbon Airport to the metro station *São Sebasti
 The subway (Metro) network diagram can be found [here](https://www.metrolisboa.pt/en/travel/diagrams-and-maps/).
 -->
 
+<!--
 ## Registration
 At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
 
@@ -141,7 +139,7 @@ The interface for online registration is available at the [registration page](./
 Important dates:
 * ~~Early registration: Possible until **May 22, 2024**~~. 
 * Late registration: Possible until **June 12, 2024**. 
-
+-->
 
 
 ## Accommodation

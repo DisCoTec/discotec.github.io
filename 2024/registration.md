@@ -4,7 +4,7 @@
 
 ## Important Dates
 * ~~Early registration: Possible until **May 22, 2024**, using the link below~~. 
-* Late registration: Possible until **June 12, 2024**, using the link below. 
+* ~~Late registration: Possible until **June 12, 2024**, using the link below~~. 
 * DisCoTeC 2024: **June 17 to 21, 2024**.
 
 
@@ -20,9 +20,9 @@
 ## Registration Link
 <!--*(May 22, 17:20)* The registration form was down, but now it is available again. Due to the disruption, the early registration deadline is extended until Friday, May 24th (noon, CEST). Apologies for the inconvenience!-->
 
-The deadline for early registration has passed. 
+The deadline for registration has passed. Registering online is no longer possible.
 
-You can still register for attending the conference  **until June 12** by filling the [registration form](https://santu.com/dsy027). 
+<!--You can still register for attending the conference  **until June 12** by filling the [registration form](https://santu.com/dsy027). 
 
 
 
@@ -36,13 +36,15 @@ You can still register for attending the conference  **until June 12** by fillin
 | **DisCoTec Conferences only** (Tuesday - Thursday) | ~~EUR 525~~ | EUR 625 |
 | **Monday Workshop (DiDiT)** | ~~EUR 180~~ | ~~EUR 180~~ EUR 80 |
 | **Friday Workshops (ICE and PLNL)** | ~~EUR 180~~  | ~~EUR 180~~ EUR 80 |
+-->
 
 ## Invoices
-If you need an invoice for your registration, please send an email to <discotec2024@rug.nl> with subject "Invoice Request DisCoTec" indicating:
+If you registered and need an invoice for your registration, please send an email to <discotec2024@rug.nl> with subject "Invoice Request DisCoTec" indicating:
 - your full name and email address; 
 - the amount and the date on which you completed the online payment; 
 - the exact information that you need to appear on it (institution, address, VAT number, etc)
 
+<!--
 ## Social Events
 ### Welcome reception on Monday 17
 Access to the Welcome reception on Monday, June 17 (at the House of Connections) is included in:
@@ -103,7 +105,7 @@ In case you need an invitation letter, after completing the registration process
 * Passport number, expiration date, issuing country
 
 We aim at processing letter requests quickly (via email), after having confirmed that registration has taken place. 
-
+-->
 
 ## Cancellation/Refund Policy
 In order to keep registration fees as low as possible, there will be no refunds in cases of cancellation. However, registered participants who have to cancel their participation may be substituted by another participant at no extra cost.

@@ -4,6 +4,11 @@
 
 # Venue: Groningen, The Netherlands
 
+## Quick Links
+* [Location](#location)
+* [How to Arrive](#how-to-arrive)
+* [Planning your Journey](#planning-your-journey-in-the-netherlands)
+
 ## Location
 DisCoTec 2024 will take place at the *Bernoulliborg* (Bernoulli building), one of the main buildings in the Zernike Campus of the University of Groningen. 
 
