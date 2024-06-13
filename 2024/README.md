@@ -77,12 +77,10 @@ The proceedings of the main conferences will be published as volumes in the [Spr
 
 The volumes will be **open access** from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
 
-
-<!--
-* COORDINATION: [LNCS 13908](https://link.springer.com/book/10.1007/978-3-031-35361-1)
-* DAIS: [LNCS 13910](https://link.springer.com/book/10.1007/978-3-031-35260-7)
-* FORTE: [LNCS 13910](https://link.springer.com/book/10.1007/978-3-031-35355-0)
--->
+* COORDINATION: [LNCS 14676](https://link.springer.com/book/10.1007/978-3-031-62697-5)
+* DAIS: [LNCS 14677](https://link.springer.com/book/10.1007/978-3-031-62638-8)
+* FORTE: [LNCS 14678](https://link.springer.com/book/10.1007/978-3-031-62645-6)
+The proceedings are freely accessible for the duration of the conference.
 
 ## Journal Special Issues
 Selected papers accepted at the main conferences will be invited for submission to special issues in high-quality journals: 
