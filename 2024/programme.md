@@ -7,7 +7,7 @@
 * [Location](#location)
 * [Programme in a Nutshell](#in-a-nutshell)
 * [Overview of Parallel Tracks (Main Conferences)](#overview-tuesday---thursday)
-* [Detailed Programme](#detailed-program)
+* [Detailed Programme](#detailed-programme)
 
 ## Location
 DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in the Zernike Campus of the University of Groningen. 
