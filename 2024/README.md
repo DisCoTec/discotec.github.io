@@ -16,6 +16,7 @@ DisCoTec 2024 will take place in [Groningen, The Netherlands](venue), between Ju
 * [Keynote Speakers](#keynote-speakers)
 * [Main Conferences](#main-conferences)
 * [Workshops](#satellite-events)
+* [Proceedings](#proceedings)
 
 ## Venue: Groningen, The Netherlands
 ### Conference Location
