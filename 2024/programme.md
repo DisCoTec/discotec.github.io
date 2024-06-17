@@ -30,6 +30,8 @@ DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in t
   *  Location: **House of Connections** (city center) <br/>Grote Markt 21, 9712 HR Groningen [(Google maps)](https://maps.app.goo.gl/5jKuy5guapawf7iJ8)
   * Time: 18:00 - 19:30
 
+     [![](hoc.jpg)](.)
+
 ### Tuesday, June 18: Main Conferences
 * Opening (**09:00h**) and Invited Talk: [Laura Kovács](https://www.discotec.org/2024/invited) (**09:30h**)
    * Bernoulliborg Room **0105** (first floor)
