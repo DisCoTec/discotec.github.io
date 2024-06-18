@@ -44,6 +44,12 @@ If you registered and need an invoice for your registration, please send an emai
 - the amount and the date on which you completed the online payment; 
 - the exact information that you need to appear on it (institution, address, VAT number, etc)
 
+## Certificate of Attendance
+If you registered and need a certificate of attendance, please send an email to <discotec2024@rug.nl> with subject "Certificate DisCoTec" indicating:
+- your full name and institutional affiliation
+
+We will reply with a certificate in PDF.
+
 <!--
 ## Social Events
 ### Welcome reception on Monday 17
