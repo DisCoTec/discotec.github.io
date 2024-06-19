@@ -46,7 +46,8 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 ## Programme and Pre-proceedings  {#programme} 
 
-The pre-proceedings will be made available by June 16th.
+The pre-proceedings are 
+[here](ice2024/preproceedings.pdf).
 
 *All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
 
@@ -62,7 +63,7 @@ The pre-proceedings will be made available by June 16th.
 | 12:00-12:30 | _A Maude Formalization of the Distributed Reconfiguration Language Concerto-D_ |
 | 12:30-12:40 | Closing |
 | 12:40-14:00 | **Lunch** | 
-| 14:00-16:00 | Panel - Future of Ice (open to all) |
+| 14:00-16:00 | Panel - Future of Ice (open to all) [Zoom Link](https://univ-cotedazur.zoom.us/j/84165793064?pwd=jMxm28QQgMUFIEMuJQzg2zTEsqBaQb.1)  |
 
 
 ## Invited Speaker: Jorge A. Pérez
