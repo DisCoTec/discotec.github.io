@@ -1,7 +1,7 @@
 [![](banner2024.v2.png)](.)
 *Photo credit: Robin Mathlener via [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)* 
 
-# ICE 2024 - 19th Interaction and Concurrency Experience
+# ICE 2024 - 17th Interaction and Concurrency Experience
 
 Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. 
 
