@@ -55,12 +55,12 @@ The pre-proceedings are
 | Time CEST   |  |
 | ------------| ------- | 
 | 8:50-9:00   | Opening |
-| 9:00-10:00  | [Jorge A. Pérez](#invited-speaker-jorge-a-pérez) -- *Asynchronous Session-Based Concurrency* (Invited talk) |
-| 10:00-10:30 | _Towards Formal Verification of Attested TLS: Potential Replay Attacks on RA-TLS_ (oral communication) |
+| 9:00-10:00  | [Jorge A. Pérez](#invited-speaker-jorge-a-pérez) -- *[Asynchronous Session-Based Concurrency](ice2024/Perez-ICE24-rev.pdf)* (Invited talk) |
+| 10:00-10:30 | Muhammad Usama Sardar - _Towards Formal Verification of Attested TLS: Potential Replay Attacks on RA-TLS_ (oral communication) |
 | 10:30-11:00 | **Coffee break** |
-| 11:00-11:30 | _Safe Composition of Systems of Communicating Finite State Machines_ |
-| 11:30-12:00 | _The B2SCala Tool: integrating Bach in Scala with security in Mind_ |
-| 12:00-12:30 | _A Maude Formalization of the Distributed Reconfiguration Language Concerto-D_ |
+| 11:00-11:30 | Franco Barbanera - _[Safe Composition of Systems of Communicating Finite State Machines](ice2024/Talk-ICE-2024-Barbanera-Hennicker.pdf)_ |
+| 11:30-12:00 | Doha Ouardi - _The B2SCala Tool: integrating Bach in Scala with security in Mind_ |
+| 12:00-12:30 | Farid Arfi - _A Maude Formalization of the Distributed Reconfiguration Language Concerto-D_ |
 | 12:30-12:40 | Closing |
 | 12:40-14:00 | **Lunch** | 
 | 14:00-16:00 | Panel - Future of Ice (open to all) [Zoom Link](https://univ-cotedazur.zoom.us/j/84165793064?pwd=jMxm28QQgMUFIEMuJQzg2zTEsqBaQb.1)  |
