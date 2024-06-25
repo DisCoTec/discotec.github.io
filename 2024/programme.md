@@ -70,7 +70,7 @@ DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in t
 
 # Overview (Tuesday - Thursday)
 
-<!--
+
 ### Tuesday, June 18: DisCoTec Main Conferences
 
 | Time | COORDINATION | DAIS + FORTE |
@@ -114,7 +114,7 @@ DisCoTec 2024 will take place at the **Bernoulliborg** (Bernoulli building) in t
 | *12:30-14:00* | *lunch break* | *lunch break* |
 | *14:30-16:30* | **Excursion** <br/> (city center) |  **Excursion** <br> (city center) |
 | *18:00-21:00* | **Dinner** <br/> Feithhuis (city center) | **Dinner** <br/> Feithhuis (city center) |
--->
+
  
 
 
