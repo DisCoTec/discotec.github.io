@@ -8,13 +8,14 @@ Welcome to DisCoTec 2024!
 [DisCoTec](/) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)) and the European Association for Programming Languages and Systems ([EAPLS](https://eapls.org)).
 
 
-DisCoTec 2024 will take place in [Groningen, The Netherlands](venue), between June 17-21, 2024, hosted by the [University of Groningen](https://www.rug.nl).
+DisCoTec 2024 took place in [Groningen, The Netherlands](venue), between June 17-21, 2024, hosted by the [University of Groningen](https://www.rug.nl).
 
 ## Quick Links
 * [Venue](#venue-groningen-the-netherlands)
 * [Programme](./programme.md)
 * [Keynote Speakers](#keynote-speakers)
 * [Main Conferences](#main-conferences)
+* [Best Papers](#best-papers)
 * [Workshops](#satellite-events)
 * [Proceedings](#proceedings)
 * [Invoices and Certificates](./registration.md)
@@ -85,6 +86,15 @@ The volumes will be **open access** from the [IFIP digital library](https://hal.
 
 The proceedings are freely accessible for the duration of the conference.
 
+## Best Papers
+### COORDINATION and DisCoTec 2024
+ **A Probabilistic Choreography Language for PRISM** [(DOI)](https://doi.org/10.1007/978-3-031-62697-5_2)<br/>
+by Marco Carbone and Adele Veschetti 
+### DAIS 
+**Compact Storage of Data Streams in Mobile Devices** [(DOI)](https://doi.org/10.1007/978-3-031-62638-8_4)<br/> by Rémy Raes, Olivier Ruas, Adrien Luxey-Bitri, Romain Rouvoy  
+### FORTE
+**Weak Simplicial Bisimilarity for Polyhedral Models and SLCSη** [(DOI)](https://doi.org/10.1007/978-3-031-62645-6_2) <br/> by Nick Bezhanishvili, Vincenzo Ciancia, David Gabelaia, Mamuka Jibladze, Diego Latella, Mieke Massink and Erik De Vink  
+
 ## Journal Special Issues
 Selected papers accepted at the main conferences will be invited for submission to special issues in high-quality journals: 
 * [Logical Methods in Computer Science](https://lmcs.episciences.org) 
@@ -98,7 +108,7 @@ The following deadlines expire at 23:59 [anywhere on earth (AoE)](https://www.ti
 * **Paper submission:** ~~February 9, 2024 February 23, 2024 (Extended)~~
 * **Paper notification:** ~~March 29, 2024 April 5, 2024 (Extended)~~
 * **Camera-ready:** ~~April 24, 2024~~
-* **Conferences:** June 17-21, 2024
+* **Conferences:** ~~June 17-21, 2024~~
 
 
 <!--
