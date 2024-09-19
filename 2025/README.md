@@ -75,28 +75,6 @@ Please visit the page of each conference for details on these special issues.
 ## Important Dates (All Conferences)
 TBA
 
-<!--
-
-## Accepted Papers
-
-Go to the [list of accepted papers](./accepted-papers).
-
-
-
-
-## Welcome reception venue
-
-TBA
-
-## Dinner venue
-
-TBA
-
-## How to get from the airport to the conference venue
-
-### Subway (Metro)
--->
-
 ## Registration
 At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
 
@@ -116,40 +94,6 @@ We are working on special arrangements for DisCoTec participamts; details will b
  
 Alternatively, we intend to block a limited number of rooms in selected hotels for DisCoTec participants. These rooms will be available on a first-come, first-served basis. To get details about prices and secure your booking, please check [here](./hotels).
 
-## Satellite Events
-
-The pre-conference events will take place on Monday, June 9, 2025, and post-conference events on Friday, June 13, 2025.
-
-[Call for Satellite Events Proposals](csep.md): We invite the community to submit proposals for tutorials on topics related to the distributed computing field.
-
-### Important Dates
-TBA
-<!--
-For all workshops:
-- **Workshop proposal submission deadline:** ~~January 30, 2023~~ February 13, 2023 (Extended)
-- **Notification of accepted workshop proposals:** ~~February 2, 2023~~ February 16, 2023
-- **Workshop paper submission deadline:** Mid April 2023
-- **Notification of accepted workshop papers:** Mid May 2023
-- **Workshops:** June 23, 2023
-
-
-For all tutorials:
-- **Tutorial proposal submission deadline:** ~~March 7, 2023~~ March 21, 2023 (Extended)
-- **Notification of accepted tutorial proposals:** ~~March 14, 2023~~ March 31, 2023
-- **Tutorials:** June 19 or 23, 2023
-
-Pre-conference workshops and tutorials will take place on **Monday, June 19, 2023**, and post-conference tutorials on **Friday, June 23, 2023**.
-
-### Tutorials
-* [DisCoTec Tutorials](https://www.discotec.org/2023/tutorials) -  Tutorial sessions
-
-### Workshops
-* [ICE 2023](https://www.discotec.org/2023/ice) - Workshop on Interaction and Concurrency Experience
--->
-
-
-
-
 ## Scientific Committees
 
 ### COORDINATION Program Committee Chairs
@@ -162,7 +106,7 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 
 ### FORTE Program Committee Chairs
 * [Carla Ferreira][CarlaWeb] (NOVA University of Lisbon, Portugal)
-* [Claudio Mezzina][ClaudioWeb] (University of Urbino, Italy)
+* [Claudio A. Mezzina][ClaudioWeb] (University of Urbino, Italy)
 
 ### DisCoTec Artefact Evaluation Chair
 <!--
