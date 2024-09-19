@@ -97,7 +97,6 @@ TBA
 ### Subway (Metro)
 -->
 
---
 ## Registration
 At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
 
