@@ -7,7 +7,6 @@ Welcome to DisCoTec 2025!
 
 [DisCoTec](/) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)) and the European Association for Programming Languages and Systems ([EAPLS](https://eapls.org)).
 
-
 DisCoTec 2025 will take place in [Lille, France](venue), June 9-13 (TBC), 2025, hosted by TBC
 
 ## Quick Links
@@ -26,6 +25,7 @@ TBA
 
 ### More Information
 See detailed information about Lille [here](venue). 
+
 ## Main Conferences
 DisCoTec gathers conferences that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches:
 
@@ -48,10 +48,10 @@ TBA
 ## Keynote Speakers
 TBA
 
-Go to the [dedicated page](./invited) for details on these keynote lectures.
+Go to the [dedicated page](invited) for details on these keynote lectures.
 
 ## Programme
-Go to the [programme page](./programme) for detailed information.
+Go to the [programme page](programme) for detailed information.
 
 ## Proceedings
 The proceedings of the main conferences will be published as volumes in the [Springer LNCS-IFIP](https://www.springer.com/series/8345) series. 
@@ -78,7 +78,7 @@ TBA
 ## Registration
 At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
 
-The interface for registration will be available at the [registration page](./registration).
+The interface for registration will be available at the [registration page](registration).
 
 Important dates: TBA
 
@@ -116,6 +116,27 @@ Alternatively, we intend to block a limited number of rooms in selected hotels f
 ## Organizing Committee
 * [Simon Bliudze][SimonWeb] (Inria Center of the University of Lille, FR — **General Chair**)
 
+## Steering Committee 
+* Rocco De Nicola (IMT School for Advanced Studies Lucca, IT)
+* Adrian Francalanza (University of Malta, MT — Chair)
+* Kurt Geihs (University of Kassel, DE)
+* Ivan Lanese (University of Bologna/INRIA, IT)
+* Alberto Lluch Lafuente (Technical University of Denmark, DK)
+* Mieke Massink (CNR-ISTI, IT)
+* Elie Najm (Telecom Paris Tech, FR)
+* Manuel Núñez (Universidad Complutense de Madrid, ES)
+* Luís Veiga (INESC-ID, Universidade de Lisboa, PT)
+* Gianluigi Zavattaro (University of Bologna, IT)
+
+## Further Information
+* Please contact the general chair ([Simon Bliudze][SimonWeb]).
+* Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
+
+## Sponsors & Supporters
+
+<p float="left">
+</p>
+
 [CinziaWeb]: https://webusers.i3s.unice.fr/~cdigiusto/web/
 [AntonioWeb]: http://ctp.di.fct.unl.pt/~aravara/
 
@@ -129,40 +150,3 @@ Alternatively, we intend to block a limited number of rooms in selected hotels f
 
 [RobertoWeb]: https://www.unibo.it/sitoweb/roby.casadei/
 
-## Steering Committee 
-* Rocco De Nicola (IMT School for Advanced Studies Lucca, IT)
-* Adrian Francalanza (University of Malta, MT — Chair)
-* Kurt Geihs (University of Kassel, DE)
-* Ivan Lanese (University of Bologna/INRIA, IT)
-* Alberto Lluch Lafuente (Technical University of Denmark, DK)
-* Mieke Massink (CNR-ISTI, IT)
-* Elie Najm (Telecom Paris Tech, FR)
-* Manuel Núñez (Universidad Complutense de Madrid, ES)
-* Luís Veiga (INESC-ID, Universidade de Lisboa, PT)
-* Gianluigi Zavattaro (University of Bologna, IT)
-
-<!--
-## Advisory Board
-* Alain Girault (INRIA Grenoble, FR)
-* Uwe Nestmann (TU Berlin, DE)
-* Michele Loreti (University of Camerino, IT)
-* Jim Dowling (RISE & KTH, SE)
-* Marjan Sirjani (University of Malarden, SE)
-* Frank de Boer (Centrum Wiskunde & Informatica (CWI), NL)
-* Farhad Arbab (Centrum Wiskunde & Informatica (CWI), NL)
-* Lea Kutvonen (University of Helsinki, FI)
-* John Derrick (University of Sheffield, UK)
-* Pascal Felber (University of Neuchâtel, CH)
-* Kostas Magoutis (ICS-FORTH, GR)
-* Rui Oliveira (University of Minho, PT)
-* Jean-Bernard Stefani (INRIA Grenoble, FR)
--->
-
-## Further Information
-* Please contact the general chair ([Simon Bliudze][SimonWeb]).
-* Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
-
-## Sponsors & Supporters
-
-<p float="left">
-</p>
