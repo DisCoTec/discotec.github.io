@@ -49,7 +49,9 @@ DisCoTec 2025 will include workshops on a broad spectrum of distributed computin
 Satellite events will take place on Monday, June 9, 2025, and on Friday, June 13, 2025.
 -->
 
-## Important Dates (All Conferences)
+## Important Dates
+The following dates are common for the three main DisCoTec conferences.
+
 TBA
 
 ## Programme
