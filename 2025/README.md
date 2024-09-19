@@ -81,8 +81,6 @@ At least one author of papers/presentations accepted to the DisCoTec events (mai
 
 The interface for registration will be available at the [registration page](registration).
 
-Important dates: TBA
-
 ## Accommodation
 
 We strongly recommend booking a room **as soon as possible**: mid June is a busy period in the Lille area.
@@ -95,7 +93,7 @@ We are working on special arrangements for DisCoTec participamts; details will b
  
 Alternatively, we intend to block a limited number of rooms in selected hotels for DisCoTec participants. These rooms will be available on a first-come, first-served basis. To get details about prices and secure your booking, please check [here](./hotels).
 
-### Scientific Committees
+## Scientific Committees
 
 ### COORDINATION Program Committee Chairs
 * [Cinzia Di Giusto][CinziaWeb] (Université de Nice Sophia-Antipolis)
