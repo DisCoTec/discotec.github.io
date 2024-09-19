@@ -186,9 +186,8 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 [RobertoWeb]: https://www.unibo.it/sitoweb/roby.casadei/
 
 ## Steering Committee 
-* Gianluigi Zavattaro (University of Bologna, IT — Chair)
 * Rocco De Nicola (IMT School for Advanced Studies Lucca, IT)
-* Adrian Francalanza (University of Malta, MT)
+* Adrian Francalanza (University of Malta, MT — Chair)
 * Kurt Geihs (University of Kassel, DE)
 * Ivan Lanese (University of Bologna/INRIA, IT)
 * Alberto Lluch Lafuente (Technical University of Denmark, DK)
@@ -196,6 +195,7 @@ Pre-conference workshops and tutorials will take place on **Monday, June 19, 202
 * Elie Najm (Telecom Paris Tech, FR)
 * Manuel Núñez (Universidad Complutense de Madrid, ES)
 * Luís Veiga (INESC-ID, Universidade de Lisboa, PT)
+* Gianluigi Zavattaro (University of Bologna, IT)
 
 <!--
 ## Advisory Board
