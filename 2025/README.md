@@ -11,13 +11,14 @@ DisCoTec 2025 will take place in [Lille, France](venue), June 9-13 (TBC), 2025, 
 
 ## Quick Links
 * [Venue](#venue-lille-france)
-* [Programme](./programme.md)
 * [Keynote Speakers](#keynote-speakers)
 * [Main Conferences](#main-conferences)
-* [Best Papers](#best-papers)
-* [Workshops](#satellite-events)
+* [Satellite Events](#satellite-events)
+* [Important Dates](#important-dates)
+* [Programme](./programme.md)
 * [Proceedings](#proceedings)
-* [Invoices and Certificates](./registration.md)
+* [Registration](#registration)
+* [Committees](#scientific-committees)
 
 ## Venue: Lille, France
 ### Conference Location
@@ -48,7 +49,7 @@ DisCoTec 2025 will include workshops on a broad spectrum of distributed computin
 Satellite events will take place on Monday, June 9, 2025, and on Friday, June 13, 2025.
 -->
 
-#### Important Dates
+## Important Dates (All Conferences)
 TBA
 
 ## Programme
@@ -66,18 +67,12 @@ The volumes will be **open access** from the [IFIP digital library](https://hal.
 
 The proceedings are freely accessible for the duration of the conference.
 
-## Best Papers
-TBA
-
 ## Journal Special Issues
 Selected papers accepted at the main conferences will be invited for submission to special issues in high-quality journals: 
 * [Logical Methods in Computer Science](https://lmcs.episciences.org) 
 * [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/) ([Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming)).
 
 Please visit the page of each conference for details on these special issues.
-
-## Important Dates (All Conferences)
-TBA
 
 ## Registration
 At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
@@ -98,7 +93,7 @@ We are working on special arrangements for DisCoTec participamts; details will b
  
 Alternatively, we intend to block a limited number of rooms in selected hotels for DisCoTec participants. These rooms will be available on a first-come, first-served basis. To get details about prices and secure your booking, please check [here](./hotels).
 
-## Scientific Committees
+### Scientific Committees
 
 ### COORDINATION Program Committee Chairs
 * [Cinzia Di Giusto][CinziaWeb] (Université de Nice Sophia-Antipolis)
