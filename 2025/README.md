@@ -8,7 +8,7 @@ Welcome to DisCoTec 2025!
 [DisCoTec](/) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)) and the European Association for Programming Languages and Systems ([EAPLS](https://eapls.org)).
 
 
-DisCoTec 2025 will take place in [Lille, France](venue), 9th-13th of June, 2025, hosted by 
+DisCoTec 2025 will take place in [Lille, France](venue), June 9-13, 2025, hosted by 
 
 ## Quick Links
 * [Venue](#venue)
@@ -38,7 +38,7 @@ DisCoTec gathers conferences that cover a broad spectrum of distributed computin
 DisCoTec 2025 will include workshops on a broad spectrum of distributed computing subjects.
 
 <!--
-Satellite events will take place on Monday, 9th of June, 2025, and on Friday, 13th of June, 2025.
+Satellite events will take place on Monday, June 9, 2025, and on Friday, June 13, 2025.
 -->
 
 #### Important Dates
@@ -115,17 +115,18 @@ You can book accommodation using well-known platforms such as [booking.com](http
 
 We are working on special arrangements for DisCoTec participamts; details will be made available as soon as possible.
  
-<!--Alternatively, we have blocked a limited number of rooms in selected hotels for DisCoTec participants. These rooms are available on a first-come, first-served basis. To get details about prices and secure your booking, please check [here](./hotels).-->
+Alternatively, we intend to block a limited number of rooms in selected hotels for DisCoTec participants. These rooms will be available on a first-come, first-served basis. To get details about prices and secure your booking, please check [here](./hotels).
 
+## Satellite Events
 
-
-<!--
-The pre-conference workshop and tutorials will take place on Monday, June 19, 2023, and post-conference tutorials on Friday, June 23, 2023.
+The pre-conference events will take place on Monday, June 9, 2025, and post-conference events on Friday, June 13, 2025.
 
 [Call for Satellite Events Proposals](csep.md): We invite the community to submit proposals for tutorials on topics related to the distributed computing field.
 
 ### Important Dates
- For all workshops:
+TBA
+<!--
+For all workshops:
 - **Workshop proposal submission deadline:** ~~January 30, 2023~~ February 13, 2023 (Extended)
 - **Notification of accepted workshop proposals:** ~~February 2, 2023~~ February 16, 2023
 - **Workshop paper submission deadline:** Mid April 2023
