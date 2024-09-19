@@ -26,6 +26,13 @@ TBA
 ### More Information
 See detailed information about Lille [here](venue). 
 
+## Keynote Speakers
+TBA
+
+<!-- 
+Go to the [dedicated page](invited) for details on these keynote lectures.
+-->
+
 ## Main Conferences
 DisCoTec gathers conferences that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches:
 
@@ -44,14 +51,11 @@ Satellite events will take place on Monday, June 9, 2025, and on Friday, June 13
 #### Important Dates
 TBA
 
-
-## Keynote Speakers
-TBA
-
-Go to the [dedicated page](invited) for details on these keynote lectures.
-
 ## Programme
+TBA 
+<!-- 
 Go to the [programme page](programme) for detailed information.
+-->
 
 ## Proceedings
 The proceedings of the main conferences will be published as volumes in the [Springer LNCS-IFIP](https://www.springer.com/series/8345) series. 
