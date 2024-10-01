@@ -1,5 +1,5 @@
 [![](banner2025.png)](.)
-*Photo by *
+*Photo by [Maxime Dufour](https://www.maximedufour.com/)*
 
 # DisCoTec 2025 - 20th International Federated Conference on Distributed Computing Techniques
 
