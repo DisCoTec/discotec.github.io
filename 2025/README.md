@@ -114,6 +114,7 @@ Alternatively, we intend to block a limited number of rooms in selected hotels f
 
 ## Organizing Committee
 * [Simon Bliudze][SimonWeb] (Inria Center of the University of Lille, FR — **General Chair**)
+* [Rémy Raes][RemyWeb] (Inria Center of the University of Lille, FR)
 
 ## Steering Committee 
 * Rocco De Nicola (IMT School for Advanced Studies Lucca, IT)
@@ -146,6 +147,7 @@ Alternatively, we intend to block a limited number of rooms in selected hotels f
 [ClaudioWeb]: https://sites.google.com/view/claudio-mezzina/home
 
 [SimonWeb]: https://www.bliudze.me/simon
+[RemyWeb]: https://remyraes.com/
 
 [RobertoWeb]: https://www.unibo.it/sitoweb/roby.casadei/
 
