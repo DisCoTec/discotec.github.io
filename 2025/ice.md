@@ -1,19 +1,19 @@
-[![](banner2024.v2.png)](.)
-*Photo credit: Robin Mathlener via [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)* 
+[![](banner2025.png)](.)
+*Photo by [Maxime Dufour](https://www.maximedufour.com/)*
 
-# ICE 2024 - 17th Interaction and Concurrency Experience
+# ICE 2025 - 18th Interaction and Concurrency Experience
 
 Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. 
 
-ICE 2024 is a satellite workshop of [DisCoTec 2024](https://www.discotec.org/2024/), held on Friday 21th June 2024 at the [University of Groningen](https://www.rug.nl/) in Groningen, The Netherlands.
+ICE 2025 is a satellite workshop of [DisCoTec 2025](https://www.discotec.org/2025/), held at a date to be determined (mid-june) in [Lille, France](venue).
 
 ## Highlights
 
 - Distinctive selection procedure
 - ICE welcomes full papers to be included in the proceedings
 - ICE also welcomes oral communications of already published or preliminary work
-- Invited speaker: [Jorge A. Pérez](https://www.jperez.nl/)
-- Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/)
+- Invited speaker: *TBD*
+- Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/) _(to be confirmed)_
 - Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
 - Contact: `ice (at) framalistes.org`
 
@@ -36,76 +36,9 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - Tools and techniques for automation
 - Synthesis techniques
 
-## Accepted Papers
-
-- *Safe Composition of Systems of Communicating Finite State Machines* by F. Barbanera and R. Hennicker
-- *The B2SCala Tool: integrating Bach in Scala with security in Mind* by J. Jacquet, M. Barkallah and D. Ouardi
-- *A Maude Formalization of the Distributed Reconfiguration Language Concerto-D* by H. Coullon, S. Robillard, F. Loulergue, F. Arfi and J. Philippe 
-- *Towards Formal Verification of Attested TLS: Potential Replay Attacks on RA-TLS (Oral Communication)* by M. Sardar, A. Niemi, H. Tschofenig and T. Fossati
-
-
-## Programme and Pre-proceedings  {#programme} 
-
-The pre-proceedings are 
-[here](ice2024/preproceedings.pdf).
-
-*All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
-
-
-| Time CEST   |  |
-| ------------| ------- | 
-| 8:50-9:00   | Opening |
-| 9:00-10:00  | [Jorge A. Pérez](#invited-speaker-jorge-a-pérez) -- *[Asynchronous Session-Based Concurrency](ice2024/Perez-ICE24-rev.pdf)* (Invited talk) |
-| 10:00-10:30 | Muhammad Usama Sardar - _Towards Formal Verification of Attested TLS: Potential Replay Attacks on RA-TLS_ (oral communication) |
-| 10:30-11:00 | **Coffee break** |
-| 11:00-11:30 | Franco Barbanera - _[Safe Composition of Systems of Communicating Finite State Machines](ice2024/Talk-ICE-2024-Barbanera-Hennicker.pdf)_ |
-| 11:30-12:00 | Doha Ouardi - _The B2SCala Tool: integrating Bach in Scala with security in Mind_ |
-| 12:00-12:30 | Farid Arfi - _A Maude Formalization of the Distributed Reconfiguration Language Concerto-D_ |
-| 12:30-12:40 | Closing |
-| 12:40-14:00 | **Lunch** | 
-| 14:00-16:00 | Panel - Future of Ice (open to all) [Zoom Link](https://univ-cotedazur.zoom.us/j/84165793064?pwd=jMxm28QQgMUFIEMuJQzg2zTEsqBaQb.1)  |
-
-
-## Invited Speaker: Jorge A. Pérez
-
-### Talk: Asynchronous Session-Based Concurrency
-
-While formal models of concurrency tend to focus on synchronous communication, _asynchronous_ communication is of clear practical relevance: it is the standard in most distributed systems and web-based applications nowadays. This talk will discuss asynchronous communication in the context of _session-based concurrency_, the model of computation in which _session types_ specify the structure of the two-party protocols implemented by the channels of a communicating process. 
-
-In my talk, I will overview several recent results on asynchronous session-based concurrency. 
-Specifically, I will discuss the challenge of ensuring the deadlock-freedom property for message-passing processes
-that communicate asynchronously in cyclic process networks governed by session types.
-
-### Biography
-
-[Jorge A. Pérez](https://www.jperez.nl) is Associate Professor (tenured) at the University of
-Groningen, The Netherlands.
-Since 2019, he leads the [Fundamental Computing Group](https://www.rug.nl/fse/fc), one of the
-research groups of the Bernoulli Institute of Mathematics, Computer
-Science, and Artificial Intelligence. 
-Prior to his current position in Groningen, Jorge worked as Post-doctoral
-Researcher at NOVA University Lisbon (2010-2014) and obtained his PhD
-at the University of Bologna (2010).
-
-Jorge’s research
-interests concern Concurrency Theory, Semantics of Programming
-Languages, and Logic in Computer Science.
-  During February
-2019 - January 2024, his research was supported by the Dutch Research
-Council (NWO) under a prestigious VIDI grant entitled “[Unifying
-Correctness for Communicating Software](https://www.jperez.nl/research/vidi)".
-
-
 ## Important Dates
 
-- March 27th, 2024: 1st abstract submission deadline
-- April 3rd, 2024: 1st paper submission deadline
-- April 12nd, 2024: 2nd paper submission deadline (no abstract needed)
-- April 3rd -- May 1st, 2024: Forum interaction, reviews, and PC discussion
-- May 8th, 2024: Notification to authors
-- June 21st 2024: Workshop in Groningen, The Netherlands
-- July 20th, 2024: Camera-ready for post-proceedings
-- October, 2024 (tentative): Invitation to special issue
+*A precise schedule has to be developed, but a tentative timeline is for submission to close by end of March 2025.*
 
 All dates are in the [Anywhere on Earth time zone](https://time.is/Anywhere_on_Earth), and deadlines are firm.
 
@@ -160,21 +93,7 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ## Programme Committee {#programme-committee}
 
-- [Matthew Alan Le Brun](https://matthewalanlebrun.github.io/), University of Glasgow 
-- [Kirstin Peters](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/), Augsburg University 
-- [Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/), NOVA University Lisbon 
-- [Eva Graversen](https://portal.findresearcher.sdu.dk/en/persons/efgraversen), University of Southern Denmark 
-- [Bas van den Heuvel](https://basvdheuvel.github.io/), Karlsruhe University of Applied Sciences / University of Freiburg 
-- [Gerard Tabone](https://gerardtabone.com/), University of Malta 
-- [Ping Hou](https://www.cs.ox.ac.uk/people/ping.hou/), University of Oxford 
-- [Sergueï Lenglet](https://members.loria.fr/SLenglet/), Université de Lorraine - Université Sorbonne Paris-Nord 
-- [Emanuele D'Osualdo](https://www.emanueledosualdo.com/), Max Planck Institute for Software Systems 
-- [Seyed Hossein Haeri](https://scholar.google.co.uk/citations?user=61frEtoAAAAJ&hl=en), IOG & University of Bergen 
-- [Ivan Prokić](http://imft.ftn.uns.ac.rs/~iprokic/Main), Faculty of Technical Sciences, University of Novi Sad 
-- [Luc Edixhoven](https://research.ou.nl/en/persons/luc-edixhoven), Open University of the Netherlands 
-- [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/), University of Luxembourg
-- [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home), University of Liverpool 
-- [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/), LASIGE, University of Lisbon 
+To be determined.
 
 ## Steering Committee
 
@@ -190,7 +109,8 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
 The previous editions of ICE have been held on:
 
-- [ICE'23](https://www.discotec.org/2023/ice), June 19, 2023 in Lisbon, Portugal, co-located with [DisCoTec'23](https://www.discotec.org/2023/). The post-proceedings were published in [EPTCS (vol. 383)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2023) and selected papers will appeared in a special issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/).
+- [ICE'24](https://www.discotec.org/2024/ice), June 21, 2024 in Groningen, The Netherlands, co-located with [DisCoTec'24](https://www.discotec.org/2024/). The post-proceedings will be published soon, and selected papers will appar in a speciale issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/).
+- [ICE'23](https://www.discotec.org/2023/ice), June 19, 2023 in Lisbon, Portugal, co-located with [DisCoTec'23](https://www.discotec.org/2023/). The post-proceedings were published in [EPTCS (vol. 383)](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2023) and selected papers will appear in a special issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/).
 - [ICE'22](https://www.discotec.org/2022/ice), June 17, 2022 in Lucca, Italy, co-located with [DisCoTec'22](https://www.discotec.org/2022/). The post-proceedings were published in [EPTCS (vol. 365)](http://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2022) and selected papers appeared in a special issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/10NR188XZQV).
 - [ICE'21](http://www.discotec.org/2021/ice), June 18, 2020, online event co-located with [DisCoTec'21](https://www.discotec.org/2021/). The post-proceedings were published in [EPTCS (vol. 347)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2021) and selected papers appeared in a special issue of [JLAMP](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming/special-issue/106L7VVC5FC).
 - [ICE'20](http://www.discotec.org/2020/ice), June 19, 2020, online event co-located with [DisCoTec'20](https://www.discotec.org/2020/). The post-proceedings were published in [EPTCS (vol. 324)](https://eptcs.web.cse.unsw.edu.au/content.cgi?ICE2020) and two papers appeared in JLAMP ([10.1016/j.jlamp.2021.100712](https://doi.org/10.1016/j.jlamp.2021.100712) and [10.1016/j.jlamp.2022.100776](https://doi.org/10.1016/j.jlamp.2022.100776)).
