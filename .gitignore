@@ -76,3 +76,4 @@ Gemfile
 Gemfile.lock
 .sass-cache/*
 _site/
+.jekyll-metadata
