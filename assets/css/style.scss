@@ -77,7 +77,10 @@ $spacing-unit:     30px !default;
     }
 
     .trigger {
-      display: inline;
+      width: 82%;
+      display: inline-flex;
+      justify-content: space-evenly;
+      flex-direction: row;
     }
   
     .menu-icon {
@@ -146,6 +149,7 @@ $spacing-unit:     30px !default;
       input:checked ~ .trigger {
         display: block;
         padding-bottom: 5px;
+        width: auto;
       }
   
       .page-link {
