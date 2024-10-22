@@ -1,0 +1,144 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$base-line-height: 1.5 !default;
+$base-font-size:   16px !default;
+$text-color:       #111 !default;
+$background-color: #fdfdfd !default;
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+$on-palm:          750px !default;
+$on-laptop:        1200px !default;
+
+$spacing-unit:     30px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+      @content;
+    }
+  }
+
+/**
+* Site navigation bar
+*/
+.site-nav {
+    float: center;
+    line-height: $base-line-height * $base-font-size * 2.25;
+  
+    .nav-trigger {
+        display: none;
+    }
+
+    .trigger {
+      display: inline;
+    }
+  
+    .menu-icon {
+      display: none;
+    }
+  
+    .page-link {
+      color: $text-color;
+      line-height: $base-line-height;
+      display: inline-block;
+      background: none;
+      border: none;
+  
+      // Gaps between nav items, but not on the last one
+      &:not(:last-child) {
+        margin-right: 31px;
+      }
+    }
+
+    .page-link:hover {
+      background: inherit;
+      border: inherit;
+    }
+
+    .page-link:focus {
+      box-shadow: none;
+    }
+  
+    @include media-query($on-palm) {
+      position: absolute;
+      top: 9px;
+      right: $spacing-unit / 2;
+      background-color: $background-color;
+      border: 1px solid $grey-color-light;
+      border-radius: 5px;
+      text-align: right;
+  
+      label[for="nav-trigger"] {
+        display: block;
+        float: right;
+        width: 36px;
+        height: 36px;
+        z-index: 2;
+        cursor: pointer;
+      }
+  
+      .menu-icon {
+        display: block;
+        float: right;
+        width: 36px;
+        height: 26px;
+        line-height: 0;
+        padding-top: 10px;
+        text-align: center;
+  
+        > svg {
+          fill: $grey-color-dark;
+        }
+      }
+  
+      input ~ .trigger {
+        clear: both;
+        display: none;
+      }
+  
+      input:checked ~ .trigger {
+        display: block;
+        padding-bottom: 5px;
+      }
+  
+      .page-link {
+        display: block;
+        padding: 5px 10px;
+  
+        &:not(:last-child) {
+          margin-right: 0;
+        }
+        margin-left: 20px;
+      }
+    }
+  }
+
+/**
+* Site banner
+*/
+.banner {
+  position: relative;
+  margin: 0 !important;
+}
+
+.banner-credit {
+  position: absolute;
+  bottom: 10px;
+  left: 14px;
+  color: white;
+  background: #2b2727b0;
+  padding: 6px 10px;
+  border-radius: 12px;
+}
