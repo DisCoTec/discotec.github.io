@@ -71,6 +71,11 @@ $spacing-unit:     30px !default;
 .site-nav {
     float: center;
     line-height: $base-line-height * $base-font-size * 2.25;
+
+    position: sticky;
+    top: 0;
+    border-bottom: 1px solid #d9dbdd;
+    background: white;
   
     .nav-trigger {
         display: none;
