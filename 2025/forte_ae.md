@@ -1,6 +1,3 @@
-[![](banner2024.v2.png)](.)
-*Photo by Robin Mathlener on [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)*
-
 # Artefact Evaluation
 [FORTE](https://www.discotec.org/2024/forte) this year includes an artefact evaluation performed by the artefact evaluation committee (AEC). The goal of the artefact evaluation is to enable future researchers to more effectively build on and compare with previous work. The Artefact Evaluation Committee (AEC) will review the artefact. We will be attributing 3 badges, according to [EAPLS guidelines](https://eapls.org/pages/artifact_badges/):
 1.	Artefact **functional**: documented, consistent, complete, exercisable;

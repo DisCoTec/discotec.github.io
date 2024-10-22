@@ -1,7 +1,3 @@
-
-[![](banner2025.png)](.)
-*Photo by *
-
 # Accepted papers
 ## [COORDINATION](coordination)
 

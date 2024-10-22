@@ -1,7 +1,3 @@
-[![](banner2024.v2.png)](.)
-*Photo by Robin Mathlener on [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)* 
-
-
 # DAIS 2024 - 24th International Conference on Distributed Applications and Interoperable Systems
 
 DAIS 2024 is one of the three conferences of [DisCoTec 2024](.).

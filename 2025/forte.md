@@ -1,7 +1,3 @@
-[![](banner2024.v2.png)](.)
-*Photo by Robin Mathlener on [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)*  
-
-
 # FORTE 2024 - 44th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 FORTE 2024 is one of the three conferences of [DisCoTec 2024](.), the 19th International Federated Conference on Distributed Computing Techniques.

@@ -1,5 +1,3 @@
-[![](discotec2023-banner.v3.png)](https://www.discotec.org/2023/)
-
 # Tutorials
 The DisCoTec Tutorials focus on emerging topics and aspects of the distributed computing field, ranging from new practical techniques and technologies to lessons learnt from projects and industry experiences.
 The pre-conference tutorials will take place on Monday, June 19, 2023, and post-conference tutorials on Friday, June 23, 2023.

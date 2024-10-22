@@ -20,6 +20,20 @@
       <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1> -->
       {% endif %}
 
+      <!-- Display banner in template for 2025 pages -->
+      {% if page.url contains '/2025/' %}
+      {% assign display_banner = "yes" %}
+      {% else %}
+      {% assign display_banner = "no" %}
+      {% endif %}
+
+      {% if display_banner == "yes" %}
+      <p><a href="."><img src="/2025/banner2025.png" alt=""></a>
+        <em>Photo by <a href="https://www.maximedufour.com/">Maxime Dufour</a></em>
+      </p>
+      {% endif %}
+      <!---->
+
       {{ content }}
 
       {% if site.github.private != true and site.github.license %}
