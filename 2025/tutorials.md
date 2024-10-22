@@ -1,6 +1,7 @@
 ---
 title: Tutorials
 menu_show: true
+order: 4
 ---
 
 # Tutorials

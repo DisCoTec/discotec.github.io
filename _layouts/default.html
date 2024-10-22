@@ -44,7 +44,7 @@
 
         <a class="site-title" rel="author" href=".">DisCoTec 2025</a>
         <div class="trigger">
-          {% assign pages_list = site.pages %}
+          {% assign pages_list = site.pages | sort: "order" %}
           {% for my_page in pages_list %}
             {% if my_page.menu_show == true %}
               <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
