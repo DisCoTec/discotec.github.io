@@ -1,3 +1,8 @@
+---
+title: Venue
+menu_show: true
+---
+
 # Venue: Lille, France
 
 ## Quick Links

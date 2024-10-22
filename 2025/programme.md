@@ -1,3 +1,8 @@
+---
+title: Programme
+menu_show: true
+---
+
 # Programme
 
 TBA

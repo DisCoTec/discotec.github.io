@@ -1,3 +1,8 @@
+---
+title: Accepted papers
+menu_show: true
+---
+
 # Accepted papers
 ## [COORDINATION](coordination)
 

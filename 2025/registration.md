@@ -1,3 +1,8 @@
+---
+title: Registration
+menu_show: true
+---
+
 ## Important Dates
 TBA
 
