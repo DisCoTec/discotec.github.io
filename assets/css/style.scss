@@ -4,22 +4,22 @@
 @import "{{ site.theme }}";
 
 /**
-* Imported from minima theme: https://github.com/sefm-conference/2024/tree/main/_sass
+* Use jekyll-theme-primer defaults (https://github.com/pages-themes/primer/blob/v0.6.0/_sass/primer-support/lib/variables/colors.scss and others).
 **/
 
-$base-line-height: 1.5 !default;
-$base-font-size:   16px !default;
-$text-color:       #111 !default;
-$background-color: #fdfdfd !default;
+$base-line-height: $body-line-height;
+$base-font-size:   $body-font-size;
+$text-color:       $text-gray-dark;
+$background-color: $bg-white;
 
-$grey-color:       #828282 !default;
-$grey-color-light: lighten($grey-color, 40%) !default;
-$grey-color-dark:  darken($grey-color, 25%) !default;
+$grey-color:       $text-gray;
+$grey-color-light: $text-gray-light;
+$grey-color-dark:  $text-gray-dark;
 
-$on-palm:          750px !default;
-$on-laptop:        1200px !default;
+$on-palm:          $width-md !default;
+$on-laptop:        $width-xl !default;
 
-$spacing-unit:     30px !default;
+$spacing-unit:     $spacer-5;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -44,10 +44,10 @@ $spacing-unit:     30px !default;
   letter-spacing: 0px;
   margin-bottom: 0;
   float: left;
-  padding-right:32px;
+  padding-right:$spacer-5;
 
-  font-family: "Roboto", sans-serif;
-  font-weight: 300;
+  font-family: $body-font;
+  font-weight: $font-weight-light;
   font-style: normal;
 
   &,
@@ -57,7 +57,7 @@ $spacing-unit:     30px !default;
 
   &:hover {
     text-decoration: none;
-    color: #435ed3;
+    color: $text-blue;
   }
 
   @include media-query($on-palm) {
@@ -74,8 +74,10 @@ $spacing-unit:     30px !default;
 
     position: sticky;
     top: 0;
-    border-bottom: 1px solid #d9dbdd;
-    background: white;
+    border-bottom-width: $border-width;
+    border-bottom-style: $border-style;
+    border-bottom-color: $border-color;
+    background: $bg-white;
   
     .nav-trigger {
         display: none;
@@ -101,7 +103,7 @@ $spacing-unit:     30px !default;
   
       // Gaps between nav items, but not on the last one
       &:not(:last-child) {
-        margin-right: 31px;
+        margin-right: $spacer-5;
       }
     }
 
@@ -185,8 +187,8 @@ $spacing-unit:     30px !default;
   position: absolute;
   bottom: 10px;
   left: 14px;
-  color: white;
-  background: #2b2727b0;
+  color: $text-white;
+  background: $bg-gray-dark;
   padding: 6px 10px;
   border-radius: 12px;
 }
