@@ -1,5 +1,8 @@
-[![](banner2025.png)](.)
-*Photo by * 
+---
+title: Programme
+menu_show: true
+order: 0
+---
 
 # Programme
 

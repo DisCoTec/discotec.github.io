@@ -1,6 +1,3 @@
-[![](banner2025.png)](.)
-*Photo by [Maxime Dufour](https://www.maximedufour.com/)*
-
 # ICE 2025 - 18th Interaction and Concurrency Experience
 
 Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. 

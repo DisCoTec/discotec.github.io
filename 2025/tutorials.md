@@ -1,4 +1,8 @@
-[![](discotec2023-banner.v3.png)](https://www.discotec.org/2023/)
+---
+title: Tutorials
+menu_show: true
+order: 4
+---
 
 # Tutorials
 The DisCoTec Tutorials focus on emerging topics and aspects of the distributed computing field, ranging from new practical techniques and technologies to lessons learnt from projects and industry experiences.

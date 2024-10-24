@@ -1,6 +1,3 @@
-[![](banner2025.png)](.)
-*Photo by *
-
 # Hotels in Lille
 
 

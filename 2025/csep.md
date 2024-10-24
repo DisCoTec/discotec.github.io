@@ -1,5 +1,3 @@
-[![](banner2024.v2.png)](.)
-
 # Call for Satellite Events (Workshops / Tutorials)
 
 DisCoTec is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS).

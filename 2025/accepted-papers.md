@@ -1,6 +1,8 @@
-
-[![](banner2025.png)](.)
-*Photo by *
+---
+title: Accepted papers
+menu_show: true
+order: 1
+---
 
 # Accepted papers
 ## [COORDINATION](coordination)

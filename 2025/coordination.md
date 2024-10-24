@@ -1,7 +1,3 @@
-[![](banner2024.v2.png)](.)
-*Photo by Robin Mathlener on [Unsplash](https://unsplash.com/photos/black-concrete-building-during-night-time-3x-fuFPs-G0)*  
-
-
 # COORDINATION 2024 - 26th International Conference on Coordination Models and Languages
 
 COORDINATION 2024 is one of the three conferences of [DisCoTec 2024](.).

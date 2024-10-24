@@ -1,6 +1,8 @@
-[![](banner2025.png)](.)
-*Photo by *
-
+---
+title: Registration
+menu_show: true
+order: 2
+---
 
 ## Important Dates
 TBA

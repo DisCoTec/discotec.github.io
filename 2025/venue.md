@@ -1,6 +1,8 @@
-[![](banner2025.png)](.)
-*Photo by *
-
+---
+title: Venue
+menu_show: true
+order: 3
+---
 
 # Venue: Lille, France
 
