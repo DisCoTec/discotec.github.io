@@ -1,7 +1,5 @@
 ---
 title: Accepted papers
-menu_show: true
-order: 1
 ---
 
 # Accepted papers
