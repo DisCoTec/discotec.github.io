@@ -192,3 +192,15 @@ $spacing-unit:     $spacer-5;
   padding: 6px 10px;
   border-radius: 12px;
 }
+
+/**
+* Sponsors banner
+*/
+.footer {
+  display: flex;
+  justify-content: center;
+
+  a {
+    margin: 0 20px;
+  }
+}
