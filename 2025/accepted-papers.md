@@ -8,8 +8,3 @@ title: Accepted papers
 ## [DAIS](dais)
 
 ## [FORTE](forte)
-
-## Sponsors & Supporters
-
-<p float="left">
-</p>

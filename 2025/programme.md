@@ -52,9 +52,3 @@ DisCoTec 2025 will take place at
 
 
 # Detailed Programme 
-
-
-## Sponsors & Supporters
-
-<p float="left">
-</p>
