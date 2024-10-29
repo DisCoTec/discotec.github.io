@@ -113,10 +113,3 @@ We aim at processing letter requests quickly (via email), after having confirmed
 
 ## Cancellation/Refund Policy
 In order to keep registration fees as low as possible, there will be no refunds in cases of cancellation. However, registered participants who have to cancel their participation may be substituted by another participant at no extra cost.
-
-
-# Sponsors & Supporters
-
-<p float="left">
-</p>
-

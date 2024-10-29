@@ -13,8 +13,3 @@ Alternatively, we will arrange some limited block reservations and special deals
 
 ## Block Reservations and Special Deals
 TBA
-
-## Sponsors & Supporters
-
-<p float="left">
-</p>

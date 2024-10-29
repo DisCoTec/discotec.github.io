@@ -89,25 +89,3 @@ You can book accommodation using well-known platforms such as [booking.com](http
 
 We are working on special arrangements for DisCoTec participamts; details will be made available soon.
 -->
-
-
-
-# Sponsors & Supporters
-
-<p float="left">
-  <a href="https://www.nwo.nl">
-    <img alt="nwo-logo" src="NWO.jpg" height="135px" />
-  </a>
-  &nbsp;
-  <a href="https://www.ifip.org">
-    <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" height="88px" />
-  </a>
-  &nbsp;
-  <a href="https://eapls.org">
-    <img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" height="88px" />
-  </a>
-  &nbsp;
-  <a href="http://rug.nl">
-    <img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logoen_rood_rgb.jpg" height="88px" />
-  </a>
-</p>

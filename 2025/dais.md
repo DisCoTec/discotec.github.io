@@ -219,17 +219,3 @@ Detailed information on artefact submission and evaluation is available [here](d
 
 For additional information, please contact the Program Committee Co-chairs: <dais2023@easychair.org>
 -->
-
-## Sponsors & Supporters
-
-<a href="https://www.ifip.org">
-  <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" height="90px">
-</a>
-&nbsp;   &nbsp;   &nbsp;   &nbsp;
-<a href="https://eapls.org">
-<img alt="eapls-logo" src="https://www.discotec.org/2021/EAPLS_logo.jpg" height="90px">
-</a>
-&nbsp;   &nbsp;   &nbsp;   &nbsp;
-<a href="http://rug.nl">
-<img alt="rug-logo" src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logoen_rood_rgb.jpg" height="90px">
-</a>

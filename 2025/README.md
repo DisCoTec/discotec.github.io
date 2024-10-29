@@ -129,11 +129,6 @@ Alternatively, we intend to block a limited number of rooms in selected hotels f
 * Please contact the general chair ([Simon Bliudze][SimonWeb]).
 * Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
 
-## Sponsors & Supporters
-
-<p float="left">
-</p>
-
 [CinziaWeb]: https://webusers.i3s.unice.fr/~cdigiusto/web/
 [AntonioWeb]: http://ctp.di.fct.unl.pt/~aravara/
 
