@@ -1,11 +1,3 @@
-<!-- Display footer in template for 2025 pages -->
-{% if page.url contains '/2025/' %}
-{% assign display_footer = "yes" %}
-{% else %}
-{% assign display_footer = "no" %}
-{% endif %}
-
-{% if display_footer == "yes" %}
 <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
     <a href="https://www.ifip.org" target="_blank">
         <img alt="IFIP logo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-EpsUS6bK4HbtbQ12Do2lkYu998ZGaXNCTWG4bxbd11vWDMDi" height="70px" />
@@ -17,4 +9,3 @@
         <img alt="CRIStAL logo" src="/2025/sponsors/cristal.png" height="70px" />
     </a>
 </div>
-{% endif %}
