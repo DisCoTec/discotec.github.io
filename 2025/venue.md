@@ -8,78 +8,78 @@ order: 3
 
 ## Quick Links
 * [Location](#location)
-* [How to Arrive](#how-to-arrive)
-* [Planning your Journey](#planning-your-journey-in-france)
+* [How to arrive](#how-to-arrive)
+* [Moving around the city](#moving-around-the-city)
 
 ## Location
-DisCoTec 2025 will take place at 
+DisCoTec 2025 will take place at Polytech Lille.
 
-* *Address*:  
-* Detailed information on how to reach the campus: [read here]()
+* *Address*: Polytech Lille - Avenue Paul Langevin - 59655 Villeneuve d'Ascq cedex - France 
+* *Metro stop*: [4 Cantons - Stade Pierre Mauroy](https://www.google.com/maps/place/4+Cantons+Grand+Stade/@50.6063798,3.140079,16.93z/data=!4m6!3m5!1s0x47c2d6521ab6f00b:0x48f55ec632075f2c!8m2!3d50.605552!4d3.1388518!16s%2Fg%2F12vzpk3rm?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D)
+
+![Photograph of the Polytech Lille building](https://newsroom.univ-lille.fr/fileadmin/_processed_/2/1/csm_polytech-lille_6652f23e58.jpeg)
+*Photo by the University of Lille on [Twitter](https://twitter.com/univ_lille/status/1793576756789571692)*
 
 ## About Lille
 
-[![](groningen.jpg)](.)
-*Photo by Rick van Houten on [Unsplash](https://unsplash.com/photos/boat-on-river-near-green-trees-and-buildings-during-daytime-Ef3X7BBUFB8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)* 
+![Photo of the Paris door, Lille](https://www.worldtravelguide.net/wp-content/uploads/2017/04/Think-France-Lille-465093876-tupianlingang-copy.jpg)
+*Photo by tupianlingang on [istockphoto.com](https://www.istockphoto.com/fr/photo/lille-ville-b%C3%A2timent-landmark-gm465093876-58944264)*
 
-The city of Groningen is the capital of the province of Groningen, the most north eastern province of the Netherlands. The largest urban center in the area  (230000 people), Groningen is a relatively undiscovered and unspoiled part of the Netherlands that has kept most of its authenticity.
+The city of Lille is the capital of the Hauts-de-France region, the most nothern region of France, and is at the center of the European Metropolis of Lille (MEL in French), which has a population of 1.5 million people.
 
-Groningen is one of the happiest cities in Europe, and happiest small city in the Netherlands, scoring in the top five European cities for quality of life, education, public domain, health care and air quality. Students comprise an estimated 25% of its total population and makes it the country's demographically youngest city.
+Nicknamed the "capital of the Flanders", Lille belongs to the Flanders historical region, a hotly contested region through the ages; Lille has been strongly influenced (and under siege) by different powers, including
+Holy Roman Empire and the Spanish Netherlands: this appears in the architecture of the buildings, especially in the city center and old town, that is very close to the neighbooring Belgium style.
 
-Groningen offers plenty of options for visitors. Please see [here](https://www.visitgroningen.nl/en) for (official) touristic information.
+There's a lot to see in Lille! Please visit the [tourist office website](https://en.lilletourism.com/) for official touristic information.
 
-### The University of Groningen
-Founded in 1614, the University of Groningen comprises
-11 faculties, including the [Faculty of Science of Engineering](http://rug.nl/fse), which hosts the  [Bernoulli Institute for Mathematics, Computer Science, and Artificial Intelligence](https://www.rug.nl/research/bernoulli/).
+### The University of Lille
 
-The university employs 6,400 fte staff (including University Medical Center Groningen, UMCG) (25% international) from 
-more than 120 nationalities (see [more facts and figures](https://www.rug.nl/about-ug/profile/facts-and-figures/)).
+With roots from 1562, and officially established in 1854 with Louis Pasteur as first dean, the University of Lille comprises 15 faculties,
+including the [Faculty of Science and Technology](https://sciences-technologies.univ-lille.fr/), which hosts the [Polytech Lille engineering school](https://www.polytech-lille.fr/english/graduate-school-of-engineering/).
 
-## How to Arrive
+The university employs 10,000 people (including 3,300 academic staff) and incorporates 80,000 students (including 1,800 Ph.D. students).
 
-We strongly encourage DisCoTec participants to consider sustainable options for arriving to Groningen. 
 
-### Travel by Air
-The simplest option is to travel to [Schiphol International Airport](https://www.schiphol.nl/en/) (Amsterdam, AMS) and then connect to Groningen by train.
+## How to arrive
 
-Once at Schiphol, the underground train station is within walking distance of the luggage claim areas. The [Dutch railway company (NS)](https://www.ns.nl/en) is easy to recognize with its yellow and blue colors - just follow the illuminated signs that direct ‘to trains’.
-
-Groningen can also be reached by traveling to Groningen Airport Eelde (GRQ), which covers a few seasonal destinations (see more information [here](https://www.groningenairport.nl/en/destinations)).
-
+We strongly encourage DisCoTec participants to consider sustainable options for arriving to Lille. 
 
 ### Travel by Train
 
-#### Schedules
-The train connection from Schiphol Airport (and Amsterdam Central Station) takes approximately two hours, with connections every 30 minutes. The trains are comfortable;  most of them offer free WiFi in all classes and 220V AC outlets in first class. Food and drinks are not sold on the trains.
+Being 1h20 away from London, 1h from Paris and 35min from Bruxelles, Lille is an important junction of the European high-speed rail network.
+Lille has two railways stations:
+* Lille-Europe, meant for high-speed trains/international service;
+* Lille-Flandres, meant for lower-speed regional service.
 
-Further information on travelling by train is available on the [NS website](https://www.ns.nl/en). The [NS app](https://www.ns.nl/en/travel-information/ns-app) offers up-to-date  information on delays and disruptions. For international train connections from/to Groningen, please visit [NS International](https://www.nsinternational.com/en).
+The two stations are very close (500m apart).
 
-#### Tickets
-We recommend purchasing your train tickets online at the [NS website](https://www.ns.nl/en). 
+#### Companies
 
-Alternatively, you can purchase a single-use chip card (this is your train ticket) at the yellow and blue vending machines that you will find at Schiphol or at the ticket counter. 
+In France, trains are supervised by the SNCF (French national railway company).
 
-You can purchase tickets from the machines only by using your Credit Card or a Debit Card with the Maestro logo. *Important*: the vending machines do not accept Credit Cards or American Debit Cards.
+In addition to SNCF's TGVs ([French high-speed trains](https://en.wikipedia.org/wiki/TGV)) going to Belgium, Italy and Spain, the SNCF also collaborates with other countries to propose international travels to/from Belgium/Germany/Netherlands/UK (https://www.eurostar.com/rw-en), Switzerland (https://www.tgv-lyria.com/fr/en).
+Even though all aforementioned trains should be bookable through the [SNCF Connect website](https://www.sncf-connect.com/en-en/), don't hesitate to visit other companies' website to double check.
 
-If you use a single-use chip card or OV-chipkaart please make sure you check in and out; hold your OV-chipkaart up against the NS card reader in one of the gates or free-standing posts.
+TGVs are comfortable; they all offer free Wi-Fi in both second and first class, and 220V outlets in first class.
+Food and drinks are usually sold on the trains, except on short trips (no restauration service on Paris-Lille / Bruxelles-Lille for instance).
 
-### Moving around by bike
-Moving around Groningen by bike is an excellent alternative. The NS offers a very convenient alternative for bicycle renting; see [here](https://www.ns.nl/en/door-to-door/ov-fiets) for details. Always make sure to know and follow the [cycling rules in the Netherlands](https://holland2stay.com/blog/dutch-cycling-rules.html).
+### Travel by Air
 
-### Travel by Car
-We discourage arriving to Groningen by car. 
-Serious traffic disruptions are expected due to [major construction works in the roads surrounding Groningen](https://www.groningenbereikbaar.nl/en/serious-traffic-disruption-in-groningen). 
+The simplest option is to travel to [Lille-Lesquin Airport](https://www.lille.aeroport.fr/home/) (Lille, LIL), and then join Lille by bus (either Ilevia n°68 to Villeneuve-d'Ascq 4 cantons metro stations, or Flibco shuttle to Lille-Flandres railway station).
 
-## Planning your journey in the Netherlands
-The website/app [9292.nl](https://www.9292.nl) is a very useful tool for planning your journey in the Netherlands. 
+## Moving around the city
 
-The planner combines all available public transportation (trains, buses, trams, metro, and boats) to provide an optimal route. It also informs you real-time about the current delays and disruptions in public transportation.
+In the Lille Metropolis, public transportation (metro/tramway/bus/bike) is organized by [Ilevia](https://www.ilevia.fr/).
+To plan your travel, you can also rely on Google Maps.
 
+*Note: they say the Lille metro is the first fully automated driverless metro system in the world!*
 
+<img alt="Metro lille trains" style="width:100%" src="https://i.ytimg.com/vi/nUk9e0lbdJI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBMKo1GgRZcfxzybAlg4sJHlrze0A"/>
+*Photo by Central City - World Public Transport Videos on [YouTube](https://www.youtube.com/watch?v=nUk9e0lbdJI)*
 
 
 ## Accommodation
-We strongly recommend booking a room as soon as possible: mid June is a busy period in the Groningen area.
+We strongly recommend booking a room as soon as possible: mid June is a busy period in the Lille area.
 
 For more details, please see the [accommodation page](./hotels).
 
