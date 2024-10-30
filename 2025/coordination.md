@@ -1,3 +1,9 @@
+---
+title: COORDINATION
+menu_show: true
+order: 0
+---
+
 # COORDINATION 2025 - 27th International Conference on Coordination Models and Languages
 
 COORDINATION 2025 is one of the three conferences of [DisCoTec 2025](.).

@@ -1,7 +1,7 @@
 ---
 title: Venue
 menu_show: true
-order: 3
+order: 5
 ---
 
 # Venue: Lille, France

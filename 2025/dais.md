@@ -1,3 +1,9 @@
+---
+title: DAIS
+menu_show: true
+order: 1
+---
+
 # DAIS 2025 - 25th International Conference on Distributed Applications and Interoperable Systems
 
 DAIS 2025 is one of the three conferences of [DisCoTec 2025](.).

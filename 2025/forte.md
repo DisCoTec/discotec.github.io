@@ -1,3 +1,9 @@
+---
+title: FORTE
+menu_show: true
+order: 2
+---
+
 # FORTE 2025 - 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
 FORTE 2025 is one of the three conferences of [DisCoTec 2025](.), the 20th International Federated Conference on Distributed Computing Techniques.
