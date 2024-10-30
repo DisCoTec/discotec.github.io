@@ -1,4 +1,10 @@
-## Important dates
+---
+title: Important dates
+menu_show: true
+order: 3
+---
+
+# Important dates
 
 * Abstract submission: January 31, 2025
 * Paper submission: February 07, 2025
