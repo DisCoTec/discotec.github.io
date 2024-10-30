@@ -18,7 +18,7 @@ order: 5
 * [Carla Ferreira][CarlaWeb] (NOVA University of Lisbon, Portugal)
 * [Claudio A. Mezzina][ClaudioWeb] (University of Urbino, Italy)
 
-### DisCoTec Artefact Evaluation Chairs
+### Artefact Evaluation Chairs
 * [Roberto Casadei][RobertoWeb] (University of Bologna, Italy), DisCoTec-wide Coordinating co-Chair
 * [Duncan Attard](https://duncanatt.github.io/) (University of Glasgow, UK), Coordination
 * [Emilio Incerto](https://sysma.imtlucca.it/people/emilio-incerto) (IMT School for Advanced Studies Lucca), FORTE
