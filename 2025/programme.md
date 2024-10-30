@@ -11,27 +11,32 @@ TBA
 ## Quick Links
 * [Location](#location)
 * [Programme in a Nutshell](#in-a-nutshell)
-* [Overview of Parallel Tracks (Main Conferences)](#overview-tuesday---thursday)
-* [Detailed Programme](#detailed-programme)
+<!--* [Overview of Parallel Tracks (Main Conferences)](#overview-tuesday---thursday) -->
 
 ## Location
-DisCoTec 2025 will take place at 
+DisCoTec 2025 will take place on the Cité Scientifique campus: main conferences will be hosted by Polytech Lille, while workshops will occur in the ESPRIT building (next to Polytech).
 
-## In A Nutshell
+* *Address*: Polytech Lille - Avenue Paul Langevin - 59655 Villeneuve d'Ascq cedex - France 
+* *Metro stop*: [4 Cantons - Stade Pierre Mauroy](https://www.google.com/maps/place/4+Cantons+Grand+Stade/@50.6063798,3.140079,16.93z/data=!4m6!3m5!1s0x47c2d6521ab6f00b:0x48f55ec632075f2c!8m2!3d50.605552!4d3.1388518!16s%2Fg%2F12vzpk3rm?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D)
 
-### Monday, June 09
+## In a nutshell
 
-### Tuesday, June 10: Main Conferences
+### Monday, June 16th
 
-### Wednesday, June 11: Main Conferences
+TBA Workshop
 
-### Thursday, June 12: DisCoTec Main Conferences
+### Tuesday, June 17th: Main Conferences
 
+### Wednesday, June 18th: Main Conferences
 
-### Friday, June 13: DisCoTec Workshops
+### Thursday, June 19th: Main Conferences
 
+### Friday, June 20th
+
+TBA Workshop
+
+<!--
 # Overview (Tuesday - Thursday)
-
 
 ### Tuesday, June 10: DisCoTec Main Conferences
 
@@ -49,6 +54,4 @@ DisCoTec 2025 will take place at
 
 | Time | COORDINATION | DAIS | FORTE |
 | :---: | :---: | :---: | :---: | 
-
-
-# Detailed Programme 
+-->
