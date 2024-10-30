@@ -166,8 +166,8 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Selected Software Artefacts from the Papers of DisCoTec 2023 - 18th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. In preparation.
 
 ## Programme Committee co-chairs
-* [Ilaria Castellani](https://www-sop.inria.fr/members/Ilaria.Castellani/) (INRIA Sophia Antipolis, France)
-* [Francesco Tiezzi](http://www.disia.unifi.it/tiezzi) (University of Florence, Italy)
+* [Cinzia Di Giusto][CinziaWeb] (Université de Nice Sophia-Antipolis)
+* [António Ravara][AntonioWeb] (IST - Technical University of Lisbon)
 
 ## Publicity chair
 * [Saverio Giallorenzo](https://www.unibo.it/sitoweb/saverio.giallorenzo2/) (University of Bologna, Italy)
@@ -250,3 +250,6 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Vasco T. Vasconcelos (University of Lisbon, Portugal)
 * Mirko Viroli (Università di Bologna, Italy)
 * Gianluigi Zavattaro (Università di Bologna, Italy)
+
+[CinziaWeb]: https://webusers.i3s.unice.fr/~cdigiusto/web/
+[AntonioWeb]: http://ctp.di.fct.unl.pt/~aravara/

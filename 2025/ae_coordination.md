@@ -90,4 +90,4 @@ Artefacts seeking the "reusable" badge need to clear a significantly higher bar 
 ### Contact
 For any questions please contact the AE chair:
 
-[Rumyana Neykova](https://www.brunel.ac.uk/people/rumyana-neykova) (rumyana.neykova@brunel.ac.uk)
+[Duncan Attard](https://duncanatt.github.io/) (duncan.attard@glasgow.ac.uk)

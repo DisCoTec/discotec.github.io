@@ -121,8 +121,8 @@ TBA
   
 
 ## Program Committee Chairs
-* [Valentina Castiglioni](https://sites.google.com/view/valentinacastiglioni/home), Eindhoven University of Technology, The Netherlands
-* [Adrian Francalanza](https://www.um.edu.mt/profile/adrianfrancalanza), University of Malta, Malta
+* [Carla Ferreira][CarlaWeb] (NOVA University of Lisbon, Portugal)
+* [Claudio A. Mezzina][ClaudioWeb] (University of Urbino, Italy)
 
 ## Program Committee Members
 * Duncan P. Attard (University of Glasgow, UK)
@@ -151,9 +151,8 @@ TBA
 * Jana Wagemaker (Reykjavik University, Iceland)
 
 
-## Artefact Evaluation Committee Chairs
-* [Duncan P. Attard](https://duncanatt.github.io/) (University of Glasgow, UK)
-* [Emanuele D'Osualdo](https://www.emanueledosualdo.com/) (Max Planck Institute for Software Systems, Germany)
+## Artefact Evaluation Committee Chair
+[Emilio Incerto](https://sysma.imtlucca.it/people/emilio-incerto) (emilio.incerto@imtlucca.it)
 
 
 ## Artefact Evaluation Committee
@@ -185,3 +184,6 @@ TBA
 ## More Information
 For additional information, please contact the Program Committee Co-chairs: forte2024 at easychair dot org
 -->
+
+[CarlaWeb]: http://ctp.di.fct.unl.pt/~cf/
+[ClaudioWeb]: https://sites.google.com/view/claudio-mezzina/home

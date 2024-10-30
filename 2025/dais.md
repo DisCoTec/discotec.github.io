@@ -171,8 +171,8 @@ TBA
 -->
 
 ## Program committee chairs
-* [Rolando Martins](https://www.dcc.fc.up.pt/~rmartins/), University of Porto, Portugal
-* [Mennan Selimi](https://mvdsi.seeu.edu.mk/mselimi/), South East European University, North Macedonia
+* [Daniel Balouek][DanielWeb] (IMT Atlantique and INRIA, France)
+* [Ibéria Medeiros][IberiaWeb] (University of Lisbon, Portugal)
 
 ## Program committee
 * Evangelia Kalyvianaki, University of Cambridge, UK
@@ -227,3 +227,6 @@ TBA
 
 For additional information, please contact the Program Committee Co-chairs: <dais2023@easychair.org>
 -->
+
+[DanielWeb]: https://daniel-balouek.com/
+[IberiaWeb]: https://di.fc.ul.pt/~imedeiros/

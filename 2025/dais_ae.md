@@ -73,8 +73,5 @@ Artefacts seeking the “reusable” badge need to clear a significantly higher 
 * Can the artefact be used in a different environment, e.g., built on another system, used outside of the VM or Docker image, etc.?
     
 ## Contact
-For any questions please contact the two AE chairs:
-* João Soares (jsoares@dcc.fc.up.pt), University of Porto, Portugal 
-* Nuhi Besimi (n.besimi@seeu.edu.mk), South East European University, North Macedonia
-
-
+For any questions please contact the AE chair:
+* [Vinicius Cogo](https://www.di.fc.ul.pt/~vcogo/) (vvcogo@fc.ul.pt)
