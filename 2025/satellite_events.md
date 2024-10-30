@@ -1,5 +1,5 @@
 ---
-title: Satellite events
+title: Satellites
 menu_show: true
 order: 4
 ---

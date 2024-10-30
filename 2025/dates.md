@@ -1,5 +1,5 @@
 ---
-title: Important dates
+title: Dates
 menu_show: true
 order: 3
 ---
