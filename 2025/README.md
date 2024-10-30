@@ -28,7 +28,7 @@ The volumes will be **open access** from the [IFIP digital library](https://hal.
 
 The proceedings are freely accessible for the duration of the conference.
 
-## Journal Special Issues
+### Journal Special Issues
 Selected papers accepted at the main conferences will be invited for submission to special issues in high-quality journals: 
 * [Logical Methods in Computer Science](https://lmcs.episciences.org) 
 * [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/) ([Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming)).
@@ -47,8 +47,6 @@ We strongly recommend booking a room **as soon as possible**: mid June is a busy
 The DisCoTec events will take place on the Campus Scientifique, which is located south-east of Lille in Villeneuve d'Ascq. The campus is about 7 km from the city center, where most hotels are located. We recommend staying in the center, as there is a  good metro connection with the campus. 
 
 You can book accommodation using well-known platforms such as [booking.com](https://www.booking.com) and [airbnb](https://www.airbnb.com).
-
-We are working on special arrangements for DisCoTec participants; details will be made available as soon as possible.
  
 Alternatively, we intend to block a limited number of rooms in selected hotels for DisCoTec participants. These rooms will be available on a first-come, first-served basis. To get details about prices and secure your booking, please check [here](./hotels).
 
