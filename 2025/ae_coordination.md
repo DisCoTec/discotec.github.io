@@ -1,6 +1,6 @@
-# COORDINATION 2024 - Artefact Evaluation
+# COORDINATION 2025 - Artefact Evaluation
 
-[COORDINATION](https://www.discotec.org/2024/coordination) this year includes an artefact evaluation performed by 
+[COORDINATION](https://www.discotec.org/2025/coordination) this year includes an artefact evaluation performed by 
 the artefact evaluation committee (AEC). The goal of the artefact evaluation is to enable future researchers to 
 more effectively build on and compare with previous work. The Artefact Evaluation Committee (AEC) will review 
 the artefact. We will be attributing 3 badges, according to [EAPLS guidelines](https://eapls.org/pages/artifact_badges/):
@@ -17,14 +17,21 @@ Members of the artefact evaluation committee and the program committee are asked
 for the sole purpose of evaluating the contribution associated with the artefact.
 
 ## Important Dates
+
+TBA
+
+<!--
 * Artefact submission: March 8, 2024
 * Problem reports from reviewers: March 17, 2024
 * Authors’ response to reviewers: March 23, 2024
 * Artefact notification: April 5, 2024
+-->
 
 ## Submission Guidelines
 
-Submission site: [https://easychair.org/my/conference?conf=coordination2024](https://easychair.org/my/conference?conf=coordination2024). Please select the "Artefact Evaluation COORDINATION 2024” track when making a new submission and use the same title (and pdf of the paper) as for the COORDINATION submission.
+Submission site: TBA 
+
+<!--[https://easychair.org/my/conference?conf=coordination2024](https://easychair.org/my/conference?conf=coordination2024). Please select the "Artefact Evaluation COORDINATION 2024” track when making a new submission and use the same title (and pdf of the paper) as for the COORDINATION submission.-->
 
 A final artefact submission should consist of
 

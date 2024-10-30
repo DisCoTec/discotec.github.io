@@ -1,6 +1,6 @@
-# COORDINATION 2024 - 26th International Conference on Coordination Models and Languages
+# COORDINATION 2025 - 27th International Conference on Coordination Models and Languages
 
-COORDINATION 2024 is one of the three conferences of [DisCoTec 2024](.).
+COORDINATION 2025 is one of the three conferences of [DisCoTec 2025](.).
 
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today’s software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, rchitectures, and implementation techniques for coordination.
@@ -23,13 +23,19 @@ Topics of interest encompass all areas of coordination, including (but not limit
 * Industrial relevance of coordination and software architectures: programming in the large, domain-specific software architectures and coordination models, industry-driven efforts in coordination and case studies.
 * Interdisciplinary aspects of coordination.
 
+<!--
 ## Keynote speakers
 
 * [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, The Netherlands)
 * [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, Austria)
 * [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, Kingdom of Saudi Arabia)
+-->
 
-## Important dates (extended)
+## Important dates
+
+TBA
+
+<!--
 * Abstract submission: ~~February 02, 2024~~  February 16, 2024
 * Paper submission: ~~February 09, 2024~~  February 23, 2024
 * Paper notification: ~~March 29, 2024~~  April 5, 2024
@@ -37,9 +43,14 @@ Topics of interest encompass all areas of coordination, including (but not limit
 * Conference:  June 18-20, 2024
 
 Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
+-->
+
+<!--
 
 ## Accepted Papers 
 Go to the [list of accepted papers](https://www.discotec.org/2024/accepted-papers).
+
+-->
 
 <!--
 The following list does not include conditionally accepted papers.
@@ -71,8 +82,11 @@ The following list does not include conditionally accepted papers.
 ## Submissions
 
 ### Submission site
-[https://easychair.org/conferences/?conf=coordination2024](https://easychair.org/conferences/?conf=coordination2024)
 
+TBA
+<!--
+[https://easychair.org/conferences/?conf=coordination2024](https://easychair.org/conferences/?conf=coordination2024)
+-->
 
 ### Publication
 Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the above submission dates and submissions are handled through the EasyChair conference management system, accessible from the above submission site.
@@ -96,12 +110,15 @@ To improve and reward reproducibility and to give more visibility and credit to 
 
 Artefact submission is mandatory for tool papers and the result of the artefact evaluation will be considered in the tool paper’s acceptance decision. Instead, artefact submission is optional for all the other paper categories and the result of the artefact evaluation will not affect the paper’s acceptance decision but may affect the best paper selection.
 
-Dates (AoE):
+Dates (AoE): TBA
+
+<!--
 * Artefact submission: ~~February 29, 2024~~ March 8, 2024
 * Kick-the-tires phase:
   - Problem reports from reviewers: ~~8 March, 2024~~ March 17 2024
   - Authors' response to reviewers: ~~15 March, 2024~~ March 23 2024
 * Artefact notification: ~~March 29, 2024~~ April 5, 2024
+-->
 
 Detailed information on artefact submission and evaluation is available [here](ae_coordination.md). 
 
@@ -111,7 +128,10 @@ The conference proceedings, consisting of accepted submissions from any paper ca
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
 ### Special issues
-After the conference, selected papers from COORDINATION and FORTE programmes (except for tool papers) will be invited to a special issue of the [Logical Methods in Computer Science](https://lmcs.episciences.org) journal. The paper submission deadline is planned for October/November 2024, and the notifications for the first round of reviews around February 2025. 
+After the conference, selected papers from COORDINATION and FORTE programmes (except for tool papers) will be invited to a special issue of the [Logical Methods in Computer Science](https://lmcs.episciences.org) journal.
+<!--
+The paper submission deadline is planned for October/November 2024, and the notifications for the first round of reviews around February 2025.
+-->
 Selected tool papers, instead, will be invited to a special issue of a reputable journal with a track dedicated to software, like the Journal of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming).
 
 ### Proceedings and Special Issues from Previous Editions

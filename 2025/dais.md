@@ -1,6 +1,6 @@
-# DAIS 2024 - 24th International Conference on Distributed Applications and Interoperable Systems
+# DAIS 2025 - 25th International Conference on Distributed Applications and Interoperable Systems
 
-DAIS 2024 is one of the three conferences of [DisCoTec 2024](.).
+DAIS 2025 is one of the three conferences of [DisCoTec 2025](.).
 
 # Scope
 The DAIS conference series addresses all practical and conceptual aspects of distributed applications, including their design, modeling, implementation and operation, the supporting middleware, appropriate software engineering methodologies and tools, as well as experimental studies and applications. Submissions will be judged on their originality, significance, clarity, relevance, and technical correctness.
@@ -41,13 +41,7 @@ System issues and design goals, including
 * scalability and elasticity, and
 * tail-performance and energy-efficiency.
 
-## Keynote speakers
-
-* [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, NL)
-* [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
-* [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, SA)
-
-
+<!--
 ## DAIS Accepted Papers
 
 ### Regular papers
@@ -60,21 +54,25 @@ System issues and design goals, including
 ### Short papers
 
 * Amir Javadpour, Forough Ja'Fari and Tarik Taleb. _Encryption as a Service: A Review of Architectures and Taxonomies_.
-
+-->
 
 ## Submission dates
+
+TBA
+
+<!-- 
 * Abstract submission: ~~February 2, 2024~~ February 16, 2024
 * Paper submission: ~~February 9, 2024~~ February 23, 2024
 * Paper notification: ~~March 29, 2024~~ April 5, 2024
 * Camera-ready: April 28, 2024
 * DisCoTec conference:  June 17-21, 2024
 
-
 Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
+-->
 
 ## Submission and Publication
 
-All papers must be original, unpublished, and not submitted for publication elsewhere. DAIS 2024 offers three submission tracks:
+All papers must be original, unpublished, and not submitted for publication elsewhere. DAIS 2025 offers three submission tracks:
 
 * Full research papers in no more than 15 pages + 2 pages references.
 * Full practical experience reports, including experimental and evaluation studies, case studies, and practice reports in no more than 15 pages + 2 pages references.
@@ -100,19 +98,23 @@ To improve and reward reproducibility and to give more visibility and credit to 
 
 Artefact submission is mandatory for tool papers and the result of the artefact evaluation will be considered in the tool paper’s acceptance decision. Instead, artefact submission is optional for all the other paper categories and the result of the artefact evaluation will not affect the paper’s acceptance decision but may affect the best paper selection.
 
-Dates (AoE):
+Dates (AoE): TBA
+
+<!--
 * Artefact submission: ~~February 29, 2024~~ March 15, 2024
 * Kick-the-tires phase:
   - Problem reports from reviewers: ~~8 March, 2024~~ March 22 2024
   - Authors' response to reviewers: ~~15 March, 2024~~ March 29 2024
 * Artefact notification: ~~March 29, 2024~~ April 5, 2024
+-->
 
 Detailed information on artefact submission and evaluation is available [here](dais_ae.md).
 
 
 ## Submission link
+TBA
 
-<https://easychair.org/conferences/?conf=dais2024>
+<!-- <https://easychair.org/conferences/?conf=dais2024> -->
 
 <!--
 ## Keynote speaker

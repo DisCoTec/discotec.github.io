@@ -1,5 +1,5 @@
 # Artefact Evaluation
-[FORTE](https://www.discotec.org/2024/forte) this year includes an artefact evaluation performed by the artefact evaluation committee (AEC). The goal of the artefact evaluation is to enable future researchers to more effectively build on and compare with previous work. The Artefact Evaluation Committee (AEC) will review the artefact. We will be attributing 3 badges, according to [EAPLS guidelines](https://eapls.org/pages/artifact_badges/):
+[FORTE](https://www.discotec.org/2025/forte) this year includes an artefact evaluation performed by the artefact evaluation committee (AEC). The goal of the artefact evaluation is to enable future researchers to more effectively build on and compare with previous work. The Artefact Evaluation Committee (AEC) will review the artefact. We will be attributing 3 badges, according to [EAPLS guidelines](https://eapls.org/pages/artifact_badges/):
 1.	Artefact **functional**: documented, consistent, complete, exercisable;
 2.	Artefact **reusable**: exceeding functional, by being carefully documented and well-structured for reuse and repurposing, see below for details;
 3.	Artefact **available**: available on a publicly accessible archival repository to a permanent repository that provides a Digital Object Identifier (DOI).
@@ -10,14 +10,22 @@ Members of the artefact evaluation committee and the program committee are asked
 
 ## Important Dates
 
+TBA
+
+<!--
 * **Artefact submission**: ~~February 29, 2024~~ March 8, 2024 (Extended)
 * **Kick-the-tires phase**:
   * Problem reports from reviewers: ~~8 March, 2024~~ March 15, 2024 (Extended)
   * Authors’ response to reviewers: ~~15 March, 2024~~ March 22, 2024 (Extended)
 * **Artefact notification**: ~~March 29, 2024~~ April 5, 2024 (Extended)
+-->
 
 ## Submission Guidelines
-Submission site: [https://easychair.org/conferences/?conf=forte2024](https://easychair.org/conferences/?conf=forte2024). Please select the “FORTE AEC 2024” track when making a new submission and use the same title (and pdf of the paper) as for the FORTE submission.
+Submission site: TBA
+
+<!--
+[https://easychair.org/conferences/?conf=forte2024](https://easychair.org/conferences/?conf=forte2024). Please select the “FORTE AEC 2024” track when making a new submission and use the same title (and pdf of the paper) as for the FORTE submission.
+-->
 
 A final artefact submission should consist of
 * an **abstract**

@@ -1,9 +1,9 @@
-# FORTE 2024 - 44th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+# FORTE 2025 - 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
-FORTE 2024 is one of the three conferences of [DisCoTec 2024](.), the 19th International Federated Conference on Distributed Computing Techniques.
+FORTE 2025 is one of the three conferences of [DisCoTec 2025](.), the 20th International Federated Conference on Distributed Computing Techniques.
 
 ## Topics of Interest
-FORTE 2024 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
+FORTE 2025 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
 
 We invite submissions focused on foundational aspects of distributed
 software systems, presenting approaches or tools to formally model,
@@ -38,24 +38,26 @@ The main topics of interest include:
 
 ### Important Dates (AoE)
 
-For papers:
+For papers: TBA
 
+<!--
 * **Abstract submission:** ~~February 2, 2024~~ February 16, 2024 (Extended)
 * **Paper submission:** ~~February 9, 2024~~ February 23, 2024 (Extended)
 * **Paper notification:** ~~March 29, 2024~~ April 5, 2024 (Extended)
 * Camera-ready: April 24, 2024
+-->
 
-For artefacts:
+For artefacts: TBA
 
+<!--
 * **Artefact submission**: ~~February 29, 2024~~ March 8, 2024 (Extended)
 * **Kick-the-tires phase**:
   * Problem reports from reviewers: ~~8 March, 2024~~ March 15, 2024 (Extended)
   * Authors’ response to reviewers: ~~15 March, 2024~~ March 22, 2024 (Extended)
 * **Artefact notification**: ~~March 29, 2024~~ April 5, 2024 (Extended)
-
   
 DisCoTec conference:  June 17-21, 2024
-
+-->
 
 ### Submission Guidelines
 Contributions must be written in English according to one of the three categories described below. Apart from journal-first papers, all papers should report on original, unpublished work, not submitted for publication elsewhere (cf. [IFIP codes of conduct](http://www.ifip.org/index.php?option=com_content&task=view&id=219&Itemid=564), under Links).
@@ -71,19 +73,20 @@ All papers should be submitted in LNCS format. We solicit papers in the followin
 
 ### Artefact Submission and Evalution Guidelines
 
-FORTE 2024 includes an artefact evaluation performed by the artefact evaluation committee (AEC). Refer to this [**page**](forte_ae.md) for additional details.
+FORTE 2025 includes an artefact evaluation performed by the artefact evaluation committee (AEC). Refer to this [**page**](forte_ae.md) for additional details.
 
 <!--
 ### Partial Rebuttal
 Some papers that raised doubts the reviewers would like to clarify to consider acceptance, will have 48h to respond to concrete questions. The responses will be taken into account during the PC discussions.
 -->
 
+<!--
 ## Keynote speakers
 
 * [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, NL)
 * [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
 * [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, SA)
-
+-->
 
 ## Publication
 The conference proceedings, formed by accepted submissions from __any__ category, will be published by Springer as [volume 14678 of LNCS-IFIP](https://link.springer.com/book/10.1007/978-3-031-62645-6).
@@ -92,17 +95,23 @@ The conference proceedings, formed by accepted submissions from __any__ category
 
 
 ### Journal Special Issue
-After the conference, accepted papers (except for tool papers) selected from FORTE and COORDINATION programmes will be invited to a __journal special issue__ of the [Logical Methods in Computer Science](https://lmcs.episciences.org), with the following tentative schedule:
+After the conference, accepted papers (except for tool papers) selected from FORTE and COORDINATION programmes will be invited to a __journal special issue__ of the [Logical Methods in Computer Science](https://lmcs.episciences.org).
+
+<!--, with the following tentative schedule:
 * October/November 2024: deadline for the first submitted version;
-* February 2025: notification for the first round of reviews.
+* February 2025: notification for the first round of reviews.-->
 
 Selected tool papers will be invited to a __journal special issue__ of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming). 
 <!-- a reputable journal with a track dedicated to software, like the Journal of--> 
 
 
 ### Submission Link
-<https://easychair.org/conferences/?conf=forte2024>
 
+TBA
+
+<!--
+<https://easychair.org/conferences/?conf=forte2024>
+-->
   
 
 ## Program Committee Chairs
@@ -166,5 +175,7 @@ Selected tool papers will be invited to a __journal special issue__ of [Science 
 * Tim Willemse (Eindhoven University of Technology, The Netherlands)
 
 
+<!--
 ## More Information
 For additional information, please contact the Program Committee Co-chairs: forte2024 at easychair dot org
+-->
