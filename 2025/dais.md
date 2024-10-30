@@ -62,20 +62,6 @@ System issues and design goals, including
 * Amir Javadpour, Forough Ja'Fari and Tarik Taleb. _Encryption as a Service: A Review of Architectures and Taxonomies_.
 -->
 
-## Submission dates
-
-TBA
-
-<!-- 
-* Abstract submission: ~~February 2, 2024~~ February 16, 2024
-* Paper submission: ~~February 9, 2024~~ February 23, 2024
-* Paper notification: ~~March 29, 2024~~ April 5, 2024
-* Camera-ready: April 28, 2024
-* DisCoTec conference:  June 17-21, 2024
-
-Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
--->
-
 ## Submission and Publication
 
 All papers must be original, unpublished, and not submitted for publication elsewhere. DAIS 2025 offers three submission tracks:
