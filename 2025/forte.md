@@ -42,29 +42,6 @@ The main topics of interest include:
 
 ## Submission
 
-### Important Dates (AoE)
-
-For papers: TBA
-
-<!--
-* **Abstract submission:** ~~February 2, 2024~~ February 16, 2024 (Extended)
-* **Paper submission:** ~~February 9, 2024~~ February 23, 2024 (Extended)
-* **Paper notification:** ~~March 29, 2024~~ April 5, 2024 (Extended)
-* Camera-ready: April 24, 2024
--->
-
-For artefacts: TBA
-
-<!--
-* **Artefact submission**: ~~February 29, 2024~~ March 8, 2024 (Extended)
-* **Kick-the-tires phase**:
-  * Problem reports from reviewers: ~~8 March, 2024~~ March 15, 2024 (Extended)
-  * Authors’ response to reviewers: ~~15 March, 2024~~ March 22, 2024 (Extended)
-* **Artefact notification**: ~~March 29, 2024~~ April 5, 2024 (Extended)
-  
-DisCoTec conference:  June 17-21, 2024
--->
-
 ### Submission Guidelines
 Contributions must be written in English according to one of the three categories described below. Apart from journal-first papers, all papers should report on original, unpublished work, not submitted for publication elsewhere (cf. [IFIP codes of conduct](http://www.ifip.org/index.php?option=com_content&task=view&id=219&Itemid=564), under Links).
 
