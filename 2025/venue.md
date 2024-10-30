@@ -12,13 +12,16 @@ order: 3
 * [Moving around the city](#moving-around-the-city)
 
 ## Location
-DisCoTec 2025 will take place at Polytech Lille.
+DisCoTec 2025 will take place on the Cité Scientifique campus: main conferences will be hosted by Polytech Lille, while workshops will occur in the ESPRIT building (next to Polytech).
 
 * *Address*: Polytech Lille - Avenue Paul Langevin - 59655 Villeneuve d'Ascq cedex - France 
 * *Metro stop*: [4 Cantons - Stade Pierre Mauroy](https://www.google.com/maps/place/4+Cantons+Grand+Stade/@50.6063798,3.140079,16.93z/data=!4m6!3m5!1s0x47c2d6521ab6f00b:0x48f55ec632075f2c!8m2!3d50.605552!4d3.1388518!16s%2Fg%2F12vzpk3rm?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D)
 
 ![Photograph of the Polytech Lille building](https://newsroom.univ-lille.fr/fileadmin/_processed_/2/1/csm_polytech-lille_6652f23e58.jpeg)
 *Photo by the University of Lille on [Twitter](https://twitter.com/univ_lille/status/1793576756789571692)*
+
+![Photograph of the ESPRIT grey building](https://webfactorycdn.fayat.com/var/site/storage/images/_aliases/gallery_1140/4/6/6/9/469664-1-fre-FR/d3b37d01ab69-facadedetail.jpg)
+*Photo by Fayat on [their website](https://nordfranceconstructions.fayat.com/decouvrir-nos-realisations/batiment-esprit-du-plan-campus-a-villeneuve-d-ascq-59)*
 
 ## About Lille
 
