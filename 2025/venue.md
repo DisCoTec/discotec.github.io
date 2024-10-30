@@ -60,11 +60,18 @@ The two stations are very close (500m apart).
 
 In France, trains are supervised by the SNCF (French national railway company).
 
-In addition to SNCF's TGVs ([French high-speed trains](https://en.wikipedia.org/wiki/TGV)) going to Belgium, Italy and Spain, the SNCF also collaborates with other countries to propose international travels to/from Belgium/Germany/Netherlands/UK (https://www.eurostar.com/rw-en), Switzerland (https://www.tgv-lyria.com/fr/en).
-Even though all aforementioned trains should be bookable through the [SNCF Connect website](https://www.sncf-connect.com/en-en/), don't hesitate to visit other companies' website to double check.
+In addition to SNCF's TGVs ([French high-speed trains](https://en.wikipedia.org/wiki/TGV)) going to Belgium, Italy and Spain, the SNCF also collaborates with other countries to propose international travels to/from Belgium/Germany/Netherlands/UK ([Eurostar](https://www.eurostar.com/rw-en)) and Switzerland ([Lyria](https://www.tgv-lyria.com/fr/en)).
+Even though all aforementioned trains should be bookable through the [SNCF Connect website](https://www.sncf-connect.com/en-en/), don't hesitate to visit other companies' websites to double check.
+
+*Note: SNCF Connect does not include trips from SNCF competitors (Deutsche Bahn, Renfe or Trenitalia for instance), so you might want to book your trip on [Trainline](https://www.thetrainline.com/).*
+
+---
+
+In France, there are two categories of high-speed journey: *inOui* is the name of the premium service, while *Ouigo* is the low-cost variant.
+Both services usually run the same trains, [TGVs](https://en.wikipedia.org/wiki/TGV).
 
 TGVs are comfortable; they all offer free Wi-Fi in both second and first class, and 220V outlets in first class.
-Food and drinks are usually sold on the trains, except on short trips (no restauration service on Paris-Lille / Bruxelles-Lille for instance).
+Food and drinks are usually sold on the trains, except on short trips (no restauration service on Paris-Lille / Bruxelles-Lille for instance) and Ouigo low-cost trains.
 
 ### Travel by Air
 
