@@ -7,29 +7,10 @@ Welcome to DisCoTec 2025!
 DisCoTec 2025 will take place in [Lille, France](venue), June 16-20, 2025, hosted by TBC
 
 ## Quick Links
-* [Venue](#venue-lille-france)
-* [Keynote Speakers](#keynote-speakers)
 * [Main Conferences](#main-conferences)
-* [Satellite Events](#satellite-events)
-* [Important Dates](#important-dates)
-* [Programme](./programme.md)
 * [Proceedings](#proceedings)
 * [Registration](#registration)
-* [Committees](#scientific-committees)
-
-## Venue: Lille, France
-### Conference Location
-TBA
-
-### More Information
-See detailed information about Lille [here](venue). 
-
-## Keynote Speakers
-TBA
-
-<!-- 
-Go to the [dedicated page](invited) for details on these keynote lectures.
--->
+* [Accommodation](#accommodation)
 
 ## Main Conferences
 DisCoTec gathers conferences that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches:
@@ -37,25 +18,6 @@ DisCoTec gathers conferences that cover a broad spectrum of distributed computin
 * [COORDINATION 2025](coordination) - International Conference on Coordination Models and Languages
 * [DAIS 2025](dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2025](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
-
-## Satellite Events
-
-DisCoTec 2025 will include workshops on a broad spectrum of distributed computing subjects.
-
-<!--
-Satellite events will take place on Monday, June 9, 2025, and on Friday, June 13, 2025.
--->
-
-## Important Dates
-The following dates are common for the three main DisCoTec conferences.
-
-TBA
-
-## Programme
-TBA 
-<!-- 
-Go to the [programme page](programme) for detailed information.
--->
 
 ## Proceedings
 The proceedings of the main conferences will be published as volumes in the [Springer LNCS-IFIP](https://www.springer.com/series/8345) series. 
@@ -86,7 +48,7 @@ The DisCoTec events will take place on the Campus Scientifique, which is located
 
 You can book accommodation using well-known platforms such as [booking.com](https://www.booking.com) and [airbnb](https://www.airbnb.com).
 
-We are working on special arrangements for DisCoTec participamts; details will be made available as soon as possible.
+We are working on special arrangements for DisCoTec participants; details will be made available as soon as possible.
  
 Alternatively, we intend to block a limited number of rooms in selected hotels for DisCoTec participants. These rooms will be available on a first-come, first-served basis. To get details about prices and secure your booking, please check [here](./hotels).
 
