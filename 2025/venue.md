@@ -10,6 +10,7 @@ order: 5
 * [Location](#location)
 * [How to arrive](#how-to-arrive)
 * [Moving around the city](#moving-around-the-city)
+* [Accommodation](#accommodation)
 
 ## Location
 DisCoTec 2025 will take place on the Cité Scientifique campus: main conferences will be hosted by Polytech Lille, while workshops will occur in the ESPRIT building (next to Polytech).
