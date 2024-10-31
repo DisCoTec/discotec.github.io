@@ -11,7 +11,9 @@ DisCoTec gathers conferences that cover a broad spectrum of distributed computin
 * [DAIS 2025](dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2025](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
-## Proceedings
+## Publication policy
+
+### Proceedings
 The proceedings of the main conferences will be published as volumes in the [Springer LNCS-IFIP](https://www.springer.com/series/8345) series. 
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
