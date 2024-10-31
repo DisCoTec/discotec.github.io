@@ -29,7 +29,7 @@ order: 5
 * [Simon Bliudze][SimonWeb], General Chair (Inria Center of the University of Lille, France)
 * [Larisa Safina][LarisaWeb], Satellite Events Chair (Inria Center of the University of Lille, France)
 * [Adrien Luxey-Bitri][AdrienWeb], Young Researchers Forum Chair (University of Lille, France)
-* [Imen Sayar][ImenWeb], Gender equality / Women in Science co-Chair (University of Lille, France)
+* Imen Sayar, Gender equality / Women in Science co-Chair (University of Lille, France)
 * [Manel Barkallah][ManelWeb], Gender equality / Women in Science co-Chair (University of Namur, Belgium)
 * [Bas van den Heuvel][BasWeb], Publicity co-Chair
 * [Matthew Alan Le Brun][MatthewWeb], Publicity co-Chair
