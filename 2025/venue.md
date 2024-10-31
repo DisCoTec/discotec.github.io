@@ -1,5 +1,5 @@
 ---
-title: Venue
+title: VENUE
 menu_show: true
 order: 6
 ---
