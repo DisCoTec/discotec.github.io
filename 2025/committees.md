@@ -26,9 +26,14 @@ order: 5
 
 
 ## Organizing Committee
-* [Simon Bliudze][SimonWeb] (Inria Center of the University of Lille, France), General Chair
-* [Rémy Raes][RemyWeb] (Inria Center of the University of Lille, France), Head of student volunteers
-* 
+* [Simon Bliudze][SimonWeb], General Chair (Inria Center of the University of Lille, France)
+* [Larisa Safina][LarisaWeb], Satellite Events Chair (Inria Center of the University of Lille, France)
+* [Adrien Luxey-Bitri][AdrienWeb], Young Researchers Forum Chair (University of Lille, France)
+* [Imen Sayar][ImenWeb], Gender equality / Women in Science co-Chair (University of Lille, France)
+* [Manel Barkallah][ManelWeb], Gender equality / Women in Science co-Chair (University of Namur, Belgium)
+* [Bas van den Heuvel][BasWeb], Publicity co-Chair
+* [Matthew Alan Le Brun][MatthewWeb], Publicity co-Chair
+* [Rémy Raes][RemyWeb], Head of student volunters (Inria Center of the University of Lille, France)
 
 ## Steering Committee 
 * Rocco De Nicola (IMT School for Advanced Studies Lucca, Italy)
@@ -53,6 +58,12 @@ order: 5
 [ClaudioWeb]: https://sites.google.com/view/claudio-mezzina/home
 
 [SimonWeb]: https://www.bliudze.me/simon
+[LarisaWeb]: https://lsafina.github.io/
+[AdrienWeb]: https://luxeylab.net/
+[ImenWeb]: .
+[ManelWeb]: https://staff.info.unamur.be/mbarkall/
+[BasWeb]: https://basvdheuvel.github.io/
+[MatthewWeb]: https://matthewalanlebrun.github.io/
 [RemyWeb]: https://remyraes.com/
 
 [RobertoWeb]: https://www.unibo.it/sitoweb/roby.casadei/
