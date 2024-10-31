@@ -1,7 +1,7 @@
 ---
 title: COMMITTEES
 menu_show: true
-order: 3
+order: 4
 ---
 
 ## Scientific Committees
