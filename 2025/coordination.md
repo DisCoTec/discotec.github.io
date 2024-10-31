@@ -1,7 +1,7 @@
 ---
 title: COORDINATION
 menu_show: true
-order: 0
+order: 1
 ---
 
 # COORDINATION 2025 - 27th International Conference on Coordination Models and Languages
