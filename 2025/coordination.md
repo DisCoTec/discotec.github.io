@@ -1,7 +1,7 @@
 ---
 title: COORDINATION
 menu_show: false
-order: 1
+order: 
 ---
 
 # COORDINATION 2025 - 27th International Conference on Coordination Models and Languages
@@ -30,45 +30,10 @@ Topics of interest encompass all areas of coordination, including (but not limit
 * Interdisciplinary aspects of coordination.
 
 <!--
-## Keynote speakers
-
-* [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, The Netherlands)
-* [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, Austria)
-* [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, Kingdom of Saudi Arabia)
--->
-
-<!--
 
 ## Accepted Papers 
 Go to the [list of accepted papers](https://www.discotec.org/2024/accepted-papers).
 
--->
-
-<!--
-The following list does not include conditionally accepted papers.
-
-### Regular papers
-* Sourabh Pal, Ivan Lanese and Massimo Clo.	_Choreographic Automata: A Case Study in Healthcare Management_.
-* Marco Carbone and Adele Veschetti. _A Probabilistic Choreography Language for PRISM_.
-* Benjamin Bogø, Andrea Burattin and Alceste Scalas.	_Encoding Petri Nets into CCS_.
-* Davide Domini, Gianluca Aguzzi, Mirko Viroli and Lukas Esterle. _Field-based Coordination for Federated Learning_.
-* Christian Bartolo Burlò, Adrian Francalanza, Emilio Tuosto and Alceste Scalas. _COTS: Connected OpenAPI Test Synthesis for RESTful Applications_.
-* Davide Basile. _Modelling, Verifying and Testing the Contract Automata Runtime Environment with Uppaal_.
-* Muhammad Rizwan Ali, Yngve Lamo and Violet Ka I Pun. _Simulation-based Decision Support for Cross-Organisational Workflows: A Case Study of Emergency Handling_.
-* Giorgio Audrito, Daniele Bortoluzzi, Ferruccio Damiani, Giordano Scarso and Gianluca Torta. _An Enhanced Exchange Operator for XC_.
-  
-### Short papers
-* Marco Carbone, David Castro-Perez, Francisco Ferreira, Lorenzo Gheri, Frederik Krogsdal Jacobsen, Alberto Momigliano, Luca Padovani, Alceste Scalas, Dawit Tirore, Martin Vassor, Nobuko Yoshida and Daniel Zackon. _The Concurrent Calculi Formalisation Benchmark_.
-
-### Survey papers
-* Maurice ter Beek, Rolf Hennicker and José Proença. _Team Automata: Overview and Roadmap_.
-
-### Tool papers
-* Giuseppe De Palma, Saverio Giallorenzo, Jacopo Mauro, Matteo Trentin and Gianluigi Zavattaro. _An OpenWhisk Extension for Topology-aware Allocation Priority Policies_.
-* Joao Afonso, Elvis Gerardin Konjoh Selabi, Maurizio Murgia, Antonio Ravara and Emilio Tuosto. _TRAC: a tool for data-aware coordination (with an application to smart contracts)_.
-* Gianluca Aguzzi, Roberto Casadei, Matteo Cerioni and Mirko Viroli. _ScaFi-Blocks: A Visual Aggregate Programming Environment for Low-Code Swarm Design_.
-* Nicola Del Giudice, Federico Maria Cruciani and Michele Loreti. _Visualisation of Collective Systems with Sequit and Sibilla_.
-* Adrian Francalanza, Frank Pfenning and Gerard Tabone. _Implementing a Message-Passing Interpretation of the Semi-Axiomatic Sequent Calculus (SAX)_.  
 -->
 
 ## Submissions
@@ -80,51 +45,11 @@ TBA
 [https://easychair.org/conferences/?conf=coordination2024](https://easychair.org/conferences/?conf=coordination2024)
 -->
 
-### Publication
-Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the above submission dates and submissions are handled through the EasyChair conference management system, accessible from the above submission site.
-
-Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see [http://www.ifip.org/](http://www.ifip.org/) under Publications/Links). The submissions must not exceed the total page number limit (see below) prepared using [Springer’s LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Submissions not adhering to the above specified constraints may be rejected without review.
-
-<!--
-**NOTE**: a lightweight rebuttal will be introduced during the reviewing phase, allowing reviewers to ask for a quick rebuttal in case of a clearly identifiable issue that seems decisive for the review outcome and which can likely be quickly clarified by the authors. The rebuttal is only used when such questions arise, so not necessarily for all papers.
--->
-
-Submission categories:
+### Submission categories:
 * **Regular papers** (7-15 pages, not counting references and appendices): describing thorough and complete research results and experience reports. In a clear case of need, as an exception, authors may ask for permission via email to the PC co-chairs to exceed the paper’s max length by at most 10%, under the condition that last-minute shortening would really damage the clarity of the paper or result in non-submission. The authors must make a draft of the paper available to the PC co-chairs via EasyChair.
 * **Short papers** (4-6 pages, not counting references and appendices): describing research in progress, call for action, or opinion papers on the past of COORDINATION research, on the current state of the art, or on prospects for the years to come.
 * **Survey papers** (16-25 pages, not counting references and appendices): describing important results and success stories related to the topics of COORDINATION.
 * **Tool papers** (4-15 pages, not counting references and appendices): describing technological artefacts in the scope of the research topics of COORDINATION. Tool papers should provide a clear account of the tool's functionality, discuss the tool’s practical capabilities possibly with reference to the type and size of problems it can handle, and,when applicable, report on realistic case studies (possibly providing a rigorous experimental evaluation). Tool papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures. Papers that present extensions to existing tools should clearly describe the improvements or extensions with respect to previously published versions of the tool, possibly providing data on enhancements in terms of resources and capabilities. Papers may contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes length.
-
-### Artefacts
-Following [ACM's definition](https://www.acm.org/publications/policies/artifact-review-and-badging-current), an artefact is "a digital object that was either created by the authors to be used as part of the study or generated by the experiment itself. For example, artifacts can be software systems, scripts used to run experiments, input datasets, raw data collected in the experiment, or scripts used to analyze results".
-
-To improve and reward reproducibility and to give more visibility and credit to the effort of tool developers in the COORDINATION community, authors of submitted papers are invited to submit publicly available artefacts (using permanent repositories such as [Software Heritage](https://www.softwareheritage.org/howto-archive-and-reference-your-code/), [Zenodo](https://zenodo.org/), etc.), which will be associated with their paper for evaluation. Based on the result of the artefact evaluation, one or more badges may be applied to a paper. Specifically, COORDINATION uses the [EAPLS badging scheme)](https://eapls.org/pages/artifact_badges), which in its own turn is based on and consistent with the ACM initiative.
-
-Artefact submission is mandatory for tool papers and the result of the artefact evaluation will be considered in the tool paper’s acceptance decision. Instead, artefact submission is optional for all the other paper categories and the result of the artefact evaluation will not affect the paper’s acceptance decision but may affect the best paper selection.
-
-Dates (AoE): TBA
-
-<!--
-* Artefact submission: ~~February 29, 2024~~ March 8, 2024
-* Kick-the-tires phase:
-  - Problem reports from reviewers: ~~8 March, 2024~~ March 17 2024
-  - Authors' response to reviewers: ~~15 March, 2024~~ March 23 2024
-* Artefact notification: ~~March 29, 2024~~ April 5, 2024
--->
-
-Detailed information on artefact submission and evaluation is available [here](ae_coordination.md). 
-
-### Proceedings
-The conference proceedings, consisting of accepted submissions from any paper category, will be published by Springer in [LNCS-IFIP](https://www.springer.com/series/8345) volumes.
-
-<img src="lncs-logo.jpg" width="182" height="68"/>
-
-### Special issues
-After the conference, selected papers from COORDINATION and FORTE programmes (except for tool papers) will be invited to a special issue of the [Logical Methods in Computer Science](https://lmcs.episciences.org) journal.
-<!--
-The paper submission deadline is planned for October/November 2024, and the notifications for the first round of reviews around February 2025.
--->
-Selected tool papers, instead, will be invited to a special issue of a reputable journal with a track dedicated to software, like the Journal of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming).
 
 ### Proceedings and Special Issues from Previous Editions
 **Proceedings**
@@ -159,54 +84,13 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * [Saverio Giallorenzo](https://www.unibo.it/sitoweb/saverio.giallorenzo2/) (University of Bologna, Italy)
 
 ## Programme Committee
-* Giorgio Audrito (University of Turin, Italy)  
-* Laura Bocchi (University of Kent, UK)
-* Chiara	Bodei (University of Pisa, Italy)
-* Marcello Bonsangue (Leiden University, The Netherlands)
-* Silvia Crafa (University of Padova, Italy)
-* Cinzia Di Giusto (Université Côte d'Azur, France)
-* Paola Giannini (University of Piemonte Orientale, Italy)
-* Hannah Gommerstadt (Vassar College, USA)
-* Heerko	 Groefsema (University of Groningen, The Netherlands)
-* Thomas Hildebrandt (University of Copenhagen, Denmark)
-* Sung-Shik Jongmans (Open University of the Netherlands, The Netherlands)
-* Dimka	Karastoyanova (University of Groningen, The Netherlands)
-* Jean Krivine (IRIF, CNRS, France)
-* Eva Kühn (Vienna University of Technology, Austria) 
-* Roland Kuhn (Actyx, Germany)
-* Alberto Lluch Lafuente (Technical University of Denmark, Denmark) 
-* Antónia Lopes (University of Lisbon, Portugal)
-* Michele Loreti (University of Camerino, Italy)
-* Mieke Massink (CNR-ISTI, Italy)
-* Hernán Melgratti (University of Buenos Aires, Argentina)
-* Maurizio Murgia (Gran Sasso Science Institute, Italy)
-* Anna Philippou (University of Cyprus, Cyprus)
-* José Proença (University of Porto, Portugal)
-* Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
-* Barbara Re (University of Camerino, Italy)
-* Marjan Sirjani (Mälardalen University, Sweden)
-* Meng Sun (Peking University, China)
-* Carolyn Talcott (SRI International, USA)
-* Peter Thiemann (Universität Freiburg, Germany)
-* Mirko Viroli (University of Bologna, Italy) 
-* Franco Zambonelli (University of Modena and Reggio Emilia, Italy) 
+TBA
 
 ## Artefact Evaluation Committee chair
-* [Rumyana Neykova](https://www.brunel.ac.uk/people/rumyana-neykova) (Brunel University London, UK)
+TBA
 
 ## Artefact Evaluation Committee
-* Nour Ali (Brunel University London, UK)
-* Tiago Cogumbreiro (UMass Boston, USA)
-* Saverio Giallorenzo (University of Bologna, Italy)
-* Arwa Hameed (University of Glasgow, UK)
-* Keigo Imai (DeNA, Japan)
-* Omar Inverso (Gran Sasso Science Institute, Italy)
-* Doriana Medic (University of Turin, Italy)
-* Mário Pereira (NOVA School of Science and Technology, Portugal)
-* Lorenzo Rossi (University of Camerino, Italy)
-* Cristina Seceleanu( Mälardalen University, Sweden)
-* Felix Stutz (University of Luxembourg, Luxembourg)
-* Fangyi Zhou (Amazon, UK)
+TBA
 
 ## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
