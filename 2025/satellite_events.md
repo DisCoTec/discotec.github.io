@@ -1,5 +1,5 @@
 ---
-title: Satellites
+title: SATELLITES
 menu_show: true
 order: 4
 ---
