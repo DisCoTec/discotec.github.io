@@ -42,51 +42,11 @@ The main topics of interest include:
 
 ## Submission
 
-### Submission Guidelines
-Contributions must be written in English according to one of the three categories described below. Apart from journal-first papers, all papers should report on original, unpublished work, not submitted for publication elsewhere (cf. [IFIP codes of conduct](http://www.ifip.org/index.php?option=com_content&task=view&id=219&Itemid=564), under Links).
-
-Submissions must be prepared as a PDF using [Springer’s LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Submissions not adhering to the specified constraints of their respective category may be rejected without review.
-
 ### Categories of Papers
 All papers should be submitted in LNCS format. We solicit papers in the following categories:
 * __Regular papers__ (7-15 pages, not counting references): describing thorough and complete research results and experience reports. Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the Artefact Evaluation Committee, but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
 * __Tool papers__ (7-15 pages, not counting references): describing technological artefacts in the scope of the research topics of FORTE.  The paper should present the underlying theory of the tool, a clear account of the tool’s functionality and limitations, and include case studies (with rigorous experimental evaluation). In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee.  The paper must contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes, to be submitted until a week after the paper submission deadline.
 * __Short papers__ (up to 6 pages, not counting references): describing innovative and promising ideas, possibly in an early form, or demonstrating new tools (components), or presenting (i) calls to action, or (ii) substantiated reflections on current and/or future research perspectives related to FORTE, or a summary of a published journal paper clarifying why the presentation would enrich the program of FORTE.
-
-
-### Artefact Submission and Evalution Guidelines
-
-FORTE 2025 includes an artefact evaluation performed by the artefact evaluation committee (AEC). Refer to this [**page**](forte_ae.md) for additional details.
-
-<!--
-### Partial Rebuttal
-Some papers that raised doubts the reviewers would like to clarify to consider acceptance, will have 48h to respond to concrete questions. The responses will be taken into account during the PC discussions.
--->
-
-<!--
-## Keynote speakers
-
-* [Marieke Huisman](https://wwwhome.ewi.utwente.nl/~marieke/) (University of Twente, NL)
-* [Laura Kovács](http://lkovacs.com/) (Vienna University of Technology, AT)
-* [Paulo Veríssimo](https://www.kaust.edu.sa/en/study/faculty/paulo-verissimo) (KAUST, SA)
--->
-
-## Publication
-The conference proceedings, formed by accepted submissions from __any__ category, will be published by Springer as [volume 14678 of LNCS-IFIP](https://link.springer.com/book/10.1007/978-3-031-62645-6).
-
-<img src="lncs-logo.jpg" width="182" height="68"/>
-
-
-### Journal Special Issue
-After the conference, accepted papers (except for tool papers) selected from FORTE and COORDINATION programmes will be invited to a __journal special issue__ of the [Logical Methods in Computer Science](https://lmcs.episciences.org).
-
-<!--, with the following tentative schedule:
-* October/November 2024: deadline for the first submitted version;
-* February 2025: notification for the first round of reviews.-->
-
-Selected tool papers will be invited to a __journal special issue__ of [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/)'s [Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming). 
-<!-- a reputable journal with a track dedicated to software, like the Journal of--> 
-
 
 ### Submission Link
 
@@ -102,43 +62,7 @@ TBA
 * [Claudio A. Mezzina][ClaudioWeb] (University of Urbino, Italy)
 
 ## Program Committee Members
-* Duncan P. Attard (University of Glasgow, UK)
-* Giovanni Bernardi (Université Paris Cité, France)
-* Petra van den Bos (University of Twente, The Netherlands)
-* Silvia Crafa (University of Padova, Italy)
-* Carla Ferreira (Universidade Nova de Lisboa, Portugal)
-* Simon Fowler (University of Glasgow, UK)
-* Cinzia di Giusto (Université Cote D'Azure, CNRS, I3S, France)
-* Daniele Gorla (University of Rome La Sapienza, Italy)
-* Ross Horne (University of Strathclyde, UK)
-* Andreas Katis (KBR Inc. at NASA Ames Research Center, USA)
-* Wen Kokke (University of Strathclyde, UK)
-* Vasileios Koutavas (Trinity College Dublin, Ireland)
-* Peter Olveczky (University of Oslo, Norway)
-* Ana-Maria Oprescu (University of Amsterdam, The Netherlands)
-* Kirstin Perters (University of Augsburg, Germany)
-* Emanuele D'Osualdo (Max Planck Institute for Software Systems, Germany)
-* Anna Philippou (University of Cyprus, Cyprus)
-* Michela Quadrini (University of Camerino, Italy)
-* Anne Remke (WWU Munster, Germany)
-* Larisa Safina (INRIA – Lille Nord Europe, France)
-* Alceste Scalas (Technical University of Denmark, Denmark)
-* Simone Tini (University of Insubria, Italy)
-* Dmitriy Traytel (University of Copenhagen, Denmark)
-* Jana Wagemaker (Reykjavik University, Iceland)
-
-
-## Artefact Evaluation Committee Chair
-[Emilio Incerto](https://sysma.imtlucca.it/people/emilio-incerto) (emilio.incerto@imtlucca.it)
-
-
-## Artefact Evaluation Committee
-* Lennard Gäher, Max Planck Institute for Software Systems, Germany
-* Bas van den Heuvel, Karlsruhe University of Applied Sciences and University of Freiburg
-* Dominika Regéciová, Brno University of Technology
-* Felix Stutz, University of Luxembourg
-* Gerard Tabone, University of Malta
- 
+TBA 
 
 ## Steering committee
 * Ahmed Bouajjani (University Paris Diderot, France)
@@ -155,12 +79,6 @@ TBA
 * Nobuko Yoshida (Imperial College London, UK)
 * Heike Wehrheim (Paderborn University, Germany)
 * Tim Willemse (Eindhoven University of Technology, The Netherlands)
-
-
-<!--
-## More Information
-For additional information, please contact the Program Committee Co-chairs: forte2024 at easychair dot org
--->
 
 [CarlaWeb]: http://ctp.di.fct.unl.pt/~cf/
 [ClaudioWeb]: https://sites.google.com/view/claudio-mezzina/home
