@@ -7,8 +7,8 @@ order: 5
 ## Scientific Committees
 
 ### COORDINATION Program Committee Chairs
-* [Cinzia Di Giusto][CinziaWeb] (Université de Nice Sophia-Antipolis)
-* [António Ravara][AntonioWeb] (IST - Technical University of Lisbon)
+* [Cinzia Di Giusto][CinziaWeb] (Université de Nice Sophia-Antipolis, France)
+* [António Ravara][AntonioWeb] (IST - Technical University of Lisbon, Portugal)
 
 ### DAIS Program Committee Chairs
 * [Daniel Balouek][DanielWeb] (IMT Atlantique and INRIA, France)
@@ -19,10 +19,10 @@ order: 5
 * [Claudio A. Mezzina][ClaudioWeb] (University of Urbino, Italy)
 
 ### Artefact Evaluation Chairs
-* [Roberto Casadei][RobertoWeb] (University of Bologna, Italy), DisCoTec-wide Coordinating co-Chair
-* [Duncan Attard](https://duncanatt.github.io/) (University of Glasgow, UK), Coordination
-* [Emilio Incerto](https://sysma.imtlucca.it/people/emilio-incerto) (IMT School for Advanced Studies Lucca), FORTE
-* [Vinicius Cogo](https://www.di.fc.ul.pt/~vcogo/) (Ciências/ULisboa, Portugal), DAIS
+* [Roberto Casadei][RobertoWeb], DisCoTec-wide Coordinating co-Chair (University of Bologna, Italy)
+* [Duncan Attard](https://duncanatt.github.io/), Coordination (University of Glasgow, UK)
+* [Emilio Incerto](https://sysma.imtlucca.it/people/emilio-incerto), FORTE (IMT School for Advanced Studies Lucca, Italy)
+* [Vinicius Cogo](https://www.di.fc.ul.pt/~vcogo/), DAIS (Ciências/ULisboa, Portugal)
 
 
 ## Organizing Committee
@@ -31,13 +31,13 @@ order: 5
 * [Adrien Luxey-Bitri][AdrienWeb], Young Researchers Forum Chair (University of Lille, France)
 * Imen Sayar, Gender equality / Women in Science co-Chair (University of Lille, France)
 * [Manel Barkallah][ManelWeb], Gender equality / Women in Science co-Chair (University of Namur, Belgium)
-* [Bas van den Heuvel][BasWeb], Publicity co-Chair
-* [Matthew Alan Le Brun][MatthewWeb], Publicity co-Chair
+* [Bas van den Heuvel][BasWeb], Publicity co-Chair (University of Freiburg, Germany)
+* [Matthew Alan Le Brun][MatthewWeb], Publicity co-Chair (University of Glasgow, UK)
 * [Rémy Raes][RemyWeb], Head of student volunters (Inria Center of the University of Lille, France)
 
 ## Steering Committee 
 * Rocco De Nicola (IMT School for Advanced Studies Lucca, Italy)
-* Adrian Francalanza (University of Malta, Malta), Chair
+* Adrian Francalanza, Chair (University of Malta, Malta)
 * Kurt Geihs (University of Kassel, Germany)
 * Ivan Lanese (University of Bologna/INRIA, Italy)
 * Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
