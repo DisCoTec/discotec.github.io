@@ -1,5 +1,5 @@
 ---
-title: Committees
+title: COMMITTEES
 menu_show: true
 order: 5
 ---
