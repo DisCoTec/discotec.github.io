@@ -1,7 +1,7 @@
 ---
 title: SATELLITES
 menu_show: true
-order: 4
+order: 2
 ---
 
 # Satellite events
