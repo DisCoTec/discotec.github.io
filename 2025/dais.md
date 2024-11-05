@@ -76,7 +76,7 @@ Contributions should be submitted electronically as PDF, using the [Springer LNC
 TBA
 
 ## Program committee chairs
-* [Daniel Balouek][DanielWeb] (IMT Atlantique and INRIA, France)
+* [Daniel Balouek][DanielWeb] (Inria, France)
 * [Ibéria Medeiros][IberiaWeb] (University of Lisbon, Portugal)
 
 ## Program committee
