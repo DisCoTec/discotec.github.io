@@ -203,4 +203,12 @@ $spacing-unit:     $spacer-5;
   a {
     margin: 0 20px;
   }
+
+  @include media-query($on-palm) {
+    flex-wrap: wrap;
+
+    a {
+      margin: 15px 20px;
+    }
+  }
 }
