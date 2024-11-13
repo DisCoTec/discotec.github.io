@@ -38,14 +38,13 @@ order: 4
 ## Steering Committee 
 * Rocco De Nicola (IMT School for Advanced Studies Lucca, Italy)
 * Adrian Francalanza, Chair (University of Malta, Malta)
-* Kurt Geihs (University of Kassel, Germany)
 * Ivan Lanese (University of Bologna/INRIA, Italy)
 * Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
 * Mieke Massink (CNR-ISTI, Italy)
-* Elie Najm (Telecom Paris Tech, France)
-* Manuel Núñez (Universidad Complutense de Madrid, Spain)
 * Luís Veiga (INESC-ID, Universidade de Lisboa, Portugal)
 * Gianluigi Zavattaro (University of Bologna, Italy)
+* Carla Ferreira (NOVA University of Lisbon, Portugal)
+* Jorge A. Pérez (University of Groningen, The Netherlands)
 
 
 [CinziaWeb]: https://webusers.i3s.unice.fr/~cdigiusto/web/

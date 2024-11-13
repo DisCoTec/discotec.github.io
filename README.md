@@ -15,14 +15,13 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 ## Steering Committee
 * Gianluigi Zavattaro (University of Bologna, Italy)
 * Rocco De Nicola (IMT Lucca, Italy)
-* Kurt Geihs (University of Kasel, Germany)
-* Elie Najm (Telecom Paris Tech, France)
 * Mieke Massink (CNR, Italy)
 * Ivan Lanese (University of Bologna, Italy)
 * Luís Antunes Veiga (Technical University of Lisbon, Portugal)
-* Manuel Núñez (Universidad Complutense de Madrid, Spain)
 * Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
 * Adrian Francalanza (University of Malta)
+* Carla Ferreira (NOVA University of Lisbon, Portugal)
+* Jorge A. Pérez (University of Groningen, The Netherlands)
 
 ## Advisory board
 * Pascal Felber ( University of Neuchâtel, Switzerland)
