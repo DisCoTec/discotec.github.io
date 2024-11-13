@@ -43,10 +43,13 @@ The main topics of interest include:
 ## Submission
 
 ### Categories of Papers
+<!--
 All papers should be submitted in LNCS format. We solicit papers in the following categories:
 * __Regular papers__ (7-15 pages, not counting references): describing thorough and complete research results and experience reports. Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the Artefact Evaluation Committee, but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
 * __Tool papers__ (7-15 pages, not counting references): describing technological artefacts in the scope of the research topics of FORTE.  The paper should present the underlying theory of the tool, a clear account of the tool’s functionality and limitations, and include case studies (with rigorous experimental evaluation). In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee.  The paper must contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes, to be submitted until a week after the paper submission deadline.
 * __Short papers__ (up to 6 pages, not counting references): describing innovative and promising ideas, possibly in an early form, or demonstrating new tools (components), or presenting (i) calls to action, or (ii) substantiated reflections on current and/or future research perspectives related to FORTE, or a summary of a published journal paper clarifying why the presentation would enrich the program of FORTE.
+-->
+TBA
 
 ### Submission Link
 
