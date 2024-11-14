@@ -8,6 +8,15 @@ order: 3
 
 FORTE 2025 is one of the three conferences of [DisCoTec 2025](.), the 20th International Federated Conference on Distributed Computing Techniques.
 
+### Quick Links:
+* [Important Dates](https://www.discotec.org/2022/#important-dates)
+* [Topics of Interest](#main-topics-of-interest)
+* [Submission Categories](#submission-categories)
+* [Submission Link](#submission-link)
+* [Special Issue](#special-issue)
+* [Program Committee](#program-committee-chairs)
+* [Contact](#more-information)
+
 ## Topics of Interest
 FORTE 2025 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
 
