@@ -104,5 +104,8 @@ TBA
 * Heike Wehrheim (Paderborn University, Germany)
 * Tim Willemse (Eindhoven University of Technology, The Netherlands)
 
+## More Information
+<!--For additional information, please contact the Program Committee Co-chairs: forte2025 at easychair dot org -->
+
 [CarlaWeb]: http://ctp.di.fct.unl.pt/~cf/
 [ClaudioWeb]: https://sites.google.com/view/claudio-mezzina/home
