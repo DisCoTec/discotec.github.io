@@ -11,7 +11,7 @@ FORTE 2025 is one of the three conferences of [DisCoTec 2025](.), the 20th Inter
 ### Quick Links:
 * [Important Dates](https://www.discotec.org/2025/#important-dates)
 * [Topics of Interest](#main-topics-of-interest)
-* [Submission Categories](#submission-categories)
+* [Submission Categories](#categories-of-papers)
 * [Submission Link](#submission-link)
 * [Special Issue](#special-issue)
 * [Program Committee](#program-committee-chairs)
