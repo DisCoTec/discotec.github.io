@@ -83,6 +83,11 @@ TBA
 ## Program Committee Members
 TBA 
 
+## Artefact Evaluation Committee chair
+TBA
+
+## Artefact Evaluation Committee
+TBA
 ## Steering committee
 * Ahmed Bouajjani (University Paris Diderot, France)
 * Christel Baier (University Dresden, Germany)
