@@ -88,6 +88,7 @@ TBA
 
 ## Artefact Evaluation Committee
 TBA
+
 ## Steering committee
 * Ahmed Bouajjani (University Paris Diderot, France)
 * Christel Baier (University Dresden, Germany)
@@ -97,7 +98,7 @@ TBA
 * Einar Broch Johnsen (University of Oslo, Norway)
 * Ivan Lanese (University of Bologna/INRIA, Italy -- Chair)
 * Jorge A. Pérez (University of Groningen, The Netherlands)
-* Alexandra Silva (University College London, UK)
+* Alexandra Silva (Cornell University, USA)
 * Ana Sokolova (University of Salzburg, Austria)
 * Jean-Bernard Stefani (INRIA, France)
 * Nobuko Yoshida (Imperial College London, UK)
