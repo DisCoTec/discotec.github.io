@@ -101,7 +101,7 @@ TBA
 * Alexandra Silva (Cornell University, USA)
 * Ana Sokolova (University of Salzburg, Austria)
 * Jean-Bernard Stefani (INRIA, France)
-* Nobuko Yoshida (Imperial College London, UK)
+* Nobuko Yoshida (University of Oxford, UK)
 * Heike Wehrheim (Paderborn University, Germany)
 * Tim Willemse (Eindhoven University of Technology, The Netherlands)
 
