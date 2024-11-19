@@ -1,5 +1,5 @@
 ---
-title: DATES
+title: Dates
 menu_show: true
 order: 1
 ---

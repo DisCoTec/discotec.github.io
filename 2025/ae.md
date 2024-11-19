@@ -1,5 +1,5 @@
 ---
-title: ARTEFACTS
+title: Artefacts
 menu_show: true	
 order: 3
 ---
