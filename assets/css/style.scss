@@ -213,3 +213,11 @@ $spacing-unit:     $spacer-5;
     }
   }
 }
+
+img.keynote {
+  float: right;
+  width: 250px;
+}
+p:has(> img.keynote) {
+  overflow: auto;
+}
