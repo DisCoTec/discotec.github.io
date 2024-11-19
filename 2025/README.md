@@ -11,9 +11,9 @@ DisCoTec 2025 will take place in [Lille, France](venue), June 16-20, 2025, hoste
 DisCoTec 2025 will host the following keynote talks.
 [See here](keynote) for details.
 
-* Alysson Bessani;
-* Hélène Coullon;
-* Burcu Ozkan.
+* [Alysson Bessani](https://ciencias.ulisboa.pt/en/perfil/anbessani) (Universidade de Lisboa, Portugal)
+* [Hélène Coullon](http://helene-coullon.fr/) (IMT Atlantique, France)
+* [Burcu Ozkan](https://burcuku.github.io/home/) (TU Delft, The Netherlands)
 
 ## Further Information
 * Please contact the [general chair](mailto:simon.bliudze@inria.fr).
