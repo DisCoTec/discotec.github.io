@@ -14,11 +14,13 @@ DisCoTec gathers conferences that cover a broad spectrum of distributed computin
 
 ## Publication
 
-Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the above submission dates and submissions are handled through the EasyChair conference management system, accessible from the above submission site.
+Authors are invited to submit papers electronically in PostScript or PDF using a two-phase online submission process. Registration of the paper information and abstract (max. 250 words) must be completed according to the [submission dates](dates) and submissions are handled through the EasyChair conference management system (submission links are provided on the individual conference sites).
 
-Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see [http://www.ifip.org/](http://www.ifip.org/) under Publications/Links). The submissions must not exceed the total page number limit (see below) prepared using [Springer’s LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). Submissions not adhering to the above specified constraints may be rejected without review.
+Contributions must be written in English and report on original, unpublished work not submitted for publication elsewhere (cf. IFIP’s Author Code of Conduct, see [http://www.ifip.org/](http://www.ifip.org/) under Publications/Links). The submissions must not exceed the total page number limit defined by the corresponding conference. <!-- and prepared using [Springer’s LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). --> Submission style information will be provided shortly. Submissions not adhering to these constraints may be rejected without review.
 
 ### Proceedings
+TBA
+<!--
 The proceedings of the main conferences will be published as volumes in the [Springer LNCS-IFIP](https://www.springer.com/series/8345) series. 
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
@@ -26,7 +28,7 @@ The proceedings of the main conferences will be published as volumes in the [Spr
 The volumes will be **open access** from the [IFIP digital library](https://hal.inria.fr/IFIP/page/conferences) after a 3-year embargo.
 
 The proceedings are freely accessible for the duration of the conference.
-
+-->
 ### Journal Special Issues
 Selected papers accepted at the main conferences will be invited for submission to special issues in high-quality journals, such as:
 * [Logical Methods in Computer Science](https://lmcs.episciences.org) 
