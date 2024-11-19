@@ -2,6 +2,8 @@
 title: Keynote Talks
 ---
 
+# Keynote Talks
+
 DisCoTec 2025 will host keynote talks by [Alysson Bessani](#alysson-bessani), [Hélène Coullon](#hélène-coullon), and [Burcu Ozkan](#burcu-ozkan).
 
 ## [Alysson Bessani](https://ciencias.ulisboa.pt/en/perfil/anbessani) (Universidade de Lisboa, Portugal)
