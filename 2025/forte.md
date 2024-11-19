@@ -58,9 +58,17 @@ We solicit papers in the following categories:
 * __Tool papers__ (7-15 pages, not counting references): describing technological artefacts in the scope of the research topics of FORTE.  The paper should present the underlying theory of the tool, a clear account of the tool’s functionality and limitations, and include case studies (with rigorous experimental evaluation). In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee.  The paper must contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes, to be submitted until a week after the paper submission deadline.
 * __Short papers__ (up to 6 pages, not counting references): describing innovative and promising ideas, possibly in an early form, or demonstrating new tools (components), or presenting (i) calls to action, or (ii) substantiated reflections on current and/or future research perspectives related to FORTE, or a summary of a published journal paper clarifying why the presentation would enrich the program of FORTE.
 
+### Submission Link
+
+TBA
+
+<!--
+<https://easychair.org/conferences/?conf=forte2024>
+-->
+  
 ### Publication
 
-Publication of proceedings is coordinated among the three DisCoTec conferences (see the Conferences page for details). The FORTE proceedings will comprise accepted submissions from __all__ categories.
+Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details). The FORTE proceedings will comprise accepted submissions from __all__ categories.
 
 <!--
 The conference proceedings, formed by accepted submissions from __any__ category, will be published by Springer as an LNCS-IFIP volume.
@@ -71,15 +79,6 @@ The conference proceedings, formed by accepted submissions from __any__ category
 ### Special Issue
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
 
-
-### Submission Link
-
-TBA
-
-<!--
-<https://easychair.org/conferences/?conf=forte2024>
--->
-  
 
 ## Program Committee Chairs
 * [Carla Ferreira][CarlaWeb] (NOVA University of Lisbon, Portugal)
