@@ -57,15 +57,19 @@ System issues and design goals, including
 
 ## Submission and Publication
 
-All papers must be original, unpublished, and not submitted for publication elsewhere. DAIS 2025 offers three submission tracks:
+All papers must be original, unpublished, and not submitted for publication elsewhere. Each paper will undergo a thorough peer review by the Program Committee. DAIS 2025 offers three submission tracks:
 
 * Full research papers in no more than 15 pages + 2 pages references.
 * Full practical experience reports, including experimental and evaluation studies, case studies, and practice reports in no more than 15 pages + 2 pages references.
 * Work-in-progress papers, describing ongoing work and interim results, in no more than 6 pages + 2 pages references.
 
-Contributions should be submitted electronically as PDF via the conference [submission website](). Each paper will undergo a thorough peer review by the Program Committee. 
-
 Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details).
+
+### Submission Link
+
+<!-- Contributions should be submitted electronically as PDF via the conference [submission website](). -->
+
+TBA
 
 ## Program committee chairs
 * [Daniel Balouek][DanielWeb] (Inria, France)
