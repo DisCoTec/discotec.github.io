@@ -90,16 +90,19 @@ TBA
 TBA
 
 ## Steering committee
-* Christel Baier (University Dresden, Germany) 
+* Christel Baier (University Dresden, Germany)
+* Valentina Castiglioni (Eindhoven University of Technology, The Netherlands) 
+* Adrian Francalanza (University of Malta, Malta)
+* Marieke Huisman (University of Twente, The Netherlands)
+* Ivan Lanese (University of Bologna/INRIA, Italy – Chair)
 * Jorge A. Pérez (University of Groningen, The Netherlands) 
-* Jean-Bernard Stefani (INRIA, France)
-* Nobuko Yoshida (University of Oxford, UK) 
 * Kirstin Peters (Technical University of Darmstadt, Germany) 
 * Anna Philippou (University of Ciprus, Ciprus)
 * Antonio Ravara (NOVA University of Lisbon, Portugal)
-* Marieke Huisman (University of Twente, The Netherlands)
-* Adrian Francalanza (University of Malta, Malta)
-* Valentina Castiglione (Eindhoven University of Technology, The Netherlands) 
+* Jean-Bernard Stefani (INRIA, France)
+* Nobuko Yoshida (University of Oxford, UK) 
+
+
 
 ## More Information
 <!--For additional information, please contact the Program Committee Co-chairs: forte2025 at easychair dot org -->
