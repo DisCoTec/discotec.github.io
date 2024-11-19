@@ -90,20 +90,16 @@ TBA
 TBA
 
 ## Steering committee
-* Ahmed Bouajjani (University Paris Diderot, France)
-* Christel Baier (University Dresden, Germany)
-* Frank de Boer (CWI, Netherlands)
-* Luís Caires (Universidade Nova de Lisboa, Portugal)
-* Alexey Gotsman (IMDEA Software Institute, Spain)
-* Einar Broch Johnsen (University of Oslo, Norway)
-* Ivan Lanese (University of Bologna/INRIA, Italy -- Chair)
-* Jorge A. Pérez (University of Groningen, The Netherlands)
-* Alexandra Silva (Cornell University, USA)
-* Ana Sokolova (University of Salzburg, Austria)
+* Christel Baier (University Dresden, Germany) 
+* Jorge A. Pérez (University of Groningen, The Netherlands) 
 * Jean-Bernard Stefani (INRIA, France)
-* Nobuko Yoshida (University of Oxford, UK)
-* Heike Wehrheim (Paderborn University, Germany)
-* Tim Willemse (Eindhoven University of Technology, The Netherlands)
+* Nobuko Yoshida (University of Oxford, UK) 
+* Kirstin Peters (Technical University of Darmstadt, Germany) 
+* Anna Philippou (University of Ciprus, Ciprus)
+* Antonio Ravara (NOVA University of Lisbon, Portugal)
+* Marieke Huisman (University of Twente, The Netherlands)
+* Adrian Francalanza (University of Malta, Malta)
+* Valentina Castiglione (Eindhoven University of Technology, The Netherlands) 
 
 ## More Information
 <!--For additional information, please contact the Program Committee Co-chairs: forte2025 at easychair dot org -->
