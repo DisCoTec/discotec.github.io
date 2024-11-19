@@ -52,14 +52,7 @@ System issues and design goals, including
 
 ### Regular papers
 
-* Rémy Raes, Olivier Ruas, Adrien Luxey and Romain Rouvoy. _Compact Storage of Data Streams in Mobile Devices_.
-* Enrico Tedeschi, Øyvind Nohr, Håvard Dafenborg and Dag Johansen. _Mining Profitability in Bitcoin: Calculations of User-Miner Equilibria and Cost of Mining_.
-* Claudia-Lavinia Ignat, Victorien Elvinger and Habibatou Ba. _A CRDT for Replicated Relational Databases with Integrity Constraints_.
-* Luís Alves and Luís Veiga. _Stream Economics: Resource Efficiency in Streams with Task Over-Allocation and Load Shedding_.
-
 ### Short papers
-
-* Amir Javadpour, Forough Ja'Fari and Tarik Taleb. _Encryption as a Service: A Review of Architectures and Taxonomies_.
 -->
 
 ## Submission and Publication
@@ -70,10 +63,9 @@ All papers must be original, unpublished, and not submitted for publication else
 * Full practical experience reports, including experimental and evaluation studies, case studies, and practice reports in no more than 15 pages + 2 pages references.
 * Work-in-progress papers, describing ongoing work and interim results, in no more than 6 pages + 2 pages references.
 
-Contributions should be submitted electronically as PDF, using the [Springer LNCS style](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) to the conference submission website. Each paper will undergo a thorough process of peer reviews by the Program Committee. Reviewing is single-blind: author name(s) should appear.
+Contributions should be submitted electronically as PDF via the conference [submission website](). Each paper will undergo a thorough peer review by the Program Committee. 
 
-## Submission link
-TBA
+Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details).
 
 ## Program committee chairs
 * [Daniel Balouek][DanielWeb] (Inria, France)
