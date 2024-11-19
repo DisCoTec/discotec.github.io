@@ -47,7 +47,7 @@ TBA
 
 ### Submission categories:
 * **Regular papers** (7-15 pages, not counting references and appendices): describing thorough and complete research results and experience reports. In a clear case of need, as an exception, authors may ask for permission via email to the PC co-chairs to exceed the paper’s max length by at most 10%, under the condition that last-minute shortening would really damage the clarity of the paper or result in non-submission. The authors must make a draft of the paper available to the PC co-chairs via EasyChair.
-* **Short papers** (4-6 pages, not counting references and appendices): describing research in progress, call for action, or opinion papers on the past of COORDINATION research, on the current state of the art, or on prospects for the years to come.
+ <!-- * **Short papers** (4-6 pages, not counting references and appendices): describing research in progress, call for action, or opinion papers on the past of COORDINATION research, on the current state of the art, or on prospects for the years to come.-->
 * **Survey papers** (16-25 pages, not counting references and appendices): describing important results and success stories related to the topics of COORDINATION.
 * **Tool papers** (4-15 pages, not counting references and appendices): describing technological artefacts in the scope of the research topics of COORDINATION. Tool papers should provide a clear account of the tool's functionality, discuss the tool’s practical capabilities possibly with reference to the type and size of problems it can handle, and,when applicable, report on realistic case studies (possibly providing a rigorous experimental evaluation). Tool papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures. Papers that present extensions to existing tools should clearly describe the improvements or extensions with respect to previously published versions of the tool, possibly providing data on enhancements in terms of resources and capabilities. Papers may contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes length.
 
@@ -70,15 +70,15 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 * Selected Papers of Coordination 2022, Special Issue of Logical Methods in Computer Science, edited by Maurice ter Beek and Marjan Sirjani. Available at: [https://lmcs.episciences.org/volume/view/id/654](https://lmcs.episciences.org/volume/view/id/654)
 
-* Selected Software Artefacts from the Papers of DisCoTec 2022 - 18th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming, edited by Ferruccio Damiani, David Eyers and Anna Philippou. In preparation.
+* Selected Software Artefacts from the Papers of DisCoTec 2022 - 17th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming, edited by Ferruccio Damiani, David Eyers and Anna Philippou. Available at: [https://www.sciencedirect.com/special-issue/10CVGJGQP0Z](https://www.sciencedirect.com/special-issue/10CVGJGQP0Z).
 
 * Selected Papers of Coordination and Forte 2023, Special Issue of Logical Methods in Computer Science, edited by Marieke Huisman, Sung-Shik Jongmans, Antónia Lopes, and António Ravara. In preparation.
 
 * Selected Software Artefacts from the Papers of DisCoTec 2023 - 18th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. In preparation.
 
 ## Programme Committee co-chairs
-* [Cinzia Di Giusto][CinziaWeb] (Université de Nice Sophia-Antipolis)
-* [António Ravara][AntonioWeb] (IST - Technical University of Lisbon)
+* [Cinzia Di Giusto][CinziaWeb] (Université Côte d'Azur)
+* [António Ravara][AntonioWeb] (NOVA School of Science and Technology)
 
 ## Publicity chair
 * [Saverio Giallorenzo](https://www.unibo.it/sitoweb/saverio.giallorenzo2/) (University of Bologna, Italy)
@@ -122,4 +122,4 @@ TBA
 * Gianluigi Zavattaro (Università di Bologna, Italy)
 
 [CinziaWeb]: https://webusers.i3s.unice.fr/~cdigiusto/web/
-[AntonioWeb]: http://ctp.di.fct.unl.pt/~aravara/
+[AntonioWeb]: https://nova-lincs.di.fct.unl.pt/people/?pid=411
