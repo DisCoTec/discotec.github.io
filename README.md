@@ -9,7 +9,7 @@ It gathers three main conferences:
 Together, these conferences cover a broad spectrum of distributed computing subjects, ranging from theoretical foundations and formal description techniques to systems research issues.
 
 
-**\> DisCoTec 2025** will take place in Lille, France.
+**\> [DisCoTec 2025](2025)** will take place in Lille, France.
 
 
 ## Steering Committee
