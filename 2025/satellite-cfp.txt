@@ -1,0 +1,58 @@
+************************************************************************
+
+ Call for Satellite Events (Workshops / Tutorials)
+
+ 20th International Federated Conference on Distributed Computing Techniques
+ 
+ DisCoTec 2025
+ 
+ Lille, France, 16-20 June 2025
+ 
+ https://www.discotec.org/2025
+
+************************************************************************
+
+DisCoTec 2025 is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS). It gathers conferences and satellite events that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+
+
+* Main Conferences *
+ 
+  - COORDINATION (https://www.discotec.org/2025/coordination)
+    27rd International Conference on Coordination Models and Languages
+    PC Chairs: Cinzia Di Giusto (Université Côte d’Azur, FR) and António Ravara (NOVA School of Science and Technology, PT)
+ 
+  - DAIS (https://www.discotec.org/2025/dais)
+    25st International Conference on Distributed Applications and Interoperable Systems
+    PC Chairs: Daniel Balouek (INRIA, FR) and Ibéria Medeiros (University of Lisbon, PT)
+
+  - FORTE (https://www.discotec.org/2025/forte)
+    45st International Conference on Formal Techniques for Distributed Objects, Components and Systems
+    PC Chairs: Carla Ferreira (NOVA University of Lisbon, PT) and Claudio A. Mezzina (University of Urbino, IT)
+
+
+* Satellite Events *
+
+The DisCoTec 2025 organising committee invites proposals for satellite events to complement the three main conferences. The aim is to provide a vivid and open forum for discussions, presentations of preliminary research results and ongoing work, as well as presentations of research work to a focussed audience.
+
+The satellite events will be held in conjunction with the main events. Prospective satellite event chairs should contact the organisers and provide the following information:
+  - the name and the preferred date of the proposed satellite event (June 16 or 20, 2025);
+  - a short description of the satellite event (up to 300 words);
+  - if applicable, a description of past editions of the satellite event, including dates, organizers, submission and acceptance counts, and attendance;
+  - the name and short CV of the organizer(s);
+  - the expected number of participants;
+  - for tutorials: the DisCoTec conference most related to the proposed tutorial (COORDINATION, DAIS, FORTE);
+  - for workshops: the publication plan (only invited speakers, no published proceedings, pre-/post-proceedings published with EPTCS/ENTCS/...).
+
+Important dates (for all workshops):
+  - February 10, 2025: proposal submission deadline
+  - March 1, 2025: Notification of accepted satellite events
+  - Mid April, 2025: Paper submission deadline
+  - Mid May, 2025: Notification of accepted papers
+  - June 16 or 20, 2025: Satellite events
+
+The submission and notification deadlines of the satellite events are at the discretion of the individual event chairs. However, the notification must be no later than the early registration deadline for DisCoTec 2025 (to be announced).
+
+
+* DisCoTec 2025 Satellite Events Chair *
+
+  - Larisa Safina (INRIA, FR), discotec-satellite@inria.fr
