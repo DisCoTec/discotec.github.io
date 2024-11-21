@@ -41,4 +41,4 @@ Proposals of satellite events should include:
 
 ## How to Apply
 
-Please send your proposals to the workshops and tutorials co-chairs [Satellite Events chair](mailto:discotec-satellite@inria.fr).
+Please send your proposals to the [Satellite Events chair](mailto:discotec-satellite@inria.fr).
