@@ -67,9 +67,15 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 
 ### Submission Link
 
-<!-- Contributions should be submitted electronically as PDF via the conference [submission website](). -->
-
 TBA
+
+### Publication
+
+Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details). The FORTE proceedings will comprise accepted submissions from __all__ categories.
+
+The conference proceedings, formed by accepted submissions from __any__ category, will be published by Springer as an LNCS-IFIP volume.
+
+<img src="lncs-logo.jpg" width="182" height="68"/>
 
 ## Program committee chairs
 * [Daniel Balouek][DanielWeb] (Inria, France)
