@@ -71,9 +71,7 @@ TBA
 
 ### Publication
 
-Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details). The DAIS proceedings will comprise accepted submissions from __all__ categories.
-
-The conference proceedings, formed by accepted submissions from __any__ category, will be published by Springer as an LNCS-IFIP volume.
+Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details). The DAIS proceedings will be published by Springer as an LNCS-IFIP volume and will comprise accepted submissions from __all__ categories.
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
