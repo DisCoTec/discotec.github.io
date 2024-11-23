@@ -61,20 +61,14 @@ We solicit papers in the following categories:
 ### Submission Link
 
 TBA
-
-<!--
-<https://easychair.org/conferences/?conf=forte2024>
--->
   
 ### Publication
 
 Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details). The FORTE proceedings will comprise accepted submissions from __all__ categories.
 
-<!--
 The conference proceedings, formed by accepted submissions from __any__ category, will be published by Springer as an LNCS-IFIP volume.
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
--->
 
 ### Special Issue
 Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
