@@ -47,6 +47,14 @@ Go to the [list of accepted papers](https://www.discotec.org/2024/accepted-paper
 
 TBA
 
+### Publication
+
+Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details). The COORDINATION proceedings will comprise accepted submissions from __all__ categories.
+
+The conference proceedings, formed by accepted submissions from __any__ category, will be published by Springer as an LNCS-IFIP volume.
+
+<img src="lncs-logo.jpg" width="182" height="68"/>
+
 ### Proceedings and Special Issues from Previous Editions
 **Proceedings**
 The proceedings of previous editions of COORDINATION are available on [SpringerLink](https://link.springer.com/conference/coordination)
