@@ -216,7 +216,14 @@ $spacing-unit:     $spacer-5;
 
 img.keynote {
   float: right;
-  width: 250px;
+  /*width: 250px;*/
+  width: 20%;
+  margin: 0 20px;
+
+  @include media-query($on-palm) {
+    width: 50%;
+    margin: 20px;
+  }
 }
 p:has(> img.keynote) {
   overflow: auto;
