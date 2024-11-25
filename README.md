@@ -2,17 +2,17 @@
 
 The DisCoTec series of federated conferences is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)).
 It gathers three main conferences:
+
 * [Coordination](/2025/coordination) (IFIP WG6.1 International Conference on Coordination Models and Languages)
 * [DAIS](/2025/dais) (IFIP WG6.1 International Conference on Distributed Applications and Interoperable Systems)
 * [FORTE](/2025/forte) (IFIP WG6.1 International Conference on Formal Techniques for Distributed Objects, Components, and Systems)
 
 Together, these conferences cover a broad spectrum of distributed computing subjects, ranging from theoretical foundations and formal description techniques to systems research issues.
 
-
 **\> [DisCoTec 2025](2025)** will take place in Lille, France.
 
-
 ## Steering Committee
+
 * Gianluigi Zavattaro (University of Bologna, Italy)
 * Rocco De Nicola (IMT Lucca, Italy)
 * Mieke Massink (CNR, Italy)
@@ -24,6 +24,7 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 * Jorge A. Pérez (University of Groningen, The Netherlands)
 
 ## Advisory board
+
 * Pascal Felber ( University of Neuchâtel, Switzerland)
 * Alain Girault (INRIA Grenoble, France)
 * Kostas Magoutis (ICS-FORTH, Greece)
@@ -38,8 +39,8 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 * Rui Oliveira (University of Minho, Portugal)
 * Jean-Bernard Stefani (INRIA Grenoble, France)
 
-
 ## DisCoTec editions
+
 * [DisCoTec 2025](/2025/) - Lille, France
 * [DisCoTec 2024](/2024/) - Groningen, The Netherlands
 * [DisCoTec 2023](/2023/) - Lisbon, Portugal

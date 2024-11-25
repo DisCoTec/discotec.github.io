@@ -17,8 +17,39 @@
 
 DisCoTec 2025 is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS). It gathers conferences and satellite events that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
 
+DisCoTec 2025 is organised by Inria Lille and the University of Lille. It will be hosted by Polytech Lille.
 
-Subject to budget availability, we are planning to make special logistical arrangements for conference participants travelling with young children (and potentially accompanying persons). We invite interested persons to contact the General Chair, Simon Bliudze (https://www.bliudze.me/simon), as soon as possible to discuss the arrangements that might be applicable.
+* NEW: Accommodations for parents of young children *
+
+Subject to budget availability, we are planning to make special logistical arrangements for conference participants travelling with young children (and potentially accompanying persons). We invite interested persons to contact the General Chair (simon.bliudze@inria.fr), as soon as possible to discuss the arrangements that might be applicable.
+
+
+* Keynote Speakers *
+
+  - Alysson Bessani (Universidade de Lisboa, Portugal)
+
+  - Hélène Coullon (IMT Atlantique, France)
+
+  - Burcu Ozkan (TU Delft, The Netherlands)
+
+  - 4th speaker TBA
+
+
+* Important Dates (for all main conferences) *
+
+  All deadlines expire at 23:59 anywhere on earth.
+
+  - Abstract submission: 31 January 2025
+
+  - Paper submission: 7 February 2025
+
+  - Paper notification: 28 March 2025
+
+  - Camera-ready: 23 April 2025 (TBC)
+
+  - DisCoTec conference: 16-20 June 2025
+
+  See each conference site for topics of interest, paper categories, and submission instructions.
 
 
 * Main Conferences *
@@ -47,37 +78,9 @@ Subject to budget availability, we are planning to make special logistical arran
   - FORTE: Emilio Incerto (IMT School for Advanced Studies Lucca, Italy)
 
 
-* Keynote Speakers *
-
-  - Alysson Bessani (Universidade de Lisboa, Portugal)
-
-  - Hélène Coullon (IMT Atlantique, France)
-
-  - Burcu Ozkan (TU Delft, The Netherlands)
-
-
-* Important Dates (for all main conferences) *
-
-  All deadlines expire at 23:59 anywhere on earth.
-
-  - Abstract submission: 31 January 2025
-
-  - Paper submission: 7 February 2025
-
-  - Paper notification: 28 March 2025
-
-  - Camera-ready: 23 April 2025 (TBC)
-
-  - DisCoTec conference:  16-20 June 2025
-
-  See each conference site for topics of interest, paper categories, and submission instructions.
-
-
 * Proceedings *
 
-  Main conference proceedings will be published as volumes in the Springer LNCS-IFIP series.
-
-  The volumes will be open access from the IFIP digital library after a 3-year embargo.
+  Main conference proceedings will be published as volumes in the Springer LNCS-IFIP series.  The volumes will be open access from the IFIP digital library after a 3-year embargo.
 
 
 * Journal Special Issues *
@@ -87,3 +90,27 @@ Subject to budget availability, we are planning to make special logistical arran
   - Logical Methods in Computer Science
 
   - Science of Computer Programming (Software Track).
+
+
+* Organizing Committee *
+
+- Simon Bliudze, General Chair (Inria Center at the University of Lille, France)
+- Larisa Safina, Satellite Events Chair (Inria Center at the University of Lille, France)
+- Adrien Luxey-Bitri, Young Researchers Forum Chair (University of Lille, France)
+- Imen Sayar, Gender equality / Women in Science co-Chair (University of Lille, France)
+- Manel Barkallah, Gender equality / Women in Science co-Chair (University of Namur, Belgium)
+- Bas van den Heuvel, Publicity co-Chair (University of Freiburg, Germany)
+- Matthew Alan Le Brun, Publicity co-Chair (University of Glasgow, UK)
+- Rémy Raes, Head of student volunters (Inria Center at the University of Lille, France)
+
+* Steering Committee *
+
+- Rocco De Nicola (IMT School for Advanced Studies Lucca, Italy)
+- Adrian Francalanza (University of Malta, Malta; Chair)
+- Ivan Lanese (University of Bologna/INRIA, Italy)
+- Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
+- Mieke Massink (CNR-ISTI, Italy)
+- Luís Veiga (INESC-ID, Universidade de Lisboa, Portugal)
+- Gianluigi Zavattaro (University of Bologna, Italy)
+- Carla Ferreira (NOVA University of Lisbon, Portugal)
+- Jorge A. Pérez (University of Groningen, The Netherlands)
