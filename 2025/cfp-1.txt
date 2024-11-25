@@ -1,0 +1,89 @@
+[Apologies for multiple postings]
+************************************************************************
+
+ Joint Call for Papers
+
+ DisCoTec 2025
+
+ 20th International Federated Conference on Distributed Computing Techniques
+
+ Lille, France, 16-20 June 2025
+
+ Submission deadline: 7 February 2025
+
+ https://www.discotec.org/2025
+
+************************************************************************
+
+DisCoTec 2025 is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS). It gathers conferences and satellite events that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+
+
+Subject to budget availability, we are planning to make special logistical arrangements for conference participants travelling with young children (and potentially accompanying persons). We invite interested persons to contact the General Chair, Simon Bliudze (https://www.bliudze.me/simon), as soon as possible to discuss the arrangements that might be applicable.
+
+
+* Main Conferences *
+
+  - COORDINATION (https://www.discotec.org/2025/coordination)
+    27rd International Conference on Coordination Models and Languages
+    PC Chairs: Cinzia Di Giusto (Université Côte d’Azur, FR) and António Ravara (NOVA School of Science and Technology, PT)
+
+  - DAIS (https://www.discotec.org/2025/dais)
+    25st International Conference on Distributed Applications and Interoperable Systems
+    PC Chairs: Daniel Balouek (INRIA, FR) and Ibéria Medeiros (University of Lisbon, PT)
+
+  - FORTE (https://www.discotec.org/2025/forte)
+    45st International Conference on Formal Techniques for Distributed Objects, Components and Systems
+    PC Chairs: Carla Ferreira (NOVA University of Lisbon, PT) and Claudio A. Mezzina (University of Urbino, IT)
+
+
+* Artefact Evaluation Chairs *
+
+  - DisCoTec-wide: Roberto Casadei (University of Bologna, Italy)
+
+  - COORDINATION: Duncan Attard (University of Glasgow, UK)
+
+  - DAIS: Vinicius Cogo (Ciências/ULisboa, Portugal)
+
+  - FORTE: Emilio Incerto (IMT School for Advanced Studies Lucca, Italy)
+
+
+* Keynote Speakers *
+
+  - Alysson Bessani (Universidade de Lisboa, Portugal)
+
+  - Hélène Coullon (IMT Atlantique, France)
+
+  - Burcu Ozkan (TU Delft, The Netherlands)
+
+
+* Important Dates (for all main conferences) *
+
+  All deadlines expire at 23:59 anywhere on earth.
+
+  - Abstract submission: 31 January 2025
+
+  - Paper submission: 7 February 2025
+
+  - Paper notification: 28 March 2025
+
+  - Camera-ready: 23 April 2025 (TBC)
+
+  - DisCoTec conference:  16-20 June 2025
+
+  See each conference site for topics of interest, paper categories, and submission instructions.
+
+
+* Proceedings *
+
+  Main conference proceedings will be published as volumes in the Springer LNCS-IFIP series.
+
+  The volumes will be open access from the IFIP digital library after a 3-year embargo.
+
+
+* Journal Special Issues *
+
+  Selected papers accepted at the main conferences will be invited for submission to special issues in high-quality journals, such as:
+
+  - Logical Methods in Computer Science
+
+  - Science of Computer Programming (Software Track).
