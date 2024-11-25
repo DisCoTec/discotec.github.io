@@ -1,4 +1,5 @@
 [Apologies for multiple postings]
+
 ************************************************************************
 
  Joint Call for Papers
@@ -23,12 +24,12 @@ DisCoTec 2025 is one of the major events sponsored by the International Federati
 
 DisCoTec 2025 is organised by Inria Lille and the University of Lille. It will be hosted by Polytech Lille.
 
-* NEW: Accommodations for parents of young children *
+## NEW: Accommodations for parents of young children
 
 Subject to budget availability, we are planning to make special logistical arrangements for conference participants travelling with young children (and potentially accompanying persons). We invite interested persons to contact the General Chair (simon.bliudze@inria.fr), as soon as possible to discuss the arrangements that might be applicable.
 
 
-* Keynote Speakers *
+## Keynote Speakers
 
   - Alysson Bessani (Universidade de Lisboa, Portugal)
 
@@ -38,8 +39,16 @@ Subject to budget availability, we are planning to make special logistical arran
 
   - 4th speaker TBA
 
+# Main Conferences
+DisCoTec gathers conferences that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches:
 
-* Important Dates (for all main conferences) *
+* [COORDINATION 2025](coordination) - International Conference on Coordination Models and Languages
+* [DAIS 2025](dais) - International Conference on Distributed Applications and Interoperable Systems
+* [FORTE 2025](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+
+
+
+## Important Dates (for all main conferences)
 
   All deadlines expire at 23:59 anywhere on earth.
 
@@ -49,14 +58,14 @@ Subject to budget availability, we are planning to make special logistical arran
 
   - Paper notification: 28 March 2025
 
-  - Camera-ready: 23 April 2025 (TBC)
+  - Camera-ready: 23 April 2025
 
   - DisCoTec conference: 16-20 June 2025
 
   See each conference site for topics of interest, paper categories, and submission instructions.
 
 
-* Main Conferences *
+## Main Conferences
 
   - COORDINATION (https://www.discotec.org/2025/coordination)
     27rd International Conference on Coordination Models and Languages
@@ -71,7 +80,7 @@ Subject to budget availability, we are planning to make special logistical arran
     PC Chairs: Carla Ferreira (NOVA University of Lisbon, PT) and Claudio A. Mezzina (University of Urbino, IT)
 
 
-* Artefact Evaluation Chairs *
+## Artefact Evaluation Chairs
 
   - DisCoTec-wide: Roberto Casadei (University of Bologna, Italy)
 
@@ -82,12 +91,12 @@ Subject to budget availability, we are planning to make special logistical arran
   - FORTE: Emilio Incerto (IMT School for Advanced Studies Lucca, Italy)
 
 
-* Proceedings *
+## Proceedings
 
   Main conference proceedings will be published as volumes in the Springer LNCS-IFIP series.  The volumes will be open access from the IFIP digital library after a 3-year embargo.
 
 
-* Journal Special Issues *
+## Journal Special Issues
 
   Selected papers accepted at the main conferences will be invited for submission to special issues in high-quality journals, such as:
 
@@ -96,7 +105,7 @@ Subject to budget availability, we are planning to make special logistical arran
   - Science of Computer Programming (Software Track).
 
 
-* Organizing Committee *
+## Organizing Committee
 
 - Simon Bliudze, General Chair (Inria Center at the University of Lille, France)
 - Larisa Safina, Satellite Events Chair (Inria Center at the University of Lille, France)
@@ -107,7 +116,7 @@ Subject to budget availability, we are planning to make special logistical arran
 - Matthew Alan Le Brun, Publicity co-Chair (University of Glasgow, UK)
 - Rémy Raes, Head of student volunters (Inria Center at the University of Lille, France)
 
-* Steering Committee *
+## Steering Committee
 
 - Rocco De Nicola (IMT School for Advanced Studies Lucca, Italy)
 - Adrian Francalanza (University of Malta, Malta; Chair)
