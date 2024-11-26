@@ -23,9 +23,10 @@ DisCoTec 2025 is one of the major events sponsored by the International Federati
 
 DisCoTec 2025 is organised by Inria Lille and the University of Lille. It will be hosted by Polytech Lille.
 
+
 * NEW: Accommodations for parents of young children *
 
-Subject to budget availability, we are planning to make special logistical arrangements for conference participants travelling with young children (and potentially accompanying persons). We invite interested persons to contact the General Chair (simon.bliudze@inria.fr), as soon as possible to discuss the arrangements that might be applicable.
+  Subject to budget availability, we are planning to make special logistical arrangements for conference participants travelling with young children (and potentially accompanying persons). We invite interested persons to contact the General Chair (simon.bliudze@inria.fr), as soon as possible to discuss the arrangements that might be applicable.
 
 
 * Keynote Speakers *
@@ -84,7 +85,7 @@ Subject to budget availability, we are planning to make special logistical arran
 
 * Proceedings *
 
-  Main conference proceedings will be published as volumes in the Springer LNCS-IFIP series.  The volumes will be open access from the IFIP digital library after a 3-year embargo.
+  Main conference proceedings will be published as volumes in the Springer LNCS-IFIP series. The volumes will be open access from the IFIP digital library after a 3-year embargo.
 
 
 * Journal Special Issues *
@@ -98,23 +99,24 @@ Subject to budget availability, we are planning to make special logistical arran
 
 * Organizing Committee *
 
-- Simon Bliudze, General Chair (Inria Center at the University of Lille, France)
-- Larisa Safina, Satellite Events Chair (Inria Center at the University of Lille, France)
-- Adrien Luxey-Bitri, Young Researchers Forum Chair (University of Lille, France)
-- Imen Sayar, Gender equality / Women in Science co-Chair (University of Lille, France)
-- Manel Barkallah, Gender equality / Women in Science co-Chair (University of Namur, Belgium)
-- Bas van den Heuvel, Publicity co-Chair (University of Freiburg, Germany)
-- Matthew Alan Le Brun, Publicity co-Chair (University of Glasgow, UK)
-- Rémy Raes, Head of student volunters (Inria Center at the University of Lille, France)
+  - Simon Bliudze, General Chair (Inria Center at the University of Lille, France)
+  - Larisa Safina, Satellite Events Chair (Inria Center at the University of Lille, France)
+  - Adrien Luxey-Bitri, Young Researchers Forum Chair (University of Lille, France)
+  - Imen Sayar, Gender equality / Women in Science co-Chair (University of Lille, France)
+  - Manel Barkallah, Gender equality / Women in Science co-Chair (University of Namur, Belgium)
+  - Bas van den Heuvel, Publicity co-Chair (University of Freiburg, Germany)
+  - Matthew Alan Le Brun, Publicity co-Chair (University of Glasgow, UK)
+  - Rémy Raes, Head of student volunters (Inria Center at the University of Lille, France)
+
 
 * Steering Committee *
 
-- Rocco De Nicola (IMT School for Advanced Studies Lucca, Italy)
-- Adrian Francalanza (University of Malta, Malta; Chair)
-- Ivan Lanese (University of Bologna/INRIA, Italy)
-- Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
-- Mieke Massink (CNR-ISTI, Italy)
-- Luís Veiga (INESC-ID, Universidade de Lisboa, Portugal)
-- Gianluigi Zavattaro (University of Bologna, Italy)
-- Carla Ferreira (NOVA University of Lisbon, Portugal)
-- Jorge A. Pérez (University of Groningen, The Netherlands)
+  - Rocco De Nicola (IMT School for Advanced Studies Lucca, Italy)
+  - Adrian Francalanza (University of Malta, Malta; Chair)
+  - Ivan Lanese (University of Bologna/INRIA, Italy)
+  - Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
+  - Mieke Massink (CNR-ISTI, Italy)
+  - Luís Veiga (INESC-ID, Universidade de Lisboa, Portugal)
+  - Gianluigi Zavattaro (University of Bologna, Italy)
+  - Carla Ferreira (NOVA University of Lisbon, Portugal)
+  - Jorge A. Pérez (University of Groningen, The Netherlands)
