@@ -9,14 +9,14 @@ AISWorld,aisworld@lists.aisnet.org,https://lists.aisnet.org/mailman/listinfo/ais
 IE-Announce,announce@informatics-europe.org,http://lists.informatics-europe.org/mailman/listinfo/announce,Sub,
 GDR I3,bull-i3@irit.fr,https://listes.irit.fr/sympa/subscribe/bull-i3,Sub,
 JISBD,distjisbd@lcc.uma.es,Not necessary.,Mod,
-DMaNet,dmanet@zpr.uni-koeln.de,https://www.zaik.uni-koeln.de/mailman/listinfo/dmanet,Mod,
+DMaNet,dmanet@zpr.uni-koeln.de,https://www.zaik.uni-koeln.de/mailman/listinfo/dmanet,Post,
 FACS-EVENTS,facs-events@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=FACS-EVENTS&A=1,Mod,
 FG-Arc,fg-arc@lists.uni-paderborn.de,https://lists.uni-paderborn.de/mailman/listinfo/fg-arc,Mod,
 FMNET,fmnet-request@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=FMNET&A=1,Mod,
 Gratra,gratra@lists.uni-paderborn.de,https://lists.uni-paderborn.de/mailman/listinfo/gratra/,Sub,
 HiPEAC,hipeac.publicity@lists.ugent.be,https://helpdesk.ugent.be/email/sympause.php (follow instructions to send mail),Mod,
 HOL,hol-info@lists.sourceforge.net,https://sourceforge.net/projects/hol/lists/hol-info,Mod,
-FME Events,events@fmeurope.org,https://lists.uu.se/sympa/subscribe/it-fmeurope-events,Mod,"Currently an alias for it-fmeurope-events@lists.uu.se. If hosting changes, the listed address will remain valid (as per the FME Secretary)."
+FME Events,events@fmeurope.org,https://lists.uu.se/sympa/subscribe/it-fmeurope-events,Post,"Currently an alias for it-fmeurope-events@lists.uu.se. If hosting changes, the listed address will remain valid (as per the FME Secretary)."
 Maude-users,maude-users@cs.uiuc.edu,https://lists.cs.illinois.edu/lists/subscribe/maude-users,Mod,
 Moca,moca-announce@list.it.uu.se,https://lists.uu.se/sympa/subscribe/it-moca,Sub,Subscribing to Moca includes Moca-Announce.
 NWPT,nwpt-info@lists.ioc.ee,Not sure.,Mod,Mailing list website seems to be down (https://lists.ioc.ee/).
@@ -48,7 +48,7 @@ Logic,logic@math.uni-bonn.de,https://listen.uni-bonn.de/wws/subscribe/logic,Sub,
 Microservices,microservices-community@googlegroups.com,https://groups.google.com/g/microservices-community,Sub,
 PPoPP,PPOPP@listserv.acm.org,https://ppopp25.sigplan.org/info/mailing-list,Mod,
 PVS,pvs@csl.sri.com,Send an email to pvs-subscribe@csl.sri.com.,Sub,
-SAL,sal@csl.sri.com,https://sal.csl.sri.com/mailing_lists.html,Sub,
+SAL,sal@csl.sri.com,https://sal.csl.sri.com/mailing_lists.html,Rej,Abuse prevention tool rejected the posting.
 Theorem Provers,theorem-provers@ai.mit.edu,https://www.cs.cmu.edu/Groups/AI/html/faqs/ai/old_ai_general/part2/faq-doc-41.html,Sub,
 Type Theory,types@lists.chalmers.se,https://lists.chalmers.se/mailman/listinfo/types,Post,
 SEWORLD,seworld@sigsoft.org,https://www.sigsoft.org/resources/seworld.html,Sub,
