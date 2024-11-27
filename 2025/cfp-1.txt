@@ -35,9 +35,9 @@ DisCoTec 2025 is organised by Inria Lille and the University of Lille. It will b
 
   - Hélène Coullon (IMT Atlantique, France)
 
-  - Burcu Ozkan (TU Delft, The Netherlands)
-
   - Omar Inverso (GSSI, Italy)
+
+  - Burcu Ozkan (TU Delft, The Netherlands)
 
 
 * Important Dates (for all main conferences) *

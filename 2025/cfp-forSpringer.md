@@ -35,9 +35,9 @@ Subject to budget availability, we are planning to make special logistical arran
 
   - Hélène Coullon (IMT Atlantique, France)
 
-  - Burcu Ozkan (TU Delft, The Netherlands)
-
   - Omar Inverso (GSSI, Italy)
+
+  - Burcu Ozkan (TU Delft, The Netherlands)
 
 # Main Conferences
 DisCoTec gathers conferences that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches:
