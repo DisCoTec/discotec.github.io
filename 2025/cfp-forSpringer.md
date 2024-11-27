@@ -37,7 +37,7 @@ Subject to budget availability, we are planning to make special logistical arran
 
   - Burcu Ozkan (TU Delft, The Netherlands)
 
-  - 4th speaker TBA
+  - Omar Inverso (GSSI, Italy)
 
 # Main Conferences
 DisCoTec gathers conferences that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches:
