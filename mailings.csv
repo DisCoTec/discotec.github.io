@@ -1,86 +1,87 @@
-Name,Submission,Subscription,Sub/Mod/Post/Rej,Comment
-Concurrency,concurrency@listserver.tue.nl,https://listserver.tue.nl/mailman/listinfo/concurrency,Mod,
-FoLLi,folli@folli.info,https://mail.folli.info/mailman/listinfo/folli_folli.info,Mod,Subscription under moderation.
-GDR GPL,gdr.gpl@univ-grenoble-alpes.fr,https://listes.univ-grenoble-alpes.fr/sympa/subscribe/gdr.gpl,Mod,
-CPHC-CONF,cphc-conf@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CPHC-CONF&A=1,Post,
-FMICS,fmics@inria.fr,https://sympa.inria.fr/sympa/subscribe/fmics,Sub,
-ACM PODC,podc-related@acm.org,https://www.podc.org/podc-email-list/,Post,
-AISWorld,aisworld@lists.aisnet.org,https://lists.aisnet.org/mailman/listinfo/aisworld_lists.aisnet.org,Sub,
-IE-Announce,announce@informatics-europe.org,http://lists.informatics-europe.org/mailman/listinfo/announce,Sub,
-GDR I3,bull-i3@irit.fr,https://listes.irit.fr/sympa/subscribe/bull-i3,Sub,
-JISBD,distjisbd@lcc.uma.es,Not necessary.,Mod,
-DMaNet,dmanet@zpr.uni-koeln.de,https://www.zaik.uni-koeln.de/mailman/listinfo/dmanet,Post,
-FACS-EVENTS,facs-events@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=FACS-EVENTS&A=1,Mod,
-FG-Arc,fg-arc@lists.uni-paderborn.de,https://lists.uni-paderborn.de/mailman/listinfo/fg-arc,Mod,
-FMNET,fmnet-request@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=FMNET&A=1,Mod,
-Gratra,gratra@lists.uni-paderborn.de,https://lists.uni-paderborn.de/mailman/listinfo/gratra/,Sub,
-HiPEAC,hipeac.publicity@lists.ugent.be,https://helpdesk.ugent.be/email/sympause.php (follow instructions to send mail),Mod,
-HOL,hol-info@lists.sourceforge.net,https://sourceforge.net/projects/hol/lists/hol-info,Mod,
-FME Events,events@fmeurope.org,https://lists.uu.se/sympa/subscribe/it-fmeurope-events,Post,"Currently an alias for it-fmeurope-events@lists.uu.se. If hosting changes, the listed address will remain valid (as per the FME Secretary)."
-Maude-users,maude-users@cs.uiuc.edu,https://lists.cs.illinois.edu/lists/subscribe/maude-users,Mod,
-Moca,moca-announce@list.it.uu.se,https://lists.uu.se/sympa/subscribe/it-moca,Sub,Subscribing to Moca includes Moca-Announce.
-NWPT,nwpt-info@lists.ioc.ee,Not sure.,Mod,Mailing list website seems to be down (https://lists.ioc.ee/).
-Petri Nets World,petri-net-world@petrinet.net,Send an email to petri-net-world@petrinet.net.,Rej,Satellite call rejected. Used to be petrinet@informatik.uni-hamburg.de.
-ProCoS,procos@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=PROCOS&A=1,Post,
-PLTC,prog-lang@diku.dk,Not sure.,Mod,"Not sure how to subscribe, or if that's even necessary."
-Prog-lang,prog-lang@lists.cs.illinois.edu,https://lists.cs.illinois.edu/lists/subscribe/prog-lang,Mod,
-Protégé,protege-announce@lists.stanford.edu,https://mailman.stanford.edu/mailman/listinfo/protege-announce,Sub,
-TheoryNet Worldwide,theory-a@listserv.nodak.edu,https://listserv.nodak.edu/subscribe.html,Mod,
-TheoryNet,theorynt@listserv.nodak.edu,https://listserv.nodak.edu/subscribe.html,Mod,
-AILA,aila@unicam.it,https://www.ailalogica.it/organizzazione/soci/,Sub,Only for members.
-ArtistDesign,announcements@lists.artist-embedded.org,"http://www.artist-embedded.org/artist/Artist-Mailing-List,995.html",Sub,
-BETTY,bt-eu@dcs.gla.ac.uk,Not sure.,Sub,Seems to not be active anymore. Mailing list website seems to be down (http://mr1.dcs.gla.ac.uk/mailman/listinfo/bt-eu).
-Cabernet Events,cabernet-events@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CABERNET-EVENTS&A=1,Sub,Got unsubscribed because of spam rejections.
-CAML,caml-list@inria.fr,https://sympa.inria.fr/sympa/subscribe/caml-list,Sub,
-Categories,categories@mta.ca,https://www.mta.ca/~cat-dist/,Sub,
-CL Theory,cl-theory@lists.cam.ac.uk,https://lists.cam.ac.uk/sympa/subscribe/cl-theory,Sub,
-Description Logics,dl@dl.kr.org,https://mailman.zih.tu-dresden.de/groups/listinfo/dl,Mod,
-CI,ifi-ci-event@lists.tu-clausthal.de,https://lists.tu-clausthal.de/cgi-bin/mailman/listinfo/ifi-ci-event,Mod,
-NASA,fm-announcements@lists.nasa.gov,"Email fm-announcements-request@lists.nasa.gov with ""subscribe"" in body or subject.",Sub,
-FM India,fmindia@cmi.ac.in,Not sure.,Sub,Mailman site not working.
-GPCE,gpce-news@cs.rice.edu,https://mailman.rice.edu/mailman/listinfo/gpce-news-l,Rej,Need to use gpce-related.
-IC EATCS,ic.eatcs@di.unipi.it,Not necessary.,Mod,Submit through angelo.montanari@uniud.it or ugo.dallago@unibo.it.
-LICS,las-lics@lists.tu-berlin.de,https://lists.tu-berlin.de/mailman/listinfo/las-lics,Sub,
-LFCS,lfcs-interest@dcs.ed.ac.uk,https://www.dcs.ed.ac.uk/home/dt/semclub/join.html,Sub,May not be active anymore.
-Logic Helsinki,logic-list@helsinki.fi,https://helpdesk.it.helsinki.fi/en/instructions/collaboration-and-publication/e-mail/majordomo-mailing-lists-basic-use#subscribing-to-and-unsubscribing-from-majordomo-lists,Sub,
-Logic,logic.list@outlook.com,https://lists.uni-hamburg.de/mailman/listinfo/math.logic,Sub,
-Logic,logic@math.uni-bonn.de,https://listen.uni-bonn.de/wws/subscribe/logic,Sub,
-Microservices,microservices-community@googlegroups.com,https://groups.google.com/g/microservices-community,Sub,
-PPoPP,PPOPP@listserv.acm.org,https://ppopp25.sigplan.org/info/mailing-list,Mod,
-PVS,pvs@csl.sri.com,Send an email to pvs-subscribe@csl.sri.com.,Sub,
-SAL,sal@csl.sri.com,https://sal.csl.sri.com/mailing_lists.html,Rej,Abuse prevention tool rejected the posting.
-Theorem Provers,theorem-provers@ai.mit.edu,https://www.cs.cmu.edu/Groups/AI/html/faqs/ai/old_ai_general/part2/faq-doc-41.html,Sub,
-Type Theory,types@lists.chalmers.se,https://lists.chalmers.se/mailman/listinfo/types,Post,
-SEWORLD,seworld@sigsoft.org,https://www.sigsoft.org/resources/seworld.html,Sub,
-Coq,coq-club@inria.fr,https://sympa.inria.fr/sympa/subscribe/coq-club,Sub,
-FMxSOCandBPM,FMxSOCandBPM@cs.unibo.it,https://lists.cs.unibo.it/mailman3/postorius/lists/fmxsocandbpm.lists.cs.unibo.it/,Sub,
-HPC,hpc-announce@mcs.anl.gov,https://lists.mcs.anl.gov/mailman/listinfo/hpc-announce,Rej,Rejected by "rule filter".
-IFMSIG,ifmsig@cs.tcd.ie,Contact ifmsig-request@cs.tcd.ie.,Sub,
-RV,rv@cs.uiuc.edu,https://lists.cs.illinois.edu/lists/subscribe/rv,Sub,
-Logic,logic@cs.stanford.edu,Not sure.,Sub,Can't find any information.
-CAIC,caic1402arvi@isp.uni-luebeck.de,Not sure.,Sub,Can't find any info.
-COMPULOG,complog@cs.nmsu.edu,Not sure.,Sub,Can't find any info.
-Dependability,fttc@dependability.org,Not sure.,Sub,Can't find the list.
-TYPES,types-announce@lists.seas.upenn.edu,https://lists.seas.upenn.edu/mailman/listinfo/types-announce,Sub,Address must be included in To: or CC:.
-Software agents,agents@cs.umbc.edu,https://lists.cs.umbc.edu/mailman/listinfo/agents/,Mod,worked for me in the past (Simon).
-AppSem,appsem@lists.tcs.ifi.lmu.de,Not sure.,Sub,worked for me *most of the time* in the past (Simon).
-SENSORIA project,sensoria@lists.tcs.ifi.lmu.de,Not sure.,Sub,worked for me in the past (Simon).
-SYNALP,synalp@inrialpes.fr,https://www.inrialpes.fr/synalp/Mailing/,Sub,worked for me *most of the time* in the past (Simon).
-DBWorld,https://dbworld.sigmod.org/post.html,https://dbworld.sigmod.org/register.html,Post,
-EU Types,eutypes@cs.ru.nl,https://mailman.science.ru.nl/mailman/listinfo/eutypes,Sub,"Only post directly, without other recipients and BCC. Only <= 40kB."
-Reflective Middelware,reflective-middleware@cs.uiuc.edu,https://lists.cs.illinois.edu/lists/subscribe/reflective-middleware,Sub,<=40kB.
-RevComp,revcomp-list@jiscmail.ac.uk,Not sure.,Rej,Can't find where to subscribe. Rejected because not subscribed/authorized.
-D-CON,d-con@lists.rwth-aachen.de,Not sure.,,Inactive.
-GRIN,grin-eventi-owner@grin-informatica.it,Not sure.,,Doesn't seem to be an open mailing list.
-Theory Logic,theory-logic@cs.cmu.edu,Not sure.,,Doesn't seem to function anymore.
-ECOOP,ecoop-info@ecoop.org,Not sure.,,"Standard mailing list doesn't exist anymore. There should be a Google Group, but I can't find it."
-IFIP,ifip@ifip.or.at,Not sure.,,Doesn't seem to exist.
-QEST,qest-announce@iti.uiuc.edu,Not sure.,,Mailing list offline.
-Announcements,announcements@univ-grenoble-alpes.fr,Not sure.,,Doesn't seem to exist.
-SBC,sbc-l@sbc.org.br,https://grupos.ufrgs.br/mailman/listinfo/sbc-l,,Doesn't work.
-PAPM,papm@informatics.ed.ac.uk,Don't.,,Not suppose to use from outside.
-Planet MDE,planetmde@univ-grenoble-alpes.fr,Don't.,,Too specific.
-OWL Dev,public-owl-dev@w3.org,Don't.,,Inappropriate.
-TCCC,tccc-announce@computer.org,https://cs-tccc.org/membership/,Mod,Only TCCC conferences.
-My Colleagues,mycolleagues@mailman.ufsc.br,https://mailman.ufsc.br/mailman/listinfo/mycolleagues,Rej,Not allowed to post.
-IPA,ipalist@listserver.tue.nl,Not necessary.,Rej,Only for Dutch events.
+Name,Submission,Subscription,Papers 1,Satellite,Comment
+CPHC-CONF,cphc-conf@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CPHC-CONF&A=1,Post,Post,
+ACM PODC,podc-related@acm.org,https://www.podc.org/podc-email-list/,Post,Post,
+DMaNet,dmanet@zpr.uni-koeln.de,https://www.zaik.uni-koeln.de/mailman/listinfo/dmanet,Mod,Post,
+FME Events,events@fmeurope.org,https://lists.uu.se/sympa/subscribe/it-fmeurope-events,Mod,Post,"Currently an alias for it-fmeurope-events@lists.uu.se. If hosting changes, the listed address will remain valid (as per the FME Secretary)."
+ProCoS,procos@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=PROCOS&A=1,Post,Post,
+Type Theory,types@lists.chalmers.se,https://lists.chalmers.se/mailman/listinfo/types,Sub,Post,
+DBWorld,https://dbworld.sigmod.org/post.html,https://dbworld.sigmod.org/register.html,,Post,
+Concurrency,concurrency@listserver.tue.nl,https://listserver.tue.nl/mailman/listinfo/concurrency,Mod,Mod,
+FoLLi,folli@folli.info,https://mail.folli.info/mailman/listinfo/folli_folli.info,Mod,Mod,Subscription under moderation.
+GDR GPL,gdr.gpl@univ-grenoble-alpes.fr,https://listes.univ-grenoble-alpes.fr/sympa/subscribe/gdr.gpl,Mod,Mod,
+FMICS,fmics@inria.fr,https://sympa.inria.fr/sympa/subscribe/fmics,Sub,Sub,
+AISWorld,aisworld@isworld.org,https://isworld.org/mailman/listinfo/aisworld_isworld.org,Post,Sub,Moved from aisworld@lists.aisnet.org.
+IE-Announce,announce@informatics-europe.org,http://lists.informatics-europe.org/mailman/listinfo/announce,Sub,Sub,
+GDR I3,bull-i3@irit.fr,https://listes.irit.fr/sympa/subscribe/bull-i3,Mod,Sub,
+JISBD,distjisbd@lcc.uma.es,Not necessary.,Mod,Mod,
+FACS-EVENTS,facs-events@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=FACS-EVENTS&A=1,Mod,Mod,
+FG-Arc,fg-arc@lists.uni-paderborn.de,https://lists.uni-paderborn.de/mailman/listinfo/fg-arc,Sub,Mod,
+FMNET,fmnet-request@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=FMNET&A=1,Mod,Mod,
+Gratra,gratra@lists.uni-paderborn.de,https://lists.uni-paderborn.de/mailman/listinfo/gratra/,Sub,Sub,
+HiPEAC,hipeac.publicity@lists.ugent.be,https://helpdesk.ugent.be/email/sympause.php (follow instructions to send mail),Mod,Mod,
+HOL,hol-info@lists.sourceforge.net,https://sourceforge.net/projects/hol/lists/hol-info,Sub,Mod,
+Maude-users,maude-users@cs.uiuc.edu,https://lists.cs.illinois.edu/lists/subscribe/maude-users,Sub,Mod,
+Moca,moca-announce@list.it.uu.se,https://lists.uu.se/sympa/subscribe/it-moca,Sub,Sub,Subscribing to Moca includes Moca-Announce.
+NWPT,nwpt-info@lists.ioc.ee,Not sure.,Mod,Mod,Mailing list website seems to be down (https://lists.ioc.ee/).
+Petri Nets World,petri-net-world@petrinet.net,Send an email to petri-net-world@petrinet.net.,Mod,Rej,Satellite call rejected. Used to be petrinet@informatik.uni-hamburg.de.
+PLTC,prog-lang@diku.dk,Not sure.,Mod,Mod,"Not sure how to subscribe, or if that's even necessary."
+Prog-lang,prog-lang@lists.cs.illinois.edu,https://lists.cs.illinois.edu/lists/subscribe/prog-lang,Sub,Mod,
+Protégé,protege-announce@lists.stanford.edu,https://mailman.stanford.edu/mailman/listinfo/protege-announce,Sub,Sub,
+TheoryNet Worldwide,theory-a@listserv.nodak.edu,https://listserv.nodak.edu/subscribe.html,Mod,Mod,
+TheoryNet,theorynt@listserv.nodak.edu,https://listserv.nodak.edu/subscribe.html,Mod,Mod,
+AILA,aila@unicam.it,https://www.ailalogica.it/organizzazione/soci/,Sub,Sub,Only for members.
+ArtistDesign,announcements@lists.artist-embedded.org,"http://www.artist-embedded.org/artist/Artist-Mailing-List,995.html",Rej,Sub,"Only for subscribers, which apparently did not work."
+BETTY,bt-eu@dcs.gla.ac.uk,Not sure.,Sub,Sub,Seems to not be active anymore. Mailing list website seems to be down (http://mr1.dcs.gla.ac.uk/mailman/listinfo/bt-eu).
+Cabernet Events,cabernet-events@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CABERNET-EVENTS&A=1,Sub,Sub,Got unsubscribed because of spam rejections.
+CAML,caml-list@inria.fr,https://sympa.inria.fr/sympa/subscribe/caml-list,Sub,Sub,
+Categories,categories@mta.ca,https://www.mta.ca/~cat-dist/,Sub,Sub,
+CL Theory,cl-theory@lists.cam.ac.uk,https://lists.cam.ac.uk/sympa/subscribe/cl-theory,Sub,Sub,
+Description Logics,dl@dl.kr.org,https://mailman.zih.tu-dresden.de/groups/listinfo/dl,Mod,Mod,
+CI,ifi-ci-event@lists.tu-clausthal.de,https://lists.tu-clausthal.de/cgi-bin/mailman/listinfo/ifi-ci-event,Mod,Mod,
+NASA,fm-announcements@lists.nasa.gov,"Email fm-announcements-request@lists.nasa.gov with ""subscribe"" in body or subject.",Sub,Sub,
+FM India,fmindia@cmi.ac.in,Not sure.,Sub,Sub,Mailman site not working.
+GPCE related,gpce-related@cs.rice.edu,https://mailman.rice.edu/mailman/listinfo/gpce-related-l,Sub,,
+IC EATCS,ic.eatcs@di.unipi.it,Not necessary.,Sub,Mod,Submit through angelo.montanari@uniud.it or ugo.dallago@unibo.it.
+LICS,las-lics@lists.tu-berlin.de,https://lists.tu-berlin.de/mailman/listinfo/las-lics,Sub,Sub,
+LFCS,lfcs-interest@dcs.ed.ac.uk,https://www.dcs.ed.ac.uk/home/dt/semclub/join.html,Sub,Sub,May not be active anymore.
+Logic Helsinki,logic-list@helsinki.fi,https://helpdesk.it.helsinki.fi/en/instructions/collaboration-and-publication/e-mail/majordomo-mailing-lists-basic-use#subscribing-to-and-unsubscribing-from-majordomo-lists,Sub,Sub,
+Logic,logic.list@outlook.com,https://lists.uni-hamburg.de/mailman/listinfo/math.logic,Sub,Sub,
+Logic,logic@math.uni-bonn.de,https://listen.uni-bonn.de/wws/subscribe/logic,Sub,Sub,
+Microservices,microservices-community@googlegroups.com,https://groups.google.com/g/microservices-community,Sub,Sub,
+PPoPP,PPOPP@listserv.acm.org,https://ppopp25.sigplan.org/info/mailing-list,Mod,Mod,
+PVS,pvs@csl.sri.com,Send an email to pvs-subscribe@csl.sri.com.,Mod,Sub,
+SAL,sal@csl.sri.com,https://sal.csl.sri.com/mailing_lists.html,Mod,Rej,Abuse prevention tool rejected the posting.
+Theorem Provers,theorem-provers@ai.mit.edu,https://www.cs.cmu.edu/Groups/AI/html/faqs/ai/old_ai_general/part2/faq-doc-41.html,Sub,Sub,
+Coq,coq-club@inria.fr,https://sympa.inria.fr/sympa/subscribe/coq-club,Sub,Sub,
+FMxSOCandBPM,FMxSOCandBPM@cs.unibo.it,https://lists.cs.unibo.it/mailman3/postorius/lists/fmxsocandbpm.lists.cs.unibo.it/,Sub,Sub,
+IFMSIG,ifmsig@cs.tcd.ie,Contact ifmsig-request@cs.tcd.ie.,Sub,Sub,
+RV,rv@cs.uiuc.edu,https://lists.cs.illinois.edu/lists/subscribe/rv,Sub,Sub,
+Logic,logic@cs.stanford.edu,Not sure.,Sub,Sub,Can't find any information.
+CAIC,caic1402arvi@isp.uni-luebeck.de,Not sure.,Sub,Sub,Can't find any info.
+COMPULOG,complog@cs.nmsu.edu,Not sure.,Sub,Sub,Can't find any info.
+Dependability,fttc@dependability.org,Not sure.,Sub,Sub,Can't find the list.
+TYPES,types-announce@lists.seas.upenn.edu,https://lists.seas.upenn.edu/mailman/listinfo/types-announce,Sub,Sub,Address must be included in To: or CC:.
+Software agents,agents@cs.umbc.edu,https://lists.cs.umbc.edu/mailman/listinfo/agents/,Sub,Mod,worked for me in the past (Simon).
+AppSem,appsem@lists.tcs.ifi.lmu.de,Not sure.,Sub,Sub,worked for me *most of the time* in the past (Simon).
+SENSORIA project,sensoria@lists.tcs.ifi.lmu.de,Not sure.,Sub,Sub,worked for me in the past (Simon).
+SYNALP,synalp@inrialpes.fr,https://www.inrialpes.fr/synalp/Mailing/,Sub,Sub,worked for me *most of the time* in the past (Simon).
+EU Types,eutypes@cs.ru.nl,https://mailman.science.ru.nl/mailman/listinfo/eutypes,Sub,Sub,"Only post directly, without other recipients and BCC. Only <= 40kB."
+Reflective Middelware,reflective-middleware@cs.uiuc.edu,https://lists.cs.illinois.edu/lists/subscribe/reflective-middleware,Sub,Sub,<=40kB.
+SEWORLD,seworld@sigsoft.org,https://www.sigsoft.org/resources/seworld.html,Rej,Sub,Focus on SE research only.
+HPC,hpc-announce@mcs.anl.gov,https://lists.mcs.anl.gov/mailman/listinfo/hpc-announce,Rej,Rej,"First rejected by rule filter, then got blocked."
+GPCE,gpce-news@cs.rice.edu,https://mailman.rice.edu/mailman/listinfo/gpce-news-l,,Rej,Need to use gpce-related.
+RevComp,revcomp-list@jiscmail.ac.uk,Not sure.,,Rej,Can't find where to subscribe. Rejected because not subscribed/authorized.
+D-CON,d-con@lists.rwth-aachen.de,Not sure.,,,Inactive.
+GRIN,grin-eventi-owner@grin-informatica.it,Not sure.,,,Doesn't seem to be an open mailing list.
+Theory Logic,theory-logic@cs.cmu.edu,Not sure.,,,Doesn't seem to function anymore.
+ECOOP,ecoop-info@ecoop.org,Not sure.,,,"Standard mailing list doesn't exist anymore. There should be a Google Group, but I can't find it."
+IFIP,ifip@ifip.or.at,Not sure.,,,Doesn't seem to exist.
+QEST,qest-announce@iti.uiuc.edu,Not sure.,,,Mailing list offline.
+Announcements,announcements@univ-grenoble-alpes.fr,Not sure.,,,Doesn't seem to exist.
+SBC,sbc-l@sbc.org.br,https://grupos.ufrgs.br/mailman/listinfo/sbc-l,,,Doesn't work.
+PAPM,papm@informatics.ed.ac.uk,Don't.,,,Not suppose to use from outside.
+Planet MDE,planetmde@univ-grenoble-alpes.fr,Don't.,,,Too specific.
+OWL Dev,public-owl-dev@w3.org,Don't.,,,Inappropriate.
+TCCC,tccc-announce@computer.org,https://cs-tccc.org/membership/,,Rej,Only TCCC conferences.
+My Colleagues,mycolleagues@mailman.ufsc.br,https://mailman.ufsc.br/mailman/listinfo/mycolleagues,,Rej,Not allowed to post.
+IPA,ipalist@listserver.tue.nl,Not necessary.,,Rej,Only for Dutch events.
