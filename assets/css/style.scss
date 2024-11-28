@@ -216,8 +216,7 @@ $spacing-unit:     $spacer-5;
 
 img.keynote {
   float: right;
-  /*width: 250px;*/
-  width: 20%;
+  width: 25%;
   margin: 0 20px;
 
   @include media-query($on-palm) {

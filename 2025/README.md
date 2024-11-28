@@ -13,6 +13,7 @@ DisCoTec 2025 will host the following keynote talks.
 
 * [Alysson Bessani](https://ciencias.ulisboa.pt/en/perfil/anbessani) (Universidade de Lisboa, Portugal)
 * [Hélène Coullon](http://helene-coullon.fr/) (IMT Atlantique, France)
+* [Omar Inverso](https://www.gssi.it/people/professors/lectures-computer-science/item/1018-inverso-omar) (GSSI, Italy)
 * [Burcu Ozkan](https://burcuku.github.io/home/) (TU Delft, The Netherlands)
 
 ## Further Information
