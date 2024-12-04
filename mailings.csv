@@ -2,12 +2,12 @@ Name,Submission,Subscription,Papers 1,Satellite,Comment
 CPHC-CONF,cphc-conf@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CPHC-CONF&A=1,Post,Post,
 ACM PODC,podc-related@acm.org,https://www.podc.org/podc-email-list/,Post,Post,
 DMaNet,dmanet@zpr.uni-koeln.de,https://www.zaik.uni-koeln.de/mailman/listinfo/dmanet,Mod,Post,
-FME Events,events@fmeurope.org,https://lists.uu.se/sympa/subscribe/it-fmeurope-events,Mod,Post,"Currently an alias for it-fmeurope-events@lists.uu.se. If hosting changes, the listed address will remain valid (as per the FME Secretary)."
+FME Events,events@fmeurope.org,https://lists.uu.se/sympa/subscribe/it-fmeurope-events,Post,Post,"Currently an alias for it-fmeurope-events@lists.uu.se. If hosting changes, the listed address will remain valid (as per the FME Secretary)."
 ProCoS,procos@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=PROCOS&A=1,Post,Post,
 Type Theory,types@lists.chalmers.se,https://lists.chalmers.se/mailman/listinfo/types,Sub,Post,
 DBWorld,https://dbworld.sigmod.org/post.html,https://dbworld.sigmod.org/register.html,,Post,
-Concurrency,concurrency@listserver.tue.nl,https://listserver.tue.nl/mailman/listinfo/concurrency,Mod,Mod,
-FoLLi,folli@folli.info,https://mail.folli.info/mailman/listinfo/folli_folli.info,Mod,Mod,Subscription under moderation.
+Concurrency,concurrency@listserver.tue.nl,https://listserver.tue.nl/mailman/listinfo/concurrency,Post,Mod,
+FoLLi,folli@folli.info,https://mail.folli.info/mailman/listinfo/folli_folli.info,Post,Post,Subscription under moderation.
 GDR GPL,gdr.gpl@univ-grenoble-alpes.fr,https://listes.univ-grenoble-alpes.fr/sympa/subscribe/gdr.gpl,Mod,Mod,
 FMICS,fmics@inria.fr,https://sympa.inria.fr/sympa/subscribe/fmics,Sub,Sub,
 AISWorld,aisworld@isworld.org,https://isworld.org/mailman/listinfo/aisworld_isworld.org,Post,Sub,Moved from aisworld@lists.aisnet.org.
@@ -42,10 +42,10 @@ NASA,fm-announcements@lists.nasa.gov,"Email fm-announcements-request@lists.nasa.
 FM India,fmindia@cmi.ac.in,Not sure.,Sub,Sub,Mailman site not working.
 GPCE related,gpce-related@cs.rice.edu,https://mailman.rice.edu/mailman/listinfo/gpce-related-l,Sub,,
 IC EATCS,ic.eatcs@di.unipi.it,Not necessary.,Sub,Mod,Submit through angelo.montanari@uniud.it or ugo.dallago@unibo.it.
-LICS,las-lics@lists.tu-berlin.de,https://lists.tu-berlin.de/mailman/listinfo/las-lics,Sub,Sub,
+LICS,las-lics@lists.tu-berlin.de,https://lists.tu-berlin.de/mailman/listinfo/las-lics,Post,Post,Will be sent in a monthly digest.
 LFCS,lfcs-interest@dcs.ed.ac.uk,https://www.dcs.ed.ac.uk/home/dt/semclub/join.html,Sub,Sub,May not be active anymore.
 Logic Helsinki,logic-list@helsinki.fi,https://helpdesk.it.helsinki.fi/en/instructions/collaboration-and-publication/e-mail/majordomo-mailing-lists-basic-use#subscribing-to-and-unsubscribing-from-majordomo-lists,Sub,Sub,
-Logic,logic.list@outlook.com,https://lists.uni-hamburg.de/mailman/listinfo/math.logic,Sub,Sub,
+Logic,logic.list@outlook.com,https://lists.uni-hamburg.de/mailman/listinfo/math.logic,Post,Sub,
 Logic,logic@math.uni-bonn.de,https://listen.uni-bonn.de/wws/subscribe/logic,Sub,Sub,
 Microservices,microservices-community@googlegroups.com,https://groups.google.com/g/microservices-community,Sub,Sub,
 PPoPP,PPOPP@listserv.acm.org,https://ppopp25.sigplan.org/info/mailing-list,Mod,Mod,
