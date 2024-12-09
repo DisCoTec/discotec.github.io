@@ -50,16 +50,16 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 * [DisCoTec 2019](/2019/) - Kongens Lyngby, Denmark
 * [DisCoTec 2018](http://2018.discotec.org/) - Madrid, Spain
 * [DisCoTec 2017](http://2017.discotec.org/) - Neuchâtel, Switzerland
-* [DisCoTec 2016](http://2016.discotec.org/) - Heraklion, Greece
+* [DisCoTec 2016](https://web.archive.org/web/20170911042114/http://2016.discotec.org/) - Heraklion, Greece
 * [DisCoTec 2015](http://discotec2015.inria.fr/) - Grenoble, France
 * [DisCoTec 2014](https://www.discotec2014.tu-berlin.de/) - Berlin, Germany
-* DisCoTec 2013 - Florence, Italy
-* DisCoTec 2012 - Stockholm, Sweden
-* [DisCoTec 2011](http://discotec.ru.is/) - Reykjavik, Iceland
+* [DisCoTec 2013](https://web.archive.org/web/20130525064342/http://www.discotec.org/) - Florence, Italy
+* [DisCoTec 2012](https://web.archive.org/web/20130624080252/http://discotec.ict.kth.se/) - Stockholm, Sweden
+* [DisCoTec 2011](https://web.archive.org/web/20130310124652/http://discotec.ru.is/) - Reykjavik, Iceland
 * [DisCoTec 2010](http://web.archive.org/web/20100806052340/http://discotec.project.cwi.nl/index.php/Main_Page) - Amsterdam, The Netherlands
-* DisCoTec 2009 - Lisboa, Portugal
+* [DisCoTec 2009](https://web.archive.org/web/20130313005621/http://discotec09.di.fc.ul.pt/index.php?title=Main_Page) - Lisboa, Portugal
 * [DisCoTec 2008](http://discotec08.ifi.uio.no/) - Oslo, Norway
 * [DisCoTec 2007](http://www.discotec07.cs.ucy.ac.cy/) - Paphos, Cyprus
-* DisCoTec 2006 - Bologna, Italy
+* [DisCoTec 2006](https://web.archive.org/web/20130313010816/http://www.discotec06.cs.unibo.it/) - Bologna, Italy
 
 Follow us on [@DisCoTecConf](https://twitter.com/DisCoTecConf) to keep up to date.
