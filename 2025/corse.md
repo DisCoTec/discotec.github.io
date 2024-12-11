@@ -1,5 +1,3 @@
-[![](banner2025.png)](.)
-
 # CORSE - Components Operationally: Reversibility and System Engineering
 
 This workshop aims to celebrate the 65th birthday of Jean-Bernard Stefani.
