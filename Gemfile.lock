@@ -309,7 +309,6 @@ DEPENDENCIES
   github-pages (~> 232)
   http_parser.rb (~> 0.6.0)
   jekyll-commonmark-ghpages
-  jekyll-feed (~> 0.6)
   jekyll-optional-front-matter
   jekyll-readme-index
   jekyll-relative-links
