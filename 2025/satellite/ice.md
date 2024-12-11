@@ -1,6 +1,6 @@
 # ICE 2025 - 18th Interaction and Concurrency Experience
 
-Interaction and Concurrency Experiences (ICE) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. 
+[Interaction and Concurrency Experiences (ICE)](https://ice-workshop.github.io) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. 
 
 ICE 2025 is a satellite workshop of [DisCoTec 2025](https://www.discotec.org/2025/), held at a date to be determined (mid-june) in [Lille, France](venue).
 
