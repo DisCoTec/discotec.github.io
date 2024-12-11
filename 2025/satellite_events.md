@@ -4,7 +4,19 @@ menu_show: true
 order: 2
 ---
 
-# Call for Satellite Events (Workshops / Tutorials)
+# Satellite Events
+
+Below are the satellite events confirmed for DisCoTec 2025, but the [call for satellite events](#call-for-satellite-events-workshops--tutorials) is still open.
+
+- [CORSE](./satellite/corse) - Components Operationally: Reversibility and System Engineering.
+- [ICE](./satellite/ice) - Interaction and Concurrency Experience.
+- [WACA](https://thesave.github.io/waca-website/) - Workshop on Adaptable Cloud Architectures.
+- Event for Young Researchers - More info soon.
+- Gender Parity/Women in Science - More info soon.
+
+Proceedings, if any, are organized by the events themselves.
+
+## Call for Satellite Events (Workshops / Tutorials)
 
 DisCoTec is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS).
 
@@ -17,7 +29,7 @@ In the past, DisCoTec has been accompanied by successful workshops and tutorials
 
 The satellite events (tutorials and workshops) will be held on **Monday, June 16, 2025** and on **Friday, June 20, 2025**.
 
-## Format for Proposals
+### Format for Proposals
 
 Proposals of satellite events should include:
 
@@ -29,7 +41,7 @@ Proposals of satellite events should include:
 * For tutorials: the DisCoTec conference most related to the proposed tutorial (COORDINATION, DAIS, FORTE);
 * For workshops: the publication plan (only invited speakers, no published proceedings, pre-/post-proceedings published with EPTCS/ENTCS/...).
 
-## What the DisCoTec 2025 Organization Offers
+### What the DisCoTec 2025 Organization Offers
 
 * A link from the [DisCoTec 2025](.) web site;
 * Setup of meeting space and related equipment;
@@ -37,7 +49,7 @@ Proposals of satellite events should include:
 * On-line registration for participants to the satellite event;
 * One free registration to the satellite event (for one invited speaker or one organizer).
 
-## Important Dates
+### Important Dates
 
 * Proposal submission deadline:
   Monday, February 10, 2025
@@ -45,6 +57,6 @@ Proposals of satellite events should include:
 * Notification of accepted satellite events:
   Saturday, March 1st, 2025.
 
-## How to Apply
+### How to Apply
 
 Please send your proposals to the [Satellite Events chair](mailto:discotec-satellite@inria.fr).
