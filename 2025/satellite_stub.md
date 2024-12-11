@@ -8,7 +8,7 @@ DisCoTec 2025 hosts a number of satellite events:
 
 - [CORSE]() - Components Operationally: Reversibility and System Engineering.
 - [ICE]() - Interaction and Concurrency Experience.
-- [WACA]() - Workshop on Adaptable Cloud Architectures.
+- [WACA](https://thesave.github.io/waca-website/) - Workshop on Adaptable Cloud Architectures.
 - [Event for Young Researchers]().
 - [Gender Parity/Women in Science]().
 
