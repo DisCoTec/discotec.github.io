@@ -6,15 +6,24 @@ Welcome to DisCoTec 2025!
 
 DisCoTec 2025 will take place in [Lille, France](venue), June 16-20, 2025, hosted by the [University of Lille](https://international.univ-lille.fr/en/).
 
-## Keynote Speakers
+## Invited Speakers
 
-DisCoTec 2025 will host the following keynote talks.
-[See here](./invited#keynote-talks) for details.
+DisCoTec 2025 will host the following invited speakers.
+[See here](./invited) for details.
 
-* [Alysson Bessani](https://ciencias.ulisboa.pt/en/perfil/anbessani) (Universidade de Lisboa, Portugal)
-* [Hélène Coullon](http://helene-coullon.fr/) (IMT Atlantique, France)
-* [Omar Inverso](https://www.gssi.it/people/professors/lectures-computer-science/item/1018-inverso-omar) (GSSI, Italy)
-* [Burcu Ozkan](https://burcuku.github.io/home/) (TU Delft, The Netherlands)
+### Keynote Talks
+
+* [Alysson Bessani](https://ciencias.ulisboa.pt/en/perfil/anbessani) (Universidade de Lisboa, Portugal) - [DAIS](./dais)
+* [Hélène Coullon](http://helene-coullon.fr/) (IMT Atlantique, France) - DisCoTec-wide
+* [Omar Inverso](https://www.gssi.it/people/professors/lectures-computer-science/item/1018-inverso-omar) (GSSI, Italy) - [COORDINATION](./coordination)
+* [Burcu Ozkan](https://burcuku.github.io/home/) (TU Delft, The Netherlands) - [FORTE](./forte)
+
+### Tutorials
+
+* [Baptiste Jonglez](#baptiste-jonglez-inria-france---dais) (Inria, France) - [DAIS](./dais)
+* [Robbert Krebbers](#robbert-krebbers-radboud-university-nijmegen-the-netherlands---coordination) (Radboud University Nijmegen, The Netherlands) - [COORDINATION](./coordination).
+* The [FORTE](./forte) speaker is TBA.
+<!-- , and [Emilio Tuosto]() ([FORTE](./forte)). -->
 
 ## Further Information
 * Please contact the [general chair](mailto:simon.bliudze@inria.fr).
