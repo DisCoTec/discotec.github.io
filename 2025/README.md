@@ -22,8 +22,7 @@ DisCoTec 2025 will host the following invited speakers.
 
 * [Baptiste Jonglez](#baptiste-jonglez-inria-france---dais) (Inria, France) - [DAIS](./dais)
 * [Robbert Krebbers](#robbert-krebbers-radboud-university-nijmegen-the-netherlands---coordination) (Radboud University Nijmegen, The Netherlands) - [COORDINATION](./coordination).
-* The [FORTE](./forte) speaker is TBA.
-<!-- , and [Emilio Tuosto]() ([FORTE](./forte)). -->
+* [Emilio Tuosto](#emilio-tuosto-gssi-italy---forte) (GSSI, Italy) - [FORTE](./forte)
 
 ## Best Paper Awards
 
