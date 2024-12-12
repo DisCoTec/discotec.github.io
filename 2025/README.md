@@ -25,6 +25,11 @@ DisCoTec 2025 will host the following invited speakers.
 * The [FORTE](./forte) speaker is TBA.
 <!-- , and [Emilio Tuosto]() ([FORTE](./forte)). -->
 
+## Best Paper Awards
+
+Each of the three DisCoTec 2025 main conferences will designate the best paper among its accepted ones.
+One of these papers will further receive the DisCoTec-wide best paper award.
+
 ## Further Information
 * Please contact the [general chair](mailto:simon.bliudze@inria.fr).
 * Follow us on [LinkedIn](https://www.linkedin.com/company/discotec-conf), [Mastodon](https://lipn.info/@DisCoTecConf), or [X](https://twitter.com/DisCoTecConf)!
