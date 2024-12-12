@@ -36,9 +36,7 @@ by Nick Bezhanishvili, Vincenzo Ciancia, David Gabelaia, Mamuka Jibladze, Diego 
 
 ### [2023](/2023/)
 
-<!-- No DisCoTec-wide best paper? -->
-
-#### COORDINATION
+#### COORDINATION and DisCoTec-wide
 
 Rollback Recovery in Session-based Programming
 ([DOI](https://doi.org/10.1007/978-3-031-35361-1_11) / [Open Access PDF](https://mrg.cs.ox.ac.uk/publications/rollback-recovery-in-session-based-programming/tech_report.pdf))
@@ -61,9 +59,7 @@ by Hernán Melgratti, Claudio Antares Mezzina, and G. Michele Pinna
 
 ### [2022](/2022/)
 
-<!-- No DisCoTec-wide best paper? -->
-
-#### COORDINATION
+#### COORDINATION and DisCoTec-wide
 
 A Monitoring Tool for Linear-Time μHML
 ([DOI](https://doi.org/10.1007/978-3-031-08143-9_12))
