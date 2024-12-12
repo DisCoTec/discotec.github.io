@@ -18,4 +18,4 @@ DisCoTec 2025 will host the following keynote talks.
 
 ## Further Information
 * Please contact the [general chair](mailto:simon.bliudze@inria.fr).
-* Follow us on [LinkedIn](https://www.linkedin.com/company/discotec-conf), or on X [@DisCoTecConf](https://twitter.com/DisCoTecConf)!
+* Follow us on [LinkedIn](https://www.linkedin.com/company/discotec-conf), [Mastodon](https://lipn.info/@DisCoTecConf), or [X](https://twitter.com/DisCoTecConf)!
