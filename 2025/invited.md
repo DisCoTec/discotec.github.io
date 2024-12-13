@@ -41,8 +41,7 @@ More information soon.
 
 DisCoTec 2025 will host a tutorial at each conference.
 The invited speakers are
-[Baptiste Jonglez](#baptiste-jonglez-inria-france---dais) ([DAIS](./dais)), [Robbert Krebbers](#robbert-krebbers-radboud-university-nijmegen-the-netherlands---coordination) ([COORDINATION](./coordination)).
-<!-- , and [Emilio Tuosto]() ([FORTE](./forte)). -->
+[Baptiste Jonglez](#baptiste-jonglez-inria-france---dais) ([DAIS](./dais)), [Robbert Krebbers](#robbert-krebbers-radboud-university-nijmegen-the-netherlands---coordination) ([COORDINATION](./coordination)), and [Emilio Tuosto](#emilio-tuosto-gssi-italy---forte) ([FORTE](./forte)).
 The [FORTE](./forte) speaker is TBA.
 
 ### [Baptiste Jonglez](https://stack-research-group.gitlabpages.inria.fr/web/pages/members.html) (Inria, France) - [DAIS](./dais)
@@ -55,4 +54,9 @@ More information soon.
 
 ![Robbert Krebbers](/2025/keynote/RobbertKrebbers.png){: .keynote}
 Tutorial on [Actris](https://iris-project.org/actris/).
+More information soon.
+
+### [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/) (GSSI, Italy) - [FORTE](./forte)
+
+![Emilio Tuosto](/2025/keynote/EmilioTuosto.png){: .keynote}
 More information soon.
