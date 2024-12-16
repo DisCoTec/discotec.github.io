@@ -86,7 +86,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Simon Gay	(University of Glasgow, UK)		
 * Ping Hou (University of Oxford, UK)		
 * Tobias Kappé (Leiden University, NL)
-* Vasileios Koutavas]	(Trinity College Dublin, IE)			
+* Vasileios Koutavas	(Trinity College Dublin, IE)			
 * Jean Krivine		(IRIF Paris, FR)
 * Cosimo Laneve	(University of Bologna, IT)			
 * Ana Almeida Matos (University of Lisbona, PT)
@@ -106,7 +106,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Shoji Yuen (Nagoya University, JP)
 
 ## Artefact Evaluation Committee chair
-* Omar Incerto (IMT Lucca, IT)
+* Emilio Incerto (IMT Lucca, IT)
 
 ## Artefact Evaluation Committee
 TBA
