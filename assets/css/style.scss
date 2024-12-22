@@ -198,11 +198,15 @@ $nav-line-height: $base-line-height * $base-font-size * 2.25;
 */
 .footer {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   flex-wrap: wrap;
 
-  a {
-    margin: 0px 20px 15px;
+  span.sponsor {
+      margin-bottom: 15px;
+  }
+
+  span + span.sponsor {
+      margin-left: 20px;
   }
 
   img {
