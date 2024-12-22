@@ -198,18 +198,20 @@ $nav-line-height: $base-line-height * $base-font-size * 2.25;
 */
 .footer {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
 
   a {
-    margin: 0 20px;
+    margin: 0px 20px 15px;
   }
 
+  img {
+    height: 70px;
+  }
+  
   @include media-query($on-palm) {
+    justify-content: center;
     flex-wrap: wrap;
-
-    a {
-      margin: 15px 20px;
-    }
   }
 }
 
