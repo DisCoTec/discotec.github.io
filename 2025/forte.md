@@ -59,7 +59,7 @@ We solicit papers in the following categories:
 * __Short papers__ (up to 6 pages, not counting references): describing innovative and promising ideas, possibly in an early form, or demonstrating new tools (components), or presenting (i) calls to action, or (ii) substantiated reflections on current and/or future research perspectives related to FORTE, or a summary of a published journal paper clarifying why the presentation would enrich the program of FORTE.
 
 ### Submission Link
-https://easychair.org/conferences/?conf=forte2025
+[Submission Link](https://easychair.org/conferences/?conf=forte2025)
   
 ### Publication
 
