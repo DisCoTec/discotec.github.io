@@ -16,7 +16,7 @@ DisCoTec 2025 will host the following invited speakers.
 * [Alysson Bessani](https://ciencias.ulisboa.pt/en/perfil/anbessani) (Universidade de Lisboa, Portugal) - [DAIS](./dais)
 * [Hélène Coullon](http://helene-coullon.fr/) (IMT Atlantique, France) - DisCoTec-wide
 * [Omar Inverso](https://www.gssi.it/people/professors/lectures-computer-science/item/1018-inverso-omar) (GSSI, Italy) - [COORDINATION](./coordination)
-* [Burcu Ozkan](https://burcuku.github.io/home/) (TU Delft, The Netherlands) - [FORTE](./forte)
+* [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/) (TU Delft, The Netherlands) - [FORTE](./forte)
 
 ### Tutorials
 
