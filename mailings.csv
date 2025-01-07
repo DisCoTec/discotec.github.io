@@ -10,7 +10,6 @@ Concurrency,concurrency@listserver.tue.nl,https://listserver.tue.nl/mailman/list
 FoLLi,folli@folli.info,https://mail.folli.info/mailman/listinfo/folli_folli.info,Post,Post,Subscription under moderation.
 GDR GPL,gdr.gpl@univ-grenoble-alpes.fr,https://listes.univ-grenoble-alpes.fr/sympa/subscribe/gdr.gpl,Mod,Mod,
 FMICS,fmics@inria.fr,https://sympa.inria.fr/sympa/subscribe/fmics,Sub,Sub,
-AISWorld,aisworld@isworld.org,https://isworld.org/mailman/listinfo/aisworld_isworld.org,Post,Sub,Moved from aisworld@lists.aisnet.org.
 IE-Announce,announce@informatics-europe.org,http://lists.informatics-europe.org/mailman/listinfo/announce,Sub,Sub,
 GDR I3,bull-i3@irit.fr,https://listes.irit.fr/sympa/subscribe/bull-i3,Mod,Sub,
 JISBD,distjisbd@lcc.uma.es,Not necessary.,Mod,Mod,
@@ -20,7 +19,7 @@ FMNET,fmnet-request@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.ex
 Gratra,gratra@lists.uni-paderborn.de,https://lists.uni-paderborn.de/mailman/listinfo/gratra/,Sub,Sub,
 HiPEAC,hipeac.publicity@lists.ugent.be,https://helpdesk.ugent.be/email/sympause.php (follow instructions to send mail),Mod,Mod,
 HOL,hol-info@lists.sourceforge.net,https://sourceforge.net/projects/hol/lists/hol-info,Sub,Mod,
-Maude-users,maude-users@cs.uiuc.edu,https://lists.cs.illinois.edu/lists/subscribe/maude-users,Sub,Mod,
+Maude-users,maude-users@cs.uiuc.edu,https://lists.cs.illinois.edu/lists/subscribe/maude-users,Sub,Post,
 Moca,moca-announce@list.it.uu.se,https://lists.uu.se/sympa/subscribe/it-moca,Sub,Sub,Subscribing to Moca includes Moca-Announce.
 NWPT,nwpt-info@lists.ioc.ee,Not sure.,Mod,Mod,Mailing list website seems to be down (https://lists.ioc.ee/).
 Petri Nets World,petri-net-world@petrinet.net,Send an email to petri-net-world@petrinet.net.,Mod,Rej,Satellite call rejected. Used to be petrinet@informatik.uni-hamburg.de.
@@ -67,6 +66,7 @@ SENSORIA project,sensoria@lists.tcs.ifi.lmu.de,Not sure.,Sub,Sub,worked for me i
 SYNALP,synalp@inrialpes.fr,https://www.inrialpes.fr/synalp/Mailing/,Sub,Sub,worked for me *most of the time* in the past (Simon).
 EU Types,eutypes@cs.ru.nl,https://mailman.science.ru.nl/mailman/listinfo/eutypes,Sub,Sub,"Only post directly, without other recipients and BCC. Only <= 40kB."
 Reflective Middelware,reflective-middleware@cs.uiuc.edu,https://lists.cs.illinois.edu/lists/subscribe/reflective-middleware,Sub,Sub,<=40kB.
+AISWorld,aisworld@isworld.org,https://isworld.org/mailman/listinfo/aisworld_isworld.org,Post,Sub,Removed after bounces. Moved from aisworld@lists.aisnet.org.
 SEWORLD,seworld@sigsoft.org,https://www.sigsoft.org/resources/seworld.html,Rej,Sub,Focus on SE research only.
 HPC,hpc-announce@mcs.anl.gov,https://lists.mcs.anl.gov/mailman/listinfo/hpc-announce,Rej,Rej,"First rejected by rule filter, then got blocked."
 GPCE,gpce-news@cs.rice.edu,https://mailman.rice.edu/mailman/listinfo/gpce-news-l,,Rej,Need to use gpce-related.
