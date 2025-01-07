@@ -11,11 +11,12 @@ order: 6
 * [How to arrive](#how-to-arrive)
 * [Moving around the city](#moving-around-the-city)
 * [Accommodation](#accommodation)
+* [Beyond the Conference: Bienvenue à Lille!](#beyond-the-conference-bienvenue-à-lille)
 
 ## Location
 DisCoTec 2025 will take place on the Cité Scientifique campus: main conferences will be hosted by Polytech Lille, while workshops will occur in the ESPRIT building (next to Polytech).
 
-* *Address*: Polytech Lille - Avenue Paul Langevin - 59655 Villeneuve d'Ascq cedex - France 
+* *Address*: Polytech Lille - Avenue Paul Langevin - 59655 Villeneuve d'Ascq cedex - France
 * *Metro stop*: [4 Cantons - Stade Pierre Mauroy](https://www.google.com/maps/place/4+Cantons+Grand+Stade/@50.6063798,3.140079,16.93z/data=!4m6!3m5!1s0x47c2d6521ab6f00b:0x48f55ec632075f2c!8m2!3d50.605552!4d3.1388518!16s%2Fg%2F12vzpk3rm?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D)
 
 ![Photograph of the Polytech Lille building](https://newsroom.univ-lille.fr/fileadmin/_processed_/2/1/csm_polytech-lille_6652f23e58.jpeg)
@@ -46,7 +47,7 @@ The university employs 10,000 people (including 3,300 academic staff) and incorp
 
 ## How to arrive
 
-We strongly encourage DisCoTec participants to consider sustainable options for arriving to Lille. 
+We strongly encourage DisCoTec participants to consider sustainable options for arriving to Lille.
 
 ### Travel by Train
 
@@ -66,7 +67,6 @@ Even though all aforementioned trains should be bookable through the [SNCF Conne
 
 *Note: SNCF Connect does not include trips from SNCF competitors (Deutsche Bahn, Renfe or Trenitalia for instance), so you might want to book your trip on [Trainline](https://www.thetrainline.com/).*
 
----
 
 In France, there are two categories of high-speed journey: *inOui* is the name of the premium service, while *Ouigo* is the low-cost variant.
 Both services usually run the same trains, [TGVs](https://en.wikipedia.org/wiki/TGV).
@@ -92,9 +92,99 @@ To plan your travel, you can also rely on Google Maps.
 
 We strongly recommend booking a room **as soon as possible**: mid June is a busy period in the Lille area.
 
-The DisCoTec events will take place on the Campus Scientifique, which is located south-east of Lille in Villeneuve d'Ascq. The campus is about 7 km from the city center, where most hotels are located. We recommend staying in the center, as there is a  good metro connection with the campus. 
+The DisCoTec events will take place on the Campus Scientifique, which is located south-east of Lille in Villeneuve d'Ascq. The campus is about 7 km from the city center, where most hotels are located. We recommend staying in the center, as there is a  good metro connection with the campus.
 
 You can book accommodation using well-known platforms such as [booking.com](https://www.booking.com) and [airbnb](https://www.airbnb.com).
- 
+
 Alternatively, we intend to block a limited number of rooms in selected hotels for DisCoTec participants. These rooms will be available on a first-come, first-served basis. To get details about prices and secure your booking, please check [here](./hotels).
+
+## Beyond the Conference: Bienvenue à Lille!
+
+Welcome to Lille, the vibrant heart of northern France, Capital of Flanders! While you're here discussing distributed computing, why not distribute some joy among your taste buds and cultural senses? Here's a quick guide to help you explore this charming city like a "Lillois"!
+
+
+### Lille's Must-Try Beers and Bars
+#### Best Beers Bars in Lille
+
+Lille is a beer lover's paradise!
+
+- [**La Capsule**](https://www.bar-la-capsule.fr/):
+  Hidden in Old Lille, this cozy bar serves an impressive selection of craft beers. Perfect for geeky chats over hoppy ales.
+
+- [**La Mousse Touch'**](https://lilleaddict.fr/magasins-specialises/la-mousse-touch-lille.html):
+  Located near the iconic Gare Saint-Sauveur, La Mousse Touch' combines the best of both worlds: a microbrewery producing unique local beers (like their signature brew, “La Daron”) and a cozy bar with an extensive “bièrothèque” (beer library). With a focus on regional flavors and sustainable practices, this spot is a must for beer enthusiasts looking to explore Lille's craft beer scene. The warm wooden decor and sunny ambiance make it the perfect place to relax before diving into a nearby exhibition or concert.
+
+
+#### Best Wine Bars in Lille
+
+While Lille might not have vineyards on its slag heaps (yet), the city boasts some excellent wine bars. Here are our top picks for enjoying a great glass of wine:
+
+- [**Les Frères Pinard**](https://lesfrerespinard.com/):
+  This wine bar and delicatessen, set in a charming red-brick space, presents its menu as a map of France. Wines, cheeses, and charcuterie are categorized by five major regions, letting you craft a custom-made, 100% French, high-quality aperitif to enjoy on-site or take away.
+
+- [**Le Jaja**](https://lilleaddict.fr/adresse/jaja):
+  Located in the heart of Vieux-Lille, this wine bar features a stunning selection of wines and delectable sharing boards. With its cozy brick-and-wood decor, it's a popular evening spot—reservations are recommended!
+
+
+### Best Bars for a Festive Vibe
+
+Looking for a lively spot to sip your drink while dancing or singing along? Here's a selection of bars where great music meets a fun atmosphere:
+
+- [**L'Intervalle**](https://www.facebook.com/lintervallebarJazzlille/):
+  Slightly tucked away from Rue Royale, this bar hosts frequent live music events, including a weekly gypsy jazz night every Thursday!
+
+- [**Bistrot Saint So'**](https://www.bistrotdestso.com/):
+  Known for its regular concerts, DJ sets, and apéromixes from Thursday to Saturday, this spot is a great choice. The only downside? The party wraps up at midnight.
+
+- [**SoulTrain Café**](https://www.soultraincafe.com/):
+  A haven for lovers of black music classics, from soul to hip-hop and RnB. This chic spot also offers a stellar cocktail menu in a classy yet relaxed ambiance.
+
+- [**Le Kremlin**](https://www.lescachotteriesdelille.com/bars/le-kremlin-bar-a-vodkas/):
+  Vodka enthusiasts, this Soviet-themed bar is for you. Quirky, memorable, and dangerously fun!
+
+- [**La Pirogue**](https://rumporter.com/bar-a-cocktails-pirogue-qg-rhum-nord/):
+  If vodka at Le Kremlin wasn't your thing, maybe rum at La Pirogue will float your boat! This tropical gem in Old Lille serves up a world-class rum selection, from punchy cocktails to premium aged bottles, all in a laid-back island vibe. It's like a Caribbean getaway
+
+
+### Best Bars for Games in Lille
+
+Bars are already great places for socializing, but these spots take it a step further by offering fun and unique games beyond your usual darts or foosball:
+
+- [**La Luck**](https://www.la-luck.com/restaurants/lille):
+  Inspired by a concept from Montreal, the creators of this Vieux-Lille gem brought back the idea of a game bar with 700 board games, "sommeliers du jeu" to explain the rules, and a Canadian-inspired menu. Enjoy vegan or meaty poutine for dinner or maple syrup-drizzled pancakes for brunch on weekends!
+
+
+### Restaurants Worth Writing Home About
+
+TBA
+
+
+### Cultural Delights
+
+Expand your mind outside the conference:
+
+- [**Lille 3000**](https://lille3000.com/):
+  Every three years, Lille transforms into a cultural playground for Lille3000, and 2025 promises to be no exception. Running throughout the summer, this vibrant festival brings together art, music, dance, and immersive installations, turning the city into an open-air exhibition.
+
+- [**Palais des Beaux-Arts**](https://pba.lille.fr/):
+  One of France's largest art museums, filled with masterpieces. A must for both art buffs and air-conditioning enthusiasts.
+
+- **Parc de la Citadelle**: Need fresh air? This sprawling green space is perfect for a run, stroll, or philosophizing about distributed systems.
+
+- [**La Gare Saint-Sauveur**](https://www.garesaintsauveur.lille3000.eu/):
+  A repurposed train station that's now a hub for contemporary art, quirky exhibitions, and lively events. This June, it will be a major venue for Lille3000 2025.
+
+- [**Musée de l'Hospice Comtesse**](https://www.lille.fr/La-culture-en-continu/Musees-et-arts-visuels/Musees/Musee-de-l-Hospice-Comtesse):
+  Nestled in the heart of Old Lille, this former medieval hospital-turned-museum offers a unique glimpse into the city's history. Wander through its beautiful Flemish-style architecture while admiring artworks, period furniture, and fascinating relics of Lille's past.
+
+- [**Maison Natale Charles de Gaulle**](https://www.charles-de-gaulle.org/les-lieux-gaulliens/la-maison-natale-charles-de-gaulle/):
+  Visit the birthplace of France's iconic leader, now a museum showcasing his life and legacy. Bonus: It's located in a charming cobblestone area of Lille.
+
+
+### Quick Tips
+- Say “Bonjour!” to everyone, even bartenders. It's the magic password to French politeness.
+- Try a maroilles cheese tart. It smells intense but tastes divine.
+- Don't leave without exploring Old Lille's cobblestone streets!
+
+
 
