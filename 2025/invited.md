@@ -43,7 +43,6 @@ Our recent works narrow the gap between formal verification and randomized testi
 
 Bio: Burcu Kulahcioglu Ozkan is an assistant professor and Delft Technology Fellow in the Software Engineering Research Group at TU Delft. She received her PhD from Koç University in Istanbul, Turkey, followed by postdoctoral research at the Max Planck Institute for Software Systems (MPI-SWS) in Kaiserslautern, Germany. Her research focuses on formal methods, model checking, software testing, and debugging of concurrent programs and distributed systems. She is a recipient of the academic research awards and grants from Amazon Research and Stellar Development Foundation.
 
-Web: https://burcuku.github.io/home/
 ## Tutorials
 
 DisCoTec 2025 will host a tutorial at each conference.
