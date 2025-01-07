@@ -106,16 +106,22 @@ Welcome to Lille, the vibrant heart of northern France, Capital of Flanders! Whi
 ### Lille's Must-Try Beers and Bars
 #### Best Beers Bars in Lille
 
+![Photograph of "La Capsule"](https://lilleaddict.fr/wp-content/uploads/2023/11/dsc_0836-1-1024x1006.jpg)
+*Photo of "La Capsule" by Lille Addict on [their website](https://lilleaddict.fr/adresse/la-capsule)*
+
 Lille is a beer lover's paradise!
 
 - [**La Capsule**](https://www.bar-la-capsule.fr/):
   Hidden in Old Lille, this cozy bar serves an impressive selection of craft beers. Perfect for geeky chats over hoppy ales.
 
 - [**La Mousse Touch'**](https://lilleaddict.fr/magasins-specialises/la-mousse-touch-lille.html):
-  Located near the iconic Gare Saint-Sauveur, La Mousse Touch' combines the best of both worlds: a microbrewery producing unique local beers (like their signature brew, “La Daron”) and a cozy bar with an extensive “bièrothèque” (beer library). With a focus on regional flavors and sustainable practices, this spot is a must for beer enthusiasts looking to explore Lille's craft beer scene. The warm wooden decor and sunny ambiance make it the perfect place to relax before diving into a nearby exhibition or concert.
+  Located near the iconic Gare Saint-Sauveur, La Mousse Touch' combines the best of both worlds: a microbrewery producing unique local beers (like their signature brew, “La Daron”) and a cozy bar with an extensive “bièrothèque” (beer library).
 
 
 #### Best Wine Bars in Lille
+
+![Photograph of "La Capsule"](https://lilleaddict.fr/wp-content/uploads/2023/12/image_6-812x1024.webp)
+*Photo of "Les Frères Pinard" by Lille Addict on [their website](https://lilleaddict.fr/adresse/les-freres-pinard)*
 
 While Lille might not have vineyards on its slag heaps (yet), the city boasts some excellent wine bars. Here are our top picks for enjoying a great glass of wine:
 
@@ -123,7 +129,7 @@ While Lille might not have vineyards on its slag heaps (yet), the city boasts so
   This wine bar and delicatessen, set in a charming red-brick space, presents its menu as a map of France. Wines, cheeses, and charcuterie are categorized by five major regions, letting you craft a custom-made, 100% French, high-quality aperitif to enjoy on-site or take away.
 
 - [**Le Jaja**](https://lilleaddict.fr/adresse/jaja):
-  Located in the heart of Vieux-Lille, this wine bar features a stunning selection of wines and delectable sharing boards. With its cozy brick-and-wood decor, it's a popular evening spot—reservations are recommended!
+  Located in the heart of Vieux-Lille, this wine bar features a stunning selection of wines and delectable sharing boards. With its cozy brick-and-wood decor, it's a popular evening spot—reservations are recommended! 
 
 
 ### Best Bars for a Festive Vibe
@@ -154,12 +160,42 @@ Bars are already great places for socializing, but these spots take it a step fu
   Inspired by a concept from Montreal, the creators of this Vieux-Lille gem brought back the idea of a game bar with 700 board games, "sommeliers du jeu" to explain the rules, and a Canadian-inspired menu. Enjoy vegan or meaty poutine for dinner or maple syrup-drizzled pancakes for brunch on weekends!
 
 
-### Restaurants Worth Writing Home About
+### Best Restaurants in Lille  
 
-TBA
+From traditional estaminets to iconic desserts, Lille is a foodie paradise! Here's a guide to some of the best spots to satisfy your cravings.
 
+#### Traditional Estaminets 
+
+![Photograph of a table at "La Ch'tite Brigitte"](https://lilleaddict.fr/wp-content/uploads/2023/12/img_2196-2-e1704796922459.jpg)
+*Photo of a table at "La Ch'tite Brigitte" by Lille Addict on [their website](https://lilleaddict.fr/meilleur/restaurant-lille/les-10-meilleurs-estaminets-a-lille.html)*
+
+- [**La Ch'tite Brigitte**](https://www.chtitebrigitte.com/):
+  Recently crowned the best estaminet in Lille by locals, this spot has quickly become a must-visit. Dive into regional specialties like the flamiche au maroilles, carbonnade, waterzoï, or the famous fricadelle. Their Welsh is a creative twist featuring Sablé de Wissant cheese!
+
+- [**La Petite Table**](https://www.lapetitetable-vieuxlille.com/?lang=fr):
+  A cozy family-run estaminet, this restaurant serves up regional classics like carbonnade flamande, potjevleesch, and a perfectly executed welsh (more traditionnal that former!. Pair these dishes with one of the 20 beers on offer for a true Northern experience.
+
+- [**Les Compagnons de la Grappe**](https://lilleaddict.fr/adresse/les-compagnons-de-la-grapp):
+  Tucked away near Place du Théâtre, this charming spot combines a relaxed vibe with traditional cuisine. Enjoy their daily specials, including carbonnade, grilled fish, and even vegetarian and gluten-free options.
+
+#### Must-Try Desserts
+
+![Photograph of a Merveilleux](https://www.tendancefood.com/wp-content/uploads/2015/09/DSC_0596.jpg)
+*Photo of a "Merveilleux" from Fred by tendancefood on [their website](https://www.tendancefood.com/aux-merveilleux-de-fred-meringue-et-creme-fouettee/)*
+
+- [**Les P'tits Pouchins - L'Ogre de Carrouselberg**](https://www.ogre-de-carrouselberg.com/):
+  A seasonal pastry masterpiece that evolves with time, this creation is a local treasure. One version features caramelized vergeoise cream and a luscious caramel bonbon center. One bite and you'll be hooked.
+
+- [**Les Merveilleux de Fred**](https://auxmerveilleux.com/fr/):
+  A true institution, Fred's take on the classic merveilleux dessert is world-renowned. With delicate meringue and whipped cream perfection, it's no surprise he now runs three shops in Lille and others worldwide.
+
+- [**The Vanilla Waffles from Meert**](https://www.meert.fr/fr/):
+  A Lille icon, these Madagascar vanilla-filled waffles are as legendary as they are sweet. Perfect for indulging your sweet tooth!
 
 ### Cultural Delights
+
+![Photograph of La Gare Saint-Sauveur in the context of Lille3000](https://lille3000.com/wp-content/uploads/2023/01/la-gare-saint-sauveur-laurent-ghesquiere-min-min-1400x637.jpg)
+*Photo of La Gare Saint-Sauveur in the context of Lille3000 taken by Laurent Ghesquière on [Lille3000's website](https://lille3000.com/lieux/)*
 
 Expand your mind outside the conference:
 
