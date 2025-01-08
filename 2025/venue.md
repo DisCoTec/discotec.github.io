@@ -19,16 +19,16 @@ DisCoTec 2025 will take place on the Cité Scientifique campus: main conferences
 * *Address*: Polytech Lille - Avenue Paul Langevin - 59655 Villeneuve d'Ascq cedex - France
 * *Metro stop*: [4 Cantons - Stade Pierre Mauroy](https://www.google.com/maps/place/4+Cantons+Grand+Stade/@50.6063798,3.140079,16.93z/data=!4m6!3m5!1s0x47c2d6521ab6f00b:0x48f55ec632075f2c!8m2!3d50.605552!4d3.1388518!16s%2Fg%2F12vzpk3rm?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D)
 
-![Photograph of the Polytech Lille building](https://newsroom.univ-lille.fr/fileadmin/_processed_/2/1/csm_polytech-lille_6652f23e58.jpeg)
-*Photo by the University of Lille on [Twitter](https://twitter.com/univ_lille/status/1793576756789571692)*
+![Photograph of the Polytech Lille building](/2025/venue/polytech.png)
+*Photo by the University of Lille on [Twitter](https://twitter.com/univ_lille/status/1793576756789571692).*
 
-![Photograph of the ESPRIT grey building](https://webfactorycdn.fayat.com/var/site/storage/images/_aliases/gallery_1140/4/6/6/9/469664-1-fre-FR/d3b37d01ab69-facadedetail.jpg)
-*Photo by Fayat on [their website](https://nordfranceconstructions.fayat.com/decouvrir-nos-realisations/batiment-esprit-du-plan-campus-a-villeneuve-d-ascq-59)*
+![Photograph of the ESPRIT grey building](/2025/venue/esprit.png)
+*Photo by Fayat on [their website](https://nordfranceconstructions.fayat.com/decouvrir-nos-realisations/batiment-esprit-du-plan-campus-a-villeneuve-d-ascq-59).*
 
 ## About Lille
 
-![Photo of the Paris door, Lille](https://www.worldtravelguide.net/wp-content/uploads/2017/04/Think-France-Lille-465093876-tupianlingang-copy.jpg)
-*Photo by tupianlingang on [istockphoto.com](https://www.istockphoto.com/fr/photo/lille-ville-b%C3%A2timent-landmark-gm465093876-58944264)*
+![Photo of the Paris door, Lille](/2025/venue/lille.png)
+*Photo by tupianlingang on [istockphoto.com](https://www.istockphoto.com/fr/photo/lille-ville-b%C3%A2timent-landmark-gm465093876-58944264).*
 
 The city of Lille is the capital of the Hauts-de-France region, the most nothern region of France, and is at the center of the European Metropolis of Lille (MEL in French), which has a population of 1.5 million people.
 
@@ -85,8 +85,9 @@ To plan your travel, you can also rely on Google Maps.
 
 *Note: they say the Lille metro is the first fully automated driverless metro system in the world!*
 
-<img alt="Metro lille trains" style="width:100%" src="https://i.ytimg.com/vi/nUk9e0lbdJI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBMKo1GgRZcfxzybAlg4sJHlrze0A"/>
-*Photo by Central City - World Public Transport Videos on [YouTube](https://www.youtube.com/watch?v=nUk9e0lbdJI)*
+![Metro lille trains](/2025/venue/metro.png)
+<br />
+*Photo by Central City - World Public Transport Videos on [YouTube](https://www.youtube.com/watch?v=nUk9e0lbdJI).*
 
 ## Accommodation
 
@@ -106,16 +107,24 @@ Welcome to Lille, the vibrant heart of northern France, Capital of Flanders! Whi
 ### Lille's Must-Try Beers and Bars
 #### Best Beers Bars in Lille
 
+![Photograph of "La Capsule"](/2025/venue/lacapsule.png)
+<br />
+*Photo of "La Capsule" by Lille Addict on [their website](https://lilleaddict.fr/adresse/la-capsule).*
+
 Lille is a beer lover's paradise!
 
 - [**La Capsule**](https://www.bar-la-capsule.fr/):
   Hidden in Old Lille, this cozy bar serves an impressive selection of craft beers. Perfect for geeky chats over hoppy ales.
 
 - [**La Mousse Touch'**](https://lilleaddict.fr/magasins-specialises/la-mousse-touch-lille.html):
-  Located near the iconic Gare Saint-Sauveur, La Mousse Touch' combines the best of both worlds: a microbrewery producing unique local beers (like their signature brew, “La Daron”) and a cozy bar with an extensive “bièrothèque” (beer library). With a focus on regional flavors and sustainable practices, this spot is a must for beer enthusiasts looking to explore Lille's craft beer scene. The warm wooden decor and sunny ambiance make it the perfect place to relax before diving into a nearby exhibition or concert.
+  Located near the iconic Gare Saint-Sauveur, La Mousse Touch' combines the best of both worlds: a microbrewery producing unique local beers (like their signature brew, “La Daron”) and a cozy bar with an extensive “bièrothèque” (beer library).
 
 
 #### Best Wine Bars in Lille
+
+![Photograph of "Les Frères Pinard"](/2025/venue/lesfrerespinard.webp)
+<br />
+*Photo of "Les Frères Pinard" by Lille Addict on [their website](https://lilleaddict.fr/adresse/les-freres-pinard).*
 
 While Lille might not have vineyards on its slag heaps (yet), the city boasts some excellent wine bars. Here are our top picks for enjoying a great glass of wine:
 
@@ -123,7 +132,7 @@ While Lille might not have vineyards on its slag heaps (yet), the city boasts so
   This wine bar and delicatessen, set in a charming red-brick space, presents its menu as a map of France. Wines, cheeses, and charcuterie are categorized by five major regions, letting you craft a custom-made, 100% French, high-quality aperitif to enjoy on-site or take away.
 
 - [**Le Jaja**](https://lilleaddict.fr/adresse/jaja):
-  Located in the heart of Vieux-Lille, this wine bar features a stunning selection of wines and delectable sharing boards. With its cozy brick-and-wood decor, it's a popular evening spot—reservations are recommended!
+  Located in the heart of Vieux-Lille, this wine bar features a stunning selection of wines and delectable sharing boards. With its cozy brick-and-wood decor, it's a popular evening spot—reservations are recommended! 
 
 
 ### Best Bars for a Festive Vibe
@@ -154,12 +163,45 @@ Bars are already great places for socializing, but these spots take it a step fu
   Inspired by a concept from Montreal, the creators of this Vieux-Lille gem brought back the idea of a game bar with 700 board games, "sommeliers du jeu" to explain the rules, and a Canadian-inspired menu. Enjoy vegan or meaty poutine for dinner or maple syrup-drizzled pancakes for brunch on weekends!
 
 
-### Restaurants Worth Writing Home About
+### Best Restaurants in Lille  
 
-TBA
+From traditional estaminets to iconic desserts, Lille is a foodie paradise! Here's a guide to some of the best spots to satisfy your cravings.
 
+#### Traditional Estaminets 
+
+![Photograph of a table at "La Ch'tite Brigitte"](/2025/venue/lachtittebrigitte.png)
+<br />
+*Photo of a table at "La Ch'tite Brigitte" by Lille Addict on [their website](https://lilleaddict.fr/meilleur/restaurant-lille/les-10-meilleurs-estaminets-a-lille.html).*
+
+- [**La Ch'tite Brigitte**](https://www.chtitebrigitte.com/):
+  Recently crowned the best estaminet in Lille by locals, this spot has quickly become a must-visit. Dive into regional specialties like the flamiche au maroilles, carbonnade, waterzoï, or the famous fricadelle. Their Welsh is a creative twist featuring Sablé de Wissant cheese!
+
+- [**La Petite Table**](https://www.lapetitetable-vieuxlille.com/?lang=fr):
+  A cozy family-run estaminet, this restaurant serves up regional classics like carbonnade flamande, potjevleesch, and a perfectly executed welsh (more traditionnal that former!). Pair these dishes with one of the 20 beers on offer for a true Northern experience.
+
+- [**Les Compagnons de la Grappe**](https://lilleaddict.fr/adresse/les-compagnons-de-la-grapp):
+  Tucked away near Place du Théâtre, this charming spot combines a relaxed vibe with traditional cuisine. Enjoy their daily specials, including carbonnade, grilled fish, and even vegetarian and gluten-free options.
+
+#### Must-Try Desserts
+
+![Photograph of a Merveilleux](/2025/venue/merveilleux.png)
+<br />
+*Photo of a "Merveilleux" from Fred by tendancefood on [their website](https://www.tendancefood.com/aux-merveilleux-de-fred-meringue-et-creme-fouettee/).*
+
+- [**Les P'tits Pouchins - L'Ogre de Carrouselberg**](https://www.ogre-de-carrouselberg.com/):
+  A seasonal pastry masterpiece that evolves with time, this creation is a local treasure. One version features caramelized vergeoise cream and a luscious caramel bonbon center. One bite and you'll be hooked.
+
+- [**Les Merveilleux de Fred**](https://auxmerveilleux.com/fr/):
+  A true institution, Fred's take on the classic merveilleux dessert is world-renowned. With delicate meringue and whipped cream perfection, it's no surprise he now runs three shops in Lille and others worldwide.
+
+- [**The Vanilla Waffles from Meert**](https://www.meert.fr/fr/):
+  A Lille icon, these Madagascar vanilla-filled waffles are as legendary as they are sweet. Perfect for indulging your sweet tooth!
 
 ### Cultural Delights
+
+![Photograph of La Gare Saint-Sauveur in the context of Lille3000](/2025/venue/lagaresainsauveur.png)
+<br />
+*Photo of La Gare Saint-Sauveur in the context of Lille3000 taken by Laurent Ghesquière on [Lille3000's website](https://lille3000.com/lieux/).*
 
 Expand your mind outside the conference:
 
