@@ -19,16 +19,16 @@ DisCoTec 2025 will take place on the Cité Scientifique campus: main conferences
 * *Address*: Polytech Lille - Avenue Paul Langevin - 59655 Villeneuve d'Ascq cedex - France
 * *Metro stop*: [4 Cantons - Stade Pierre Mauroy](https://www.google.com/maps/place/4+Cantons+Grand+Stade/@50.6063798,3.140079,16.93z/data=!4m6!3m5!1s0x47c2d6521ab6f00b:0x48f55ec632075f2c!8m2!3d50.605552!4d3.1388518!16s%2Fg%2F12vzpk3rm?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D)
 
-![Photograph of the Polytech Lille building](https://newsroom.univ-lille.fr/fileadmin/_processed_/2/1/csm_polytech-lille_6652f23e58.jpeg)
-*Photo by the University of Lille on [Twitter](https://twitter.com/univ_lille/status/1793576756789571692)*
+![Photograph of the Polytech Lille building](/2025/venue/polytech.png)
+*Photo by the University of Lille on [Twitter](https://twitter.com/univ_lille/status/1793576756789571692).*
 
-![Photograph of the ESPRIT grey building](https://webfactorycdn.fayat.com/var/site/storage/images/_aliases/gallery_1140/4/6/6/9/469664-1-fre-FR/d3b37d01ab69-facadedetail.jpg)
-*Photo by Fayat on [their website](https://nordfranceconstructions.fayat.com/decouvrir-nos-realisations/batiment-esprit-du-plan-campus-a-villeneuve-d-ascq-59)*
+![Photograph of the ESPRIT grey building](/2025/venue/esprit.png)
+*Photo by Fayat on [their website](https://nordfranceconstructions.fayat.com/decouvrir-nos-realisations/batiment-esprit-du-plan-campus-a-villeneuve-d-ascq-59).*
 
 ## About Lille
 
-![Photo of the Paris door, Lille](https://www.worldtravelguide.net/wp-content/uploads/2017/04/Think-France-Lille-465093876-tupianlingang-copy.jpg)
-*Photo by tupianlingang on [istockphoto.com](https://www.istockphoto.com/fr/photo/lille-ville-b%C3%A2timent-landmark-gm465093876-58944264)*
+![Photo of the Paris door, Lille](/2025/venue/lille.png)
+*Photo by tupianlingang on [istockphoto.com](https://www.istockphoto.com/fr/photo/lille-ville-b%C3%A2timent-landmark-gm465093876-58944264).*
 
 The city of Lille is the capital of the Hauts-de-France region, the most nothern region of France, and is at the center of the European Metropolis of Lille (MEL in French), which has a population of 1.5 million people.
 
@@ -85,8 +85,9 @@ To plan your travel, you can also rely on Google Maps.
 
 *Note: they say the Lille metro is the first fully automated driverless metro system in the world!*
 
-<img alt="Metro lille trains" style="width:100%" src="https://i.ytimg.com/vi/nUk9e0lbdJI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBMKo1GgRZcfxzybAlg4sJHlrze0A"/>
-*Photo by Central City - World Public Transport Videos on [YouTube](https://www.youtube.com/watch?v=nUk9e0lbdJI)*
+![Metro lille trains](/2025/venue/metro.png)
+<br />
+*Photo by Central City - World Public Transport Videos on [YouTube](https://www.youtube.com/watch?v=nUk9e0lbdJI).*
 
 ## Accommodation
 
@@ -106,8 +107,9 @@ Welcome to Lille, the vibrant heart of northern France, Capital of Flanders! Whi
 ### Lille's Must-Try Beers and Bars
 #### Best Beers Bars in Lille
 
-![Photograph of "La Capsule"](https://lilleaddict.fr/wp-content/uploads/2023/11/dsc_0836-1-1024x1006.jpg)
-*Photo of "La Capsule" by Lille Addict on [their website](https://lilleaddict.fr/adresse/la-capsule)*
+![Photograph of "La Capsule"](/2025/venue/lacapsule.png)
+<br />
+*Photo of "La Capsule" by Lille Addict on [their website](https://lilleaddict.fr/adresse/la-capsule).*
 
 Lille is a beer lover's paradise!
 
@@ -120,8 +122,9 @@ Lille is a beer lover's paradise!
 
 #### Best Wine Bars in Lille
 
-![Photograph of "La Capsule"](https://lilleaddict.fr/wp-content/uploads/2023/12/image_6-812x1024.webp)
-*Photo of "Les Frères Pinard" by Lille Addict on [their website](https://lilleaddict.fr/adresse/les-freres-pinard)*
+![Photograph of "Les Frères Pinard"](/2025/venue/lesfrerespinard.webp)
+<br />
+*Photo of "Les Frères Pinard" by Lille Addict on [their website](https://lilleaddict.fr/adresse/les-freres-pinard).*
 
 While Lille might not have vineyards on its slag heaps (yet), the city boasts some excellent wine bars. Here are our top picks for enjoying a great glass of wine:
 
@@ -166,22 +169,24 @@ From traditional estaminets to iconic desserts, Lille is a foodie paradise! Here
 
 #### Traditional Estaminets 
 
-![Photograph of a table at "La Ch'tite Brigitte"](https://lilleaddict.fr/wp-content/uploads/2023/12/img_2196-2-e1704796922459.jpg)
-*Photo of a table at "La Ch'tite Brigitte" by Lille Addict on [their website](https://lilleaddict.fr/meilleur/restaurant-lille/les-10-meilleurs-estaminets-a-lille.html)*
+![Photograph of a table at "La Ch'tite Brigitte"](/2025/venue/lachtittebrigitte.png)
+<br />
+*Photo of a table at "La Ch'tite Brigitte" by Lille Addict on [their website](https://lilleaddict.fr/meilleur/restaurant-lille/les-10-meilleurs-estaminets-a-lille.html).*
 
 - [**La Ch'tite Brigitte**](https://www.chtitebrigitte.com/):
   Recently crowned the best estaminet in Lille by locals, this spot has quickly become a must-visit. Dive into regional specialties like the flamiche au maroilles, carbonnade, waterzoï, or the famous fricadelle. Their Welsh is a creative twist featuring Sablé de Wissant cheese!
 
 - [**La Petite Table**](https://www.lapetitetable-vieuxlille.com/?lang=fr):
-  A cozy family-run estaminet, this restaurant serves up regional classics like carbonnade flamande, potjevleesch, and a perfectly executed welsh (more traditionnal that former!. Pair these dishes with one of the 20 beers on offer for a true Northern experience.
+  A cozy family-run estaminet, this restaurant serves up regional classics like carbonnade flamande, potjevleesch, and a perfectly executed welsh (more traditionnal that former!). Pair these dishes with one of the 20 beers on offer for a true Northern experience.
 
 - [**Les Compagnons de la Grappe**](https://lilleaddict.fr/adresse/les-compagnons-de-la-grapp):
   Tucked away near Place du Théâtre, this charming spot combines a relaxed vibe with traditional cuisine. Enjoy their daily specials, including carbonnade, grilled fish, and even vegetarian and gluten-free options.
 
 #### Must-Try Desserts
 
-![Photograph of a Merveilleux](https://www.tendancefood.com/wp-content/uploads/2015/09/DSC_0596.jpg)
-*Photo of a "Merveilleux" from Fred by tendancefood on [their website](https://www.tendancefood.com/aux-merveilleux-de-fred-meringue-et-creme-fouettee/)*
+![Photograph of a Merveilleux](/2025/venue/merveilleux.png)
+<br />
+*Photo of a "Merveilleux" from Fred by tendancefood on [their website](https://www.tendancefood.com/aux-merveilleux-de-fred-meringue-et-creme-fouettee/).*
 
 - [**Les P'tits Pouchins - L'Ogre de Carrouselberg**](https://www.ogre-de-carrouselberg.com/):
   A seasonal pastry masterpiece that evolves with time, this creation is a local treasure. One version features caramelized vergeoise cream and a luscious caramel bonbon center. One bite and you'll be hooked.
@@ -194,8 +199,9 @@ From traditional estaminets to iconic desserts, Lille is a foodie paradise! Here
 
 ### Cultural Delights
 
-![Photograph of La Gare Saint-Sauveur in the context of Lille3000](https://lille3000.com/wp-content/uploads/2023/01/la-gare-saint-sauveur-laurent-ghesquiere-min-min-1400x637.jpg)
-*Photo of La Gare Saint-Sauveur in the context of Lille3000 taken by Laurent Ghesquière on [Lille3000's website](https://lille3000.com/lieux/)*
+![Photograph of La Gare Saint-Sauveur in the context of Lille3000](/2025/venue/lagaresainsauveur.png)
+<br />
+*Photo of La Gare Saint-Sauveur in the context of Lille3000 taken by Laurent Ghesquière on [Lille3000's website](https://lille3000.com/lieux/).*
 
 Expand your mind outside the conference:
 
