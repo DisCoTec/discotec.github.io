@@ -43,13 +43,13 @@ More information soon
 
 ![Burcu Kulahcioglu Ozkan](/2025/keynote/BurcuOzkan.png){: .keynote}
 
-Talk: From Formal Methods to Testing of Distributed Systems
+**Title:** _From Formal Methods to Testing of Distributed Systems_
 
-Abstract: Distributed systems are prone to software bugs due to the concurrency of distributed events and potential network and process faults during execution. Detecting these bugs is notoriously challenging because they often occur only in specific, subtle interleavings of the events.  In principle, these bugs could be detected by model-checking techniques, which explore all possible event schedules. However, systematic exploration does not scale to large distributed systems, and it is only practical to test a subset of their executions. Alternatively, randomized testing is a practical method to apply to large systems, but it comes with limitations in its effectiveness.
+**Abstract:** Distributed systems are prone to software bugs due to the concurrency of distributed events and potential network and process faults during execution. Detecting these bugs is notoriously challenging because they often occur only in specific, subtle interleavings of the events.  In principle, these bugs could be detected by model-checking techniques, which explore all possible event schedules. However, systematic exploration does not scale to large distributed systems, and it is only practical to test a subset of their executions. Alternatively, randomized testing is a practical method to apply to large systems, but it comes with limitations in its effectiveness.
 
 Our recent works narrow the gap between formal verification and randomized testing of distributed systems, bringing together the effectiveness of formal methods and the practicality of randomized testing. In this talk, we will overview the key ideas in our recent works and discuss how transferring ideas from formal methods and verification improves the effectiveness of randomized test generation.
 
-Bio: Burcu Kulahcioglu Ozkan is an assistant professor and Delft Technology Fellow in the Software Engineering Research Group at TU Delft. She received her PhD from Koç University in Istanbul, Turkey, followed by postdoctoral research at the Max Planck Institute for Software Systems (MPI-SWS) in Kaiserslautern, Germany. Her research focuses on formal methods, model checking, software testing, and debugging of concurrent programs and distributed systems. She is a recipient of the academic research awards and grants from Amazon Research and Stellar Development Foundation.
+**Bio:** Burcu Kulahcioglu Ozkan is an assistant professor and Delft Technology Fellow in the Software Engineering Research Group at TU Delft. She received her PhD from Koç University in Istanbul, Turkey, followed by postdoctoral research at the Max Planck Institute for Software Systems (MPI-SWS) in Kaiserslautern, Germany. Her research focuses on formal methods, model checking, software testing, and debugging of concurrent programs and distributed systems. She is a recipient of the academic research awards and grants from Amazon Research and Stellar Development Foundation.
 
 ## Tutorials
 
