@@ -103,6 +103,6 @@ interactions such as those typical in smart contracts.
 
 The tutorial will show how to use DAFSMs to formalise coordination
 protocols and analyse their well-formedness using a Tool for
-Resource-Aware Coordination (TRAC, https://github.com/loctet/TRAC),
+Resource-Aware Coordination ([TRAC](https://github.com/loctet/TRAC),
 designed to support our approach.
 
