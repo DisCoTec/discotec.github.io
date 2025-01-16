@@ -79,4 +79,30 @@ More information soon.
 
 ![Emilio Tuosto](/2025/keynote/EmilioTuosto.png){: .keynote}
 
-More information soon.
+**Title:** _A choreographic view of Smart Contracts_ 
+
+Joint work with Elvis Konjoh Selabi (UniCam and GSSI), Maurizio Murgia
+(GSSI), and António Ravara (NOVA, Lisbon). 
+
+***Abstract:***
+We recently proposed a coordination model that blends together ideas
+from smart contracts, choreographies, and typestates to formalise and
+reason about interactions of distributed components. Our framework is
+based on symbolic finite-state machines dubbed DAFSMs (after
+<i>d</i>ata-<i>a</i>ware <i>f</i>inite-<i>s</i>tate <i>m</i>achines) to
+holistically capture <i>coordination protocols</i> which, akin smart
+contracts, expose an API that distributed components use to interact
+according to the <i>role</i> they play in the protocol. As global
+specifications such as global types, DAFSMs allow us to define so-called
+<i>well-formedness</i> properties, while abstracting away from run-time
+details such as the number of number of components' instances enacting
+the roles of the protocol. Interestingly DAFSMs can represent
+data-dependency. This is a quintessential aspect to handle properties
+that, like well-formedness, depend on the payloads of components'
+interactions such as those typical in smart contracts.
+
+The tutorial will show how to use DAFSMs to formalise coordination
+protocols and analyse their well-formedness using a Tool for
+Resource-Aware Coordination (TRAC, https://github.com/loctet/TRAC),
+designed to support our approach.
+
