@@ -47,7 +47,7 @@ Go to the [list of accepted papers](https://www.discotec.org/2024/accepted-paper
 
 ### Submission link
 
-(https://easychair.org/conferences/directory?a=33795264)
+Submission are via Easychair at: [https://easychair.org/conferences/directory?a=33795264](https://easychair.org/conferences/directory?a=33795264)
 
 ### Publication
 
@@ -117,13 +117,13 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Gianluigi Zavattaro (Department of Computer Science and Engineering - University of Bologna, Italy)
 * Maurice ter Beek (CNR, Italy)
 
-<!--
+
 ## Artefact Evaluation Committee chair
-TBA
+Duncan Attard,  (University of Glasgow, UK)
 
 ## Artefact Evaluation Committee
 TBA
--->
+
 
 ## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
