@@ -47,7 +47,7 @@ Go to the [list of accepted papers](https://www.discotec.org/2024/accepted-paper
 
 ### Submission link
 
-Submission are via Easychair at: [https://easychair.org/conferences/directory?a=33795264](https://easychair.org/conferences/directory?a=33795264)
+Submission are via Easychair at: [https://easychair.org/conferences/?conf=coordination2025](https://easychair.org/conferences/?conf=coordination2025)
 
 ### Publication
 
