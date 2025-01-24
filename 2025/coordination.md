@@ -47,7 +47,7 @@ Go to the [list of accepted papers](https://www.discotec.org/2024/accepted-paper
 
 ### Submission link
 
-TBA
+(https://easychair.org/conferences/directory?a=33795264)
 
 ### Publication
 
@@ -84,17 +84,46 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * [Cinzia Di Giusto][CinziaWeb] (Université Côte d'Azur)
 * [António Ravara][AntonioWeb] (NOVA School of Science and Technology)
 
+<!--
 ## Publicity chair
 * [Saverio Giallorenzo](https://www.unibo.it/sitoweb/saverio.giallorenzo2/) (University of Bologna, Italy)
+-->
 
 ## Programme Committee
-TBA
+* S. Akshay (IIT Bombay, India)	
+* Étienne André	(Université Sorbonne Paris Nord, LIPN, CNRS UMR 7030, France)
+* Giovanni Bacci (Dept. of Computer Science, Aalborg University, Denmark)
+* Massimo Bartoletti (Dipartimento di Matematica e Informatica, Universita' degli Studi di Cagliari, Italy)	
+* Georgiana	Caltais (University of Twente, Netherlands)
+* Marco	Carbone (IT University of Copenhagen, Denmark)	
+* Ilaria Castellani	(INRIA, France)
+* Valentina Castiglioni (Eindhoven University of Technology, Netherlands)
+* João Costa Seco (NOVA LINCS - NOVA University Lisbon, Portugal)
+* Pedro R. D'Argenio (Universidad Nacional de Córdoba - CONICET, Argentina)
+* Farzaneh Derakhshan (Illinois Tech University, USA)
+* Silvia Ghilezan (University of Novi Sad, Mathematical Institute SASA, Serbia)
+* Ludovic Henrio (CNRS, France)
+* Thomas Hildebrandt (University of Copenhagen, Denmark)
+* Daniel Hirschkoff	(ENS Lyon, France)
+* Hanna	Klaudel	(IBISC, university of Evry, France)
+* Eva Kühn (Vienna University of Technology, Austria)
+* Carlos Gustavo Lopez Pombo (Escuela de Producción, Tecnologíay Medio Ambiente, Universidad Nacional de Río Negro and CONICET, Argentina)
+* Roland Meyer (TU Braunschweig, Germany)
+* Barbara Re (University of Camerino, Italy)
+* Felix	Stutz (University of Luxembourg, Luxembourg)
+* Meng Sun (Peking University, China)
+* Carolyn Talcott (SRI International, USA)
+* Frank Valencia (LIX, Ecole Polytechnique, France)
+* Gianluigi Zavattaro (Department of Computer Science and Engineering - University of Bologna, Italy)
+* Maurice ter Beek (CNR, Italy)
 
+<!--
 ## Artefact Evaluation Committee chair
 TBA
 
 ## Artefact Evaluation Committee
 TBA
+-->
 
 ## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
