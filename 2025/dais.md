@@ -80,7 +80,23 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 * [Ibéria Medeiros][IberiaWeb] (University of Lisbon, Portugal)
 
 ## Program committee
-TBA
+* Pierre Louis Aublin, IIJ Research laboratory, Japan
+* Christian	Berger, University of Passau, Germany
+* David	Bermbach, TU Berlin, Germany
+* Lorenzo	Carnevale, Universty of Messina, Italy
+* Zhiyuan	Chen, University of Maryland Baltimore County, USA
+* Davide Frey, Inria, France
+* Shashikant Ilager, University of Amsterdam, Netherlands
+* Pradeeban	Kathiravelu, University of Alaska Anchorage, USA
+* Odorico Machado	Mendizabal, Federal University of Santa Catarina, Brazil
+* Anas Mokhtari, Morocco
+* Hans Reiser, Reykjavik University, Iceland
+* Etienne	Rivière, UC Louvain, Belgique
+* Guillaume	Rosinosky, IMT Atlantique, France
+* Valerio	Schiavoni, University of Neuchâtel, Switzerland
+* Ali Shoker, KAUST, Saudi Arabia
+* Luís Antunes Veiga, University of Lisbon, Portugal
+* Spyros Voulgaris, Athens University of Economics and Business, Greece
   
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands
