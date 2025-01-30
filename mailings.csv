@@ -1,17 +1,17 @@
 Name,Submission,Subscription,Papers 2,Papers 1,Satellite,Comment
 CPHC-CONF,cphc-conf@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=CPHC-CONF&A=1,Post,Post,Post,
-ACM PODC,podc-related@acm.org,https://www.podc.org/podc-email-list/,Mod,Post,Post,
+ACM PODC,podc-related@acm.org,https://www.podc.org/podc-email-list/,Post,Post,Post,
 DMaNet,dmanet@zpr.uni-koeln.de,https://www.zaik.uni-koeln.de/mailman/listinfo/dmanet,Mod,Mod,Post,
-FME Events,events@fmeurope.org,https://lists.uu.se/sympa/subscribe/it-fmeurope-events,Mod,Post,Post,"Currently an alias for it-fmeurope-events@lists.uu.se. If hosting changes, the listed address will remain valid (as per the FME Secretary)."
+FME Events,events@fmeurope.org,https://lists.uu.se/sympa/subscribe/it-fmeurope-events,Post,Post,Post,"Currently an alias for it-fmeurope-events@lists.uu.se. If hosting changes, the listed address will remain valid (as per the FME Secretary)."
 ProCoS,procos@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=PROCOS&A=1,Post,Post,Post,
 Type Theory,types@lists.chalmers.se,https://lists.chalmers.se/mailman/listinfo/types,Sub,Sub,Post,
 DBWorld,https://dbworld.sigmod.org/post.html,https://dbworld.sigmod.org/register.html,,,Post,
-Concurrency,concurrency@listserver.tue.nl,https://listserver.tue.nl/mailman/listinfo/concurrency,Sub,Post,Mod,
-FoLLi,folli@folli.info,https://mail.folli.info/mailman/listinfo/folli_folli.info,Mod,Post,Post,Subscription under moderation.
+Concurrency,concurrency@listserver.tue.nl,https://listserver.tue.nl/mailman/listinfo/concurrency,Mod,Post,Mod,
+FoLLi,folli@folli.info,https://mail.folli.info/mailman/listinfo/folli_folli.info,Post,Post,Post,Subscription under moderation.
 GDR GPL,gdr.gpl@univ-grenoble-alpes.fr,https://listes.univ-grenoble-alpes.fr/sympa/subscribe/gdr.gpl,Mod,Mod,Mod,
 FMICS,fmics@inria.fr,https://sympa.inria.fr/sympa/subscribe/fmics,Sub,Sub,Sub,
 IE-Announce,announce@informatics-europe.org,http://lists.informatics-europe.org/mailman/listinfo/announce,Sub,Sub,Sub,
-GDR I3,bull-i3@irit.fr,https://listes.irit.fr/sympa/subscribe/bull-i3,Mod,Mod,Sub,
+GDR I3,bull-i3@irit.fr,https://listes.irit.fr/sympa/subscribe/bull-i3,Post,Mod,Sub,
 JISBD,distjisbd@lcc.uma.es,Not necessary.,Mod,Mod,Mod,
 FACS-EVENTS,facs-events@jiscmail.ac.uk,https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=FACS-EVENTS&A=1,Mod,Mod,Mod,
 FG-Arc,fg-arc@lists.uni-paderborn.de,https://lists.uni-paderborn.de/mailman/listinfo/fg-arc,Sub,Sub,Mod,
@@ -48,7 +48,7 @@ Logic,logic.list@outlook.com,https://lists.uni-hamburg.de/mailman/listinfo/math.
 Logic,logic@math.uni-bonn.de,https://listen.uni-bonn.de/wws/subscribe/logic,Sub,Sub,Sub,
 Microservices,microservices-community@googlegroups.com,https://groups.google.com/g/microservices-community,Sub,Sub,Sub,
 PPoPP,PPOPP@listserv.acm.org,https://ppopp25.sigplan.org/info/mailing-list,Mod,Mod,Mod,
-PVS,pvs@csl.sri.com,Send an email to pvs-subscribe@csl.sri.com.,Sub,Mod,Sub,
+PVS,pvs@csl.sri.com,Send an email to pvs-subscribe@csl.sri.com.,Rej,Mod,Sub,Abuse prevention tool rejected the posting.
 SAL,sal@csl.sri.com,https://sal.csl.sri.com/mailing_lists.html,Sub,Mod,Rej,Abuse prevention tool rejected the posting.
 Theorem Provers,theorem-provers@ai.mit.edu,https://www.cs.cmu.edu/Groups/AI/html/faqs/ai/old_ai_general/part2/faq-doc-41.html,Sub,Sub,Sub,
 Coq,coq-club@inria.fr,https://sympa.inria.fr/sympa/subscribe/coq-club,Sub,Sub,Sub,
