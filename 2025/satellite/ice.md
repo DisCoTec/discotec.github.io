@@ -2,14 +2,14 @@
 
 [Interaction and Concurrency Experiences (ICE)](https://ice-workshop.github.io) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. 
 
-ICE 2025 is a satellite workshop of [DisCoTec 2025](https://www.discotec.org/2025/), held at a date to be determined (mid-june) in [Lille, France](venue).
+ICE 2025 is a satellite workshop of [DisCoTec 2025](https://www.discotec.org/2025/), held on June 20th in [Lille, France](venue).
 
 ## Highlights
 
 - Distinctive selection procedure
 - ICE welcomes full papers to be included in the proceedings
 - ICE also welcomes oral communications of already published or preliminary work
-- Invited speaker: *TBD*
+- Invited speaker: Kirstin Peters, Augsburg University, DE
 - Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/) _(to be confirmed)_
 - Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
 - Contact: `ice (at) framalistes.org`
@@ -32,6 +32,14 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - Coinductive techniques
 - Tools and techniques for automation
 - Synthesis techniques
+
+## Invited Speaker: Kirstin Peters
+
+### Talk: TBD
+
+### Biography
+
+Kirstin Peters is a Professor at Augsburg University, in Germany.
 
 ## Important Dates
 
@@ -90,7 +98,25 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ## Programme Committee {#programme-committee}
 
-To be determined.
+- [Franco Barbanera](https://www.dmi.unict.it/barba/), Dept. of Mathematics and Computer Science - University of Catania, IT 
+- [Manel Barkallah](https://staff.info.unamur.be/mbarkall/), University of Namur, BE 
+- [Matteo Cimini](https://www.cs.uml.edu/~mcimini/), University of Massachusetts Lowell, USA 
+- [Farzaneh Derakhshan](http://gauss.cs.iit.edu/~fderakhshan/), Illinois Tech, USA 
+- [Emanuele D'Osualdo](https://www.emanueledosualdo.com/), University of Konstanz, DE 
+- [Luc Edixhoven](https://research.ou.nl/en/persons/luc-edixhoven), University of Southern Denmark, DK 
+- [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home), University of Liverpool, UK 
+- [Lucie Guillou](https://www.irif.fr/~guillou/), IRIF, Université Paris Cité 
+- [Ping Hou](https://mrg.cs.ox.ac.uk/people/ping-hou/), University of Oxford, UK 
+- [Andrew K. Hirsch](https://akhirsch.science/), University at Buffalo, SUNY, USA 
+- [Jonas Kastberg Hinrichsen](https://jihgfee.github.io/), IT University of Copenhagen, DK 
+- [Matthew Alan Le Brun](https://matthewalanlebrun.github.io/), University of Glasgow, UK 
+- [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/), LASIGE, University of Lisbon, PT
+- [Maurizio Murgia](https://www.gssi.it/people/professors/lectures-computer-science/item/16615-murgia-maurizio), Gran Sasso Science Institute, IT 
+- [Jonah Pears](https://jonahpears.github.io/), University of Kent, UK 
+- [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/), University of Luxembourg, LUX 
+- [Petra van den Bos](https://petravdbos.nl/), Formal Methods and Tools group (FMT), University of Twente, NL 
+- [Bas van den Heuvel](https://basvdheuvel.github.io/), HKA Karlsruhe and University of Freiburg, DE 
+
 
 ## Steering Committee
 
