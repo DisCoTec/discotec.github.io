@@ -1,0 +1,51 @@
+[Apologies for multiple postings]
+************************************************************************
+
+ Deadline Extension
+
+ DisCoTec 2025
+
+ 20th International Federated Conference on Distributed Computing Techniques
+
+ Lille, France, June 16-20, 2025
+
+ Extended submission deadline: February 21, 2025
+
+ https://www.discotec.org/2025
+
+************************************************************************
+
+DisCoTec 2025 is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS). It gathers conferences and satellite events that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches. The three main conferences are:
+
+* COORDINATION 2025 - International Conference on Coordination Models and Languages
+* DAIS 2025 - International Conference on Distributed Applications and Interoperable Systems
+* FORTE 2025 - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+
+DisCoTec 2025 is organised by Inria Lille and the University of Lille. It will be hosted by Polytech Lille.
+
+* Deadline Extension *
+
+ The paper and artefact submission deadlines have been extended.
+
+ All deadlines expire at 23:59 anywhere on earth:
+
+ - Abstract submission: February 14, 2025
+
+ - Paper submission: February 21, 2025
+ 
+ - Artefact submission: February 28, 2025
+ 
+ - Artefact kick-the-tires - problem reports: March 10, 2025
+ 
+ - Artefact kick-the-tires - author response: March 17, 2025
+ 
+ - Artefact notification: April 4, 2025
+ 
+ - Paper notification: April 4, 2025
+ 
+ - Camera-ready: April 23, 2025 (TBC)
+ 
+ - Conference: June 16-20, 2025
+
+* Please visit https://www.discotec.org/2025 for detailed information. *
+
