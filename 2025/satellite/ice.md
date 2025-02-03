@@ -141,8 +141,8 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Ludovic Henrio](https://lhenrio.github.io/) (ENS Lyon, 🇫🇷)
 - [Sophia Knight](https://www.lix.polytechnique.fr/~sophia/) (University of Minnesota Duluth, 🇺🇸)
 - [Ivan Lanese](https://www.cs.unibo.it/~lanese/) (University of Bologna, 🇮🇹)
+- [Larisa Safina](https://lsafina.github.io/) (INRIA Lille, 🇫🇷)
 - [Alceste Scalas](https://www.imm.dtu.dk/~alcsc/) (Technical University of Denmark, 🇩🇰)
-- [Hugo Torres Vieira](https://scholar.google.com/citations?user=Y5yb7XEAAAAJ&hl=en) (Evidence Srl, 🇮🇹)
 
 
 ## Previous Editions
