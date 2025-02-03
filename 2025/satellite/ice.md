@@ -103,6 +103,7 @@ Find flags at https://en.wikipedia.org/wiki/Regional_indicator_symbol
 *[🇳🇴]: Norway
 *[🇵🇹]: Portugal
 *[🇳🇱]: Netherlands
+*[🇱🇺]: Luxembourg
 
 
 - [Clément Aubert](https://spots.augusta.edu/caubert/)  (Augusta University, 🇺🇸) - `aubert (at) math.cnrs.fr`
@@ -129,7 +130,7 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/), LASIGE, University of Lisbon, 🇵🇹
 - [Maurizio Murgia](https://www.gssi.it/people/professors/lectures-computer-science/item/16615-murgia-maurizio), Gran Sasso Science Institute, 🇮🇹 
 - [Jonah Pears](https://jonahpears.github.io/), University of Kent, 🇬🇧 
-- [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/), University of Luxembourg, LUX 
+- [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/), University of Luxembourg, 🇱🇺 
 - [Petra van den Bos](https://petravdbos.nl/), Formal Methods and Tools group (FMT), University of Twente, 🇳🇱 
 - [Bas van den Heuvel](https://basvdheuvel.github.io/), HKA Karlsruhe and University of Freiburg, 🇩🇪 
 
