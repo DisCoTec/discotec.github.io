@@ -220,6 +220,16 @@ $nav-line-height: $base-line-height * $base-font-size * 2.25;
   }
 }
 
+.important {
+  text-align: center;
+  font-size: 1.5em;
+  
+  img {
+    scale: 1.5;
+    margin-left: .5em;
+  }
+}
+
 img.keynote {
   float: right;
   width: 25%;
