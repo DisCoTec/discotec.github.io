@@ -89,49 +89,59 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 ## ICEcreamers
 
-- [Clément Aubert](https://spots.augusta.edu/caubert/)  (Augusta University, USA) - `aubert (at) math.cnrs.fr`
-- [Cinzia Di Giusto](https://webusers.i3s.unice.fr/~cdigiusto/web) (Université Côte d'Azur, CNRS, I3SSophia Antipolis, FR) - `cinzia.di-giusto (at) unice.fr`
-- [Simon Fowler](https://simonjf.com/) (University of Glasgow School of Computing Science, GB-SCT) - `simon.fowler (at) glasgow.ac.uk`
-- [Violet Ka I Pun](https://violet.foldr.org/) (Western Norway University of Applied Sciences, NO) - `Violet.Ka.I.Pun (at) hvl.no`
+<!--
+Find flags at https://en.wikipedia.org/wiki/Regional_indicator_symbol
+-->
+
+*[🇧🇪]: Belgium
+*[🇩🇪]: Germany
+*[🇫🇷]: France
+*[🇮🇹]: Italy
+*[🇺🇸]: United States of America
+*[🇩🇰]: Denmark
+*[🇬🇧]: United Kingdom
+*[🇳🇴]: Norway
+*[🇵🇹]: Portugal
+*[🇳🇱]: Netherlands
+
+
+- [Clément Aubert](https://spots.augusta.edu/caubert/)  (Augusta University, 🇺🇸) - `aubert (at) math.cnrs.fr`
+- [Cinzia Di Giusto](https://webusers.i3s.unice.fr/~cdigiusto/web) (Université Côte d'Azur, CNRS, I3SSophia Antipolis, 🇫🇷) - `cinzia.di-giusto (at) unice.fr`
+- [Simon Fowler](https://simonjf.com/) (University of Glasgow School of Computing Science, 🇬🇧) - `simon.fowler (at) glasgow.ac.uk`
+- [Violet Ka I Pun](https://violet.foldr.org/) (Western Norway University of Applied Sciences, 🇳🇴) - `Violet.Ka.I.Pun (at) hvl.no`
 
 Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ## Programme Committee {#programme-committee}
 
-<!--
-Find flags at https://en.wikipedia.org/wiki/Regional_indicator_symbol
--->
-
-*[🇩🇪]: Germany
-
-- [Franco Barbanera](https://www.dmi.unict.it/barba/), Dept. of Mathematics and Computer Science - University of Catania, IT 
-- [Manel Barkallah](https://staff.info.unamur.be/mbarkall/), University of Namur, BE 
-- [Matteo Cimini](https://www.cs.uml.edu/~mcimini/), University of Massachusetts Lowell, USA 
-- [Farzaneh Derakhshan](http://gauss.cs.iit.edu/~fderakhshan/), Illinois Tech, USA 
+- [Franco Barbanera](https://www.dmi.unict.it/barba/), Dept. of Mathematics and Computer Science - University of Catania, 🇮🇹 
+- [Manel Barkallah](https://staff.info.unamur.be/mbarkall/), University of Namur, 🇧🇪 
+- [Matteo Cimini](https://www.cs.uml.edu/~mcimini/), University of Massachusetts Lowell, 🇺🇸 
+- [Farzaneh Derakhshan](http://gauss.cs.iit.edu/~fderakhshan/), Illinois Tech, 🇺🇸 
 - [Emanuele D'Osualdo](https://www.emanueledosualdo.com/), University of Konstanz, 🇩🇪 
-- [Luc Edixhoven](https://research.ou.nl/en/persons/luc-edixhoven), University of Southern Denmark, DK 
-- [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home), University of Liverpool, UK 
-- [Lucie Guillou](https://www.irif.fr/~guillou/), IRIF, Université Paris Cité, FR
-- [Ping Hou](https://mrg.cs.ox.ac.uk/people/ping-hou/), University of Oxford, UK 
-- [Andrew K. Hirsch](https://akhirsch.science/), University at Buffalo, SUNY, USA 
-- [Jonas Kastberg Hinrichsen](https://jihgfee.github.io/), IT University of Copenhagen, DK 
-- [Matthew Alan Le Brun](https://matthewalanlebrun.github.io/), University of Glasgow, UK 
-- [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/), LASIGE, University of Lisbon, PT
-- [Maurizio Murgia](https://www.gssi.it/people/professors/lectures-computer-science/item/16615-murgia-maurizio), Gran Sasso Science Institute, IT 
-- [Jonah Pears](https://jonahpears.github.io/), University of Kent, UK 
+- [Luc Edixhoven](https://research.ou.nl/en/persons/luc-edixhoven), University of Southern Denmark, 🇩🇰 
+- [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home), University of Liverpool, 🇬🇧 
+- [Lucie Guillou](https://www.irif.fr/~guillou/), IRIF, Université Paris Cité, 🇫🇷
+- [Ping Hou](https://mrg.cs.ox.ac.uk/people/ping-hou/), University of Oxford, 🇬🇧 
+- [Andrew K. Hirsch](https://akhirsch.science/), University at Buffalo, SUNY, 🇺🇸 
+- [Jonas Kastberg Hinrichsen](https://jihgfee.github.io/), IT University of Copenhagen, 🇩🇰 
+- [Matthew Alan Le Brun](https://matthewalanlebrun.github.io/), University of Glasgow, 🇬🇧 
+- [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/), LASIGE, University of Lisbon, 🇵🇹
+- [Maurizio Murgia](https://www.gssi.it/people/professors/lectures-computer-science/item/16615-murgia-maurizio), Gran Sasso Science Institute, 🇮🇹 
+- [Jonah Pears](https://jonahpears.github.io/), University of Kent, 🇬🇧 
 - [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/), University of Luxembourg, LUX 
-- [Petra van den Bos](https://petravdbos.nl/), Formal Methods and Tools group (FMT), University of Twente, NL 
+- [Petra van den Bos](https://petravdbos.nl/), Formal Methods and Tools group (FMT), University of Twente, 🇳🇱 
 - [Bas van den Heuvel](https://basvdheuvel.github.io/), HKA Karlsruhe and University of Freiburg, 🇩🇪 
 
 
 ## Steering Committee
 
-- [Massimo Bartoletti](https://tcs.unica.it/members/bart) (University of Cagliari, IT)
-- [Ludovic Henrio](https://lhenrio.github.io/) (ENS Lyon, FR)
-- [Sophia Knight](https://www.lix.polytechnique.fr/~sophia/) (University of Minnesota Duluth, USA)
-- [Ivan Lanese](https://www.cs.unibo.it/~lanese/) (University of Bologna, IT)
-- [Alceste Scalas](https://www.imm.dtu.dk/~alcsc/) (Technical University of Denmark, DK)
-- [Hugo Torres Vieira](https://scholar.google.com/citations?user=Y5yb7XEAAAAJ&hl=en) (Evidence Srl, IT)
+- [Massimo Bartoletti](https://tcs.unica.it/members/bart) (University of Cagliari, 🇮🇹)
+- [Ludovic Henrio](https://lhenrio.github.io/) (ENS Lyon, 🇫🇷)
+- [Sophia Knight](https://www.lix.polytechnique.fr/~sophia/) (University of Minnesota Duluth, 🇺🇸)
+- [Ivan Lanese](https://www.cs.unibo.it/~lanese/) (University of Bologna, 🇮🇹)
+- [Alceste Scalas](https://www.imm.dtu.dk/~alcsc/) (Technical University of Denmark, 🇩🇰)
+- [Hugo Torres Vieira](https://scholar.google.com/citations?user=Y5yb7XEAAAAJ&hl=en) (Evidence Srl, 🇮🇹)
 
 
 ## Previous Editions
