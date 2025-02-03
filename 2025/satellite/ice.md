@@ -98,14 +98,20 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ## Programme Committee {#programme-committee}
 
+<!--
+Find flags at https://en.wikipedia.org/wiki/Regional_indicator_symbol
+-->
+
+*[🇩🇪]: Germany
+
 - [Franco Barbanera](https://www.dmi.unict.it/barba/), Dept. of Mathematics and Computer Science - University of Catania, IT 
 - [Manel Barkallah](https://staff.info.unamur.be/mbarkall/), University of Namur, BE 
 - [Matteo Cimini](https://www.cs.uml.edu/~mcimini/), University of Massachusetts Lowell, USA 
 - [Farzaneh Derakhshan](http://gauss.cs.iit.edu/~fderakhshan/), Illinois Tech, USA 
-- [Emanuele D'Osualdo](https://www.emanueledosualdo.com/), University of Konstanz, DE 
+- [Emanuele D'Osualdo](https://www.emanueledosualdo.com/), University of Konstanz, 🇩🇪 
 - [Luc Edixhoven](https://research.ou.nl/en/persons/luc-edixhoven), University of Southern Denmark, DK 
 - [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home), University of Liverpool, UK 
-- [Lucie Guillou](https://www.irif.fr/~guillou/), IRIF, Université Paris Cité 
+- [Lucie Guillou](https://www.irif.fr/~guillou/), IRIF, Université Paris Cité, FR
 - [Ping Hou](https://mrg.cs.ox.ac.uk/people/ping-hou/), University of Oxford, UK 
 - [Andrew K. Hirsch](https://akhirsch.science/), University at Buffalo, SUNY, USA 
 - [Jonas Kastberg Hinrichsen](https://jihgfee.github.io/), IT University of Copenhagen, DK 
@@ -115,7 +121,7 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Jonah Pears](https://jonahpears.github.io/), University of Kent, UK 
 - [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/), University of Luxembourg, LUX 
 - [Petra van den Bos](https://petravdbos.nl/), Formal Methods and Tools group (FMT), University of Twente, NL 
-- [Bas van den Heuvel](https://basvdheuvel.github.io/), HKA Karlsruhe and University of Freiburg, DE 
+- [Bas van den Heuvel](https://basvdheuvel.github.io/), HKA Karlsruhe and University of Freiburg, 🇩🇪 
 
 
 ## Steering Committee
