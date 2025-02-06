@@ -43,10 +43,14 @@ Kirstin Peters is a Professor at Augsburg University, in Germany.
 
 ## Important Dates
 
-*A precise schedule has to be developed, but a tentative timeline is for submission to close by end of March 2025.*
+- March 31st, 2025           : Paper submission deadline
+- April 1st -- April 28th    : Forum interaction, reviews, and PC discussion
+- May 5th                    : Notification to authors
+- June 20th                  : Workshop in Lille, France
+- July 20th (tentative)      : Camera-ready for post-proceedings
+- October 2025 (tentative)   : Invitation to special issue
 
-All dates are in the [Anywhere on Earth time zone](https://time.is/Anywhere_on_Earth), and deadlines are firm.
-
+All dates are in the [Anywhere on Earth time zone](https://time.is/Anywhere_on_Earth).
 
 ## The ICE Selection Procedure
 
@@ -56,14 +60,14 @@ During the review phase, each submission is published in a dedicated discussion 
 
 As witnessed by the past editions of ICE, this procedure considerably improves the accuracy of the reviews, the fairness of the selection, the quality of camera-ready papers, and the discussion during the workshop.
 
-ICE adopts a light double-blind reviewing process, [detailed below](#submission-guidelines).
+ICE adopts a light double-anonymous reviewing process, [detailed below](#submission-guidelines).
 
 This year, ICE implements a two-round paper submission procedure, with the understanding that all deadlines are now firm, and that papers submitted during the second round will have less time for discussion and feedback.
 
 
 ## Submission Guidelines
 
-Submissions must be made electronically in PDF format via [hotcrp](https://ice24.hotcrp.com/).
+Submissions must be made electronically in PDF format via [hotcrp](https://ice25.hotcrp.com/).
 
 We invite two types of submissions:
 
@@ -71,9 +75,9 @@ We invite two types of submissions:
 
 * **Oral communications** will be presented at the workshop, but will not appear in the post-proceedings. This type of contribution includes e.g., previously published contributions, preliminary work, and position papers. There is no strict page limit for this kind of submission but papers of 1-5 pages would be appreciated. For example, a one page summary of previously published work is welcome in this category.
 
-Authors of research papers must omit their names and institutions from the title page, they should refer to their other work in the third person and omit acknowledgements that could reveal their identity or affiliation. The purpose is to avoid any bias based on authors' identity characteristics, such as gender, seniority, or nationality, in the review process. Our goal is to facilitate an unbiased approach to reviewing by supporting reviewers' access to works that do not carry obvious references to the authors' identities. As mentioned above, this is a lightweight double-blind process. Anonymization should not be a heavy burden for authors, and should not make papers weaker or more difficult to review. Advertising the paper on alternate forums (e.g., on a personal web-page, pre-print archive, email, talks, discussions with colleagues) is permitted, and authors will not be penalized by for such advertisement.
+Authors of research papers must omit their names and institutions from the title page, they should refer to their other work in the third person and omit acknowledgements that could reveal their identity or affiliation. The purpose is to avoid any bias based on authors' identity characteristics, such as gender, seniority, or nationality, in the review process. Our goal is to facilitate an unbiased approach to reviewing by supporting reviewers' access to works that do not carry obvious references to the authors' identities. As mentioned above, this is a lightweight double-anonymous process. Anonymization should not be a heavy burden for authors, and should not make papers weaker or more difficult to review. Advertising the paper on alternate forums (e.g., on a personal web-page, pre-print archive, email, talks, discussions with colleagues) is permitted, and authors will not be penalized by for such advertisement.
 
-Papers in the "Oral communications" category need not be anonymized. For any questions concerning the double blind process, feel free to [contact the ICEcreamers](#icecreamers).
+Papers in the "Oral communications" category need not be anonymized. For any questions concerning the double anonymous process, feel free to [contact the ICEcreamers](#icecreamers).
 
 We are keen to enhance the balanced, inclusive and diverse nature of the ICE community, and would particularly encourage female colleagues and members of other underrepresented groups to submit their work.
 
@@ -170,4 +174,4 @@ The previous editions of ICE have been held on:
 
 ## More Information
 
-For additional information, please [contact the ICEcreamers](#icecreamers) at `ice (at) framalistes.org`.
+For additional information, please [refer to the series website](https://ice-workshop.github.io/) or [contact the ICEcreamers](#icecreamers) at `ice (at) framalistes.org`.
