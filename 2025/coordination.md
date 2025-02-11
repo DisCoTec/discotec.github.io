@@ -119,10 +119,18 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 
 ## Artefact Evaluation Committee chair
-Duncan Attard,  (University of Glasgow, UK)
+* Duncan Attard,  (University of Glasgow, UK)
 
 ## Artefact Evaluation Committee
-TBA
+* Arwa Hameed Alsubhi, University of Glasgow, UK	
+* Marietta Galea, University of Malta, Malta	
+* Marco Giunti, University of Oxford, UK	
+* Mário Pereira, NOVA University of Lisbon, Portugal
+* Amrita Suresh, University of Oxford, UK	
+* Gerard Tabone, University of Malta, Malta	
+* Laura Voinea, University of Glasgow, UK	
+* Jasmine Xuereb, University of Malta, Malta	
+
 
 
 ## Steering Committee
