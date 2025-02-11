@@ -114,24 +114,24 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ## Programme Committee {#programme-committee}
 
-- [Franco Barbanera](https://www.dmi.unict.it/barba/), Dept. of Mathematics and Computer Science - University of Catania, 🇮🇹 
-- [Manel Barkallah](https://staff.info.unamur.be/mbarkall/), University of Namur, 🇧🇪 
-- [Matteo Cimini](https://www.cs.uml.edu/~mcimini/), University of Massachusetts Lowell, 🇺🇸 
-- [Farzaneh Derakhshan](http://gauss.cs.iit.edu/~fderakhshan/), Illinois Tech, 🇺🇸 
-- [Emanuele D'Osualdo](https://www.emanueledosualdo.com/), University of Konstanz, 🇩🇪 
-- [Luc Edixhoven](https://research.ou.nl/en/persons/luc-edixhoven), University of Southern Denmark, 🇩🇰 
-- [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home), University of Liverpool, 🇬🇧 
-- [Lucie Guillou](https://www.irif.fr/~guillou/), IRIF, Université Paris Cité, 🇫🇷
-- [Ping Hou](https://mrg.cs.ox.ac.uk/people/ping-hou/), University of Oxford, 🇬🇧 
-- [Andrew K. Hirsch](https://akhirsch.science/), University at Buffalo, SUNY, 🇺🇸 
-- [Jonas Kastberg Hinrichsen](https://jihgfee.github.io/), IT University of Copenhagen, 🇩🇰 
-- [Matthew Alan Le Brun](https://matthewalanlebrun.github.io/), University of Glasgow, 🇬🇧 
-- [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/), LASIGE, University of Lisbon, 🇵🇹
-- [Maurizio Murgia](https://www.gssi.it/people/professors/lectures-computer-science/item/16615-murgia-maurizio), Gran Sasso Science Institute, 🇮🇹 
-- [Jonah Pears](https://jonahpears.github.io/), University of Kent, 🇬🇧 
-- [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/), University of Luxembourg, 🇱🇺 
-- [Petra van den Bos](https://petravdbos.nl/), Formal Methods and Tools group (FMT), University of Twente, 🇳🇱 
-- [Bas van den Heuvel](https://basvdheuvel.github.io/), HKA Karlsruhe and University of Freiburg, 🇩🇪 
+- [Franco Barbanera](https://www.dmi.unict.it/barba/) (Dept. of Mathematics and Computer Science - University of Catania, 🇮🇹 )
+- [Manel Barkallah](https://staff.info.unamur.be/mbarkall/) (University of Namur, 🇧🇪)
+- [Matteo Cimini](https://www.cs.uml.edu/~mcimini/) (University of Massachusetts Lowell, 🇺🇸)
+- [Farzaneh Derakhshan](http://gauss.cs.iit.edu/~fderakhshan/) (Illinois Tech, 🇺🇸)
+- [Emanuele D'Osualdo](https://www.emanueledosualdo.com/) (University of Konstanz, 🇩🇪)
+- [Luc Edixhoven](https://research.ou.nl/en/persons/luc-edixhoven) (University of Southern Denmark, 🇩🇰)
+- [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home) (University of Liverpool, 🇬🇧)
+- [Lucie Guillou](https://www.irif.fr/~guillou/) (IRIF, Université Paris Cité, 🇫🇷)
+- [Ping Hou](https://mrg.cs.ox.ac.uk/people/ping-hou/) (University of Oxford, 🇬🇧)
+- [Andrew K. Hirsch](https://akhirsch.science/) (University at Buffalo, SUNY, 🇺🇸)
+- [Jonas Kastberg Hinrichsen](https://jihgfee.github.io/) (IT University of Copenhagen, 🇩🇰)
+- [Matthew Alan Le Brun](https://matthewalanlebrun.github.io/) (University of Glasgow, 🇬🇧)
+- [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/) (LASIGE, University of Lisbon, 🇵🇹)
+- [Maurizio Murgia](https://www.gssi.it/people/professors/lectures-computer-science/item/16615-murgia-maurizio) (Gran Sasso Science Institute, 🇮🇹)
+- [Jonah Pears](https://jonahpears.github.io/) (University of Kent, 🇬🇧)
+- [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/) (University of Luxembourg, 🇱🇺)
+- [Petra van den Bos](https://petravdbos.nl/) (Formal Methods and Tools group (FMT) (University of Twente, 🇳🇱)
+- [Bas van den Heuvel](https://basvdheuvel.github.io/) (HKA Karlsruhe and University of Freiburg, 🇩🇪)
 
 
 ## Steering Committee
@@ -146,7 +146,7 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ## Previous Editions
 
-For a complete listing of our previous editions, please refer to <https://ice-workshop.github.io/#previous-editions>.
+For a complete listing of our previous editions, please refer to [ice-workshop.github.io/#previous-editions](https://ice-workshop.github.io/#previous-editions).
 
 ## More Information
 
