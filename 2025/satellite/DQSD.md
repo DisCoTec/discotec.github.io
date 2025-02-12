@@ -13,9 +13,14 @@ In this tutorial we will discuss
 The tutorial will be given as a sequence of lectures followed by practice sessions (using our interactive Jupyter notebook). We will give a series of exercises of increasing complexity that showcase bottom-up and top-down design approaches, computation of performance and
 feasibility, and exploration of system design trade-offs (such as time-out versus retry for remote operations). We will also do a small number of paper-and-pencil exercises to show how ∆QSD can be used for back-of-the-envelope computations.
 
+The total duration of the tutorial is 6 hours.
+
+## Date
+
+The tutorial will be held on June 20, 2025.
 
 ## Organization
 
-[Seyed Hossein Haeri]() 
+**Seyed Hossein Haeri**
 
 Founder of PLWorkz R&D, former associate professor at the BLDL Institute at the University of Bergen, Norway
