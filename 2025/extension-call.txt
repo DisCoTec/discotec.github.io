@@ -1,7 +1,7 @@
 [Apologies for multiple postings]
 ************************************************************************
 
- Deadline Extension
+ Deadline Extension and Booking Heads Up
 
  DisCoTec 2025
 
@@ -46,6 +46,11 @@ DisCoTec 2025 is organised by Inria Lille and the University of Lille. It will b
  - Camera-ready: April 23, 2025 (TBC)
  
  - Conference: June 16-20, 2025
+ 
+* Booking Heads Up *
+
+ We strongly recommend booking your stay in Lille as soon as possible.
+
+ Mid June is a busy period in the Lille area, and Beyoncé will be performing in Paris (which may be an extra incentive to register).
 
 * Please visit https://www.discotec.org/2025 for detailed information. *
-
