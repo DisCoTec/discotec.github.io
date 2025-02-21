@@ -97,6 +97,17 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 * Ali Shoker, KAUST, Saudi Arabia
 * Luís Antunes Veiga, University of Lisbon, Portugal
 * Spyros Voulgaris, Athens University of Economics and Business, Greece
+
+## Artifact Evaluation Committee
+* Alan Oliveira de Sá, LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
+* Cláudia Brito, INESC TEC & U. Minho, Portugal
+* Christian Berger, University of Passau, Germany
+* Giovanni Farina,  Niccolò Cusano University, Italy
+* José Pedro Peixoto, INESC TEC & U. Minho, Portugal
+* Rémy Raes, University of Lille, France
+* Robin Vassantlal, LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
+* Tânia Esteves, INESC TEC & U. Minho, Portugal
+* Vinícius Vielmo Cogo (chair), LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
   
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands
