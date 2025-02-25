@@ -119,7 +119,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 
 ## Artefact Evaluation Committee chair
-* Duncan Attard,  (University of Glasgow, UK)
+* Duncan Attard, University of Glasgow, UK
 
 ## Artefact Evaluation Committee
 * Arwa Hameed Alsubhi, University of Glasgow, UK	
