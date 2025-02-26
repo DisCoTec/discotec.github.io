@@ -45,9 +45,21 @@ Go to the [list of accepted papers](https://www.discotec.org/2024/accepted-paper
 
 * **Tool papers** (4-15 pages, not counting references and appendices): describing technological artefacts in the scope of the research topics of COORDINATION. Tool papers should provide a clear account of the tool's functionality, discuss the tool’s practical capabilities possibly with reference to the type and size of problems it can handle, and,when applicable, report on realistic case studies (possibly providing a rigorous experimental evaluation). Tool papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures. Papers that present extensions to existing tools should clearly describe the improvements or extensions with respect to previously published versions of the tool, possibly providing data on enhancements in terms of resources and capabilities. In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee. Papers may contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes length.
 
+### Artefact Submission Instructions
+
+We invite you to also submit an associated artefact for evaluation (AE). Artefacts such as ancillary data, tools, and software will be assessed for availability, functionality, and reusability badges.
+
+Instructions on how to upload artefacts can be found [here](COORDINATION_Artefact_Evaluation_Guidelines.pdf).
+
+As advertised in the call for papers, artefact submissions are mandatory for tool papers and optional for regular papers. Tool papers must submit an artefact that, at least, satisfies the requirements for the **Functional** badge. Papers not meeting this clause are rejected. Moreover, the acceptance of artefacts is conditional on the tool paper being accepted.
+
+A selection of artefacts may be invited for submission to a special issue of Science of Computer Programming (SCP). For reference, see the selected artefacts published in the SCP [special issue from DisCoTec 2023](https://www.sciencedirect.com/special-issue/106HX5T86G0).
+
+Choose the "COORDINATION Artefacts 2025" track in EasyChair when submitting your artefact.
+
 ### Submission link
 
-Submission are via Easychair at: [https://easychair.org/conferences/?conf=coordination2025](https://easychair.org/conferences/?conf=coordination2025)
+Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordination2025](https://easychair.org/conferences/?conf=coordination2025)
 
 ### Publication
 
@@ -130,8 +142,6 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Gerard Tabone, University of Malta, Malta	
 * Laura Voinea, University of Glasgow, UK	
 * Jasmine Xuereb, University of Malta, Malta	
-
-
 
 ## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
