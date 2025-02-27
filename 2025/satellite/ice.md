@@ -9,7 +9,7 @@ ICE 2025 is a satellite workshop of [DisCoTec 2025](https://www.discotec.org/202
 - Distinctive selection procedure
 - ICE welcomes full papers to be included in the proceedings
 - ICE also welcomes oral communications of already published or preliminary work
-- Invited speaker: [Kirstin Peters](#invited-speaker-kirstin-peters)
+- Invited speaker: [Kirstin Peters](#invited-speaker-kirstin-peters) -- *On the Expressiveness of MPST*
 - Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/)
 - Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
 - Contact: `ice (at) framalistes.org`
