@@ -80,11 +80,16 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 ## Invited Speaker: Kirstin Peters
 
-### Talk: TBD
+### Talk: On the Expressiveness of MPST
+
+> Multiparty session types (MPST) are a type discipline for enforcing the structured, deadlock-free communication of concurrent and message-passing programs. In this talk we will analyse the expressive power of MPST. In particular, we are interested in features that mark the difference expressive power of synchronous and asynchronous distributed languages. In the synchronous pi-calculus mixed choice is the main ingredient for its expressive power. Traditional MPST have in contrast usually a limited form of choice, in which alternative communication possibilities are offered by a single participant and selected by another. Accordingly, we extend MPST by a more general mixed choice construct. 
 
 ### Biography
 
-Kirstin Peters is a Professor at Augsburg University, in Germany.
+Kirstin Peters studied computer science at the university of Potsdam, did [her PhD at the technical university of Berlin](http://dx.doi.org/10.14279/depositonce-3416).
+After some stops at [Uppsala University](https://www2.it.uu.se/research/group/concurrency) and the [technical university of Dresden](https://tu-dresden.de/ing/informatik/ressourcen/dateien/newsletter/Newsletter-Oktober11.pdf?lang=de), she had a [junior professorship at the technical university of Darmstadt](https://www.informatik.tu-darmstadt.de/fb20/aktuelles_fb20/fb20_neuigkeiten/neuigkeiten_fb20_details_169856.de.jsp).
+Since April 2022, she is a [professor at the university of Augsburg](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/).
+
 
 ## ICEcreamers
 
