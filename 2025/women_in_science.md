@@ -12,8 +12,6 @@ The rapid advancement of computer science over the past decades is the result of
 
 ![Ada Lovelace](./Ada_Lovelace.png)
 
-DisCoTec conference organizes for the first time a session targetting Women in Science.
-
 As part of the DisCoTec 2025 conference, we are organizing a “Women in Science” session to highlight the careers of women scientists.
 The aim is to share researchers testimonies and experience as a women in computer science or a colleague and collaborator of women in science while inspiring young female researchers to pursue an academic career.
 
