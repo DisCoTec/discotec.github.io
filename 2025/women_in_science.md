@@ -1,6 +1,6 @@
 ---
 title: Women in Science
-menu_show: true
+menu_show: false
 order: 0
 ---
 
