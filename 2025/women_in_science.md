@@ -17,17 +17,16 @@ As part of the DisCoTec 2025 conference, we are organizing a “Women in Science
 The aim is to share researchers testimonies and experience as a women in computer science or a colleague and collaborator of women in science while inspiring young female researchers to pursue an academic career.
 
 ## Format
-This panel is organized in the form of a short speech, followed by an open discussion.
+This event will be organized in the form of a panel with a short introductory speech by each of the panelists, followed by an open discussion.
 
 ## Date & place
-Women in Science session will will take place on the **18th of June 2025** in **Lille**. 
+Women in Science session will take place on the **18th of June 2025**. Precise time and location will be announced soon.
 
 ## Speakers 
 TBD
 
 ## Organizers 
-Dr. Imen Sayar (imen.sayar@inria.fr)
-
+Dr. Imen Sayar (imen.sayar@inria.fr)  
 Dr. Manel Barkallah (manel.barkallah@unamur.be)
 
 
