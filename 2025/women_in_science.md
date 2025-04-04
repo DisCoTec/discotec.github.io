@@ -4,7 +4,7 @@ menu_show: false
 order: 0
 ---
 
-# Women in Science
+# Gender Parity / Women in Science
 >"*Les étoiles sont éclairées pour que chacun puisse un jour retrouver la sienne." 
 Antoine de Saint-Exupéry*
 
