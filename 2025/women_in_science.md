@@ -23,7 +23,7 @@ This event will be organized in the form of a panel with a short introductory sp
 Women in Science session will take place on the **18th of June 2025**. Precise time and location will be announced soon.
 
 ## Speakers 
-TBD
+TBA
 
 ## Organizers 
 Dr. Imen Sayar (imen.sayar@inria.fr)  
