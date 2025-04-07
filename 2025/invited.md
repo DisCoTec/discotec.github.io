@@ -62,7 +62,7 @@ The invited speakers are
 
 ![Baptiste Jonglez](/2025/keynote/BaptisteJonglez.png){: .keynote}
 
-Tutorial on [EnOSlib](https://sed-rennes.gitlabpages.inria.fr/formations/enoslib-acm-rep-24/intro/).
+Tutorial on [EnOSlib](https://discovery.gitlabpages.inria.fr/enoslib/index.html).
 More information soon.
 
 ### [Robbert Krebbers](https://robbertkrebbers.nl/) (Radboud University Nijmegen, The Netherlands) - [COORDINATION](./coordination)
