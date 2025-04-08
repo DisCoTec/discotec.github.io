@@ -12,8 +12,8 @@ Below are the satellite events confirmed for DisCoTec 2025, but the [call for sa
 - [ICE](./satellite/ice) - Interaction and Concurrency Experience.
 - [WACA](https://waca-ws.github.io/2025/) - Workshop on Adaptable Cloud Architectures.
 - [∆QSD](./satellite/DQSD) - Tutorial on The ∆QSD Paradigm: Designing Systems with Predictable Performance at High Load
-- [Young Researchers' Posters session](yr-posters)
-- [Gender Parity / Women in Science session](women_in_science)
+- [Young Researchers' Posters session](./satellite/yr-posters)
+- [Gender Parity / Women in Science session](./satellite/women_in_science)
 
 Proceedings, if any, are organized by the events themselves.
 
