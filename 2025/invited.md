@@ -62,7 +62,7 @@ The invited speakers are
 
 ![Baptiste Jonglez](/2025/keynote/BaptisteJonglez.png){: .keynote}
 
-Tutorial on [EnOSlib](https://sed-rennes.gitlabpages.inria.fr/formations/enoslib-acm-rep-24/intro/).
+Tutorial on [EnOSlib](https://discovery.gitlabpages.inria.fr/enoslib/index.html).
 More information soon.
 
 ### [Robbert Krebbers](https://robbertkrebbers.nl/) (Radboud University Nijmegen, The Netherlands) - [COORDINATION](./coordination)
@@ -70,8 +70,28 @@ More information soon.
 
 ![Robbert Krebbers](/2025/keynote/RobbertKrebbers.png){: .keynote}
 
-Tutorial on [Actris](https://iris-project.org/actris/).
-More information soon.
+**Title:** _Mechanized type soundness for structural types using Iris_
+
+**Abstract:**
+Substructural type systems are a good fit to enforce strong safety
+properties of higher-order, imperative and concurrent programs. Key
+examples are the Rust type system (which ensures the absence of
+undefined behavior and data races) and session types (which ensure
+correct usage of message-passing channels). Formally proving that these
+type systems "do their job" (i.e., enjoy "type soundness") is
+challenging. This challenge is exacerbated when considering combinations
+of language features ("feature interaction") and linking against
+"unsafe" code (which has to be verified manually), thus providing a
+desire for machine-checked proofs in a proof assistant.
+
+In this tutorial I will give an introduction to the "logical approach"
+to type soundness, which is well-suited to reason about substructural
+type systems. I will explain the theory of the logical approach in the
+context of a very simple language, which I then gradually scale up to a
+session-typed language. I will furthermore demonstrate that the logical
+approach is well-suited for the mechanization of challenging type
+systems in the Rocq proof assistant using the Iris framework for
+concurrent separation logic.
 
 ### [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/) (GSSI, Italy) - [FORTE](./forte)
 {: .keynote}

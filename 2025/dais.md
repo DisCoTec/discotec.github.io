@@ -90,6 +90,7 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 * Pradeeban	Kathiravelu, University of Alaska Anchorage, USA
 * Odorico Machado	Mendizabal, Federal University of Santa Catarina, Brazil
 * Anas Mokhtari, Morocco
+* Guillaume Pierre, University of Rennes/Inria/CNRS/IRISA, France
 * Hans Reiser, Reykjavik University, Iceland
 * Etienne	Rivière, UC Louvain, Belgique
 * Guillaume	Rosinosky, IMT Atlantique, France
@@ -97,6 +98,17 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 * Ali Shoker, KAUST, Saudi Arabia
 * Luís Antunes Veiga, University of Lisbon, Portugal
 * Spyros Voulgaris, Athens University of Economics and Business, Greece
+
+## Artifact Evaluation Committee
+* Alan Oliveira de Sá, LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
+* Cláudia Brito, INESC TEC & U. Minho, Portugal
+* Christian Berger, University of Passau, Germany
+* Giovanni Farina,  Niccolò Cusano University, Italy
+* José Pedro Peixoto, INESC TEC & U. Minho, Portugal
+* Rémy Raes, University of Lille, France
+* Robin Vassantlal, LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
+* Tânia Esteves, INESC TEC & U. Minho, Portugal
+* Vinícius Vielmo Cogo (chair), LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
   
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands

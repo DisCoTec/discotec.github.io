@@ -11,8 +11,9 @@ Below are the satellite events confirmed for DisCoTec 2025, but the [call for sa
 - [CORSE](./satellite/corse) - Components Operationally: Reversibility and System Engineering.
 - [ICE](./satellite/ice) - Interaction and Concurrency Experience.
 - [WACA](https://waca-ws.github.io/2025/) - Workshop on Adaptable Cloud Architectures.
-- Event for Young Researchers - More info soon.
-- Gender Parity/Women in Science - More info soon.
+- [∆QSD](./satellite/DQSD) - Tutorial on The ∆QSD Paradigm: Designing Systems with Predictable Performance at High Load
+- [Young Researchers' Posters session](yr-posters)
+- [Gender Parity / Women in Science session](women_in_science)
 
 Proceedings, if any, are organized by the events themselves.
 
