@@ -19,3 +19,5 @@ The event will start by a short session, where each participant will give a flas
 ## The Jury 
 TBA
 
+## Chair
+- [Adrien Luxey-Bitri](https://luxeylab.net/) (University of Lille, France)
