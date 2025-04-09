@@ -7,12 +7,13 @@ order: 6
 # Venue: Lille, France
 
 ## Quick Links
-* [Location](#location)
+<!--* [Location](#location) -->
 * [How to arrive](#how-to-arrive)
 * [Moving around the city](#moving-around-the-city)
 * [Accommodation](#accommodation)
 * [Beyond the Conference: Bienvenue à Lille!](#beyond-the-conference-bienvenue-à-lille)
 
+<!--
 ## Location
 DisCoTec 2025 will take place on the Cité Scientifique campus: main conferences will be hosted by Polytech Lille, while workshops will occur in the ESPRIT building (next to Polytech).
 
@@ -24,6 +25,7 @@ DisCoTec 2025 will take place on the Cité Scientifique campus: main conferences
 
 ![Photograph of the ESPRIT grey building](/2025/venue/esprit.png)
 *Photo by Fayat on [their website](https://nordfranceconstructions.fayat.com/decouvrir-nos-realisations/batiment-esprit-du-plan-campus-a-villeneuve-d-ascq-59).*
+-->
 
 ## About Lille
 
