@@ -3,12 +3,14 @@ title: Registration
 ---
 
 ## Important Dates
-TBA
+* Early registration: Possible until **May 23rd, 2025**, using the link below. 
+* Late registration: Possible until **June 11th, 2025**, using the link below. 
+* DisCoTeC 2024: **June 16th to 20th, 2025**.
 
 ## General Conditions 
 * DisCoTec 2025 is planned as an on-site event.
 * At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
-* All registration fees below include 20% of VAT.
+* All registration fees below include 10% of VAT.
 * Similar to past editions, there are no special fees for students, but we have a limited amount of **student travel grants** provided by IFIP; see below for details.
 * The online registration form will close on June 12. If registering by this date is not possible, please contact the local organization (<discotec2025@inria.fr>) well in advance.
 * In order to keep registration fees as low as possible, on-site registration and cancellations/refunds are not supported (see also below). 
@@ -21,20 +23,18 @@ TBA
 <!-- The deadline for registration has passed. Registering online is no longer possible. -->
 
 <!--You can still register for attending the conference  **until June 12** by filling the [registration form](https://santu.com/dsy027). 
-
+-->
 
 
 ## Events and Fees
 
-*(May 28)* The registration fee for one-day workshops (Monday or Friday) has been reduced to 80 Euro.
- 
-| | ~~Early (until May 22)~~ | Late (until June 12) |
+|   | Early (until May 23) | Late (until June 11) |
 | - | -: | -: |
-| **DisCoTec Conferences + Workshops** (Monday - Friday) | ~~EUR 650~~  | EUR 750 | 
-| **DisCoTec Conferences only** (Tuesday - Thursday) | ~~EUR 525~~ | EUR 625 |
-| **Monday Workshop (DiDiT)** | ~~EUR 180~~ | ~~EUR 180~~ EUR 80 |
-| **Friday Workshops (ICE and PLNL)** | ~~EUR 180~~  | ~~EUR 180~~ EUR 80 |
--->
+| **Full week** | EUR 650 | EUR 750 |
+| **DisCoTec Conferences + 1 Satellite day** | EUR 615 | EUR 715 |
+| **DisCoTec Conferences only** | EUR 550 | EUR 650 |
+| **Satellite events only** | EUR 100 | EUR 100 |
+
 
 ## Invoices
 If you registered and need an invoice for your registration, please send an email to <discotec2025@inria.fr> with subject "Invoice Request DisCoTec" indicating:
