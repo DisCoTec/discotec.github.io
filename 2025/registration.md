@@ -2,6 +2,8 @@
 title: Registration
 ---
 
+# Registration
+
 ## Important Dates
 * Early registration: Possible until **May 23rd, 2025**, using the link below. 
 * Late registration: Possible until **June 11th, 2025**, using the link below. 
@@ -12,19 +14,9 @@ title: Registration
 * At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
 * All registration fees below include 10% of VAT.
 * Similar to past editions, there are no special fees for students, but we have a limited amount of **student travel grants** provided by IFIP; see below for details.
-* The online registration form will close on June 12. If registering by this date is not possible, please contact the local organization (<discotec2025@inria.fr>) well in advance.
+* The online registration form will close after June 11th. If registering by this date is not possible, please contact the local organization (<discotec2025@inria.fr>) well in advance.
 * In order to keep registration fees as low as possible, on-site registration and cancellations/refunds are not supported (see also below). 
 * If you have any questions about the registration, please contact <discotec2025@inria.fr> (please, refer to “DisCoTec 2025 Registration” in the subject).
-
-## Registration Link
-TBA
-<!--*(May 22, 17:20)* The registration form was down, but now it is available again. Due to the disruption, the early registration deadline is extended until Friday, May 24th (noon, CEST). Apologies for the inconvenience!-->
-
-<!-- The deadline for registration has passed. Registering online is no longer possible. -->
-
-<!--You can still register for attending the conference  **until June 12** by filling the [registration form](https://santu.com/dsy027). 
--->
-
 
 ## Events and Fees
 
@@ -35,6 +27,19 @@ TBA
 | **DisCoTec Conferences only** | EUR 550 | EUR 650 |
 | **Satellite events only** | EUR 100 | EUR 100 |
 
+## Registration Link
+
+You can register for DisCoTec by filling in the following form: [https://dr18.azur-colloque.fr/inscription/en/135/inscription](https://dr18.azur-colloque.fr/inscription/en/135/inscription).
+
+**Note:** Additionally to the category selection, you *must* select the events you plan to attend, to help the organizing committee with logistics.
+
+{:refdef: style="text-align: center;"}
+![Extras list](./registration_extras.png)
+<br/>
+*(Don't forget to tick the "I will attend the conference dinner" box!)*
+{: refdef}
+
+<!-- The deadline for registration has passed. Registering online is no longer possible. -->
 
 ## Invoices
 If you registered and need an invoice for your registration, please send an email to <discotec2025@inria.fr> with subject "Invoice Request DisCoTec" indicating:
