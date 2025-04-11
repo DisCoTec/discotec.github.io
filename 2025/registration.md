@@ -45,7 +45,7 @@ You can register for DisCoTec by filling in the following form: [https://dr18.az
 Do send an email to <discotec2025@inria.fr> with subject "Dietary restrictions" should you have any.
 
 ## Invoices
-If you registered and need an invoice for your registration, please send an email to <discotec2025@inria.fr> with subject "Invoice Request DisCoTec" indicating:
+Upon completion of the registration process, you should automatically receive an invoice and/or proof of purchase. If you did not receive one, please send an email to <discotec2025@inria.fr> with subject "Invoice Request DisCoTec" indicating:
 - your full name and email address; 
 - the amount and the date on which you completed the online payment; 
 - the exact information that you need to appear on it (institution, address, VAT number, etc)
