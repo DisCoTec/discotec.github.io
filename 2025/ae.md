@@ -1,7 +1,5 @@
 ---
 title: Artefacts
-menu_show: true	
-order: 4
 ---
 
 # Artefact Evaluation
