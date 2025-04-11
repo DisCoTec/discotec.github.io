@@ -30,21 +30,30 @@ order: 8
 | **Satellite events only** | EUR 100 | EUR 100 |
 
 ## Description of categories
-### Registration to “Main conferences only” includes full access on Tuesday 17, Wednesday 18, and Thursday 21:
+### Main conferences only
+This category includes full access on Tuesday 17, Wednesday 18, and Thursday 21:
 * Access to all Coordination, DAIS, and FORTE sessions 
 * Access to the Gender Parity / Women in Science session
 * Lunch and two coffee breaks
 * Free access to the online LNCS proceedings of Coordination, DAIS, and FORTE
 * Full social program on Wednesday 19
 
-### Registration to “Main conferences + 1 day satellites” includes
+### Main conferences + 1 day satellites
+This category includes
 * All benefits of “Main conferences only” 
 * Access to all workshops and tutorials on one of the satellite days (Monday 16 OR Friday 20)
 * Lunch and two coffee breaks on the same day
 * Welcome OR Closing reception
 
-### Registration to “Full week” includes:
+### Full week
+This category includes 
 * All benefits of “Main conferences only”
+* Access to all workshops and tutorials on both satellite days (Monday 16 AND Friday 20)
+* Lunch and two coffee breaks on the satellite days
+* Welcome AND Closing reception
+
+### Satellite events only
+This category includes full access on Monday 16 AND Friday 20:
 * Access to all workshops and tutorials on both satellite days (Monday 16 AND Friday 20)
 * Lunch and two coffee breaks on the satellite days
 * Welcome AND Closing reception
