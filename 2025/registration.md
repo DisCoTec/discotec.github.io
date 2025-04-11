@@ -37,8 +37,6 @@ You can register for DisCoTec by filling in the following form: [https://dr18.az
 
 {:refdef: style="text-align: center;"}
 ![Extras list](./registration_extras.png)
-<br/>
-*(Don't forget to tick the "I will attend the conference dinner" box!)*
 {: refdef}
 
 <!-- The deadline for registration has passed. Registering online is no longer possible. -->
