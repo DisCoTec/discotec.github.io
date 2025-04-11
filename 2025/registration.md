@@ -41,6 +41,9 @@ You can register for DisCoTec by filling in the following form: [https://dr18.az
 
 <!-- The deadline for registration has passed. Registering online is no longer possible. -->
 
+## Dietary restrictions
+Do send an email to <discotec2025@inria.fr> with subject "Dietary restrictions" should you have any.
+
 ## Invoices
 If you registered and need an invoice for your registration, please send an email to <discotec2025@inria.fr> with subject "Invoice Request DisCoTec" indicating:
 - your full name and email address; 
