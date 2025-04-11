@@ -54,7 +54,7 @@ This category includes
 
 ### Satellite events only
 This category includes full access on Monday 16 AND Friday 20:
-* Access to all workshops and tutorials on both satellite days (Monday 16 AND Friday 20)
+* Access to all workshops and tutorials on both satellite days
 * Lunch and two coffee breaks on the satellite days
 * Welcome AND Closing reception
 
