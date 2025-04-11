@@ -80,7 +80,6 @@ Upon completion of the registration process, you should automatically receive an
 - the exact information that you need to appear on it (institution, address, VAT number, etc)
 
 ## Visa Information
-For official information about visas for entering The Netherlands, please refer to [this webpage](https://www.netherlandsworldwide.nl/visa-the-netherlands).
 
 In case you need an invitation letter, after completing the registration process, please send your request to <discotec2025@inria.fr> (subject: “DisCoTec 2025 - Visa invitation letter”) by specifying the following details:
 
