@@ -31,12 +31,12 @@ order: 8
 
 ## Description of categories
 ### Main conferences only
-This category includes full access on Tuesday 17, Wednesday 18, and Thursday 21:
+This category includes full access on Tuesday 17, Wednesday 18, and Thursday 19:
 * Access to all Coordination, DAIS, and FORTE sessions 
 * Access to the Gender Parity / Women in Science session
 * Lunch and two coffee breaks
 * Free access to the online LNCS proceedings of Coordination, DAIS, and FORTE
-* Full social program on Wednesday 19
+* Full social program on Wednesday 18
 
 ### Main conferences + 1 day satellites
 This category includes
