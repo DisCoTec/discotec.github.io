@@ -9,7 +9,7 @@ order: 8
 ## Important Dates
 * Early registration: Possible until **May 23rd, 2025**, using the link below. 
 * Late registration: Possible until **June 11th, 2025**, using the link below. 
-* DisCoTeC 2024: **June 16th to 20th, 2025**.
+* DisCoTeC 2025: **June 16th to 20th, 2025**.
 
 ## General Conditions 
 * DisCoTec 2025 is planned as an on-site event.
