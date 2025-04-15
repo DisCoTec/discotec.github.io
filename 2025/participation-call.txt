@@ -4,69 +4,75 @@
 
 Joint Call for Participation
 
-19th International Federated Conference on Distributed Computing Techniques
+20th International Federated Conference on Distributed Computing Techniques
 
-DisCoTec 2024
+DisCoTec 2025
 
-Groningen, The Netherlands, June 17-21, 2024
+Lille, France, June 16-20, 2025
 
-https://www.discotec.org/2024/
+https://www.discotec.org/2025/
 
 *********************************
 
 DisCoTec is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS).
 
-DisCoTec 2024 will take place in Groningen, The Netherlands, between June 17-21, 2024, hosted by the University of Groningen.
+DisCoTec 2025 will take place in Lille, France, between June 16-20, 2025, hosted by the University of Lille.
 
 * Registration *
 
-Detailed information about registration can be found at https://www.discotec.org/2024/registration.
+Detailed information about registration can be found at https://www.discotec.org/2025/registration.
 
 Deadlines (23:59 CEST):
-- Early registration: May 22, 2024.
-- Late registration: June 12, 2024.
+- Early registration: May 23, 2025.
+- Late registration: June 11, 2025.
 
 * Keynote Speakers *
 
-- Marieke Huisman (University of Twente, NL)
-  VerCors: Inclusive Software Verification
+- Alysson Bessani (Universidade de Lisboa, Portugal)
 
-- Laura Kovács (Vienna University of Technology, AT)
-  Automated Reasoning in BlockChain Security
+- Omar Inverso (GSSI, Italy)
 
-- Paulo Veríssimo (KAUST, SA)
-  Platform Resilience? Beware of Threats from the “basement”
+- Burcu Kulahcioglu Ozkan (TU Delft, The Netherlands)
 
-See https://www.discotec.org/2024/invited for further details.
+- Hélène Coullon (IMT Atlantique, France)
 
-* Main Conferences (June 18 - June 20) *
+See https://www.discotec.org/2025/invited for further details.
 
+* Main Conferences (June 17 - June 19) *
 
-- COORDINATION 2024 (https://www.discotec.org/2024/coordination)
-  26th International Conference on Coordination Models and Languages
-  PC Chairs: Ilaria Castellani (INRIA Sophia Antipolis, France) and Francesco Tiezzi (University of Florence, Italy)
+- COORDINATION 2025 (https://www.discotec.org/2025/coordination)
+  27th International Conference on Coordination Models and Languages
+  PC Chairs: Cinzia Di Giusto (Université Côte d’Azur) and António Ravara (NOVA School of Science and Technology)
 
-- DAIS 2024 (https://www.discotec.org/2024/dais)
-  24th International Conference on Distributed Applications and Interoperable Systems
-  PC Chairs: Rolando Martins (University of Porto, Portugal) and	Mennan Selimi (South East European University, North Macedonia)
+- DAIS 2025 (https://www.discotec.org/2025/dais)
+  25th International Conference on Distributed Applications and Interoperable Systems
+  PC Chairs: Daniel Balouek (Inria, France) and	Ibéria Medeiros (University of Lisbon, Portugal)
 
-- FORTE 2024 (https://www.discotec.org/2024/forte)
-  44th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
-  PC Chairs: Valentina Castiglioni (Eindhoven University of Technology, The Netherlands) and Adrian Francalanza (University of Malta, Malta)
+- FORTE 2025 (https://www.discotec.org/2025/forte)
+  45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+  PC Chairs: Carla Ferreira (NOVA University of Lisbon, Portugal) and Claudio A. Mezzina (University of Urbino, Italy)
 
 * Accepted Papers *
 
-See https://www.discotec.org/2024/accepted-papers for details. 
+See https://www.discotec.org/2025/accepted-papers for details. 
 
-* Satellite Events (June 17 and June 21) *
+* Satellite Events (June 16 and June 20) *
 
-- DiDiT 2024 (https://distributeddigitaltwins.github.io/2024/)
-  1st International Workshop on Distributed Digital Twins
+- ICE 2025 (https://www.discotec.org/2025/satellite/ice)
+  18th Interaction and Concurrency Experience
 
-- ICE 2024 (https://www.discotec.org/2024/ice)
-  17th Interaction and Concurrency Experience
+- CORSE 2025 (https://www.discotec.org/2025/satellite/corse)
+  Components Operationally: Reversibility and System Engineering
 
-- PLNL 2024 (https://conf.researchr.org/home/plnl-2024)
-  4th VERSEN Workshop on Programming Languages in The Netherlands
+- ∆QSD 2025 (https://www.discotec.org/2025/satellite/DQSD)
+  The ∆QSD Paradigm: Designing Systems with Predictable Performance at High Load
 
-To receive live, up-to-date information, follow us on X @DisCoTecConf (https://twitter.com/DisCoTecConf).
+- Gender Parity / Women in Science (https://www.discotec.org/2025/satellite/women_in_science)
+
+* Poster Competition (June 16) *
+
+DisCoTec 2025 will host an event dedicated to Young Researchers - final year PhD, postdoc, first years of a permanent position. Details can be found at https://www.discotec.org/2025/satellite/yr-posters.
+
+* Live Updates *
+
+To receive live, up-to-date information, follow us on Mastodon @DisCoTecConf (https://lipn.info/@DisCoTecConf), LinkedIn (https://www.linkedin.com/company/discotec-conf) and X @DisCoTecConf (https://twitter.com/DisCoTecConf).
