@@ -104,7 +104,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Jovanka Pantović (University of Novi Sad, RS)
 * Anna Philippou (University of Cyprus, CY)
 * G. Michele Pinna (University of Cagliari, IT)			
-* Violet Ka I Pun	(University of Bergen, NO)			
+* Violet Ka I Pun	(Western Norway University of Applied Sciences, NO)			
 * Jorge A. Pérez (University of Groningen, NL)	
 * Alceste Scalas (Technical University of Denmark, DN)		
 * Alan Schmitt (INRIA, FR)
