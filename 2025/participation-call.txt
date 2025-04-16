@@ -67,12 +67,19 @@ See https://www.discotec.org/2025/accepted-papers for details.
 - ∆QSD 2025 (https://www.discotec.org/2025/satellite/DQSD)
   The ∆QSD Paradigm: Designing Systems with Predictable Performance at High Load
 
+- WACA 2025 (https://waca-ws.github.io/2025/)
+  Workshop on Adaptable Cloud Architectures
+
 - Gender Parity / Women in Science (https://www.discotec.org/2025/satellite/women_in_science)
 
 * Poster Competition (June 16) *
 
 DisCoTec 2025 will host an event dedicated to Young Researchers - final year PhD, postdoc, first years of a permanent position. Details can be found at https://www.discotec.org/2025/satellite/yr-posters.
 
+* Accommodations for parents of young children *
+
+Subject to budget availability, we are planning to make special logistical arrangements for conference participants travelling with young children (and potentially accompanying persons). We invite interested persons to contact the General Chair (simon.bliudze@inria.fr), as soon as possible to discuss the arrangements that might be applicable.
+
 * Live Updates *
 
-To receive live, up-to-date information, follow us on Mastodon @DisCoTecConf (https://lipn.info/@DisCoTecConf), LinkedIn (https://www.linkedin.com/company/discotec-conf) and X @DisCoTecConf (https://twitter.com/DisCoTecConf).
+To receive live, up-to-date information, follow us on Mastodon @DisCoTecConf (https://lipn.info/@DisCoTecConf), LinkedIn (https://www.linkedin.com/company/discotec-conf) and X @DisCoTecConf (https://X.com/DisCoTecConf).
