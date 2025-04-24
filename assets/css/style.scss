@@ -241,6 +241,18 @@ img.keynote {
     margin: 20px;
   }
 }
+img.keynote-landscape {
+  float: right;
+  width: 30%;
+  margin: 0 20px;
+  margin-bottom: 20px;
+
+  @include media-query($on-palm) {
+    width: 50%;
+    margin: 20px;
+  }
+}
+
 
 h3.keynote {
   clear: both;
