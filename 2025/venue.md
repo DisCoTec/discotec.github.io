@@ -14,7 +14,7 @@ order: 7
 * [Beyond the Conference: Bienvenue à Lille!](#beyond-the-conference-bienvenue-à-lille)
 
 > 📣📣📣 **Important** ![](mega-right.png) <br />
-> **Please book your hotel URGENTLY! <br />
+> **Please book your hotel URGENTLY!** <br />
 {:.important}
 
 ## Location
