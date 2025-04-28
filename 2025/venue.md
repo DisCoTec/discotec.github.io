@@ -7,19 +7,21 @@ order: 7
 # Venue: Lille, France
 
 ## Quick Links
-<!--* [Location](#location) -->
+* [Location](#location)
 * [How to arrive](#how-to-arrive)
 * [Moving around the city](#moving-around-the-city)
 * [Accommodation](#accommodation)
 * [Beyond the Conference: Bienvenue à Lille!](#beyond-the-conference-bienvenue-à-lille)
 
-<!--
 ## Location
-DisCoTec 2025 will take place on the Cité Scientifique campus: main conferences will be hosted by Polytech Lille, while workshops will occur in the ESPRIT building (next to Polytech).
+DisCoTec 2025 will take place at [École National Supérieure des Arts et Métiers](https://artsetmetiers.fr/fr/campus/lille) (ENSAM).
 
-* *Address*: Polytech Lille - Avenue Paul Langevin - 59655 Villeneuve d'Ascq cedex - France
-* *Metro stop*: [4 Cantons - Stade Pierre Mauroy](https://www.google.com/maps/place/4+Cantons+Grand+Stade/@50.6063798,3.140079,16.93z/data=!4m6!3m5!1s0x47c2d6521ab6f00b:0x48f55ec632075f2c!8m2!3d50.605552!4d3.1388518!16s%2Fg%2F12vzpk3rm?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D)
+* *Address*: 8, Boulevard Louis XIV, 59046 Lille, France
+* *Metro stop*: [Grand Palais](https://maps.app.goo.gl/otyWd92itxsnwD2C6)
 
+We have recently found out that another [very large symposium](https://congres.sfap.org/) is taking place 300m away. **Please book you [accommodation](accommodation) urgently!**
+
+<!--
 ![Photograph of the Polytech Lille building](/2025/venue/polytech.png)
 *Photo by the University of Lille on [Twitter](https://twitter.com/univ_lille/status/1793576756789571692).*
 
