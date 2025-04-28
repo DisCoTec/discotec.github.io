@@ -14,7 +14,7 @@ You can book accommodation using well-known platforms such as [booking.com](http
  
 Alternatively, we will arrange some limited block reservations and special deals at selected hotels for DisCoTec participants. These rooms will be available on a first-come, first-served basis. For details about room types etc. please see the hotel websites, or contact the hotel directly. To secure your booking, please follow the instructions below.
 
-*Make sure to choose your hotel regarding [what you want to see around the city](./venue/#beyond-the-conference-bienvenue-%C3%A0-lille)!*
+*Make sure to choose your hotel regarding [what you want to see around the city](./venue#beyond-the-conference-bienvenue-%C3%A0-lille)!*
 
 ## Block Reservations and Special Deals
 TBA
