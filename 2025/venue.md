@@ -23,7 +23,7 @@ DisCoTec 2025 will take place at [École National Supérieure des Arts et Métie
 * *Address*: 8, Boulevard Louis XIV, 59046 Lille, France
 * *Metro stop*: [Grand Palais](https://maps.app.goo.gl/otyWd92itxsnwD2C6)
 
-We have recently found out that another [very large symposium](https://congres.sfap.org/) is taking place 300m away. **Please book you [accommodation](accommodation) urgently!**
+We have recently found out that another [very large symposium](https://congres.sfap.org/) is taking place 300m away. **Please book your [accommodation](accommodation) urgently!**
 
 <!--
 ![Photograph of the Polytech Lille building](/2025/venue/polytech.png)
@@ -95,7 +95,7 @@ To plan your travel, you can also rely on Google Maps.
 
 ## Accommodation
 
-We have recently found out that another [very large symposium](https://congres.sfap.org/) is taking place 300m away. **Please book you [accommodation](accommodation) urgently!**
+We have recently found out that another [very large symposium](https://congres.sfap.org/) is taking place 300m away. **Please book your [accommodation](accommodation) urgently!**
 
 We are working with [Hello Lille](https://en.hellolille.eu/) to provide a list of available rooms. However, do book your accommodation as soon as possible using any of the well-known platforms, such as:
 
