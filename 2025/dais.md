@@ -90,6 +90,7 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 * Pradeeban	Kathiravelu, University of Alaska Anchorage, USA
 * Odorico Machado	Mendizabal, Federal University of Santa Catarina, Brazil
 * Anas Mokhtari, Morocco
+* Guillaume Pierre, University of Rennes/Inria/CNRS/IRISA, France
 * Hans Reiser, Reykjavik University, Iceland
 * Etienne	Rivière, UC Louvain, Belgique
 * Guillaume	Rosinosky, IMT Atlantique, France

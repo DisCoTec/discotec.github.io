@@ -1,7 +1,7 @@
 ---
 title: Venue
 menu_show: true
-order: 6
+order: 7
 ---
 
 # Venue: Lille, France
@@ -13,17 +13,25 @@ order: 6
 * [Accommodation](#accommodation)
 * [Beyond the Conference: Bienvenue à Lille!](#beyond-the-conference-bienvenue-à-lille)
 
+> 📣📣📣 **Important** ![](mega-right.png) <br />
+> **Please book your hotel URGENTLY!** <br />
+{:.important}
+
 ## Location
-DisCoTec 2025 will take place on the Cité Scientifique campus: main conferences will be hosted by Polytech Lille, while workshops will occur in the ESPRIT building (next to Polytech).
+DisCoTec 2025 will take place at [École National Supérieure des Arts et Métiers](https://artsetmetiers.fr/fr/campus/lille) (ENSAM).
 
-* *Address*: Polytech Lille - Avenue Paul Langevin - 59655 Villeneuve d'Ascq cedex - France
-* *Metro stop*: [4 Cantons - Stade Pierre Mauroy](https://www.google.com/maps/place/4+Cantons+Grand+Stade/@50.6063798,3.140079,16.93z/data=!4m6!3m5!1s0x47c2d6521ab6f00b:0x48f55ec632075f2c!8m2!3d50.605552!4d3.1388518!16s%2Fg%2F12vzpk3rm?entry=ttu&g_ep=EgoyMDI0MTAyMy4wIKXMDSoASAFQAw%3D%3D)
+* *Address*: 8, Boulevard Louis XIV, 59046 Lille, France
+* *Metro stop*: [Grand Palais](https://maps.app.goo.gl/otyWd92itxsnwD2C6)
 
+We have recently found out that another [very large symposium](https://congres.sfap.org/) is taking place 300m away. **Please book your [accommodation](#accommodation) urgently!**
+
+<!--
 ![Photograph of the Polytech Lille building](/2025/venue/polytech.png)
 *Photo by the University of Lille on [Twitter](https://twitter.com/univ_lille/status/1793576756789571692).*
 
 ![Photograph of the ESPRIT grey building](/2025/venue/esprit.png)
 *Photo by Fayat on [their website](https://nordfranceconstructions.fayat.com/decouvrir-nos-realisations/batiment-esprit-du-plan-campus-a-villeneuve-d-ascq-59).*
+-->
 
 ## About Lille
 
@@ -80,24 +88,24 @@ The simplest option is to travel to [Lille-Lesquin Airport](https://www.lille.ae
 
 ## Moving around the city
 
-In the Lille Metropolis, public transportation (metro/tramway/bus/bike) is organized by [Ilevia](https://www.ilevia.fr/).
+In the Lille Metropolis, public transportation (metro/tramway/bus/bike) is organized by [Ilévia](https://www.ilevia.fr/).
 To plan your travel, you can also rely on Google Maps.
 
-*Note: they say the Lille metro is the first fully automated driverless metro system in the world!*
-
-![Metro lille trains](/2025/venue/metro.png)
-<br />
-*Photo by Central City - World Public Transport Videos on [YouTube](https://www.youtube.com/watch?v=nUk9e0lbdJI).*
+*Note: Disruptions may occur on Line 1 of metro. In particular, it will be closed on the evening of Monday, 16th of June starting from 22:30. [Line 2](https://maps.app.goo.gl/aTj4DMY5bfttn6AU9) should function normally.*
 
 ## Accommodation
 
-We strongly recommend booking a room **as soon as possible**: mid June is a busy period in the Lille area.
+We have recently found out that another [very large symposium](https://congres.sfap.org/) is taking place 300m away. **Please book your accommodation urgently!**
 
-The DisCoTec events will take place on the Campus Scientifique, which is located south-east of Lille in Villeneuve d'Ascq. The campus is about 7 km from the city center, where most hotels are located. We recommend staying in the center, as there is a  good metro connection with the campus.
+We are working with [Hello Lille](https://en.hellolille.eu/) to provide a list of available rooms. However, do book your accommodation as soon as possible using any of the well-known platforms, such as:
 
-You can book accommodation using well-known platforms such as [booking.com](https://www.booking.com) and [airbnb](https://www.airbnb.com).
+* [Booking.com](https://www.booking.com) 
+* [Airbnb](https://www.airbnb.com)
+* [Accor hotels](https://all.accor.com/)
 
-Alternatively, we intend to block a limited number of rooms in selected hotels for DisCoTec participants. These rooms will be available on a first-come, first-served basis. To get details about prices and secure your booking, please check [here](./hotels).
+We recommend booking either in the center of Lille or along the metro [Line 2](https://maps.app.goo.gl/aTj4DMY5bfttn6AU9). 
+
+Here is a Google Maps [list of hotels around the conference venue](https://www.google.fr/maps/search/H%C3%B4tels/@50.6324838,3.0657096,15z/data=!4m15!2m14!3m5!2s%C3%89cole+Nationale+Sup%C3%A9rieure+des+Arts+et+M%C3%A9tiers!3s0x47c2d5928753e249:0x27545fb60fab01b3!4m2!1d3.0712707!2d50.6281206!5m6!5m4!1s2025-06-16!2i4!4m1!1i1!9i200!6e3?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoJLDEwMjExNjM5SAFQAw%3D%3D){:target='_blank'} where you can see the walking distance and itinerary from each hotel to the venue (Click the pedestrian icon on the bottom menu, then hover over hotel markers on the map.)
 
 ## Beyond the Conference: Bienvenue à Lille!
 
