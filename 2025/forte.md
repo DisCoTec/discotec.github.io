@@ -12,7 +12,8 @@ FORTE 2025 is one of the three conferences of [DisCoTec 2025](.), the 20th Inter
 * [Important Dates](https://www.discotec.org/2025/#important-dates)
 * [Topics of Interest](#main-topics-of-interest)
 * [Submission Categories](#categories-of-papers)
-* [Submission Link](#submission-link)
+<!--* [Submission Link](#submission-link)-->
+*[Accepted Pepers](#accepted-papers)
 * [Special Issue](#special-issue)
 * [Program Committee](#program-committee-chairs)
 * [Contact](#more-information)
@@ -68,9 +69,13 @@ As advertised in the call for papers, artefact submissions are mandatory for too
 
 Choose the "FORTE 2025 Artefact Evaluation" track in EasyChair when submitting your artefact.
 
-### Submission Link
+<!--### Submission Link
 [Submission Link](https://easychair.org/conferences/?conf=forte2025)
-  
+  -->
+
+### Accepted papers
+Go to the [**dedicated page**](accepted-papers)
+
 ### Publication
 
 Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details). The FORTE proceedings will be published by Springer as an LNCS-IFIP volume and will comprise accepted submissions from __all__ categories.
