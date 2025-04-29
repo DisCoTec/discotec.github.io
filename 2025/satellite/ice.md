@@ -17,7 +17,7 @@ ICE 2025 is a satellite workshop of [DisCoTec 2025](https://www.discotec.org/202
 ## Important Dates
 
 - April 9th, 2025            : Paper submission deadline
-- April 10th -- April 28th   : Forum interaction, reviews, and PC discussion
+- April 10th -- May 2nd      : Forum interaction, reviews, and PC discussion
 - May 5th                    : Notification to authors
 - June 20th                  : Workshop in Lille, France
 - July 20th (tentative)      : Camera-ready for post-proceedings
