@@ -29,6 +29,9 @@ title: Accepted papers
 * Lyla Naghipour Vijouyeh, Luís Veiga and Paulo Ferreira. _BCProf: Battery Consumption Profiler for Android Applications_
 ### Short Paper
 * Hanyue Xu, Yuanxin Su, Jasmine Seng, Chenghao Li, Han Lu, Jianfei He and Li-Minn Ang. _AIoRT: AI-driven distributed system for heterogenous Internet of Robotic things in Sustainable Ecosystem_
+### Tutorial and Tool Paper
+*Baptiste Jonglez, Matthieu Simonin, Jolan Philippe and Sidi Mohammed Kaddour.	_Multi-provider capabilities in EnOSlib: driving distributed system experiments on the edge-to-cloud continuum_
+
 ### Invited paper
 * Lauric Desauw, Adrien Luxey-Bitri, Rémy Raes, Romain Rouvoy, Olivier Ruas and Walter Rudametkin. _A critical review of mobile device-to-device communication_
 
