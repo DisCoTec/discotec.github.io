@@ -70,8 +70,26 @@ The invited speakers are
 
 ![Baptiste Jonglez](/2025/keynote/BaptisteJonglez.png){: .keynote}
 
-Tutorial on [EnOSlib](https://discovery.gitlabpages.inria.fr/enoslib/index.html).
-More information soon.
+**Title:** _Driving distributed system experiments on the edge-to-cloud continuum with EnOSlib_
+
+**Abstract:** 
+[EnOSlib](https://discovery.gitlabpages.inria.fr/enoslib/index.html) is a Python library that facilitates the design and execution of
+reproducible experiments across distributed computing
+infrastructures. Originally developed to simplify experimentation on
+testbeds such as Grid’5000 and Chameleon Cloud, its scope is expanding to
+include edge testbeds. In addition, edge-to-cloud experiments are
+facilitated thanks to a new feature: EnOSlib now supports multi-provider
+deployments, allowing simultaneous resource reservation and deployment
+across several diverse testbeds at the same time.
+
+EnOSlib also provides reusable services, for example fine-grained energy
+measurements, automated Kubernetes cluster deployments, classical
+monitoring stacks, or enhanced network emulation.  All these features enable
+users to model and study complex, realistic scenarios such as
+latency-sensitive edge-to-cloud applications.
+
+The tutorial illustrates these capabilities through a distributed video
+processing use-case that spans edge and cloud platforms.
 
 ### [Robbert Krebbers](https://robbertkrebbers.nl/) (Radboud University Nijmegen, The Netherlands) - [COORDINATION](./coordination)
 {: .keynote}
