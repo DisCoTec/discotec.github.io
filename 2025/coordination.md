@@ -9,12 +9,12 @@ order:
 COORDINATION 2025 is one of the three conferences of [DisCoTec 2025](.).
 
 ### Quick Links:
-* [Important Dates](https://www.discotec.org/2025/#important-dates)
-<!--* [Submission Categories](#categories-of-papers)
+* [Important Dates](https://www.discotec.org/2025/dates)
+<!-- * [Submission Categories](#categories-of-papers)
 * [Submission Link](#submission-link)-->
 * [Accepted Papers](#accepted-papers)
-* [Special Issue](#special-issues)
-* [Program Committee](#program-committee-co-chairs)
+* [Special Issue](#proceedings-and-special-issues-from-previous-editions)
+* [Program Committee](#program-committee)
 
 
 ## Scope
