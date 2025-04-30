@@ -14,7 +14,7 @@ COORDINATION 2025 is one of the three conferences of [DisCoTec 2025](.).
 <!-- * [Submission Link](#submission-link) -->
 * [Accepted Papers](#accepted-papers)
 * [Proceedings and Special Issue](#proceedings-and-special-issues-from-previous-editions)
-* [Program Committee](#program-committee)
+* [Programme Committee](#programme-committee)
 
 
 ## Scope
