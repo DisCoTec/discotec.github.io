@@ -22,6 +22,16 @@ title: Accepted papers
 
 ## [DAIS](dais)
 
+### Regular Papers
+* Donatien Schmitz, Guillaume Rosinosky and Etienne Rivière. *Justin: Hybrid CPU/Memory Elastic Scaling for Distributed Stream Processing*
+* Maryam Rahmani, Suzanne Crumeyrolle, Nadege Martiny and Romain Rouvoy. _GT-LSTM: Integrating High-Resolution Particulate Matter Data for Urban Air Quality Forecasting_
+* Pierre-Louis Aublin and Arne Vogel. _Mitigating Cryptographic Bottlenecks of Low-latency BFT Protocols_
+* Lyla Naghipour Vijouyeh, Luís Veiga and Paulo Ferreira. _BCProf: Battery Consumption Profiler for Android Applications_
+### Short Paper
+* Hanyue Xu, Yuanxin Su, Jasmine Seng, Chenghao Li, Han Lu, Jianfei He and Li-Minn Ang. _AIoRT: AI-driven distributed system for heterogenous Internet of Robotic things in Sustainable Ecosystem_
+### Invited paper
+* Lauric Desauw, Adrien Luxey-Bitri, Rémy Raes, Romain Rouvoy, Olivier Ruas and Walter Rudametkin. _A critical review of mobile device-to-device communication_
+
 ## [FORTE](forte)
 
 ### Regular Papers
