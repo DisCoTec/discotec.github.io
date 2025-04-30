@@ -10,10 +10,10 @@ COORDINATION 2025 is one of the three conferences of [DisCoTec 2025](.).
 
 ### Quick Links:
 * [Important Dates](https://www.discotec.org/2025/dates)
-<!-- * [Submission Categories](#categories-of-papers)
-* [Submission Link](#submission-link)-->
+<!-- * [Submission Categories](#categories-of-papers)-->
+<!-- * [Submission Link](#submission-link) -->
 * [Accepted Papers](#accepted-papers)
-* [Special Issue](#proceedings-and-special-issues-from-previous-editions)
+* [Proceedings and Special Issue](#proceedings-and-special-issues-from-previous-editions)
 * [Program Committee](#program-committee)
 
 
@@ -101,7 +101,10 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 * Selected Software Artefacts from the Papers of DisCoTec 2023 - 18th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. In preparation.
 
-## Programme Committee co-chairs
+## Programme Committee
+
+### Co-Chairs
+
 * [Cinzia Di Giusto][CinziaWeb] (Université Côte d'Azur)
 * [António Ravara][AntonioWeb] (NOVA School of Science and Technology)
 
@@ -110,7 +113,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * [Saverio Giallorenzo](https://www.unibo.it/sitoweb/saverio.giallorenzo2/) (University of Bologna, Italy)
 -->
 
-## Programme Committee
+### Programme Committee members
 * S. Akshay (IIT Bombay, India)	
 * Étienne André	(Université Sorbonne Paris Nord, LIPN, CNRS UMR 7030, France)
 * Giovanni Bacci (Dept. of Computer Science, Aalborg University, Denmark)
@@ -139,10 +142,10 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Maurice ter Beek (CNR, Italy)
 
 
-## Artefact Evaluation Committee chair
+### Artefact Evaluation Committee chair
 * Duncan Attard, University of Glasgow, UK
 
-## Artefact Evaluation Committee
+### Artefact Evaluation Committee
 * Arwa Hameed Alsubhi, University of Glasgow, UK	
 * Marietta Galea, University of Malta, Malta	
 * Marco Giunti, University of Oxford, UK	
