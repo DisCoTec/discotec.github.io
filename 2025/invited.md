@@ -36,7 +36,15 @@ More information soon.
 
 ![Omar Inverso](/2025/keynote/OmarInverso.png){: .keynote}
 
-More information soon
+**Title:** _Towards Automated Analysis of Emerging Behaviour: Preliminary Insights and Research Directions_
+
+**Abstract:** In several classes of collective systems, sophisticated dynamics may occur for the combined effect of the elementary actions of the individuals. For instance, foraging ants in a colony are able to collectively work out the most convenient path while carrying food back to their nest. Somehow similarly, unintended order may arise spontaneously among the involved parties of some economic systems.
+
+Fascinating phenomena of this kind are studied in a variety of disciplines, from biology to physics, where the main challenge is to understand the relationship between the way individuals behave in isolation and what happens over time at a global level in the system.
+
+This talk summarises a few proofs of concept on the automated analysis of different systems, such as stable matchings, flocks of birds, colonies of ants, and applauding audiences, and relevant emerging properties thereof. The underlying methodology follows an integrated approach to formal specification and analysis to leverage intuitive specification languages as well as existing mature verification technology and decision procedures for general-purpose applications.
+
+**Bio:** Omar Inverso is an associate professor at the Gran Sasso Science Institute in L'Aquila, Italy. His research interests include formal languages and methods, automated analysis, and decision procedures, with applications to concurrent and distributed systems, and so-called collective or complex systems at large.
 
 ### [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/) (TU Delft, The Netherlands) - [FORTE](./forte)
 {: .keynote}
@@ -70,28 +78,12 @@ More information soon.
 
 ![Robbert Krebbers](/2025/keynote/RobbertKrebbers.png){: .keynote}
 
-**Title:** _Mechanized type soundness for structural types using Iris_
+**Title:** _Mechanized Type Soundness for Substructural Types using Iris_
 
 **Abstract:**
-Substructural type systems are a good fit to enforce strong safety
-properties of higher-order, imperative and concurrent programs. Key
-examples are the Rust type system (which ensures the absence of
-undefined behavior and data races) and session types (which ensure
-correct usage of message-passing channels). Formally proving that these
-type systems "do their job" (i.e., enjoy "type soundness") is
-challenging. This challenge is exacerbated when considering combinations
-of language features ("feature interaction") and linking against
-"unsafe" code (which has to be verified manually), thus providing a
-desire for machine-checked proofs in a proof assistant.
+Substructural type systems are a good fit to enforce strong safety properties of higher-order, imperative and concurrent programs. Key examples are the Rust type system (which enforces the absence of undefined behavior and data races) and session types (which enforce correct usage of message-passing channels). Formally proving that these type systems "do their job" (i.e., they enjoy the "type soundness" property) is challenging. This challenge is exacerbated when considering combinations of language features ("feature interaction") and linking against "unsafe" libraries (which have to be verified manually), thus providing the desire for a scalable approach with support for machine-checked proofs.
 
-In this tutorial I will give an introduction to the "logical approach"
-to type soundness, which is well-suited to reason about substructural
-type systems. I will explain the theory of the logical approach in the
-context of a very simple language, which I then gradually scale up to a
-session-typed language. I will furthermore demonstrate that the logical
-approach is well-suited for the mechanization of challenging type
-systems in the Rocq proof assistant using the Iris framework for
-concurrent separation logic.
+In this tutorial I will give an introduction to the "logical approach" to type soundness, which is well-suited to prove soundness of substructural type systems. I will explain the theory of the logical approach in the context of a very simple language, which I then gradually scale up to a session-typed language. I will also demonstrate that the logical approach is well-suited for the mechanization of challenging type systems in the Rocq proof assistant using the Iris framework for concurrent separation logic.
 
 ### [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/) (GSSI, Italy) - [FORTE](./forte)
 {: .keynote}
