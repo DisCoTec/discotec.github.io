@@ -8,6 +8,15 @@ order:
 
 COORDINATION 2025 is one of the three conferences of [DisCoTec 2025](.).
 
+### Quick Links:
+* [Important Dates](https://www.discotec.org/2025/#important-dates)
+<!--* [Submission Categories](#categories-of-papers)
+* [Submission Link](#submission-link)-->
+* [Accepted Papers](#accepted-papers)
+* [Special Issue](#special-issues)
+* [Program Committee](#program-committee-co-chairs)
+
+
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today’s software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
 
@@ -29,12 +38,12 @@ Topics of interest encompass all areas of coordination, including (but not limit
 * Industrial relevance of coordination and software architectures: programming in the large, domain-specific software architectures and coordination models, industry-driven efforts in coordination and case studies.
 * Interdisciplinary aspects of coordination.
 
-<!--
+
 
 ## Accepted Papers 
-Go to the [list of accepted papers](https://www.discotec.org/2024/accepted-papers).
+Go to the [list of accepted papers](https://www.discotec.org/2025/accepted-papers).
 
--->
+
 
 ## Submissions
 
@@ -167,6 +176,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Marjan Sirjani (Mälardalen University, Sweden)
 * Carolyn Talcott (SRI International, California, USA)
 * Maurice ter Beek (CNR-ISTI, Italy) 
+* Francesco Tiezzi (Università di Firenze, Italy)
 * Emilio Tuosto (Gran Sasso Science Institute, Italy)
 * Vasco T. Vasconcelos (University of Lisbon, Portugal)
 * Mirko Viroli (Università di Bologna, Italy)

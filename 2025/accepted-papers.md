@@ -5,6 +5,21 @@ title: Accepted papers
 # Accepted papers
 ## [COORDINATION](coordination)
 
+### Regular Papers
+* Christopher Esterhuyse, Benjamin Lion, Hans-Dieter Hiep and Farhad Arbab. *Formal Foundations for Reowolf: Multi-Party Sessions via Synchronous Protocol Programming*.
+* Alessandro Aldini and Claudio Antares Mezzina. *Formalizing Errors in CCS with 3-Valued Logic*.
+* Robert Rubbens, Petra van den Bos and Marieke Huisman. *Verified Parameterized Choreographies*.
+* Fabio Gadducci, Carlos Olarte and Frank Valencia. *A Constraint Opinion Model*.
+* Nikolaus Huber, Susanne Graf, Philipp Rümmer and Wang Yi. *MIMOSA: A Language for Asynchronous Implementation of Embedded Systems Software*
+* Antonio Brogi, Roberto Casadei, Nicolas Farabegoli, Stefano Forti and Mirko Viroli. *Declarative Deployment Planning for Green Pulverised Collective Computational Systems*.
+* Giorgio Delzanno, Cosimo Laneve, Arnaud Sangnier and Gianluigi Zavattaro. *Decidability Problems for Micro-Stipula*.
+* Carlos Gustavo Lopez Pombo, Agustín Eloy Martinez-Suñé, Hernan Melgratti, Diego Senarruzza Anabia and Emilio Tuosto. *Behavioural, Functional, and Non-Functional Contracts for Dynamic Selection of Services*.
+* Carolyn Talcott. *Dialects for the CoAP IoT Messaging Protocol*.
+* Tilman Zuckmantel, Thomas Hildebrandt, Yongluan Zhou and Boris Düdder. *DACEO: Declarative Asynchronous Choreographies with Data-dependent Event Ordering*.
+### Tool Papers
+* José Proença and Maurice H. ter Beek. *RebeCaos*.
+* Gianluca Aguzzi, Lorenzo Bacchini, Martina Baiardi, Roberto Casadei, Angela Cortecchia, Davide Domini, Nicolas Farabegoli, Danilo Pianini and Mirko Viroli. *A Demonstrator Toolchain for Self-organizing Robot Teams*.
+
 ## [DAIS](dais)
 
 ## [FORTE](forte)
