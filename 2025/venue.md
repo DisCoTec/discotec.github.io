@@ -25,6 +25,9 @@ DisCoTec 2025 will take place at [École National Supérieure des Arts et Métie
 
 We have recently found out that another [very large symposium](https://congres.sfap.org/) is taking place 300m away. **Please book your [accommodation](#accommodation) urgently!**
 
+![Photograph of the ENSAM main building](/2025/venue/ensam.jpg)
+*Photo by the ENSAM on [their website](https://artsetmetiers.fr/en/campus/lille){:target='_blank'}.*
+
 <!--
 ![Photograph of the Polytech Lille building](/2025/venue/polytech.png)
 *Photo by the University of Lille on [Twitter](https://twitter.com/univ_lille/status/1793576756789571692).*
