@@ -48,7 +48,7 @@ title: Accepted papers
 * Mathieu Laurent, Thierry Jéron and Martin Quinson. *Towards Efficient Verification of Parallel Applications with Mc SimGrid*.
 * Karine Altisen and Marius Bozga. *Revisited Convergence of a Self-Stabilizing BFS Spanning Tree Algorithm*.
 
-### Short/Tool Papers
+### Short
 * 	Gabriele Genovese, Ivan Lanese, Cinzia Di Giusto, Emilio Tuosto and German Vidal. *Choreographies for Program Understanding*.
 * 	Cheng-Hui Weng, Reynald Affeldt, Jacques Garrigue and Takafumi Saikawa. *An Approach to Formalize Information-theoretic Security of Multiparty Computation Protocols*.
 * 	Lorenzo Capra, Massimiliano De Pierro and Giuliana Franceschinis. *SNexpression: a new component for SN matrix-based structural analysis*.
