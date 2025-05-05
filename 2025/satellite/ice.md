@@ -44,6 +44,14 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - Tools and techniques for automation
 - Synthesis techniques
 
+## Accepted Papers
+
+- *Modular Multiparty Sessions with Mixed Choice* by Franco Barbanera, Mariangiola Dezani
+- *Identity Crisis in Attested TLS for Confidential Computing (Oral communication)* by Muhammad Usama Sardar
+- *Reactive Semantics for User Interface Description Languages* by Basile Pesin, Celia Picard, Cyril Allignol 
+- *Bisimilarity and Simulatability of Processes Parameterized by Join Interactions* by Clemens Grabmayer and Maurizio Murgia
+- *A Formalization of the Reversible Concurrent Calculus CCSK$^P$ in Beluga* by Gabriele Cecilia
+
 ## The ICE Selection Procedure
 
 Since [its first edition in 2008](#previous-editions), the distinguishing feature of ICE has been an innovative paper selection mechanism based on an interactive, friendly, and constructive discussion amongst authors and PC members in an online forum.
