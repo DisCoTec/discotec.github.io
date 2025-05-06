@@ -50,7 +50,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - *Identity Crisis in Attested TLS for Confidential Computing (Oral communication)* by Muhammad Usama Sardar
 - *Reactive Semantics for User Interface Description Languages* by Basile Pesin, Celia Picard, Cyril Allignol 
 - *Bisimilarity and Simulatability of Processes Parameterized by Join Interactions* by Clemens Grabmayer and Maurizio Murgia
-- *A Formalization of the Reversible Concurrent Calculus CCSK$^P$ in Beluga* by Gabriele Cecilia
+- *A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga* by Gabriele Cecilia
 
 ## The ICE Selection Procedure
 
