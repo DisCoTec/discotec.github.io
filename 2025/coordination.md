@@ -8,6 +8,15 @@ order:
 
 COORDINATION 2025 is one of the three conferences of [DisCoTec 2025](.).
 
+### Quick Links:
+* [Important Dates](https://www.discotec.org/2025/dates)
+<!-- * [Submission Categories](#categories-of-papers)-->
+<!-- * [Submission Link](#submission-link) -->
+* [Accepted Papers](#accepted-papers)
+* [Proceedings and Special Issue](#proceedings-and-special-issues-from-previous-editions)
+* [Programme Committee](#programme-committee)
+
+
 ## Scope
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today’s software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
 
@@ -29,12 +38,12 @@ Topics of interest encompass all areas of coordination, including (but not limit
 * Industrial relevance of coordination and software architectures: programming in the large, domain-specific software architectures and coordination models, industry-driven efforts in coordination and case studies.
 * Interdisciplinary aspects of coordination.
 
-<!--
+
 
 ## Accepted Papers 
-Go to the [list of accepted papers](https://www.discotec.org/2024/accepted-papers).
+Go to the [list of accepted papers](https://www.discotec.org/2025/accepted-papers).
 
--->
+
 
 ## Submissions
 
@@ -92,7 +101,10 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 * Selected Software Artefacts from the Papers of DisCoTec 2023 - 18th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. In preparation.
 
-## Programme Committee co-chairs
+## Programme Committee
+
+### Co-Chairs
+
 * [Cinzia Di Giusto][CinziaWeb] (Université Côte d'Azur)
 * [António Ravara][AntonioWeb] (NOVA School of Science and Technology)
 
@@ -101,7 +113,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * [Saverio Giallorenzo](https://www.unibo.it/sitoweb/saverio.giallorenzo2/) (University of Bologna, Italy)
 -->
 
-## Programme Committee
+### Programme Committee members
 * S. Akshay (IIT Bombay, India)	
 * Étienne André	(Université Sorbonne Paris Nord, LIPN, CNRS UMR 7030, France)
 * Giovanni Bacci (Dept. of Computer Science, Aalborg University, Denmark)
@@ -130,10 +142,10 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Maurice ter Beek (CNR, Italy)
 
 
-## Artefact Evaluation Committee chair
+### Artefact Evaluation Committee chair
 * Duncan Attard, University of Glasgow, UK
 
-## Artefact Evaluation Committee
+### Artefact Evaluation Committee
 * Arwa Hameed Alsubhi, University of Glasgow, UK	
 * Marietta Galea, University of Malta, Malta	
 * Marco Giunti, University of Oxford, UK	
@@ -167,6 +179,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Marjan Sirjani (Mälardalen University, Sweden)
 * Carolyn Talcott (SRI International, California, USA)
 * Maurice ter Beek (CNR-ISTI, Italy) 
+* Francesco Tiezzi (Università di Firenze, Italy)
 * Emilio Tuosto (Gran Sasso Science Institute, Italy)
 * Vasco T. Vasconcelos (University of Lisbon, Portugal)
 * Mirko Viroli (Università di Bologna, Italy)

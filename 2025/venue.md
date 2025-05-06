@@ -25,6 +25,9 @@ DisCoTec 2025 will take place at [École National Supérieure des Arts et Métie
 
 We have recently found out that another [very large symposium](https://congres.sfap.org/) is taking place 300m away. **Please book your [accommodation](#accommodation) urgently!**
 
+![Photograph of the ENSAM main building](/2025/venue/ensam.jpg)
+*Photo by the ENSAM on [their website](https://artsetmetiers.fr/en/campus/lille){:target='_blank'}.*
+
 <!--
 ![Photograph of the Polytech Lille building](/2025/venue/polytech.png)
 *Photo by the University of Lille on [Twitter](https://twitter.com/univ_lille/status/1793576756789571692).*
@@ -106,6 +109,22 @@ We are working with [Hello Lille](https://en.hellolille.eu/) to provide a list o
 We recommend booking either in the center of Lille or along the metro [Line 2](https://maps.app.goo.gl/aTj4DMY5bfttn6AU9). 
 
 Here is a Google Maps [list of hotels around the conference venue](https://www.google.fr/maps/search/H%C3%B4tels/@50.6324838,3.0657096,15z/data=!4m15!2m14!3m5!2s%C3%89cole+Nationale+Sup%C3%A9rieure+des+Arts+et+M%C3%A9tiers!3s0x47c2d5928753e249:0x27545fb60fab01b3!4m2!1d3.0712707!2d50.6281206!5m6!5m4!1s2025-06-16!2i4!4m1!1i1!9i200!6e3?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoJLDEwMjExNjM5SAFQAw%3D%3D){:target='_blank'} where you can see the walking distance and itinerary from each hotel to the venue (Click the pedestrian icon on the bottom menu, then hover over hotel markers on the map.)
+
+### Block Reservations and Special Deals
+*(Last updated: May 1st, 2025)*
+
+We will arrange some limited block reservations and special deals at selected hotels for DisCoTec participants. These rooms will be available on a first-come, first-served basis. For details about room types etc. please see the hotel websites, or contact the hotel directly. To secure your booking, please follow the instructions below.
+
+#### [B&B HOTEL Lille Lillenium Eurasanté](https://www.hotel-bb.com/en/hotel/lille-lillenium-eurasante){:target='_blank'} (3*)
+* **Address:** 306 Rue Geneviève Anthonioz de Gaulle, 59000 Lille
+* **Tel.no.:** +33 (0)3 59 53 70 86
+* **E-mail:** bb_4751@hotelbb.com
+* **Block reservation <u>(30 rooms max)</u>:**
+  * *Single rooms:* 139€/night incl. breakfast
+  * *Double/twin rooms:* 149€/night incl. breakfast
+* **Additional tourist tax:** 1.76€/person/night
+* **How to book:** Reservation requests should be made by phone or email; please mention the code: `DisCoTec-2025`.
+
 
 ## Beyond the Conference: Bienvenue à Lille!
 
