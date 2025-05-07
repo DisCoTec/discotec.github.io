@@ -4,7 +4,7 @@ menu_show: true
 order: 0
 ---
 
-## Quick Links
+## Quick links
 * [Programme in a Nutshell](#in-a-nutshell)
 * [Details of the Parallel Tracks (Main Conferences)](#details-tuesday---thursday)
 
