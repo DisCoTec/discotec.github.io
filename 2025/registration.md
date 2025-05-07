@@ -36,7 +36,7 @@ This category includes full access on Tuesday 17, Wednesday 18, and Thursday 19:
 * Access to the Gender Parity / Women in Science session
 * Lunch and two coffee breaks
 * Free access to the online LNCS proceedings of Coordination, DAIS, and FORTE
-* Full social program on Wednesday 18
+* Full social program on Wednesday 18 (social activities + conference banquet)
 
 ### Main conferences + 1 day satellites
 This category includes
