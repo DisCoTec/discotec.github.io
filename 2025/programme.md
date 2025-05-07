@@ -4,7 +4,7 @@ menu_show: true
 order: 0
 ---
 
-# Programme
+# Programme overview
 
 ![Programme overview](program-overview.png)
 
