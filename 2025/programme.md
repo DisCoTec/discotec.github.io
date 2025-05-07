@@ -15,15 +15,18 @@ order: 0
 ## In a nutshell
 
 TBA
+
 <!--
+
 ### Tuesday, June 17th: Main Conferences
 
 ### Wednesday, June 18th: Main Conferences
 
 ### Thursday, June 19th: Main Conferences
+
 -->
 
-# Details (Tuesday - Thursday)
+## Details (Tuesday - Thursday)
 
 TBA
 
@@ -45,4 +48,5 @@ TBA
 
 | Time | COORDINATION | DAIS | FORTE |
 | :---: | :---: | :---: | :---: | 
+
 -->
