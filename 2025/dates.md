@@ -13,7 +13,7 @@ order: 1
 * Artefact kick-the-tires - author response: March 17, 2025 <!-- March 3, 2025 -->
 * Artefact notification: April 4, 2025 <!-- March 28, 2025 -->
 * Paper notification: April 4, 2025 <!-- March 28, 2025 -->
-* Camera-ready: April 23, 2025 (TBC)
+* Camera-ready: April 28, 2025 <!-- April 23, 2025 -->
 * Conference:  June 16-20, 2025
 
 Deadlines expire at 23:59 anywhere on earth on the dates displayed above.

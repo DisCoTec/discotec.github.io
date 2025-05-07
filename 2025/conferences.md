@@ -1,6 +1,6 @@
 ---
 title: Conferences
-menu_show: true
+menu_show: false
 order: 0
 ---
 
