@@ -26,7 +26,7 @@ TBA
 
 -->
 
-# Details (Tuesday - Thursday)
+## Details (Tuesday - Thursday)
 
 TBA
 
