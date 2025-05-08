@@ -4,13 +4,13 @@ menu_show: true
 order: 0
 ---
 
-# Programme
-
-![Programme overview](program-overview.png)
-
-## Quick Links
+## Quick links
 * [Programme in a Nutshell](#in-a-nutshell)
 * [Details of the Parallel Tracks (Main Conferences)](#details-tuesday---thursday)
+
+# Programme overview
+
+![Programme overview](program-overview.png)
 
 ## In a nutshell
 
