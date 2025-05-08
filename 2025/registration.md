@@ -60,7 +60,7 @@ This category includes full access on Monday 16 AND Friday 20:
 
 **Note:** Additionally to the category selection, you *must* select the events you plan to attend, to help the organizing committee with logistics.
 
-{:refdef: style="text-align: center;"}
+{:refdef: style="text-align: center; width: 50%;"}
 ![Extras list](./registration_extras.png)
 {: refdef}
 
