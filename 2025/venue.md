@@ -15,7 +15,7 @@ order: 7
 
 > 📣📣📣 **Important** ![](mega-right.png) <br />
 > **Please book your hotel URGENTLY!** <br />
-> Join the [WhatsApp group](https://chat.whatsapp.com/KQZV8zVjMgKIQYGMqXYk8m) to discuss accommodation
+> Registered participants can join the [WhatsApp group](https://chat.whatsapp.com/KQZV8zVjMgKIQYGMqXYk8m) to discuss accommodation
 {:.important}
 
 ## Location
@@ -101,7 +101,7 @@ To plan your travel, you can also rely on Google Maps.
 
 We have recently found out that another [very large symposium](https://congres.sfap.org/) is taking place 300m away. **Please book your accommodation urgently!**
 
-> For those of you who would be interested in sharing accommodation with other participants, here is a [WhatsApp group](https://chat.whatsapp.com/KQZV8zVjMgKIQYGMqXYk8m) that we have set up to match people with potential flatmates.
+> For the registered participants who would be interested in sharing accommodation with others, here is a [WhatsApp group](https://chat.whatsapp.com/KQZV8zVjMgKIQYGMqXYk8m) that we have set up to match people with potential flatmates.
 {:.important}
 
 We are working with [Hello Lille](https://en.hellolille.eu/) to provide a list of available rooms. However, do book your accommodation as soon as possible using any of the well-known platforms, such as:
