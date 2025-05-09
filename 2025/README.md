@@ -9,8 +9,7 @@ DisCoTec 2025 will take place in [Lille, France](venue), June 16-20, 2025, hoste
 > 📣📣📣 **Important** ![](mega-right.png) <br />
 > **[Registration is now open!](./registration)**  
 >
-> **[Please book your hotel URGENTLY!](venue)**
-> 
+> **[Please book your hotel URGENTLY!](venue)** <br />
 > Join the [WhatsApp group](https://chat.whatsapp.com/KQZV8zVjMgKIQYGMqXYk8m) to discuss accommodation
 {:.important}
 
