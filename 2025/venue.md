@@ -6,17 +6,17 @@ order: 7
 
 # Venue: Lille, France
 
+> 📣📣📣 **Important** ![](mega-right.png) <br />
+> **Please book your hotel URGENTLY!** <br />
+> Registered participants can join the [WhatsApp group](https://chat.whatsapp.com/KQZV8zVjMgKIQYGMqXYk8m) to discuss accommodation
+{:.important}
+
 ## Quick Links
 * [Location](#location)
 * [How to arrive](#how-to-arrive)
 * [Moving around the city](#moving-around-the-city)
 * [Accommodation](#accommodation)
 * [Beyond the Conference: Bienvenue à Lille!](#beyond-the-conference-bienvenue-à-lille)
-
-> 📣📣📣 **Important** ![](mega-right.png) <br />
-> **Please book your hotel URGENTLY!** <br />
-> Registered participants can join the [WhatsApp group](https://chat.whatsapp.com/KQZV8zVjMgKIQYGMqXYk8m) to discuss accommodation
-{:.important}
 
 ## Location
 DisCoTec 2025 will take place at [École National Supérieure des Arts et Métiers](https://artsetmetiers.fr/fr/campus/lille) (ENSAM).
