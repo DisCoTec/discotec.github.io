@@ -6,7 +6,7 @@ order: 2
 
 # Satellite Events
 
-Below are the satellite events confirmed for DisCoTec 2025, but the [call for satellite events](#call-for-satellite-events-workshops--tutorials) is still open.
+Below are the satellite events confirmed for DisCoTec 2025.
 
 - [CORSE](./satellite/corse) – Components Operationally: Reversibility and System Engineering.
 - [ICE](./satellite/ice) – Interaction and Concurrency Experience.
