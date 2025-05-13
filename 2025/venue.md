@@ -115,7 +115,7 @@ We recommend booking either in the center of Lille or along the metro [Line 2](h
 Here is a Google Maps [list of hotels around the conference venue](https://www.google.fr/maps/search/H%C3%B4tels/@50.6324838,3.0657096,15z/data=!4m15!2m14!3m5!2s%C3%89cole+Nationale+Sup%C3%A9rieure+des+Arts+et+M%C3%A9tiers!3s0x47c2d5928753e249:0x27545fb60fab01b3!4m2!1d3.0712707!2d50.6281206!5m6!5m4!1s2025-06-16!2i4!4m1!1i1!9i200!6e3?entry=ttu&g_ep=EgoyMDI1MDQxMy4wIKXMDSoJLDEwMjExNjM5SAFQAw%3D%3D){:target='_blank'} where you can see the walking distance and itinerary from each hotel to the venue (Click the pedestrian icon on the bottom menu, then hover over hotel markers on the map.)
 
 ### Block Reservations and Special Deals
-*(Last updated: May 1st, 2025)*
+*(Last updated: May 13th, 2025)*
 
 We will arrange some limited block reservations and special deals at selected hotels for DisCoTec participants. These rooms will be available on a first-come, first-served basis. For details about room types etc. please see the hotel websites, or contact the hotel directly. To secure your booking, please follow the instructions below.
 
@@ -128,6 +128,14 @@ We will arrange some limited block reservations and special deals at selected ho
   * *Double/twin rooms:* 149€/night incl. breakfast
 * **Additional tourist tax:** 1.76€/person/night
 * **How to book:** Reservation requests should be made by phone or email; please mention the code: `DisCoTec-2025`.
+
+#### [Lille City Hotel](https://www.lillecityhotel.com/){:target='_blank'} (3*)
+* **Address:** 57 Rue de Béthune, 59800 Lille
+* **Tel.no.:** +33 (0)3 20 12 96 96
+* **E-mail:** contact@lillecityhotel.fr
+* **Block reservation <u>(15 rooms max)</u>:**
+  * *Single rooms:* 155€/night incl. breakfast
+* **How to book:** Reservation requests should be made by phone or email; please mention the code: `DCSLCH0625`.
 
 
 ## Beyond the Conference: Bienvenue à Lille!
