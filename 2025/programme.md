@@ -75,7 +75,7 @@ TBA
 | **11:30-12:00** | TBA |
 | *12:00-13:30* | *lunch break* |
 |  | **DisCoTec-wide Keynote** <br/> (Room: TBA) |
-| **13:30-14:30**  | [**Hélène Coullon**: <br/> TBA](./invited##hélène-coullon-imt-atlantique-france---discotec-wide) |
+| **13:30-14:30**  | [**Hélène Coullon**: <br/> Efficient Reconfigurations with Programmable Life Cycles: Contributions to Safety, Declarativity, and Decentralization](./invited##hélène-coullon-imt-atlantique-france---discotec-wide) |
 | *14:30-15:00* | *coffee break* |
 | **15:00-16:30** | **Women @ Science** <br> (Room: TBA) |
 | *17:30-19:00* | *Social activity* |
