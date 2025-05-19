@@ -57,6 +57,13 @@ TBA
 
 ### Wednesday, June 18th: DisCoTec Main Conferences
 
+<style>
+    .wide-table {
+        display: table !important;
+    }
+</style>
+
+{: .wide-table}
 | Time | DisCoTec |
 | :---: | :---: |
 |  | **DAIS Invited Talk** <br/> (Room: TBA) |
