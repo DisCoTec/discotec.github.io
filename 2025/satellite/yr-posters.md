@@ -49,7 +49,7 @@ Young Researchers willing to partake in the Event be requested to submit two doc
 Submission deadline: ~~Sunday 25th May~~ **Monday 2nd June at 23h59 AoE** 
 
 - [**Submit your poster on EasyChair**](https://easychair.org/conferences/?conf=discotec25posters)
-- Submit your one-slide presentation by e-mail at `adrien.luxey [ arobase ] inria.fr`
+- Submit your one-slide presentation by e-mail at `adrien.luxey [ at ] inria.fr`
 
 
 ## Dates
