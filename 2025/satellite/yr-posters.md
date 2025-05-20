@@ -46,9 +46,11 @@ Young Researchers willing to partake in the Event be requested to submit two doc
 - A **poster** (A0 format) presenting their _finalised or ongoing research work_, to be displayed in the Main Hall during the conference,
 - A **one-slide presentation** (1min duration), to tease their poster during the _lightning talks session_.
 
-Submission deadline: **Sunday 25th May**
+Submission deadline: ~~Sunday 25th May~~ **Monday 2nd June at 23h59 AoE** 
 
-_Submission link to be announced._
+- [**Submit your poster on EasyChair**](https://easychair.org/conferences/?conf=discotec25posters)
+- Submit your one-slide presentation by e-mail at `adrien.luxey [ arobase ] inria.fr`
+
 
 ## Dates
 
