@@ -37,20 +37,20 @@ This category includes full access on Tuesday 17, Wednesday 18, and Thursday 19:
 * Lunch and two coffee breaks
 * Free access to the online LNCS proceedings of Coordination, DAIS, and FORTE
 * Full social program on Wednesday 18 (social activities + conference banquet)
+* Welcome reception on Monday
 
 ### Main conferences + 1 day satellites
 This category includes
 * All benefits of “Main conferences only” 
 * Access to all workshops and tutorials on one of the satellite days (Monday 16 OR Friday 20)
 * Lunch and two coffee breaks on the same day
-* Welcome OR Closing reception
+* Welcome AND Closing reception
 
 ### Full week
 This category includes 
 * All benefits of “Main conferences only”
 * Access to all workshops and tutorials on both satellite days (Monday 16 AND Friday 20)
-* Lunch and two coffee breaks on the satellite days
-* Welcome AND Closing reception
+* Lunch and two coffee breaks on both satellite days
 
 ### Satellite events only
 This category includes full access on Monday 16 AND Friday 20:
