@@ -132,7 +132,7 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Matteo Cimini](https://www.cs.uml.edu/~mcimini/) (University of Massachusetts Lowell, 🇺🇸)
 - [Farzaneh Derakhshan](http://gauss.cs.iit.edu/~fderakhshan/) (Illinois Tech, 🇺🇸)
 - [Emanuele D'Osualdo](https://www.emanueledosualdo.com/) (University of Konstanz, 🇩🇪)
-- [Luc Edixhoven](https://orcid.org/0000-0002-6011-9535) (University of Southern Denmark, 🇩🇰)
+- [Luc Edixhoven](https://luc.edixhoven.eu/) (University of Southern Denmark, 🇩🇰)
 - [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home) (University of Liverpool, 🇬🇧)
 - [Lucie Guillou](https://www.irif.fr/~guillou/) (IRIF, Université Paris Cité, 🇫🇷)
 - [Ping Hou](https://mrg.cs.ox.ac.uk/people/ping-hou/) (University of Oxford, 🇬🇧)
