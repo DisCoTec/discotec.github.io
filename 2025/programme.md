@@ -72,7 +72,7 @@ TBA
 |  | **Session 4: DisCoTec Best Papers** <br/> (Room: TBA)  <br/> Chair: TBA |
 | **10:30-11:00** | Verified Parameterized Choreographies |
 | **11:00-11:30** | Revisited Convergence of a Self-Stabilizing BFS Spanning Tree Algorithm |
-| **11:30-12:00** | TBA |
+| **11:30-12:00** | Justin: Hybrid CPU/Memory Elastic Scaling for Distributed Stream Processing |
 | *12:00-13:30* | *lunch break* |
 |  | **DisCoTec-wide Keynote** <br/> (Room: TBA) |
 | **13:30-14:30**  | [**Hélène Coullon**: <br/> Efficient Reconfigurations with Programmable Life Cycles: Contributions to Safety, Declarativity, and Decentralization](./invited##hélène-coullon-imt-atlantique-france---discotec-wide) |
