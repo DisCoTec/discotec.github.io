@@ -52,6 +52,25 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - *Bisimilarity and Simulatability of Processes Parameterized by Join Interactions* by Clemens Grabmayer and Maurizio Murgia
 - *A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga* by Gabriele Cecilia
 
+## Programme and Pre-proceedings {#programme} 
+
+The pre-proceedings are 
+*All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
+
+
+| Time CEST   |  |
+| ------------| ------- | 
+| 8:50-9:00   | Opening |
+| 9:00-10:00  | [Kirstin Peters](#invited-speaker-kirstin-peters) -- *[On the Expressiveness of MPST](#talk-on-the-expressiveness-of-mpst)* (Invited talk) |
+| 10:00-10:30 | *Modular Multiparty Sessions with Mixed Choice* |
+| 10:30-11:00 | **Coffee break** |
+| 11:00-11:30 | *Reactive Semantics for User Interface Description Languages* |
+| 11:30-12:00 | *Bisimilarity and Simulatability of Processes Parameterized by Join Interactions* |
+| 12:00-12:30 | *A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga* |
+| 12:30-13:00 | *Identity Crisis in Attested TLS for Confidential Computing (Oral communication)* |
+| 13:00-14:00 | **Lunch** |
+
+
 ## The ICE Selection Procedure
 
 Since [its first edition in 2008](#previous-editions), the distinguishing feature of ICE has been an innovative paper selection mechanism based on an interactive, friendly, and constructive discussion amongst authors and PC members in an online forum.
