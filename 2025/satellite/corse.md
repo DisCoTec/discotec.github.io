@@ -22,7 +22,31 @@ Jean-Bernard Sfenani, Head of Research at INRIA-Grenoble, has made significant c
 - Clément Aubert, Iain Phillips and Irek Ulidowski. *Bisimulations and Reversibility*
 - Michaël Lienhardt. *Applied Formal Methods at ONERA: An experience Report*
 - Michele Loreti, Michela Quadrini and Aniqa Rehman. *Scalable verification of Local and Global properties of Collective Systems*
-  
+
+## Programme
+
+9:00 - 10:00
+- Jean-Bernard Presentation 
+- Unique-solution of Equations in Higher-Order Process Calculi with Passivation
+
+10:30 - 12:30 Verification
+- Applied Formal Methods at ONERA: An experience Report
+- Scalable verification of Local and Global properties of Collective Systems
+- A Hybrid Modelling Approach for Hierarchical Controlof Structured CPSs
+- From Complementary to Zipper Semantics
+
+14:30 - 16:00 Reversibility 
+- Encoding Reversible Petri nets into CCSK
+- Bounded Reversibility in HO$\pi$
+- Bisimulations and Reversibility
+
+16:30 - 18:00 Applications
+- Reversible Computation vs. Runtime Adaptation in Industrial IoT System
+- Towards Implementing Distributed Custom Serverless Function Scheduling in FunLess
+- CESAn: a Core Erlang Semantics Analyser
+- Asynchronous Global Protocols, Precisely
+
+
 ## Organization
 
 - [Claudio Antares Mezzina]()  (University of Urbino, Italy)
