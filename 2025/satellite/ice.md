@@ -52,11 +52,9 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - *Bisimilarity and Simulatability of Processes Parameterized by Join Interactions* by Clemens Grabmayer and Maurizio Murgia
 - *A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga* by Gabriele Cecilia
 
-## Programme and Pre-proceedings {#programme} 
+## Programme {#programme} 
 
-The pre-proceedings are 
 *All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
-
 
 | Time CEST   |  |
 | ------------| ------- | 
