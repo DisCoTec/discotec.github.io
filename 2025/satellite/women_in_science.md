@@ -26,14 +26,32 @@ Women in Science session will take place on the **18th of June 2025**. Precise t
 
 ### [Hélène Coullon](http://helene-coullon.fr/) (IMT Atlantique, France) 
 
-![Hélène Coullon](/2025/keynote/HeleneCoullon.png)
+![Hélène Coullon](/2025/keynote/HeleneCoullon.png){: .keynote}
 
 **Bio:** Hélène Coullon is an associate professor at IMT Atlantique, France. She received her Ph.D. in 2014 from the University of Orléans (France). Her research topics are large-scale distributed and geo-distributed systems, in particular their deployment and dynamic reconfiguration.
 She combines expertise from different fields including Component-Based Software Engineering (CBSE), Infrastructure-as-Code (IaC), formal methods and languages, parallelism, and domain specific languages.
 
+
+### [Cinzia Di Giusto](https://webusers.i3s.unice.fr/~cdigiusto/web/) (Université de Nice Sophia-Antipolis, France) 
+
+**TBA** 
+
+
+### [Ghizlane El Boussaidi](https://www.etsmtl.ca/etudier-a-lets/corps-enseignant/gelboussaidi) (École de technologie supérieure (ÉTS Montréal), Canada) 
+
+**TBA** 
+
+### [Carla Ferreira](http://www-ctp.di.fct.unl.pt/~cf/) (NOVA University of Lisbon, Portugal) 
+
+**TBA** 
+
+### [Adrian Francalanza](https://www.um.edu.mt/profile/adrianfrancalanza) (University of Malta, Malta) 
+
+**TBA** 
+
 ### [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/) (TU Delft, The Netherlands)
 
-![Burcu Kulahcioglu Ozkan](/2025/keynote/BurcuOzkan.png)
+![Burcu Kulahcioglu Ozkan](/2025/keynote/BurcuOzkan.png){: .keynote}
 
 **Bio:** Burcu Kulahcioglu Ozkan is an assistant professor and Delft Technology Fellow in the Software Engineering Research Group at TU Delft. She received her PhD from Koç University in Istanbul, Turkey, followed by postdoctoral research at the Max Planck Institute for Software Systems (MPI-SWS) in Kaiserslautern, Germany. Her research focuses on formal methods, model checking, software testing, and debugging of concurrent programs and distributed systems. She is a recipient of the academic research awards and grants from Amazon Research and Stellar Development Foundation.
 
