@@ -31,11 +31,9 @@ Women in Science session will take place on the **18th of June 2025**. Precise t
 **Bio:** Hélène Coullon is an associate professor at IMT Atlantique, France. She received her Ph.D. in 2014 from the University of Orléans (France). Her research topics are large-scale distributed and geo-distributed systems, in particular their deployment and dynamic reconfiguration.
 She combines expertise from different fields including Component-Based Software Engineering (CBSE), Infrastructure-as-Code (IaC), formal methods and languages, parallelism, and domain specific languages.
 
-
 ### [Cinzia Di Giusto](https://webusers.i3s.unice.fr/~cdigiusto/web/) (Université de Nice Sophia-Antipolis, France) 
 
 **TBA** 
-
 
 ### [Ghizlane El Boussaidi](https://www.etsmtl.ca/etudier-a-lets/corps-enseignant/gelboussaidi) (École de technologie supérieure (ÉTS Montréal), Canada) 
 
@@ -55,7 +53,6 @@ She combines expertise from different fields including Component-Based Software 
 
 **Bio:** Burcu Kulahcioglu Ozkan is an assistant professor and Delft Technology Fellow in the Software Engineering Research Group at TU Delft. She received her PhD from Koç University in Istanbul, Turkey, followed by postdoctoral research at the Max Planck Institute for Software Systems (MPI-SWS) in Kaiserslautern, Germany. Her research focuses on formal methods, model checking, software testing, and debugging of concurrent programs and distributed systems. She is a recipient of the academic research awards and grants from Amazon Research and Stellar Development Foundation.
 
-TBA
 
 ## Organizers 
 Dr. Imen Sayar (imen.sayar@inria.fr)  
