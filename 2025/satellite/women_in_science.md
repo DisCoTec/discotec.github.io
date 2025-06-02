@@ -35,11 +35,11 @@ She combines expertise from different fields including Component-Based Software 
 
 **TBA** 
 
-### [Ghizlane El Boussaidi](https://www.etsmtl.ca/etudier-a-lets/corps-enseignant/gelboussaidi) (École de technologie supérieure (ÉTS), Canada) 
+### [Ghizlane El Boussaidi](https://www.etsmtl.ca/etudier-a-lets/corps-enseignant/gelboussaidi) (École de technologie supérieure (ÉTS Montréal), Canada) 
 
 **TBA** 
 
-### [Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/) (NOVA University of Lisbon, Portugal) 
+### [Carla Ferreira](http://www-ctp.di.fct.unl.pt/~cf/) (NOVA University of Lisbon, Portugal) 
 
 **TBA** 
 
