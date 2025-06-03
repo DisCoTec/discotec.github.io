@@ -58,16 +58,17 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 | Time CEST   |  |
 | ------------| ------- | 
-| 8:50-9:00   | Opening |
-| 9:00-10:00  | [Kirstin Peters](#invited-speaker-kirstin-peters) -- *[On the Expressiveness of MPST](#talk-on-the-expressiveness-of-mpst)* (Invited talk) |
-| 10:00-10:30 | *Modular Multiparty Sessions with Mixed Choice* |
+| 9:00-9:15   | Opening |
+| 9:15-10:15  | [Kirstin Peters](#invited-speaker-kirstin-peters) -- *[On the Expressiveness of MPST](#talk-on-the-expressiveness-of-mpst)* (Invited talk) |
 | 10:30-11:00 | **Coffee break** |
-| 11:00-11:30 | *Reactive Semantics for User Interface Description Languages* |
-| 11:30-12:00 | *Bisimilarity and Simulatability of Processes Parameterized by Join Interactions* |
-| 12:00-12:30 | *A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga* |
-| 12:30-13:00 | *Identity Crisis in Attested TLS for Confidential Computing (Oral communication)* |
-| 13:00-14:00 | **Lunch** |
-
+| 11:00-11:45 | *Modular Multiparty Sessions with Mixed Choice* |
+| 11:45-12:30 | *Reactive Semantics for User Interface Description Languages* |
+| 12:30-14:00 | **Lunch** |
+| 14:00-14:45 | *Bisimilarity and Simulatability of Processes Parameterized by Join Interactions* |
+| 14:45-15:30 | *A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga* |
+| 15:30-16:00 | **Coffee break** |
+| 16:00-16:45 | *Identity Crisis in Attested TLS for Confidential Computing (Oral communication)* |
+| 16:45-17:15 | Panel meeting |
 
 ## The ICE Selection Procedure
 
