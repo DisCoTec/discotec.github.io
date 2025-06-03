@@ -35,10 +35,11 @@ Jean-Bernard Sfenani, Head of Research at INRIA-Grenoble, has made significant c
 - A Hybrid Modelling Approach for Hierarchical Controlof Structured CPSs
 - From Complementary to Zipper Semantics
 
-14:30 - 16:00 Reversibility 
+14:00 - 16:00 Reversibility 
 - Encoding Reversible Petri nets into CCSK
 - Bounded Reversibility in HO$\pi$
 - Bisimulations and Reversibility
+- Reversibility, Higher-Order Concurrency, and Sessions: Une Entente Cordiale	
 
 16:30 - 18:00 Applications
 - Reversible Computation vs. Runtime Adaptation in Industrial IoT System
