@@ -7,8 +7,6 @@ Welcome to DisCoTec 2025!
 DisCoTec 2025 will take place in [Lille, France](venue), June 16-20, 2025, hosted by the [University of Lille](https://international.univ-lille.fr/en/).
 
 > 📣📣📣 **Important** ![](mega-right.png) <br />
-> **[If you haven't registered yet, please do so as soon as possible](./registration)**  
->
 > **[Please book your hotel URGENTLY!](venue)** <br />
 > Registered participants can join the [WhatsApp group](https://chat.whatsapp.com/KQZV8zVjMgKIQYGMqXYk8m) to discuss accommodation
 >
