@@ -1,7 +1,7 @@
 ---
 title: Conferences
-menu_show: false
-order: 0
+menu_show: true
+order: 1
 ---
 
 # Main Conferences
