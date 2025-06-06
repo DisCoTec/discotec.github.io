@@ -33,9 +33,10 @@ Women in Science session will take place on the **18th of June 2025**. Precise t
 She combines expertise from different fields including Component-Based Software Engineering (CBSE), Infrastructure-as-Code (IaC), formal methods and languages, parallelism, and domain specific languages.
 
 ### [Cinzia Di Giusto](https://webusers.i3s.unice.fr/~cdigiusto/web/) (Université de Nice Sophia-Antipolis, France)
-{: .keynote}
 
-**TBA** 
+![Cinzia Di Giusto](/2025/keynote/CinziaDiGiusto.jpg){: .keynote}
+
+**Bio:** Cinzia Di Giusto is Associate Professor at Université Côte d’Azur. She received her PhD in 2010 from the University of Bologna. She is a researcher in theoretical computer science, with a focus on session types, formal methods, concurrency theory, and process calculi. Her work primarily explores concurrent models, ensuring safety and correctness in distributed systems. She has contributed to areas such as type theory and verification techniques for concurrent processes. 
 
 ### [Ghizlane El Boussaidi](https://www.etsmtl.ca/etudier-a-lets/corps-enseignant/gelboussaidi) (École de technologie supérieure (ÉTS Montréal), Canada)
 {: .keynote}
