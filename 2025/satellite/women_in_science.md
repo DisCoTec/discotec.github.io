@@ -69,6 +69,8 @@ She combines expertise from different fields including Component-Based Software 
 
 
 ## Organizers 
+{: .keynote}
+
 Dr. Imen Sayar (imen.sayar@inria.fr)  
 Dr. Manel Barkallah (manel.barkallah@unamur.be)
 
