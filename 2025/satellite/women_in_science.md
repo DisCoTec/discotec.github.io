@@ -37,7 +37,7 @@ She combines expertise from different fields including Component-Based Software 
 
 ### [Ghizlane El Boussaidi](https://www.etsmtl.ca/etudier-a-lets/corps-enseignant/gelboussaidi) (École de technologie supérieure (ÉTS Montréal), Canada) 
 
-![[Ghizlane El Boussaidi](/2025/keynote/GhizlaneElBoussaidi.jpg)
+![Ghizlane El Boussaidi](/2025/keynote/GhizlaneElBoussaidi.jpg)
 
 **Bio:** Ghizlane El Boussaidi received the PhD degree in software engineering from the Université de Montréal, Canada, in 2010. She is a full professor at the Software and IT engineering department of École de Technologie Supérieure (ETS) in Montréal, Canada. Her research interests include model-driven development, software re-engineering and modernization, requirements engineering, and the design and certification of safety critical systems. She participated in and led several research projects funded by Canadian agencies and industry partners specifically Avionics. She also has over 15 years of industrial experience during which she contributed to the development and the implementation of various software systems. She has published her work in international conferences and journals, including IEEE TSE, SoSyM, JSS, ACM computing surveys, ACM/IEEE MODELS, ACM/IEEE ICSE, ICSOC, IEEE/ACM MSR, IEEE ISSRE and IEEE/ACM ICPC. 
 
