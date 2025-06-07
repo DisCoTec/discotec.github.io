@@ -33,6 +33,7 @@ Women in Science session will take place on the **18th of June 2025**. Precise t
 She combines expertise from different fields including Component-Based Software Engineering (CBSE), Infrastructure-as-Code (IaC), formal methods and languages, parallelism, and domain specific languages.
 
 ### [Cinzia Di Giusto](https://webusers.i3s.unice.fr/~cdigiusto/web/) (Université de Nice Sophia-Antipolis, France)
+{: .keynote}
 
 ![Cinzia Di Giusto](/2025/keynote/CinziaDiGiusto.jpg){: .keynote}
 
