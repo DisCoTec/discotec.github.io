@@ -52,7 +52,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - [*Bisimilarity and Simulatability of Processes Parameterized by Join Interactions*](ice_preproceedings/Bisimilarity_and_Simulatability_of_Processes.pdf) by Clemens Grabmayer and Maurizio Murgia
 - *A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga* by Gabriele Cecilia
 
-*Links are to *informal* pre-proceedings.*
+*Links are to _informal_ pre-proceedings.*
 
 ## Programme {#programme} 
 
