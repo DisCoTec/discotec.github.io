@@ -89,12 +89,12 @@ TBA
 | **09:00-10:00**  | [**Omar Inverso**: <br/> Towards Automated Analysis of Emerging Behaviour: Preliminary Insights and Research Directions](./invited#omar-inverso-gssi-italy---coordination) | [**Omar Inverso**: <br/> Towards Automated Analysis of Emerging Behaviour: Preliminary Insights and Research Directions](./invited#omar-inverso-gssi-italy---coordination) |
 | *10:00-10:30* | *coffee break* | *coffee break* |
 | | **Session 5:<br/>DAIS** <br/> (Room: TBA) <br/> Chair: TBA | **Session 5:<br/>FORTE** <br/> (Room: TBA) <br/> Chair: TBA |
-| **10:30-11:00** | | LolaPrompts: Assisting the General Public in Performing Real-Driving Emission Tests |
-| **11:00-11:30** | | Towards Efficient Verification of Parallel Applications with Mc SimGrid |
+| **10:30-11:00** | Integrating High-Resolution Particulate Matter Data for Urban Air Quality Forecasting | LolaPrompts: Assisting the General Public in Performing Real-Driving Emission Tests |
+| **11:00-11:30** | Mitigating Cryptographic Bottlenecks of Low-latency BFT Protocols | Towards Efficient Verification of Parallel Applications with Mc SimGrid |
 | | **Joint Session:<br/>Artefact demos** <br/> (Room: TBA) | **Joint Session:<br/>Artefact demos** <br/> (Room: TBA) |
 | **11:30-12:30** | Demos | Demos |
 | *12:30-14:00* | *lunch break* | *lunch break* |
 | **14:00-14:30** | **Young researchers** <br> (Room: TBA) | **Young researchers** <br> (Room: TBA) |
-| **14:30-16:00** | **Session 6: DAIS** <br/> (Room: TBA) <br/> Chair: TBA | **Business meetings** <br/> (Room: TBA) |
+| **14:30-16:00** | AIoRT: AI-driven distributed system for heterogenous Internet of Robotic things in Sustainable Ecosystem <br/> BCProf: Battery Consumption Profiler for Android Applications | **Business meetings** <br/> (Room: TBA) |
 | *16:00-16:30* | *coffee break* | *coffee break* |
 | **16:30-18:00** | | **Business meetings** <br/> (Room: TBA) |
