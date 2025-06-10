@@ -46,11 +46,13 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 ## Accepted Papers
 
-- *Modular Multiparty Sessions with Mixed Choice* by Franco Barbanera, Mariangiola Dezani
+- [*Modular Multiparty Sessions with Mixed Choice*](ice_preproceedings/Modular_Multiparty_Sessions_with_Mixed_Choice.pdf) by Franco Barbanera, Mariangiola Dezani
 - *Identity Crisis in Attested TLS for Confidential Computing (Oral communication)* by Muhammad Usama Sardar
 - *Reactive Semantics for User Interface Description Languages* by Basile Pesin, Celia Picard, Cyril Allignol 
-- *Bisimilarity and Simulatability of Processes Parameterized by Join Interactions* by Clemens Grabmayer and Maurizio Murgia
+- [*Bisimilarity and Simulatability of Processes Parameterized by Join Interactions*](ice_preproceedings/Bisimilarity_and_Simulatability_of_Processes.pdf) by Clemens Grabmayer and Maurizio Murgia
 - *A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga* by Gabriele Cecilia
+
+*Links are to *informal* pre-proceedings.*
 
 ## Programme {#programme} 
 
@@ -61,13 +63,13 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 | 9:00-9:15   | Opening |
 | 9:15-10:15  | [Kirstin Peters](#invited-speaker-kirstin-peters) -- *[On the Expressiveness of MPST](#talk-on-the-expressiveness-of-mpst)* (Invited talk) |
 | 10:30-11:00 | **Coffee break** |
-| 11:00-11:45 | *Modular Multiparty Sessions with Mixed Choice* |
+| 11:00-11:45 | *Modular Multiparty Sessions with Mixed Choice* (presented by F.Barbanera) |
 | 11:45-12:30 | *Reactive Semantics for User Interface Description Languages* |
 | 12:30-14:00 | **Lunch** |
-| 14:00-14:45 | *Bisimilarity and Simulatability of Processes Parameterized by Join Interactions* |
-| 14:45-15:30 | *A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga* |
+| 14:00-14:45 | *Bisimilarity and Simulatability of Processes Parameterized by Join Interactions* (presented by M. Murgia) |
+| 14:45-15:30 | *A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga* (presented by G. Cecilia) |
 | 15:30-16:00 | **Coffee break** |
-| 16:00-16:45 | *Identity Crisis in Attested TLS for Confidential Computing (Oral communication)* |
+| 16:00-16:45 | *Identity Crisis in Attested TLS for Confidential Computing (Oral communication)* (presented by M. U. Sardar) |
 | 16:45-17:15 | Panel meeting |
 
 ## The ICE Selection Procedure
