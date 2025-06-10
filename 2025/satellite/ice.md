@@ -52,7 +52,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - [*Bisimilarity and Simulatability of Processes Parameterized by Join Interactions*](ice_preproceedings/Bisimilarity_and_Simulatability_of_Processes.pdf) by Clemens Grabmayer and Maurizio Murgia
 - *A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga* by Gabriele Cecilia
 
-*Links are to _informal_ pre-proceedings.*
+*Links are to **informal** pre-proceedings.*
 
 ## Programme {#programme} 
 
@@ -63,7 +63,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 | 9:00-9:15   | Opening |
 | 9:15-10:15  | [Kirstin Peters](#invited-speaker-kirstin-peters) -- *[On the Expressiveness of MPST](#talk-on-the-expressiveness-of-mpst)* (Invited talk) |
 | 10:30-11:00 | **Coffee break** |
-| 11:00-11:45 | *Modular Multiparty Sessions with Mixed Choice* (presented by F.Barbanera) |
+| 11:00-11:45 | *Modular Multiparty Sessions with Mixed Choice* (presented by F. Barbanera) |
 | 11:45-12:30 | *Reactive Semantics for User Interface Description Languages* |
 | 12:30-14:00 | **Lunch** |
 | 14:00-14:45 | *Bisimilarity and Simulatability of Processes Parameterized by Join Interactions* (presented by M. Murgia) |
