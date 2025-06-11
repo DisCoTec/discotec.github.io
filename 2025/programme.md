@@ -79,13 +79,13 @@ order: 0
 | **09:00-10:00**  | [**Burcu Kulahcioglu Ozkan**: <br/> From Formal Methods to Testing of Distributed Systems](./invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte) | [**Burcu Kulahcioglu Ozkan**: <br/> From Formal Methods to Testing of Distributed Systems](./invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte) |
 | *10:00-10:30* | *coffee break* | *coffee break* |
 | | **COORDINATION** <br/> (Room: Centrale) | **FORTE** <br/> (Room: Amphi 130) |
-| | **Session 1:<br/>Choreographic Approaches** <br/> Chair: TBA | **Session 1:<br/>Verification** <br/> Chair: Marco Bernardo |
+| | **Session 1:<br/>Choreographic Approaches** <br/> Chair: Maurice H. ter Beek | **Session 1:<br/>Verification** <br/> Chair: Marco Bernardo |
 | **10:30-11:00** | Decidability Problems for Micro-Stipula | Temporal and Spatial Fault Detection for Connected Cyber-Physical Systems |
 | **11:00-11:30** | DACEO: Declarative Asynchronous Choreographies with Data-dependent Event Ordering | Sequential Composition of BDD Transition Systems for Model-Based Testing |
 | **11:30-12:00** | Behavioural, Functional, and Non-Functional Contracts for Dynamic Selection of Services | Scaling Information Flow Control by-Construction to Component-based Software Architectures |
 | **12:00-12:30** | Dialects for the CoAP IoT Messaging Protocol | Probabilistic Safety Verification of Distributed Systems: A Statistical Approach for Monitoring |
 | *12:30-13:30* | *lunch break* | *lunch break* |
-| | **Session 2:<br/>Orchestrator Approaches** <br/> Chair: TBA | *lunch break* |
+| | **Session 2:<br/>Orchestrator Approaches** <br/> Chair: Carolyn Talcott | *lunch break* |
 | **13:30-14:00** | RebeCaos | **Session 2: Concurrency** <br/> Chair: Ivan Lanese |
 | **14:00-14:30** | Declarative Deployment Planning for Green Pulverised Collective Computational Systems | Noninterference Analysis of Stochastically Timed Reversible Systems |
 | **14:30-15:00** | Formal Foundations for Reowolf: Multi-Party Sessions via Synchronous Protocol Programming | Attribute-based Communication over Pub/Sub: Transactional Coordination for Smart Systems |
