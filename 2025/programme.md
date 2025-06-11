@@ -32,11 +32,11 @@ TBA
 
 | Time | COORDINATION | FORTE |
 | :---: | :---: | :---: |
-| *08:30-09:00*  | *Opening Ceremony DisCoTec 2025* | *Opening Ceremony DisCoTec 2025* |
-|  | **FORTE Invited Talk** <br/> (Room: TBA) | **FORTE Invited Talk** <br/> (Room: TBA) |
+| *08:30-09:00*  | *Opening Ceremony DisCoTec 2025* <br/> (Room: Amphi 130) | *Opening Ceremony DisCoTec 2025* <br/> (Room: Amphi 130) |
+|  | **FORTE Invited Talk** <br/> (Room: Amphi 130) | **FORTE Invited Talk** <br/> (Room: Amphi 130) |
 | **09:00-10:00**  | [**Burcu Kulahcioglu Ozkan**: <br/> From Formal Methods to Testing of Distributed Systems](./invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte) | [**Burcu Kulahcioglu Ozkan**: <br/> From Formal Methods to Testing of Distributed Systems](./invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte) |
 | *10:00-10:30* | *coffee break* | *coffee break* |
-| | **COORDINATION** <br/> (Room: TBA) | **FORTE** <br/> (Room: TBA) |
+| | **COORDINATION** <br/> (Room: Centrale) | **FORTE** <br/> (Room: Amphi 130) |
 | | **Session 1:<br/>Choreographic Approaches** <br/> Chair: TBA | **Session 1:<br/>Verification** <br/> Chair: Marco Bernardo |
 | **10:30-11:00** | Decidability Problems for Micro-Stipula | Temporal and Spatial Fault Detection for Connected Cyber-Physical Systems |
 | **11:00-11:30** | DACEO: Declarative Asynchronous Choreographies with Data-dependent Event Ordering | Sequential Composition of BDD Transition Systems for Model-Based Testing |
@@ -53,7 +53,7 @@ TBA
 | **16:00-16:30** | A Demonstrator Toolchain for Self-organizing Robot Teams | Choreographies for Program Understanding |
 | **16:30-17:00** | Formalizing Errors in CCS with 3-Valued Logic | SNexpression: a new component for SN matrix-based structural analysis |
 | **17:00-17:30** | A Constraint Opinion Model | Assessing Code Understanding in LLMs |
-| **17:30-18:30** | **Committee meetings** <br/> (Room: TBA) | **Committee meetings** <br/> (Room: TBA) |
+| **17:30-18:30** | **Committee meetings** <br/> (Room: 038) | **Committee meetings** <br/> (Room: 038) |
 
 ### Wednesday, June 18th: DisCoTec Main Conferences
 
@@ -66,18 +66,18 @@ TBA
 {: .wide-table}
 | Time | DisCoTec |
 | :---: | :---: |
-|  | **DAIS Invited Talk** <br/> (Room: TBA) |
+|  | **DAIS Invited Talk** <br/> (Room: Amphi 130) |
 | **09:00-10:00**  | [**Alysson Bessani**: <br/> TBA](./invited#alysson-bessani-universidade-de-lisboa-portugal---dais) |
 | *10:00-10:30* | *coffee break* |
-|  | **Session 4: DisCoTec Best Papers** <br/> (Room: TBA)  <br/> Chair: TBA |
+|  | **Session 4: DisCoTec Best Papers** <br/> (Room: Amphi 130)  <br/> Chair: TBA |
 | **10:30-11:00** | Verified Parameterized Choreographies |
 | **11:00-11:30** | Revisited Convergence of a Self-Stabilizing BFS Spanning Tree Algorithm |
 | **11:30-12:00** | Justin: Hybrid CPU/Memory Elastic Scaling for Distributed Stream Processing |
 | *12:00-13:30* | *lunch break* |
-|  | **DisCoTec-wide Keynote** <br/> (Room: TBA) |
+|  | **DisCoTec-wide Keynote** <br/> (Room: Amphi 130) |
 | **13:30-14:30**  | [**Hélène Coullon**: <br/> Efficient Reconfigurations with Programmable Life Cycles: Contributions to Safety, Declarativity, and Decentralization](./invited##hélène-coullon-imt-atlantique-france---discotec-wide) |
 | *14:30-15:00* | *coffee break* |
-| **15:00-16:30** | **Women @ Science** <br> (Room: TBA) |
+| **15:00-16:30** | **Women @ Science** <br> (Room: Amphi 130) |
 | *17:30-19:00* | *Social activity* |
 | *19:30-21:00* | *Conference banquet* |
 
@@ -85,16 +85,17 @@ TBA
 
 | Time | DAIS | FORTE |
 | :---: | :---: | :---: |
-|  | **COORDINATION Invited Talk** <br/> (Room: TBA) | **COORDINATION Invited Talk** <br/> (Room: TBA) |
+|  | **COORDINATION Invited Talk** <br/> (Room: Amphi 130) | **COORDINATION Invited Talk** <br/> (Room: Amphi 130) |
 | **09:00-10:00**  | [**Omar Inverso**: <br/> Towards Automated Analysis of Emerging Behaviour: Preliminary Insights and Research Directions](./invited#omar-inverso-gssi-italy---coordination) | [**Omar Inverso**: <br/> Towards Automated Analysis of Emerging Behaviour: Preliminary Insights and Research Directions](./invited#omar-inverso-gssi-italy---coordination) |
 | *10:00-10:30* | *coffee break* | *coffee break* |
-| | **Session 5:<br/>DAIS** <br/> (Room: TBA) <br/> Chair: TBA | **Session 5:<br/>FORTE** <br/> (Room: TBA) <br/> Chair: TBA |
+| | **Session 5:<br/>DAIS** <br/> (Room: 038C) <br/> Chair: TBA | **Session 5:<br/>FORTE** <br/> (Room: Amphi 130) <br/> Chair: TBA |
 | **10:30-11:00** | Integrating High-Resolution Particulate Matter Data for Urban Air Quality Forecasting | LolaPrompts: Assisting the General Public in Performing Real-Driving Emission Tests |
 | **11:00-11:30** | Mitigating Cryptographic Bottlenecks of Low-latency BFT Protocols | Towards Efficient Verification of Parallel Applications with Mc SimGrid |
-| | **Joint Session:<br/>Artefact demos** <br/> (Room: TBA) | **Joint Session:<br/>Artefact demos** <br/> (Room: TBA) |
+| | **Joint Session:<br/>Artefact demos** <br/> (Room: 038AB) | **Joint Session:<br/>Artefact demos** <br/> (Room: 038AB) |
 | **11:30-12:30** | Demos | Demos |
 | *12:30-14:00* | *lunch break* | *lunch break* |
-| **14:00-14:30** | **Young researchers** <br> (Room: TBA) | **Young researchers** <br> (Room: TBA) |
+| **14:00-14:30** | **Young researchers** <br> (Room: Amphi 130) | **Young researchers** <br> (Room: Amphi 130) |
+| | **Session 6:<br/>DAIS** <br/> (Room: 038C) <br/> Chair: TBA | |
 | **14:30-16:00** | AIoRT: AI-driven distributed system for heterogenous Internet of Robotic things in Sustainable Ecosystem <br/><br/> A critical review of mobile device-to-device communication <br/><br/> BCProf: Battery Consumption Profiler for Android Applications | **Business meetings** <br/> (Room: TBA) |
 | *16:00-16:30* | *coffee break* | *coffee break* |
 | **16:30-18:00** | | **Business meetings** <br/> (Room: TBA) |
