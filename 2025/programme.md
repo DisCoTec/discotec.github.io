@@ -95,6 +95,6 @@ TBA
 | **11:30-12:30** | Demos | Demos |
 | *12:30-14:00* | *lunch break* | *lunch break* |
 | **14:00-14:30** | **Young researchers** <br> (Room: TBA) | **Young researchers** <br> (Room: TBA) |
-| **14:30-16:00** | AIoRT: AI-driven distributed system for heterogenous Internet of Robotic things in Sustainable Ecosystem <br/> BCProf: Battery Consumption Profiler for Android Applications | **Business meetings** <br/> (Room: TBA) |
+| **14:30-16:00** | AIoRT: AI-driven distributed system for heterogenous Internet of Robotic things in Sustainable Ecosystem <br/><br/> A critical review of mobile device-to-device communication <br/><br/> BCProf: Battery Consumption Profiler for Android Applications | **Business meetings** <br/> (Room: TBA) |
 | *16:00-16:30* | *coffee break* | *coffee break* |
 | **16:30-18:00** | | **Business meetings** <br/> (Room: TBA) |
