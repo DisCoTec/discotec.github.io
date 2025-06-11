@@ -14,17 +14,59 @@ order: 0
 
 ## In a nutshell
 
-TBA
+### Monday, June 16th
 
-<!--
+* [Components Operationally: Reversibility and System Engineering](./satellite/corse) (CORSE) workshop
+    * **Where:** Amphi 130 (upstairs)
+    * **When:** 09:00-18:00
+* [Driving distributed system experiments on the edge-to-cloud continuum with EnOSlib](./invited#baptiste-jonglez-inria-france---dais) DAIS tutorial
+    * **Where:** Room 038 (downstairs)
+    * **When:** 11:30-15:30
+* [Mechanized Type Soundness for Substructural Types using Iris](./invited#robbert-krebbers-radboud-university-nijmegen-the-netherlands---coordination) COORDINATION tutorial
+    * **Where:** Room 038 (downstairs)
+    * **When:** 09:00-11:30
+* [A choreographic view of Smart Contracts](./invited#emilio-tuosto-gssi-italy---forte) FORTE tutorial
+    * **Where:** Room 038 (downstairs)
+    * **When:** 16:00-18:00
 
 ### Tuesday, June 17th: Main Conferences
 
+* Opening (**08:30**) and invited talk: [Burcu Kulahcioglu Ozkan](./invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte) (**09:00**)
+   * Amphi 130 (upstairs)
+* Contributed papers in two tracks: 
+   * COORDINATION: Room Centrale (downstairs)
+   * FORTE: Amphi 130
+
 ### Wednesday, June 18th: Main Conferences
+
+* Invited talk: [Alysson Bessani](./invited#alysson-bessani-universidade-de-lisboa-portugal---dais) (**09:00**)
+* Joint best paper session (**10:30**)
+* Invited talk: [Hélène Coullon](./invited##hélène-coullon-imt-atlantique-france---discotec-wide) (**13:30**)
+* Women @ Science (**15:00**)
+   * Amphi 130 (upstairs)
+* Social activities:
+    * Excursion: surprise?
+    * Dinner: surprise?
 
 ### Thursday, June 19th: Main Conferences
 
--->
+* Invited talk: [Omar Inverso](./invited#omar-inverso-gssi-italy---coordination) (**09:00**)
+* Contributed papers in two tracks: 
+   * DAIS: Room 038C (downstairs)
+   * FORTE: Amphi 130
+* Young researchers (**14:00**)
+
+### Friday, June 20th
+
+* [18th Interaction and Concurrency Experience](./satellite/ice) (ICE) workshop
+    * **Where:** Amphi 130 (upstairs)
+    * **When:** 09:00-17:30
+* [Workshop on Adaptable Cloud Architectures](https://waca-ws.github.io/2025/)
+    * **Where:** Room 038AB (downstairs)
+    * **When:** 09:00-17:30
+* [The ∆QSD Paradigm: Designing Systems with Predictable Performance at High Load](./satellite/DQSD) (∆QSD) tutorial
+    * **Where:** Room 038C (downstairs)
+    * **When:** 09:00-17:30
 
 ## Details (Tuesday - Thursday)
 
