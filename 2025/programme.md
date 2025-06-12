@@ -10,7 +10,7 @@ order: 0
 
 # Programme overview
 
-![Programme overview](program-overview.png)
+![Programme overview](program-overview-w-rooms.png)
 
 ## In a nutshell
 
