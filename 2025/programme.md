@@ -91,7 +91,7 @@ order: 0
 | **14:30-15:00** | Formal Foundations for Reowolf: Multi-Party Sessions via Synchronous Protocol Programming | Attribute-based Communication over Pub/Sub: Transactional Coordination for Smart Systems |
 | **15:00-15:30** | MIMOSA: A Language for Asynchronous Implementation of Embedded Systems Software | An Approach to Formalize Information-theoretic Security of Multiparty Computation Protocols |
 | *15:30-16:00* | *coffee break* | *coffee break* |
-| | **Session 3:<br/>Tools and expressiveness** <br/> Chair: TBA | **Session 3:<br/>Applications** <br/> Chair: Claudio A. Mezzina |
+| | **Session 3:<br/>Tools and expressiveness** <br/> Chair: Mieke Massink | **Session 3:<br/>Applications** <br/> Chair: Claudio A. Mezzina |
 | **16:00-16:30** | A Demonstrator Toolchain for Self-organizing Robot Teams | Choreographies for Program Understanding |
 | **16:30-17:00** | Formalizing Errors in CCS with 3-Valued Logic | SNexpression: a new component for SN matrix-based structural analysis |
 | **17:00-17:30** | A Constraint Opinion Model | Assessing Code Understanding in LLMs |
