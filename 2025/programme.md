@@ -111,7 +111,7 @@ order: 0
 |  | **DAIS Invited Talk** <br/> (Room: Amphi 130) |
 | **09:00-10:00**  | [**Alysson Bessani**: <br/> TBA](./invited#alysson-bessani-universidade-de-lisboa-portugal---dais) |
 | *10:00-10:30* | *coffee break* |
-|  | **Session 4: DisCoTec Best Papers** <br/> (Room: Amphi 130)  <br/> Chair: TBA |
+|  | **Session 4: DisCoTec Best Papers** <br/> (Room: Amphi 130)  <br/> Chair: Simon Bliudze |
 | **10:30-11:00** | Verified Parameterized Choreographies |
 | **11:00-11:30** | Revisited Convergence of a Self-Stabilizing BFS Spanning Tree Algorithm |
 | **11:30-12:00** | Justin: Hybrid CPU/Memory Elastic Scaling for Distributed Stream Processing |
@@ -138,6 +138,6 @@ order: 0
 | *12:30-14:00* | *lunch break* | *lunch break* |
 | **14:00-14:30** | **Young researchers** <br> (Room: Amphi 130) | **Young researchers** <br> (Room: Amphi 130) |
 | | **Session 6:<br/>DAIS** <br/> (Room: 038C) <br/> Chair: TBA | |
-| **14:30-16:00** | AIoRT: AI-driven distributed system for heterogenous Internet of Robotic things in Sustainable Ecosystem <br/><br/> A critical review of mobile device-to-device communication <br/><br/> BCProf: Battery Consumption Profiler for Android Applications | **Business meetings** <br/> (Room: TBA) |
+| **14:30-16:00** | AIoRT: AI-driven distributed system for heterogenous Internet of Robotic things in Sustainable Ecosystem <br/><br/> A critical review of mobile device-to-device communication <br/><br/> BCProf: Battery Consumption Profiler for Android Applications | **Business meetings** <br/> (Room: 038AB) |
 | *16:00-16:30* | *coffee break* | *coffee break* |
-| **16:30-18:00** | | **Business meetings** <br/> (Room: TBA) |
+| **16:30-18:00** | | **Business meetings** <br/> (Room: 038AB) |
