@@ -30,15 +30,14 @@ He is also the principal researcher behind the [BFT-SMaRt consensus library](htt
 
 ![Hélène Coullon](/2025/keynote/HeleneCoullon.png){: .keynote}
 
-**Title:** _Efficient Reconfigurations with Programmable Life Cycles: Contributions to Safety, Declarativity, and Decentralization_
+**Title:** _Challenges in Infrastructure-as-Code: efficiency, decentralization, and formalization_
 
-**Abstract:** Large distributed software systems are now ubiquitous. A distributed system is typically deployed on heterogeneous distributed infrastructures with deployment dependencies between software entities that require coordination mechanisms. Once deployed, distributed systems may need to be reconfigured. Reconfiguring a system consists of changing the configuration while the system is running.
+**Abstract:** In this talk I will try to draw your attention to infrastructure-as-code (IaC) tools and languages. These languages enable managing distributed infrastructures and applications through code, thus achieving interesting properties such as versionability, testability, and sharability. Their use is particularly crucial for automatically and correctly managing resources in the Cloud, especially for large-scale infrastructures (fog or edge computing). Infrastructure-as-Code languages include aspects of programming languages, life-cycle coordination, dynamic reconfiguration and autonomic computing. I am going to focus in particular on three scientific challenges in IaC: efficiency, decentralization and formalization.
 
-Reconfigurations are critical procedures typically triggered when: the system enters an invalid or unstable state because of internal or external events or needs to be optimized (or updated) for energy, security, or quality-of-service reasons. As a consequence, reconfiguration should be done as fast as possible.
+This talk will be punctuated by my own contributions to dynamic reconfiguration:
+a full study to leverage programmable life-cycles of software entities and their automatic coordination during reconfigurations. This programmability offers more opportunities for parallelism and concurrency. As a consequence, programmable life-cycles significantly reduce the execution time of reconfigurations. However, as more complexity is introduced, it becomes harder to guarantee other positive properties offered by the literature: safety, declarativity, and decentralization.
 
-Reconfiguration procedures manipulate a cornerstone element: the life cycles of software entities. In this presentation, I present a full study on introducing programmable life cycles of software entities and their automatic coordination during reconfigurations. This programmability offers more opportunities for parallelism and concurrency. In consequence, programmable life cycles significantly reduce the execution time of reconfigurations. However, as more complexity is introduced, it is more difficult to guarantee other good properties offered in the literature: the safety of reconfigurations; the declarativity of reconfigurations; and the decentralization of the reconfiguration process.
-
-In this presentation, I will explore the feasibility of all these properties combined with programmable life cycles.
+I will open this talk on the problem of resilience and robustness of infrastructure and associated potential new challenges in IaC.
 
 **Bio:** Hélène Coullon is an associate professor at IMT Atlantique, France. She received her Ph.D. in 2014 from the University of Orléans (France). Her research topics are large-scale distributed and geo-distributed systems, in particular their deployment and dynamic reconfiguration.
 She combines expertise from different fields including Component-Based Software Engineering (CBSE), Infrastructure-as-Code (IaC), formal methods and languages, parallelism, and domain specific languages.
