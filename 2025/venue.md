@@ -6,11 +6,6 @@ order: 7
 
 # Venue: Lille, France
 
-> 📣📣📣 **Important** ![](mega-right.png) <br />
-> **Please book your hotel URGENTLY!** <br />
-> Registered participants can join the [WhatsApp group](https://chat.whatsapp.com/KQZV8zVjMgKIQYGMqXYk8m) to discuss accommodation
-{:.important}
-
 ## Quick Links
 * [Location](#location)
 * [How to arrive](#how-to-arrive)
