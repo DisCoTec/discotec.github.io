@@ -31,8 +31,10 @@ order: 0
 
 ### Tuesday, June 17th: Main Conferences
 
-* Opening (**08:30**) and invited talk: [Burcu Kulahcioglu Ozkan](./invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte) (**09:00**)
+* Openning: Clarisse Dhaenens (Director of CRIStAL lab) (**08:30**) 
    * Amphi 130 (upstairs)
+* Invited talk: [Burcu Kulahcioglu Ozkan](./invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte) (**09:00**)
+   * Amphi 130
 * Contributed papers in two tracks: 
    * COORDINATION: Room Centrale (downstairs)
    * FORTE: Amphi 130
