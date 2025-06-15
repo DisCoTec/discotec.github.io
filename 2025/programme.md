@@ -20,13 +20,13 @@ order: 0
     * **Where:** Amphi 130 (upstairs)
     * **When:** 09:00-18:00
 * [Driving distributed system experiments on the edge-to-cloud continuum with EnOSlib](./invited#baptiste-jonglez-inria-france---dais) DAIS tutorial
-    * **Where:** Room 038 (downstairs)
+    * **Where:** Room 038 B (downstairs)
     * **When:** 11:30-15:30
 * [Mechanized Type Soundness for Substructural Types using Iris](./invited#robbert-krebbers-radboud-university-nijmegen-the-netherlands---coordination) COORDINATION tutorial
-    * **Where:** Room 038 (downstairs)
+    * **Where:** Room 038 B (downstairs)
     * **When:** 09:00-11:30
 * [A choreographic view of Smart Contracts](./invited#emilio-tuosto-gssi-italy---forte) FORTE tutorial
-    * **Where:** Room 038 (downstairs)
+    * **Where:** Room 038 B (downstairs)
     * **When:** 16:00-18:00
 
 ### Tuesday, June 17th: Main Conferences
@@ -36,7 +36,7 @@ order: 0
 * Invited talk: [Burcu Kulahcioglu Ozkan](./invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte) (**09:00**)
    * Amphi 130
 * Contributed papers in two tracks: 
-   * COORDINATION: Room Centrale (downstairs)
+   * COORDINATION: La Centrale (downstairs)
    * FORTE: Amphi 130
 
 ### Wednesday, June 18th: Main Conferences
@@ -47,14 +47,15 @@ order: 0
 * Women @ Science (**15:00**)
    * Amphi 130 (upstairs)
 * Social activities:
-    * Excursion: surprise?
-    * Dinner: surprise?
+    * Guided tour of Lille with beer tasting (non-alcoholic options available) &mdash; leaving directly from the conference venue.
+    * Conference dinner at l'Hermitage Gantois
 
 ### Thursday, June 19th: Main Conferences
 
 * Invited talk: [Omar Inverso](./invited#omar-inverso-gssi-italy---coordination) (**09:00**)
+   * Amphi 130 (upstairs)
 * Contributed papers in two tracks: 
-   * DAIS: Room 038C (downstairs)
+   * DAIS: Room 038 B (downstairs)
    * FORTE: Amphi 130
 * Young researchers (**14:00**)
 
@@ -64,10 +65,10 @@ order: 0
     * **Where:** Amphi 130 (upstairs)
     * **When:** 09:00-17:30
 * [Workshop on Adaptable Cloud Architectures](https://waca-ws.github.io/2025/)
-    * **Where:** Room 038AB (downstairs)
+    * **Where:** Room 038 A (downstairs)
     * **When:** 09:00-17:30
 * [The ∆QSD Paradigm: Designing Systems with Predictable Performance at High Load](./satellite/DQSD) (∆QSD) tutorial
-    * **Where:** Room 038C (downstairs)
+    * **Where:** Room 038 C (downstairs)
     * **When:** 09:00-17:30
 
 ## Details (Tuesday - Thursday)
