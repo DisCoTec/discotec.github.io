@@ -90,9 +90,9 @@ order: 0
 | *12:30-13:30* | *lunch break* | *lunch break* |
 | | **Session 2:<br/>Orchestrator Approaches** <br/> Chair: Carolyn Talcott | *lunch break* |
 | **13:30-14:00** | [RebeCaos](./abstracts#11) | **Session 2: Concurrency** <br/> Chair: Ivan Lanese |
-| **14:00-14:30** | Declarative Deployment Planning for Green Pulverised Collective Computational Systems | Noninterference Analysis of Stochastically Timed Reversible Systems |
-| **14:30-15:00** | Formal Foundations for Reowolf: Multi-Party Sessions via Synchronous Protocol Programming | Attribute-based Communication over Pub/Sub: Transactional Coordination for Smart Systems |
-| **15:00-15:30** | MIMOSA: A Language for Asynchronous Implementation of Embedded Systems Software | An Approach to Formalize Information-theoretic Security of Multiparty Computation Protocols |
+| **14:00-14:30** | [Declarative Deployment Planning for Green Pulverised Collective Computational Systems](./abstracts#6) | Noninterference Analysis of Stochastically Timed Reversible Systems |
+| **14:30-15:00** | [Formal Foundations for Reowolf: Multi-Party Sessions via Synchronous Protocol Programming](./abstracts#1) | Attribute-based Communication over Pub/Sub: Transactional Coordination for Smart Systems |
+| **15:00-15:30** | [MIMOSA: A Language for Asynchronous Implementation of Embedded Systems Software](./abstracts#5) | An Approach to Formalize Information-theoretic Security of Multiparty Computation Protocols |
 | *15:30-16:00* | *coffee break* | *coffee break* |
 | | **Session 3:<br/>Tools and expressiveness** <br/> Chair: Mieke Massink | **Session 3:<br/>Applications** <br/> Chair: Claudio A. Mezzina |
 | **16:00-16:30** | A Demonstrator Toolchain for Self-organizing Robot Teams | Choreographies for Program Understanding |

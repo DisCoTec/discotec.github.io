@@ -5,6 +5,7 @@ title: Coordination Abstracts
 ## [COORDINATION](coordination)
 
 ## 1
+
 * Christopher Esterhuyse, Benjamin Lion, Hans-Dieter Hiep and Farhad Arbab. *Formal Foundations for Reowolf: Multi-Party Sessions via Synchronous Protocol Programming*.
 
 The Reowolf project developed connectors as a replacement
@@ -21,6 +22,7 @@ correctness of the connector runtime reference implementation, we specify
 the API and correctness criteria of PDL runtime systems.
 
 ## 2
+
 * Alessandro Aldini and Claudio Antares Mezzina. *Formalizing Errors in CCS with 3-Valued Logic*.
 
 Concurrent and distributed systems are often prone to failures. Errors in modeling an agent’s behavior can propagate into large
@@ -31,6 +33,7 @@ error value. In this setting, we formally study how the emergence of local error
 real-world case study modeling a distributed microservices architecture.
 
 ## 3
+
 * Robert Rubbens, Petra van den Bos and Marieke Huisman. *Verified Parameterized Choreographies*.
 
 Choreographies are useful for modelling systems with multiple simultaneously executing and communicating participants, e.g. distributed systems. VeyMont can verify correctness of choreographies and
@@ -43,6 +46,7 @@ until run time. We illustrate the encoding with a distributed summation
 choreography, and prove it correct with VerCors.
 
 ## 4
+
 * Fabio Gadducci, Carlos Olarte and Frank Valencia. *A Constraint Opinion Model*.
 
 This paper introduces a generalized opinion model that extends the
@@ -55,6 +59,7 @@ revision. Finally, the flexibility offered by soft constraints allows us to intr
 a novel polarization measure that takes advantage of this generalized framework.
 
 ## 5
+
 * Nikolaus Huber, Susanne Graf, Philipp Rümmer and Wang Yi. *MIMOSA: A Language for Asynchronous Implementation of Embedded Systems Software*
 
 This paper introduces the Mimosa language, a programming
@@ -67,6 +72,7 @@ process and coordination layer through a textual and graphical rewriting calculu
 provided.
 
 ## 6
+
 * Antonio Brogi, Roberto Casadei, Nicolas Farabegoli, Stefano Forti and Mirko Viroli. *Declarative Deployment Planning for Green Pulverised Collective Computational Systems*.
 
 To promote non-functional goals (e.g., energy efficiency and
@@ -109,6 +115,7 @@ On the other hand, we identify a decidable subfragment: within the instantaneous
 states of functions and events are disjoint.
 
 ## 8
+
 * Carlos Gustavo Lopez Pombo, Agustín Eloy Martinez-Suñé, Hernan Melgratti, Diego Senarruzza Anabia and Emilio Tuosto. *Behavioural, Functional, and Non-Functional Contracts for Dynamic Selection of Services*.
 
 We propose a mechanism for selecting distributed services
@@ -123,6 +130,7 @@ non-functional contracts. We use a case study to assess our approach
 and we discuss tool support for our framework.
 
 ## 9
+
 * Carolyn Talcott. *Dialects for the CoAP IoT Messaging Protocol*.
 
 Messaging protocols for resource limited systems such as distributed IoT systems are often vulnerable to attacks due to security
@@ -134,6 +142,7 @@ bisimulation, thus ensuring that dialecting preserves important properties of a 
 scenarios.
 
 ## 10
+
 * Tilman Zuckmantel, Thomas Hildebrandt, Yongluan Zhou and Boris Düdder. *DACEO: Declarative Asynchronous Choreographies with Data-dependent Event Ordering*.
 
 We provide a formal modeling language, DACEO, for declarative asynchronous choreographies with general data-dependent message
@@ -153,6 +162,7 @@ microservices that relies on asynchronous, event-based communication.
 
 
 ## 11
+
 * José Proença and Maurice H. ter Beek. *RebeCaos*.
 
 We describe RebeCaos, a user-friendly web-based front-end
@@ -166,6 +176,7 @@ ticket service use case from the timed Rebeca literature.
 
 
 ## 12
+
 * Gianluca Aguzzi, Lorenzo Bacchini, Martina Baiardi, Roberto Casadei, Angela Cortecchia, Davide Domini, Nicolas Farabegoli, Danilo Pianini and Mirko Viroli. *A Demonstrator Toolchain for Self-organizing Robot Teams*.
 
 Aggregate computing is a paradigm with over a decade of
