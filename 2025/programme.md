@@ -114,7 +114,7 @@ order: 0
 |  | **DAIS Invited Talk** <br/> (Room: Amphi 130) |
 | **09:00-10:00**  | [**Alysson Bessani**: <br/> The Power of Simplicity on Dependable Distributed Systems](./invited#alysson-bessani-universidade-de-lisboa-portugal---dais) |
 | *10:00-10:30* | *coffee break* |
-|  | **Session 4: DisCoTec Best Papers** <br/> (Room: Amphi 130)  <br/> Chair: Simon Bliudze |
+|  | **Session 4: DisCoTec Best Papers** <br/> (Room: Amphi 130)  <br/> Chair: TBA |
 | **10:30-11:00** | [Verified Parameterized Choreographies](./abstracts#3) |
 | **11:00-11:30** | Revisited Convergence of a Self-Stabilizing BFS Spanning Tree Algorithm |
 | **11:30-12:00** | Justin: Hybrid CPU/Memory Elastic Scaling for Distributed Stream Processing |
