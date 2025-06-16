@@ -19,7 +19,11 @@ The invited speakers are
 
 ![Alysson Bessani](/2025/keynote/AlyssonBessani.png){: .keynote}
 
-Alysson Bessani is a professor of the University of Lisbon Faculty of Sciences, Portugal, and the director of the LASIGE research unit.
+**Title:** _The Power of Simplicity on Dependable Distributed Systems_
+
+**Abstract:** Contrary to a (somewhat) common belief, the most important property of a practical distributed algorithm is not its efficiency or performance but its simplicity. This fact is even more evident when considering dependable distributed systems. In this talk, I will present some cases in which simple protocols and elegant abstractions - which were not the most efficient for the problem at hand - enabled the deployment of dependable solutions that changed the practice of distributed computing. I will also discuss how the quest for simplicity influenced my work on Byzantine fault tolerance and cloud storage. Ultimately, I aim to convince the audience that "simplicity is the ultimate sophistication" in distributed computing.
+
+**Bio:** Alysson Bessani is a professor of the University of Lisbon Faculty of Sciences, Portugal, and the director of the LASIGE research unit.
 He received his Ph.D. in Electrical Engineering from UFSC (Brazil) in 2006, was a visiting professor at Carnegie Mellon University (2010) and a visiting researcher at Microsoft Research Cambridge (2014).
 
 Alysson coordinated/collaborated in 13 international projects and co-authored more than 120 peer-reviewed publications on dependability, security, Byzantine fault tolerance, and cloud storage.
