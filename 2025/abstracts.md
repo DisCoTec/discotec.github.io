@@ -6,7 +6,7 @@ title: Coordination Abstracts
 
 ## 1
 
-* Christopher Esterhuyse, Benjamin Lion, Hans-Dieter Hiep and Farhad Arbab. *Formal Foundations for Reowolf: Multi-Party Sessions via Synchronous Protocol Programming*.
+* Christopher Esterhuyse, Benjamin Lion, Hans-Dieter Hiep and Farhad Arbab. **Formal Foundations for Reowolf: Multi-Party Sessions via Synchronous Protocol Programming**
 
 The Reowolf project developed connectors as a replacement
 of two-party network sockets for multi-party communication in next-generation internet applications. Users control connectors via protocols
@@ -23,7 +23,7 @@ the API and correctness criteria of PDL runtime systems.
 
 ## 2
 
-* Alessandro Aldini and Claudio Antares Mezzina. *Formalizing Errors in CCS with 3-Valued Logic*.
+* Alessandro Aldini and Claudio Antares Mezzina. **Formalizing Errors in CCS with 3-Valued Logic**
 
 Concurrent and distributed systems are often prone to failures. Errors in modeling an agent’s behavior can propagate into large
 interacting systems with unexpected consequences. In this paper, we
@@ -34,7 +34,7 @@ real-world case study modeling a distributed microservices architecture.
 
 ## 3
 
-* Robert Rubbens, Petra van den Bos and Marieke Huisman. *Verified Parameterized Choreographies*.
+* Robert Rubbens, Petra van den Bos and Marieke Huisman. **Verified Parameterized Choreographies**
 
 Choreographies are useful for modelling systems with multiple simultaneously executing and communicating participants, e.g. distributed systems. VeyMont can verify correctness of choreographies and
 generate verifiably correct code that implements the choreography. Initially, it supported only fixed sets of participants. However, realistic
@@ -47,7 +47,7 @@ choreography, and prove it correct with VerCors.
 
 ## 4
 
-* Fabio Gadducci, Carlos Olarte and Frank Valencia. *A Constraint Opinion Model*.
+* Fabio Gadducci, Carlos Olarte and Frank Valencia. **A Constraint Opinion Model**
 
 This paper introduces a generalized opinion model that extends the
 standard DeGroot model by representing agents’ opinions and influences as soft
@@ -60,7 +60,7 @@ a novel polarization measure that takes advantage of this generalized framework.
 
 ## 5
 
-* Nikolaus Huber, Susanne Graf, Philipp Rümmer and Wang Yi. *MIMOSA: A Language for Asynchronous Implementation of Embedded Systems Software*
+* Nikolaus Huber, Susanne Graf, Philipp Rümmer and Wang Yi. **MIMOSA: A Language for Asynchronous Implementation of Embedded Systems Software**
 
 This paper introduces the Mimosa language, a programming
 language for the design and implementation of asynchronous reactive systems, describing them as a collection of time-triggered processes which
@@ -73,7 +73,7 @@ provided.
 
 ## 6
 
-* Antonio Brogi, Roberto Casadei, Nicolas Farabegoli, Stefano Forti and Mirko Viroli. *Declarative Deployment Planning for Green Pulverised Collective Computational Systems*.
+* Antonio Brogi, Roberto Casadei, Nicolas Farabegoli, Stefano Forti and Mirko Viroli. **Declarative Deployment Planning for Green Pulverised Collective Computational Systems**
 
 To promote non-functional goals (e.g., energy efficiency and
 reactivity) in system implementations, multiple strategies can be adopted,
@@ -100,7 +100,7 @@ deployments.
 
 ## 7
 
-* Giorgio Delzanno, Cosimo Laneve, Arnaud Sangnier and Gianluigi Zavattaro. *Decidability Problems for Micro-Stipula*.
+* Giorgio Delzanno, Cosimo Laneve, Arnaud Sangnier and Gianluigi Zavattaro. **Decidability Problems for Micro-Stipula**
 
 Micro-Stipula is a stateful calculus in which clauses can be
 activated either through interactions with the external environment or
@@ -116,7 +116,7 @@ states of functions and events are disjoint.
 
 ## 8
 
-* Carlos Gustavo Lopez Pombo, Agustín Eloy Martinez-Suñé, Hernan Melgratti, Diego Senarruzza Anabia and Emilio Tuosto. *Behavioural, Functional, and Non-Functional Contracts for Dynamic Selection of Services*.
+* Carlos Gustavo Lopez Pombo, Agustín Eloy Martinez-Suñé, Hernan Melgratti, Diego Senarruzza Anabia and Emilio Tuosto. **Behavioural, Functional, and Non-Functional Contracts for Dynamic Selection of Services**
 
 We propose a mechanism for selecting distributed services
 which encompasses three orthogonal, yet related type of contracts’ compliance. Indeed, we envisage contract compliance as the intersection of behavioural contract compliance with the compliance of functional and non-functional contracts. We model services as communicating-finite state
@@ -131,7 +131,7 @@ and we discuss tool support for our framework.
 
 ## 9
 
-* Carolyn Talcott. *Dialects for the CoAP IoT Messaging Protocol*.
+* Carolyn Talcott. **Dialects for the CoAP IoT Messaging Protocol**
 
 Messaging protocols for resource limited systems such as distributed IoT systems are often vulnerable to attacks due to security
 choices made to conserve resources such as time, memory, or bandwidth.
@@ -143,7 +143,7 @@ scenarios.
 
 ## 10
 
-* Tilman Zuckmantel, Thomas Hildebrandt, Yongluan Zhou and Boris Düdder. *DACEO: Declarative Asynchronous Choreographies with Data-dependent Event Ordering*.
+* Tilman Zuckmantel, Thomas Hildebrandt, Yongluan Zhou and Boris Düdder. **DACEO: Declarative Asynchronous Choreographies with Data-dependent Event Ordering**
 
 We provide a formal modeling language, DACEO, for declarative asynchronous choreographies with general data-dependent message
 ordering and data objects. The language is equipped with execution semantics, and thereby, it can be used to specify the semantic and support
@@ -163,7 +163,7 @@ microservices that relies on asynchronous, event-based communication.
 
 ## 11
 
-* José Proença and Maurice H. ter Beek. *RebeCaos*.
+* José Proença and Maurice H. ter Beek. **RebeCaos**
 
 We describe RebeCaos, a user-friendly web-based front-end
 tool for the Rebeca language, based on the Caos library for Scala. RebeCaos can simulate different operational semantics of (timed) Rebeca, thus
@@ -177,7 +177,7 @@ ticket service use case from the timed Rebeca literature.
 
 ## 12
 
-* Gianluca Aguzzi, Lorenzo Bacchini, Martina Baiardi, Roberto Casadei, Angela Cortecchia, Davide Domini, Nicolas Farabegoli, Danilo Pianini and Mirko Viroli. *A Demonstrator Toolchain for Self-organizing Robot Teams*.
+* Gianluca Aguzzi, Lorenzo Bacchini, Martina Baiardi, Roberto Casadei, Angela Cortecchia, Davide Domini, Nicolas Farabegoli, Danilo Pianini and Mirko Viroli. **A Demonstrator Toolchain for Self-organizing Robot Teams**
 
 Aggregate computing is a paradigm with over a decade of
 investigation and multiple programming frameworks available, which

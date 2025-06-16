@@ -95,9 +95,9 @@ order: 0
 | **15:00-15:30** | [MIMOSA: A Language for Asynchronous Implementation of Embedded Systems Software](./abstracts#5) | An Approach to Formalize Information-theoretic Security of Multiparty Computation Protocols |
 | *15:30-16:00* | *coffee break* | *coffee break* |
 | | **Session 3:<br/>Tools and expressiveness** <br/> Chair: Mieke Massink | **Session 3:<br/>Applications** <br/> Chair: Claudio A. Mezzina |
-| **16:00-16:30** | A Demonstrator Toolchain for Self-organizing Robot Teams | Choreographies for Program Understanding |
-| **16:30-17:00** | Formalizing Errors in CCS with 3-Valued Logic | SNexpression: a new component for SN matrix-based structural analysis |
-| **17:00-17:30** | A Constraint Opinion Model | Assessing Code Understanding in LLMs |
+| **16:00-16:30** | [A Demonstrator Toolchain for Self-organizing Robot Teams](./abstracts#12) | Choreographies for Program Understanding |
+| **16:30-17:00** | [Formalizing Errors in CCS with 3-Valued Logic](./abstracts#2) | SNexpression: a new component for SN matrix-based structural analysis |
+| **17:00-17:30** | [A Constraint Opinion Model](./abstracts#4) | Assessing Code Understanding in LLMs |
 | **17:30-18:30** | **Committee meetings** <br/> (Room: 038) | **Committee meetings** <br/> (Room: 038) |
 
 ### Wednesday, June 18th: DisCoTec Main Conferences
@@ -115,7 +115,7 @@ order: 0
 | **09:00-10:00**  | [**Alysson Bessani**: <br/> TBA](./invited#alysson-bessani-universidade-de-lisboa-portugal---dais) |
 | *10:00-10:30* | *coffee break* |
 |  | **Session 4: DisCoTec Best Papers** <br/> (Room: Amphi 130)  <br/> Chair: Simon Bliudze |
-| **10:30-11:00** | Verified Parameterized Choreographies |
+| **10:30-11:00** | [Verified Parameterized Choreographies](./abstracts#3) |
 | **11:00-11:30** | Revisited Convergence of a Self-Stabilizing BFS Spanning Tree Algorithm |
 | **11:30-12:00** | Justin: Hybrid CPU/Memory Elastic Scaling for Distributed Stream Processing |
 | *12:00-13:30* | *lunch break* |
