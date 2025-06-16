@@ -112,7 +112,7 @@ order: 0
 | Time | DisCoTec |
 | :---: | :---: |
 |  | **DAIS Invited Talk** <br/> (Room: Amphi 130) |
-| **09:00-10:00**  | [**Alysson Bessani**: <br/> TBA](./invited#alysson-bessani-universidade-de-lisboa-portugal---dais) |
+| **09:00-10:00**  | [**Alysson Bessani**: <br/> The Power of Simplicity on Dependable Distributed Systems](./invited#alysson-bessani-universidade-de-lisboa-portugal---dais) |
 | *10:00-10:30* | *coffee break* |
 |  | **Session 4: DisCoTec Best Papers** <br/> (Room: Amphi 130)  <br/> Chair: Simon Bliudze |
 | **10:30-11:00** | [Verified Parameterized Choreographies](./abstracts#3) |
