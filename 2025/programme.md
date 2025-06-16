@@ -83,7 +83,7 @@ order: 0
 | *10:00-10:30* | *coffee break* | *coffee break* |
 | | **COORDINATION** <br/> (Room: Centrale) | **FORTE** <br/> (Room: Amphi 130) |
 | | **Session 1:<br/>Choreographic Approaches** <br/> Chair: Maurice H. ter Beek | **Session 1:<br/>Verification** <br/> Chair: Marco Bernardo |
-| **10:30-11:00** | Decidability Problems for Micro-Stipula | Temporal and Spatial Fault Detection for Connected Cyber-Physical Systems |
+| **10:30-11:00** | [Decidability Problems for Micro-Stipula](./abstracts#7) | Temporal and Spatial Fault Detection for Connected Cyber-Physical Systems |
 | **11:00-11:30** | DACEO: Declarative Asynchronous Choreographies with Data-dependent Event Ordering | Sequential Composition of BDD Transition Systems for Model-Based Testing |
 | **11:30-12:00** | Behavioural, Functional, and Non-Functional Contracts for Dynamic Selection of Services | Scaling Information Flow Control by-Construction to Component-based Software Architectures |
 | **12:00-12:30** | Dialects for the CoAP IoT Messaging Protocol | Probabilistic Safety Verification of Distributed Systems: A Statistical Approach for Monitoring |
