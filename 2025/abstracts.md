@@ -6,8 +6,11 @@ title: Coordination Abstracts
 
 ## 1
 
-* Christopher Esterhuyse, Benjamin Lion, Hans-Dieter Hiep and Farhad Arbab. **Formal Foundations for Reowolf: Multi-Party Sessions via Synchronous Protocol Programming**
+**Authors:** Christopher Esterhuyse, Benjamin Lion, Hans-Dieter Hiep and Farhad Arbab. 
 
+**Title:** Formal Foundations for Reowolf: Multi-Party Sessions via Synchronous Protocol Programming
+
+**Abstract:**
 The Reowolf project developed connectors as a replacement
 of two-party network sockets for multi-party communication in next-generation internet applications. Users control connectors via protocols
 in the bespoke protocol description language (PDL), which is based on
@@ -23,8 +26,11 @@ the API and correctness criteria of PDL runtime systems.
 
 ## 2
 
-* Alessandro Aldini and Claudio Antares Mezzina. **Formalizing Errors in CCS with 3-Valued Logic**
+**Authors:**  Alessandro Aldini and Claudio Antares Mezzina. 
 
+**Title:**Formalizing Errors in CCS with 3-Valued Logic
+
+**Abstract:**
 Concurrent and distributed systems are often prone to failures. Errors in modeling an agent’s behavior can propagate into large
 interacting systems with unexpected consequences. In this paper, we
 propose a theory for the process algebra CCS enriched with a formal
@@ -34,8 +40,11 @@ real-world case study modeling a distributed microservices architecture.
 
 ## 3
 
-* Robert Rubbens, Petra van den Bos and Marieke Huisman. **Verified Parameterized Choreographies**
+**Authors:** Robert Rubbens, Petra van den Bos and Marieke Huisman. 
 
+**Title:** Verified Parameterized Choreographies
+
+**Abstract:**
 Choreographies are useful for modelling systems with multiple simultaneously executing and communicating participants, e.g. distributed systems. VeyMont can verify correctness of choreographies and
 generate verifiably correct code that implements the choreography. Initially, it supported only fixed sets of participants. However, realistic
 systems are often parameterized: they scale according to some parameter N . This paper extends VeyMont with parameterized choreographies,
@@ -47,8 +56,11 @@ choreography, and prove it correct with VerCors.
 
 ## 4
 
-* Fabio Gadducci, Carlos Olarte and Frank Valencia. **A Constraint Opinion Model**
+**Authors:** Fabio Gadducci, Carlos Olarte and Frank Valencia. 
 
+**Title:** A Constraint Opinion Model
+
+**Abstract:**
 This paper introduces a generalized opinion model that extends the
 standard DeGroot model by representing agents’ opinions and influences as soft
 constraints rather than single real values. This allows for modeling scenarios beyond the scope of the DeGroot model, such as agents sharing partial information and preferences, engaging in discussions on multiple topics simultaneously,
@@ -60,8 +72,11 @@ a novel polarization measure that takes advantage of this generalized framework.
 
 ## 5
 
-* Nikolaus Huber, Susanne Graf, Philipp Rümmer and Wang Yi. **MIMOSA: A Language for Asynchronous Implementation of Embedded Systems Software**
+**Authors:** Nikolaus Huber, Susanne Graf, Philipp Rümmer and Wang Yi. 
 
+**Title:** MIMOSA: A Language for Asynchronous Implementation of Embedded Systems Software
+
+**Abstract:**
 This paper introduces the Mimosa language, a programming
 language for the design and implementation of asynchronous reactive systems, describing them as a collection of time-triggered processes which
 communicate through FIFO buffers. Syntactically, Mimosa builds upon
@@ -73,8 +88,11 @@ provided.
 
 ## 6
 
-* Antonio Brogi, Roberto Casadei, Nicolas Farabegoli, Stefano Forti and Mirko Viroli. **Declarative Deployment Planning for Green Pulverised Collective Computational Systems**
+**Authors:** Antonio Brogi, Roberto Casadei, Nicolas Farabegoli, Stefano Forti and Mirko Viroli. 
 
+**Title:** Declarative Deployment Planning for Green Pulverised Collective Computational Systems
+
+**Abstract:**
 To promote non-functional goals (e.g., energy efficiency and
 reactivity) in system implementations, multiple strategies can be adopted,
 including the partitioning of distributed applications and the smart deployment of the resulting sub-components across the edge-cloud continuum.
@@ -100,8 +118,11 @@ deployments.
 
 ## 7
 
-* Giorgio Delzanno, Cosimo Laneve, Arnaud Sangnier and Gianluigi Zavattaro. **Decidability Problems for Micro-Stipula**
+**Authors:**  Giorgio Delzanno, Cosimo Laneve, Arnaud Sangnier and Gianluigi Zavattaro. 
 
+**Title:** Decidability Problems for Micro-Stipula
+
+**Abstract:**
 Micro-Stipula is a stateful calculus in which clauses can be
 activated either through interactions with the external environment or
 by the evaluation of time expressions. Despite the apparent simplicity
@@ -116,8 +137,11 @@ states of functions and events are disjoint.
 
 ## 8
 
-* Carlos Gustavo Lopez Pombo, Agustín Eloy Martinez-Suñé, Hernan Melgratti, Diego Senarruzza Anabia and Emilio Tuosto. **Behavioural, Functional, and Non-Functional Contracts for Dynamic Selection of Services**
+**Authors:**  Carlos Gustavo Lopez Pombo, Agustín Eloy Martinez-Suñé, Hernan Melgratti, Diego Senarruzza Anabia and Emilio Tuosto. 
 
+**Title:** Behavioural, Functional, and Non-Functional Contracts for Dynamic Selection of Services
+
+**Abstract:**
 We propose a mechanism for selecting distributed services
 which encompasses three orthogonal, yet related type of contracts’ compliance. Indeed, we envisage contract compliance as the intersection of behavioural contract compliance with the compliance of functional and non-functional contracts. We model services as communicating-finite state
 machines (CFSMs) suitably extended to capture data-awareness and
@@ -131,8 +155,11 @@ and we discuss tool support for our framework.
 
 ## 9
 
-* Carolyn Talcott. **Dialects for the CoAP IoT Messaging Protocol**
+**Author:**  Carolyn Talcott. 
 
+**Title:**Dialects for the CoAP IoT Messaging Protocol
+
+**Abstract:**
 Messaging protocols for resource limited systems such as distributed IoT systems are often vulnerable to attacks due to security
 choices made to conserve resources such as time, memory, or bandwidth.
 Protocol dialects are a light weight, modular mechanism to provide security guarantees such as authentication or integrity. In this paper we propose a generic dialect for the Constrained Application Protocol (CoAP)
@@ -143,8 +170,11 @@ scenarios.
 
 ## 10
 
-* Tilman Zuckmantel, Thomas Hildebrandt, Yongluan Zhou and Boris Düdder. **DACEO: Declarative Asynchronous Choreographies with Data-dependent Event Ordering**
+**Authors:**  Tilman Zuckmantel, Thomas Hildebrandt, Yongluan Zhou and Boris Düdder. 
 
+**Title:** DACEO: Declarative Asynchronous Choreographies with Data-dependent Event Ordering
+
+**Abstract:**
 We provide a formal modeling language, DACEO, for declarative asynchronous choreographies with general data-dependent message
 ordering and data objects. The language is equipped with execution semantics, and thereby, it can be used to specify the semantic and support
 monitoring of asynchronous distributed event-based systems in which a
@@ -163,8 +193,11 @@ microservices that relies on asynchronous, event-based communication.
 
 ## 11
 
-* José Proença and Maurice H. ter Beek. **RebeCaos**
+**Authors:**  José Proença and Maurice H. ter Beek. 
 
+**Title:** RebeCaos
+
+**Abstract:**
 We describe RebeCaos, a user-friendly web-based front-end
 tool for the Rebeca language, based on the Caos library for Scala. RebeCaos can simulate different operational semantics of (timed) Rebeca, thus
 facilitatingthedisseminationandawarenessof Rebeca,providinginsights
@@ -177,8 +210,11 @@ ticket service use case from the timed Rebeca literature.
 
 ## 12
 
-* Gianluca Aguzzi, Lorenzo Bacchini, Martina Baiardi, Roberto Casadei, Angela Cortecchia, Davide Domini, Nicolas Farabegoli, Danilo Pianini and Mirko Viroli. **A Demonstrator Toolchain for Self-organizing Robot Teams**
+**Authors:**  Gianluca Aguzzi, Lorenzo Bacchini, Martina Baiardi, Roberto Casadei, Angela Cortecchia, Davide Domini, Nicolas Farabegoli, Danilo Pianini and Mirko Viroli. 
 
+**Title:** A Demonstrator Toolchain for Self-organizing Robot Teams
+
+**Abstract:**
 Aggregate computing is a paradigm with over a decade of
 investigation and multiple programming frameworks available, which
 proved to be particularly suitable for the simulation of applications in
