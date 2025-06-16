@@ -22,6 +22,7 @@ the API and correctness criteria of PDL runtime systems.
 
 ## 2
 * Alessandro Aldini and Claudio Antares Mezzina. *Formalizing Errors in CCS with 3-Valued Logic*.
+
 Concurrent and distributed systems are often prone to failures. Errors in modeling an agent’s behavior can propagate into large
 interacting systems with unexpected consequences. In this paper, we
 propose a theory for the process algebra CCS enriched with a formal
@@ -31,6 +32,7 @@ real-world case study modeling a distributed microservices architecture.
 
 ## 3
 * Robert Rubbens, Petra van den Bos and Marieke Huisman. *Verified Parameterized Choreographies*.
+
 Choreographies are useful for modelling systems with multiple simultaneously executing and communicating participants, e.g. distributed systems. VeyMont can verify correctness of choreographies and
 generate verifiably correct code that implements the choreography. Initially, it supported only fixed sets of participants. However, realistic
 systems are often parameterized: they scale according to some parameter N . This paper extends VeyMont with parameterized choreographies,
@@ -42,6 +44,7 @@ choreography, and prove it correct with VerCors.
 
 ## 4
 * Fabio Gadducci, Carlos Olarte and Frank Valencia. *A Constraint Opinion Model*.
+
 This paper introduces a generalized opinion model that extends the
 standard DeGroot model by representing agents’ opinions and influences as soft
 constraints rather than single real values. This allows for modeling scenarios beyond the scope of the DeGroot model, such as agents sharing partial information and preferences, engaging in discussions on multiple topics simultaneously,
@@ -53,6 +56,7 @@ a novel polarization measure that takes advantage of this generalized framework.
 
 ## 5
 * Nikolaus Huber, Susanne Graf, Philipp Rümmer and Wang Yi. *MIMOSA: A Language for Asynchronous Implementation of Embedded Systems Software*
+
 This paper introduces the Mimosa language, a programming
 language for the design and implementation of asynchronous reactive systems, describing them as a collection of time-triggered processes which
 communicate through FIFO buffers. Syntactically, Mimosa builds upon
@@ -64,6 +68,7 @@ provided.
 
 ## 6
 * Antonio Brogi, Roberto Casadei, Nicolas Farabegoli, Stefano Forti and Mirko Viroli. *Declarative Deployment Planning for Green Pulverised Collective Computational Systems*.
+
 To promote non-functional goals (e.g., energy efficiency and
 reactivity) in system implementations, multiple strategies can be adopted,
 including the partitioning of distributed applications and the smart deployment of the resulting sub-components across the edge-cloud continuum.
@@ -88,7 +93,9 @@ approach with synthetic experiments and find out that we can achieve
 deployments.
 
 ## 7
+
 * Giorgio Delzanno, Cosimo Laneve, Arnaud Sangnier and Gianluigi Zavattaro. *Decidability Problems for Micro-Stipula*.
+
 Micro-Stipula is a stateful calculus in which clauses can be
 activated either through interactions with the external environment or
 by the evaluation of time expressions. Despite the apparent simplicity
@@ -117,6 +124,7 @@ and we discuss tool support for our framework.
 
 ## 9
 * Carolyn Talcott. *Dialects for the CoAP IoT Messaging Protocol*.
+
 Messaging protocols for resource limited systems such as distributed IoT systems are often vulnerable to attacks due to security
 choices made to conserve resources such as time, memory, or bandwidth.
 Protocol dialects are a light weight, modular mechanism to provide security guarantees such as authentication or integrity. In this paper we propose a generic dialect for the Constrained Application Protocol (CoAP)
@@ -146,6 +154,7 @@ microservices that relies on asynchronous, event-based communication.
 
 ## 11
 * José Proença and Maurice H. ter Beek. *RebeCaos*.
+
 We describe RebeCaos, a user-friendly web-based front-end
 tool for the Rebeca language, based on the Caos library for Scala. RebeCaos can simulate different operational semantics of (timed) Rebeca, thus
 facilitatingthedisseminationandawarenessof Rebeca,providinginsights
