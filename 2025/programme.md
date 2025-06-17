@@ -34,7 +34,6 @@ order: 0
 * Openning: Clarisse Dhaenens (Director of CRIStAL lab) (**08:30**) 
    * Amphi 130 (upstairs)
 * Invited talk: [Burcu Kulahcioglu Ozkan](./invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte) (**09:00**)
-   * Chair: Claudio Antares Mezzina
    * Amphi 130
 * Contributed papers in two tracks: 
    * COORDINATION: La Centrale (downstairs)
