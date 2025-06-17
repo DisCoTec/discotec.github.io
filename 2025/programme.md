@@ -114,10 +114,10 @@ order: 0
 |  | **DAIS Invited Talk** <br/> (Room: Amphi 130) |
 | **09:00-10:00**  | [**Alysson Bessani**: <br/> The Power of Simplicity on Dependable Distributed Systems](./invited#alysson-bessani-universidade-de-lisboa-portugal---dais) <br/> Chair: Pierre-Louis Aublin |
 | *10:00-10:30* | *coffee break* |
-|  | **Session 4: DisCoTec Best Papers** <br/> (Room: Amphi 130)  <br/> Chair: TBA |
-| **10:30-11:00** | [Verified Parameterized Choreographies](./abstracts#3) |
-| **11:00-11:30** | Revisited Convergence of a Self-Stabilizing BFS Spanning Tree Algorithm |
-| **11:30-12:00** | Justin: Hybrid CPU/Memory Elastic Scaling for Distributed Stream Processing |
+|  | **Session 4: DisCoTec Best Papers** <br/> (Room: Amphi 130)|
+| **10:30-11:00** | [Verified Parameterized Choreographies](./abstracts#3)  <br/> Chair: TBA  |
+| **11:00-11:30** | Revisited Convergence of a Self-Stabilizing BFS Spanning Tree Algorithm  <br/> Chair: TBA  |
+| **11:30-12:00** | Justin: Hybrid CPU/Memory Elastic Scaling for Distributed Stream Processing  <br/> Chair: Baptiste Jonglez |
 | *12:00-13:30* | *lunch break* |
 |  | **DisCoTec-wide Keynote** <br/> (Room: Amphi 130) |
 | **13:30-14:30**  | [**Hélène Coullon**: <br/> Efficient Reconfigurations with Programmable Life Cycles: Contributions to Safety, Declarativity, and Decentralization](./invited##hélène-coullon-imt-atlantique-france---discotec-wide) <br/> Chair: Jacopo Soldani |
@@ -133,14 +133,14 @@ order: 0
 |  | **COORDINATION Invited Talk** <br/> (Room: Amphi 130) | **COORDINATION Invited Talk** <br/> (Room: Amphi 130) |
 | **09:00-10:00**  | [**Omar Inverso**: <br/> Towards Automated Analysis of Emerging Behaviour: Preliminary Insights and Research Directions](./invited#omar-inverso-gssi-italy---coordination) | [**Omar Inverso**: <br/> Towards Automated Analysis of Emerging Behaviour: Preliminary Insights and Research Directions](./invited#omar-inverso-gssi-italy---coordination) |
 | *10:00-10:30* | *coffee break* | *coffee break* |
-| | **Session 5:<br/>DAIS** <br/> (Room: 038B) <br/> Chair: TBA | **Session 5:<br/>FORTE** <br/> (Room: Amphi 130) <br/> Chair: TBA |
+| | **Session 5:<br/>DAIS** <br/> (Room: 038B) <br/> Chair: Alysson Bessani | **Session 5:<br/>FORTE** <br/> (Room: Amphi 130) <br/> Chair: TBA |
 | **10:30-11:00** | Integrating High-Resolution Particulate Matter Data for Urban Air Quality Forecasting | LolaPrompts: Assisting the General Public in Performing Real-Driving Emission Tests |
 | **11:00-11:30** | Mitigating Cryptographic Bottlenecks of Low-latency BFT Protocols | Towards Efficient Verification of Parallel Applications with Mc SimGrid |
 | | **Joint Session:<br/>Artefact demos** <br/> (Room: 038AB) | **Joint Session:<br/>Artefact demos** <br/> (Room: 038AB) |
 | **11:30-12:30** | Demos | Demos |
 | *12:30-14:00* | *lunch break* | *lunch break* |
 | **14:00-14:30** | **Young researchers** <br> (Room: Amphi 130) | **Young researchers** <br> (Room: Amphi 130) |
-| | **Session 6:<br/>DAIS** <br/> (Room: 038C) <br/> Chair: TBA | |
+| | **Session 6:<br/>DAIS** <br/> (Room: 038C) <br/> Chair: Hélène Coullon | |
 | **14:30-16:00** | AIoRT: AI-driven distributed system for heterogenous Internet of Robotic things in Sustainable Ecosystem <br/><br/> A critical review of mobile device-to-device communication <br/><br/> BCProf: Battery Consumption Profiler for Android Applications | **Business meeting** <br/> (Room: 038B) |
 | *16:00-16:30* | *coffee break* | *coffee break* |
 | **16:30-18:00** | | **Business meetings* <br/> (Room: 038B) |
