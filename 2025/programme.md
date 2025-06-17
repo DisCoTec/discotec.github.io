@@ -116,8 +116,8 @@ order: 0
 | *10:00-10:30* | *coffee break* |
 |  | **Session 4: DisCoTec Best Papers** <br/> (Room: Amphi 130)|
 | **10:30-11:00** | [Verified Parameterized Choreographies](./abstracts#3)  <br/> Chair: TBA  |
-| **11:00-11:30** | Revisited Convergence of a Self-Stabilizing BFS Spanning Tree Algorithm  <br/> Chair: TBA  |
-| **11:30-12:00** | Justin: Hybrid CPU/Memory Elastic Scaling for Distributed Stream Processing  <br/> Chair: Baptiste Jonglez |
+| **11:00-11:30** | Justin: Hybrid CPU/Memory Elastic Scaling for Distributed Stream Processing  <br/> Chair: Baptiste Jonglez |
+| **11:30-12:00** | Revisited Convergence of a Self-Stabilizing BFS Spanning Tree Algorithm  <br/> Chair: TBA  |
 | *12:00-13:30* | *lunch break* |
 |  | **DisCoTec-wide Keynote** <br/> (Room: Amphi 130) |
 | **13:30-14:30**  | [**Hélène Coullon**: <br/> Efficient Reconfigurations with Programmable Life Cycles: Contributions to Safety, Declarativity, and Decentralization](./invited##hélène-coullon-imt-atlantique-france---discotec-wide) <br/> Chair: Jacopo Soldani |
