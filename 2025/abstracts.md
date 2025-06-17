@@ -41,6 +41,8 @@ and explicit representation of errors based on McCarthy’s style three-valued l
 error value. In this setting, we formally study how the emergence of local errors may or may not result in propagation, as also emphasized in a
 real-world case study modeling a distributed microservices architecture.
 
+**pdf:** [pdf](../assets/coordinationpdf/2.pdf)
+
 ## 3
 
 **Authors:** Robert Rubbens, Petra van den Bos and Marieke Huisman. 
@@ -56,6 +58,8 @@ add parameterized primitives such as participant families and parameterized comm
 parallelism primitive from the underlying verifier VerCors, and by using conditionals in the endpoint projection, partially delaying projection
 until run time. We illustrate the encoding with a distributed summation
 choreography, and prove it correct with VerCors.
+
+**pdf:** [pdf](../assets/coordinationpdf/3.pdf)
 
 ## 4
 
@@ -73,6 +77,8 @@ agents impose conditions on how others’ opinions are integrated during belief
 revision. Finally, the flexibility offered by soft constraints allows us to introduce
 a novel polarization measure that takes advantage of this generalized framework.
 
+**pdf:** [pdf](../assets/coordinationpdf/4.pdf)
+
 ## 5
 
 **Authors:** Nikolaus Huber, Susanne Graf, Philipp Rümmer and Wang Yi. 
@@ -88,6 +94,8 @@ allow for the expression of side-effectful computations, and extending it
 with an asynchronous coordination layer which orchestrates the communication between processes. A formal semantics is given to both the
 process and coordination layer through a textual and graphical rewriting calculus, respectively, and a prototype interpreter for simulation is
 provided.
+
+**pdf:** [pdf](../assets/coordinationpdf/5.pdf)
 
 ## 6
 
@@ -118,6 +126,8 @@ for continuous reasoning of deployment alternatives. We exercise the
 approach with synthetic experiments and find out that we can achieve
 “greener” deployments (i.e., with low energy consumption and carbon footprint) while preserving good latencies compared to uniform peer-to-peer
 deployments.
+
+**pdf:** [pdf](../assets/coordinationpdf/6.pdf)
 
 ## 7
 
