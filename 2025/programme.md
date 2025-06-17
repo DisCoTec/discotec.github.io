@@ -122,7 +122,7 @@ order: 0
 |  | **DisCoTec-wide Keynote** <br/> (Room: Amphi 130) |
 | **13:30-14:30**  | [**Hélène Coullon**: <br/> Efficient Reconfigurations with Programmable Life Cycles: Contributions to Safety, Declarativity, and Decentralization](./invited##hélène-coullon-imt-atlantique-france---discotec-wide) <br/> Chair: Jacopo Soldani |
 | *14:30-15:00* | *coffee break* |
-| **15:00-16:30** | **Women @ Science** <br> Chairs: Manel Barkallah, Imen Sayar <br/> (Room: Amphi 130) |
+| **15:00-16:30** | **Women @ Science** <br> Chairs: Manel Barkallah, Imen Sayar <br/> (Room: **Amphi 140**) |
 | *17:30-19:00* | *Social activity* |
 | *19:30-21:00* | *Conference banquet* |
 
