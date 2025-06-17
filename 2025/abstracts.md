@@ -24,6 +24,9 @@ interleave via messages sent and received. Toward machine-checking the
 correctness of the connector runtime reference implementation, we specify
 the API and correctness criteria of PDL runtime systems.
 
+**pdf:** [pdf](../assets/coordinationpdf/1.pdf)
+
+
 ## 2
 
 **Authors:**  Alessandro Aldini and Claudio Antares Mezzina. 
