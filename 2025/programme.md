@@ -45,7 +45,7 @@ order: 0
 * Joint best paper session (**10:30**)
 * Invited talk: [Hélène Coullon](./invited##hélène-coullon-imt-atlantique-france---discotec-wide) (**13:30**)
 * Women @ Science (**15:00**)
-   * Amphi 130 (upstairs)
+   * **Amphi 140 (upstairs, opposite end of the building)**
 * Social activities:
     * Guided tour of Lille with beer tasting (non-alcoholic options available) &mdash; leaving directly from the conference venue.
     * Conference dinner at l'Hermitage Gantois
