@@ -148,6 +148,8 @@ the instantaneous fragment, where all time expressions evaluate to zero.
 On the other hand, we identify a decidable subfragment: within the instantaneous fragment, reachability becomes decidable when the initial
 states of functions and events are disjoint.
 
+**pdf:** [pdf](../assets/coordinationpdf/7.pdf)
+
 ## 8
 
 **Authors:**  Carlos Gustavo Lopez Pombo, Agustín Eloy Martinez-Suñé, Hernan Melgratti, Diego Senarruzza Anabia and Emilio Tuosto. 
@@ -166,6 +168,9 @@ allows us to capture behavioural contracts (considering the communication patter
 non-functional contracts. We use a case study to assess our approach
 and we discuss tool support for our framework.
 
+
+**pdf:** [pdf](../assets/coordinationpdf/8.pdf)
+
 ## 9
 
 **Author:**  Carolyn Talcott. 
@@ -180,6 +185,9 @@ messaging protocol. The CoAP protocol, dialect, and an attack models
 are formalized in the rewriting logic system Maude. A number of properties relating CoAP and its dialected form are given, including a stuttering
 bisimulation, thus ensuring that dialecting preserves important properties of a CoAP application. The ideas are illustrated with some simple
 scenarios.
+
+
+**pdf:** [pdf](../assets/coordinationpdf/9.pdf)
 
 ## 10
 
@@ -203,6 +211,7 @@ running example that shows how a system with causal consistency requirements can
 microservices that relies on asynchronous, event-based communication.
 
 
+**pdf:** [pdf](../assets/coordinationpdf/10.pdf)
 
 ## 11
 
@@ -219,6 +228,9 @@ quick experimentation of new Rebeca variants (e.g., when the order of
 received messages is preserved). The tool also comes with initial reachability analyses for Rebeca models (e.g., the possibility of reaching dead-
 locks or desirable states). We illustrate the RebeCaos tool by means of a
 ticket service use case from the timed Rebeca literature.
+
+
+**pdf:** [pdf](../assets/coordinationpdf/11.pdf)
 
 
 ## 12
@@ -240,3 +252,4 @@ robots to form spatial patterns. We discuss the practical demonstration
 performed in an indoor environment, which exploits a camera system
 and ArUco markers for localization.
 
+**pdf:** [pdf](../assets/coordinationpdf/12.pdf)
