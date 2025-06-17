@@ -34,6 +34,7 @@ order: 0
 * Openning: Clarisse Dhaenens (Director of CRIStAL lab) (**08:30**) 
    * Amphi 130 (upstairs)
 * Invited talk: [Burcu Kulahcioglu Ozkan](./invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte) (**09:00**)
+   * Chair: Claudio Antares Mezzina
    * Amphi 130
 * Contributed papers in two tracks: 
    * COORDINATION: La Centrale (downstairs)
@@ -79,7 +80,7 @@ order: 0
 | :---: | :---: | :---: |
 | *08:30-09:00*  | *Opening Ceremony DisCoTec 2025* <br/> (Room: Amphi 130) | *Opening Ceremony DisCoTec 2025* <br/> (Room: Amphi 130) |
 |  | **FORTE Invited Talk** <br/> (Room: Amphi 130) | **FORTE Invited Talk** <br/> (Room: Amphi 130) |
-| **09:00-10:00**  | [**Burcu Kulahcioglu Ozkan**: <br/> From Formal Methods to Testing of Distributed Systems](./invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte) | [**Burcu Kulahcioglu Ozkan**: <br/> From Formal Methods to Testing of Distributed Systems](./invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte) |
+| **09:00-10:00**  | [**Burcu Kulahcioglu Ozkan**: <br/> From Formal Methods to Testing of Distributed Systems](./invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte) <br/> Chair: Claudio Antares Mezzina | [**Burcu Kulahcioglu Ozkan**: <br/> From Formal Methods to Testing of Distributed Systems](./invited#burcu-kulahcioglu-ozkan-tu-delft-the-netherlands---forte) <br/> Chair: Claudio Antares Mezzina |
 | *10:00-10:30* | *coffee break* | *coffee break* |
 | | **COORDINATION** <br/> (Room: Centrale) | **FORTE** <br/> (Room: Amphi 130) |
 | | **Session 1:<br/>Choreographic Approaches** <br/> Chair: Maurice H. ter Beek | **Session 1:<br/>Verification** <br/> Chair: Marco Bernardo |
@@ -112,7 +113,7 @@ order: 0
 | Time | DisCoTec |
 | :---: | :---: |
 |  | **DAIS Invited Talk** <br/> (Room: Amphi 130) |
-| **09:00-10:00**  | [**Alysson Bessani**: <br/> The Power of Simplicity on Dependable Distributed Systems](./invited#alysson-bessani-universidade-de-lisboa-portugal---dais) |
+| **09:00-10:00**  | [**Alysson Bessani**: <br/> The Power of Simplicity on Dependable Distributed Systems](./invited#alysson-bessani-universidade-de-lisboa-portugal---dais) <br/> Chair: Pierre-Louis Aublin |
 | *10:00-10:30* | *coffee break* |
 |  | **Session 4: DisCoTec Best Papers** <br/> (Room: Amphi 130)  <br/> Chair: TBA |
 | **10:30-11:00** | [Verified Parameterized Choreographies](./abstracts#3) |
@@ -120,9 +121,9 @@ order: 0
 | **11:30-12:00** | Justin: Hybrid CPU/Memory Elastic Scaling for Distributed Stream Processing |
 | *12:00-13:30* | *lunch break* |
 |  | **DisCoTec-wide Keynote** <br/> (Room: Amphi 130) |
-| **13:30-14:30**  | [**Hélène Coullon**: <br/> Efficient Reconfigurations with Programmable Life Cycles: Contributions to Safety, Declarativity, and Decentralization](./invited##hélène-coullon-imt-atlantique-france---discotec-wide) |
+| **13:30-14:30**  | [**Hélène Coullon**: <br/> Efficient Reconfigurations with Programmable Life Cycles: Contributions to Safety, Declarativity, and Decentralization](./invited##hélène-coullon-imt-atlantique-france---discotec-wide) <br/> Chair: Jacopo Soldani |
 | *14:30-15:00* | *coffee break* |
-| **15:00-16:30** | **Women @ Science** <br> (Room: Amphi 130) |
+| **15:00-16:30** | **Women @ Science** <br> Chairs: Manel Barkallah, Imen Sayar <br/> (Room: Amphi 130) |
 | *17:30-19:00* | *Social activity* |
 | *19:30-21:00* | *Conference banquet* |
 
