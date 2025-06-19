@@ -72,7 +72,8 @@ Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordi
 
 ### Publication
 
-Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details). The COORDINATION proceedings will be published by Springer as an LNCS-IFIP volume and will comprise accepted submissions from __all__ categories.
+Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details). The [COORDINATION proceedings](https://link.springer.com/book/10.1007/978-3-031-95589-1 ) are published by Springer as an LNCS-IFIP volume and  comprise accepted submissions from __all__ categories.
+
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
