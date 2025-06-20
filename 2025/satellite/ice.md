@@ -76,7 +76,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 *Links are to slides.*
 
-**Express your interest for an ICE dinner event at <https://evento.renater.fr/survey/ice-dinner-event-qjhti3d0>.**
+**Express your interest for an ICE dinner event at <https://evento.renater.fr/survey/ice-dinner-event-qjhti3d0> (to take place after the closing reception).**
 
 ## The ICE Selection Procedure
 
