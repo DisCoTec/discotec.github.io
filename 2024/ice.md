@@ -164,7 +164,7 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Kirstin Peters](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/), Augsburg University 
 - [Carla Ferreira](http://ctp.di.fct.unl.pt/~cf/), NOVA University Lisbon 
 - [Eva Graversen](https://portal.findresearcher.sdu.dk/en/persons/efgraversen), University of Southern Denmark 
-- [Bas van den Heuvel](https://basvdheuvel.github.io/), Karlsruhe University of Applied Sciences / University of Freiburg 
+- **[Bas van den Heuvel](https://basvdheuvel.github.io/), Karlsruhe University of Applied Sciences / University of Freiburg** ★
 - [Gerard Tabone](https://gerardtabone.com/), University of Malta 
 - [Ping Hou](https://www.cs.ox.ac.uk/people/ping.hou/), University of Oxford 
 - [Sergueï Lenglet](https://members.loria.fr/SLenglet/), Université de Lorraine - Université Sorbonne Paris-Nord 
@@ -175,6 +175,11 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/), University of Luxembourg
 - [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home), University of Liverpool 
 - [Andreia Mordido](https://www.di.fc.ul.pt/~amordido/), LASIGE, University of Lisbon 
+
+
+★ **The _ICE 2024 Outstanding PC Member Award_ was awarded to [Bas van den Heuvel](https://basvdheuvel.github.io/)!**
+
+[Luc Edixhoven](https://luc.edixhoven.eu/)
 
 ## Steering Committee
 
