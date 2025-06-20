@@ -61,7 +61,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 | Time CEST   |  |
 | ------------| ------- | 
 | 9:00-9:15   | Opening |
-| 9:15-10:15  | [Kirstin Peters](#invited-speaker-kirstin-peters) -- *[On the Expressiveness of MPST](#talk-on-the-expressiveness-of-mpst)* (Invited talk) |
+| 9:15-10:15  | [Kirstin Peters](#invited-speaker-kirstin-peters) -- [*On the Expressiveness of MPST*](ice_slides/K_Peters.pdf) (Invited talk) |
 | 10:30-11:00 | **Coffee break** |
 | 11:00-11:45 | *Modular Multiparty Sessions with Mixed Choice* (presented by F. Barbanera) |
 | 11:45-12:30 | [*Reactive Semantics for User Interface Description Languages*](ice_slides/B_Pesin.pdf) (presented by B. Pesin) |
@@ -112,7 +112,7 @@ We plan to invite authors of selected papers and brief announcements to submit t
 
 ### Talk: On the Expressiveness of MPST
 
-> Multiparty session types (MPST) are a type discipline for enforcing the structured, deadlock-free communication of concurrent and message-passing programs. In this talk we will analyse the expressive power of MPST. In particular, we are interested in features that mark the difference expressive power of synchronous and asynchronous distributed languages. In the synchronous pi-calculus mixed choice is the main ingredient for its expressive power. Traditional MPST have in contrast usually a limited form of choice, in which alternative communication possibilities are offered by a single participant and selected by another. Accordingly, we extend MPST by a more general mixed choice construct. 
+> Multiparty session types (MPST) are a type discipline for enforcing the structured, deadlock-free communication of concurrent and message-passing programs. In this talk we will analyse the expressive power of MPST. In particular, we are interested in features that mark the difference expressive power of synchronous and asynchronous distributed languages. In the synchronous pi-calculus mixed choice is the main ingredient for its expressive power. Traditional MPST have in contrast usually a limited form of choice, in which alternative communication possibilities are offered by a single participant and selected by another. Accordingly, we extend MPST by a more general mixed choice construct.
 
 ### Biography
 
