@@ -63,12 +63,12 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 | 9:00-9:15   | [Opening](ice_slides/opening.pdf) |
 | 9:15-10:15  | [Kirstin Peters](#invited-speaker-kirstin-peters) -- [*On the Expressiveness of MPST*](ice_slides/K_Peters.pdf) (Invited talk) |
 | 10:30-11:00 | **Coffee break** |
-| 11:00-11:30 | *Modular Multiparty Sessions with Mixed Choice* (presented by F. Barbanera) |
+| 11:00-11:30 | [*Modular Multiparty Sessions with Mixed Choice*](ice_slides/F_Barbanera.pdf) (presented by F. Barbanera) |
 | 11:30-11:40 | **Fire drill** |
-| 11:40-11:55 | *Modular Multiparty Sessions with Mixed Choice* (contd) |
+| 11:40-11:55 | [*Modular Multiparty Sessions with Mixed Choice*](ice_slides/F_Barbanera.pdf) (contd) |
 | 11:55-12:40 | [*Reactive Semantics for User Interface Description Languages*](ice_slides/B_Pesin.pdf) (presented by B. Pesin) |
 | 12:40-14:00 | **Lunch** |
-| 14:00-14:45 | *Bisimilarity and Simulatability of Processes Parameterized by Join Interactions* (presented by M. Murgia) |
+| 14:00-14:45 | [*Bisimilarity and Simulatability of Processes Parameterized by Join Interactions*](ice_slides/M_Murgia.pdf) (presented by M. Murgia) |
 | 14:45-15:30 | [*A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga*](ice_slides/G_Cecilia.pdf) (presented by G. Cecilia) |
 | 15:30-16:00 | **Coffee break** |
 | 16:00-16:45 | *Identity Crisis in Attested TLS for Confidential Computing (Oral communication)* (presented by M. U. Sardar) |
