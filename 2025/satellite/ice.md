@@ -73,10 +73,9 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 | 15:30-16:00 | **Coffee break** |
 | 16:00-16:45 | *Identity Crisis in Attested TLS for Confidential Computing (Oral communication)* (presented by M. U. Sardar) |
 | 16:45-17:15 | Panel meeting |
+| 19:30-?? | **Event dinner at <https://estaminetlille.fr/nos-estaminets/lestaminet-du-welsh/> at 19:30. [OpenStreetMap](https://osm.org/go/0EgIvB5Vk?node=2303894717), [Google Maps](https://maps.app.goo.gl/28m11zXFh6gBcCd58)** |
 
 *Links are to slides.*
-
-**Express your interest for an ICE dinner event at <https://evento.renater.fr/survey/ice-dinner-event-qjhti3d0> (to take place after the closing reception).**
 
 ## The ICE Selection Procedure
 
