@@ -76,6 +76,8 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 *Links are to slides.*
 
+**Express your interest for an ICE dinner event at <https://evento.renater.fr/survey/ice-dinner-event-qjhti3d0>.**
+
 ## The ICE Selection Procedure
 
 Since [its first edition in 2008](#previous-editions), the distinguishing feature of ICE has been an innovative paper selection mechanism based on an interactive, friendly, and constructive discussion amongst authors and PC members in an online forum.
