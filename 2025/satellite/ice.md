@@ -46,13 +46,16 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 ## Accepted Papers
 
+**The [proceedings have been published as volume 425 of EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2025).**
+
+*Links below are to **informal** pre-proceedings.* 
+
 - [*Modular Multiparty Sessions with Mixed Choice*](ice_preproceedings/Modular_Multiparty_Sessions_with_Mixed_Choice.pdf) by Franco Barbanera, Mariangiola Dezani
 - [*Identity Crisis in Attested TLS for Confidential Computing (Oral communication)*](ice_preproceedings/Identity_Crisis_in_Attested_TLS_for_Confidential_Computing.pdf) by Muhammad Usama Sardar
 - [*Reactive Semantics for User Interface Description Languages*](ice_preproceedings/Reactive_Semantics_for_User_Interface_Description_Languages.pdf) by Basile Pesin, Celia Picard, Cyril Allignol 
 - [*Bisimilarity and Simulatability of Processes Parameterized by Join Interactions*](ice_preproceedings/Bisimilarity_and_Simulatability_of_Processes.pdf) by Clemens Grabmayer and Maurizio Murgia
 - [*A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga*](ice_preproceedings/A_Formalization_of_the_Reversible_Concurrent_Calculus_CCSKP_in_Beluga.pdf) by Gabriele Cecilia
 
-*Links are to **informal** pre-proceedings.*
 
 ## Programme {#programme} 
 
