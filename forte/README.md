@@ -1,6 +1,6 @@
 # FORTE: IFIP WG 6.1 International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
-FORTE is one of the three conferences of [DisCoTec](.), the International Federated Conference on Distributed Computing Techniques.
+FORTE is one of the three conferences of [DisCoTec](./README.md), the International Federated Conference on Distributed Computing Techniques.
 
 
 ## Topics of Interest
@@ -34,7 +34,17 @@ The main topics of interest include:
   construed), such as software-defined networks, distributed ledgers,
   smart contracts, and blockchain technologies, etc.
 
-  ## Steering committee
+## Next Edition
+* **FORTE 2026** - Urbino, Italy <br> 
+  * *Program Chairs*: Laura Bocchi (University of Kent, UK) and Burcu Kulahcioglu Ozkan (TU Delft, The Netherlands)
+
+## Recent Editions
+* [FORTE 2025](https://www.discotec.org/2025/forte) - Lille, France <br> 
+  * Program Chairs: Carla Ferreira (NOVA University of Lisbon, Portugal) and 
+Claudio A. Mezzina (University of Urbino, Italy)
+  * Proceedings: [Springer LNCS-IFIP volume 15732](https://link.springer.com/book/10.1007/978-3-031-95497-9). 
+
+## Steering Committee
 * Christel Baier (University Dresden, Germany)
 * Valentina Castiglioni (Eindhoven University of Technology, The Netherlands) 
 * Adrian Francalanza (University of Malta, Malta)
