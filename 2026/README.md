@@ -1,18 +1,19 @@
-# DisCoTec 2025 - 20th International Federated Conference on Distributed Computing Techniques
+# DisCoTec 2026 - 21st International Federated Conference on Distributed Computing Techniques
 
-Welcome to DisCoTec 2025! 
+Welcome to DisCoTec 2026! 
 
 [DisCoTec](/) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)) and the European Association for Programming Languages and Systems ([EAPLS](https://eapls.org)).
 
-DisCoTec 2025 will take place in [Lille, France](venue), June 16-20, 2025, hosted by the [University of Lille](https://international.univ-lille.fr/en/).
+DisCoTec 2026 will take place in [Urbino, Italy](venue), June 8-12, 2026, hosted by the [University of Urbino Carlo Bo](https://www.uniurb.it/international).
 
 ## Main Conferences
 DisCoTec gathers conferences that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches:
 
-* [COORDINATION 2025](coordination) - International Conference on Coordination Models and Languages
-* [DAIS 2025](dais) - International Conference on Distributed Applications and Interoperable Systems
-* [FORTE 2025](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+* [COORDINATION 2026](coordination) - International Conference on Coordination Models and Languages
+* [DAIS 2026](dais) - International Conference on Distributed Applications and Interoperable Systems
+* [FORTE 2026](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
+<!---
 ## Invited Speakers
 
 DisCoTec 2025 will host the following invited speakers.
@@ -117,7 +118,7 @@ Selected papers accepted at the main conferences will be invited for submission 
 * [Science of Computer Programming](https://www.journals.elsevier.com/science-of-computer-programming/) ([Software Track](https://www.journals.elsevier.com/science-of-computer-programming/call-for-software/a-new-software-track-on-original-software-publications-science-of-computer-programming)).
 
 Please visit the page of each conference for details on these special issues.
-
+-->
 ## Further Information
-* Please contact the [general chair](mailto:simon.bliudze@inria.fr).
+* Please contact the [general chair](mailto:claudio.mezzina@uniurb.it).
 * Follow us on [LinkedIn](https://www.linkedin.com/company/discotec-conf), [Mastodon](https://lipn.info/@DisCoTecConf), or [X](https://twitter.com/DisCoTecConf)!
