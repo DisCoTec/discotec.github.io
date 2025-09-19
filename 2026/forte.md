@@ -4,9 +4,9 @@ menu_show: false
 order: 3
 ---
 
-# FORTE 2025 - 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+# FORTE 2026 - 46th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
-FORTE 2025 is one of the three conferences of [DisCoTec 2025](.), the 20th International Federated Conference on Distributed Computing Techniques.
+FORTE 2026 is one of the three conferences of [DisCoTec 2025](.), the 20th International Federated Conference on Distributed Computing Techniques.
 
 ### Quick Links:
 * [Important Dates](https://www.discotec.org/2025/#important-dates)
@@ -74,60 +74,29 @@ Choose the "FORTE 2025 Artefact Evaluation" track in EasyChair when submitting y
 [Submission Link](https://easychair.org/conferences/?conf=forte2025)
   -->
 
-### Accepted papers
+<!--### Accepted papers
 Go to the [**dedicated page**](accepted-papers)
-
+-->
 ### Publication
 
-Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details). The FORTE proceedings will be published by Springer as [LNCS-IFIP volume 15732](https://link.springer.com/book/10.1007/978-3-031-95497-9) and will comprise accepted submissions from __all__ categories.
+Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details). The FORTE proceedings will be published by Springer as [LNCS-IFIP volume 15732] and will comprise accepted submissions from __all__ categories.
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
 ### Special Issue
-Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
-
+<!--Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
+-->
 
 ## Program Committee Chairs
-* [Carla Ferreira][CarlaWeb] (NOVA University of Lisbon, Portugal)
-* [Claudio A. Mezzina][ClaudioWeb] (University of Urbino, Italy)
+* [Laura Bocchi][LauraWeb] (University of Kent, UK)
+* [Burcu Kulahcioglu Ozkan][BurcuWeb] (TU Delft, The Netherlands)
 
 ## Program Committee Members
-* Davide Basile	(CNR Pisa, Italy)
-* Elisa Gonzalez Boix	(Vrije Universiteit Brussel, BE)
-* Matteo Cimini	(University of Massachusetts, US)			
-* João Costa Seco (NOVA University Lisbon, PT)				
-* Wan Fokkink (Vrije Universiteit Amsterdam, NL)
-* Adrian Francalanza	(University of Malta, Malta)			
-* Simon Gay	(University of Glasgow, UK)		
-* Ping Hou (University of Oxford, UK)		
-* Tobias Kappé (Leiden University, NL)
-* Vasileios Koutavas	(Trinity College Dublin, IE)			
-* Jean Krivine		(IRIF Paris, FR)
-* Cosimo Laneve	(University of Bologna, IT)			
-* Ana Almeida Matos (University of Lisbona, PT)
-* Hernán Melgratti (University of Buenos Aires, AR)
-* Luca Padovani (University of Bologna, IT)
-* Jovanka Pantović (University of Novi Sad, RS)
-* Anna Philippou (University of Cyprus, CY)
-* G. Michele Pinna (University of Cagliari, IT)			
-* Violet Ka I Pun	(Western Norway University of Applied Sciences, NO)			
-* Jorge A. Pérez (University of Groningen, NL)	
-* Alceste Scalas (Technical University of Denmark, DN)		
-* Alan Schmitt (INRIA, FR)
-* Simon Thompson (University of Kent, UK)
-* Bernardo Toninho (NOVA University Lisbon, PT)
-* Emilio Tuosto	(GSSI, IT)
-* German Vidal (Universitat Politecnica de Valencia, ES)
-* Shoji Yuen (Nagoya University, JP)
+
 
 ## Artefact Evaluation Committee chair
-* Emilio Incerto (IMT School for Advanced Studies Lucca, IT)
 
 ## Artefact Evaluation Committee
-* Bas Van Den Heuvel (Karlsruhe University of Applied Sciences)
-* Gerard Tabone (University of Malta)
-* Daniele Masti (Gran Sasso Science Institute)
-* Dominika Regéciová (Brno University of Technology)
 
 ## Steering committee
 * Christel Baier (University Dresden, Germany)
@@ -147,5 +116,5 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ## More Information
 For additional information, please contact the Program Committee Co-chairs: forte2025 at easychair dot org 
 
-[CarlaWeb]: http://ctp.di.fct.unl.pt/~cf/
-[ClaudioWeb]: https://sites.google.com/view/claudio-mezzina/home
+[BurcuWeb]: https://burcuku.github.io/home/
+[LauraWeb]: https://www.kent.ac.uk/school-of-computing/people/3119/bocchi-laura
