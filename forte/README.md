@@ -35,7 +35,7 @@ The main topics of interest include:
   smart contracts, and blockchain technologies, etc.
 
 ## Upcoming Edition
-* **FORTE 2026** - Urbino, Italy, June 2026. <br> 
+* **[FORTE 2026](https://www.discotec.org/2026/forte)** - Urbino, Italy, June 2026. <br> 
   * *Program Chairs*: Laura Bocchi (University of Kent, UK) and Burcu Kulahcioglu Ozkan (TU Delft, The Netherlands)
 
 ## Recent Editions
@@ -50,6 +50,7 @@ Claudio A. Mezzina (University of Urbino, Italy)
 * Adrian Francalanza (University of Malta, Malta)
 * Marieke Huisman (University of Twente, The Netherlands)
 * Ivan Lanese (University of Bologna/INRIA, Italy)
+* Claudio Antares Mezzina (University of Urbino, Italy)
 * Jorge A. Pérez (University of Groningen, The Netherlands – Chair) 
 * Kirstin Peters (Technical University of Darmstadt, Germany) 
 * Anna Philippou (University of Ciprus, Ciprus)
