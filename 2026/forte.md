@@ -114,7 +114,7 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 
 
 ## More Information
-For additional information, please contact the Program Committee Co-chairs: forte2025 at easychair dot org 
+For additional information, please contact the Program Committee Co-chairs: forte2026 at easychair dot org 
 
 [BurcuWeb]: https://burcuku.github.io/home/
 [LauraWeb]: https://www.kent.ac.uk/school-of-computing/people/3119/bocchi-laura
