@@ -20,7 +20,7 @@ FORTE 2026 is one of the three conferences of [DisCoTec 2026](.), the 20th Inter
 * [Contact](#more-information)
 
 ## Topics of Interest
-FORTE 2025 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
+FORTE 2026 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
 
 We invite submissions focused on foundational aspects of distributed
 software systems, presenting approaches or tools to formally model,
@@ -68,7 +68,7 @@ Instructions on how to upload artefacts can be found [here](FORTE_Artefact_Evalu
 
 As advertised in the call for papers, artefact submissions are mandatory for tool papers and optional for regular papers. Tool papers must submit an artefact that, at least, satisfies the requirements for the **Functional** badge. Papers not meeting this clause are rejected. Moreover, the acceptance of artefacts is conditional on the tool paper being accepted.
 
-Choose the "FORTE 2025 Artefact Evaluation" track in EasyChair when submitting your artefact.
+Choose the "FORTE 2026 Artefact Evaluation" track in EasyChair when submitting your artefact.
 
 <!--### Submission Link
 [Submission Link](https://easychair.org/conferences/?conf=forte2025)
