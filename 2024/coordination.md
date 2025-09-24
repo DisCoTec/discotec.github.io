@@ -45,6 +45,11 @@ Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
 ## Accepted Papers 
 Go to the [list of accepted papers](https://www.discotec.org/2024/accepted-papers).
 
+## Awards
+* **COORDINATION and DisCoTec 2024 Best Paper Award:** Marco Carbone and Adele Veschetti. _A Probabilistic Choreography Language for PRISM_.
+* **COORDINATION 2024 Best Artefact Award:** Joao Afonso, Elvis Gerardin Konjoh Selabi, Maurizio Murgia, Antonio Ravara and Emilio Tuosto. _TRAC: a tool for data-aware coordination (with an application to smart contracts)_.
+
+
 <!--
 The following list does not include conditionally accepted papers.
 
