@@ -4,17 +4,18 @@ menu_show: true
 order: 7
 ---
 
-# Venue: Lille, France
+# Venue: Urbino, Italy
 
 ## Quick Links
 * [Location](#location)
 * [How to arrive](#how-to-arrive)
+<!-- 
 * [Moving around the city](#moving-around-the-city)
 * [Accommodation](#accommodation)
 * [Beyond the Conference: Bienvenue à Lille!](#beyond-the-conference-bienvenue-à-lille)
-
+-->
 ## Location
-DisCoTec 2026 will take place at [University of Urbino](https://artsetmetiers.fr/fr/campus/lille) in Palazzo Battiferri.
+DisCoTec 2026 will take place at [University of Urbino](https://www.uniurb.it/international) in Palazzo Battiferri.
 
 * *Address*: 42, Via Aurelio Saffi, 61029 Urbino PU, Italia [link maps](https://maps.app.goo.gl/nrSmhew6beZW42nv7)
 
@@ -30,57 +31,26 @@ DisCoTec 2026 will take place at [University of Urbino](https://artsetmetiers.fr
 
 ## About Urbino
 
-![Photo of the city, Urbino](/2026/venue/urbino.png)
-*Photo by tupianlingang on [istockphoto.com](https://www.istockphoto.com/fr/photo/lille-ville-b%C3%A2timent-landmark-gm465093876-58944264).*
+![Photo of the city, Urbino](/2026/venue/duomo.jpg)
 
-The city of Lille is the capital of the Hauts-de-France region, the most nothern region of France, and is at the center of the European Metropolis of Lille (MEL in French), which has a population of 1.5 million people.
+Urbino is a historic walled city in Italy's Marche region, renowned as a center of the Italian Renaissance and a [UNESCO](https://whc.unesco.org/en/list/828/) World Heritage site. It is celebrated for its well-preserved Renaissance architecture, most notably the Palazzo Ducale (Ducal Palace), and its rich cultural legacy under the patronage of Duke Federico da Montefeltro. The city is located on a high, sloping hillside and retains a picturesque medieval aspect, with a historic center characterized by narrow streets and stunning buildings. 
 
-Nicknamed the "capital of the Flanders", Lille belongs to the Flanders historical region, a hotly contested region through the ages; Lille has been strongly influenced (and under siege) by different powers, including
-Holy Roman Empire and the Spanish Netherlands: this appears in the architecture of the buildings, especially in the city center and old town, that is very close to the neighbooring Belgium style.
 
-There's a lot to see in Lille! Please visit the [tourist office website](https://en.lilletourism.com/) for official touristic information.
+There's a lot to see in Urbino! Please visit the [tourist office website](https://www.vieniaurbino.it/?lang=en) for official touristic information.
 
-### The University of Lille
+### The University of Urbino
 
-With roots from 1562, and officially established in 1854 with Louis Pasteur as first dean, the University of Lille comprises 15 faculties,
-including the [Faculty of Science and Technology](https://sciences-technologies.univ-lille.fr/), which hosts the [Polytech Lille engineering school](https://www.polytech-lille.fr/english/graduate-school-of-engineering/).
-
-The university employs 10,000 people (including 3,300 academic staff) and incorporates 80,000 students (including 1,800 Ph.D. students).
+The University of Urbino was founded 519 years ago in 1506 by Guidobaldo da Montefeltro, the Duke of Urbino. One year later, the magistracy of Urbino was granted power to award doctorates in canon and civil law by papal bull from Pope Julius II.
 
 
 ## How to arrive
 
-We strongly encourage DisCoTec participants to consider sustainable options for arriving to Lille.
 
-### Travel by Train
-
-Being 1h20 away from London, 1h from Paris and 35min from Bruxelles, Lille is an important junction of the European high-speed rail network.
-Lille has two railways stations:
-* Lille-Europe, meant for high-speed trains/international service;
-* Lille-Flandres, meant for lower-speed regional service.
-
-The two stations are very close (500m apart).
-
-#### Companies
-
-In France, trains are supervised by the SNCF (French national railway company).
-
-In addition to SNCF's TGVs ([French high-speed trains](https://en.wikipedia.org/wiki/TGV)) going to Belgium, Italy and Spain, the SNCF also collaborates with other countries to propose international travels to/from Belgium/Germany/Netherlands/UK ([Eurostar](https://www.eurostar.com/rw-en)) and Switzerland ([Lyria](https://www.tgv-lyria.com/fr/en)).
-Even though all aforementioned trains should be bookable through the [SNCF Connect website](https://www.sncf-connect.com/en-en/), don't hesitate to visit other companies' websites to double check.
-
-*Note: SNCF Connect does not include trips from SNCF competitors (Deutsche Bahn, Renfe or Trenitalia for instance), so you might want to book your trip on [Trainline](https://www.thetrainline.com/).*
-
-
-In France, there are two categories of high-speed journey: *inOui* is the name of the premium service, while *Ouigo* is the low-cost variant.
-Both services usually run the same trains, [TGVs](https://en.wikipedia.org/wiki/TGV).
-
-TGVs are comfortable; they all offer free Wi-Fi in both second and first class, and 220V outlets in first class.
-Food and drinks are usually sold on the trains, except on short trips (no restauration service on Paris-Lille / Bruxelles-Lille for instance) and Ouigo low-cost trains.
 
 ### Travel by Air
 
-The simplest option is to travel to [Lille-Lesquin Airport](https://www.lille.aeroport.fr/home/) (Lille, LIL), and then join Lille by bus (either Ilevia n°68 to Villeneuve-d'Ascq 4 cantons metro stations, or Flibco shuttle to Lille-Flandres railway station).
-
+The simplest option is to travel to [Bologna Airport]([https://www.lille.aeroport.fr/home/](https://www.bologna-airport.it/en/welcome-to-bologna-airport/?idC=62175)) (Bologna, BLQ), and then take a train to Pesaro Station.
+<!--
 ## Moving around the city
 
 In the Lille Metropolis, public transportation (metro/tramway/bus/bike) is organized by [Ilévia](https://www.ilevia.fr/).
@@ -257,6 +227,7 @@ Expand your mind outside the conference:
 - Say “Bonjour!” to everyone, even bartenders. It's the magic password to French politeness.
 - Try a maroilles cheese tart. It smells intense but tastes divine.
 - Don't leave without exploring Old Lille's cobblestone streets!
+-->
 
 
 
