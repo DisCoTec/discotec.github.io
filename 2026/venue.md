@@ -9,7 +9,8 @@ order: 7
 ## Quick Links
 * [Location](#location)
 * [How to arrive](#how-to-arrive)
-<!-- * [Moving around the city](#moving-around-the-city)
+<!-- 
+* [Moving around the city](#moving-around-the-city)
 * [Accommodation](#accommodation)
 * [Beyond the Conference: Bienvenue à Lille!](#beyond-the-conference-bienvenue-à-lille)
 -->
