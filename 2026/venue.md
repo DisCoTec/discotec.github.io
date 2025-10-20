@@ -9,10 +9,10 @@ order: 7
 ## Quick Links
 * [Location](#location)
 * [How to arrive](#how-to-arrive)
-* [Moving around the city](#moving-around-the-city)
+<!--* [Moving around the city](#moving-around-the-city)
 * [Accommodation](#accommodation)
 * [Beyond the Conference: Bienvenue à Lille!](#beyond-the-conference-bienvenue-à-lille)
-
+-->
 ## Location
 DisCoTec 2026 will take place at [University of Urbino](https://artsetmetiers.fr/fr/campus/lille) in Palazzo Battiferri.
 
