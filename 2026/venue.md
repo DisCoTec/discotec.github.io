@@ -9,12 +9,12 @@ order: 7
 ## Quick Links
 * [Location](#location)
 * [How to arrive](#how-to-arrive)
-<!--* [Moving around the city](#moving-around-the-city)
+<!-- * [Moving around the city](#moving-around-the-city)
 * [Accommodation](#accommodation)
 * [Beyond the Conference: Bienvenue à Lille!](#beyond-the-conference-bienvenue-à-lille)
 -->
 ## Location
-DisCoTec 2026 will take place at [University of Urbino](https://artsetmetiers.fr/fr/campus/lille) in Palazzo Battiferri.
+DisCoTec 2026 will take place at [University of Urbino](https://www.uniurb.it/international) in Palazzo Battiferri.
 
 * *Address*: 42, Via Aurelio Saffi, 61029 Urbino PU, Italia [link maps](https://maps.app.goo.gl/nrSmhew6beZW42nv7)
 
