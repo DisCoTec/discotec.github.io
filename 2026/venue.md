@@ -14,15 +14,11 @@ order: 7
 * [Beyond the Conference: Bienvenue à Lille!](#beyond-the-conference-bienvenue-à-lille)
 
 ## Location
-DisCoTec 2025 will take place at [École National Supérieure des Arts et Métiers](https://artsetmetiers.fr/fr/campus/lille) (ENSAM).
+DisCoTec 2026 will take place at [University of Urbino](https://artsetmetiers.fr/fr/campus/lille) in Palazzo Battiferri.
 
-* *Address*: 8, Boulevard Louis XIV, 59046 Lille, France
-* *Metro stop*: [Grand Palais](https://maps.app.goo.gl/otyWd92itxsnwD2C6)
+* *Address*: 42, Via Aurelio Saffi, 61029 Urbino PU, Italia [link maps](https://maps.app.goo.gl/nrSmhew6beZW42nv7)
 
-We have recently found out that another [very large symposium](https://congres.sfap.org/) is taking place 300m away. **Please book your [accommodation](#accommodation) urgently!**
 
-![Photograph of the ENSAM main building](/2025/venue/ensam.jpg)
-*Photo by the ENSAM on [their website](https://artsetmetiers.fr/en/campus/lille){:target='_blank'}.*
 
 <!--
 ![Photograph of the Polytech Lille building](/2025/venue/polytech.png)
@@ -32,9 +28,9 @@ We have recently found out that another [very large symposium](https://congres.s
 *Photo by Fayat on [their website](https://nordfranceconstructions.fayat.com/decouvrir-nos-realisations/batiment-esprit-du-plan-campus-a-villeneuve-d-ascq-59).*
 -->
 
-## About Lille
+## About Urbino
 
-![Photo of the Paris door, Lille](/2025/venue/lille.png)
+![Photo of the city, Urbino](/2026/venue/urbino.png)
 *Photo by tupianlingang on [istockphoto.com](https://www.istockphoto.com/fr/photo/lille-ville-b%C3%A2timent-landmark-gm465093876-58944264).*
 
 The city of Lille is the capital of the Hauts-de-France region, the most nothern region of France, and is at the center of the European Metropolis of Lille (MEL in French), which has a population of 1.5 million people.
