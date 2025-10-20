@@ -4,12 +4,12 @@ menu_show: false
 order: 
 ---
 
-# COORDINATION 2025 - 27th International Conference on Coordination Models and Languages
+# COORDINATION 2026 - 26th International Conference on Coordination Models and Languages
 
-COORDINATION 2025 is one of the three conferences of [DisCoTec 2025](.).
+COORDINATION 2025 is one of the three conferences of [DisCoTec 2026](.).
 
 ### Quick Links:
-* [Important Dates](https://www.discotec.org/2025/dates)
+* [Important Dates](https://www.discotec.org/2026/dates)
 <!-- * [Submission Categories](#categories-of-papers)-->
 <!-- * [Submission Link](#submission-link) -->
 * [Accepted Papers](#accepted-papers)
