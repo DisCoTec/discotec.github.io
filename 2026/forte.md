@@ -6,14 +6,14 @@ order: 3
 
 # FORTE 2026 - 46th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
-FORTE 2026 is one of the three conferences of [DisCoTec 2026](.), the 20th International Federated Conference on Distributed Computing Techniques.
+FORTE 2026 is one of the three conferences of [DisCoTec 2026](.), the 21th International Federated Conference on Distributed Computing Techniques.
 
 ### Quick Links:
 * [Important Dates](https://www.discotec.org/2025/#important-dates)
 * [Topics of Interest](#main-topics-of-interest)
 * [Submission Categories](#categories-of-papers)
-<!--* [Submission Link](#submission-link)-->
-* [Accepted Pepers](#accepted-papers)
+<!--* [Submission Link](#submission-link)
+* [Accepted Pepers](#accepted-papers) -->
 * [Publication](#Publication)
 * [Special Issue](#special-issue)
 * [Program Committee](#program-committee-chairs)
