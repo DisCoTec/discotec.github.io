@@ -100,7 +100,11 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 * Selected Papers of Coordination and Forte 2023, Special Issue of Logical Methods in Computer Science, edited by Marieke Huisman, Sung-Shik Jongmans, Antónia Lopes, and António Ravara. In preparation.
 
-* Selected Software Artefacts from the Papers of DisCoTec 2023 - 18th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. In preparation.
+* Selected Software Artefacts from the Papers of DisCoTec 2023 - 18th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. In preparation. Available at: [https://www.sciencedirect.com/special-issue/106HX5T86G0](https://www.sciencedirect.com/special-issue/106HX5T86G0)
+
+* Selected Software Artefacts from the Papers of DisCoTec 2024 - 19th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. In preparation.
+
+* Selected Software Artefacts from the Papers of DisCoTec 2025 - 20th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. Planned.
 
 ## Programme Committee
 
