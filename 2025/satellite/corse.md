@@ -24,7 +24,7 @@ Jean-Bernard Sfenani, Head of Research at INRIA-Grenoble, has made significant c
 - Michele Loreti, Michela Quadrini and Aniqa Rehman. *Scalable verification of Local and Global properties of Collective Systems*
 
 ## Proceedings
-The workshop proceeginds are published as Springer [LNCS volume 16065](https://link.springer.com/book/10.1007/978-3-031-99717-4).
+The workshop proceedings are published as Springer [LNCS volume 16065](https://link.springer.com/book/10.1007/978-3-031-99717-4).
 
 ## Programme
 
