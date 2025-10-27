@@ -23,6 +23,9 @@ Jean-Bernard Sfenani, Head of Research at INRIA-Grenoble, has made significant c
 - Michaël Lienhardt. *Applied Formal Methods at ONERA: An experience Report*
 - Michele Loreti, Michela Quadrini and Aniqa Rehman. *Scalable verification of Local and Global properties of Collective Systems*
 
+## Proceedings
+The workshop proceedings are published as Springer [LNCS volume 16065](https://link.springer.com/book/10.1007/978-3-031-99717-4).
+
 ## Programme
 
 9:00 - 10:00
