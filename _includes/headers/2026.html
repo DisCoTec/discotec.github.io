@@ -22,14 +22,12 @@
 
     <a class="site-title" rel="author" href="/2026">DisCoTec 2026</a>
     <div class="trigger">
-     <!--   {% assign pages_list = site.pages | sort: "order" %}-->
-        <!-- very ugly patch here -->
-       {% assign pages_list = "conferences,venue" | split: "," %}
+    {% assign pages_list = site.pages | sort: "order" %}
         
         {% for my_page in pages_list %}
-<!--        {% if my_page.menu_show == true %}-->
+        {% if my_page.menu_show == true %}
             <a class="page-link" href="{{ my_page.url | relative_url | remove_first: '.html' }}">{{ my_page.title | escape }}</a>
-      <!--  {% endif %} -->
+        {% endif %} 
         {% endfor %}
     </div>
 </nav>
