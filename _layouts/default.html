@@ -24,7 +24,7 @@
       <!-- Create variable containing year of the website -->
       {% assign year = page.url | slice: 1, 4 | times: 1 %}
 
-      <h1> {%year%}</h1>
+      <h1> {% year %}</h1>
       <!-- Include banner + navigation menu for 2025 and newer websites -->
       {% if year >= 2025 %}
         {% assign fileName = "headers/" | append: year | append: ".html" %}
