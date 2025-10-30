@@ -27,10 +27,10 @@ The simplest option is to travel to [Bologna Airport]([https://www.lille.aeropor
 * If you take a regional train from Bologna Centrale to Pesaro, then you can buy a normal Adriabus ticket for the LV (linea verde) line  [website](https://www.adriabus.eu/wp-content/uploads/2025/10/EXTRAURBANO-rev.-dal-27-10-2025.pdf)
 
 There are also (small) closer airport which are ANCONA (Falconara) and Rimini
-*  ANCONA (Ancona-Falconara AOI) – From the airport take the shuttle bus “Raffaello” to Ancona
+*  ANCONA (Ancona-Falconara AOI) - From the airport take the shuttle bus “Raffaello” to Ancona
 railway station, then take a train towards Bologna or Rimini and stop in Pesaro or Fano
 
-* RIMINI (RMI) - from Rimini take the bus to Rimini Station and then either highspeed trains or regional trains towards Pesaro
+* RIMINI (RMI) - From Rimini take the bus to Rimini Station and then either highspeed trains or regional trains towards Pesaro
   
 ### Travel by Car
 
