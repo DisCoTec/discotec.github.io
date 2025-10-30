@@ -1,7 +1,7 @@
 ---
 title: COORDINATION
 menu_show: false
-order: 
+order: 1
 ---
 
 # COORDINATION 2026 - 26th International Conference on Coordination Models and Languages
