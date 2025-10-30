@@ -1,8 +1,3 @@
----
-title: Venue
-menu_show: true
-order: 4
----
 
 # Venue: Urbino, Italy
 
@@ -31,14 +26,14 @@ There are also (small) closer airport which are ANCONA (Falconara) and Rimini
 railway station, then take a train towards Bologna or Rimini and stop in Pesaro or Fano
 
 * RIMINI (RMI) - From Rimini take the bus to Rimini Station and then either highspeed trains or regional trains towards Pesaro
-  
+
 ### Travel by Car
 
 If you are travelling by car then
 Take highway A14.
 * From the North: exit at Pesaro­-Urbino, then take SP 423 towards Urbino (40 min ­ 30 km).
 * From the South: exit at Fano, then take the toll­free highway E78 towards Urbino (40 min ­ 44 km).
-In Urbino, you can leave your car at Santa Lucia Parking or Borgo Mercatale Parking. Tickets for 3 days 
+In Urbino, you can leave your car at Santa Lucia Parking or Borgo Mercatale Parking. Tickets for 3 days
 € 20.00 and for 2 days € 15.00. Some hotels are equipped with private parking.
 
 
@@ -47,7 +42,7 @@ In Urbino, you can leave your car at Santa Lucia Parking or Borgo Mercatale Park
 
 ![Photo of the city, Urbino](/2026/venue/duomo.jpg)
 
-Urbino is a historic walled city in Italy's Marche region, renowned as a center of the Italian Renaissance and a [UNESCO](https://whc.unesco.org/en/list/828/) World Heritage site. It is celebrated for its well-preserved Renaissance architecture, most notably the Palazzo Ducale (Ducal Palace), and its rich cultural legacy under the patronage of Duke Federico da Montefeltro. The city is located on a high, sloping hillside and retains a picturesque medieval aspect, with a historic center characterized by narrow streets and stunning buildings. 
+Urbino is a historic walled city in Italy's Marche region, renowned as a center of the Italian Renaissance and a [UNESCO](https://whc.unesco.org/en/list/828/) World Heritage site. It is celebrated for its well-preserved Renaissance architecture, most notably the Palazzo Ducale (Ducal Palace), and its rich cultural legacy under the patronage of Duke Federico da Montefeltro. The city is located on a high, sloping hillside and retains a picturesque medieval aspect, with a historic center characterized by narrow streets and stunning buildings.
 
 
 There's a lot to see in Urbino! Please visit the [tourist office website](https://www.vieniaurbino.it/?lang=en) for official touristic information.
@@ -55,7 +50,3 @@ There's a lot to see in Urbino! Please visit the [tourist office website](https:
 ### The University of Urbino
 
 The University of Urbino was founded 519 years ago in 1506 by Guidobaldo da Montefeltro, the Duke of Urbino. One year later, the magistracy of Urbino was granted power to award doctorates in canon and civil law by papal bull from Pope Julius II.
-
-
-
-

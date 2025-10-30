@@ -1,8 +1,3 @@
----
-title: DAIS
-menu_show: false
-order: 2
----
 
 # DAIS 2026 - 26th International Conference on Distributed Applications and Interoperable Systems
 
@@ -109,7 +104,7 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 * Robin Vassantlal, LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
 * Tânia Esteves, INESC TEC & U. Minho, Portugal
 * Vinícius Vielmo Cogo (chair), LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
-  
+
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands
 * Frank Eliassen, University of Oslo, Norway

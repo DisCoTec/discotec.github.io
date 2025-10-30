@@ -1,8 +1,4 @@
----
-title: COORDINATION
-menu_show: false
-order: 1
----
+
 
 # COORDINATION 2026 - 26th International Conference on Coordination Models and Languages
 
@@ -27,7 +23,7 @@ Topics of interest encompass all areas of coordination, including (but not limit
 * Coordination and modern distributed computing: web services, microservices, peer-to-peer networks, grid computing, context-awareness, ubiquitous computing, mobile computing, reversible computing.
 * Session-based programming: models, languages, behavioural types, and tools.
 * Models, languages, verification techniques and tools for interacting smart contracts and (blockchain-based) decentralised applications.
-* Languages, methodologies and tools for secure coordination. 
+* Languages, methodologies and tools for secure coordination.
 * Cybersecurity aspects of coordinated systems, coordinated approaches to cybersecurity.
 * Nature- and bio-inspired approaches to coordination.
 * Specification, refinement, and analysis of architectures: patterns and styles, verification of functional and non-functional properties, including performance and security aspects.
@@ -40,7 +36,7 @@ Topics of interest encompass all areas of coordination, including (but not limit
 
 
 
-## Accepted Papers 
+## Accepted Papers
 Go to the [list of accepted papers](https://www.discotec.org/2025/accepted-papers).
 
 
@@ -119,12 +115,12 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 -->
 
 ### Programme Committee members
-* S. Akshay (IIT Bombay, India)	
+* S. Akshay (IIT Bombay, India)
 * Étienne André	(Université Sorbonne Paris Nord, LIPN, CNRS UMR 7030, France)
 * Giovanni Bacci (Dept. of Computer Science, Aalborg University, Denmark)
-* Massimo Bartoletti (Dipartimento di Matematica e Informatica, Universita' degli Studi di Cagliari, Italy)	
+* Massimo Bartoletti (Dipartimento di Matematica e Informatica, Universita' degli Studi di Cagliari, Italy)
 * Georgiana	Caltais (University of Twente, Netherlands)
-* Marco	Carbone (IT University of Copenhagen, Denmark)	
+* Marco	Carbone (IT University of Copenhagen, Denmark)
 * Ilaria Castellani	(INRIA, France)
 * Valentina Castiglioni (Eindhoven University of Technology, Netherlands)
 * João Costa Seco (NOVA LINCS - NOVA University Lisbon, Portugal)
@@ -151,14 +147,14 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Duncan Attard, University of Glasgow, UK
 
 ### Artefact Evaluation Committee
-* Arwa Hameed Alsubhi, University of Glasgow, UK	
-* Marietta Galea, University of Malta, Malta	
-* Marco Giunti, University of Oxford, UK	
+* Arwa Hameed Alsubhi, University of Glasgow, UK
+* Marietta Galea, University of Malta, Malta
+* Marco Giunti, University of Oxford, UK
 * Mário Pereira, NOVA University of Lisbon, Portugal
-* Amrita Suresh, University of Oxford, UK	
-* Gerard Tabone, University of Malta, Malta	
-* Laura Voinea, University of Glasgow, UK	
-* Jasmine Xuereb, University of Malta, Malta	
+* Amrita Suresh, University of Oxford, UK
+* Gerard Tabone, University of Malta, Malta
+* Laura Voinea, University of Glasgow, UK
+* Jasmine Xuereb, University of Malta, Malta
 
 ## Steering Committee
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
@@ -183,7 +179,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Rosario Pugliese (Università di Firenze, Italy)
 * Marjan Sirjani (Mälardalen University, Sweden)
 * Carolyn Talcott (SRI International, California, USA)
-* Maurice ter Beek (CNR-ISTI, Italy) 
+* Maurice ter Beek (CNR-ISTI, Italy)
 * Francesco Tiezzi (Università di Firenze, Italy)
 * Emilio Tuosto (Gran Sasso Science Institute, Italy)
 * Vasco T. Vasconcelos (University of Lisbon, Portugal)
