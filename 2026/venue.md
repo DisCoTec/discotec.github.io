@@ -1,7 +1,7 @@
 ---
 title: Venue
 menu_show: true
-order: 7
+order: 1
 ---
 
 # Venue: Urbino, Italy
