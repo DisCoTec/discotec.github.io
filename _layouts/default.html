@@ -25,7 +25,7 @@
       {% assign year = page.url | slice: 1, 4 | times: 1 %}
 
       <!-- Include banner + navigation menu for 2025 and newer websites -->
-      {% if year >= 2025 %}
+      {% if year >= 2026 %}
         {% assign fileName = "headers/" | append: year | append: ".html" %}
         {% include {{fileName}} %}
       {% endif %}
@@ -33,7 +33,7 @@
       {{ content }}
 
       <!-- Include sponsors footer for 2025 and newer websites -->
-      {% if year >= 2025 %}
+      {% if year >= 2026 %}
         {% assign fileName = "footers/" | append: year | append: ".html" %}
         {% include {{fileName}} %}
       {% endif %}
