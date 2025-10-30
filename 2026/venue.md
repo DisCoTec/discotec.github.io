@@ -1,3 +1,8 @@
+---
+title: Venue
+menu_show: true
+order: 7
+---
 
 # Venue: Urbino, Italy
 
