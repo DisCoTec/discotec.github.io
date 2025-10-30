@@ -24,7 +24,7 @@
     <div class="trigger">
      <!--   {% assign pages_list = site.pages | sort: "order" %}-->
         <!-- very ugly patch here -->
-       {% assign pages_list = "conferences.html,venue.html" | split: "," %}
+       {% assign pages_list = "conferences,venue" | split: "," %}
         
         {% for my_page in pages_list %}
         {% if my_page.menu_show == true %}
