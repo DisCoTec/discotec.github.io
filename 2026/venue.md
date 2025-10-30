@@ -2,6 +2,7 @@
 title: Venue
 menu_show: true
 order: 1
+year: 2026
 ---
 
 # Venue: Urbino, Italy
