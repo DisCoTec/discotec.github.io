@@ -148,12 +148,12 @@ Selected tool papers will be invited to a journal special issue of Science of Co
 
 ## COORDINATION 2026 Program Committee
 
-### PC chairs
+PC chairs:
 
 - Roberto Casadei (University of Bologna, Italy)
 - Fatemeh Ghassemi (University of Tehran, Iran)
 
-### PC members
+PC members:
 
 - S. Akshay (IIT Bombay, India)
 - Giorgio Audrito (University of Turin, Italy)
@@ -188,11 +188,11 @@ Selected tool papers will be invited to a journal special issue of Science of Co
 - Emilio Tuosto (Gran Sasso Science Institute, Italy)
 - Nobuko Yoshida (University of Oxford)
 
-### Artefact Evaluation chairs
+Artefact Evaluation chairs:
 
 - TBD
 
-### Artefact Evaluation committee:
+Artefact Evaluation committee:
 
 - TBD
 
