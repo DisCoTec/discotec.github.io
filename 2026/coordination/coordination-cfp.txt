@@ -15,12 +15,12 @@ Techniques, which will take place in Urbino, Italy in June 8-12, 2026.
 Important Dates (AoE)
 ---------------------
 
-- Abstract submission: 30 January 2026
-- Paper submission: 6 February 2026
-- Artefact submission: 13 February 2026
-- Paper and Artefact notification: 27 March 2026
-- Camera-ready: 23 April 2026
-- DisCoTec/COORDINATION conference: June 8-12, 2026
+-  Abstract submission: 30 January 2026
+-  Paper submission: 6 February 2026
+-  Artefact submission: 13 February 2026
+-  Paper and Artefact notification: 27 March 2026
+-  Camera-ready: 23 April 2026
+-  DisCoTec/COORDINATION conference: June 8-12, 2026
 
 Submission link
 ---------------
@@ -152,6 +152,7 @@ Paper categories
     accepted. The artefact will be evaluated by a dedicated committee.
     Papers may contain a link to a publicly downloadable MPEG-4 demo
     video of at most 10 minutes length.
+
 
 See the website for EasyChair submission instructions.
 

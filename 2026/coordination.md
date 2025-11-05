@@ -1,6 +1,6 @@
 
 
-# COORDINATION 2026 - 26th International Conference on Coordination Models and Languages
+# COORDINATION 2026 - 28th International Conference on Coordination Models and Languages
 
 COORDINATION 2026 is one of the three conferences of [DisCoTec 2026](.).
 
@@ -8,11 +8,7 @@ COORDINATION 2026 is one of the three conferences of [DisCoTec 2026](.).
 * [Important Dates](https://www.discotec.org/2026/dates)
 * [Submission Categories](#categories-of-papers)
 * [Submission Link](#submission-link)
-<!--
-* [Accepted Papers](#accepted-papers)
-* [Proceedings and Special Issue](#proceedings-and-special-issues-from-previous-editions)
-* [Programme Committee](#programme-committee)
--->
+
 
 ### Dates
 
@@ -168,8 +164,8 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 ### Co-Chairs
 
-* [Roberto Casadei][https://robertocasadei.github.io] (University of Bologna, Italy)
-* [Fatemeh Ghassemi][http://www.fatemehghassemi.ir/] ( University of Tehran, Iran)
+* [Roberto Casadei](https://robertocasadei.github.io) (University of Bologna, Italy)
+* [Fatemeh Ghassemi](http://www.fatemehghassemi.ir/) ( University of Tehran, Iran)
 
 <!--
 ## Publicity chair
