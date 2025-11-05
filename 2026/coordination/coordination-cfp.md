@@ -1,39 +1,31 @@
-COORDINATION 2026
-===================================================================
-CALL FOR PAPERS - COORDINATION 2026
-28th International Conference on Coordination Models and Languages
+# COORDINATION 2026 - Call for Papers (CFP)
+
+COORDINATION 2026 - 28th International Conference on Coordination Models and Languages
+
 June 8-12, 2026 - Urbino, Italy
 
-https://www.discotec.org/2026/coordination
-===================================================================
+<https://www.discotec.org/2026/coordination>
 
-COORDINATION 2026 is one of the three conferences of DisCoTec 2026, the 21st International Federated Conference on Distributed Computing Techniques.
+COORDINATION 2026 is one of the three conferences of DisCoTec 2026, the 21st International Federated Conference on Distributed Computing Techniques, which will take place in Urbino, Italy in June 8-12, 2026.
 
-=== Important Dates ===
-
-For papers:
+## Important Dates (AoE)
 
 - Abstract submission: 30 January 2026
 - Paper submission: 6 February 2026
+- Artefact submission: 13 February 2026
 - Paper and Artefact notification: 27 March 2026
 - Camera-ready: 23 April 2026
+- DisCoTec/COORDINATION conference: June 8-12, 2026
 
-For artefacts:
+## Submission link
 
-- Artefact submission: 13 February 2026
-- Artefact kick-the-tires - problem reports: 23 February 2026
-- Artefact kick-the-tires - author response: 2 March 2026
-- Artefact notification: 27 March 2026
+https://easychair.org/conferences/?conf=coordination2026
 
-DisCoTec conference: June 8-12, 2026
-
-Deadlines expire at 23:59 (AoE, anywhere on earth) on the dates displayed above.
-
-=== Scope ===
+## Scope
 
 Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today’s software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
 
-=== Topics of Interest ===
+## Topics of Interest
 
 Topics of interest encompass all areas of coordination, including (but not limited to) foundational contributions, engineering techniques, tools, applications, and inter-disciplinary aspects.
 
@@ -88,32 +80,31 @@ F. Coordination Platforms, Middleware, and Tools
 * Datasets and Benchmarks for Coordination Systems
 
 
-=== Keynote Speakers ===
+## Keynote Speakers
 
 * TBD
 
 
-=== Paper  categories ===
+## Paper categories
 
-We solicit the following types of papers:
-
-- **Regular papers** (12-18 pages, not counting references and appendices): describing thorough and complete research results and experience reports. Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the Artefact Evaluation Committee, but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
+- **Regular papers** (12-18 pages, not counting references and appendices): describing thorough and complete research results and experience reports. 
+    - Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the Artefact Evaluation Committee, but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
 
 - **Survey papers** (16-25 pages, not counting references and appendices): describing important results and success stories related to the topics of COORDINATION.
 
-- **Tool papers** (4-15 pages, not counting references and appendices): describing technological artefacts in the scope of the research topics of COORDINATION. Tool papers should provide a clear account of the tool’s functionality, discuss the tool’s practical capabilities possibly with reference to the type and size of problems it can handle, and,when applicable, report on realistic case studies (possibly providing a rigorous experimental evaluation). Tool papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures. Papers that present extensions to existing tools should clearly describe the improvements or extensions with respect to previously published versions of the tool, possibly providing data on enhancements in terms of resources and capabilities. In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee. Papers may contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes length.
-
+- **Tool papers** (4-15 pages, not counting references and appendices): describing technological artefacts in the scope of the research topics of COORDINATION. 
+    - Tool papers should provide a clear account of the tool's functionality, discuss the tool's practical capabilities possibly with reference to the type and size of problems it can handle, and,when applicable, report on realistic case studies (possibly providing a rigorous experimental evaluation). Tool papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures. Papers that present extensions to existing tools should clearly describe the improvements or extensions with respect to previously published versions of the tool, possibly providing data on enhancements in terms of resources and capabilities. In addition, **the tool artefact must be submitted separately for evaluation**. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee. Papers may contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes length.
 
 See the website for EasyChair submission instructions. 
 
 
-=== Proceedings ===
+##  Proceedings
 
 The proceedings of COORDINATION, DAIS, and FORTE will be published as volumes in the Springer LNCS-IFIP series.
 The volumes will be open access from the IFIP digital library after a 3-year embargo.
 
 
-=== Journal Special Issues ===
+## Journal Special Issues
 
 After the conference, accepted papers (except for tool papers) selected from FORTE and COORDINATION programmes will be invited to a journal special issue of the Logical Methods in Computer Science, with the following tentative schedule:
 
@@ -122,8 +113,7 @@ After the conference, accepted papers (except for tool papers) selected from FOR
 
 Selected tool papers will be invited to a journal special issue of Science of Computer Programming's Software Track.
 
-=== COORDINATION Steering Committee ===
-
+##  COORDINATION Steering Committee
 
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
 * Farhad Arbab (CWI and Leiden University, The Netherlands)
@@ -156,7 +146,7 @@ Selected tool papers will be invited to a journal special issue of Science of Co
 
 
 
-=== COORDINATION 2026 Program Committee ===
+## COORDINATION 2026 Program Committee
 
 PC chairs:
 
@@ -206,3 +196,6 @@ Artefact Evaluation committee:
 
 - TBD
 
+## Contacts
+
+For any queries, please contact the PC chairs Roberto Casadei <roby.casadei@unibo.it> and Fatemeh Ghassemi <fghassemi@ut.ac.ir>.
