@@ -29,14 +29,14 @@ Modern information systems rely increasingly on combining concurrent, distribute
 
 Topics of interest encompass all areas of coordination, including (but not limited to) foundational contributions, engineering techniques, tools, applications, and inter-disciplinary aspects.
 
-A. Theoretical models and foundations for coordination:
+**A. Theoretical models and foundations for coordination**
 
 * Concurrency Theory, Composition, Distribution, Mobility, Time and Spatial Models
 * Semantics, Logic, and Type Systems
 * Probabilistic / Stochastic / Quantitative Models
 * Formal Verification & Validation, and Model Checking
 
-B. Coordination Paradigms & Languages
+**B. Coordination Paradigms & Languages**
 
 * Coordination Models & Language
 * Session Types & Communication Protocols, Choreographies, Orchestration
@@ -46,7 +46,7 @@ B. Coordination Paradigms & Languages
 * Bio-inspired / Nature-inspired Coordination
 * AI-Driven & Learning-Based Coordination 
 
-C. Distributed & Pervasive & Modern Computing 
+**C. Distributed & Pervasive & Modern Computing** 
 
 * Microservices, Web Services, and Middleware
 * Distributed, Reversible, Grid, Networked, Parallel and High-Performance Computing and Algorithms
@@ -55,7 +55,7 @@ C. Distributed & Pervasive & Modern Computing
 * Cyber-Physical Coordination, Context-awareness, Pervasive computing, Situatedness, and Human-Machine Hybrid Systems
 * Decentralised systems, Peer-to-peer computing, Smart Contracts & Blockchain Applications
 
-D. Software Engineering & Applications for Coordinated Systems
+**D. Software Engineering & Applications for Coordinated Systems**
 
 * Dynamic / Domain-Specific Software: Analysis, Models, Architecture, Patterns
 * Programming Methodologies, Programming Languages
@@ -65,13 +65,13 @@ D. Software Engineering & Applications for Coordinated Systems
 * Industrial Applications & Case Studies across fields (swarm robotics, vehicular networks, smart cities and ecosystems)
 * GenAI/LLM-based Approaches to Engineer Coordination 
 
-E. Cross-Cutting and Multi-/Inter-/Trans-Disciplinary Aspects
+**E. Cross-Cutting and Multi-/Inter-/Trans-Disciplinary Aspects**
 
 * Security, Privacy, and Dependability in Coordination
 * Adaptation, Reconfiguration, and Self-* properties
 * Interdisciplinary & Societal Aspects of Coordination
 
-F. Coordination Platforms, Middleware, and Tools
+**F. Coordination Platforms, Middleware, and Tools**
 
 * Simulation Tools and Platforms
 * Specification, Modelling, and Domain-specific Language Implementations and Workbenches
