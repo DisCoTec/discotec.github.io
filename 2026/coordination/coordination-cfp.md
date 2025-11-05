@@ -1,0 +1,208 @@
+COORDINATION 2026
+===================================================================
+CALL FOR PAPERS - COORDINATION 2026
+28th International Conference on Coordination Models and Languages
+June 8-12, 2026 - Urbino, Italy
+
+https://www.discotec.org/2026/coordination
+===================================================================
+
+COORDINATION 2026 is one of the three conferences of DisCoTec 2026, the 21st International Federated Conference on Distributed Computing Techniques.
+
+=== Important Dates ===
+
+For papers:
+
+- Abstract submission: 30 January 2026
+- Paper submission: 6 February 2026
+- Paper and Artefact notification: 27 March 2026
+- Camera-ready: 23 April 2026
+
+For artefacts:
+
+- Artefact submission: 13 February 2026
+- Artefact kick-the-tires - problem reports: 23 February 2026
+- Artefact kick-the-tires - author response: 2 March 2026
+- Artefact notification: 27 March 2026
+
+DisCoTec conference: June 8-12, 2026
+
+Deadlines expire at 23:59 (AoE, anywhere on earth) on the dates displayed above.
+
+=== Scope ===
+
+Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today’s software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
+
+=== Topics of Interest ===
+
+Topics of interest encompass all areas of coordination, including (but not limited to) foundational contributions, engineering techniques, tools, applications, and inter-disciplinary aspects.
+
+A. Theoretical models and foundations for coordination:
+
+* Concurrency Theory, Composition, Distribution, Mobility, Time and Spatial Models
+* Semantics, Logic, and Type Systems
+* Probabilistic / Stochastic / Quantitative Models
+* Formal Verification & Validation, and Model Checking
+
+B. Coordination Paradigms & Languages
+
+* Coordination Models & Language
+* Session Types & Communication Protocols, Choreographies, Orchestration
+* Actor and Agent-Based Systems
+* Multi-agent systems, agent organisations, and societies
+* Collective intelligence, Ensembles, Swarms, Self-organisation, and Emergence
+* Bio-inspired / Nature-inspired Coordination
+* AI-Driven & Learning-Based Coordination 
+
+C. Distributed & Pervasive & Modern Computing 
+
+* Microservices, Web Services, and Middleware
+* Distributed, Reversible, Grid, Networked, Parallel and High-Performance Computing and Algorithms
+* (Distributed) Run-time verification and monitoring
+* Coordination across the continuum: IoT, Edge, Fog, Cloud
+* Cyber-Physical Coordination, Context-awareness, Pervasive computing, Situatedness, and Human-Machine Hybrid Systems
+* Decentralised systems, Peer-to-peer computing, Smart Contracts & Blockchain Applications
+
+D. Software Engineering & Applications for Coordinated Systems
+
+* Dynamic / Domain-Specific Software: Analysis, Models, Architecture, Patterns
+* Programming Methodologies, Programming Languages
+* DevOps, Continuous Integration, and Automation
+* Business Process Modelling & Process Mining
+* Digital twin networks, coordination of the digital thread
+* Industrial Applications & Case Studies across fields (swarm robotics, vehicular networks, smart cities and ecosystems)
+* GenAI/LLM-based Approaches to Engineer Coordination 
+
+E. Cross-Cutting and Multi-/Inter-/Trans-Disciplinary Aspects
+
+* Security, Privacy, and Dependability in Coordination
+* Adaptation, Reconfiguration, and Self-* properties
+* Interdisciplinary & Societal Aspects of Coordination
+
+F. Coordination Platforms, Middleware, and Tools
+
+* Simulation Tools and Platforms
+* Specification, Modelling, and Domain-specific Language Implementations and Workbenches
+* Verification & Validation, Visualisation, and Testing Tools
+* Distributed Middlewares and Platforms
+* Datasets and Benchmarks for Coordination Systems
+
+
+=== Keynote Speakers ===
+
+* TBD
+
+
+=== Paper  categories ===
+
+We solicit the following types of papers:
+
+- **Regular papers** (12-18 pages, not counting references and appendices): describing thorough and complete research results and experience reports. Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the Artefact Evaluation Committee, but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
+
+- **Survey papers** (16-25 pages, not counting references and appendices): describing important results and success stories related to the topics of COORDINATION.
+
+- **Tool papers** (4-15 pages, not counting references and appendices): describing technological artefacts in the scope of the research topics of COORDINATION. Tool papers should provide a clear account of the tool’s functionality, discuss the tool’s practical capabilities possibly with reference to the type and size of problems it can handle, and,when applicable, report on realistic case studies (possibly providing a rigorous experimental evaluation). Tool papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures. Papers that present extensions to existing tools should clearly describe the improvements or extensions with respect to previously published versions of the tool, possibly providing data on enhancements in terms of resources and capabilities. In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee. Papers may contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes length.
+
+
+See the website for EasyChair submission instructions. 
+
+
+=== Proceedings ===
+
+The proceedings of COORDINATION, DAIS, and FORTE will be published as volumes in the Springer LNCS-IFIP series.
+The volumes will be open access from the IFIP digital library after a 3-year embargo.
+
+
+=== Journal Special Issues ===
+
+After the conference, accepted papers (except for tool papers) selected from FORTE and COORDINATION programmes will be invited to a journal special issue of the Logical Methods in Computer Science, with the following tentative schedule:
+
+- October/November 2026: deadline for the first submitted version;
+- February 2027: notification for the first round of reviews.
+
+Selected tool papers will be invited to a journal special issue of Science of Computer Programming's Software Track.
+
+=== COORDINATION Steering Committee ===
+
+
+* Gul Agha (University of Illinois at Urbana Champaign, USA)
+* Farhad Arbab (CWI and Leiden University, The Netherlands)
+* Simon Bliudze (INRIA Lille, France)
+* Laura Bocchi (University of Kent, UK)
+* Ferruccio Damiani (University of Turin, Italy)
+* Ornela Dardha (University of Glasgow, UK)
+* Wolfgang De Meuter (Vrije Universiteit Brussels, Belgium)
+* Rocco De Nicola (IMT School for Advanced Studies Lucca, Italy)
+* Giovanna di Marzo Serugendo (Université de Genève, Switzerland)
+* Tom Holvoet (KU Leuven, Belgium)
+* Jean-Marie Jacquet (University of Namur, Belgium)
+* Sung-Shik Jongmans (Open University of the Netherlands, Netherlands)
+* Christine Julien (University of Texas at Austin, USA)
+* Eva Kühn (Vienna University of Technology, Austria)
+* Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
+* Antónia Lopes (University of Lisbon, Portugal)
+* Michele Loreti (Università di Camerino, Italy)
+* Mieke Massink (ISTI-CNR, Pisa, Italy) - chair
+* José Proença (University of Porto, Portugal)
+* Rosario Pugliese (Università di Firenze, Italy)
+* Marjan Sirjani (Mälardalen University, Sweden)
+* Carolyn Talcott (SRI International, California, USA)
+* Maurice ter Beek (CNR-ISTI, Italy) 
+* Francesco Tiezzi (Università di Firenze, Italy)
+* Emilio Tuosto (Gran Sasso Science Institute, Italy)
+* Vasco T. Vasconcelos (University of Lisbon, Portugal)
+* Mirko Viroli (Università di Bologna, Italy)
+* Gianluigi Zavattaro (Università di Bologna, Italy)
+
+
+
+=== COORDINATION 2026 Program Committee ===
+
+PC chairs:
+
+- Roberto Casadei (University of Bologna, Italy)
+- Fatemeh Ghassemi (University of Tehran, Iran)
+
+PC members:
+
+- S. Akshay (IIT Bombay, India)
+- Giorgio Audrito (University of Turin, Italy)
+- Stephanie Balzer (CMU, USA)
+- Massimo Bartoletti (Universita’ degli Studi di Cagliari, Italy)
+- Simon Bliudze (INRIA, France)
+- Laura Bocchi (University of Kent, UK)
+- Ornela Dardha (University of Glasgow, UK)
+- Cinzia Di Giusto (Université Côte d’Azur, France)
+- Adrian Francalanza (University of Malta, Malta)
+- Silvia Ghilezan (University of Novi Sad, Mathematical Institute SASA, Serbia)
+- Ludovic Henrio (CNRS, France; IRIF)
+- Thomas T. Hildebrandt (University of Copenhagen, Denmark)
+- Dimka Karastoyanova (University of Groningen, The Netherlands)
+- Daniela Kaufmann (TU Wien)
+- Ivan Lanese (University of Bologna, Italy)
+- Michele Loreti (University of Camerino, Italy)
+- Stefano Mariani (University of Modena and Reggio Emilia, Italy)
+- Hernán C. Melgratti (University of Buenos Aires, Argentina)
+- Rosemary Monahan (National Univeristy of Ireland)
+- Fabrizio Montesi (University of Southern Denmark, Denmark)
+- Carlos López Pombo ( Universidad Nacional de Río Negro, Argentina; CONICET)
+- José Proença (University of Porto, Portugal)
+- Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
+- António Ravara (NOVA LINCS, Portugal)
+- Marjan Sirjani (Mälardalen University, Sweden)
+- Claudia Szabo (University of Adelaide)
+- Carolyn L. Talcott (SRI International, USA)
+- Silvia Lizeth Tapia Tarifa (University of Oslo, Norway)
+- Maurice H. ter Beek (ISTI-CNR, Italy)
+- Nils Timm (University of Pretoria, South Africa )
+- Emilio Tuosto (Gran Sasso Science Institute, Italy)
+- Nobuko Yoshida (University of Oxford)
+
+Artefact Evaluation chairs:
+
+- TBD
+
+Artefact Evaluation committee:
+
+- TBD
+
