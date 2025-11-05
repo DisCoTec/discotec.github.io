@@ -1,6 +1,6 @@
 
 
-# COORDINATION 2026 - 26th International Conference on Coordination Models and Languages
+# COORDINATION 2026 - 28th International Conference on Coordination Models and Languages
 
 COORDINATION 2026 is one of the three conferences of [DisCoTec 2026](.).
 
