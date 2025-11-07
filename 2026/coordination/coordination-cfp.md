@@ -99,7 +99,7 @@ See the website for EasyChair submission instructions.
 
 ### Artefacts
 
-Each type of paper can be accompanied by an **artefact**. Acceptance of the artefact will result to the application of a **badge** on the corresponding paper. A selection of artefacts could be invited to be extended and submitted as an **original software publication** to a special issue (e.g., on the Science of Computer Programming OSP track).
+Each type of paper can be accompanied by an **artefact**. Acceptance of the artefact will result to the application of a **badge** on the corresponding paper. Since 2022, a selection of artefacts has been invited to be extended and submitted as an **original software publication** to a special issue (e.g., on the Science of Computer Programming OSP track).
 
 ##  Proceedings
 
