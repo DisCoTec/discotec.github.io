@@ -71,8 +71,8 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
 ## Program committee chairs
-* [Daniel Balouek][DanielWeb] (Inria, France)
-* [Ibéria Medeiros][IberiaWeb] (University of Lisbon, Portugal)
+* [Ana Nunes Alonso][AnaWeb] (Inesctec, Portugal)
+* [Roberto Palmieri][PalmieriWeb] (Lehigh University, Pennsylvania)
 
 ## Program committee
 * Pierre Louis Aublin, IIJ Research laboratory, Japan
@@ -117,5 +117,5 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 * Jose Pereira, University of Minho / INESC TEC, Portugal
 * Luís Veiga, INESC-ID, Universidade de Lisboa, Portugal -- Chair
 
-[DanielWeb]: https://daniel-balouek.com/
-[IberiaWeb]: https://di.fc.ul.pt/~imedeiros/
+[PalmieriWeb]: https://daniel-balouek.com/](https://engineering.lehigh.edu/faculty/roberto-palmieri
+[AnaWeb]: https://www.inesctec.pt/en/people/ana-nunes-alonso
