@@ -13,6 +13,7 @@ Novel and innovative distributed applications and systems, particularly in the a
 * cloud, edge and fog computing,
 * big data processing,
 * distributed embedded machine learning (TinyML),
+* decentralised/distributed AI/ML,
 * streaming and complex event processing,
 * distributed social networking,
 * IoT and cyber-physical systems,
@@ -28,6 +29,7 @@ Novel architectures and mechanisms, particularly in the areas of
 * language-based approaches,
 * virtualization and resource allocation,
 * distributed storage,
+* large-scale data management,
 * trusted execution environments,
 * blockchains, cryptocurrencies and smart contracts, and
 * distributed consensus mechanisms.
