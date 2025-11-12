@@ -78,6 +78,7 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 
 ## Program committee
 TBC
+
 <!--
 * Pierre Louis Aublin, IIJ Research laboratory, Japan
 * Christian	Berger, University of Passau, Germany
@@ -98,8 +99,10 @@ TBC
 * Luís Antunes Veiga, University of Lisbon, Portugal
 * Spyros Voulgaris, Athens University of Economics and Business, Greece
 -->
+
 ## Artifact Evaluation Committee
 TBC
+
 <!--
 * Alan Oliveira de Sá, LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
 * Cláudia Brito, INESC TEC & U. Minho, Portugal
@@ -111,6 +114,7 @@ TBC
 * Tânia Esteves, INESC TEC & U. Minho, Portugal
 * Vinícius Vielmo Cogo (chair), LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
 -->
+
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands
 * Frank Eliassen, University of Oslo, Norway
