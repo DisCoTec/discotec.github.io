@@ -97,6 +97,9 @@ Topics of interest encompass all areas of coordination, including (but not limit
 
 See the website for EasyChair submission instructions. 
 
+### Artefacts
+
+Each type of paper can be accompanied by an **artefact**. Acceptance of the artefact will result to the application of a **badge** on the corresponding paper. Since 2022, a selection of artefacts has been invited to be extended and submitted as an **original software publication** to a special issue (e.g., on the Science of Computer Programming OSP track).
 
 ##  Proceedings
 
@@ -111,7 +114,7 @@ After the conference, accepted papers (except for tool papers) selected from FOR
 - October/November 2026: deadline for the first submitted version;
 - February 2027: notification for the first round of reviews.
 
-Selected tool papers will be invited to a journal special issue of Science of Computer Programming's Software Track.
+Selected tool papers / artefacts will be invited to a journal special issue of Science of Computer Programming's Software Track.
 
 ##  COORDINATION Steering Committee
 

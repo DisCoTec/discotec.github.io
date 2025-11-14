@@ -13,6 +13,7 @@ Novel and innovative distributed applications and systems, particularly in the a
 * cloud, edge and fog computing,
 * big data processing,
 * distributed embedded machine learning (TinyML),
+* decentralised/distributed AI/ML,
 * streaming and complex event processing,
 * distributed social networking,
 * IoT and cyber-physical systems,
@@ -28,6 +29,7 @@ Novel architectures and mechanisms, particularly in the areas of
 * language-based approaches,
 * virtualization and resource allocation,
 * distributed storage,
+* large-scale data management,
 * trusted execution environments,
 * blockchains, cryptocurrencies and smart contracts, and
 * distributed consensus mechanisms.
@@ -71,10 +73,13 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
 ## Program committee chairs
-* [Daniel Balouek][DanielWeb] (Inria, France)
-* [Ibéria Medeiros][IberiaWeb] (University of Lisbon, Portugal)
+* [Ana Nunes Alonso][AnaWeb] (Inesctec, Portugal)
+* [Roberto Palmieri][PalmieriWeb] (Lehigh University, Pennsylvania)
 
 ## Program committee
+TBC
+
+<!--
 * Pierre Louis Aublin, IIJ Research laboratory, Japan
 * Christian	Berger, University of Passau, Germany
 * David	Bermbach, TU Berlin, Germany
@@ -93,8 +98,12 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 * Ali Shoker, KAUST, Saudi Arabia
 * Luís Antunes Veiga, University of Lisbon, Portugal
 * Spyros Voulgaris, Athens University of Economics and Business, Greece
+-->
 
 ## Artifact Evaluation Committee
+TBC
+
+<!--
 * Alan Oliveira de Sá, LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
 * Cláudia Brito, INESC TEC & U. Minho, Portugal
 * Christian Berger, University of Passau, Germany
@@ -104,6 +113,7 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 * Robin Vassantlal, LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
 * Tânia Esteves, INESC TEC & U. Minho, Portugal
 * Vinícius Vielmo Cogo (chair), LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
+-->
 
 ## Steering committee
 * Lydia Y. Chen, TU Delft, Netherlands
@@ -117,5 +127,5 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 * Jose Pereira, University of Minho / INESC TEC, Portugal
 * Luís Veiga, INESC-ID, Universidade de Lisboa, Portugal -- Chair
 
-[DanielWeb]: https://daniel-balouek.com/
-[IberiaWeb]: https://di.fc.ul.pt/~imedeiros/
+[PalmieriWeb]: https://daniel-balouek.com/](https://engineering.lehigh.edu/faculty/roberto-palmieri
+[AnaWeb]: https://www.inesctec.pt/en/people/ana-nunes-alonso

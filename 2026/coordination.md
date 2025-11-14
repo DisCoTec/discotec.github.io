@@ -5,9 +5,10 @@
 COORDINATION 2026 is one of the three conferences of [DisCoTec 2026](.).
 
 ### Quick Links
+
 * [Important Dates](https://www.discotec.org/2026/dates)
-* [Submission Categories](#categories-of-papers)
 * [Submission Link](#submission-link)
+* [Submission Categories](#categories-of-papers)
 
 
 ### Dates
@@ -97,6 +98,11 @@ Go to the [list of accepted papers](https://www.discotec.org/2025/accepted-paper
 
 ## Submissions
 
+### Submission link
+
+Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordination2026](https://easychair.org/conferences/?conf=coordination2026)
+
+
 ### Submission categories:
 
 * **Regular papers** (12-18 pages, not counting references and appendices): describing thorough and complete research results and experience reports. Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the Artefact Evaluation Committee, but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
@@ -107,19 +113,16 @@ Go to the [list of accepted papers](https://www.discotec.org/2025/accepted-paper
 
 ### Artefact Submission Instructions 📣
 
-We invite you to also submit an associated artefact for evaluation (AE). Artefacts such as ancillary data, tools, and software will be assessed for availability, functionality, and reusability badges.
+We invite you to also submit an associated artefact for evaluation (AE). Artefacts such as ancillary data, tools, and software will be assessed for availability, functionality, and reusability badges (see [EAPLS artifact badges](https://eapls.org/pages/artifact_badges)).
 
-Instructions on how to upload artefacts can be found [here](COORDINATION_Artefact_Evaluation_Guidelines.pdf).
+<!-- Instructions on how to upload artefacts can be found [here](COORDINATION_Artefact_Evaluation_Guidelines.pdf). -->
 
 As advertised in the call for papers, artefact submissions are mandatory for tool papers and optional for regular papers. Tool papers must submit an artefact that, at least, satisfies the requirements for the **Functional** badge. Papers not meeting this clause are rejected. Moreover, the acceptance of artefacts is conditional on the tool paper being accepted.
 
-A selection of artefacts may be invited for submission to a special issue of Science of Computer Programming (SCP). For reference, see the selected artefacts published in the [SCP special issue from DisCoTec 2023](https://www.sciencedirect.com/special-issue/106HX5T86G0).
+A selection of artefacts may be invited for submission to a special issue of Science of Computer Programming (SCP). For reference, see the selected artefacts published in the [SCP special issue from DisCoTec 2024](https://www.sciencedirect.com/special-issue/10WV5F3DZBD).
 
 Choose the "COORDINATION Artefacts 2026" track in EasyChair when submitting your artefact.
 
-### Submission link
-
-Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordination2026](https://easychair.org/conferences/?conf=coordination2026)
 
 ### Publication
 
@@ -137,17 +140,17 @@ The proceedings of previous editions of COORDINATION are available on [SpringerL
 **Special Issues**
 Special issues hosted by more recent editions of COORDINATION are listed below.
 
-* Selected Software Artefacts from the Papers of DisCoTec 2025 - 20th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. Planned.
+* Selected Software Artefacts from the Papers of DisCoTec 2025, edited by Roberto Casadei, Duncan Paul Attard, Vinicius Vielmo Cogo, Emilio Incerto. <!-- - 20th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. --> In preparation.
 
-* Selected Software Artefacts from the Papers of DisCoTec 2024 - 19th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. Available at: [https://www.sciencedirect.com/special-issue/10WV5F3DZBD](https://www.sciencedirect.com/special-issue/10WV5F3DZBD)
+* Selected Software Artefacts from the Papers of DisCoTec 2024, edited by Roberto Casadei, Duncan Paul Attard, Rumyana Neykova, and Emanuele D'Osualdo. <!-- - 19th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. --> Available at: [https://www.sciencedirect.com/special-issue/10WV5F3DZBD](https://www.sciencedirect.com/special-issue/10WV5F3DZBD)
 
 * Selected Papers of Coordination and Forte 2023, Special Issue of Logical Methods in Computer Science, edited by Marieke Huisman, Sung-Shik Jongmans, Antónia Lopes, and António Ravara. In preparation.
 
-* Selected Software Artefacts from the Papers of DisCoTec 2023 - 18th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. In preparation. Available at: [https://www.sciencedirect.com/special-issue/106HX5T86G0](https://www.sciencedirect.com/special-issue/106HX5T86G0)
+* Selected Software Artefacts from the Papers of DisCoTec 2023, edited by Roberto Casadei, Vinicius Vielmo Cogo, Tom van Dijk, and Alceste Scalas. <!--> - 18th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. --> Available at: [https://www.sciencedirect.com/special-issue/106HX5T86G0](https://www.sciencedirect.com/special-issue/106HX5T86G0)
 
 * Selected Papers of Coordination 2022, Special Issue of Logical Methods in Computer Science, edited by Maurice ter Beek and Marjan Sirjani. Available at: [https://lmcs.episciences.org/volume/view/id/654](https://lmcs.episciences.org/volume/view/id/654)
 
-* Selected Software Artefacts from the Papers of DisCoTec 2022 - 17th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming, edited by Ferruccio Damiani, David Eyers and Anna Philippou. Available at: [https://www.sciencedirect.com/special-issue/10CVGJGQP0Z](https://www.sciencedirect.com/special-issue/10CVGJGQP0Z).
+* Selected Software Artefacts from the Papers of DisCoTec 2022, <!-- - 17th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming, --> edited by Ferruccio Damiani, David Eyers and Anna Philippou. Available at: [https://www.sciencedirect.com/special-issue/10CVGJGQP0Z](https://www.sciencedirect.com/special-issue/10CVGJGQP0Z).
 
 * Selected Papers of Coordination 2021, Special Issue of Logical Methods in Computer Science, edited by Ferruccio Damiani and Ornela Dardha. Available at: [https://lmcs.episciences.org/volume/view/id/449](https://lmcs.episciences.org/volume/view/id/449)
 
@@ -165,7 +168,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 ### Co-Chairs
 
 * [Roberto Casadei](https://robertocasadei.github.io) (University of Bologna, Italy)
-* [Fatemeh Ghassemi](http://www.fatemehghassemi.ir/) ( University of Tehran, Iran)
+* [Fatemeh Ghassemi](http://www.fatemehghassemi.ir/) (University of Tehran, Iran)
 
 <!--
 ## Publicity chair
