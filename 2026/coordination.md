@@ -179,6 +179,42 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 * TBD
 
+<!--
+- S. Akshay (IIT Bombay, India)
+- Giorgio Audrito (University of Turin, Italy)
+- Stephanie Balzer (CMU, USA)
+- Massimo Bartoletti (Universita’ degli Studi di Cagliari, Italy)
+- Simon Bliudze (INRIA, France)
+- Laura Bocchi (University of Kent, UK)
+- Ornela Dardha (University of Glasgow, UK)
+- Cinzia Di Giusto (Université Côte d’Azur, France)
+- Adrian Francalanza (University of Malta, Malta)
+- Silvia Ghilezan (University of Novi Sad, Mathematical Institute SASA, Serbia)
+- Ludovic Henrio (CNRS, France; IRIF)
+- Thomas T. Hildebrandt (University of Copenhagen, Denmark)
+- Dimka Karastoyanova (University of Groningen, The Netherlands)
+- Daniela Kaufmann (TU Wien)
+- Ivan Lanese (University of Bologna, Italy)
+- Michele Loreti (University of Camerino, Italy)
+- Stefano Mariani (University of Modena and Reggio Emilia, Italy)
+- Hernán C. Melgratti (University of Buenos Aires, Argentina)
+- Rosemary Monahan (National Univeristy of Ireland)
+- Fabrizio Montesi (University of Southern Denmark, Denmark)
+- Carlos López Pombo ( Universidad Nacional de Río Negro, Argentina; CONICET)
+- José Proença (University of Porto, Portugal)
+- Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
+- António Ravara (NOVA LINCS, Portugal)
+- Marjan Sirjani (Mälardalen University, Sweden)
+- Claudia Szabo (University of Adelaide)
+- Carolyn L. Talcott (SRI International, USA)
+- Silvia Lizeth Tapia Tarifa (University of Oslo, Norway)
+- Maurice H. ter Beek (CNR-ISTI, Italy)
+- Nils Timm (University of Pretoria, South Africa)
+- Emilio Tuosto (Gran Sasso Science Institute, Italy)
+- Nobuko Yoshida (University of Oxford)
+
+-->
+
 ### Artefact Evaluation Committee chair
 
 * TBD
@@ -206,7 +242,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
 * Antónia Lopes (University of Lisbon, Portugal)
 * Michele Loreti (Università di Camerino, Italy)
-* Mieke Massink (ISTI-CNR, Pisa, Italy) - chair
+* Mieke Massink (CNR-ISTI, Pisa, Italy) - chair
 * José Proença (University of Porto, Portugal)
 * Rosario Pugliese (Università di Firenze, Italy)
 * Marjan Sirjani (Mälardalen University, Sweden)
