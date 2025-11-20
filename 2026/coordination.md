@@ -177,9 +177,6 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 ### Programme Committee members
 
-* TBD
-
-<!--
 - S. Akshay (IIT Bombay, India)
 - Giorgio Audrito (University of Turin, Italy)
 - Stephanie Balzer (CMU, USA)
@@ -213,7 +210,6 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 - Emilio Tuosto (Gran Sasso Science Institute, Italy)
 - Nobuko Yoshida (University of Oxford)
 
--->
 
 ### Artefact Evaluation Committee chair
 
