@@ -86,7 +86,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 
 ## Program Committee Members
 * Ana Almeida Matos (University of Lisbona, PT)
-* Marco Carbone (Technical University of Denmark, DN)           
+* Marco Carbone (IT University of Copenhagen, DN)           
 * Soham Chakraborty (TU Delft, NL)          
 * Matteo  Cimini (University of Massachusetts, US)         
 * Cezara  Dragoi (Amazon Web Services)         
