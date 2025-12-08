@@ -97,7 +97,7 @@ Go to the [list of accepted papers](https://www.discotec.org/2025/accepted-paper
 
 
 ## Submissions
-Before any submission, please study Coordination [Policy for the Use of Generative AI](#policy-for-the-use-of-generative-ai) for the authors and reviewers.
+Before any submission, please study Coordination [Policy for the Use of Generative AI](#policy-for-the-use-of-generative-ai) for the authors.
 
 
 ### Submission link
@@ -221,7 +221,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 - Silvia Ghilezan (University of Novi Sad, Mathematical Institute SASA, Serbia)
 - Ludovic Henrio (CNRS, France; IRIF)
 <!-- - Thomas T. Hildebrandt (University of Copenhagen, Denmark)-->
-- Dimka Karastoyanova (University of Groningen, The Netherlands)
+<!-- - Dimka Karastoyanova (University of Groningen, The Netherlands)-->
 <!-- - Daniela Kaufmann (TU Wien)-->
 - Ivan Lanese (University of Bologna, Italy)
 - Michele Loreti (University of Camerino, Italy)
@@ -241,6 +241,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 - Nils Timm (University of Pretoria, South Africa )
 <!-- - Emilio Tuosto (Gran Sasso Science Institute, Italy)-->
 <!-- - Nobuko Yoshida (University of Oxford)-->
+
 
 ### Artefact Evaluation Committee chair
 
@@ -269,7 +270,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
 * Antónia Lopes (University of Lisbon, Portugal)
 * Michele Loreti (Università di Camerino, Italy)
-* Mieke Massink (ISTI-CNR, Pisa, Italy) - chair
+* Mieke Massink (CNR-ISTI, Pisa, Italy) - chair
 * José Proença (University of Porto, Portugal)
 * Rosario Pugliese (Università di Firenze, Italy)
 * Marjan Sirjani (Mälardalen University, Sweden)

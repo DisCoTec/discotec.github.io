@@ -77,19 +77,48 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
 ### Special Issue
-<!--Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
--->
+Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
+
 
 ## Program Committee Chairs
 * [Laura Bocchi][LauraWeb] (University of Kent, UK)
 * [Burcu Kulahcioglu Ozkan][BurcuWeb] (TU Delft, The Netherlands)
 
 ## Program Committee Members
-
+* Ana Almeida Matos (University of Lisbona, PT)
+* Marco Carbone (IT University of Copenhagen, DN)           
+* Soham Chakraborty (TU Delft, NL)          
+* Matteo  Cimini (University of Massachusetts, US)         
+* Cezara  Dragoi (Amazon Web Services)         
+* Wan Fokkink (Vrije Universiteit Amsterdam, NL)          
+* Adrian  Francalanza (University of Malta, Malta)         
+* Simon Gay (University of Glasgow, UK)       
+* Elisa Gonzalez Boix (Vrije Universiteit Brussel, BE)         
+* Ping  Hou (University of Oxford, UK)          
+* Leander Jehl (University of Stavanger, NO)         
+* Jonas Kastberg Hinrichsen (Aalborg University, DK)                
+* Cosimo  Laneve (University of Bologna, IT)         
+* Diego Marmsoler (University of Exeter, UK)        
+* Hernán Melgratti (University of Buenos Aires, AR)         
+* Maurizio  Murgia (Gran Sasso Science Institute, IT)         
+* Rodrigo Otoni (University of Groningen, NL)
+* Luca  Padovani (University of Bologna, IT)      
+* Jovanka Pantovic (University of Novi Sad, RS)
+* G. Michele Pinna (University of Cagliari, IT)          
+* Sanjiva Prasad (Indian Institute of Technology Delhi, IN)          
+* Violet Ka I Pun (Western Norway University of Applied Sciences, NO)         
+* Alceste Scalas (Technical University of Denmark, DN)       
+* Ana Sokolova (University of Salzburg, AT)          
+* Peter Thiemann (University of Freiburg, DE)           
+* Bernardo Toninho (NOVA University Lisbon, PT)         
+* Emilio  Tuosto (Gran Sasso Science Institute, IT)          
+* German  Vidal (Universitat Politecnica de Valencia, ES)          
+* Shoji Yuen (Nagoya University, JP)     
 
 ## Artefact Evaluation Committee chair
+* Emilio Incerto (IMT School for Advanced Studies Lucca, IT)
 
-## Artefact Evaluation Committee
+<!--## Artefact Evaluation Committee--->
 
 ## Steering committee
 * Christel Baier (University Dresden, Germany)
