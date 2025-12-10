@@ -127,5 +127,5 @@ TBC
 * Jose Pereira, University of Minho / INESC TEC, Portugal
 * Luís Veiga, INESC-ID, Universidade de Lisboa, Portugal -- Chair
 
-[PalmieriWeb]: https://daniel-balouek.com/](https://engineering.lehigh.edu/faculty/roberto-palmieri
+[PalmieriWeb]: https://engineering.lehigh.edu/faculty/roberto-palmieri
 [AnaWeb]: https://www.inesctec.pt/en/people/ana-nunes-alonso
