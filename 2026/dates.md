@@ -7,7 +7,7 @@ year: 2026
 
 # Important dates 
 
-* Abstract submission: Jannyary 30, 2026 <!-- January 31, 2025 -->
+* Abstract submission: Jannuary 30, 2026 <!-- January 31, 2025 -->
 * Paper submission: February 6, 2026 <!-- February 07, 2025 -->
 * Artefact submission: February 13, 2026 <!-- February 14, 2025 -->
 * Artefact kick-the-tires - problem reports: February 23, 2026 <!-- February 24, 2025 -->
