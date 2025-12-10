@@ -40,22 +40,5 @@ order: 5
 * Jorge A. Pérez (University of Groningen, The Netherlands)
 
 
-[CinziaWeb]: https://webusers.i3s.unice.fr/~cdigiusto/web/
-[AntonioWeb]: http://ctp.di.fct.unl.pt/~aravara/
-
-[DanielWeb]: https://daniel-balouek.com/
-[IberiaWeb]: https://di.fc.ul.pt/~imedeiros/
-
-[CarlaWeb]: http://ctp.di.fct.unl.pt/~cf/
 [ClaudioWeb]: https://sites.google.com/view/claudio-mezzina/home
-
-[SimonWeb]: https://www.bliudze.me/simon
-[LarisaWeb]: https://lsafina.github.io/
-[AdrienWeb]: https://luxeylab.net/
-[ImenWeb]: .
-[ManelWeb]: https://staff.info.unamur.be/mbarkall/
-[BasWeb]: https://basvdheuvel.github.io/
-[MatthewWeb]: https://matthewalanlebrun.github.io/
-[RemyWeb]: https://remyraes.com/
-
 [RobertoWeb]: https://www.unibo.it/sitoweb/roby.casadei/
