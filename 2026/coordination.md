@@ -199,8 +199,8 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 ### Co-Chairs
 
-* [Roberto Casadei](https://robertocasadei.github.io) (University of Bologna, Italy)
-* [Fatemeh Ghassemi](http://www.fatemehghassemi.ir/) (University of Tehran, Iran)
+* [Roberto Casadei][CasadeiWeb] (University of Bologna, Italy)
+* [Fatemeh Ghassemi][GhassemiWeb] (University of Tehran, Iran)
 
 <!--
 ## Publicity chair
