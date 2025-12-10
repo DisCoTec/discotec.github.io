@@ -245,7 +245,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 ### Artefact Evaluation Committee chair
 
-[Gianluca Aguzzi](https://www.unibo.it/sitoweb/gianluca.aguzzi/en) (University of Bologna, Italy)
+[Gianluca Aguzzi][AguzziWeb] (University of Bologna, Italy)
 
 ### Artefact Evaluation Committee
 
@@ -289,3 +289,4 @@ For any queries, please contact the PC chairs [Roberto Casadei](https://www.unib
 [CasadeiWeb]: https://robertocasadei.github.io
 [CasadeiInst]: https://robertocasadei.github.io
 [GhassemiWeb]: http://www.fatemehghassemi.ir/
+[AguzziWeb]: https://www.unibo.it/sitoweb/gianluca.aguzzi/en
