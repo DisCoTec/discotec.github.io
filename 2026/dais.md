@@ -64,7 +64,7 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 
 ### Submission Link
 
-Submission are via Easychair at: [https://easychair.org/conferences/?conf=dais2025](https://easychair.org/conferences/?conf=dais2025)
+Submission are via Easychair at: [https://easychair.org/conferences/?conf=dais2025](https://easychair.org/conferences/?conf=dais2026)
 
 ### Publication
 
