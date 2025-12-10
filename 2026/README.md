@@ -122,3 +122,5 @@ Please visit the page of each conference for details on these special issues.
 ## Further Information
 * Please contact the **general chair** [Claudio Antares Mezzina](mailto:claudio.mezzina@uniurb.it).
 * Follow us on [LinkedIn](https://www.linkedin.com/company/discotec-conf), [Mastodon](https://lipn.info/@DisCoTecConf), or [X](https://twitter.com/DisCoTecConf)!
+
+[ClaudioWeb]: https://robertocasadei.github.io](https://www.uniurb.it/persone/claudio-mezzina
