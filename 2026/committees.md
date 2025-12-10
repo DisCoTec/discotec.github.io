@@ -8,7 +8,7 @@ year: 2026
 ## Scientific Committees
 
 ### COORDINATION Program Committee Chairs
-* [Roberto Casadei][CasadeiWeb] (University of Bologna, Italy)
+* [Roberto Casadei][RobertoWeb] (University of Bologna, Italy)
 * [Fatemeh Ghassemi][GhassemiWeb] (University of Tehran, Iran)
 
 
@@ -48,7 +48,7 @@ year: 2026
 [VassorWeb]: https://martin.vassor.org/
 
 [GhassemiWeb]: http://www.fatemehghassemi.ir/
-[RobertoWeb]: https://www.unibo.it/sitoweb/roby.casadei/
+[RobertoWeb]: https://robertocasadei.github.io/
 [AguzziWeb]: https://www.unibo.it/sitoweb/gianluca.aguzzi/en
 
 [PalmieriWeb]: https://engineering.lehigh.edu/faculty/roberto-palmieri
