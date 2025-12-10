@@ -4,7 +4,7 @@
 FORTE 2026 is one of the three conferences of [DisCoTec 2026](.), the 21th International Federated Conference on Distributed Computing Techniques.
 
 ### Quick Links:
-* [Important Dates](https://www.discotec.org/2025/#important-dates)
+* [Important Dates](https://www.discotec.org/2026/important-dates)
 * [Topics of Interest](#main-topics-of-interest)
 * [Submission Categories](#categories-of-papers)
 * [Publication](#Publication)
