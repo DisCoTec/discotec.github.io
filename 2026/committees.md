@@ -40,22 +40,15 @@ order: 5
 * Jorge A. Pérez (University of Groningen, The Netherlands)
 
 
-[CinziaWeb]: https://webusers.i3s.unice.fr/~cdigiusto/web/
-[AntonioWeb]: http://ctp.di.fct.unl.pt/~aravara/
-
-[DanielWeb]: https://daniel-balouek.com/
-[IberiaWeb]: https://di.fc.ul.pt/~imedeiros/
-
-[CarlaWeb]: http://ctp.di.fct.unl.pt/~cf/
 [ClaudioWeb]: https://sites.google.com/view/claudio-mezzina/home
+[EspositoWeb]: https://www.uniurb.it/persone/andrea-esposito
 
-[SimonWeb]: https://www.bliudze.me/simon
-[LarisaWeb]: https://lsafina.github.io/
-[AdrienWeb]: https://luxeylab.net/
-[ImenWeb]: .
-[ManelWeb]: https://staff.info.unamur.be/mbarkall/
-[BasWeb]: https://basvdheuvel.github.io/
-[MatthewWeb]: https://matthewalanlebrun.github.io/
-[RemyWeb]: https://remyraes.com/
-
+[GhassemiWeb]: http://www.fatemehghassemi.ir/
 [RobertoWeb]: https://www.unibo.it/sitoweb/roby.casadei/
+[AguzziWeb]: https://www.unibo.it/sitoweb/gianluca.aguzzi/en
+
+[PalmieriWeb]: https://engineering.lehigh.edu/faculty/roberto-palmieri
+[AnaWeb]: https://www.inesctec.pt/en/people/ana-nunes-alonso
+
+[BurcuWeb]: https://burcuku.github.io/home/
+[LauraWeb]: https://www.kent.ac.uk/school-of-computing/people/3119/bocchi-laura
