@@ -1,7 +1,8 @@
 ---
 title: Committees
 menu_show: true
-order: 5
+order: 2
+year: 2026
 ---
 
 ## Scientific Committees
