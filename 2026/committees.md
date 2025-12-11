@@ -28,7 +28,7 @@ year: 2026
 ## Organizing Committee
 * [Claudio Antares Mezzina][ClaudioWeb], General Chair (University of Urbino, Italy)
 * [Sara Montagna] [SaraWeb], Gender-equality (University of Urbino, Italy))
-* [Pierluigi Graziani] [PierWer], Local organizer (University of Urbino, Italy)
+* [Pierluigi Graziani] [PierWeb], Local organizer (University of Urbino, Italy)
 * [Andrea Esposito][EspositoWeb], Satellite Events Chair (University of Urbino, Italy)
 * [Martin Vassor][EspositoWeb], Publicity Chair (University of Loria, France)
 
