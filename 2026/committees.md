@@ -21,7 +21,7 @@ year: 2026
 * [Burcu Kulahcioglu Ozkan][BurcuWeb] (TU Delft, The Netherlands)
 
 ### Artefact Evaluation Chairs
-* [Gianluca Aguzzi][AguzziWeb] (University of Bologna, Italy)
+* [Gianluca Aguzzi][AguzziWeb] COORDINATION (University of Bologna, Italy)
 * [Emilio Incerto](https://sysma.imtlucca.it/people/emilio-incerto), FORTE (IMT School for Advanced Studies Lucca, Italy)
 
 
