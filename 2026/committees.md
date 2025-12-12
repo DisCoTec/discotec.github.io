@@ -34,6 +34,7 @@ year: 2026
 
 
 ## Steering Committee
+* Simon Bluidze (Inria Center of the University of Lille, France)
 * Rocco De Nicola (IMT School for Advanced Studies Lucca, Italy)
 * Adrian Francalanza, Chair (University of Malta, Malta)
 * Ivan Lanese (University of Bologna/INRIA, Italy)
