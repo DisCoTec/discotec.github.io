@@ -17,8 +17,8 @@ For papers:
 
 - **Abstract submission: 30 January 2026**
 - **Paper submission: 6 February 2026**
-- Paper and Artefact notification: 27 March 2026
-- Camera-ready: 23 April 2026
+- Paper and Artefact notification: 24 March 2026
+- Camera-ready: 3 April 2026 (hard)
 
 For artefacts:
 
@@ -171,29 +171,28 @@ The proceedings of previous editions of COORDINATION are available on [SpringerL
 
 **Special Issues**
 Special issues hosted by more recent editions of COORDINATION are listed below.
+* *Selected Software Artefacts from the Papers of DisCoTec 2025*, edited by Roberto Casadei, Duncan Paul Attard, Vinicius Vielmo Cogo, Emilio Incerto. In preparation.
 
-* Selected Software Artefacts from the Papers of DisCoTec 2025, edited by Roberto Casadei, Duncan Paul Attard, Vinicius Vielmo Cogo, Emilio Incerto. <!-- - 20th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. --> In preparation.
+* *[Selected Software Artefacts from the Papers of DisCoTec 2024](https://www.sciencedirect.com/special-issue/10WV5F3DZBD)*, Special Issue of Science of Computer Programming, edited by Roberto Casadei, Duncan Paul Attard, Rumyana Neykova, and Emanuele D'Osualdo.
 
-* Selected Software Artefacts from the Papers of DisCoTec 2024, edited by Roberto Casadei, Duncan Paul Attard, Rumyana Neykova, and Emanuele D'Osualdo. <!-- - 19th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. --> Available at: [https://www.sciencedirect.com/special-issue/10WV5F3DZBD](https://www.sciencedirect.com/special-issue/10WV5F3DZBD)
+* *Selected Papers of Coordination and Forte 2023*, Special Issue of Logical Methods in Computer Science, edited by Marieke Huisman, Sung-Shik Jongmans, Antónia Lopes, and António Ravara. In preparation.
 
-* Selected Papers of Coordination and Forte 2023, Special Issue of Logical Methods in Computer Science, edited by Marieke Huisman, Sung-Shik Jongmans, Antónia Lopes, and António Ravara. In preparation.
+* *[Selected Software Artefacts from the Papers of DisCoTec 2023](https://www.sciencedirect.com/special-issue/106HX5T86G0)*, Special Issue of Science of Computer Programming, edited by Roberto Casadei, Vinicius Vielmo Cogo, Tom van Dijk, and Alceste Scalas.
 
-* Selected Software Artefacts from the Papers of DisCoTec 2023, edited by Roberto Casadei, Vinicius Vielmo Cogo, Tom van Dijk, and Alceste Scalas. <!--> - 18th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming. --> Available at: [https://www.sciencedirect.com/special-issue/106HX5T86G0](https://www.sciencedirect.com/special-issue/106HX5T86G0)
+* *[Selected Papers of Coordination 2022](https://lmcs.episciences.org/volume/view/id/654)*, Special Issue of Logical Methods in Computer Science, edited by Maurice ter Beek and Marjan Sirjani.
 
-* Selected Papers of Coordination 2022, Special Issue of Logical Methods in Computer Science, edited by Maurice ter Beek and Marjan Sirjani. Available at: [https://lmcs.episciences.org/volume/view/id/654](https://lmcs.episciences.org/volume/view/id/654)
+* *[Selected Software Artefacts from the Papers of DisCoTec 2022](https://www.sciencedirect.com/special-issue/10CVGJGQP0Z)*, Special Issue of Science of Computer Programming, edited by Ferruccio Damiani, David Eyers, and Anna Philippou.
 
-* Selected Software Artefacts from the Papers of DisCoTec 2022, <!-- - 17th International Federated Conference on Distributed Computing Techniques, Special Issue of Science of Computer Programming, --> edited by Ferruccio Damiani, David Eyers and Anna Philippou. Available at: [https://www.sciencedirect.com/special-issue/10CVGJGQP0Z](https://www.sciencedirect.com/special-issue/10CVGJGQP0Z).
+* *[Selected Papers of Coordination 2021](https://lmcs.episciences.org/volume/view/id/449)*, Special Issue of Logical Methods in Computer Science, edited by Ferruccio Damiani and Ornela Dardha.
 
-* Selected Papers of Coordination 2021, Special Issue of Logical Methods in Computer Science, edited by Ferruccio Damiani and Ornela Dardha. Available at: [https://lmcs.episciences.org/volume/view/id/449](https://lmcs.episciences.org/volume/view/id/449)
+* *[Selected Papers of Coordination 2020](https://lmcs.episciences.org/volume/view/id/415)*, Special Issue of Logical Methods in Computer Science, edited by Simon Bliudze and Laura Bocchi.
 
-* Selected Papers of Coordination 2020, Special Issue of Logical Methods in Computer Science, edited by Simon Bliudze and Laura Bocchi. Available at: [https://lmcs.episciences.org/volume/view/id/415](https://lmcs.episciences.org/volume/view/id/415)
+* *[Selected Tool Papers of Coordination 2020 and Coordination 2021](https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/1046VCJSPCD)*, Special Issue of Science of Computer Programming, edited by Hugo Vieira, Omar Inverso and Giorgio Audrito.
 
-* Selected Tool Papers of Coordination 2020 and Coordination 2021, Special Issue of Science of Computer Programming, edited by Hugo Vieira, Omar Inverso and Giorgio Audrito. Available at: [https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/1046VCJSPCD](https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/1046VCJSPCD)
+* *[Selected Papers of Coordination 2019](https://lmcs.episciences.org/volume/view/id/377)*, Special Issue of Logical Methods in Computer Science, edited by Emilio Tuosto and Hanne Riis Nielsen.
 
+* *[Selected Tool Papers of Coordination 2019](https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/10H4835TWK9)*, Special Issue of Science of Computer Programming, edited by Hugo Torres Vieira and Omar Inverso.
 
-* Selected Papers of Coordination 2019,  Special Issue of Logical Methods in Computer Science, edited by Emilio Tuosto and Hanne Riis Nielsen. Available at: [https://lmcs.episciences.org/volume/view/id/377](https://lmcs.episciences.org/volume/view/id/377)
-
-* Selected Tool Papers of Coordination 2019, Special Issue of Science of Computer Programming, edited by Hugo Torres Vieira and Omar Inverso. Available at: [https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/10H4835TWK9](https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/10H4835TWK9)
 
 ## Programme Committee
 
