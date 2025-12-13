@@ -209,7 +209,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 ### Programme Committee members
 
-<!--- S. Akshay (IIT Bombay, India)-->
+- S. Akshay (IIT Bombay, India)
 - Duncan Paul Attard (University of Malta, Malta)
 - Giorgio Audrito (University of Turin, Italy)
 <!-- Stephanie Balzer (CMU, USA)-->
