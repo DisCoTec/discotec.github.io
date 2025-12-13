@@ -210,6 +210,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 ### Programme Committee members
 
 <!--- S. Akshay (IIT Bombay, India)-->
+- Duncan Paul Attard (University of Malta, Malta)
 - Giorgio Audrito (University of Turin, Italy)
 <!-- Stephanie Balzer (CMU, USA)-->
 <!-- - Massimo Bartoletti (Universita’ degli Studi di Cagliari, Italy)-->
@@ -218,17 +219,19 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 <!-- - Ornela Dardha (University of Glasgow, UK)-->
 - Cinzia Di Giusto (Université Côte d’Azur, France)
 <!-- - Adrian Francalanza (University of Malta, Malta)-->
+- Francisco Ferreira (University of London, UK)
 - Silvia Ghilezan (University of Novi Sad, Mathematical Institute SASA, Serbia)
 - Ludovic Henrio (CNRS, France; IRIF)
-<!-- - Thomas T. Hildebrandt (University of Copenhagen, Denmark)-->
+- Thomas T. Hildebrandt (University of Copenhagen, Denmark)
+- Ping Hou (University of Oxford, UK)
 <!-- - Dimka Karastoyanova (University of Groningen, The Netherlands)-->
 <!-- - Daniela Kaufmann (TU Wien)-->
 - Ivan Lanese (University of Bologna, Italy)
 - Michele Loreti (University of Camerino, Italy)
 - Stefano Mariani (University of Modena and Reggio Emilia, Italy)
-<!-- - Hernán C. Melgratti (University of Buenos Aires, Argentina)-->
+- Hernán C. Melgratti (University of Buenos Aires, Argentina)
 <!-- - Rosemary Monahan (National Univeristy of Ireland)-->
-<!-- - Fabrizio Montesi (University of Southern Denmark, Denmark)-->
+- Fabrizio Montesi (University of Southern Denmark, Denmark)
 - Carlos López Pombo ( Universidad Nacional de Río Negro, Argentina; CONICET)
 - José Proença (University of Porto, Portugal)
 - Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
