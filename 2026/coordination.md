@@ -105,7 +105,7 @@ Before any submission, please study Coordination [Policy for the Use of Generati
 Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordination2026](https://easychair.org/conferences/?conf=coordination2026)
 
 
-### Submission categories:
+### Submission categories
 
 * **Regular papers** (12-18 pages, not counting references and appendices): describing thorough and complete research results and experience reports. Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the Artefact Evaluation Committee, but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
 
