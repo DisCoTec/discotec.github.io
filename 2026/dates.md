@@ -1,7 +1,7 @@
 ---
 title: Dates
-menu_show: false
-order: 1
+menu_show: true
+order: 3
 year: 2026
 ---
 
