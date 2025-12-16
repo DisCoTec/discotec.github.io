@@ -14,7 +14,7 @@ year: 2026
 * Artefact kick-the-tires - author response: March 2, 2026 <!-- March 3, 2025 -->
 * Artefact notification: March 27, 2026 <!-- March 28, 2025 -->
 * Paper notification: March 27, 2026 <!-- March 28, 2025 -->
-* Camera-ready: TBC <!-- April 23, 2025 -->
+* Camera-ready: April 3, 2026 <!-- April 23, 2025 -->
 * Conference:  June 8-12, 2026
 
 Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
