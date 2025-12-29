@@ -64,7 +64,7 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 
 ### Submission Link
 
-Submission are via Easychair at: [https://easychair.org/conferences/?conf=dais2025](https://easychair.org/conferences/?conf=dais2026)
+Submission are via Easychair at: [https://easychair.org/conferences/?conf=dais2026](https://easychair.org/conferences/?conf=dais2026)
 
 ### Publication
 
@@ -82,21 +82,11 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 * Christian	Berger, University of Passau, Germany
 * David	Bermbach, TU Berlin, Germany
 * Lorenzo	Carnevale, Universty of Messina, Italy
-<!--* Zhiyuan	Chen, University of Maryland Baltimore County, USA-->
 * Davide Frey, Inria, France
-<!--* Shashikant Ilager, University of Amsterdam, Netherlands-->
 * Pradeeban	Kathiravelu, University of Alaska Anchorage, USA
 * Odorico Machado	Mendizabal, Federal University of Santa Catarina, Brazil
-<!--* Anas Mokhtari, Morocco
-* Guillaume Pierre, University of Rennes/Inria/CNRS/IRISA, France
-* Hans Reiser, Reykjavik University, Iceland-->
 * Etienne	Rivière, UC Louvain, Belgique
-<!--* Guillaume	Rosinosky, IMT Atlantique, France-->
 * Valerio	Schiavoni, University of Neuchâtel, Switzerland
-<!--* Ali Shoker, KAUST, Saudi Arabia
-* Luís Antunes Veiga, University of Lisbon, Portugal
-* Spyros Voulgaris, Athens University of Economics and Business, Greece
--->
 * Cláudia Brito, INESC TEC, Portugal
 * João Leitão, UNL, Portugal
 * Ahmed Hassan, Lehigh University, USA
@@ -119,16 +109,26 @@ TBC
 -->
 
 ## Steering committee
-* Lydia Y. Chen, TU Delft, Netherlands
-* Frank Eliassen, University of Oslo, Norway
+
+* Daniel Balouek,	Inria, France
+* Silvia Bonomi, Università degli Studi di Roma “La Sapienza”, Italy
+* Lydia Y. Chen, University of Neuchâtel, Switzerland
+* David Eyers, University of Otago, NZ
+* Frank Eliassen,	University of Oslo, Norway
 * Rüdiger Kapitza, Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany
-* Rui Oliveira, University of Minho / INESC TEC, Portugal
-* Hans P. Reiser, Reykjavik University, Iceland
-* Laura Ricci, University of Pisa, Italy
-* Silvia Bonomi, Università degli Studi di Roma "La Sapienza”, Italy
-* Etienne Riviére, Ecole Polytechnique de Louvain, Belgium
+* Marta Patino-Martínez, Technical University of Madrid, Spain
+* João Paulo, University of Minho, Portugal
 * Jose Pereira, University of Minho / INESC TEC, Portugal
-* Luís Veiga, INESC-ID, Universidade de Lisboa, Portugal -- Chair
+* Rolando Martins, University of Porto, Portugal
+* Miguel Matos, University of Lisboa & INESC-ID, Portugal
+* Ibéria Medeiros, University of Lisbon, Portugal
+* Laura Ricci, University of Pisa, Italy
+* Hans P. Reiser,	Reykjavik University, Iceland
+* Anne Remke,	University of Münster, Germany
+* Etienne Riviére, UCLouvain, Belgium
+* Valerio Schiavoni (Chair)	University of Neuchâtel, Switzerland
+* Mennan Selimi,	South East European University, North Macedonia
+* Spyros Voulgaris, Athens University of Economics and Business, GR
 
 [PalmieriWeb]: https://engineering.lehigh.edu/faculty/roberto-palmieri
 [AnaWeb]: https://www.inesctec.pt/en/people/ana-nunes-alonso
