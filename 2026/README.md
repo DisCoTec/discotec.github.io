@@ -21,7 +21,7 @@ DisCoTec 2025 will host the following invited speakers.
 
 ### Keynote Talks
 * [Paolo Romano](https://www.dpss.inesc-id.pt/~romanop/) (NESC-ID, PT, ) - [DAIS](./dais)
-* [Nathalie Bertrand] (https://people.rennes.inria.fr/Nathalie.Bertrand/) (Inria) - [FORTE](./forte)
+* [Nathalie Bertrand](https://people.rennes.inria.fr/Nathalie.Bertrand/) (Inria) - [FORTE](./forte)
 <!--
 ### Tutorials
 
