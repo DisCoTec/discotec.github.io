@@ -13,19 +13,16 @@ DisCoTec gathers conferences that cover a broad spectrum of distributed computin
 * [DAIS 2026](dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2026](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
-<!---
+
 ## Invited Speakers
 
 DisCoTec 2025 will host the following invited speakers.
 [See here](./invited) for details.
 
 ### Keynote Talks
-
-* [Alysson Bessani](https://ciencias.ulisboa.pt/en/perfil/anbessani) (Universidade de Lisboa, Portugal) - [DAIS](./dais)
-* [Hélène Coullon](http://helene-coullon.fr/) (IMT Atlantique, France) - DisCoTec-wide
-* [Omar Inverso](https://www.gssi.it/people/professors/lectures-computer-science/item/1018-inverso-omar) (GSSI, Italy) - [COORDINATION](./coordination)
-* [Burcu Kulahcioglu Ozkan](https://burcuku.github.io/home/) (TU Delft, The Netherlands) - [FORTE](./forte)
-
+* [Paolo Romano](https://www.dpss.inesc-id.pt/~romanop/) (NESC-ID, PT, ) - [DAIS](./dais)
+* [Nathalie Bertrand] (https://people.rennes.inria.fr/Nathalie.Bertrand/) (Inria) - [FORTE](./forte)
+<!--
 ### Tutorials
 
 * [Baptiste Jonglez](#baptiste-jonglez-inria-france---dais) (Inria, France) - [DAIS](./dais)
