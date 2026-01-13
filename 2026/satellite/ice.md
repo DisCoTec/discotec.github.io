@@ -2,7 +2,7 @@
 
 [Interaction and Concurrency Experiences (ICE)](https://ice-workshop.github.io) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. 
 
-ICE 2025 is a satellite workshop of [DisCoTec 2025](https://www.discotec.org/2025/), held on June 20th in [Lille, France](venue).
+ICE 2026 is a satellite workshop of [DisCoTec 2026](https://www.discotec.org/2029/), held on ... [Urbino, Italy](venue).
 
 ## Highlights
 
@@ -16,12 +16,6 @@ ICE 2025 is a satellite workshop of [DisCoTec 2025](https://www.discotec.org/202
 
 ## Important Dates
 
-- April 9th, 2025            : Paper submission deadline
-- April 10th -- May 2nd      : Forum interaction, reviews, and PC discussion
-- May 5th                    : Notification to authors
-- June 20th                  : Workshop in Lille, France
-- July 20th (tentative)      : Camera-ready for post-proceedings
-- October 2025 (tentative)   : Invitation to special issue
 
 All dates are in the [Anywhere on Earth time zone](https://time.is/Anywhere_on_Earth).
 
@@ -46,39 +40,9 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 ## Accepted Papers
 
-**The [proceedings have been published as volume 425 of EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ICE2025).**
-
-*Links below are to **informal** pre-proceedings.* 
-
-- [*Modular Multiparty Sessions with Mixed Choice*](ice_preproceedings/Modular_Multiparty_Sessions_with_Mixed_Choice.pdf) by Franco Barbanera, Mariangiola Dezani
-- [*Identity Crisis in Attested TLS for Confidential Computing (Oral communication)*](ice_preproceedings/Identity_Crisis_in_Attested_TLS_for_Confidential_Computing.pdf) by Muhammad Usama Sardar
-- [*Reactive Semantics for User Interface Description Languages*](ice_preproceedings/Reactive_Semantics_for_User_Interface_Description_Languages.pdf) by Basile Pesin, Celia Picard, Cyril Allignol 
-- [*Bisimilarity and Simulatability of Processes Parameterized by Join Interactions*](ice_preproceedings/Bisimilarity_and_Simulatability_of_Processes.pdf) by Clemens Grabmayer and Maurizio Murgia
-- [*A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga*](ice_preproceedings/A_Formalization_of_the_Reversible_Concurrent_Calculus_CCSKP_in_Beluga.pdf) by Gabriele Cecilia
 
 
-## Programme {#programme} 
 
-*All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
-
-| Time CEST   |  |
-| ------------| ------- | 
-| 9:00-9:15   | [Opening](ice_slides/opening.pdf) |
-| 9:15-10:15  | [Kirstin Peters](#invited-speaker-kirstin-peters) -- [*On the Expressiveness of MPST*](ice_slides/K_Peters.pdf) (Invited talk) |
-| 10:30-11:00 | **Coffee break** |
-| 11:00-11:30 | [*Modular Multiparty Sessions with Mixed Choice*](ice_slides/F_Barbanera.pdf) (presented by F. Barbanera) |
-| 11:30-11:40 | **Fire drill** |
-| 11:40-11:55 | [*Modular Multiparty Sessions with Mixed Choice*](ice_slides/F_Barbanera.pdf) (contd) |
-| 11:55-12:40 | [*Reactive Semantics for User Interface Description Languages*](ice_slides/B_Pesin.pdf) (presented by B. Pesin) |
-| 12:40-14:00 | **Lunch** |
-| 14:00-14:45 | [*Bisimilarity and Simulatability of Processes Parameterized by Join Interactions*](ice_slides/M_Murgia.pdf) (presented by M. Murgia) |
-| 14:45-15:30 | [*A Formalization of the Reversible Concurrent Calculus CCSK<sup>P</sup> in Beluga*](ice_slides/G_Cecilia.pdf) (presented by G. Cecilia) |
-| 15:30-16:00 | **Coffee break** |
-| 16:00-16:45 | *Identity Crisis in Attested TLS for Confidential Computing (Oral communication)* (presented by M. U. Sardar) |
-| 16:45-17:15 | Panel meeting |
-| 19:30-?? | **Event dinner at [L’Estaminet du Welsh](https://estaminetlille.fr/nos-estaminets/lestaminet-du-welsh/). [OpenStreetMap](https://osm.org/go/0EgIvB5Vk?node=2303894717), [Google Maps](https://maps.app.goo.gl/28m11zXFh6gBcCd58)** |
-
-*Links are to slides.*
 
 ## The ICE Selection Procedure
 
@@ -114,17 +78,7 @@ Accepted research papers will be published after the workshop in [Electronic Pro
 
 We plan to invite authors of selected papers and brief announcements to submit their work in a special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_. Such contributions will be regularly peer-reviewed according to the standard journal policy, but they will be handled in a shorter time than regular submissions. A list of published and in preparation special issues of previous ICE editions is reported below.
 
-## Invited Speaker: Kirstin Peters
 
-### Talk: On the Expressiveness of MPST
-
-> Multiparty session types (MPST) are a type discipline for enforcing the structured, deadlock-free communication of concurrent and message-passing programs. In this talk we will analyse the expressive power of MPST. In particular, we are interested in features that mark the difference expressive power of synchronous and asynchronous distributed languages. In the synchronous pi-calculus mixed choice is the main ingredient for its expressive power. Traditional MPST have in contrast usually a limited form of choice, in which alternative communication possibilities are offered by a single participant and selected by another. Accordingly, we extend MPST by a more general mixed choice construct.
-
-### Biography
-
-Kirstin Peters studied computer science at the university of Potsdam, did [her PhD at the technical university of Berlin](http://dx.doi.org/10.14279/depositonce-3416).
-After some stops at [Uppsala University](https://www2.it.uu.se/research/group/concurrency) and the [technical university of Dresden](https://tu-dresden.de/ing/informatik/ressourcen/dateien/newsletter/Newsletter-Oktober11.pdf?lang=de), she had a [junior professorship at the technical university of Darmstadt](https://www.informatik.tu-darmstadt.de/fb20/aktuelles_fb20/fb20_neuigkeiten/neuigkeiten_fb20_details_169856.de.jsp).
-Since April 2022, she is a [professor at the university of Augsburg](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/).
 
 
 ## ICEcreamers
