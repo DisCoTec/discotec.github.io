@@ -20,8 +20,8 @@ DisCoTec 2026 will host the following invited speakers.
 [See here](./invited) for details.
 
 ### Keynote Talks
-* [Paolo Romano](https://www.dpss.inesc-id.pt/~romanop/) (NESC-ID, PT, ) - [DAIS](./dais)
-* [Nathalie Bertrand](https://people.rennes.inria.fr/Nathalie.Bertrand/) (Inria) - [FORTE](./forte)
+* [Paolo Romano](https://www.dpss.inesc-id.pt/~romanop/) (NESC-ID, PT) - [DAIS](./dais)
+* [Nathalie Bertrand](https://people.rennes.inria.fr/Nathalie.Bertrand/) (Inria, FR) - [FORTE](./forte)
 
 ## Further Information
 * Please contact the **general chair** [Claudio Antares Mezzina](mailto:claudio.mezzina@uniurb.it).
