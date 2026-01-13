@@ -16,7 +16,7 @@ DisCoTec gathers conferences that cover a broad spectrum of distributed computin
 
 ## Invited Speakers
 
-DisCoTec 2025 will host the following invited speakers.
+DisCoTec 2026 will host the following invited speakers.
 [See here](./invited) for details.
 
 ### Keynote Talks
