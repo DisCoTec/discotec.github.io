@@ -2,7 +2,7 @@
 
 [Interaction and Concurrency Experiences (ICE)](https://ice-workshop.github.io) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. 
 
-ICE 2026 is a satellite workshop of [DisCoTec 2026](https://www.discotec.org/2026/), held on ... [Urbino, Italy](venue).
+ICE 2026 is a satellite workshop of [DisCoTec 2026](https://www.discotec.org/2026/), held on TDB [Urbino, Italy](venue).
 
 ## Highlights
 
