@@ -63,7 +63,6 @@ As advertised in the call for papers, artefact submissions are mandatory for too
 
 New artifact submissions are managed via EasyChair at the folloing link.
 
-### Submission Link
 [Submission Link](https://easychair.org/conferences2/submissions?a=35988811)
 
 <!--### Accepted papers
