@@ -61,11 +61,10 @@ Instructions on how to upload artefacts can be found [here](FORTE_Artefact_Evalu
 
 As advertised in the call for papers, artefact submissions are mandatory for tool papers and optional for regular papers. Tool papers must submit an artefact that, at least, satisfies the requirements for the **Functional** badge. Papers not meeting this clause are rejected. Moreover, the acceptance of artefacts is conditional on the tool paper being accepted.
 
-Choose the "FORTE 2026 Artefact Evaluation" track in EasyChair when submitting your artefact.
+For submitting a new artefact, submit it to the main FORTE 2026 research track by indicating in the title that the paper belongs to the  "FORTE 2026 Artefact Evaluation" track.
 
-<!--### Submission Link
-[Submission Link](https://easychair.org/conferences/?conf=forte2025)
-  -->
+### Submission Link
+[Submission Link](https://easychair.org/conferences/?conf=forte2026)
 
 <!--### Accepted papers
 Go to the [**dedicated page**](accepted-papers)
