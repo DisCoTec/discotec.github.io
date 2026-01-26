@@ -271,10 +271,9 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Eva Kühn (Vienna University of Technology, Austria)
 * Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
 * Antónia Lopes (University of Lisbon, Portugal)
-* Michele Loreti (Università di Camerino, Italy)
-* Mieke Massink (CNR-ISTI, Pisa, Italy) - chair
+* Michele Loreti (Università di Camerino, Italy) - **chair**
+* Mieke Massink (CNR-ISTI, Pisa, Italy) 
 * José Proença (University of Porto, Portugal)
-* Rosario Pugliese (Università di Firenze, Italy)
 * Marjan Sirjani (Mälardalen University, Sweden)
 * Carolyn Talcott (SRI International, California, USA)
 * Maurice ter Beek (CNR-ISTI, Italy)

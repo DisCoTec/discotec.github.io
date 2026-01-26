@@ -39,7 +39,7 @@ year: 2026
 * Adrian Francalanza, Chair (University of Malta, Malta)
 * Ivan Lanese (University of Bologna/INRIA, Italy)
 * Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
-* Mieke Massink (CNR-ISTI, Italy)
+* Michele Loreti (University of Camerino, Italy)
 * Luís Veiga (INESC-ID, Universidade de Lisboa, Portugal)
 * Gianluigi Zavattaro (University of Bologna, Italy)
 * Carla Ferreira (NOVA University of Lisbon, Portugal)
