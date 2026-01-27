@@ -61,9 +61,9 @@ Instructions on how to upload artefacts can be found [here](FORTE_Artefact_Evalu
 
 As advertised in the call for papers, artefact submissions are mandatory for tool papers and optional for regular papers. Tool papers must submit an artefact that, at least, satisfies the requirements for the **Functional** badge. Papers not meeting this clause are rejected. Moreover, the acceptance of artefacts is conditional on the tool paper being accepted.
 
-New artifact submissions are managed via EasyChair at the folloing link:
+New artifact submissions are managed via EasyChair at the following link:
 
-[Submission Link](https://easychair.org/conferences2/submissions?a=35988811)
+[Submit your artifact](https://easychair.org/conferences2/submissions?a=35988811)
 
 <!--### Accepted papers
 Go to the [**dedicated page**](accepted-papers)
