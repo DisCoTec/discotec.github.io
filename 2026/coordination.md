@@ -258,7 +258,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 - Davide Domini (University of Bologna, Italy)
 - Nicolas Farabegoli (University of Bologna, Italy)
-<!-- - Mário Pereira (NOVA School of Science and Technology, Portugal)-->
+- Mário Pereira (NOVA School of Science and Technology, Portugal)
 - Gerard Tabone (University of Malta, Malta)
 <!-- -Jasmine Xuereb (University of Malta, Malta)-->
 - Laura Voinea (University of Glasgow, UK)
