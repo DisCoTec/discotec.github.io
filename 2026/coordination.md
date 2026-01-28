@@ -154,6 +154,9 @@ Below we list the acceptable and unacceptable uses of generative AI for authors.
 - Firstly, writing reviews is an important part of the scientific process and they require scientific judgement.  PC members should use their expertise in the field for producing an insightful, professional, and constructive personal review.
 - Secondly, review processes are in general confidential and should not be shared with third parties, including commercial LLM providers. So, even the use of generative AI just to improve English and the readability of reviews is discouraged.-->
 
+### Review
+
+The review process is **single-blind**. We will try to provide at least three reviews per paper.
 
 
 ### Publication
