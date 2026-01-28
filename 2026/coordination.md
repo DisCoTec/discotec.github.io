@@ -261,10 +261,10 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 <!-- - Mário Pereira (NOVA School of Science and Technology, Portugal)-->
 - Gerard Tabone (University of Malta, Malta)
 <!-- -Jasmine Xuereb (University of Malta, Malta)-->
-Laura Voinea (University of Glasgow, UK)
+- Laura Voinea (University of Glasgow, UK)
 <!-- -Felix Stutz (University of Luxembourg, Luxembourg)-->
 <!-- -Tiago Cogumbreiro (UMass Boston, USA)-->
-Lorenzo Rossi (University of Camerino, Italy)
+- Lorenzo Rossi (University of Camerino, Italy)
 
 ## Steering Committee
 
