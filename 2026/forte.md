@@ -117,10 +117,9 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Emilio Incerto (IMT School for Advanced Studies Lucca, IT)
 
 ## Artefact Evaluation Committee
-* Bas Van Den Heuvel (Karlsruhe University of Applied Sciences)
 * Gerard Tabone (University of Malta)
 * Daniele Masti (Gran Sasso Science Institute)
-* Dominika Regéciová (Brno University of Technology)
+* Maurizio Murgia (Gran Sasso Science Institute)
 
 
 ## Steering committee
