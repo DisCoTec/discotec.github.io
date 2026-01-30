@@ -2,6 +2,7 @@
 title: Invited
 menu_show: true
 order: 3
+year: 2025
 ---
 
 # Invited Speakers
