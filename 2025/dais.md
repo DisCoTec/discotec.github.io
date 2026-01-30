@@ -2,6 +2,7 @@
 title: DAIS
 menu_show: false
 order: 2
+year: 2025
 ---
 
 # DAIS 2025 - 25th International Conference on Distributed Applications and Interoperable Systems
