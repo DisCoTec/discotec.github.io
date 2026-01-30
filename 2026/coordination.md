@@ -275,6 +275,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Farhad Arbab (CWI and Leiden University, The Netherlands)
 * Simon Bliudze (INRIA Lille, France)
 * Laura Bocchi (University of Kent, UK)
+* Ilaria Castellani (INRIA, France)
 * Ferruccio Damiani (University of Turin, Italy)
 * Ornela Dardha (University of Glasgow, UK)
 * Wolfgang De Meuter (Vrije Universiteit Brussels, Belgium)
