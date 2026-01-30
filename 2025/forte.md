@@ -2,6 +2,7 @@
 title: FORTE
 menu_show: false
 order: 3
+year: 2025
 ---
 
 # FORTE 2025 - 45th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
