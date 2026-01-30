@@ -32,7 +32,7 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 
 <figure>
 <iframe class="video" src="https://pod.univ-lille.fr/video/46118-discotec-tackling-new-challenges/?is_iframe=true" allowfullscreen title="DisCoTec - Tackling new challenges" ></iframe>
-  <figurecaption>DisCoTec 2025 attendees on Tackling new challenges</figurecaption>
+  <figurecaption>DisCoTec 2025 attendees on tackling new challenges</figurecaption>
 </figure>
 
 * Pascal Felber ( University of Neuchâtel, Switzerland)
