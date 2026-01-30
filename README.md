@@ -43,6 +43,8 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 
 ## DisCoTec editions
 
+<iframe class="video" src="https://pod.univ-lille.fr/video/46116-portrait-of-discotec/?is_iframe=true" allowfullscreen title="Portrait of DisCoTec" ></iframe>
+
 * [DisCoTec 2025](/2025/) - Lille, France
 * [DisCoTec 2024](/2024/) - Groningen, The Netherlands
 * [DisCoTec 2023](/2023/) - Lisbon, Portugal
