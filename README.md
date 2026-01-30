@@ -30,7 +30,10 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 
 ## Advisory board
 
+<figure>
 <iframe class="video" src="https://pod.univ-lille.fr/video/46118-discotec-tackling-new-challenges/?is_iframe=true" allowfullscreen title="DisCoTec - Tackling new challenges" ></iframe>
+  <figurecaption>DisCoTec 2025 attendees on Tackling new challenges</figurecaption>
+</figure>
 
 * Pascal Felber ( University of Neuchâtel, Switzerland)
 * Alain Girault (INRIA Grenoble, France)
@@ -48,7 +51,10 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 
 ## DisCoTec editions
 
+<figure>
 <iframe class="video" src="https://pod.univ-lille.fr/video/46116-portrait-of-discotec/?is_iframe=true" allowfullscreen title="Portrait of DisCoTec" ></iframe>
+<figurecaption>Portrait of DisCoTec</figurecaption>
+</figure>
 
 * [DisCoTec 2025](/2025/) - Lille, France
 * [DisCoTec 2024](/2024/) - Groningen, The Netherlands
