@@ -27,6 +27,8 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 
 ## Advisory board
 
+<iframe class="video" src="https://pod.univ-lille.fr/video/46118-discotec-tackling-new-challenges/?is_iframe=true" allowfullscreen title="DisCoTec - Tackling new challenges" ></iframe>
+
 * Pascal Felber ( University of Neuchâtel, Switzerland)
 * Alain Girault (INRIA Grenoble, France)
 * Kostas Magoutis (ICS-FORTH, Greece)
