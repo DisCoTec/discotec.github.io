@@ -253,10 +253,9 @@ img.keynote-landscape {
   }
 }
 
-iframe.video {
+figure {
   float: right;
   width: 40%;
-  aspect-ratio: 16 / 9;
   margin: 0 20px;
   margin-bottom: 20px;
 
@@ -264,6 +263,11 @@ iframe.video {
     width: 50%;
     margin: 20px;
   }
+}
+
+iframe.video {
+    width: 100%;
+    aspect-ratio: 16 / 9;
 }
 
 h2, h3.keynote {
