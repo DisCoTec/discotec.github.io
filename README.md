@@ -14,7 +14,7 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 ## Steering Committee
 
 <figure>
-<iframe src="https://pod.univ-lille.fr/video/46112-history-of-the-discotec-federated-conference/?is_iframe=true" allowfullscreen title="The genesis  of DisCoTec" ></iframe>
+<iframe class="video" src="https://pod.univ-lille.fr/video/46112-history-of-the-discotec-federated-conference/?is_iframe=true" allowfullscreen title="The genesis  of DisCoTec" ></iframe>
   <figurecaption>of DisCoTec as told by [Gianluigi Zavattaro](https://www.unibo.it/sitoweb/gianluigi.zavattaro/en)</figurecaption>
 </figure>
 
