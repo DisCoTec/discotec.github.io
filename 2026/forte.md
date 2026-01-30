@@ -123,6 +123,7 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Gerard Tabone (University of Malta)
 * Daniele Masti (Gran Sasso Science Institute)
 * Maurizio Murgia (Gran Sasso Science Institute)
+* Daniel Osmundsen Dirdal  (Univerity of Stavanger)
 
 
 ## Steering committee
