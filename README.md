@@ -13,6 +13,8 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 
 ## Steering Committee
 
+<iframe class="video" src="https://pod.univ-lille.fr/video/46112-history-of-the-discotec-federated-conference/?is_iframe=true" allowfullscreen title="History of the DisCoTec federated conference" ></iframe>
+
 * Gianluigi Zavattaro (University of Bologna, Italy)
 * Rocco De Nicola (IMT Lucca, Italy)
 * Mieke Massink (CNR, Italy)
