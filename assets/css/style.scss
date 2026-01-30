@@ -253,6 +253,17 @@ img.keynote-landscape {
   }
 }
 
+iframe.video {
+  float: right;
+  width: 25%;
+  margin: 0 20px;
+  margin-bottom: 20px;
+
+  @include media-query($on-palm) {
+    width: 50%;
+    margin: 20px;
+  }
+}
 
 h2, h3.keynote {
   clear: both;
