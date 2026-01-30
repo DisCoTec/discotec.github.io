@@ -2,6 +2,7 @@
 title: COORDINATION
 menu_show: false
 order: 
+year: 2025
 ---
 
 # COORDINATION 2025 - 27th International Conference on Coordination Models and Languages
