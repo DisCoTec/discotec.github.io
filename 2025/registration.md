@@ -2,6 +2,7 @@
 title: Registration
 menu_show: true
 order: 8
+year: 2025
 ---
 
 # Registration
