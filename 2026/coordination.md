@@ -17,7 +17,7 @@ For papers:
 
 - **Abstract submission:** ~~30 January 2026~~ **6 February 2026 (extended)**
 - **Paper submission:** ~~6 February 2026~~ **20 February 2026 (extended)**
-- Paper and Artefact notification: 24 March 2026
+- Paper notification: 24 March 2026
 - Camera-ready: 3 April 2026 (hard)
 
 For artefacts:
