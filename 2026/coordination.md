@@ -22,9 +22,9 @@ For papers:
 
 For artefacts:
 
-- Artefact submission: 13 February 2026
-- Artefact kick-the-tires - problem reports: 23 February 2026
-- Artefact kick-the-tires - author response: 2 March 2026
+- Artefact submission: ~~13 February 2026~~ 27 February 2026 (extended)
+- Artefact kick-the-tires - problem reports: ~~23 February 2026~~ 6 March 2026 (extended)
+- Artefact kick-the-tires - author response: ~~2 March 2026~~ 13 March 2026 (extended)
 - Artefact notification: 27 March 2026
 
 **DisCoTec conference: June 8-12, 2026**
