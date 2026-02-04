@@ -12,6 +12,7 @@ DisCoTec gathers conferences that cover a broad spectrum of distributed computin
 * [COORDINATION 2026](coordination) - International Conference on Coordination Models and Languages
 * [DAIS 2026](dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2026](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+  
 
 
 ## Invited Speakers
@@ -23,6 +24,7 @@ DisCoTec 2026 will host the following invited speakers.
 * [Mehdi Dastani](https://www.uu.nl/staff/MMDastani) (Utrecht University, NL) - [COORDINATION](./coordination)
 * [Paolo Romano](https://www.dpss.inesc-id.pt/~romanop/) (NESC-ID, PT) - [DAIS](./dais)
 * [Nathalie Bertrand](https://people.rennes.inria.fr/Nathalie.Bertrand/) (Inria, FR) - [FORTE](./forte)
+* [Roberto Bruni](https://pages.di.unipi.it/bruni/) (University of Pisa, IT) - DisCoTec-wide
 
 ## Further Information
 * Please contact the **general chair** [Claudio Antares Mezzina](mailto:claudio.mezzina@uniurb.it).
