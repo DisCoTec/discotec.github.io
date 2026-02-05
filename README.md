@@ -24,8 +24,8 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 * Carla Ferreira (NOVA University of Lisbon, Portugal)
 * Ivan Lanese (University of Bologna, Italy)
 * Michele Loreti (University of Camerino, Italy)
-* Valerio Schiavoni (University of Neuchâtel, Switzerland)
 * Jorge A. Pérez (University of Groningen, The Netherlands)
+* Valerio Schiavoni (University of Neuchâtel, Switzerland)
 * Gianluigi Zavattaro (University of Bologna, Italy)
 
 ## Advisory board
@@ -35,7 +35,7 @@ Together, these conferences cover a broad spectrum of distributed computing subj
   <figurecaption>DisCoTec 2025 attendees on tackling new challenges</figurecaption>
 </figure>
 
-* Pascal Felber ( University of Neuchâtel, Switzerland)
+* Pascal Felber (University of Neuchâtel, Switzerland)
 * Alain Girault (INRIA Grenoble, France)
 * Kostas Magoutis (ICS-FORTH, Greece)
 * Uwe Nestmann (TU Berlin, Germany)
