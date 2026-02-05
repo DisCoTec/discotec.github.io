@@ -18,15 +18,15 @@ Together, these conferences cover a broad spectrum of distributed computing subj
   <figurecaption>The genesis of DisCoTec as told by <a href="https://www.unibo.it/sitoweb/gianluigi.zavattaro/en">Gianluigi Zavattaro</a></figurecaption>
 </figure>
 
-* Gianluigi Zavattaro (University of Bologna, Italy)
+* Adrian Francalanza (University of Malta, Malta, **chair**)
+* Simon Bliudze (INRIA Lille, France)
 * Rocco De Nicola (IMT Lucca, Italy)
-* Mieke Massink (CNR, Italy)
-* Ivan Lanese (University of Bologna, Italy)
-* Luís Antunes Veiga (Technical University of Lisbon, Portugal)
-* Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
-* Adrian Francalanza (University of Malta)
 * Carla Ferreira (NOVA University of Lisbon, Portugal)
+* Ivan Lanese (University of Bologna, Italy)
+* Michele Loreti (University of Camerino, Italy)
+* Valerio Schiavoni (University of Neuchâtel, Switzerland)
 * Jorge A. Pérez (University of Groningen, The Netherlands)
+* Gianluigi Zavattaro (University of Bologna, Italy)
 
 ## Advisory board
 
