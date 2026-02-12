@@ -16,6 +16,12 @@ ICE 2026 is a satellite workshop of [DisCoTec 2026](https://www.discotec.org/202
 
 ## Important Dates
 
+- April 2nd, 2026            : Paper submission deadline
+- April 3rd -- April 28th    : Forum interaction, reviews, and PC discussion
+- April 30th                 : Notification to authors
+- June TBD                   : Workshop in Lille, France
+- July TBD (tentative)       : Camera-ready for post-proceedings
+- October 2026 (tentative)   : Invitation to special issue
 
 All dates are in the [Anywhere on Earth time zone](https://time.is/Anywhere_on_Earth).
 
