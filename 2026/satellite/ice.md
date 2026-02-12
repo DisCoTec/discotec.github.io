@@ -108,8 +108,8 @@ Find flags at https://en.wikipedia.org/wiki/Regional_indicator_symbol
 
 - [Luc Edixhoven](https://luc.edixhoven.eu) (Leiden University, 🇳🇱) - `luc (at) edixhoven.eu`
 - [Simon Fowler](https://simonjf.com/) (University of Glasgow School of Computing Science, 🇬🇧) - `simon.fowler (at) glasgow.ac.uk`
-- [Rumyana Neykova](https://www.brunel.ac.uk/people/rumyana-neykova) (Brunel University London, 🇬🇧) - `rumyana.neykova (at) brunel.ac.uk`
 - [Violet Ka I Pun](https://violet.foldr.org/) (Western Norway University of Applied Sciences, 🇳🇴) - `Violet.Ka.I.Pun (at) hvl.no`
+- [Rumyana Neykova](https://www.brunel.ac.uk/people/rumyana-neykova) (Brunel University London, 🇬🇧) - `rumyana.neykova (at) brunel.ac.uk`
 
 Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
