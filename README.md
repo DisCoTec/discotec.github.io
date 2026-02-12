@@ -5,7 +5,7 @@ It gathers three main conferences:
 
 * [Coordination](/2026/coordination) (IFIP WG6.1 International Conference on Coordination Models and Languages)
 * [DAIS](/2026/dais) (IFIP WG6.1 International Conference on Distributed Applications and Interoperable Systems)
-* [FORTE](/2026/forte) (IFIP WG6.1 International Conference on Formal Techniques for Distributed Objects, Components, and Systems)
+* [FORTE](/forte) (IFIP WG6.1 International Conference on Formal Techniques for Distributed Objects, Components, and Systems)
 
 Together, these conferences cover a broad spectrum of distributed computing subjects, ranging from theoretical foundations and formal description techniques to systems research issues.
 
