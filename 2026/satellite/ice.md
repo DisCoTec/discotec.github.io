@@ -2,7 +2,7 @@
 
 [Interaction and Concurrency Experiences (ICE)](https://ice-workshop.github.io) is a series of international scientific meetings oriented to theoretical computer science researchers with special interest in models, verification, tools, and programming primitives for concurrent systems and complex interactions. 
 
-ICE 2026 is a satellite workshop of [DisCoTec 2026](https://www.discotec.org/2026/), held on June TDB in [Urbino, Italy](https://www.discotec.org/2026/venue).
+ICE 2026 is a satellite workshop of [DisCoTec 2026](https://www.discotec.org/2026/), held on June 12th in [Urbino, Italy](https://www.discotec.org/2026/venue).
 
 ## Highlights
 
@@ -19,8 +19,8 @@ ICE 2026 is a satellite workshop of [DisCoTec 2026](https://www.discotec.org/202
 - April 2nd, 2026            : Paper submission deadline
 - April 3rd -- April 28th    : Forum interaction, reviews, and PC discussion
 - April 30th                 : Notification to authors
-- June TBD                   : Workshop in Urbino, Italy
-- July TBD (tentative)       : Camera-ready for post-proceedings
+- June 12th                  : Workshop in Urbino, Italy
+- July 12th (tentative)      : Camera-ready for post-proceedings
 - October 2026 (tentative)   : Invitation to special issue
 
 All dates are in the [Anywhere on Earth time zone](https://time.is/Anywhere_on_Earth).
@@ -68,7 +68,7 @@ We invite two types of submissions:
 
 * **Research papers**, original contributions that will be published in the workshop post-proceedings. Research papers must not be simultaneously submitted to other conferences/workshops with refereed proceedings. Research papers should be 3-16 pages plus at most 2 pages of references. Short research papers are welcome; for example a 5 page short paper fits this category perfectly. The submitted PDF can use any LaTeX style (but the post-proceedings will use the [EPTCS style](http://style.eptcs.org/)).
 
-* **Oral communications** will be presented at the workshop, but will not appear in the post-proceedings. This type of contribution includes e.g., previously published contributions, preliminary work, and position papers. Submissions for oral communications should be 1-5 pages. For example, a one page summary of previously published work is welcome in this category.
+* **Oral communications** will be presented at the workshop, but will not appear in the post-proceedings. This type of contribution includes e.g., previously published contributions, preliminary work, and position papers. Submissions for oral communications should have a maximum length of 2 pages excluding references. For example, a one page summary of previously published work is welcome in this category.
 
 Authors of research papers must omit their names and institutions from the title page, they should refer to their other work in the third person and omit acknowledgements that could reveal their identity or affiliation. The purpose is to avoid any bias based on authors' identity characteristics, such as gender, seniority, or nationality, in the review process. Our goal is to facilitate an unbiased approach to reviewing by supporting reviewers' access to works that do not carry obvious references to the authors' identities. As mentioned above, this is a lightweight double-anonymous process. Anonymization should not be a heavy burden for authors, and should not make papers weaker or more difficult to review. Advertising the paper on alternate forums (e.g., on a personal web-page, pre-print archive, email, talks, discussions with colleagues) is permitted.
 
@@ -108,8 +108,8 @@ Find flags at https://en.wikipedia.org/wiki/Regional_indicator_symbol
 
 - [Luc Edixhoven](https://luc.edixhoven.eu) (Leiden University, 🇳🇱) - `luc (at) edixhoven.eu`
 - [Simon Fowler](https://simonjf.com/) (University of Glasgow School of Computing Science, 🇬🇧) - `simon.fowler (at) glasgow.ac.uk`
-- [Violet Ka I Pun](https://violet.foldr.org/) (Western Norway University of Applied Sciences, 🇳🇴) - `Violet.Ka.I.Pun (at) hvl.no`
 - [Rumyana Neykova](https://www.brunel.ac.uk/people/rumyana-neykova) (Brunel University London, 🇬🇧) - `rumyana.neykova (at) brunel.ac.uk`
+- [Violet Ka I Pun](https://violet.foldr.org/) (Western Norway University of Applied Sciences, 🇳🇴) - `Violet.Ka.I.Pun (at) hvl.no`
 
 Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
