@@ -17,11 +17,10 @@ ICE 2026 is a satellite workshop of [DisCoTec 2026](https://www.discotec.org/202
 ## Important Dates
 
 - April 2nd, 2026            : Paper submission deadline
-- April 3rd -- April 28th    : Forum interaction, reviews, and PC discussion
+- April 3rd - April 28th    : Forum interaction, reviews, and PC discussion
 - April 30th                 : Notification to authors
 - June 12th                  : Workshop in Urbino, Italy
 - July 12th (tentative)      : Camera-ready for post-proceedings
-- October 2026 (tentative)   : Invitation to special issue
 
 All dates are in the [Anywhere on Earth time zone](https://time.is/Anywhere_on_Earth).
 
@@ -66,9 +65,9 @@ Submissions must be made electronically in PDF format via [hotcrp](https://ice26
 
 We invite two types of submissions:
 
-* **Research papers**, original contributions that will be published in the workshop post-proceedings. Research papers must not be simultaneously submitted to other conferences/workshops with refereed proceedings. Research papers should be 3-16 pages plus at most 2 pages of references. Short research papers are welcome; for example a 5 page short paper fits this category perfectly. The submitted PDF can use any LaTeX style (but the post-proceedings will use the [EPTCS style](http://style.eptcs.org/)).
+* **Research papers**: original contributions that will be published in the workshop post-proceedings. Research papers must not be simultaneously submitted to other conferences/workshops with refereed proceedings. Research papers should be 4-17 pages in length, excluding references. Short research papers are welcome; for example, a concise 5-page contribution is appropriate within this category. The submitted PDF can use any LaTeX style. However, accepted papers must be prepared in the [EPTCS style](http://style.eptcs.org/) for inclusion in the post-proceedings.
 
-* **Oral communications** will be presented at the workshop, but will not appear in the post-proceedings. This type of contribution includes e.g., previously published contributions, preliminary work, and position papers. Submissions for oral communications should have a maximum length of 2 pages excluding references. For example, a one page summary of previously published work is welcome in this category.
+* **Oral communications**: will be presented at the workshop, but will not appear in the post-proceedings. This type of contribution includes e.g., previously published contributions, preliminary work, and position papers. Submissions for oral communications should have a maximum length of 2 pages, excluding references. For example, a one-page summary of previously published work is welcome in this category.
 
 Authors of research papers must omit their names and institutions from the title page, they should refer to their other work in the third person and omit acknowledgements that could reveal their identity or affiliation. The purpose is to avoid any bias based on authors' identity characteristics, such as gender, seniority, or nationality, in the review process. Our goal is to facilitate an unbiased approach to reviewing by supporting reviewers' access to works that do not carry obvious references to the authors' identities. As mentioned above, this is a lightweight double-anonymous process. Anonymization should not be a heavy burden for authors, and should not make papers weaker or more difficult to review. Advertising the paper on alternate forums (e.g., on a personal web-page, pre-print archive, email, talks, discussions with colleagues) is permitted.
 
@@ -104,6 +103,7 @@ Find flags at https://en.wikipedia.org/wiki/Regional_indicator_symbol
 *[🇵🇹]: Portugal
 *[🇳🇱]: Netherlands
 *[🇱🇺]: Luxembourg
+*[🇸🇪]: Sweden
 
 
 - [Luc Edixhoven](https://luc.edixhoven.eu) (Leiden University, 🇳🇱) - `luc (at) edixhoven.eu`
@@ -115,7 +115,21 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ## Programme Committee {#programme-committee}
 
-TBD
+- [Franco Barbanera](https://www.dmi.unict.it/barba/) (Dept. of Mathematics and Computer Science - University of Catania, 🇮🇹)
+- [Manel Barkallah](https://staff.info.unamur.be/mbarkall/) (University of Namur, 🇧🇪)
+- [Matteo Cimini](https://www.cs.uml.edu/~mcimini/) (University of Massachusetts Lowell, 🇺🇸)
+- [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home) (University of Liverpool, 🇬🇧)
+- [Jonas Kastberg Hinrichsen](https://jihgfee.github.io/) (Aalborg University, 🇩🇰)
+- [Ping Hou](https://mrg.cs.ox.ac.uk/people/ping-hou/) (University of Oxford, 🇬🇧)
+- [Maurizio Murgia](https://www.gssi.it/people/professors/lectures-computer-science/item/16615-murgia-maurizio) (Gran Sasso Science Institute, 🇮🇹)
+- [Jonah Pears](https://jonahpears.github.io/) (University of Kent, 🇬🇧)
+- [Marco Peressotti](https://marcoperessotti.com/) (University of Southern Denmark, 🇩🇰)
+- [Neea Rusch](https://nkrusch.github.io/) (Upssala University, 🇸🇪)
+- [Chuta Sano](https://chutasano.github.io/) (School of Computer Science, McGill University, 🇺🇸)
+- [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/) (University of Luxembourg, 🇱🇺)
+- ...
+
+(to be completed)
 
 ## Steering Committee
 
