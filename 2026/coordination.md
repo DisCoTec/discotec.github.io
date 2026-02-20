@@ -117,7 +117,7 @@ Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordi
 
 We invite you to also submit an associated artefact for evaluation (AE). Artefacts such as ancillary data, tools, and software will be assessed for availability, functionality, and reusability badges (see [EAPLS artifact badges](https://eapls.org/pages/artifact_badges)).
 
-<!-- Instructions on how to upload artefacts can be found [here](COORDINATION_Artefact_Evaluation_Guidelines.pdf). -->
+**UPDATE 2026-02-20**: the **instructions for artefact submission** can be found **[here](COORDINATION_Artefact_Evaluation_Guidelines.pdf)**.
 
 As advertised in the call for papers, artefact submissions are mandatory for tool papers and optional for regular papers. Tool papers must submit an artefact that, at least, satisfies the requirements for the **Functional** badge. Papers not meeting this clause are rejected. Moreover, the acceptance of artefacts is conditional on the tool paper being accepted.
 
