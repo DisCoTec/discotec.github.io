@@ -263,6 +263,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 - Nicolas Farabegoli (University of Bologna, Italy)
 - Matteo Magnini (University of Luxembourg, Luxembourg)  
 - Mário Pereira (NOVA School of Science and Technology, Portugal)
+- Marco Quadrini (University of Camerino, Italy)
 - Corentin Reuther (University of Namur, Belgium) 
 - Lorenzo Rossi (University of Camerino, Italy)
 - Gerard Tabone (University of Malta, Malta)
