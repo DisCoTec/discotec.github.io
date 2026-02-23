@@ -4,12 +4,15 @@
 
 COORDINATION 2026 is one of the three conferences of [DisCoTec 2026](.).
 
-### Quick Links
+
+
+### Quick Links and Updates
 
 * [Important Dates](https://www.discotec.org/2026/dates)
 * [Submission Link](#submission-link)
 * [Submission Categories](#categories-of-papers)
 
+- **2026-02-23**: see the updated [Artefact Submission Instructions](#artefact-submission-instructions)
 
 ### Dates
 
@@ -113,11 +116,12 @@ Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordi
 
 * **Tool papers** (4-15 pages, not counting references and appendices): describing technological artefacts in the scope of the research topics of COORDINATION. Tool papers should provide a clear account of the tool's functionality, discuss the tool’s practical capabilities possibly with reference to the type and size of problems it can handle, and,when applicable, report on realistic case studies (possibly providing a rigorous experimental evaluation). Tool papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures. Papers that present extensions to existing tools should clearly describe the improvements or extensions with respect to previously published versions of the tool, possibly providing data on enhancements in terms of resources and capabilities. In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee. Papers may contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes length.
 
-### Artefact Submission Instructions 📣
+### Artefact Submission Instructions
 
 We invite you to also submit an associated artefact for evaluation (AE). Artefacts such as ancillary data, tools, and software will be assessed for availability, functionality, and reusability badges (see [EAPLS artifact badges](https://eapls.org/pages/artifact_badges)).
 
-**UPDATE 2026-02-20**: the **instructions for artefact submission** can be found **[here](COORDINATION_Artefact_Evaluation_Guidelines.pdf)**.
+Submission are done at the same link: [https://easychair.org/conferences/?conf=coordination2026](https://easychair.org/conferences/?conf=coordination2026). Select **"COORDINATION 2026 Artefacts Track"** on your new submission. Please consult the **[instructions for artefact submission](COORDINATION_Artefact_Evaluation_Guidelines.pdf)** for preparing and submitting your artefact.
+
 
 As advertised in the call for papers, artefact submissions are mandatory for tool papers and optional for regular papers. Tool papers must submit an artefact that, at least, satisfies the requirements for the **Functional** badge. Papers not meeting this clause are rejected. Moreover, the acceptance of artefacts is conditional on the tool paper being accepted.
 
