@@ -229,6 +229,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 <!-- - Adrian Francalanza (University of Malta, Malta)-->
 - Francisco Ferreira (University of London, UK)
 - Silvia Ghilezan (University of Novi Sad, Mathematical Institute SASA, Serbia)
+- Susanne Graf (CNRS,VERIMAG, France)
 - Ludovic Henrio (CNRS, France; IRIF)
 - Thomas T. Hildebrandt (University of Copenhagen, Denmark)
 - Ping Hou (University of Oxford, UK)
@@ -236,14 +237,14 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 <!-- - Daniela Kaufmann (TU Wien)-->
 - Eva Kühn (Vienna University of Technology, Austria)
 - Ivan Lanese (University of Bologna, Italy)
+- Carlos López Pombo ( Universidad Nacional de Río Negro, Argentina; CONICET)
 - Michele Loreti (University of Camerino, Italy)
-- Rumyana Neykova (Brunel University London, UK)
 - Stefano Mariani (University of Modena and Reggio Emilia, Italy)
 - Hernán C. Melgratti (University of Buenos Aires, Argentina)
 <!-- - Rosemary Monahan (National Univeristy of Ireland)-->
 - Fabrizio Montesi (University of Southern Denmark, Denmark)
 - J. Garreth Morris (University of Iowa, USA)
-- Carlos López Pombo ( Universidad Nacional de Río Negro, Argentina; CONICET)
+- Rumyana Neykova (Brunel University London, UK)
 - José Proença (University of Porto, Portugal)
 - Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
 - António Ravara (NOVA LINCS, Portugal)
@@ -252,9 +253,11 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 - Carolyn L. Talcott (SRI International, USA)
 <!-- - Silvia Lizeth Tapia Tarifa (University of Oslo, Norway)-->
 - Maurice H. ter Beek (ISTI-CNR, Italy)
-- Nils Timm (University of Pretoria, South Africa )
+- Francesco Tiezzi (University of Florence, Italy)
+- Nils Timm (University of Pretoria, South Africa)
 - Emilio Tuosto (Gran Sasso Science Institute, Italy)
 <!-- - Nobuko Yoshida (University of Oxford)-->
+- Frank Valencia (École Polytechnique de Paris, France)
 
 
 ### Artefact Evaluation Committee chair
