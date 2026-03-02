@@ -122,8 +122,10 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ## Artefact Evaluation Committee
 * Gerard Tabone (University of Malta)
 * Daniele Masti (Gran Sasso Science Institute)
+* Marco Zamponi (IMT School for Advanced Studies Lucca)
 * Maurizio Murgia (Gran Sasso Science Institute)
 * Daniel Osmundsen Dirdal  (Univerity of Stavanger)
+* Roberto Pizziol (IMT School for Advanced Studies Lucca)
 
 
 ## Steering committee
