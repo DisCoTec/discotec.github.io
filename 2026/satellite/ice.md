@@ -93,6 +93,7 @@ Find flags at https://en.wikipedia.org/wiki/Regional_indicator_symbol
 -->
 
 *[🇧🇪]: Belgium
+*[🇨🇦]: Canada
 *[🇩🇪]: Germany
 *[🇫🇷]: France
 *[🇮🇹]: Italy
@@ -125,7 +126,7 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Jonah Pears](https://jonahpears.github.io/) (University of Kent, 🇬🇧)
 - [Marco Peressotti](https://marcoperessotti.com/) (University of Southern Denmark, 🇩🇰)
 - [Neea Rusch](https://nkrusch.github.io/) (Upssala University, 🇸🇪)
-- [Chuta Sano](https://chutasano.github.io/) (School of Computer Science, McGill University, 🇺🇸)
+- [Chuta Sano](https://chutasano.github.io/) (School of Computer Science, McGill University, 🇨🇦)
 - [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/) (University of Luxembourg, 🇱🇺)
 - ...
 
