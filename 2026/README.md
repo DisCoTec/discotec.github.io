@@ -13,7 +13,8 @@ DisCoTec gathers conferences that cover a broad spectrum of distributed computin
 * [DAIS 2026](dais) - International Conference on Distributed Applications and Interoperable Systems
 * [FORTE 2026](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
   
-
+## Workshops
+* [ICE 2026](satellite/ice) - 19th Interaction and Concurrency Experience
 
 ## Invited Speakers
 
