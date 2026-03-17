@@ -10,14 +10,14 @@ ICE 2026 is a satellite workshop of [DisCoTec 2026](..), held on June 12th in [U
 - ICE welcomes full papers to be included in the proceedings
 - ICE also welcomes oral communications of already published or preliminary work
 - Invited speaker: TBD
-- Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/) _(to be confirmed)_
+- Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/)
 - Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
 - Contact: `ice (at) framalistes.org`
 
 ## Important Dates
 
 - April 2nd, 2026            : Paper submission deadline
-- April 3rd - April 28th    : Forum interaction, reviews, and PC discussion
+- April 3rd - April 28th     : Forum interaction, reviews, and PC discussion
 - April 30th                 : Notification to authors
 - June 12th                  : Workshop in Urbino, Italy
 - July 12th (tentative)      : Camera-ready for post-proceedings
@@ -79,7 +79,7 @@ We are keen to enhance the balanced, inclusive and diverse nature of the ICE com
 
 Accepted research papers and communications must be presented at the workshop by one of the authors.
 
-Accepted research papers will be published after the workshop in [Electronic Proceedings in Theoretical Computer Science](http://about.eptcs.org/) _(to be confirmed)_.
+Accepted research papers will be published after the workshop in [Electronic Proceedings in Theoretical Computer Science](http://about.eptcs.org/).
 
 We plan to invite authors of selected papers and brief announcements to submit their work in a special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_. Such contributions will be regularly peer-reviewed according to the standard journal policy, but they will be handled in a shorter time than regular submissions. A list of published and in preparation special issues of previous ICE editions is reported below.
 
