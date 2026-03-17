@@ -122,6 +122,8 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home) (University of Liverpool, 🇬🇧)
 - [Jonas Kastberg Hinrichsen](https://jihgfee.github.io/) (Aalborg University, 🇩🇰)
 - [Ping Hou](https://mrg.cs.ox.ac.uk/people/ping-hou/) (University of Oxford, 🇬🇧)
+- [Elaine Li](https://efl9013.github.io/) (New York University, 🇺🇸)
+- [Danielle Marshall](https://starsandspira.ls/) (University of Glasglow, 🇬🇧)
 - [Maurizio Murgia](https://www.gssi.it/people/professors/lectures-computer-science/item/16615-murgia-maurizio) (Gran Sasso Science Institute, 🇮🇹)
 - [Jonah Pears](https://jonahpears.github.io/) (University of Kent, 🇬🇧)
 - [Marco Peressotti](https://marcoperessotti.com/) (University of Southern Denmark, 🇩🇰)
