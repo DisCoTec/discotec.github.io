@@ -119,6 +119,7 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Franco Barbanera](https://www.dmi.unict.it/barba/) (Dept. of Mathematics and Computer Science - University of Catania, 🇮🇹)
 - [Manel Barkallah](https://staff.info.unamur.be/mbarkall/) (University of Namur, 🇧🇪)
 - [Matteo Cimini](https://www.cs.uml.edu/~mcimini/) (University of Massachusetts Lowell, 🇺🇸)
+- [Christopher Esterhuyse](https://sirkibsirkib.github.io/) (University of Amsterdam, 🇳🇱)
 - [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home) (University of Liverpool, 🇬🇧)
 - [Jonas Kastberg Hinrichsen](https://jihgfee.github.io/) (Aalborg University, 🇩🇰)
 - [Ping Hou](https://mrg.cs.ox.ac.uk/people/ping-hou/) (University of Oxford, 🇬🇧)
