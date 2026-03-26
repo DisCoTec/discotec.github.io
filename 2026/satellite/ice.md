@@ -132,9 +132,7 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Neea Rusch](https://nkrusch.github.io/) (Upssala University, 🇸🇪)
 - [Chuta Sano](https://chutasano.github.io/) (School of Computer Science, McGill University, 🇨🇦)
 - [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/) (University of Luxembourg, 🇱🇺)
-- ...
-
-(to be completed)
+- 
 
 ## Steering Committee
 
