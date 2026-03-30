@@ -1,7 +1,8 @@
 ---
-title: Invited
-menu_show: false
-order: 4
+title: Venue
+menu_show: true
+order: 1
+year: 2026
 ---
 
 # Invited Speakers
