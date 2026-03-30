@@ -47,5 +47,17 @@ correctness and incorrectness within a single logical framework,
 enabling the derivation of code summaries that can inhabit any point in
 the program logic landscape.
 
-**Bio:** Roberto Bruni is a full professor at University of Pisa, Italy. 
+**Bio:** Roberto Bruni is Full Professor at the Computer Science Department of
+the University of Pisa.
+His research focuses on the modeling, analysis, and verification of
+concurrent, distributed, adaptive, and open systems, as well as on
+natural computing and bio-inspired models of computation. He has
+contributed to a wide range of areas including Petri nets, rewriting
+logic, category theory, process algebras, service-oriented computing,
+multiparty interactions, Reaction Systems, abstract interpretation and
+program logics. He has co-authored over 170 publications, including
+textbooks and monographs, and has been actively involved in numerous
+international research projects and the organization of international
+conferences. He received his PhD in Computer Science from the University
+of Pisa.
 
