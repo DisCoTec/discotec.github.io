@@ -12,7 +12,7 @@ DisCoTec 2026 has invited speakers to give [keynote talks](#keynote-talks) and [
 
 DisCoTec 2026 will host a keynote talk at each conference as well as a DisCoTec-wide keynote.
 The invited speakers are
-[Mehdi Dastani](#) ([COORDINATION](./coordination)), [Paolo Romano](#hélène-coullon-imt-atlantique-france---discotec-wide) (Dais), [Nathalie Bertrand ](#omar-inverso-gssi-italy---coordination) ([COORDINATION](./coordination)), and [Roberto Bruni](#burcu-ozkan-tu-delft-the-netherlands---forte) ([DisCoTec-wide]).
+[Mehdi Dastani](#-mehdi-dastani-coordination) ([COORDINATION](./coordination)), [Paolo Romano](#paolo-romano-dais) ([DAIS](./Dais)), [Nathalie Bertrand ](#natalie-bertrand-forte) ([FORTE](./forte)), and [Roberto Bruni](#broberto-bruni-wide) (DisCoTec-wide).
 
 
 ### [Roberto Bruni](https://pages.di.unipi.it/bruni/) (University of Pisa, Italy) - DisCoTec-wide
