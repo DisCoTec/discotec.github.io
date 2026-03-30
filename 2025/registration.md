@@ -2,14 +2,15 @@
 title: Registration
 menu_show: true
 order: 8
+year: 2025
 ---
 
 # Registration
 
 ## Important Dates
 * ~~Early registration: Possible until **May 23rd, 2025**, using the link below.~~ 
-* Late registration: Possible until **June 11th, 2025**, using the link below. 
-* DisCoTeC 2025: **June 16th to 20th, 2025**.
+* ~~Late registration: Possible until **June 11th, 2025**, using the link below.~~ 
+* ~~DisCoTeC 2025: **June 16th to 20th, 2025**.~~
 
 ## General Conditions 
 * DisCoTec 2025 is planned as an on-site event.
@@ -66,9 +67,9 @@ This category includes full access on Monday 16 AND Friday 20:
 
 ## Registration Link
 
-You can register for DisCoTec by filling in the following form: [https://dr18.azur-colloque.fr/inscription/en/135/inscription](https://dr18.azur-colloque.fr/inscription/en/135/inscription).
+<!-- You can register for DisCoTec by filling in the following form: [https://dr18.azur-colloque.fr/inscription/en/135/inscription](https://dr18.azur-colloque.fr/inscription/en/135/inscription). -->
 
-<!-- The deadline for registration has passed. Registering online is no longer possible. -->
+The deadline for registration has passed. Registering online is no longer possible.
 
 ## Dietary restrictions
 Do send an email to <discotec2025@inria.fr> with subject "Dietary restrictions" should you have any.

@@ -4,28 +4,31 @@
 
 COORDINATION 2026 is one of the three conferences of [DisCoTec 2026](.).
 
-### Quick Links
+
+
+### Quick Links and Updates
 
 * [Important Dates](https://www.discotec.org/2026/dates)
 * [Submission Link](#submission-link)
 * [Submission Categories](#categories-of-papers)
 
+- **2026-02-23**: see the updated [Artefact Submission Instructions](#artefact-submission-instructions)
 
 ### Dates
 
 For papers:
 
-- **Abstract submission: 30 January 2026**
-- **Paper submission: 6 February 2026**
-- Paper and Artefact notification: 24 March 2026
+- **Abstract submission:** ~~30 January 2026~~ **13 February 2026 (extended)**
+- **Paper submission:** ~~6 February 2026~~ **20 February 2026 (extended)**
+- Paper notification: 24 March 2026
 - Camera-ready: 3 April 2026 (hard)
 
 For artefacts:
 
-- Artefact submission: 13 February 2026
-- Artefact kick-the-tires - problem reports: 23 February 2026
-- Artefact kick-the-tires - author response: 2 March 2026
-- Artefact notification: 27 March 2026
+- Artefact submission: ~~13 February 2026~~ 27 February 2026 (extended)
+- Artefact kick-the-tires - problem reports: ~~23 February 2026~~ ~~6 March 2026~~ **10 March 2026** (extended)
+- Artefact kick-the-tires - author response: ~~2 March 2026~~ ~~13 March 2026~~ **15 March 2026** (extended)
+- Artefact notification: 24 March 2026
 
 **DisCoTec conference: June 8-12, 2026**
 
@@ -113,11 +116,12 @@ Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordi
 
 * **Tool papers** (4-15 pages, not counting references and appendices): describing technological artefacts in the scope of the research topics of COORDINATION. Tool papers should provide a clear account of the tool's functionality, discuss the tool’s practical capabilities possibly with reference to the type and size of problems it can handle, and,when applicable, report on realistic case studies (possibly providing a rigorous experimental evaluation). Tool papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures. Papers that present extensions to existing tools should clearly describe the improvements or extensions with respect to previously published versions of the tool, possibly providing data on enhancements in terms of resources and capabilities. In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee. Papers may contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes length.
 
-### Artefact Submission Instructions 📣
+### Artefact Submission Instructions
 
 We invite you to also submit an associated artefact for evaluation (AE). Artefacts such as ancillary data, tools, and software will be assessed for availability, functionality, and reusability badges (see [EAPLS artifact badges](https://eapls.org/pages/artifact_badges)).
 
-<!-- Instructions on how to upload artefacts can be found [here](COORDINATION_Artefact_Evaluation_Guidelines.pdf). -->
+Submission are done at the same link: [https://easychair.org/conferences/?conf=coordination2026](https://easychair.org/conferences/?conf=coordination2026). Select **"COORDINATION 2026 Artefacts Track"** on your new submission. Please consult the **[instructions for artefact submission](COORDINATION_Artefact_Evaluation_Guidelines.pdf)** for preparing and submitting your artefact.
+
 
 As advertised in the call for papers, artefact submissions are mandatory for tool papers and optional for regular papers. Tool papers must submit an artefact that, at least, satisfies the requirements for the **Functional** badge. Papers not meeting this clause are rejected. Moreover, the acceptance of artefacts is conditional on the tool paper being accepted.
 
@@ -154,6 +158,9 @@ Below we list the acceptable and unacceptable uses of generative AI for authors.
 - Firstly, writing reviews is an important part of the scientific process and they require scientific judgement.  PC members should use their expertise in the field for producing an insightful, professional, and constructive personal review.
 - Secondly, review processes are in general confidential and should not be shared with third parties, including commercial LLM providers. So, even the use of generative AI just to improve English and the readability of reviews is discouraged.-->
 
+### Review
+
+The review process is **single-blind**. We will try to provide at least three reviews per paper.
 
 
 ### Publication
@@ -214,24 +221,30 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 <!-- Stephanie Balzer (CMU, USA)-->
 <!-- - Massimo Bartoletti (Universita’ degli Studi di Cagliari, Italy)-->
 - Simon Bliudze (INRIA, France)
+- Valentina Castiglioni (Eindhoven University of Technology, Netherlands)
 <!-- - Laura Bocchi (University of Kent, UK)-->
 <!-- - Ornela Dardha (University of Glasgow, UK)-->
+- Mariangiola Dezani-Ciancaglini (University of Turin, Italy)
 - Cinzia Di Giusto (Université Côte d’Azur, France)
 <!-- - Adrian Francalanza (University of Malta, Malta)-->
 - Francisco Ferreira (University of London, UK)
 - Silvia Ghilezan (University of Novi Sad, Mathematical Institute SASA, Serbia)
+- Susanne Graf (CNRS,VERIMAG, France)
 - Ludovic Henrio (CNRS, France; IRIF)
 - Thomas T. Hildebrandt (University of Copenhagen, Denmark)
 - Ping Hou (University of Oxford, UK)
 <!-- - Dimka Karastoyanova (University of Groningen, The Netherlands)-->
 <!-- - Daniela Kaufmann (TU Wien)-->
+- Eva Kühn (Vienna University of Technology, Austria)
 - Ivan Lanese (University of Bologna, Italy)
+- Carlos López Pombo ( Universidad Nacional de Río Negro, Argentina; CONICET)
 - Michele Loreti (University of Camerino, Italy)
 - Stefano Mariani (University of Modena and Reggio Emilia, Italy)
 - Hernán C. Melgratti (University of Buenos Aires, Argentina)
 <!-- - Rosemary Monahan (National Univeristy of Ireland)-->
 - Fabrizio Montesi (University of Southern Denmark, Denmark)
-- Carlos López Pombo ( Universidad Nacional de Río Negro, Argentina; CONICET)
+- J. Garreth Morris (University of Iowa, USA)
+- Rumyana Neykova (Brunel University London, UK)
 - José Proença (University of Porto, Portugal)
 - Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
 - António Ravara (NOVA LINCS, Portugal)
@@ -240,9 +253,11 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 - Carolyn L. Talcott (SRI International, USA)
 <!-- - Silvia Lizeth Tapia Tarifa (University of Oslo, Norway)-->
 - Maurice H. ter Beek (ISTI-CNR, Italy)
-- Nils Timm (University of Pretoria, South Africa )
-<!-- - Emilio Tuosto (Gran Sasso Science Institute, Italy)-->
+- Francesco Tiezzi (University of Florence, Italy)
+- Nils Timm (University of Pretoria, South Africa)
+- Emilio Tuosto (Gran Sasso Science Institute, Italy)
 <!-- - Nobuko Yoshida (University of Oxford)-->
+- Frank Valencia (École Polytechnique de Paris, France)
 
 
 ### Artefact Evaluation Committee chair
@@ -251,7 +266,18 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 ### Artefact Evaluation Committee
 
-* TBD
+- Davide Domini (University of Bologna, Italy)
+- Nicolas Farabegoli (University of Bologna, Italy)
+- Matteo Magnini (University of Luxembourg, Luxembourg)  
+- Mário Pereira (NOVA School of Science and Technology, Portugal)
+- Marco Quadrini (University of Camerino, Italy)
+- Corentin Reuther (University of Namur, Belgium) 
+- Lorenzo Rossi (University of Camerino, Italy)
+- Gerard Tabone (University of Malta, Malta)
+<!-- -Jasmine Xuereb (University of Malta, Malta)-->
+- Laura Voinea (University of Glasgow, UK)
+<!-- -Felix Stutz (University of Luxembourg, Luxembourg)-->
+<!-- -Tiago Cogumbreiro (UMass Boston, USA)-->
 
 ## Steering Committee
 
@@ -259,6 +285,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Farhad Arbab (CWI and Leiden University, The Netherlands)
 * Simon Bliudze (INRIA Lille, France)
 * Laura Bocchi (University of Kent, UK)
+* Ilaria Castellani (INRIA, France)
 * Ferruccio Damiani (University of Turin, Italy)
 * Ornela Dardha (University of Glasgow, UK)
 * Wolfgang De Meuter (Vrije Universiteit Brussels, Belgium)
@@ -271,10 +298,9 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * Eva Kühn (Vienna University of Technology, Austria)
 * Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
 * Antónia Lopes (University of Lisbon, Portugal)
-* Michele Loreti (Università di Camerino, Italy)
-* Mieke Massink (CNR-ISTI, Pisa, Italy) - chair
+* Michele Loreti (Università di Camerino, Italy) - **chair**
+* Mieke Massink (CNR-ISTI, Pisa, Italy) 
 * José Proença (University of Porto, Portugal)
-* Rosario Pugliese (Università di Firenze, Italy)
 * Marjan Sirjani (Mälardalen University, Sweden)
 * Carolyn Talcott (SRI International, California, USA)
 * Maurice ter Beek (CNR-ISTI, Italy)

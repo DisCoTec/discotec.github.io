@@ -2,6 +2,7 @@
 title: Committees
 menu_show: true
 order: 5
+year: 2025
 ---
 
 ## Scientific Committees

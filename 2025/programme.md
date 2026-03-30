@@ -2,6 +2,7 @@
 title: Programme
 menu_show: true
 order: 0
+year: 2025
 ---
 
 ## Quick links

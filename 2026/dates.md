@@ -7,13 +7,25 @@ year: 2026
 
 # Important dates 
 
-* Abstract submission: Jannuary 30, 2026 <!-- January 31, 2025 -->
-* Paper submission: February 6, 2026 <!-- February 07, 2025 -->
-* Artefact submission: February 13, 2026 <!-- February 14, 2025 -->
-* Artefact kick-the-tires - problem reports: February 23, 2026 <!-- February 24, 2025 -->
-* Artefact kick-the-tires - author response: March 2, 2026 <!-- March 3, 2025 -->
-* Artefact notification: March 27, 2026 <!-- March 28, 2025 -->
-* Paper notification: March 27, 2026 <!-- March 28, 2025 -->
+For papers:
+
+- **Abstract submission:** ~~30 January 2026~~ **13 February 2026 (extended)**
+- **Paper submission:** ~~6 February 2026~~ **20 February 2026 (extended)**
+- Paper notification: 24 March 2026
+- Camera-ready: 3 April 2026 (hard)
+
+For artefacts:
+
+- Artefact submission: ~~13 February 2026~~ 27 February 2026 (extended)
+- Artefact kick-the-tires - problem reports: ~~23 February 2026~~ 6 March 2026 (extended)
+- Artefact kick-the-tires - author response: ~~2 March 2026~~ 13 March 2026 (extended)
+- Artefact notification: 27 March 2026
+
+**DisCoTec conference: June 8-12, 2026**
+
+Deadlines expire at 23:59 (AoE, anywhere on earth) on the dates displayed above.
+
+
 * Camera-ready: April 3, 2026 <!-- April 23, 2025 -->
 * Conference:  June 8-12, 2026
 

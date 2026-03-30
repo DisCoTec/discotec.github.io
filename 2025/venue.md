@@ -2,6 +2,7 @@
 title: Venue
 menu_show: true
 order: 7
+year: 2025
 ---
 
 # Venue: Lille, France

@@ -1,7 +1,7 @@
 ---
 title: Invited
-menu_show: true
-order: 3
+menu_show: false
+order: 4
 ---
 
 # Invited Speakers

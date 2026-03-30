@@ -4,7 +4,7 @@
 FORTE 2026 is one of the three conferences of [DisCoTec 2026](.), the 21th International Federated Conference on Distributed Computing Techniques.
 
 ### Quick Links:
-* [Important Dates](https://www.discotec.org/2026/important-dates)
+* [Important Dates](https://www.discotec.org/2026/dates)
 * [Topics of Interest](#main-topics-of-interest)
 * [Submission Categories](#categories-of-papers)
 * [Publication](#Publication)
@@ -53,6 +53,9 @@ We solicit papers in the following categories:
 * __Tool papers__ (7-15 pages, not counting references): describing technological artefacts in the scope of the research topics of FORTE.  The paper should present the underlying theory of the tool, a clear account of the tool’s functionality and limitations, and include case studies (with rigorous experimental evaluation). In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee.  The paper must contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes, to be submitted until a week after the paper submission deadline.
 * __Short papers__ (up to 6 pages, not counting references): describing innovative and promising ideas, possibly in an early form, or demonstrating new tools (components), or presenting (i) calls to action, or (ii) substantiated reflections on current and/or future research perspectives related to FORTE, or a summary of a published journal paper clarifying why the presentation would enrich the program of FORTE.
 
+[Submit your paper](https://easychair.org/conferences/?conf=forte2026)
+
+
 ## Artefact Submission Instructions 📣
 
 We invite you to also submit an associated artefact for evaluation (AE). Artefacts such as ancillary data, tools, and software will be assessed for availability, functionality, and reusability badges.
@@ -61,11 +64,9 @@ Instructions on how to upload artefacts can be found [here](FORTE_Artefact_Evalu
 
 As advertised in the call for papers, artefact submissions are mandatory for tool papers and optional for regular papers. Tool papers must submit an artefact that, at least, satisfies the requirements for the **Functional** badge. Papers not meeting this clause are rejected. Moreover, the acceptance of artefacts is conditional on the tool paper being accepted.
 
-Choose the "FORTE 2026 Artefact Evaluation" track in EasyChair when submitting your artefact.
+New artifact submissions are managed via EasyChair at the following link:
 
-<!--### Submission Link
-[Submission Link](https://easychair.org/conferences/?conf=forte2025)
-  -->
+[Submit your artifact](https://easychair.org/my2/conference?conf=forteae26)
 
 <!--### Accepted papers
 Go to the [**dedicated page**](accepted-papers)
@@ -118,7 +119,14 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 ## Artefact Evaluation Committee chair
 * Emilio Incerto (IMT School for Advanced Studies Lucca, IT)
 
-<!--## Artefact Evaluation Committee--->
+## Artefact Evaluation Committee
+* Gerard Tabone (University of Malta)
+* Daniele Masti (Gran Sasso Science Institute)
+* Marco Zamponi (IMT School for Advanced Studies Lucca)
+* Maurizio Murgia (Gran Sasso Science Institute)
+* Daniel Osmundsen Dirdal  (Univerity of Stavanger)
+* Roberto Pizziol (IMT School for Advanced Studies Lucca)
+
 
 ## Steering committee
 * Christel Baier (University Dresden, Germany)

@@ -2,6 +2,7 @@
 title: Satellites
 menu_show: true
 order: 2
+year: 2025
 ---
 
 # Satellite Events

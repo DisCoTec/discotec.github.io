@@ -54,7 +54,7 @@ System issues and design goals, including
 
 ## Submission and Publication
 
-All papers must be original, unpublished, and not submitted for publication elsewhere. Each paper will undergo a thorough peer review by the Program Committee. DAIS 2025 offers three submission tracks:
+All papers must be original, unpublished, and not submitted for publication elsewhere. Each paper will undergo a thorough peer review by the Program Committee. DAIS 2026 offers three submission tracks:
 
 * Full research papers in no more than 15 pages + 2 pages references.
 * Full practical experience reports, including experimental and evaluation studies, case studies, and practice reports in no more than 15 pages + 2 pages references.
@@ -73,7 +73,7 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
 ## Program committee chairs
-* [Ana Nunes Alonso][AnaWeb] (Inesctec, Portugal)
+* [Ana Nunes Alonso][AnaWeb] (INESC TEC, Portugal)
 * [Roberto Palmieri][PalmieriWeb] (Lehigh University, Pennsylvania)
 
 ## Program committee
@@ -93,9 +93,9 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 * Sebastiano Peluso, Meta, USA
 * Lewis Tseng, UMass Lowell, USA
 
-## Artifact Evaluation Committee
+<!--## Artifact Evaluation Committee
 TBC
-
+-->
 <!--
 * Alan Oliveira de Sá, LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
 * Cláudia Brito, INESC TEC & U. Minho, Portugal

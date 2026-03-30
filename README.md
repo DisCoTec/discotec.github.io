@@ -3,8 +3,8 @@
 The DisCoTec series of federated conferences is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)).
 It gathers three main conferences:
 
-* [Coordination](/2025/coordination) (IFIP WG6.1 International Conference on Coordination Models and Languages)
-* [DAIS](/2025/dais) (IFIP WG6.1 International Conference on Distributed Applications and Interoperable Systems)
+* [Coordination](/2026/coordination) (IFIP WG6.1 International Conference on Coordination Models and Languages)
+* [DAIS](/2026/dais) (IFIP WG6.1 International Conference on Distributed Applications and Interoperable Systems)
 * [FORTE](/forte) (IFIP WG6.1 International Conference on Formal Techniques for Distributed Objects, Components, and Systems)
 
 Together, these conferences cover a broad spectrum of distributed computing subjects, ranging from theoretical foundations and formal description techniques to systems research issues.
@@ -13,19 +13,29 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 
 ## Steering Committee
 
-* Gianluigi Zavattaro (University of Bologna, Italy)
+<figure>
+<iframe class="video" src="https://pod.univ-lille.fr/video/46112-history-of-the-discotec-federated-conference/?is_iframe=true" allowfullscreen title="The genesis of DisCoTec" ></iframe>
+  <figurecaption>The genesis of DisCoTec as told by <a href="https://www.unibo.it/sitoweb/gianluigi.zavattaro/en">Gianluigi Zavattaro</a></figurecaption>
+</figure>
+
+* Adrian Francalanza (University of Malta, Malta, **chair**)
+* Simon Bliudze (INRIA Lille, France)
 * Rocco De Nicola (IMT Lucca, Italy)
-* Mieke Massink (CNR, Italy)
-* Ivan Lanese (University of Bologna, Italy)
-* Luís Antunes Veiga (Technical University of Lisbon, Portugal)
-* Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
-* Adrian Francalanza (University of Malta)
 * Carla Ferreira (NOVA University of Lisbon, Portugal)
+* Ivan Lanese (University of Bologna, Italy)
+* Michele Loreti (University of Camerino, Italy)
 * Jorge A. Pérez (University of Groningen, The Netherlands)
+* Valerio Schiavoni (University of Neuchâtel, Switzerland)
+* Gianluigi Zavattaro (University of Bologna, Italy)
 
 ## Advisory board
 
-* Pascal Felber ( University of Neuchâtel, Switzerland)
+<figure>
+<iframe class="video" src="https://pod.univ-lille.fr/video/46118-discotec-tackling-new-challenges/?is_iframe=true" allowfullscreen title="DisCoTec - Tackling new challenges" ></iframe>
+  <figurecaption>DisCoTec 2025 attendees on tackling new challenges</figurecaption>
+</figure>
+
+* Pascal Felber (University of Neuchâtel, Switzerland)
 * Alain Girault (INRIA Grenoble, France)
 * Kostas Magoutis (ICS-FORTH, Greece)
 * Uwe Nestmann (TU Berlin, Germany)
@@ -40,6 +50,11 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 * Jean-Bernard Stefani (INRIA Grenoble, France)
 
 ## DisCoTec editions
+
+<figure>
+<iframe class="video" src="https://pod.univ-lille.fr/video/46116-portrait-of-discotec/?is_iframe=true" allowfullscreen title="Portrait of DisCoTec" ></iframe>
+<figurecaption>Portrait of DisCoTec</figurecaption>
+</figure>
 
 * [DisCoTec 2025](/2025/) - Lille, France
 * [DisCoTec 2024](/2024/) - Groningen, The Netherlands

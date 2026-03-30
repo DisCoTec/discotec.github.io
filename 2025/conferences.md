@@ -2,6 +2,7 @@
 title: Conferences
 menu_show: true
 order: 1
+year: 2025
 ---
 
 # Main Conferences

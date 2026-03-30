@@ -2,6 +2,7 @@
 title: Dates
 menu_show: false
 order: 1
+year: 2025
 ---
 
 # Important dates (Extended)
