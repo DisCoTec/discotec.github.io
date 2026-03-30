@@ -1,5 +1,5 @@
 ---
-title: Venue
+title: Invited
 menu_show: true
 order: 1
 year: 2026
