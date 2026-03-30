@@ -43,12 +43,6 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - Tools and techniques for automation
 - Synthesis techniques
 
-## Accepted Papers
-
-
-
-
-
 ## The ICE Selection Procedure
 
 Since [its first edition in 2008](#previous-editions), the distinguishing feature of ICE has been an innovative paper selection mechanism based on an interactive, friendly, and constructive discussion amongst authors and PC members in an online forum.
@@ -125,14 +119,13 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Jonas Kastberg Hinrichsen](https://jihgfee.github.io/) (Aalborg University, 🇩🇰)
 - [Ping Hou](https://mrg.cs.ox.ac.uk/people/ping-hou/) (University of Oxford, 🇬🇧)
 - [Elaine Li](https://efl9013.github.io/) (New York University, 🇺🇸)
-- [Danielle Marshall](https://starsandspira.ls/) (University of Glasglow, 🇬🇧)
+- [Danielle Marshall](https://starsandspira.ls/) (University of Glasgow, 🇬🇧)
 - [Maurizio Murgia](https://www.gssi.it/people/professors/lectures-computer-science/item/16615-murgia-maurizio) (Gran Sasso Science Institute, 🇮🇹)
 - [Jonah Pears](https://jonahpears.github.io/) (University of Kent, 🇬🇧)
 - [Marco Peressotti](https://marcoperessotti.com/) (University of Southern Denmark, 🇩🇰)
-- [Neea Rusch](https://nkrusch.github.io/) (Upssala University, 🇸🇪)
+- [Neea Rusch](https://nkrusch.github.io/) (Uppsala University, 🇸🇪)
 - [Chuta Sano](https://chutasano.github.io/) (School of Computer Science, McGill University, 🇨🇦)
 - [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/) (University of Luxembourg, 🇱🇺)
-- 
 
 ## Steering Committee
 
