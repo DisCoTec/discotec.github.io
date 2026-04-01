@@ -46,6 +46,10 @@ If you are travelling by car then take highway A14.
 In Urbino, you can leave your car at Santa Lucia Parking or Borgo Mercatale Parking. Tickets for 3 days
 € 20.00 and for 2 days € 15.00. Some hotels are equipped with private parking.
 
+## Accomodation
+* [Albergo Italia](https://www.albergo-italia-urbino.it/en/default.aspx) 2min walk from the conference (we have a special fare, please use the discount code DISCO2026 available till 6th of May)
+* [Hotel i Duchi](https://www.viphotels.it/en/hotel/hotel-residence-dei-duchi-urbino/) 15min walk from downtown (we have a special fare for the conference, [info here](./venue/booking_info_disco26.pdf))
+  
 
 
 ## About Urbino
@@ -61,7 +65,4 @@ There's a lot to see in Urbino! Please visit the [tourist office website](https:
 
 The University of Urbino was founded 519 years ago in 1506 by Guidobaldo da Montefeltro, the Duke of Urbino. One year later, the magistracy of Urbino was granted power to award doctorates in canon and civil law by papal bull from Pope Julius II.
 
-## Accomodation
-* [Albergo Italia](https://www.albergo-italia-urbino.it/en/default.aspx) 2min walk from the conference (we have a special fare, please use the discount code DISCO2026 available till 6th of May)
-* [Hotel i Duchi](https://www.viphotels.it/en/hotel/hotel-residence-dei-duchi-urbino/) 15min walk from downtime (we have a special fare for the conference, [info here](./venue/booking_info_disco26.pdf))
-  
+
