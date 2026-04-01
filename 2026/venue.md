@@ -63,5 +63,5 @@ The University of Urbino was founded 519 years ago in 1506 by Guidobaldo da Mont
 
 ## Accomodation
 * [Albergo Italia](https://www.albergo-italia-urbino.it/en/default.aspx) 2min walk from the conference (we have a special fare, please use the discount code DISCO2026 available till 6th of May)
-* [Hotel i Duchi](https://www.viphotels.it/en/hotel/hotel-residence-dei-duchi-urbino/) 15min walk from downtime (we have a special fare for the conference, (info here)[./venue/booking_info_disco26.pdf])
+* [Hotel i Duchi](https://www.viphotels.it/en/hotel/hotel-residence-dei-duchi-urbino/) 15min walk from downtime (we have a special fare for the conference, [info here](./venue/booking_info_disco26.pdf))
   
