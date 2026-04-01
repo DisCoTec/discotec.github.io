@@ -16,8 +16,9 @@ ICE 2026 is a satellite workshop of [DisCoTec 2026](..), held on June 12th in [U
 
 ## Important Dates
 
-- April 2nd, 2026            : Paper submission deadline
-- April 3rd - April 28th     : Forum interaction, reviews, and PC discussion
+- ~April 2nd, 2026           : Paper submission deadline~
+- April 9th, 2026            : Paper submission deadline (extended)
+- April 10th - April 28th    : Forum interaction, reviews, and PC discussion
 - April 30th                 : Notification to authors
 - June 12th                  : Workshop in Urbino, Italy
 - July 12th (tentative)      : Camera-ready for post-proceedings
