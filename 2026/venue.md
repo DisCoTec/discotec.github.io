@@ -47,10 +47,13 @@ In Urbino, you can leave your car at Santa Lucia Parking or Borgo Mercatale Park
 € 20.00 and for 2 days € 15.00. Some hotels are equipped with private parking.
 
 ## Accomodation
-* [Albergo Italia](https://www.albergo-italia-urbino.it/en/default.aspx) 2min walk from the conference (we have a special fare, please use the discount code DISCO2026 available till 6th of May)
+
+* [Albergo Italia](https://www.albergo-italia-urbino.it/en/default.aspx) 2min walk from the conference (we have a special fare, please use the discount code **DISCO2026** available till 6th of May)
 * [Hotel i Duchi](https://www.viphotels.it/en/hotel/hotel-residence-dei-duchi-urbino/) 15min walk from downtown (we have a special fare for the conference, [info here](./venue/booking_info_disco26.pdf))
   
-
+**Other near-by hotels with no special fare**
+* [Albergo San Domenico](https://www.viphotels.it/hotel/albergo-san-domenico-urbino) - **no special rate available**
+* [Albergo Bonconte](https://www.viphotels.it/hotel/hotel-bonconte-urbino) - **no special rate available**
 
 ## About Urbino
 
