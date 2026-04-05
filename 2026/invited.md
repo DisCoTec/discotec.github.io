@@ -62,7 +62,7 @@ international research projects and the organization of international
 conferences. He received his PhD in Computer Science from the University
 of Pisa.
 
-### [M.M. (Mehdi) Dastani](https://www.uu.nl/staff/MMDastani) (Utrecht University, The Netherlands) - COORDINATION
+### [Mehdi Dastani](https://www.uu.nl/staff/MMDastani) (Utrecht University, The Netherlands) - COORDINATION
 {: .keynote}
 **Title**: _Efficient Communication and Coordination in Multiagent Reinforcement Learning_  
 
