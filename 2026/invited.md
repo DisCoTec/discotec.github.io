@@ -13,7 +13,7 @@ DisCoTec 2026 has invited speakers to give [keynote talks](#keynote-talks) and [
 
 DisCoTec 2026 will host a keynote talk at each conference as well as a DisCoTec-wide keynote.
 The invited speakers are
-[Mehdi Dastani](#-mehdi-dastani-coordination) ([COORDINATION](./coordination)), [Paolo Romano](#paolo-romano-dais) ([DAIS](./Dais)), [Nathalie Bertrand ](#natalie-bertrand-forte) ([FORTE](./forte)), and [Roberto Bruni](#broberto-bruni-university-of-pisa---discotec-wide) (DisCoTec-wide).
+[Mehdi Dastani](#mehdi-dastani-coordination) ([COORDINATION](./coordination)), [Paolo Romano](#paolo-romano-dais) ([DAIS](./Dais)), [Nathalie Bertrand ](#natalie-bertrand-forte) ([FORTE](./forte)), and [Roberto Bruni](#broberto-bruni-university-of-pisa---discotec-wide) (DisCoTec-wide).
 
 
 ### [Roberto Bruni](https://pages.di.unipi.it/bruni/) (University of Pisa, Italy) - DisCoTec-wide
@@ -62,3 +62,10 @@ international research projects and the organization of international
 conferences. He received his PhD in Computer Science from the University
 of Pisa.
 
+### [M.M. (Mehdi) Dastani](https://www.uu.nl/staff/MMDastani) (Utrecht University, The Netherlands) - COORDINATION
+{: .keynote}
+**Title**: _Efficient Communication and Coordination in Multiagent Reinforcement Learning_  
+
+**Abstract**: Multiagent reinforcement learning (MARL) is a powerful framework for learning effective policies in complex multiagent environments. A key challenge in MARL is to learn coordinated policies efficiently in a decentralised manner. Prior work has explored a range of communication and coordination mechanisms to address these challenges. 
+
+In this talk, I will present our recent contributions towards improving the efficiency and performance of MARL systems through principled communication and coordination mechanisms. First, I introduce a decentralised communication scheduling approach that leverages supervised learning to construct a message estimation model. This model enables individual agents to selectively decide when sharing local information is beneficial, thereby reducing unnecessary communication. Empirical results show that this approach significantly decreases communication overhead while improving overall learning performance. Second, I present two logic-based methods for synthesising multiagent reward machines and action-masking artefacts. These methods provide formal guarantees that the resulting policies are both coordinated and safe, while also improving sample efficiency. 
