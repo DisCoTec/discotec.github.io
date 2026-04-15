@@ -8,11 +8,12 @@ COORDINATION 2026 is one of the three conferences of [DisCoTec 2026](.).
 
 ### Quick Links and Updates
 
+* **[Accepted papers](#accepted-papers)**
 * [Important Dates](https://www.discotec.org/2026/dates)
 * [Submission Link](#submission-link)
 * [Submission Categories](#categories-of-papers)
 
-- **2026-02-23**: see the updated [Artefact Submission Instructions](#artefact-submission-instructions)
+<!-- - **2026-02-23**: see the updated [Artefact Submission Instructions](#artefact-submission-instructions) --> 
 
 ### Dates
 
@@ -97,6 +98,30 @@ Topics of interest encompass all areas of coordination, including (but not limit
 ## Accepted Papers
 Go to the [list of accepted papers](https://www.discotec.org/2025/accepted-papers).
 -->
+
+## Accepted Papers
+
+The list of accepted papers follow (sorted by first author).
+
+### Regular Papers
+
+1. Yasmine Akaichi, Manel Barkallah, Jean-Marie Jacquet, Isabelle Linden and Wim Vanhoof. **Bach4Popper: Towards Federated Inductive Logic Programming using Coordination**
+2. Giorgio Audrito, Leonardo Bertolino, Ferruccio Damiani and Gianluca Torta. **Aggregate Indoor Localisation**
+3. Simon Bliudze, Sophie Cerf and Olga Kouchnarenko. **Motif Refinement for the Hierarchical Control of Structured CPSs**
+4. Isabelle Coget and Étienne Lozes. **HistMSO: a Logic for Reasoning on Consistency Models with MONA**
+5. Angela Cortecchia, Danilo Pianini and Mirko Viroli. **A Self-Stabilizing Min-Max Consensus via Path-loop Detection**
+6. Nicolas Farabegoli, Luca Tassinari, Gianluca Aguzzi and Mirko Viroli. **ScalaTropy: Multiparty Coordination with Monadic Communication Primitives**
+7. Carlos Gustavo Lopez Pombo, Pablo Montepagano and Emilio Tuosto. **Runtime adaptation as a programming pattern in service composition**
+8. Reiner Hähnle and Cosimo Laneve. **Verification of legal contracts via Java/JML and KeY**
+9. Riccardo Petracci, Nicola Del Giudice, Diletta Romana Cacciagrano and Michele Loreti. **Simulation and Analysis of Indoor-Air-Quality Measuring Devices with YODA**
+10. Neda Saeedloei and Feliks Kluzniak. **Timed Scenario Expressions and Realisability**
+11. Edgard Schiebelbein, Annette Bieniusa and Simon Fowler. **Proof of Delivery: Mechanized Mailbox Types**
+
+
+### Tool Papers
+
+12. Filippo Gurioli, Martina Baiardi, Angela Cortecchia and Danilo Pianini. **High-Fidelity Simulation of Aggregate Computing Systems with Collektivity**
+13. Gianluca Aguzzi, Davide Domini, Nicolas Farabegoli and Mirko Viroli. **Phyelds: A Pythonic Framework for Aggregate Computing**
 
 
 ## Submissions
