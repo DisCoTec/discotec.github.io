@@ -7,6 +7,28 @@ year: 2026
 
 # Accepted papers 
 
+## COORDINATION
+
+### Regular Papers
+
+* Yasmine Akaichi, Manel Barkallah, Jean-Marie Jacquet, Isabelle Linden and Wim Vanhoof. *Bach4Popper: Towards Federated Inductive Logic Programming using Coordination*
+* Giorgio Audrito, Leonardo Bertolino, Ferruccio Damiani and Gianluca Torta. *Aggregate Indoor Localisation*
+* Simon Bliudze, Sophie Cerf and Olga Kouchnarenko. *Motif Refinement for the Hierarchical Control of Structured CPSs*
+* Isabelle Coget and Étienne Lozes. *HistMSO: a Logic for Reasoning on Consistency Models with MONA*
+* Angela Cortecchia, Danilo Pianini and Mirko Viroli. *A Self-Stabilizing Min-Max Consensus via Path-loop Detection*
+* Nicolas Farabegoli, Luca Tassinari, Gianluca Aguzzi and Mirko Viroli. *ScalaTropy: Multiparty Coordination with Monadic Communication Primitives*
+* Carlos Gustavo Lopez Pombo, Pablo Montepagano and Emilio Tuosto. *Runtime adaptation as a programming pattern in service composition*
+* Reiner Hähnle and Cosimo Laneve. *Verification of legal contracts via Java/JML and KeY*
+* Riccardo Petracci, Nicola Del Giudice, Diletta Romana Cacciagrano and Michele Loreti. *Simulation and Analysis of Indoor-Air-Quality Measuring Devices with YODA*
+* Neda Saeedloei and Feliks Kluzniak. *Timed Scenario Expressions and Realisability*
+* Edgard Schiebelbein, Annette Bieniusa and Simon Fowler. *Proof of Delivery: Mechanized Mailbox Types*
+
+
+### Tool Papers
+
+* Filippo Gurioli, Martina Baiardi, Angela Cortecchia and Danilo Pianini. *High-Fidelity Simulation of Aggregate Computing Systems with Collektivity*
+* Gianluca Aguzzi, Davide Domini, Nicolas Farabegoli and Mirko Viroli. *Phyelds: A Pythonic Framework for Aggregate Computing*
+
 ## FORTE
 
 ### Regular Papers
