@@ -55,3 +55,16 @@ year: 2026
 
 - Oliver Pearce, Julien Lange and Dan O'Keeffe. *RustMC: Automated Verification of Real-World Concurrent Rust.*
 - Silvia Bonfanti, Angelo Gargantini, Elvinia Riccobene and Patrizia Scandurra. *AsmetaComp: a Tool for Runtime Contract Checking with I/O Abstract State Machines.*
+
+
+## DAIS
+
+### Regular Papers
+
+- Akash Dhasade, Rachid Guerraoui, Anne-Marie Kermarrec, Diana Petrescu, Rafael Pires, Mathis Randl and Martijn de Vos. *Efficient Federated Search for Retrieval-Augmented Generation using Lightweight Routing*.
+- Samarth P, Vyoman Jain, Sanjiv Raghunandan, Akepati Ramya Sri and Richa Sharma. *HyperCluster: Decentralized Large Language Model Inference over Peer-to-Peer Wireless Networks*.
+- Thi Minh Chau Nguyen, Hien Trang Nguyen, Duc Anh Nguyen, Van Ho-Long, Thanh Trung Huynh and Zhao Ren. *Improving Federated Graph Recommendation with Semantic Guidance*.
+- Quentin Voiret, Bertrand Ducourthial, Pascal Felber and Valerio Schiavoni. *Graph-Matrix Model for Data Storage Systems*.
+- Mehmet Cihan Sakman, Valerio Schiavoni, Ronny Seiger, Olaf Zimmermann and Josef Spillner. *Heterogeneous Application Orchestration in Cyber-Physical Systems*.
+- Nicola Ricciardi, Marco Picone, Riccardo Morandi and Nicola Bicocchi. *Orbitalis: A Distributed Microkernel Framework*.
+- Michèle Fischer, Hugo Delottier, Qi Tang, Oliver S. Schilling, Valerio Schiavoni and Philip Brunner. *An automated IoT-based infrastructure for real-time soil water deficit prediction*.
