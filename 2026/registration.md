@@ -94,7 +94,7 @@ We will reply with a certificate in PDF.
 ## Student Travel Grants 
 Similar to past editions, there are no special fees for students but we have a limited amount of student travel grants provided by [IFIP](https://www.ifip.org) (subject to conditions). 
 
-In order to apply to these grants, candidates should send their application (CV and a one-page motivation letter) via email to <claudio.mezzina@uniurb.it> with the subject “DisCoTec 2025 - student travel grant”. 
+In order to apply to these grants, candidates should send their application (CV and a one-page motivation letter) via email to <claudio.mezzina@uniurb.it> with the subject “DisCoTec 2026 - student travel grant”. 
 
 Applications should arrive by the early registration date, and will be handled on a first-come, first-served basis. 
 
