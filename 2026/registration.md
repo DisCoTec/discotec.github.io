@@ -62,17 +62,17 @@ This category includes full access on Monday 11 AND Friday 20:
 The deadline for registration has passed. Registering online is no longer possible.
 
 ## Dietary restrictions
-Do send an email to <discotec2025@inria.fr> with subject "Dietary restrictions" should you have any.
+Do send an email to <claudio.mezzina@uniurb.it> with subject "Dietary restrictions" should you have any.
 
 ## Invoices
-Upon completion of the registration process, you should automatically receive an invoice and/or proof of purchase. If you did not receive one, please send an email to <discotec2025@inria.fr> with subject "Invoice Request DisCoTec" indicating:
+Upon completion of the registration process, you should automatically receive an invoice and/or proof of purchase. If you did not receive one, please send an email to <claudio.mezzina@uniurb.it> with subject "Invoice Request DisCoTec" indicating:
 - your full name and email address; 
 - the amount and the date on which you completed the online payment; 
 - the exact information that you need to appear on it (institution, address, VAT number, etc)
 
 ## Visa Information
 
-In case you need an invitation letter, after completing the registration process, please send your request to <discotec2025@inria.fr> (subject: “DisCoTec 2025 - Visa invitation letter”) by specifying the following details:
+In case you need an invitation letter, after completing the registration process, please send your request to <claudio.mezzina@uniurb.it> (subject: “DisCoTec 2025 - Visa invitation letter”) by specifying the following details:
 
 * Date in which you completed the registration and payment process
 * Full name (as shown in your passport)
@@ -86,7 +86,7 @@ In case you need an invitation letter, after completing the registration process
 We aim at processing letter requests quickly (via email), after having confirmed that registration has taken place. 
 
 ## Certificate of Attendance
-If you registered and need a certificate of attendance, please send an email to <discotec2025@inria.fr> with subject "Certificate DisCoTec" indicating:
+If you registered and need a certificate of attendance, please send an email to <claudio.mezzina@uniurb.it> with subject "Certificate DisCoTec" indicating:
 - your full name and institutional affiliation
 
 We will reply with a certificate in PDF.
@@ -94,7 +94,7 @@ We will reply with a certificate in PDF.
 ## Student Travel Grants 
 Similar to past editions, there are no special fees for students but we have a limited amount of student travel grants provided by [IFIP](https://www.ifip.org) (subject to conditions). 
 
-In order to apply to these grants, candidates should send their application (CV and a one-page motivation letter) via email to <discotec2025@inria.fr> with the subject “DisCoTec 2025 - student travel grant”. 
+In order to apply to these grants, candidates should send their application (CV and a one-page motivation letter) via email to <claudio.mezzina@uniurb.it> with the subject “DisCoTec 2025 - student travel grant”. 
 
 Applications should arrive by the early registration date, and will be handled on a first-come, first-served basis. 
 
