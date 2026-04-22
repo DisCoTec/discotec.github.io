@@ -8,56 +8,47 @@ year: 2025
 # Registration
 
 ## Important Dates
-* ~~Early registration: Possible until **May 23rd, 2025**, using the link below.~~ 
-* ~~Late registration: Possible until **June 11th, 2025**, using the link below.~~ 
-* ~~DisCoTeC 2025: **June 16th to 20th, 2025**.~~
+* Early registration: Possible until **May 17th, 2026**, using the link below.
+* Late registration: Possible until **June 3rd, 2026**, using the link below. 
+* DisCoTeC 2026: **June 8th to 12th, 2026**.
 
 ## General Conditions 
-* DisCoTec 2025 is planned as an on-site event.
+* DisCoTec 2026 is planned as an on-site event.
 * At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
-* All registration fees below include 10% of VAT.
+* All registration fees below include 22% of VAT.
 * Similar to past editions, there are --no special fees for students, but we have a limited amount of **student travel grants** provided by IFIP; see below for details.
-* The online registration form will close after June 11th. If registering by this date is not possible, please contact the local organization (<discotec2025@inria.fr>) well in advance.
 * In order to keep registration fees as low as possible, on-site registration and cancellations/refunds are not supported (see also below). 
-* If you have any questions about the registration, please contact <discotec2025@inria.fr> (please, refer to “DisCoTec 2025 Registration” in the subject).
+* If you have any questions about the registration, please contact <claudio.mezzina@uniurb.it> (please, refer to “DisCoTec 2026 Registration” in the subject).
 
 ## Events and Fees
 
-|   | Early (until May 23) | Late (until June 11) |
+|   | Early (until May 17) | Late (until June 11) |
 | - | -: | -: |
-| **Full week** | EUR 650 | EUR 750 |
-| **DisCoTec Conferences + 1 Satellite day** | EUR 615 | EUR 715 |
+| **Full week** | EUR 600 | EUR 700 |
 | **DisCoTec Conferences only** | EUR 550 | EUR 650 |
-| **Satellite events only** | EUR 100 | EUR 100 |
+| **Satellite events only** | EUR 80 | EUR 100 |
 
 ## Description of categories
 ### Main conferences only
 This category includes full access on Tuesday 17, Wednesday 18, and Thursday 19:
 * Access to all Coordination, DAIS, and FORTE sessions 
-* Access to the Gender Parity / Women in Science session
 * Lunch and two coffee breaks
 * Free access to the online LNCS proceedings of Coordination, DAIS, and FORTE
-* Full social program on Wednesday 18 (social activities + conference banquet)
+* Full social program on Wednesday 10 (social activities + conference banquet)
 * Welcome reception on Monday
 
-### Main conferences + 1 day satellites
-This category includes
-* All benefits of “Main conferences only” 
-* Access to all workshops and tutorials on one of the satellite days (Monday 16 OR Friday 20)
-* Lunch and two coffee breaks on the same day
-* Welcome AND Closing reception
 
 ### Full week
 This category includes 
 * All benefits of “Main conferences only”
-* Access to all workshops and tutorials on both satellite days (Monday 16 AND Friday 20)
+* Access to all workshops and tutorials on both satellite days (Monday 8 AND Friday 12)
 * Lunch and two coffee breaks on both satellite days
 
 ### Satellite events only
-This category includes full access on Monday 16 AND Friday 20:
+This category includes full access on Monday 11 AND Friday 20:
 * Access to all workshops and tutorials on both satellite days
 * Lunch and two coffee breaks on the satellite days
-* Welcome AND Closing reception
+* Welcome reception
 
 **Note:** Additionally to the category selection, you *must* select the events you plan to attend, to help the organizing committee with logistics.
 
