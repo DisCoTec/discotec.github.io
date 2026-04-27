@@ -50,15 +50,10 @@ This category includes full access on Monday 11 AND Friday 20:
 * Lunch and two coffee breaks on the satellite days
 * Welcome reception
 
-**Note:** Additionally to the category selection, you *must* select the events you plan to attend, to help the organizing committee with logistics.
-
-{:refdef: style="text-align: center; width: 50%;"}
-![Extras list](./registration_extras.png)
-{: refdef}
 
 ## Registration Link
 
-The paymed has to be done as a "spontaneous payment to the university". Please follow the [pdf guide](./venue/how_to_pay.pdf) for the payment. 
+The paymed has to be done as a "spontaneous payment to the university". Please follow the [pdf guide](./venue/how_to.pdf) for the payment. 
 [Payment site](https://uniurb.pagoatenei.cineca.it/frontoffice/pagamentospontaneo)
 <!-- You can register for DisCoTec by filling in the following form: [https://dr18.azur-colloque.fr/inscription/en/135/inscription](https://dr18.azur-colloque.fr/inscription/en/135/inscription). -->
 
