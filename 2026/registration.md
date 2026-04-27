@@ -57,18 +57,16 @@ This category includes full access on Monday 11 AND Friday 20:
 
 ## Registration Link
 
+The paymed has to be done as a "spontaneous payment to the university". Please follow the [pdf guide](./venue/how_to_pay.pdf) for the payment. 
+[Payment site](https://uniurb.pagoatenei.cineca.it/frontoffice/pagamentospontaneo)
 <!-- You can register for DisCoTec by filling in the following form: [https://dr18.azur-colloque.fr/inscription/en/135/inscription](https://dr18.azur-colloque.fr/inscription/en/135/inscription). -->
 
-The deadline for registration has passed. Registering online is no longer possible.
+Once you have payed, plase fill in the following form [registration form](https://forms.gle/Myzp9PKL6JtJanKn6)
+<!--The deadline for registration has passed. Registering online is no longer possible.-->
 
 ## Dietary restrictions
 Do send an email to <claudio.mezzina@uniurb.it> with subject "Dietary restrictions" should you have any.
 
-## Invoices
-Upon completion of the registration process, you should automatically receive an invoice and/or proof of purchase. If you did not receive one, please send an email to <claudio.mezzina@uniurb.it> with subject "Invoice Request DisCoTec" indicating:
-- your full name and email address; 
-- the amount and the date on which you completed the online payment; 
-- the exact information that you need to appear on it (institution, address, VAT number, etc)
 
 ## Visa Information
 
@@ -99,4 +97,4 @@ In order to apply to these grants, candidates should send their application (CV 
 Applications should arrive by the early registration date, and will be handled on a first-come, first-served basis. 
 
 ## Cancellation/Refund Policy
-In order to keep registration fees as low as possible, there will be no refunds in cases of cancellation. However, registered participants who have to cancel their participation may be substituted by another participant at no extra cost.
+In order to keep registration fees as low as possible, there will be no refunds in cases of cancellation. 
