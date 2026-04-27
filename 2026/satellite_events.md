@@ -2,7 +2,6 @@
 title: Satellites
 menu_show: true
 order: 2
-year: 2026
 ---
 
 # Satellite Events
