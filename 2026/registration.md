@@ -30,7 +30,7 @@ year: 2026
 
 ## Description of categories
 ### Main conferences only
-This category includes full access on Tuesday 17, Wednesday 18, and Thursday 19:
+This category includes full access on Tuesday 9, Wednesday 10, and Thursday 11:
 * Access to all Coordination, DAIS, and FORTE sessions 
 * Lunch and two coffee breaks
 * Free access to the online LNCS proceedings of Coordination, DAIS, and FORTE
@@ -45,7 +45,7 @@ This category includes
 * Lunch and two coffee breaks on both satellite days
 
 ### Satellite events only
-This category includes full access on Monday 11 AND Friday 20:
+This category includes full access on Monday 8 AND Friday 12:
 * Access to all workshops and tutorials on both satellite days
 * Lunch and two coffee breaks on the satellite days
 * Welcome reception
