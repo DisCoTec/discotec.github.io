@@ -27,6 +27,10 @@ DisCoTec 2026 will host the following invited speakers.
 * [Nathalie Bertrand](https://people.rennes.inria.fr/Nathalie.Bertrand/) (Inria, FR) - [FORTE](./forte)
 * [Roberto Bruni](https://pages.di.unipi.it/bruni/) (University of Pisa, IT) - DisCoTec-wide
 
+### Turorials
+* Distributed Runtime Verification in Proximity-based Networks: A Tutorial on the Aggregate Programming Approach (Audrito, Damiani, Scarso, Stolz, Torta, UNITO) Mon 8, 14-17
+
+  
 ## Best Paper Awards
 
 Each of the three DisCoTec 2025 main conferences will designate the best paper among its accepted ones.
@@ -39,14 +43,18 @@ The best papers of the past three editions of DisCoTec are the following:
 [2025](/2025/)
 : COORDINATION
   : Verified Parameterized Choreographies ([DOI](https://doi.org/10.1007/978-3-031-95589-1_3))
+  
     by Robert Rubbens, Petra van den Bos and Marieke Huisman.
 
 : DAIS and DisCoTec-wide
   : Hybrid CPU/Memory Elastic Scaling for Distributed Stream Processing ([DOI](https://doi.org/10.1007/978-3-031-95728-4_6))
-  by Donatien Schmitz, Guillaume Rosinosky and Etienne Rivière 
+  
+    by Donatien Schmitz, Guillaume Rosinosky and Etienne Rivière 
+  
 : FORTE
   :  Revisited Convergence of a Self-Stabilizing BFS Spanning Tree Algorithm ([DOI](https://doi.org/10.1007/978-3-031-95497-9_9))
-  by Karine Altisen and Marius Bozga
+  
+    by Karine Altisen and Marius Bozga
   
 [2024](/2024/)
 
