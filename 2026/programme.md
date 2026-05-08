@@ -2,7 +2,7 @@
 title: Programme
 menu_show: true
 order: 0
-year: 2025
+year: 2026
 ---
 
 ## Quick links
@@ -11,24 +11,16 @@ year: 2025
 
 # Programme overview
 
-![Programme overview](program-overview-w-rooms.png)
+![Programme overview](./venue/program.png)
 
 ## In a nutshell
 
 ### Monday, June 16th
 
-* [Components Operationally: Reversibility and System Engineering](./satellite/corse) (CORSE) workshop
-    * **Where:** Amphi 130 (upstairs)
-    * **When:** 09:00-18:00
-* [Driving distributed system experiments on the edge-to-cloud continuum with EnOSlib](./invited#baptiste-jonglez-inria-france---dais) DAIS tutorial
-    * **Where:** Room 038 B (downstairs)
-    * **When:** 11:30-15:30
-* [Mechanized Type Soundness for Substructural Types using Iris](./invited#robbert-krebbers-radboud-university-nijmegen-the-netherlands---coordination) COORDINATION tutorial
-    * **Where:** Room 038 B (downstairs)
-    * **When:** 09:00-11:30
-* [A choreographic view of Smart Contracts](./invited#emilio-tuosto-gssi-italy---forte) FORTE tutorial
-    * **Where:** Room 038 B (downstairs)
-    * **When:** 16:00-18:00
+
+* [Distributed Runtime Verification in Proximity-based Networks](./invited#robbert-krebbers-radboud-university-nijmegen-the-netherlands---coordination) COORDINATION tutorial
+    * **Where:** 
+    * **When:** 14:00-17:00
 
 ### Tuesday, June 17th: Main Conferences
 
