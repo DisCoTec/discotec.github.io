@@ -19,7 +19,7 @@ year: 2026
 
 
 *  COORDINATION tutorial
-    * **Where:** 
+    * **Where:** Aula Magna
     * **When:** 14:00-17:00
 
 ### Tuesday, June 9th: Main Conferences
@@ -42,6 +42,9 @@ year: 2026
 * Invited talk: [Roberto Bruni](./invited#roberto-bruni-university-of-pisa-italy---discotec-wide) (**09:00**)
 * Joint best paper session (**10:30**)
 * Invited talk: [Paolo Romano](./invited#paolo-romano-inesc-id-lisbon---distributed-systems-group-portugal---dais) (**14:00**)
+* * Contributed papers in two tracks: 
+   * COORDINATION: Aula Magna
+   * FORTE:
 * Social activities:
     * Visit at the National Painting Gallery &mdash; leaving directly from the conference venue.
     * Conference dinner at ragno d'oro
@@ -49,7 +52,9 @@ year: 2026
 ### Thursday, June 11th: Main Conferences
 
 * Invited talk: [Nathalie Bertrand ](./invited#nathalie-bertrand-inria-france---forte) (**09:00**)
-
+* * Contributed papers in two tracks: 
+   * COORDINATION: Aula Magna
+   * FORTE:
 
 ### Friday, June 12th
 
