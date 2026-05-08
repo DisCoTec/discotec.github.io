@@ -22,7 +22,7 @@ year: 2026
     * **Where:** 
     * **When:** 14:00-17:00
 
-### Tuesday, June 17th: Main Conferences
+### Tuesday, June 9th: Main Conferences
 
 * Openning: -- (University of Urbino) (**08:30**) 
    * Aula Magna ()
@@ -33,7 +33,7 @@ year: 2026
    * FORTE:
    * DAIS: 
 
-### Wednesday, June 18th: Main Conferences
+### Wednesday, June 10th: Main Conferences
 
 * Invited talk: [Roberto Bruni](./invited#roberto-bruni-university-of-pisa-italy---discotec-wide) (**09:00**)
 * Joint best paper session (**10:30**)
@@ -42,12 +42,12 @@ year: 2026
     * Visit at the National Painting Gallery &mdash; leaving directly from the conference venue.
     * Conference dinner at ragno d'oro
 
-### Thursday, June 19th: Main Conferences
+### Thursday, June 11th: Main Conferences
 
 * Invited talk: [Nathalie Bertrand ](./invited#nathalie-bertrand-inria-france---forte) (**09:00**)
 
 
-### Friday, June 20th
+### Friday, June 12th
 
 * [19th Interaction and Concurrency Experience](./satellite/ice) (ICE) workshop
     * **Where:** Aula Magna 
