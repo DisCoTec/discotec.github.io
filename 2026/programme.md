@@ -31,7 +31,11 @@ year: 2026
 * Contributed papers in three tracks: 
    * COORDINATION: Aula Magna
    * FORTE:
-   * DAIS: 
+   * DAIS:
+* Welcome party
+   * Where:** Collegio Raffaello  (TBC)
+   * **When: ** 18:00-20:00 **
+  
 
 ### Wednesday, June 10th: Main Conferences
 
