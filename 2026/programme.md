@@ -37,16 +37,15 @@ year: 2026
 
 * Invited talk: [Roberto Bruni](./invited#alysson-bessani-universidade-de-lisboa-portugal---dais) (**09:00**)
 * Joint best paper session (**10:30**)
-* Invited talk: [Paolo Romano](./invited##hélène-coullon-imt-atlantique-france---discotec-wide) (**13:30**)
-* Women @ Science (**15:00**)
-   * **Amphi 140 (upstairs, opposite end of the building)**
+* Invited talk: [Paolo Romano](./invited##hélène-coullon-imt-atlantique-france---discotec-wide) (**14:00**)
 * Social activities:
     * Visit at the National Painting Gallery &mdash; leaving directly from the conference venue.
     * Conference dinner at ragno d'oro
 
 ### Thursday, June 19th: Main Conferences
 
-* 
+* Invited talk: [Roberto Bruni](./invited#alysson-bessani-universidade-de-lisboa-portugal---dais) (**09:00**)
+
 
 ### Friday, June 20th
 
