@@ -92,4 +92,32 @@ His research is focused on parallel and distributed systems, with a strong empha
 
 In these areas, he published more than 200 papers, receiving 5 best paper awards, and has coordinated several national and European projects, including a COST Action bringing together researchers from 60 institutions and 17 countries. He serves regularly as Program Committee member and reviewer for renowned international conferences and journals, including EuroSys, DSN, ICDCS, PPoPP, IEEE TKDE, IEEE TPDS, ACM TOPLAS. 
 
+### [Nathalie Bertrand](https://people.rennes.inria.fr/Nathalie.Bertrand/) (INRIA, France) - FORTE
+**Title**: Proving correctness of distributed algorithms thanks to parameterized
+verfication
+
+**Abstract**:
+Distributed and concurrent systems are at the heart of modern digital
+applications, devices and infrastructures. Since errors in cloud computing, e-
+commerce platforms, or transportation systems can have dramatic consequences, it
+is necessary to provide rigorous methods for verifying them. At the core of
+these distributed and concurrent systems are distributed algorithms that enable
+consensus, leader election, data constistency, etc. which are essential to
+ensuring proper functioning.
+This talks presents techniques originating from model checking to prove
+correctness of specific distributed algorithms that have a round-based
+structure. The executions of such algorithms are unbounded in two dimensions:
+the number of processes or threads they involve, and the number of rounds they
+go through. Their automated verification is therefore challenging. We report on
+recent contributions that leverage the concept of abstractions and exploit
+efficient SMT solvers and symbolic model checkers to perform the parameterized
+verification of round-based distributed algorithms.
+
+**Bio**:
+Nathalie Bertrand is a senior researcher at Inria, based in Rennes (France). Her
+research interest are centered on formal methods for the verification and
+synthesis of complex systems. She focuses on model-checking algorithms, games
+for synthesis and model-based testing. In the last years, she has been
+interested in applying formal methods to prove correctness of distributed
+algorithms.
 
