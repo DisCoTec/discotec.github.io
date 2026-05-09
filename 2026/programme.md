@@ -64,5 +64,30 @@ year: 2026
 
 ## Details (Tuesday - Thursday)
 
+**FORTE**
+   * **S1 - Session types**
+      * Deadlock-free Context-free Session Types
+      * Binary and two-party asyncronous subtypings are equivalent
+      * AsmetaComp: a Tool for Runtime Contract Checking with I/O Abstract State Machines
 
+   * **S 2-3 - Timed systems**
+      * TARZAN: A Region-Based Library for Forward and Backward Reachability of Timed Automata
+      * TPTL-DIST: A Calculus for Verifying Real-Time Distributed Systems
+      * A Jacobi-Based Distributed Clock Synchronization Algorithm for Wide-Area Networks
+      * Robustness Against Time Distortions in STARK
 
+   * BEST PAPER SESSION
+      * Soundness of Typed Transitions in the Linear Pi Calculus
+
+   * **S4 - Learning**
+      * NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic
+      * Automata Learning with an Incomplete but Inductive Teacher
+
+* **S5 - Model checking & mechanization**
+   * Harmony in Rocq
+   * Control Flow-Based Symmetry Reduction for Parameterised Boolean Equation Systems
+   * RustMC: Automated Verification of Real-World Concurrent Rust
+
+* **S6 - Verification**
+   * Sound Automatic Lock Placement for Concurrent Programs with Pointers
+   * Formal Modeling of BEEFY, a Protocol for Supporting Light Clients
