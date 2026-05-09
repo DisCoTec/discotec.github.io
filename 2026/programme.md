@@ -90,7 +90,7 @@ year: 2026
    * Bach4Popper: Towards Federated Inductive Logic Programming using Coordination
    * Phyelds: A Pythonic Framework for Aggregate Computing [tool]
 
-* **DAIS**
+**DAIS**
    * **S1 - Distributed Machine Learning**
       * Efficient Federated Search for Retrieval-Augmented Generation using Lightweight Routing
       * HyperCluster: Decentralized Large Language Model Inference over Peer-to-Peer Wireless Networks
