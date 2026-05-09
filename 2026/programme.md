@@ -30,8 +30,8 @@ year: 2026
    * Aula Magna
 * Contributed papers in three tracks: 
    * COORDINATION: Aula Magna
-   * FORTE:
-   * DAIS:
+   * FORTE: Sala del Consiglio
+   * DAIS: Aula Amaranto
 * Welcome party
    * Where:** Collegio Raffaello  (TBC)
    * **When: ** 18:00-20:00 **
@@ -44,9 +44,9 @@ year: 2026
 * Invited talk: [Paolo Romano](./invited#paolo-romano-inesc-id-lisbon---distributed-systems-group-portugal---dais) (**14:00**)
 * * Contributed papers in two tracks: 
    * COORDINATION: Aula Magna
-   * FORTE:
+   * FORTE:Sala del Consiglio
 * Social activities:
-    * Visit at the National Painting Gallery &mdash; leaving directly from the conference venue.
+    * Visit at the [National Painting Gallery](https://gndm.it/en/visit/?gad_source=1&gad_campaignid=22785201761&gbraid=0AAAABAahIOh4ERWcblCuwYKB_Dd3paO9l&gclid=CjwKCAjwtvvPBhBuEiwAPMijrz3Xlf3yWdaGBg8y6jOEAWV9TJlkkRLhoYLiqMNvrAnWzNCGu9ccxBoC4RsQAvD_BwE) &mdash; leaving directly from the conference venue.
     * Conference dinner at ragno d'oro
 
 ### Thursday, June 11th: Main Conferences
@@ -54,7 +54,7 @@ year: 2026
 * Invited talk: [Nathalie Bertrand ](./invited#nathalie-bertrand-inria-france---forte) (**09:00**)
 * * Contributed papers in two tracks: 
    * COORDINATION: Aula Magna
-   * FORTE:
+   * FORTE: Sala del Consiglio
 
 ### Friday, June 12th
 
