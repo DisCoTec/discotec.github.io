@@ -64,6 +64,50 @@ year: 2026
 
 ## Details (Tuesday - Thursday)
 
+**COORDINATION**
+* **S1 - Formal modeling and analysis of distributed systems**
+   * Timed Scenario Expressions and Realisability
+   * HistMSO: a Logic for Reasoning on Consistency Models with MONA
+   * Motif Refinement for the Hierarchical Control of Structured CPSs
+
+* **S2 - Formal verification in coordination languages**
+   * Deductive Verification of Legal Contracts
+   * Proof of Delivery: Mechanized Mailbox Types
+
+* **S3 - Distributed algorithms for collective adaptive systems**
+   * Aggregate Indoor Localisation
+   * A Self-Stabilizing Min-Max Consensus via Path-loop Detection
+
+* **BEST PAPER SESSION**
+   * Runtime adaptation as a programming pattern in service composition
+
+* **S4 - Simulation tools and methodologies for collective adaptive systems**
+   * Simulation and Analysis of Indoor-Air-Quality Measuring Devices with YODA
+   * High-Fidelity Simulation of Aggregate Computing Systems with Collektivity [tool]
+
+* **S5 - Coordination languages, designs, and frameworks**
+   * ScalaTropy: Multiparty Coordination with Monadic Communication Primitives
+   * Bach4Popper: Towards Federated Inductive Logic Programming using Coordination
+   * Phyelds: A Pythonic Framework for Aggregate Computing [tool]
+
+* **DAIS**
+   * **S1 - Distributed Machine Learning**
+      * Efficient Federated Search for Retrieval-Augmented Generation using Lightweight Routing
+      * HyperCluster: Decentralized Large Language Model Inference over Peer-to-Peer Wireless Networks
+      * Improving Federated Graph Recommendation with Semantic Guidance
+
+* **S2 - Storage and Distributed Systems**
+   * Graph-Matrix Model for Data Storage Systems
+   * Orbitalis: A Distributed Microkernel Framework
+
+* **S3 - IoT and Cyber-Physical Systems**
+   * Heterogeneous Application Orchestration in Cyber-Physical Systems
+   * An automated IoT-based infrastructure for real-time soil water deficit prediction
+ 
+* BEST PAPER SESSION
+      * **TBD**
+
+
 **FORTE**
    * **S1 - Session types**
       * Deadlock-free Context-free Session Types
