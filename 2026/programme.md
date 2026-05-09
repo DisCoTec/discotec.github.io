@@ -79,7 +79,7 @@ year: 2026
    * A Self-Stabilizing Min-Max Consensus via Path-loop Detection
 
 * **BEST PAPER SESSION**
-   * Runtime adaptation as a programming pattern in service composition
+   * :star: Runtime adaptation as a programming pattern in service composition :star:
 
 * **S4 - Simulation tools and methodologies for collective adaptive systems**
    * Simulation and Analysis of Indoor-Air-Quality Measuring Devices with YODA
@@ -104,7 +104,7 @@ year: 2026
    * Heterogeneous Application Orchestration in Cyber-Physical Systems
    * An automated IoT-based infrastructure for real-time soil water deficit prediction
  
-* BEST PAPER SESSION
+* **BEST PAPER SESSION**
       * **TBD**
 
 
@@ -120,8 +120,8 @@ year: 2026
       * A Jacobi-Based Distributed Clock Synchronization Algorithm for Wide-Area Networks
       * Robustness Against Time Distortions in STARK
 
-   * BEST PAPER SESSION
-      * Soundness of Typed Transitions in the Linear Pi Calculus
+   * **BEST PAPER SESSION**
+      * :star: Soundness of Typed Transitions in the Linear Pi Calculus :star:
 
    * **S4 - Learning**
       * NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic
