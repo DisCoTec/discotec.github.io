@@ -22,6 +22,10 @@ year: 2026
     * **Where:** Aula Magna
     * **When:** 14:00-17:00
 
+*  FORTE tutorial: [Josef Widder](invited#josef-widder-quint-austria---forte)
+    * **Where:** Sala del Consiglio
+    * **When:** 14:00-16:30
+
 ### Tuesday, June 9th: Main Conferences
 
 * Openning: -- (University of Urbino) (**08:30**) 

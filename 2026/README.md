@@ -27,8 +27,9 @@ DisCoTec 2026 will host the following invited speakers.
 * [Nathalie Bertrand](https://people.rennes.inria.fr/Nathalie.Bertrand/) (Inria, FR) - [FORTE](./forte)
 * [Roberto Bruni](https://pages.di.unipi.it/bruni/) (University of Pisa, IT) - DisCoTec-wide
 
-### Turorials
+### Tutorials
 * Distributed Runtime Verification in Proximity-based Networks: A Tutorial on the Aggregate Programming Approach (Audrito, Damiani, Scarso, Stolz, Torta, UNITO) Mon 8, 14-17
+* [Josef Widder](https://www.linkedin.com/in/josef-widder/) (Quint, Austria) - [FORTE](./forte) 
 
   
 ## Best Paper Awards
