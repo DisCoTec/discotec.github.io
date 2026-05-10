@@ -121,3 +121,25 @@ for synthesis and model-based testing. In the last years, she has been
 interested in applying formal methods to prove correctness of distributed
 algorithms.
 
+
+## Tutorials
+
+
+### [Josef Widder](https://www.linkedin.com/in/josef-widder/) (Quint, Austria) - FORTE
+
+
+**Title:** _From Whiteboard to Model Checker: Hands-On Formal Methods for Distributed Protocols with Quint_ 
+
+**Abstract:**
+Formal methods have long promised to make distributed protocols more reliable. Academic tools have made real progress here: they showcase effective use of decision procedures on specific sets of benchmarks and are designed for rigorous use in controlled settings. This is necessary to make scientific progress and to evaluate it. At the same time, it often limits practical applications, where users face a steep learning curve for formalisms, and they lack intuition on how the tools are working internally. As a result, industrial users easily run into instances of verification problems that might drive academic tools out of their comfort zone.
+
+Quint was built on the idea to lower the entry burden for formal methods and allow a wide range of users to immediately benefit from light-weight formal methods like formal specification and simulation. The goal is not to replace rigorous reasoning, but to put it to its most effective use. With formal specification one can already eliminate / rule out issues that would be hard to find in English design documents. Simulation is effective in finding issues due to concurrency and faults where human reasoning on a whiteboard may fail. At this point we have already gained some confidence into a protocol, if not enough, we can move to, e.g., model checking. However, at this point we can be confident we are not wasting this powerful tool on shallow bugs.
+
+Quint builds on the foundations of TLA+, the temporal logic of actions, but offers a modern and typed syntax that feels closer to functional programming than to mathematics. It comes with a simulator, a REPL, a model checker, and integrates with standard development workflows. As Quint also compiles into TLA+, in addition to Quint-native tooling, users can over time increase their confidence by using the Apalache and TLC model checkers, or even the proof system TLAPS.
+
+The tutorial is structured in two parts. The first part covers the core language: how to write executable specifications of distributed protocols, how to express safety and liveness properties, and how to run the tools to find bugs and counterexamples. The second part digs into real-world case studies drawn from deployed systems, including blockchain consensus protocols and related protocols, showing how Quint has been used in practice for design, auditing, and verification.
+Participants will come away with a working understanding of Quint and a sense of where lightweight formal methods fit into the broader landscape of tools for distributed systems.
+
+**Bio**:
+Josef Widder is Chief Scientist at Quint Labs. Before that, he was Director of Protocol Engineering at Informal Systems, where he led design and formal methods work on consensus and related protocols including CometBFT and Malachite. His research spans Byzantine fault tolerance, distributed algorithms, and parameterized model checking, with publications at POPL, CAV, TACAS, PODC, DISC, and OOPSLA. He holds a PhD and habilitation from TU Vienna and has held research positions at Ecole Polytechnique and Texas A&M University.
+
