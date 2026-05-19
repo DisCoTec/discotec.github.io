@@ -16,7 +16,7 @@ year: 2026
 * DisCoTec 2026 is planned as an on-site event.
 * At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
 * All registration fees below include 22% of VAT.
-* Similar to past editions, there are --no special fees for students, but we have a limited amount of **student travel grants** provided by IFIP; see below for details.
+<!--* Similar to past editions, there are --no special fees for students, but we have a limited amount of **student travel grants** provided by IFIP; see below for details.-->
 * In order to keep registration fees as low as possible, on-site registration and cancellations/refunds are not supported (see also below). 
 * If you have any questions about the registration, please contact <claudio.mezzina@uniurb.it> (please, refer to “DisCoTec 2026 Registration” in the subject).
 
