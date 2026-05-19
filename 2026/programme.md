@@ -108,7 +108,7 @@ year: 2026
    * An automated IoT-based infrastructure for real-time soil water deficit prediction
  
 * **BEST PAPER SESSION**
-      * Efficient Federated Search for Retrieval-Augmented Generation using Lightweight Routing
+   * Efficient Federated Search for Retrieval-Augmented Generation using Lightweight Routing
 
 
 **FORTE**
