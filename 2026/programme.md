@@ -83,7 +83,7 @@ year: 2026
    * A Self-Stabilizing Min-Max Consensus via Path-loop Detection
 
 * **BEST PAPER SESSION**
-   * :star: Runtime adaptation as a programming pattern in service composition :star:
+   *  Runtime adaptation as a programming pattern in service composition
 
 * **S4 - Simulation tools and methodologies for collective adaptive systems**
    * Simulation and Analysis of Indoor-Air-Quality Measuring Devices with YODA
@@ -96,7 +96,6 @@ year: 2026
 
 **DAIS**
    * **S1 - Distributed Machine Learning**
-      * Efficient Federated Search for Retrieval-Augmented Generation using Lightweight Routing
       * HyperCluster: Decentralized Large Language Model Inference over Peer-to-Peer Wireless Networks
       * Improving Federated Graph Recommendation with Semantic Guidance
 
@@ -109,7 +108,7 @@ year: 2026
    * An automated IoT-based infrastructure for real-time soil water deficit prediction
  
 * **BEST PAPER SESSION**
-      * **TBD**
+      * Efficient Federated Search for Retrieval-Augmented Generation using Lightweight Routing
 
 
 **FORTE**
@@ -125,7 +124,7 @@ year: 2026
       * Robustness Against Time Distortions in STARK
 
    * **BEST PAPER SESSION**
-      * :star: Soundness of Typed Transitions in the Linear Pi Calculus :star:
+      *  Soundness of Typed Transitions in the Linear Pi Calculus 
 
    * **S4 - Learning**
       * NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic
