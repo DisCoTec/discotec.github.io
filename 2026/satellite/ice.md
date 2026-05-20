@@ -44,6 +44,16 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - Tools and techniques for automation
 - Synthesis techniques
 
+## Accepted Papers
+
+- *Safe Composition of CFSM systems via Partial Gateways* by Franco Barbanera
+- *On asynchrony and reversibility in CCS* by Hernán Melgratti, Claudio Antares Mezzina and G. Michele Pinna
+- *Session Type State Spaces Form Lattices* by Alexandre Zua Caldeira
+- *A Unified Architecture for Risk Reasoning: Bridging Ontologies, Theorem Proving, and Model Checking* (Oral contribution) by Stefano M. Nicoletti
+- *A cryptographic extension of attribute-based communication and its implementation with a secure publish-subscribe architecture* (Oral contribution) by Sara Longhi, Michele Loreti and Marco Quadrini
+- *Modelling Shared-Space Coordination in mCRL2: a Bach-to-mCRL2 Translation Framework* by Corentin Reuther and Jean-Marie Jacquet
+- *A Practical Approach to Verifying Structural Invariants in Colored Petri Nets* by Lorenzo Capra
+
 ## The ICE Selection Procedure
 
 Since [its first edition in 2008](#previous-editions), the distinguishing feature of ICE has been an innovative paper selection mechanism based on an interactive, friendly, and constructive discussion amongst authors and PC members in an online forum.
