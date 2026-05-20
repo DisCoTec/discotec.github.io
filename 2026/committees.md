@@ -36,14 +36,14 @@ year: 2026
 ## Steering Committee
 * Simon Bluidze (Inria Center of the University of Lille, France)
 * Rocco De Nicola (IMT School for Advanced Studies Lucca, Italy)
+* Carla Ferreira (NOVA University of Lisbon, Portugal)
 * Adrian Francalanza, Chair (University of Malta, Malta)
 * Ivan Lanese (University of Bologna/INRIA, Italy)
 * Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
 * Michele Loreti (University of Camerino, Italy)
-* Luís Veiga (INESC-ID, Universidade de Lisboa, Portugal)
-* Gianluigi Zavattaro (University of Bologna, Italy)
-* Carla Ferreira (NOVA University of Lisbon, Portugal)
 * Jorge A. Pérez (University of Groningen, The Netherlands)
+* Valerio Schiavoni  (University of Neuchâtel, Switzerland)
+* Gianluigi Zavattaro (University of Bologna, Italy)
 
 
 [ClaudioWeb]: https://sites.google.com/view/claudio-mezzina/home
