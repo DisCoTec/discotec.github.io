@@ -201,7 +201,7 @@ COORDINATION proceedings are published by Springer as an LNCS-IFIP volume and  c
 
 ### Proceedings 
 The prooceedings of COORDINATION 2026 are published as Springer 
-[LNCS Volume 16591](https://link.springer.com/book/10.1007/978-3-032-27358-1)
+[LNCS Volume 16590](https://link.springer.com/book/10.1007/978-3-032-27358-1)
 
 
 
