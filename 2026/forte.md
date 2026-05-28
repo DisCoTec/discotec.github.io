@@ -9,6 +9,7 @@ FORTE 2026 is one of the three conferences of [DisCoTec 2026](.), the 21th Inter
 * [Topics of Interest](#main-topics-of-interest)
 * [Submission Categories](#categories-of-papers)
 * [Publication](#Publication)
+* [Proceedings](#Proceedings)
 * [Special Issue](#special-issue)
 * [Program Committee](#program-committee-chairs)
 * [Contact](#more-information)
@@ -72,9 +73,12 @@ New artifact submissions are managed via EasyChair at the following link:
 <!--### Accepted papers
 Go to the [**dedicated page**](accepted-papers)
 -->
+### Proceedings
+The proceedings of FORTE 26 are published as Springer [LNCS Volume 16589](https://link.springer.com/book/9783032281869)
+
 ### Publication
 
-Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details). The FORTE proceedings will be published by Springer as [LNCS-IFIP volume 15732] and will comprise accepted submissions from __all__ categories.
+Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details). 
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
