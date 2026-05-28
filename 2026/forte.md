@@ -9,7 +9,7 @@ FORTE 2026 is one of the three conferences of [DisCoTec 2026](.), the 21th Inter
 * [Topics of Interest](#main-topics-of-interest)
 * [Submission Categories](#categories-of-papers)
 * [Publication](#Publication)
-* [Proceedings](#Proceedings)
+* [Proceedings](#proceedings)
 * [Special Issue](#special-issue)
 * [Program Committee](#program-committee-chairs)
 * [Contact](#more-information)
