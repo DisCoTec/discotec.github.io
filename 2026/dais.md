@@ -4,7 +4,7 @@
 DAIS 2026 is one of the three conferences of [DisCoTec 2026](.).
 
 ### Quick Links
-* [Proceedings](#Proceedings)
+* [Proceedings](#proceedings)
 
 # Scope
 The DAIS conference series addresses all practical and conceptual aspects of distributed applications, including their design, modeling, implementation and operation, the supporting middleware, appropriate software engineering methodologies and tools, as well as experimental studies and applications. Submissions will be judged on their originality, significance, clarity, relevance, and technical correctness.
