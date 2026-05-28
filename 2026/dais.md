@@ -3,7 +3,7 @@
 
 DAIS 2026 is one of the three conferences of [DisCoTec 2026](.).
 
-### Quick Lings
+### Quick Links
 * [Proceedings](#Proceedings)
 
 # Scope
@@ -65,11 +65,12 @@ All papers must be original, unpublished, and not submitted for publication else
 
 Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details).
 
+
 ### Submission Link
 
 Submission are via Easychair at: [https://easychair.org/conferences/?conf=dais2026](https://easychair.org/conferences/?conf=dais2026)
 
-### Publication
+### Proceedings
 
 The proceedings of DAIS 26 are published as Springer [LNCS Volume 16591](https://link.springer.com/book/10.1007/978-3-032-27358-1
 )
