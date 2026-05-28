@@ -12,6 +12,7 @@ COORDINATION 2026 is one of the three conferences of [DisCoTec 2026](.).
 * [Important Dates](https://www.discotec.org/2026/dates)
 * [Submission Link](#submission-link)
 * [Submission Categories](#categories-of-papers)
+* **[Proceedings](#proceedings)**
 
 <!-- - **2026-02-23**: see the updated [Artefact Submission Instructions](#artefact-submission-instructions) --> 
 
@@ -198,7 +199,12 @@ COORDINATION proceedings are published by Springer as an LNCS-IFIP volume and  c
 
 ### Proceedings and Special Issues from Previous Editions
 
-**Proceedings**
+### Proceedings 
+The prooceedings of COORDINATION 2026 are published as Springer 
+[LNCS Volume 16591](https://link.springer.com/book/10.1007/978-3-032-27358-1)
+
+
+
 The proceedings of previous editions of COORDINATION are available on [SpringerLink](https://link.springer.com/conference/coordination)
 
 **Special Issues**
