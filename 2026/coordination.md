@@ -8,11 +8,12 @@ COORDINATION 2026 is one of the three conferences of [DisCoTec 2026](.).
 
 ### Quick Links and Updates
 
-* **[Accepted papers](#accepted-papers)**
-* [Important Dates](https://www.discotec.org/2026/dates)
-* [Submission Link](#submission-link)
-* [Submission Categories](#categories-of-papers)
+* **[Programme](#programme)**
 * **[Proceedings](#proceedings)**
+<!-- * **[Accepted papers](#accepted-papers)** -->
+<!-- * [Important Dates](https://www.discotec.org/2026/dates) -->
+<!-- * [Submission Link](#submission-link) --> 
+<!-- * [Submission Categories](#categories-of-papers) --> 
 
 <!-- - **2026-02-23**: see the updated [Artefact Submission Instructions](#artefact-submission-instructions) --> 
 
@@ -99,6 +100,38 @@ Topics of interest encompass all areas of coordination, including (but not limit
 ## Accepted Papers
 Go to the [list of accepted papers](https://www.discotec.org/2025/accepted-papers).
 -->
+
+## Programme
+
+Consult the [DisCoTec Programme](https://www.discotec.org/2026/programme). For convenience, we also report the programme plan here.
+
+* Monday, June 8th, 14:00 - 17:00 - **COORDINATION Tutorial**
+    - Distributed Runtime Verification in Proximity-based Networks: A Tutorial on the Aggregate Programming Approach (Audrito, Damiani, Scarso, Stolz, Torta) 
+
+* Tuesday, June 9th, 10:30 - 12:00 - Session 1 - **Formal modeling and analysis of distributed systems** (session chair: Carolyn Talcott)
+    - Timed Scenario Expressions and Realisability
+    - HistMSO: a Logic for Reasoning on Consistency Models with MONA
+    - Motif Refinement for the Hierarchical Control of Structured CPSs
+
+* Tuesday, June 9th, 14:00 - 15:00 - Session 2 - **Formal verification in coordination languages** (session chair: Ivan Lanese)
+    - Deductive Verification of Legal Contracts
+    - Proof of Delivery: Mechanized Mailbox Types
+
+* Tuesday, June 9th, 15:30 - 16:30 - Session 3 - **Distributed algorithms for collective adaptive systems** (session chair: Maurice ter Beek) 
+    - Aggregate Indoor Localisation
+    - A Self-Stabilizing Min-Max Consensus via Path-loop Detection
+
+* Wednesday, June 10th, 10:30 - 12:00 - BEST PAPER SESSION
+    - Runtime adaptation as a programming pattern in service composition
+
+* Wednesday, June 10th, 15:30 - 16:30 S4 - **Simulation tools and methodologies for collective adaptive systems**  (session chair: Giorgio Audrito)
+    - Simulation and Analysis of Indoor-Air-Quality Measuring Devices with YODA
+    - High-Fidelity Simulation of Aggregate Computing Systems with Collektivity
+
+* Thursday, June 11th, 10:30 - 12:00 - Session 5 - **Coordination languages, frameworks, and foundations** (session chair: Simon Bliudze)
+    - ScalaTropy: Multiparty Coordination with Monadic Communication Primitives
+    - Bach4Popper: Towards Federated Inductive Logic Programming using Coordination
+    - Phyelds: A Pythonic Framework for Aggregate Computing
 
 ## Accepted Papers
 
