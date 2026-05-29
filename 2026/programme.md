@@ -18,7 +18,9 @@ year: 2026
 ### Monday, June 8th
 
 
-*  COORDINATION tutorial
+
+*  COORDINATION tutorial: 
+    * **Topic/authors**: *Distributed Runtime Verification in Proximity-based Networks: A Tutorial on the Aggregate Programming Approach (Audrito, Damiani, Scarso, Stolz, Torta)*
     * **Where:** Aula Magna
     * **When:** 14:00-17:00
 
