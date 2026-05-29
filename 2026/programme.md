@@ -71,27 +71,27 @@ year: 2026
 ## Details (Tuesday - Thursday)
 
 **COORDINATION**
-* **S1 - Formal modeling and analysis of distributed systems**
+* **S1 - Formal modeling and analysis of distributed systems** (chair: Carolyn Talcott)
    * Timed Scenario Expressions and Realisability
    * HistMSO: a Logic for Reasoning on Consistency Models with MONA
    * Motif Refinement for the Hierarchical Control of Structured CPSs
 
-* **S2 - Formal verification in coordination languages**
+* **S2 - Formal verification in coordination languages** (chair: Ivan Lanese)
    * Deductive Verification of Legal Contracts
    * Proof of Delivery: Mechanized Mailbox Types
 
-* **S3 - Distributed algorithms for collective adaptive systems**
+* **S3 - Distributed algorithms for collective adaptive systems** (chair: Maurice ter Beek)
    * Aggregate Indoor Localisation
    * A Self-Stabilizing Min-Max Consensus via Path-loop Detection
 
 * **BEST PAPER SESSION**
    *  Runtime adaptation as a programming pattern in service composition
 
-* **S4 - Simulation tools and methodologies for collective adaptive systems**
+* **S4 - Simulation tools and methodologies for collective adaptive systems** (chair: Giorgio Audrito)
    * Simulation and Analysis of Indoor-Air-Quality Measuring Devices with YODA
    * High-Fidelity Simulation of Aggregate Computing Systems with Collektivity [tool]
 
-* **S5 - Coordination languages, designs, and frameworks**
+* **S5 - Coordination languages, designs, and frameworks** (chair: Simon Bliudze)
    * ScalaTropy: Multiparty Coordination with Monadic Communication Primitives
    * Bach4Popper: Towards Federated Inductive Logic Programming using Coordination
    * Phyelds: A Pythonic Framework for Aggregate Computing [tool]
