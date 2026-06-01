@@ -9,7 +9,7 @@ ICE 2026 is a satellite workshop of [DisCoTec 2026](..), held on June 12th in [U
 - Distinctive selection procedure
 - ICE welcomes full papers to be included in the proceedings
 - ICE also welcomes oral communications of already published or preliminary work
-- Invited speaker: [Emilio Tuosto](https://www.gssi.it/people/professors/lectures-computer-science/item/6408-tuosto-emilio)
+- Invited speaker: [Emilio Tuosto -- *What do you mean A -> B; m?*](#invited-speaker-emilio-tuosto) 
 - Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/)
 - Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
 - Contact: `ice (at) framalistes.org`
@@ -53,6 +53,18 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 - *A cryptographic extension of attribute-based communication and its implementation with a secure publish-subscribe architecture* (Oral contribution) by Sara Longhi, Michele Loreti and Marco Quadrini
 - *Modelling Shared-Space Coordination in mCRL2: a Bach-to-mCRL2 Translation Framework* by Corentin Reuther and Jean-Marie Jacquet
 - *A Practical Approach to Verifying Structural Invariants in Colored Petri Nets* by Lorenzo Capra
+
+## Invited Speaker: [Emilio Tuosto](https://www.gssi.it/people/professors/lectures-computer-science/item/6408-tuosto-emilio)
+
+### Talk: What do you mean A -> B; m?
+
+> I will cherry pick and revisit some of the results on behavioural specifications of distributed communicating systems produced over the past three decades by a large community of researchers spanning theoretical computer science, formal methods, and programming languages. No surprise my chronicle will include nICE stuff, however the goal is not (just) celebrating ICE 19th edition, rather to examine new open problems that are intriguing me at the moment. I'll resist the temptation of diving into technicalities in an attempt to focus on the problems and keep the discussion at a conceptual level accessible to a wide audience.
+
+### Biography
+
+Emilio Tuosto is a full professor in Computer Science at the Gran Sasso Science Institute (GSSI) in L'Aquila (Italy). From 2005 to 2019 Emilio worked at the Department of Computer Science of the University of Leicester (UK) initially as lecturer and then as an associate professor. Before moving to UK, Emilio had been a research associate from 2003 to 2005 at the University of Pisa where he also got his PhD and MSc in Computer Science.
+
+Emilio's main research interests are in foundations of concurrent and distributed computations. Recently Emilio has been active in the area of behavioural specifications and distributed computations. In particular, Emilio is interested in the development of theories and formal methods for the coordination of distributed systems. 
 
 ## The ICE Selection Procedure
 
