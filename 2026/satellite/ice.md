@@ -9,7 +9,7 @@ ICE 2026 is a satellite workshop of [DisCoTec 2026](..), held on June 12th in [U
 - Distinctive selection procedure
 - ICE welcomes full papers to be included in the proceedings
 - ICE also welcomes oral communications of already published or preliminary work
-- Invited speaker: [Emilio Tuosto -- *What do you mean A -> B; m?*](#invited-speaker-emilio-tuosto) 
+- Invited speaker: [Emilio Tuosto -- *What do you mean A -> B: m?*](#invited-speaker-emilio-tuosto) 
 - Publication in [EPTCS](https://cgi.cse.unsw.edu.au/~eptcs/)
 - Special issue in the [Journal of Logical and Algebraic Methods in Programming](https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming) (Elsevier) _(to be confirmed)_
 - Contact: `ice (at) framalistes.org`
@@ -56,7 +56,7 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 ## Invited Speaker: [Emilio Tuosto](https://www.gssi.it/people/professors/lectures-computer-science/item/6408-tuosto-emilio)
 
-### Talk: What do you mean A -> B; m?
+### Talk: What do you mean A -> B: m?
 
 > I will cherry pick and revisit some of the results on behavioural specifications of distributed communicating systems produced over the past three decades by a large community of researchers spanning theoretical computer science, formal methods, and programming languages. No surprise my chronicle will include nICE stuff, however the goal is not (just) celebrating ICE 19th edition, rather to examine new open problems that are intriguing me at the moment. I'll resist the temptation of diving into technicalities in an attempt to focus on the problems and keep the discussion at a conceptual level accessible to a wide audience.
 
