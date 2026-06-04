@@ -13,7 +13,7 @@ year: 2026
 * [Accomodation](#accomodation)
 
 ## Location
-DisCoTec 2026 will take place at [University of Urbino](https://www.uniurb.it/international) in Palazzo Battiferri.
+DisCoTec 2026 will take place at [University of Urbino](https://www.uniurb.it/international) in *Palazzo Battiferri* (Department of Economics).
 
 * *Address*: 42, Via Aurelio Saffi, 61029 Urbino PU, Italia [link maps](https://maps.app.goo.gl/nrSmhew6beZW42nv7)
 
