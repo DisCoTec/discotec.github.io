@@ -66,6 +66,26 @@ Emilio Tuosto is a full professor in Computer Science at the Gran Sasso Science 
 
 Emilio's main research interests are in foundations of concurrent and distributed computations. Recently Emilio has been active in the area of behavioural specifications and distributed computations. In particular, Emilio is interested in the development of theories and formal methods for the coordination of distributed systems. 
 
+## Programme
+
+*All times are listed for* [**CEST** *(Central European Summer Time)*](https://time.is/CEST)
+
+| Time CEST   |  |
+| ------------| ------- | 
+| 9:00-9:10   | Opening  |
+| 9:10-10:10  | [Emilio Tuosto -- *What do you mean A -> B: m?*](#invited-speaker-emilio-tuosto) (Invited talk) |
+| 10:10-10:30 | **Coffee break** |
+| 10:30-11:00 | *A Unified Architecture for Risk Reasoning: Bridging Ontologies, Theorem Proving, and Model Checking* |
+| 11:00-11:30 | *A cryptographic extension of attribute-based communication and its implementation with a secure publish-subscribe architecture* |
+| 11:30-12:00 | *Modelling Shared-Space Coordination in mCRL2: a Bach-to-mCRL2 Translation Framework* |
+| 12:00-14:00 | **Lunch** |
+| 14:00-14:30 | *Safe Composition of CFSM systems via Partial Gateways* |
+| 14:45-15:30 | *Session Type State Spaces Form Lattices* |
+| 15:30-16:00 | **Coffee break** |
+| 16:00-16:30 | *On asynchrony and reversibility in CCS* |
+| 16:30-17:00 | *A Practical Approach to Verifying Structural Invariants in Colored Petri Nets* |
+
+
 ## The ICE Selection Procedure
 
 Since [its first edition in 2008](#previous-editions), the distinguishing feature of ICE has been an innovative paper selection mechanism based on an interactive, friendly, and constructive discussion amongst authors and PC members in an online forum.
