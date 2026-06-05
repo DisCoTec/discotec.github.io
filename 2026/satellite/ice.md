@@ -16,7 +16,7 @@ ICE 2026 is a satellite workshop of [DisCoTec 2026](..), held on June 12th in [U
 
 ## Important Dates
 
-- ~~April 2nd, 2026           : Paper submission deadline~~
+- April 2nd, 2026           : Paper submission deadline
 - April 9th, 2026            : Paper submission deadline (extended)
 - April 10th - April 27th    : Forum interaction, reviews, and PC discussion
 - April 30th                 : Notification to authors
@@ -76,7 +76,7 @@ Emilio's main research interests are in foundations of concurrent and distribute
 | 9:10-10:10  | [Emilio Tuosto -- *What do you mean A -> B: m?*](#invited-speaker-emilio-tuosto) (Invited talk) |
 | 10:10-10:30 | **Coffee break** |
 | 10:30-11:00 | *A Unified Architecture for Risk Reasoning: Bridging Ontologies, Theorem Proving, and Model Checking* |
-| 11:00-11:30 | *A cryptographic extension of attribute-based communication and its implementation with a secure publish-subscribe architecture* |
+| 11:00-11:30 | *A cryptographic extension of attribute-based communication & its implementation with<br> a secure publish-subscribe architecture* |
 | 11:30-12:00 | *Modelling Shared-Space Coordination in mCRL2: a Bach-to-mCRL2 Translation Framework* |
 | 12:00-14:00 | **Lunch** |
 | 14:00-14:30 | *Safe Composition of CFSM systems via Partial Gateways* |
