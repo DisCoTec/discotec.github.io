@@ -124,6 +124,35 @@ algorithms.
 
 ## Tutorials
 
+### Giorgio Audrito, Ferruccio Damiani, Giordano Scarso, Volker Stolz, Gianluca Torta - COORDINATION
+
+<a name="tutorial-coord26" />
+
+**Title:** __*Distributed Runtime Verification in Proximity-based Networks: A Tutorial on the Aggregate Programming Approach*__
+
+**Abstract:** Distributed runtime verification (DRV) addresses the problem
+of checking the correctness of distributed systems during execution,
+coping with partial knowledge, dynamic topologies, and the absence of
+global time. These challenges are particularly prominent in
+proximity-based networks, such as those arising in IoT and Far Edge
+computing scenarios, where large numbers of devices interact through
+local communication.  This tutorial presents an approach to DRV based on
+Aggregate Programming (AP), a paradigm for designing distributed
+collective systems via high-level abstractions over computational
+fields. We show how temporal and spatial properties (expressed in
+past-CTL and SLCS, respectively) can be systematically compiled into
+aggregate monitors grounded in the eXchange Calculus and executed using
+the FCPP C++ framework and simulator for AP. The tutorial combines
+conceptual foundations with practical guidance: participants learn how
+to specify spatio-temporal properties, generate corresponding monitors,
+and execute them in a 3D simulation environment. Examples are drawn from
+ongoing industrial collaborations and research projects, which we use to
+illustrate realistic monitoring scenarios and motivate open challenges
+for AP-based DRV.
+
+Installation & demo-instructions: https://fcpp.github.io/quickstart/tutorial-fm-2026.html
+Note that some software installation is required if you would like to participate in the hands-on session:
+we recommend that you check the software requirements before leaving for COORDINATION.
 
 ### [Josef Widder](https://www.linkedin.com/in/josef-widder/) (Quint, Austria) - FORTE
 
