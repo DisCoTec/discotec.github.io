@@ -124,9 +124,12 @@ algorithms.
 
 ## Tutorials
 
-### Giorgio Audrito, Ferruccio Damiani, Giordano Scarso, Volker Stolz, Gianluca Torta - COORDINATION
+<!-- coord tutorial -->
 
 <a name="tutorial-coord26" />
+
+### Giorgio Audrito, Ferruccio Damiani, Giordano Scarso, Volker Stolz, Gianluca Torta - COORDINATION
+
 
 **Title:** __*Distributed Runtime Verification in Proximity-based Networks: A Tutorial on the Aggregate Programming Approach*__
 
@@ -150,9 +153,7 @@ ongoing industrial collaborations and research projects, which we use to
 illustrate realistic monitoring scenarios and motivate open challenges
 for AP-based DRV.
 
-Installation & demo-instructions: https://fcpp.github.io/quickstart/tutorial-fm-2026.html
-Note that some software installation is required if you would like to participate in the hands-on session:
-we recommend that you check the software requirements before leaving for COORDINATION.
+**Installation and demo instructions:** <https://fcpp.github.io/quickstart/tutorial-fm-2026.html>. Note that some software installation is required if you would like to participate in the hands-on session: we recommend that you check the software requirements before leaving for COORDINATION.
 
 ### [Josef Widder](https://www.linkedin.com/in/josef-widder/) (Quint, Austria) - FORTE
 
