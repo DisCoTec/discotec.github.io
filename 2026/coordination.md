@@ -9,7 +9,7 @@ COORDINATION 2026 is one of the three conferences of [DisCoTec 2026](.).
 ### Quick Links and Updates
 
 * **[Programme](#programme)**
-* **[Proceedings](#proceedings)**
+* **[Proceedings](#proceedings)**: [proceedings PDF (uncorrected version)](https://drive.google.com/file/d/13XxArDW5dJTOiQtUDXA67sVPq0OE-9V8/view?usp=sharing)
 <!-- * **[Accepted papers](#accepted-papers)** -->
 <!-- * [Important Dates](https://www.discotec.org/2026/dates) -->
 <!-- * [Submission Link](#submission-link) --> 
@@ -173,7 +173,7 @@ Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordi
 
 * **Survey papers** (16-25 pages, not counting references and appendices): describing important results and success stories related to the topics of COORDINATION.
 
-* **Tool papers** (4-15 pages, not counting references and appendices): describing technological artefacts in the scope of the research topics of COORDINATION. Tool papers should provide a clear account of the tool's functionality, discuss the tool’s practical capabilities possibly with reference to the type and size of problems it can handle, and,when applicable, report on realistic case studies (possibly providing a rigorous experimental evaluation). Tool papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures. Papers that present extensions to existing tools should clearly describe the improvements or extensions with respect to previously published versions of the tool, possibly providing data on enhancements in terms of resources and capabilities. In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee. Papers may contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes length.
+* **Tool papers** (4-15 pages, not counting references and appendices): describing technological artefacts in the scope of the research topics of COORDINATION. Tool papers should provide a clear account of the tool's functionality, discuss the tool’s practical capabilities possibly with reference to the type and size of problems it can handle, and,when applicable, report on realistic case studies (possibly providing a rigorous experimental evaluation). Tool papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures. Papers that present extensions to existing tools should c#learly describe the improvements or extensions with respect to previously published versions of the tool, possibly providing data on enhancements in terms of resources and capabilities. In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee. Papers may contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes length.
 
 ### Artefact Submission Instructions
 
@@ -235,8 +235,8 @@ COORDINATION proceedings are published by Springer as an LNCS-IFIP volume and  c
 ### Proceedings 
 
 The prooceedings of COORDINATION 2026 are published as Springer 
-[LNCS Volume 16590](https://link.springer.com/book/9783032283573)
-
+[LNCS Volume 16590](https://link.springer.com/book/9783032283573).
+Due to production delays, the proceedings might not be online by the conference: please refer to the **[proceedings PDF (uncorrected version)](https://drive.google.com/file/d/13XxArDW5dJTOiQtUDXA67sVPq0OE-9V8/view?usp=sharing)**.
 
 
 The proceedings of previous editions of COORDINATION are available on [SpringerLink](https://link.springer.com/conference/coordination)
