@@ -114,12 +114,12 @@ year: 2026
 
 
 **FORTE**
-   * **S1 - Session types**
+   * **S1 - Session types** (chair: Emilio Tuoso)
       * Deadlock-free Context-free Session Types
       * Binary and two-party asyncronous subtypings are equivalent
       * AsmetaComp: a Tool for Runtime Contract Checking with I/O Abstract State Machines
 
-   * **S 2-3 - Timed systems**
+   * **S 2-3 - Timed systems** (chair: Adrian Francalanza)
       * TARZAN: A Region-Based Library for Forward and Backward Reachability of Timed Automata
       * TPTL-DIST: A Calculus for Verifying Real-Time Distributed Systems
       * A Jacobi-Based Distributed Clock Synchronization Algorithm for Wide-Area Networks
@@ -128,15 +128,15 @@ year: 2026
    * **BEST PAPER SESSION**
       *  Soundness of Typed Transitions in the Linear Pi Calculus 
 
-   * **S4 - Learning**
+   * **S4 - Learning** (chair: Maurizio Murgia)
       * NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic
       * Automata Learning with an Incomplete but Inductive Teacher
 
-* **S5 - Model checking & mechanization**
+* **S5 - Model checking & mechanization** (chair: Cosimo Laneve)
    * Harmony in Rocq
    * Control Flow-Based Symmetry Reduction for Parameterised Boolean Equation Systems
    * RustMC: Automated Verification of Real-World Concurrent Rust
 
-* **S6 - Verification**
+* **S6 - Verification** (chair: Maurizio Murgia)
    * Sound Automatic Lock Placement for Concurrent Programs with Pointers
    * Formal Modeling of BEEFY, a Protocol for Supporting Light Clients
