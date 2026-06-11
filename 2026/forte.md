@@ -14,6 +14,8 @@ FORTE 2026 is one of the three conferences of [DisCoTec 2026](.), the 21th Inter
 * [Program Committee](#program-committee-chairs)
 * [Contact](#more-information)
 
+* **[Proceedings](#proceedings)**: [PDF (limited duration free access)](https://drive.google.com/file/d/1jfHNqXp7UD7NDcxwzBvft_rYFMPCL63w/view?usp=sharing)
+
 ## Topics of Interest
 FORTE 2026 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
 
