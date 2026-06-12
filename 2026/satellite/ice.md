@@ -46,13 +46,15 @@ We solicit contributions relevant to Interaction and Concurrency, including but 
 
 ## Accepted Papers
 
-- *Safe Composition of CFSM systems via Partial Gateways* by Franco Barbanera
-- *On asynchrony and reversibility in CCS* by Hernán Melgratti, Claudio Antares Mezzina and G. Michele Pinna
-- *Session Type State Spaces Form Lattices* by Alexandre Zua Caldeira
-- *A Unified Architecture for Risk Reasoning: Bridging Ontologies, Theorem Proving, and Model Checking* (Oral contribution) by Stefano M. Nicoletti
-- *A cryptographic extension of attribute-based communication and its implementation with a secure publish-subscribe architecture* (Oral contribution) by Sara Longhi, Michele Loreti and Marco Quadrini
-- *Modelling Shared-Space Coordination in mCRL2: a Bach-to-mCRL2 Translation Framework* by Corentin Reuther and Jean-Marie Jacquet
-- *A Practical Approach to Verifying Structural Invariants in Colored Petri Nets* by Lorenzo Capra
+*Links below are to **informal** pre-proceedings.*
+
+- [*Safe Composition of CFSM systems via Partial Gateways*](ice_preproceedings/Safe_Composition_of_CFSM_systems_via_Partial_Gateways.pdf) by Franco Barbanera
+- [*On asynchrony and reversibility in CCS*](ice_preproceedings/On_asynchrony_and_reversibility_in_CCS.pdf) by Hernán Melgratti, Claudio Antares Mezzina and G. Michele Pinna
+- [*Session Type State Spaces Form Lattices*](ice_preproceedings/Session_Type_State_Spaces_Form_Lattices.pdf) by Alexandre Zua Caldeira
+- [*A Unified Architecture for Risk Reasoning: Bridging Ontologies, Theorem Proving, and Model Checking*](ice_preproceedings/A_Unified_Architecture_for_Risk_Reasoning_Bridging_Ontologies_Theorem_Proving_and_Model_Checking.pdf) (Oral contribution) by Stefano M. Nicoletti
+- [*A cryptographic extension of attribute-based communication and its implementation with a secure publish-subscribe architecture*](ice_preproceedings/A_cryptographic_extension_of_attribute-based_communication_and_its_implementation_with_a_secure_publish-subscribe_architecture.pdf) (Oral contribution) by Sara Longhi, Michele Loreti and Marco Quadrini
+- [*Modelling Shared-Space Coordination in mCRL2: a Bach-to-mCRL2 Translation Framework*](ice_preproceedings/Modelling_Shared_Space_Coordination_in_mCRL2_A_Bach_to_mCRL2_Translation_Framework.pdf) by Corentin Reuther and Jean-Marie Jacquet
+- [*A Practical Approach to Verifying Structural Invariants in Colored Petri Nets*](ice_preproceedings/A_Practical_Approach_to_Verifying_Structural_Invariants_in_Colored_Petri_Nets.pdf) by Lorenzo Capra
 
 ## Invited Speaker: [Emilio Tuosto](https://www.gssi.it/people/professors/lectures-computer-science/item/6408-tuosto-emilio)
 
