@@ -82,10 +82,10 @@ Emilio's main research interests are in foundations of concurrent and distribute
 | 11:30-12:00 | *Modelling Shared-Space Coordination in mCRL2: a Bach-to-mCRL2 Translation Framework* |
 | 12:00-14:00 | **Lunch** |
 | 14:00-14:30 | *Safe Composition of CFSM systems via Partial Gateways* |
-| 14:45-15:30 | *Session Type State Spaces Form Lattices* |
-| 15:30-16:00 | **Coffee break** |
-| 16:00-16:30 | *On asynchrony and reversibility in CCS* |
-| 16:30-17:00 | *A Practical Approach to Verifying Structural Invariants in Colored Petri Nets* |
+| 14:30-15:00 | *Session Type State Spaces Form Lattices* |
+| 15:00-15:30 | **Coffee break** |
+| 15:30-16:00 | *On asynchrony and reversibility in CCS* |
+| 16:00-16:30 | *A Practical Approach to Verifying Structural Invariants in Colored Petri Nets* |
 
 
 ## The ICE Selection Procedure
