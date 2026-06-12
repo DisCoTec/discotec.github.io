@@ -16,7 +16,7 @@ The invited speakers are
 [Mehdi Dastani](#mehdi-dastani-coordination) ([COORDINATION](./coordination)), [Paolo Romano](#paolo-romano-dais) ([DAIS](./Dais)), [Nathalie Bertrand ](#natalie-bertrand-forte) ([FORTE](./forte)), and [Roberto Bruni](#broberto-bruni-university-of-pisa---discotec-wide) (DisCoTec-wide).
 
 
-### [Roberto Bruni](https://pages.di.unipi.it/bruni/) (University of Pisa, Italy) - DisCoTec-wide [slides](./2026/venue/bruni.pdf)
+### [Roberto Bruni](https://pages.di.unipi.it/bruni/) (University of Pisa, Italy) - DisCoTec-wide [slides](./venue/bruni.pdf)
 {: .keynote
 
 
