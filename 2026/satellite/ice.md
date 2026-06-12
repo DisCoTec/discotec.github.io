@@ -86,6 +86,7 @@ Emilio's main research interests are in foundations of concurrent and distribute
 | 15:00-15:30 | **Coffee break** |
 | 15:30-16:00 | *On asynchrony and reversibility in CCS* |
 | 16:00-16:30 | *A Practical Approach to Verifying Structural Invariants in Colored Petri Nets* |
+| 20:00-      | Dinner at [Ristorante Locanda Del Blasone](https://maps.app.goo.gl/VLyZw97bfQBqiXbbA) |
 
 
 ## The ICE Selection Procedure
