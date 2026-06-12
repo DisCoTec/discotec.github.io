@@ -65,7 +65,7 @@ year: 2026
 ### Friday, June 12th
 
 * [19th Interaction and Concurrency Experience](./satellite/ice) (ICE) workshop
-    * **Where:** Aula Magna 
+    * **Where:** Aula Amaranto 
     * **When:** 09:00-17:30
 
 ## Details (Tuesday - Thursday)
