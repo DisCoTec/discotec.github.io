@@ -34,15 +34,35 @@ The main topics of interest include:
   construed), such as software-defined networks, distributed ledgers,
   smart contracts, and blockchain technologies, etc.
 
-## Upcoming Edition
-* **[FORTE 2026](https://www.discotec.org/2026/forte)** - Urbino, Italy, June 2026. <br> 
-  * *Program Chairs*: Laura Bocchi (University of Kent, UK) and Burcu Kulahcioglu Ozkan (TU Delft, The Netherlands)
+## Recent Edition
+* [FORTE 2026](https://www.discotec.org/2026/forte) - Urbino, Italy  <br> 
+  * Program Chairs*: Laura Bocchi (University of Kent, UK) and Burcu Kulahcioglu Ozkan (TU Delft, The Netherlands)
+  * Proceedings: [Springer LNCS-IFIP volume 16589](https://link.springer.com/book/10.1007/978-3-032-28187-6). 
 
-## Recent Editions
+
+## Previous Editions 
+(See the [DBLP entry](https://dblp.uni-trier.de/db/conf/forte/index.html) for further information)
+
 * [FORTE 2025](https://www.discotec.org/2025/forte) - Lille, France <br> 
   * Program Chairs: Carla Ferreira (NOVA University of Lisbon, Portugal) and 
 Claudio A. Mezzina (University of Urbino, Italy)
   * Proceedings: [Springer LNCS-IFIP volume 15732](https://link.springer.com/book/10.1007/978-3-031-95497-9). 
+
+* [FORTE 2024](https://www.discotec.org/2024/forte) - Groningen, The Netherlands <br>
+  * Program Chairs: Valentina Castiglioni (TU Eindhoven, The Netherlands) and Adrian Francalanza (University of Malta, Malta)
+  * Proceedings: [Springer LNCS-IFIP volume 14678](https://link.springer.com/book/10.1007/978-3-031-62645-6).
+
+* [FORTE 2023](https://www.discotec.org/2023/forte) - Lisbon, Portugal <br>
+  * Program Chairs: Marieke Huisman (University of Twente, The Netherlands) and António Ravara (NOVA University Lisbon, Portugal)
+  * Proceedings: [Springer LNCS-IFIP volume 13910](https://link.springer.com/book/10.1007/978-3-031-35355-0).
+
+* [FORTE 2022](https://www.discotec.org/2022/forte.html) - Lucca, Italy <br>
+  * Program Chairs: Mohammad Reza Mousavi (King's College London, United Kingdom) and Anna Philippou (University of Cyprus, Cyprus)
+  * Proceedings: [Springer LNCS-IFIP volume 13273](https://link.springer.com/book/10.1007/978-3-031-08679-3).
+
+* [FORTE 2021](https://www.discotec.org/2021/forte.html) - Valletta, Malta <br>
+  * Program Chairs: Kirstin Peters (TU Darmstadt, Germany) and Tim A. C. Willemse (Eindhoven University of Technology, The Netherlands)
+  * Proceedings: [Springer LNCS-IFIP volume 12719](https://link.springer.com/book/10.1007/978-3-030-78089-0).
 
 ## Steering Committee
 * Christel Baier (University Dresden, Germany)
@@ -51,7 +71,7 @@ Claudio A. Mezzina (University of Urbino, Italy)
 * Marieke Huisman (University of Twente, The Netherlands)
 * Ivan Lanese (University of Bologna/INRIA, Italy)
 * Claudio Antares Mezzina (University of Urbino, Italy)
-* Jorge A. Pérez (University of Groningen, The Netherlands – Chair) 
+* Jorge A. Pérez (University of Groningen, The Netherlands – **Chair**) 
 * Kirstin Peters (Technical University of Darmstadt, Germany) 
 * Anna Philippou (University of Ciprus, Ciprus)
 * Antonio Ravara (NOVA University of Lisbon, Portugal)
