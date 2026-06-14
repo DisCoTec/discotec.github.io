@@ -43,7 +43,7 @@ The main **topics of interest** include:
 
 
 ## Previous Editions 
-(See the [FORTE entry in DBLP](https://dblp.uni-trier.de/db/conf/forte/index.html) for further information)
+(See the FORTE entries in [DBLP](https://dblp.uni-trier.de/db/conf/forte/index.html) and [Springer](https://link.springer.com/conference/forte) for further information)
 
 * [FORTE 2025](https://www.discotec.org/2025/forte) - Lille, France <br> 
   * Program Chairs: Carla Ferreira (NOVA University of Lisbon, Portugal) and 
