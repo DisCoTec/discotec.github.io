@@ -74,18 +74,18 @@ Emilio's main research interests are in foundations of concurrent and distribute
 
 | Time CEST   |  |
 | ------------| ------- | 
-| 9:00-9:10   | Opening  |
+| 9:00-9:10   | [Opening](ice_slides/opening.pdf)  |
 | 9:10-10:10  | [Emilio Tuosto -- *What do you mean A -> B: m?*](#invited-speaker-emilio-tuosto) (Invited talk) |
 | 10:10-10:30 | **Coffee break** |
-| 10:30-11:00 | *A Unified Architecture for Risk Reasoning: Bridging Ontologies, Theorem Proving, and Model Checking* |
-| 11:00-11:30 | *A cryptographic extension of attribute-based communication & its implementation with<br> a secure publish-subscribe architecture* |
-| 11:30-12:00 | *Modelling Shared-Space Coordination in mCRL2: a Bach-to-mCRL2 Translation Framework* |
+| 10:30-11:00 | *A Unified Architecture for Risk Reasoning: Bridging Ontologies, Theorem Proving, and Model Checking* (presented by Stefano Nicoletti) |
+| 11:00-11:30 | *A cryptographic extension of attribute-based communication & its implementation with<br> a secure publish-subscribe architecture* (presented by Marco Quadrini) |
+| 11:30-12:00 | *Modelling Shared-Space Coordination in mCRL2: a Bach-to-mCRL2 Translation Framework* (presented by Corenthin Reuther) |
 | 12:00-14:00 | **Lunch** |
-| 14:00-14:30 | *Safe Composition of CFSM systems via Partial Gateways* |
-| 14:30-15:00 | *Session Type State Spaces Form Lattices* |
+| 14:00-14:30 | [*Safe Composition of CFSM systems via Partial Gateways*](ice_slides/Safe_Composition_of_CFSM_systems_via_Partial_Gateways.pdf) (presented by Franco Barbanera) |
+| 14:30-15:00 | [*Session Type State Spaces Form Lattices*](ice_slides/Session_Type_State_Spaces_Form_Lattices.pdf) (presented by Alexandre Zua) |
 | 15:00-15:30 | **Coffee break** |
-| 15:30-16:00 | *On asynchrony and reversibility in CCS* |
-| 16:00-16:30 | *A Practical Approach to Verifying Structural Invariants in Colored Petri Nets* |
+| 15:30-16:00 | *On asynchrony and reversibility in CCS* (presented by Claudio Mezzina) |
+| 16:00-16:30 | [*A Practical Approach to Verifying Structural Invariants in Colored Petri Nets*](ice_slides/A_Practical_Approach_to_Verifying_Structural_Invariants_in_Colored_Petri_Nets.pdf) (presented by Lorenzo Capra) |
 | 20:00-      | Dinner at [Ristorante Locanda Del Blasone](https://maps.app.goo.gl/VLyZw97bfQBqiXbbA) |
 
 
