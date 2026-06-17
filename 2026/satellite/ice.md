@@ -160,7 +160,7 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Manel Barkallah](https://staff.info.unamur.be/mbarkall/) (University of Namur, 🇧🇪)
 - [Nicolas Chappe](https://www-verimag.imag.fr/~chappen/) (CNRS, Verimag, 🇫🇷)
 - [Matteo Cimini](https://www.cs.uml.edu/~mcimini/) (University of Massachusetts Lowell, 🇺🇸)
-- [Christopher Esterhuyse](https://sirkibsirkib.github.io/) (University of Amsterdam, 🇳🇱)
+- **[Christopher Esterhuyse](https://sirkibsirkib.github.io/) (University of Amsterdam, 🇳🇱)** ★
 - [Lorenzo Gheri](https://sites.google.com/view/lorgheri/home) (University of Liverpool, 🇬🇧)
 - [Jonas Kastberg Hinrichsen](https://jihgfee.github.io/) (Aalborg University, 🇩🇰)
 - [Ping Hou](https://mrg.cs.ox.ac.uk/people/ping-hou/) (University of Oxford, 🇬🇧)
@@ -172,6 +172,8 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Neea Rusch](https://nkrusch.github.io/) (Uppsala University, 🇸🇪)
 - [Chuta Sano](https://chutasano.github.io/) (School of Computer Science, McGill University, 🇨🇦)
 - [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/) (University of Luxembourg, 🇱🇺)
+
+★ **The _ICE 2025 Outstanding PC Member Award_ was awarded to [Christopher Esterhuyse](https://sirkibsirkib.github.io/)!**
 
 ## Steering Committee
 

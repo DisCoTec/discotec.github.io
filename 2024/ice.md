@@ -179,8 +179,6 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 
 ★ **The _ICE 2024 Outstanding PC Member Award_ was awarded to [Bas van den Heuvel](https://basvdheuvel.github.io/)!**
 
-[Luc Edixhoven](https://luc.edixhoven.eu/)
-
 ## Steering Committee
 
 - [Massimo Bartoletti](https://tcs.unica.it/members/bart) (University of Cagliari, IT)
