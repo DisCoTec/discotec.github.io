@@ -17,7 +17,6 @@ The invited speakers are
 
 
 ### [Roberto Bruni](https://pages.di.unipi.it/bruni/) (University of Pisa, Italy) - DisCoTec-wide [slides](./venue/bruni.pdf)
-{: .keynote}
 
 
 
@@ -64,7 +63,7 @@ conferences. He received his PhD in Computer Science from the University
 of Pisa.
 
 ### [Mehdi Dastani](https://www.uu.nl/staff/MMDastani) (Utrecht University, The Netherlands) - COORDINATION
-{: .keynote}
+
 **Title**: _Efficient Communication and Coordination in Multiagent Reinforcement Learning_  
 
 **Abstract**: Multiagent reinforcement learning (MARL) is a powerful framework for learning effective policies in complex multiagent environments. A key challenge in MARL is to learn coordinated policies efficiently in a decentralised manner. Prior work has explored a range of communication and coordination mechanisms to address these challenges. 
