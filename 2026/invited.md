@@ -17,7 +17,7 @@ The invited speakers are
 
 
 ### [Roberto Bruni](https://pages.di.unipi.it/bruni/) (University of Pisa, Italy) - DisCoTec-wide [slides](./venue/bruni.pdf)
-{: .keynote
+{: .keynote}
 
 
 
