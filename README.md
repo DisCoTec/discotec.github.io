@@ -9,7 +9,7 @@ It gathers three main conferences:
 
 Together, these conferences cover a broad spectrum of distributed computing subjects, ranging from theoretical foundations and formal description techniques to systems research issues.
 
-**\> [DisCoTec 2026](2026)** will take place in Urbino, Italy.
+**\> DisCoTec 2027** will take place in **Augsburg, Germany**, organized by [Kirstin Peters](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/).
 
 ## Steering Committee
 
@@ -56,6 +56,7 @@ Together, these conferences cover a broad spectrum of distributed computing subj
 <figurecaption>Portrait of DisCoTec</figurecaption>
 </figure>
 
+* [DisCoTec 2026](/2026/) - Urbino, Italy
 * [DisCoTec 2025](/2025/) - Lille, France
 * [DisCoTec 2024](/2024/) - Groningen, The Netherlands
 * [DisCoTec 2023](/2023/) - Lisbon, Portugal
