@@ -173,7 +173,7 @@ Use `ice (at) framalistes.org` to reach all the ICEcreamers at once.
 - [Chuta Sano](https://chutasano.github.io/) (School of Computer Science, McGill University, 🇨🇦)
 - [Felix Stutz](https://fstutz.pages.mpi-sws.org/felix-stutz/) (University of Luxembourg, 🇱🇺)
 
-★ **The _ICE 2025 Outstanding PC Member Award_ was awarded to [Christopher Esterhuyse](https://sirkibsirkib.github.io/)!**
+★ **The _ICE 2026 Outstanding PC Member Award_ was awarded to [Christopher Esterhuyse](https://sirkibsirkib.github.io/)!**
 
 ## Steering Committee
 
