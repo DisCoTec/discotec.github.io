@@ -1,20 +1,20 @@
-# DisCoTec 2026 - 21st International Federated Conference on Distributed Computing Techniques
+# DisCoTec 2027 - 22nd International Federated Conference on Distributed Computing Techniques
 
-Welcome to DisCoTec 2026! 
+Welcome to DisCoTec 2027! 
 
 [DisCoTec](/) is one of the major events sponsored by the International Federation for Information Processing ([IFIP](http://www.ifip.org)) and the European Association for Programming Languages and Systems ([EAPLS](https://eapls.org)).
 
-DisCoTec 2026 will take place in [Urbino, Italy](venue), June 8-12, 2026, hosted by the [University of Urbino Carlo Bo](https://www.uniurb.it/international).
+DisCoTec 2027 will take place in [Augsburg, Germany](venue), June 14-18, 2027, hosted by the [University of Augsburg](https://www.uni-augsburg.de/en/).
 
 ## Main Conferences
 DisCoTec gathers conferences that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches:
 
-* [COORDINATION 2026](coordination) - International Conference on Coordination Models and Languages
-* [DAIS 2026](dais) - International Conference on Distributed Applications and Interoperable Systems
-* [FORTE 2026](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+* [COORDINATION 2027](coordination) - International Conference on Coordination Models and Languages
+* [DAIS 2027](dais) - International Conference on Distributed Applications and Interoperable Systems
+* [FORTE 2027](forte) - International Conference on Formal Techniques for Distributed Objects, Components, and Systems
   
 ## Workshops
-* [ICE 2026](satellite/ice) - 19th Interaction and Concurrency Experience
+* [ICE 2027](satellite/ice) - 20th Interaction and Concurrency Experience
 
 ## Invited Speakers
 
