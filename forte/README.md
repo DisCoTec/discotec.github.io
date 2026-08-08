@@ -2,6 +2,8 @@
 
 FORTE is one of the three conferences of [DisCoTec](./../README.md), the International Federated Conference on Distributed Computing Techniques. 
 
+![FORTE](/assets/images/forte.jpg)
+
 FORTE is sponsored by the [International Federation for Information Processing (IFIP)](https://tc6.ifip.org/wg-6-1-architectures-and-protocols-for-distributed-systems/) and the [European Association for Programming Languages and Systems (EAPLS)](https://eapls.org/).
 
 
@@ -36,35 +38,45 @@ The main **topics of interest** include:
   construed), such as software-defined networks, distributed ledgers,
   smart contracts, and blockchain technologies, etc.
 
-## Latest Edition
-* [FORTE 2026](https://www.discotec.org/2026/forte) - Urbino, Italy  <br> 
-  * Program Chairs: Laura Bocchi (University of Kent, UK) and Burcu Kulahcioglu Ozkan (TU Delft, The Netherlands)
-  * Proceedings: [Springer LNCS-IFIP volume 16589](https://link.springer.com/book/10.1007/978-3-032-28187-6). 
-
+## Next Edition
+* [FORTE 2027](https://www.discotec.org/2027) - Augsburg, Germany  <br> 
+  * Program Chairs: Cinzia Di Giusto (Université Côte d'Azur, France) and Peter Thiemann (University of Freiburg, Germany)
 
 ## Previous Editions 
 (See the FORTE entries in [DBLP](https://dblp.uni-trier.de/db/conf/forte/index.html) and [Springer](https://link.springer.com/conference/forte) for further information)
 
+* [FORTE 2026](https://www.discotec.org/2026/forte) - Urbino, Italy  <br> 
+  * Program Chairs: Laura Bocchi (University of Kent, UK) and Burcu Kulahcioglu Ozkan (TU Delft, The Netherlands)
+  * Invited Speaker: Nathalie Bertrand (INRIA, France)
+  * Proceedings: [Springer LNCS-IFIP volume 16589](https://link.springer.com/book/10.1007/978-3-032-28187-6). 
+
 * [FORTE 2025](https://www.discotec.org/2025/forte) - Lille, France <br> 
   * Program Chairs: Carla Ferreira (NOVA University of Lisbon, Portugal) and 
 Claudio A. Mezzina (University of Urbino, Italy)
+  * Invited Speaker: Burcu Kulahcioglu Ozkan (TU Delft, The Netherlands) 
   * Proceedings: [Springer LNCS-IFIP volume 15732](https://link.springer.com/book/10.1007/978-3-031-95497-9). 
 
 * [FORTE 2024](https://www.discotec.org/2024/forte) - Groningen, The Netherlands <br>
   * Program Chairs: Valentina Castiglioni (TU Eindhoven, The Netherlands) and Adrian Francalanza (University of Malta, Malta)
+  * Invited Speaker: Laura Kovács (Vienna University of Technology, AT)
   * Proceedings: [Springer LNCS-IFIP volume 14678](https://link.springer.com/book/10.1007/978-3-031-62645-6).
 
 * [FORTE 2023](https://www.discotec.org/2023/forte) - Lisbon, Portugal <br>
   * Program Chairs: Marieke Huisman (University of Twente, The Netherlands) and António Ravara (NOVA University Lisbon, Portugal)
+  * Invited Speaker: Azalea Raad (Imperial College London, UK)
   * Proceedings: [Springer LNCS-IFIP volume 13910](https://link.springer.com/book/10.1007/978-3-031-35355-0).
 
 * [FORTE 2022](https://www.discotec.org/2022/forte.html) - Lucca, Italy <br>
   * Program Chairs: Mohammad Reza Mousavi (King's College London, United Kingdom) and Anna Philippou (University of Cyprus, Cyprus)
+  * Invited Speaker: Muffy Calder (University of Glasgow, UK)
   * Proceedings: [Springer LNCS-IFIP volume 13273](https://link.springer.com/book/10.1007/978-3-031-08679-3).
 
+<!--
 * [FORTE 2021](https://www.discotec.org/2021/forte.html) - Valletta, Malta <br>
   * Program Chairs: Kirstin Peters (TU Darmstadt, Germany) and Tim A. C. Willemse (Eindhoven University of Technology, The Netherlands)
+  * Invited Speaker: 
   * Proceedings: [Springer LNCS-IFIP volume 12719](https://link.springer.com/book/10.1007/978-3-030-78089-0).
+-->
 
 ## Steering Committee
 * Christel Baier (University Dresden, Germany)
