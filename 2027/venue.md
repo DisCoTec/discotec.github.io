@@ -2,12 +2,13 @@
 title: Venue
 menu_show: true
 order: 1
-year: 2026
+year: 2027
 ---
 
-# Venue: Urbino, Italy
+# Venue: Augsburg, Germany
 
-## Quick Links
+TBA
+<!-- ## Quick Links
 * [Location](#location)
 * [How to arrive](#how-to-arrive)
 * [Accomodation](#accomodation)
@@ -66,6 +67,6 @@ There's a lot to see in Urbino! Please visit the [tourist office website](https:
 
 ### The University of Urbino
 
-The University of Urbino was founded 519 years ago in 1506 by Guidobaldo da Montefeltro, the Duke of Urbino. One year later, the magistracy of Urbino was granted power to award doctorates in canon and civil law by papal bull from Pope Julius II.
+The University of Urbino was founded 519 years ago in 1506 by Guidobaldo da Montefeltro, the Duke of Urbino. One year later, the magistracy of Urbino was granted power to award doctorates in canon and civil law by papal bull from Pope Julius II. -->
 
 
