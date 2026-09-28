@@ -25,7 +25,4 @@ TBA
 
 **DisCoTec conference: June 14-18, 2027**
 
-<!-- * Camera-ready: April 3, 2026 <!-- April 23, 2025 -->
-* Conference:  June 8-12, 2026 -->
-
 Deadlines expire at 23:59 (AoE, anywhere on earth) on the dates displayed above.
