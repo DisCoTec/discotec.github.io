@@ -141,5 +141,5 @@ TBA
    * RustMC: Automated Verification of Real-World Concurrent Rust
 
 * **S6 - Verification** (chair: Maurizio Murgia)
-   * Sound Automatic Lock Placement for Concurrent Programs with Pointers -->
-   * Formal Modeling of BEEFY, a Protocol for Supporting Light Clients
+   * Sound Automatic Lock Placement for Concurrent Programs with Pointers
+   * Formal Modeling of BEEFY, a Protocol for Supporting Light Clients -->
