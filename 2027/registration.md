@@ -92,7 +92,7 @@ Similar to past editions, there are no special fees for students but we have a l
 
 In order to apply to these grants, candidates should send their application (CV and a one-page motivation letter) via email to <claudio.mezzina@uniurb.it> with the subject “DisCoTec 2026 - student travel grant”. 
 
-Applications should arrive by the early registration date, and will be handled on a first-come, first-served basis. 
+Applications should arrive by the early registration date, and will be handled on a first-come, first-served basis. -->
 
-## Cancellation/Refund Policy -->
+## Cancellation/Refund Policy
 In order to keep registration fees as low as possible, there will be no refunds in cases of cancellation. 
