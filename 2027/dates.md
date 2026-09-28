@@ -2,7 +2,7 @@
 title: Dates
 menu_show: true
 order: 3
-year: 2026
+year: 2027
 ---
 
 # Important dates 
