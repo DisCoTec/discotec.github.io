@@ -9,90 +9,21 @@ year: 2027
 
 ## Important Dates
 TBA
-<!-- * Early registration: Possible until **May 17th, 2026**, using the link below.
-* Late registration: Possible until **June 3rd, 2026**, using the link below. -->
 * DisCoTeC 2027: **June 14th to 18th, 2027**.
 
 ## General Conditions 
 * DisCoTec 2027 is planned as an on-site event.
 * At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
-<!-- * All registration fees below include 22% of VAT. -->
-<!-- * Similar to past editions, there are --no special fees for students, but we have a limited amount of **student travel grants** provided by IFIP; see below for details.-->
 * In order to keep registration fees as low as possible, on-site registration and cancellations/refunds are not supported (see also below). 
 * If you have any questions about the registration, please contact <kirstin.peters@uni-a.de> (please, refer to “DisCoTec 2027 Registration” in the subject).
 
 ## Events and Fees
 
 TBA
-<!-- |   | Early (until May 17) | Late (until June 11) |
-| - | -: | -: |
-| **Full week** | EUR 600 | EUR 700 |
-| **DisCoTec Conferences only** | EUR 550 | EUR 650 |
-| **Satellite events only** | EUR 80 | EUR 100 |
-
-## Description of categories
-### Main conferences only
-This category includes full access on Tuesday 9, Wednesday 10, and Thursday 11:
-* Access to all Coordination, DAIS, and FORTE sessions 
-* Lunch and two coffee breaks
-* Free access to the online LNCS proceedings of Coordination, DAIS, and FORTE
-* Full social program on Wednesday 10 (social activities + conference banquet)
-* Welcome reception on Monday
-
-### Full week
-This category includes 
-* All benefits of “Main conferences only”
-* Access to all workshops and tutorials on both satellite days (Monday 8 AND Friday 12)
-* Lunch and two coffee breaks on both satellite days
-
-### Satellite events only
-This category includes full access on Monday 8 AND Friday 12:
-* Access to all workshops and tutorials on both satellite days
-* Lunch and two coffee breaks on the satellite days
-* Welcome reception -->
-
 
 ## Registration Link
 
 TBA
-<!-- The paymed has to be done as a "spontaneous payment to the university". Please follow the [pdf guide](./venue/how_to.pdf) for the payment. 
-[Payment site](https://uniurb.pagoatenei.cineca.it/frontoffice/pagamentospontaneo)
-You can register for DisCoTec by filling in the following form: [https://dr18.azur-colloque.fr/inscription/en/135/inscription](https://dr18.azur-colloque.fr/inscription/en/135/inscription).
-
-Once you have payed, plase fill in the following form [registration form](https://forms.gle/Myzp9PKL6JtJanKn6)
-The deadline for registration has passed. Registering online is no longer possible.-->
-
-<!-- ## Dietary restrictions
-Do send an email to <claudio.mezzina@uniurb.it> with subject "Dietary restrictions" should you have any.
-
-
-## Visa Information
-
-In case you need an invitation letter, after completing the registration process, please send your request to <claudio.mezzina@uniurb.it> (subject: “DisCoTec 2025 - Visa invitation letter”) by specifying the following details:
-
-* Date in which you completed the registration and payment process
-* Full name (as shown in your passport)
-* Date of birth
-* Snail mail address
-* Professional e-mail address
-* If you are presenting a paper: title of the paper, submission number, name of the conference/workshop
-* Proof of student or professional status
-* Passport number, expiration date, issuing country
-
-We aim at processing letter requests quickly (via email), after having confirmed that registration has taken place. 
-
-## Certificate of Attendance
-If you registered and need a certificate of attendance, please send an email to <claudio.mezzina@uniurb.it> with subject "Certificate DisCoTec" indicating:
-- your full name and institutional affiliation
-
-We will reply with a certificate in PDF.
-
-## Student Travel Grants 
-Similar to past editions, there are no special fees for students but we have a limited amount of student travel grants provided by [IFIP](https://www.ifip.org) (subject to conditions). 
-
-In order to apply to these grants, candidates should send their application (CV and a one-page motivation letter) via email to <claudio.mezzina@uniurb.it> with the subject “DisCoTec 2026 - student travel grant”. 
-
-Applications should arrive by the early registration date, and will be handled on a first-come, first-served basis. -->
 
 ## Cancellation/Refund Policy
 In order to keep registration fees as low as possible, there will be no refunds in cases of cancellation. 
