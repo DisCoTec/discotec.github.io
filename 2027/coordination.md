@@ -33,7 +33,7 @@ COORDINATION 2027 is one of the three conferences of [DisCoTec 2027](.).
 <!-- - Artefact kick-the-tires - author response: ~~2 March 2026~~ ~~13 March 2026~~ **15 March 2026** (extended) -->
 <!-- - Artefact notification: 24 March 2026 -->
 
-**DisCoTec conference: June 16-18, 2027**
+**DisCoTec conference: June 14-18, 2027**
 
 Deadlines expire at 23:59 (AoE, anywhere on earth) on the dates displayed above.
 
