@@ -7,15 +7,17 @@ year: 2026
 
 ## Quick links
 * [Programme in a Nutshell](#in-a-nutshell)
-* [Details of the Parallel Tracks (Main Conferences)](#details-tuesday---thursday)
+* [Details of the Parallel Tracks (Main Conferences)](#details-wednesday---friday)
 
 # Programme overview
 
-![Programme overview](./venue/program.png)
+TBA
+<!-- ![Programme overview](./venue/program.png) -->
 
 ## In a nutshell
 
-### Monday, June 8th
+TBA
+<!-- ### Tuesday, June 8th
 
 
 
@@ -66,11 +68,12 @@ year: 2026
 
 * [19th Interaction and Concurrency Experience](./satellite/ice) (ICE) workshop
     * **Where:** Aula Amaranto 
-    * **When:** 09:00-17:30
+    * **When:** 09:00-17:30 -->
 
-## Details (Tuesday - Thursday)
+## Details (Wednesday - Friday)
 
-**COORDINATION**
+TBA
+<!-- **COORDINATION**
 * **S1 - Formal modeling and analysis of distributed systems** (chair: Carolyn Talcott)
    * Timed Scenario Expressions and Realisability
    * HistMSO: a Logic for Reasoning on Consistency Models with MONA
@@ -138,5 +141,5 @@ year: 2026
    * RustMC: Automated Verification of Real-World Concurrent Rust
 
 * **S6 - Verification** (chair: Maurizio Murgia)
-   * Sound Automatic Lock Placement for Concurrent Programs with Pointers
+   * Sound Automatic Lock Placement for Concurrent Programs with Pointers -->
    * Formal Modeling of BEEFY, a Protocol for Supporting Light Clients
