@@ -2,7 +2,7 @@
 title: Conferences
 menu_show: true
 order: 0
-year: 2026
+year: 2027
 ---
 
 # Main Conferences
