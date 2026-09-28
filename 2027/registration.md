@@ -8,21 +8,23 @@ year: 2026
 # Registration
 
 ## Important Dates
-* Early registration: Possible until **May 17th, 2026**, using the link below.
-* Late registration: Possible until **June 3rd, 2026**, using the link below. 
-* DisCoTeC 2026: **June 8th to 12th, 2026**.
+TBA
+<!-- * Early registration: Possible until **May 17th, 2026**, using the link below.
+* Late registration: Possible until **June 3rd, 2026**, using the link below. -->
+* DisCoTeC 2027: **June 14th to 18th, 2027**.
 
 ## General Conditions 
-* DisCoTec 2026 is planned as an on-site event.
+* DisCoTec 2027 is planned as an on-site event.
 * At least one author of papers/presentations accepted to the DisCoTec events (main conferences and workshops) must register by the early registration date.
-* All registration fees below include 22% of VAT.
-<!--* Similar to past editions, there are --no special fees for students, but we have a limited amount of **student travel grants** provided by IFIP; see below for details.-->
+<!-- * All registration fees below include 22% of VAT. -->
+<!-- * Similar to past editions, there are --no special fees for students, but we have a limited amount of **student travel grants** provided by IFIP; see below for details.-->
 * In order to keep registration fees as low as possible, on-site registration and cancellations/refunds are not supported (see also below). 
-* If you have any questions about the registration, please contact <claudio.mezzina@uniurb.it> (please, refer to “DisCoTec 2026 Registration” in the subject).
+* If you have any questions about the registration, please contact <kirstin.peters@uni-a.de> (please, refer to “DisCoTec 2027 Registration” in the subject).
 
 ## Events and Fees
 
-|   | Early (until May 17) | Late (until June 11) |
+TBA
+<!-- |   | Early (until May 17) | Late (until June 11) |
 | - | -: | -: |
 | **Full week** | EUR 600 | EUR 700 |
 | **DisCoTec Conferences only** | EUR 550 | EUR 650 |
@@ -37,7 +39,6 @@ This category includes full access on Tuesday 9, Wednesday 10, and Thursday 11:
 * Full social program on Wednesday 10 (social activities + conference banquet)
 * Welcome reception on Monday
 
-
 ### Full week
 This category includes 
 * All benefits of “Main conferences only”
@@ -48,19 +49,20 @@ This category includes
 This category includes full access on Monday 8 AND Friday 12:
 * Access to all workshops and tutorials on both satellite days
 * Lunch and two coffee breaks on the satellite days
-* Welcome reception
+* Welcome reception -->
 
 
 ## Registration Link
 
-The paymed has to be done as a "spontaneous payment to the university". Please follow the [pdf guide](./venue/how_to.pdf) for the payment. 
+TBA
+<!-- The paymed has to be done as a "spontaneous payment to the university". Please follow the [pdf guide](./venue/how_to.pdf) for the payment. 
 [Payment site](https://uniurb.pagoatenei.cineca.it/frontoffice/pagamentospontaneo)
-<!-- You can register for DisCoTec by filling in the following form: [https://dr18.azur-colloque.fr/inscription/en/135/inscription](https://dr18.azur-colloque.fr/inscription/en/135/inscription). -->
+You can register for DisCoTec by filling in the following form: [https://dr18.azur-colloque.fr/inscription/en/135/inscription](https://dr18.azur-colloque.fr/inscription/en/135/inscription).
 
 Once you have payed, plase fill in the following form [registration form](https://forms.gle/Myzp9PKL6JtJanKn6)
-<!--The deadline for registration has passed. Registering online is no longer possible.-->
+The deadline for registration has passed. Registering online is no longer possible.-->
 
-## Dietary restrictions
+<!-- ## Dietary restrictions
 Do send an email to <claudio.mezzina@uniurb.it> with subject "Dietary restrictions" should you have any.
 
 
@@ -92,5 +94,5 @@ In order to apply to these grants, candidates should send their application (CV 
 
 Applications should arrive by the early registration date, and will be handled on a first-come, first-served basis. 
 
-## Cancellation/Refund Policy
+## Cancellation/Refund Policy -->
 In order to keep registration fees as low as possible, there will be no refunds in cases of cancellation. 
