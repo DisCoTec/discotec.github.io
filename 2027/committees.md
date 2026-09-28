@@ -47,7 +47,7 @@ year: 2026
 [ClementWeb]: https://aubert.perso.math.cnrs.fr/
 
 [VanaWeb]: https://pages.cs.aueb.gr/~vana/
-[FransiscoWeb]: https://fmaia.github.io/
+[FranciscoWeb]: https://fmaia.github.io/
 
 [CinziaWeb]: https://webusers.i3s.unice.fr/~cdigiusto/web/
 [PeterWeb]: http://www2.informatik.uni-freiburg.de/~thiemann/
