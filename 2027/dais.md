@@ -1,7 +1,7 @@
 
-# DAIS 2026 - 26th International Conference on Distributed Applications and Interoperable Systems
+# DAIS 2027 - 27th International Conference on Distributed Applications and Interoperable Systems
 
-DAIS 2026 is one of the three conferences of [DisCoTec 2026](.).
+DAIS 2027 is one of the three conferences of [DisCoTec 2027](.).
 
 ### Quick Links
 * [Proceedings](#proceedings)
@@ -68,12 +68,13 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 
 ### Submission Link
 
-Submission are via Easychair at: [https://easychair.org/conferences/?conf=dais2026](https://easychair.org/conferences/?conf=dais2026)
+TBA
+<!-- Submission are via Easychair at: [https://easychair.org/conferences/?conf=dais2026](https://easychair.org/conferences/?conf=dais2026) -->
 
 ### Proceedings
 
-The proceedings of DAIS 26 are published as Springer [LNCS Volume 16591](https://link.springer.com/book/10.1007/978-3-032-27358-1
-)
+TBA
+<!-- The proceedings of DAIS 26 are published as Springer [LNCS Volume 16591](https://link.springer.com/book/10.1007/978-3-032-27358-1) -->
 
 
 Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details). The DAIS proceedings will be published by Springer as an LNCS-IFIP volume and will comprise accepted submissions from __all__ categories.
@@ -81,39 +82,15 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
 ## Program committee chairs
-* [Ana Nunes Alonso][AnaWeb] (INESC TEC, Portugal)
-* [Roberto Palmieri][PalmieriWeb] (Lehigh University, Pennsylvania)
+* [Vana Kalogeraki][VanaWeb] (Athens University of Economics and Business, Greece)
+* [Francisco Maia][FranciscoWeb] (University of Porto, Portugal)
 
 ## Program committee
 
-* Pierre Louis Aublin, IIJ Research laboratory, Japan
-* Christian	Berger, University of Passau, Germany
-* David	Bermbach, TU Berlin, Germany
-* Lorenzo	Carnevale, Universty of Messina, Italy
-* Davide Frey, Inria, France
-* Pradeeban	Kathiravelu, University of Alaska Anchorage, USA
-* Odorico Machado	Mendizabal, Federal University of Santa Catarina, Brazil
-* Etienne	Rivière, UC Louvain, Belgique
-* Valerio	Schiavoni, University of Neuchâtel, Switzerland
-* Cláudia Brito, INESC TEC, Portugal
-* João Leitão, UNL, Portugal
-* Ahmed Hassan, Lehigh University, USA
-* Sebastiano Peluso, Meta, USA
-* Lewis Tseng, UMass Lowell, USA
+TBA
 
 <!--## Artifact Evaluation Committee
 TBC
--->
-<!--
-* Alan Oliveira de Sá, LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
-* Cláudia Brito, INESC TEC & U. Minho, Portugal
-* Christian Berger, University of Passau, Germany
-* Giovanni Farina,  Niccolò Cusano University, Italy
-* José Pedro Peixoto, INESC TEC & U. Minho, Portugal
-* Rémy Raes, University of Lille, France
-* Robin Vassantlal, LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
-* Tânia Esteves, INESC TEC & U. Minho, Portugal
-* Vinícius Vielmo Cogo (chair), LASIGE & Faculdade de Ciências, Universidade de Lisboa, Portugal
 -->
 
 ## Steering committee
@@ -138,5 +115,6 @@ TBC
 * Mennan Selimi,	South East European University, North Macedonia
 * Spyros Voulgaris, Athens University of Economics and Business, GR
 
-[PalmieriWeb]: https://engineering.lehigh.edu/faculty/roberto-palmieri
+[VanaWeb]: https://pages.cs.aueb.gr/~vana/
+[FranciscoWeb]: https://fmaia.github.io/
 [AnaWeb]: https://www.inesctec.pt/en/people/ana-nunes-alonso
