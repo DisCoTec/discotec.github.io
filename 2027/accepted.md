@@ -2,7 +2,7 @@
 title: Accepted Papers
 menu_show: true
 order: 4
-year: 2026
+year: 2027
 ---
 
 # Accepted papers 
