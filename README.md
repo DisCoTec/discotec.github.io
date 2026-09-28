@@ -9,7 +9,7 @@ It gathers three main conferences:
 
 Together, these conferences cover a broad spectrum of distributed computing subjects, ranging from theoretical foundations and formal description techniques to systems research issues.
 
-**\> DisCoTec 2027** will take place in **Augsburg, Germany**, organized by [Kirstin Peters](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/).
+**\> [DisCoTec 2027](/2027/)** will take place in **Augsburg, Germany**, organized by [Kirstin Peters](https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/).
 
 ## Steering Committee
 
