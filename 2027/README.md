@@ -22,19 +22,14 @@ DisCoTec 2026 will host the following invited speakers.
 [See here](./invited) for details.
 
 ### Keynote Talks
-* [Mehdi Dastani](https://www.uu.nl/staff/MMDastani) (Utrecht University, NL) - [COORDINATION](./coordination)
-* [Paolo Romano](https://www.dpss.inesc-id.pt/~romanop/) (NESC-ID, PT) - [DAIS](./dais)
-* [Nathalie Bertrand](https://people.rennes.inria.fr/Nathalie.Bertrand/) (Inria, FR) - [FORTE](./forte)
-* [Roberto Bruni](https://pages.di.unipi.it/bruni/) (University of Pisa, IT) - DisCoTec-wide
+* TBA
 
 ### Tutorials
-* Distributed Runtime Verification in Proximity-based Networks: A Tutorial on the Aggregate Programming Approach (Audrito, Damiani, Scarso, Stolz, Torta, UNITO) Mon 8, 14-17
-* [Josef Widder](https://www.linkedin.com/in/josef-widder/) (Quint, Austria) - [FORTE](./forte) 
-
+* TBA
   
 ## Best Paper Awards
 
-Each of the three DisCoTec 2025 main conferences will designate the best paper among its accepted ones.
+Each of the three DisCoTec 2027 main conferences will designate the best paper among its accepted ones.
 One of these papers will further receive the DisCoTec-wide best paper award.
 
 ### Past Best Papers
@@ -98,7 +93,4 @@ The best papers of the past three editions of DisCoTec are the following:
 
       
 ## Further Information
-* Please contact the **general chair** [Claudio Antares Mezzina](mailto:claudio.mezzina@uniurb.it).
-* Follow us on [LinkedIn](https://www.linkedin.com/company/discotec-conf), [Mastodon](https://lipn.info/@DisCoTecConf), or [X](https://twitter.com/DisCoTecConf)!
-
-[ClaudioWeb]: https://robertocasadei.github.io](https://www.uniurb.it/persone/claudio-mezzina
+* Please contact the **general chair** [Kirstin Peters](mailto:kirstin.peters@uni-a.de).
