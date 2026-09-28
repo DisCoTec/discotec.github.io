@@ -273,79 +273,21 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 ### Co-Chairs
 
-* [Cristina Seceleanu][CasadeiWeb] (University of Bologna, Italy)
-* [Fatemeh Ghassemi][GhassemiWeb] (University of Tehran, Iran)
-
-<!--
-## Publicity chair
-* [Saverio Giallorenzo](https://www.unibo.it/sitoweb/saverio.giallorenzo2/) (University of Bologna, Italy)
--->
+* [Cristina Seceleanu][CristinaWeb] (Mälardalen University, Sweden)
+* [Clément Aubert][ClementWeb] (CNRS, France)
 
 ### Programme Committee members
 
-- S. Akshay (IIT Bombay, India)
-- Duncan Paul Attard (University of Malta, Malta)
-- Giorgio Audrito (University of Turin, Italy)
-<!-- Stephanie Balzer (CMU, USA)-->
-<!-- - Massimo Bartoletti (Universita’ degli Studi di Cagliari, Italy)-->
-- Simon Bliudze (INRIA, France)
-- Valentina Castiglioni (Eindhoven University of Technology, Netherlands)
-<!-- - Laura Bocchi (University of Kent, UK)-->
-<!-- - Ornela Dardha (University of Glasgow, UK)-->
-- Mariangiola Dezani-Ciancaglini (University of Turin, Italy)
-- Cinzia Di Giusto (Université Côte d’Azur, France)
-<!-- - Adrian Francalanza (University of Malta, Malta)-->
-- Francisco Ferreira (University of London, UK)
-- Silvia Ghilezan (University of Novi Sad, Mathematical Institute SASA, Serbia)
-- Susanne Graf (CNRS,VERIMAG, France)
-- Ludovic Henrio (CNRS, France; IRIF)
-- Thomas T. Hildebrandt (University of Copenhagen, Denmark)
-- Ping Hou (University of Oxford, UK)
-<!-- - Dimka Karastoyanova (University of Groningen, The Netherlands)-->
-<!-- - Daniela Kaufmann (TU Wien)-->
-- Eva Kühn (Vienna University of Technology, Austria)
-- Ivan Lanese (University of Bologna, Italy)
-- Carlos López Pombo ( Universidad Nacional de Río Negro, Argentina; CONICET)
-- Michele Loreti (University of Camerino, Italy)
-- Stefano Mariani (University of Modena and Reggio Emilia, Italy)
-- Hernán C. Melgratti (University of Buenos Aires, Argentina)
-<!-- - Rosemary Monahan (National Univeristy of Ireland)-->
-- Fabrizio Montesi (University of Southern Denmark, Denmark)
-- J. Garreth Morris (University of Iowa, USA)
-- Rumyana Neykova (Brunel University London, UK)
-- José Proença (University of Porto, Portugal)
-- Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
-- António Ravara (NOVA LINCS, Portugal)
-- Marjan Sirjani (Mälardalen University, Sweden)
-<!-- - Claudia Szabo (University of Adelaide)-->
-- Carolyn L. Talcott (SRI International, USA)
-<!-- - Silvia Lizeth Tapia Tarifa (University of Oslo, Norway)-->
-- Maurice H. ter Beek (ISTI-CNR, Italy)
-- Francesco Tiezzi (University of Florence, Italy)
-- Nils Timm (University of Pretoria, South Africa)
-- Emilio Tuosto (Gran Sasso Science Institute, Italy)
-<!-- - Nobuko Yoshida (University of Oxford)-->
-- Frank Valencia (École Polytechnique de Paris, France)
+TBA
 
 
 ### Artefact Evaluation Committee chair
 
-[Gianluca Aguzzi][AguzziWeb] (University of Bologna, Italy)
+TBA
 
 ### Artefact Evaluation Committee
 
-- Davide Domini (University of Bologna, Italy)
-- Nicolas Farabegoli (University of Bologna, Italy)
-- Matteo Magnini (University of Luxembourg, Luxembourg)  
-- Mário Pereira (NOVA School of Science and Technology, Portugal)
-- Marco Quadrini (University of Camerino, Italy)
-- Corentin Reuther (University of Namur, Belgium) 
-- Lorenzo Rossi (University of Camerino, Italy)
-- Gerard Tabone (University of Malta, Malta)
-<!-- -Jasmine Xuereb (University of Malta, Malta)-->
-- Laura Voinea (University of Glasgow, UK)
-<!-- -Felix Stutz (University of Luxembourg, Luxembourg)-->
-<!-- -Tiago Cogumbreiro (UMass Boston, USA)-->
+TBA
 
 ## Steering Committee
 
@@ -380,9 +322,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 ## Contacts
 
-For any queries, please contact the PC chairs [Roberto Casadei](https://www.unibo.it/sitoweb/roby.casadei/en) and [Fatemeh Ghassemi](GhassemiWeb).
+For any queries, please contact the PC chairs [Cristina Seceleanu](CristinaWeb) and [Clément Aubert](ClementWeb).
 
-[CasadeiWeb]: https://robertocasadei.github.io
-[CasadeiInst]: https://robertocasadei.github.io
-[GhassemiWeb]: http://www.fatemehghassemi.ir/
-[AguzziWeb]: https://www.unibo.it/sitoweb/gianluca.aguzzi/en
+[CristinaWeb]: https://www.es.mdu.se/staff/173-Cristina_Seceleanu
+[ClementWeb]: https://aubert.perso.math.cnrs.fr/
