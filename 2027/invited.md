@@ -1,0 +1,175 @@
+---
+title: Invited
+menu_show: true
+order: 1
+year: 2026
+---
+
+# Invited Speakers
+
+DisCoTec 2026 has invited speakers to give [keynote talks](#keynote-talks) and [tutorials](#tutorials).
+
+## Keynote Talks
+
+DisCoTec 2026 will host a keynote talk at each conference as well as a DisCoTec-wide keynote.
+The invited speakers are
+[Mehdi Dastani](#mehdi-dastani-coordination) ([COORDINATION](./coordination)), [Paolo Romano](#paolo-romano-dais) ([DAIS](./Dais)), [Nathalie Bertrand ](#natalie-bertrand-forte) ([FORTE](./forte)), and [Roberto Bruni](#broberto-bruni-university-of-pisa---discotec-wide) (DisCoTec-wide).
+
+
+### [Roberto Bruni](https://pages.di.unipi.it/bruni/) (University of Pisa, Italy) - DisCoTec-wide [slides](./venue/bruni.pdf)
+
+
+
+**Title:** _A logic for all reasons_
+
+**Abstract:** Program verification draws on a rich spectrum of program logics, each
+offering a distinct perspective on program behaviour. Hoare Logic deals
+with proving the absence of bugs (i.e., partial correctness) through
+over-approximations of reachable states. Incorrectness Logic, in
+contrast, identifies reachable error states without false alarms and
+Lisbon triples pinpoint concrete sources of errors with the same
+guarantee. Necessary condition logic and predicate transformers further
+enrich this landscape.
+
+Despite their individual strengths, these frameworks are typically
+developed and applied in isolation, limiting their potential to improve
+precision and strengthen static analysis guarantees. In verification, as
+elsewhere, union is strength: integrating orthogonal reasoning
+principles enables analyses that are strictly more expressive and
+informative than before.
+
+In this talk, we propose a unifying framework that systematically
+combines multiple analysis dimensions: direction (forward and backward)
+and approximation (under-, exact, and over-approximation), all within a
+simple lattice of program triples. By elevating approximation modes to
+first-class objects, we lay a principled foundation for modular,
+compositional, and expressive reasoning. Our approach reconciles
+correctness and incorrectness within a single logical framework,
+enabling the derivation of code summaries that can inhabit any point in
+the program logic landscape.
+
+**Bio:** Roberto Bruni is Full Professor at the Computer Science Department of
+the University of Pisa.
+His research focuses on the modeling, analysis, and verification of
+concurrent, distributed, adaptive, and open systems, as well as on
+natural computing and bio-inspired models of computation. He has
+contributed to a wide range of areas including Petri nets, rewriting
+logic, category theory, process algebras, service-oriented computing,
+multiparty interactions, Reaction Systems, abstract interpretation and
+program logics. He has co-authored over 170 publications, including
+textbooks and monographs, and has been actively involved in numerous
+international research projects and the organization of international
+conferences. He received his PhD in Computer Science from the University
+of Pisa.
+
+### [Mehdi Dastani](https://www.uu.nl/staff/MMDastani) (Utrecht University, The Netherlands) - COORDINATION
+
+**Title**: _Efficient Communication and Coordination in Multiagent Reinforcement Learning_  
+
+**Abstract**: Multiagent reinforcement learning (MARL) is a powerful framework for learning effective policies in complex multiagent environments. A key challenge in MARL is to learn coordinated policies efficiently in a decentralised manner. Prior work has explored a range of communication and coordination mechanisms to address these challenges. 
+
+In this talk, I will present our recent contributions towards improving the efficiency and performance of MARL systems through principled communication and coordination mechanisms. First, I introduce a decentralised communication scheduling approach that leverages supervised learning to construct a message estimation model. This model enables individual agents to selectively decide when sharing local information is beneficial, thereby reducing unnecessary communication. Empirical results show that this approach significantly decreases communication overhead while improving overall learning performance. Second, I present two logic-based methods for synthesising multiagent reward machines and action-masking artefacts. These methods provide formal guarantees that the resulting policies are both coordinated and safe, while also improving sample efficiency. 
+
+
+### [Paolo Romano](https://www.dpss.inesc-id.pt/~romanop/) (INESC-ID Lisbon - Distributed Systems Group, Portugal) - DAIS
+
+**Title**: Processing-in-Memory for Next-Generation Data Pipelines: From OLTP to AI Feature Stores
+
+**Abstract**:
+
+Processing in Memory (PIM) architectures, exemplified by the first commercially available UPMEM platform, bring lightweight Data Processing Units (DPUs) directly into DRAM modules. This approach dramatically reduces data movement, which is the dominant bottleneck in many modern data intensive workloads. In this talk I will present our journey from the first software transactional memory (STM) layer for PIM to the first cross-DPU OLTP engine, and our most recent work on leveraging PIM to accelerate feature stores for the inference phase of AI applications.
+
+I will start by presenting PIM STM [1], a family of STM implementations tailored to UPMEMs unique hardware constraints (limited WRAM MRAM tiers, weak atomic primitives, and no direct inter DPU communication). Via an extensive study we have systematically assessed the efficiency of key choices in the concurrency control  design space for this emerging architecture, as well as quantified the impact of using different memory tiers of the UP-MEM system to maintain transactional metadata.
+
+I will then introduce PIM-TIDE, the first PIM-native in-memory transactional store that builds on PIM STM  supports full ACID transactions spanning thousands of DPUs. PIM-TIDE combines deterministic ordering for distributed sub-transactions (pre-computed on the host) with lightweight non-deterministic STM for local transactions, eliminating expensive distributed  transaction coordination protocols and CPU-mediated inter-DPU messaging. On OLTP workloads, PIM-TIDE achieves up to 6.75× higher throughput and 3.52× better energy efficiency than a 52-core CPU baseline, demonstrating that PIM can deliver both performance and sustainability gains for classic OLTP.
+Finally, I will present our ongoing work on PIM, which aims at accelerating feature stores, namely  the data-preparation backbone of ML inference pipelines. Feature computation (such as rolling aggregates and joins) is memory-bound, exhibits massive parallelism, and often needs to comply with strict latency requirements, e.g.,  in the fraud detection domain. By offloading feature computation kernels to DPUs,  I will show that it is possible to achieve order-of-magnitude speed-ups and energy reductions, but that it is crucial to integrate solutions capable of effectively dealing with data skew and of taking maximum advantage of the memory hierarchy within a DPU.
+
+**Bio**:
+
+Paolo Romano received his PhD from Rome University "Sapienza" (2007) and his Master degree summa cum laude from Rome University"Tor Vergata" (2002). He is currently an associate professor at Lisbon University, Portugal and a researcher at INESC-ID. 
+
+His research is focused on parallel and distributed systems, with a strong emphasis on leveraging emerging hardware technologies —including Processing-In-Memory, Persistent Memory and Transactional Memory — to achieve high efficiency, performance, and dependability. He leads work on concurrency control for PIM systems, heterogeneous computing, persistent memory, and energy-efficient data management. These efforts aim to overcome traditional memory bottlenecks, reduce data movement, and enhance throughput and memory efficiency for AI/ML systems, transactional applications, and high-performance computing.
+
+In these areas, he published more than 200 papers, receiving 5 best paper awards, and has coordinated several national and European projects, including a COST Action bringing together researchers from 60 institutions and 17 countries. He serves regularly as Program Committee member and reviewer for renowned international conferences and journals, including EuroSys, DSN, ICDCS, PPoPP, IEEE TKDE, IEEE TPDS, ACM TOPLAS. 
+
+### [Nathalie Bertrand](https://people.rennes.inria.fr/Nathalie.Bertrand/) (INRIA, France) - FORTE
+**Title**: Proving correctness of distributed algorithms thanks to parameterized
+verfication
+
+**Abstract**:
+Distributed and concurrent systems are at the heart of modern digital
+applications, devices and infrastructures. Since errors in cloud computing, e-
+commerce platforms, or transportation systems can have dramatic consequences, it
+is necessary to provide rigorous methods for verifying them. At the core of
+these distributed and concurrent systems are distributed algorithms that enable
+consensus, leader election, data constistency, etc. which are essential to
+ensuring proper functioning.
+This talks presents techniques originating from model checking to prove
+correctness of specific distributed algorithms that have a round-based
+structure. The executions of such algorithms are unbounded in two dimensions:
+the number of processes or threads they involve, and the number of rounds they
+go through. Their automated verification is therefore challenging. We report on
+recent contributions that leverage the concept of abstractions and exploit
+efficient SMT solvers and symbolic model checkers to perform the parameterized
+verification of round-based distributed algorithms.
+
+**Bio**:
+Nathalie Bertrand is a senior researcher at Inria, based in Rennes (France). Her
+research interest are centered on formal methods for the verification and
+synthesis of complex systems. She focuses on model-checking algorithms, games
+for synthesis and model-based testing. In the last years, she has been
+interested in applying formal methods to prove correctness of distributed
+algorithms.
+
+
+## Tutorials
+
+<!-- coord tutorial -->
+
+<a name="tutorial-coord26" />
+
+### Giorgio Audrito, Ferruccio Damiani, Giordano Scarso, Volker Stolz, Gianluca Torta - COORDINATION
+
+
+**Title:** __*Distributed Runtime Verification in Proximity-based Networks: A Tutorial on the Aggregate Programming Approach*__
+
+**Abstract:** Distributed runtime verification (DRV) addresses the problem
+of checking the correctness of distributed systems during execution,
+coping with partial knowledge, dynamic topologies, and the absence of
+global time. These challenges are particularly prominent in
+proximity-based networks, such as those arising in IoT and Far Edge
+computing scenarios, where large numbers of devices interact through
+local communication.  This tutorial presents an approach to DRV based on
+Aggregate Programming (AP), a paradigm for designing distributed
+collective systems via high-level abstractions over computational
+fields. We show how temporal and spatial properties (expressed in
+past-CTL and SLCS, respectively) can be systematically compiled into
+aggregate monitors grounded in the eXchange Calculus and executed using
+the FCPP C++ framework and simulator for AP. The tutorial combines
+conceptual foundations with practical guidance: participants learn how
+to specify spatio-temporal properties, generate corresponding monitors,
+and execute them in a 3D simulation environment. Examples are drawn from
+ongoing industrial collaborations and research projects, which we use to
+illustrate realistic monitoring scenarios and motivate open challenges
+for AP-based DRV.
+
+**Installation and demo instructions:** <https://fcpp.github.io/quickstart/tutorial-fm-2026.html>. Note that some software installation is required if you would like to participate in the hands-on session: we recommend that you check the software requirements before leaving for COORDINATION.
+
+### [Josef Widder](https://www.linkedin.com/in/josef-widder/) (Quint, Austria) - FORTE
+
+
+**Title:** _From Whiteboard to Model Checker: Hands-On Formal Methods for Distributed Protocols with Quint_ 
+
+**Abstract:**
+Formal methods have long promised to make distributed protocols more reliable. Academic tools have made real progress here: they showcase effective use of decision procedures on specific sets of benchmarks and are designed for rigorous use in controlled settings. This is necessary to make scientific progress and to evaluate it. At the same time, it often limits practical applications, where users face a steep learning curve for formalisms, and they lack intuition on how the tools are working internally. As a result, industrial users easily run into instances of verification problems that might drive academic tools out of their comfort zone.
+
+Quint was built on the idea to lower the entry burden for formal methods and allow a wide range of users to immediately benefit from light-weight formal methods like formal specification and simulation. The goal is not to replace rigorous reasoning, but to put it to its most effective use. With formal specification one can already eliminate / rule out issues that would be hard to find in English design documents. Simulation is effective in finding issues due to concurrency and faults where human reasoning on a whiteboard may fail. At this point we have already gained some confidence into a protocol, if not enough, we can move to, e.g., model checking. However, at this point we can be confident we are not wasting this powerful tool on shallow bugs.
+
+Quint builds on the foundations of TLA+, the temporal logic of actions, but offers a modern and typed syntax that feels closer to functional programming than to mathematics. It comes with a simulator, a REPL, a model checker, and integrates with standard development workflows. As Quint also compiles into TLA+, in addition to Quint-native tooling, users can over time increase their confidence by using the Apalache and TLC model checkers, or even the proof system TLAPS.
+
+The tutorial is structured in two parts. The first part covers the core language: how to write executable specifications of distributed protocols, how to express safety and liveness properties, and how to run the tools to find bugs and counterexamples. The second part digs into real-world case studies drawn from deployed systems, including blockchain consensus protocols and related protocols, showing how Quint has been used in practice for design, auditing, and verification.
+Participants will come away with a working understanding of Quint and a sense of where lightweight formal methods fit into the broader landscape of tools for distributed systems.
+
+**Bio**:
+Josef Widder is Chief Scientist at Quint Labs. Before that, he was Director of Protocol Engineering at Informal Systems, where he led design and formal methods work on consensus and related protocols including CometBFT and Malachite. His research spans Byzantine fault tolerance, distributed algorithms, and parameterized model checking, with publications at POPL, CAV, TACAS, PODC, DISC, and OOPSLA. He holds a PhD and habilitation from TU Vienna and has held research positions at Ecole Polytechnique and Texas A&M University.
+
