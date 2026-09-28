@@ -269,8 +269,8 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 ### Co-Chairs
 
-* [Clément Aubert][https://aubert.info/] (Augusta University, USA)
-* [Cristina Seceleanu][https://www.es.mdu.se/staff/173-Cristina_Seceleanu] (Mälardalen University, Sweden)
+* [Clément Aubert](https://aubert.info/) (Augusta University, USA)
+* [Cristina Seceleanu](https://www.es.mdu.se/staff/173-Cristina_Seceleanu) (Mälardalen University, Sweden)
 
 ### Programme Committee members
 
