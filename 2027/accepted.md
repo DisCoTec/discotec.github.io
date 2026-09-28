@@ -9,33 +9,12 @@ year: 2027
 
 ## COORDINATION
 
-### Regular Papers
-
-- TBA
-
-
-### Tool Papers
-
 - TBA
 
 ## FORTE
 
-### Regular Papers
-
 - TBA
-
-
-### Short Papers
-
-- TBA
-
-### Tool Papers
-
-- TBA
-
 
 ## DAIS
-
-### Regular Papers
 
 - TBA
