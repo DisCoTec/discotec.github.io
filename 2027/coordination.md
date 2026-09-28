@@ -1,15 +1,15 @@
 
 
-# COORDINATION 2026 - 28th International Conference on Coordination Models and Languages
+# COORDINATION 2027 - 29th International Conference on Coordination Models and Languages
 
-COORDINATION 2026 is one of the three conferences of [DisCoTec 2026](.).
+COORDINATION 2027 is one of the three conferences of [DisCoTec 2027](.).
 
 
 
 ### Quick Links and Updates
 
-* **[Programme](#programme)**
-* **[Proceedings](#proceedings)**: [proceedings PDF (uncorrected version)](https://drive.google.com/file/d/13XxArDW5dJTOiQtUDXA67sVPq0OE-9V8/view?usp=sharing)
+<!-- * **[Programme](#programme)** -->
+<!-- * **[Proceedings](#proceedings)**: [proceedings PDF (uncorrected version)](https://drive.google.com/file/d/13XxArDW5dJTOiQtUDXA67sVPq0OE-9V8/view?usp=sharing) -->
 <!-- * **[Accepted papers](#accepted-papers)** -->
 <!-- * [Important Dates](https://www.discotec.org/2026/dates) -->
 <!-- * [Submission Link](#submission-link) --> 
@@ -19,21 +19,21 @@ COORDINATION 2026 is one of the three conferences of [DisCoTec 2026](.).
 
 ### Dates
 
-For papers:
+<!-- For papers: -->
 
-- **Abstract submission:** ~~30 January 2026~~ **13 February 2026 (extended)**
-- **Paper submission:** ~~6 February 2026~~ **20 February 2026 (extended)**
-- Paper notification: 24 March 2026
-- Camera-ready: 3 April 2026 (hard)
+<!-- - **Abstract submission:** ~~30 January 2026~~ **13 February 2026 (extended)** -->
+<!-- - **Paper submission:** ~~6 February 2026~~ **20 February 2026 (extended)** -->
+<!-- - Paper notification: 24 March 2026 -->
+<!-- - Camera-ready: 3 April 2026 (hard) -->
 
-For artefacts:
+<!-- For artefacts: -->
 
-- Artefact submission: ~~13 February 2026~~ 27 February 2026 (extended)
-- Artefact kick-the-tires - problem reports: ~~23 February 2026~~ ~~6 March 2026~~ **10 March 2026** (extended)
-- Artefact kick-the-tires - author response: ~~2 March 2026~~ ~~13 March 2026~~ **15 March 2026** (extended)
-- Artefact notification: 24 March 2026
+<!-- - Artefact submission: ~~13 February 2026~~ 27 February 2026 (extended) -->
+<!-- - Artefact kick-the-tires - problem reports: ~~23 February 2026~~ ~~6 March 2026~~ **10 March 2026** (extended) -->
+<!-- - Artefact kick-the-tires - author response: ~~2 March 2026~~ ~~13 March 2026~~ **15 March 2026** (extended) -->
+<!-- - Artefact notification: 24 March 2026 -->
 
-**DisCoTec conference: June 8-12, 2026**
+**DisCoTec conference: June 16-18, 2027**
 
 Deadlines expire at 23:59 (AoE, anywhere on earth) on the dates displayed above.
 
@@ -105,7 +105,7 @@ Go to the [list of accepted papers](https://www.discotec.org/2025/accepted-paper
 
 Consult the [DisCoTec Programme](https://www.discotec.org/2026/programme). For convenience, we also report the programme plan here.
 
-* Monday, June 8th, 14:00 - 17:00 - **COORDINATION Tutorial**
+<!-- * Monday, June 8th, 14:00 - 17:00 - **COORDINATION Tutorial**
     - Distributed Runtime Verification in Proximity-based Networks: A Tutorial on the Aggregate Programming Approach (Audrito, Damiani, Scarso, Stolz, Torta) 
 
 * Tuesday, June 9th, 10:30 - 12:00 - Session 1 - **Formal modeling and analysis of distributed systems** (session chair: Carolyn Talcott)
@@ -131,11 +131,13 @@ Consult the [DisCoTec Programme](https://www.discotec.org/2026/programme). For c
 * Thursday, June 11th, 10:30 - 12:00 - Session 5 - **Coordination languages, frameworks, and foundations** (session chair: Simon Bliudze)
     - ScalaTropy: Multiparty Coordination with Monadic Communication Primitives
     - Bach4Popper: Towards Federated Inductive Logic Programming using Coordination
-    - Phyelds: A Pythonic Framework for Aggregate Computing
+    - Phyelds: A Pythonic Framework for Aggregate Computing -->
 
 ## Accepted Papers
 
-The list of accepted papers follow (sorted by first author).
+TBA
+
+<!-- The list of accepted papers follow (sorted by first author).
 
 ### Regular Papers
 
@@ -155,7 +157,7 @@ The list of accepted papers follow (sorted by first author).
 ### Tool Papers
 
 12. Filippo Gurioli, Martina Baiardi, Angela Cortecchia and Danilo Pianini. **High-Fidelity Simulation of Aggregate Computing Systems with Collektivity**
-13. Gianluca Aguzzi, Davide Domini, Nicolas Farabegoli and Mirko Viroli. **Phyelds: A Pythonic Framework for Aggregate Computing**
+13. Gianluca Aguzzi, Davide Domini, Nicolas Farabegoli and Mirko Viroli. **Phyelds: A Pythonic Framework for Aggregate Computing** -->
 
 
 ## Submissions
@@ -164,7 +166,8 @@ Before any submission, please study Coordination [Policy for the Use of Generati
 
 ### Submission link
 
-Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordination2026](https://easychair.org/conferences/?conf=coordination2026)
+TBA
+<!-- Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordination2026](https://easychair.org/conferences/?conf=coordination2026) -->
 
 
 ### Submission categories
@@ -179,14 +182,14 @@ Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordi
 
 We invite you to also submit an associated artefact for evaluation (AE). Artefacts such as ancillary data, tools, and software will be assessed for availability, functionality, and reusability badges (see [EAPLS artifact badges](https://eapls.org/pages/artifact_badges)).
 
-Submission are done at the same link: [https://easychair.org/conferences/?conf=coordination2026](https://easychair.org/conferences/?conf=coordination2026). Select **"COORDINATION 2026 Artefacts Track"** on your new submission. Please consult the **[instructions for artefact submission](COORDINATION_Artefact_Evaluation_Guidelines.pdf)** for preparing and submitting your artefact.
+<!-- Submission are done at the same link: [https://easychair.org/conferences/?conf=coordination2026](https://easychair.org/conferences/?conf=coordination2026). Select **"COORDINATION 2026 Artefacts Track"** on your new submission. Please consult the **[instructions for artefact submission](COORDINATION_Artefact_Evaluation_Guidelines.pdf)** for preparing and submitting your artefact.
 
 
 As advertised in the call for papers, artefact submissions are mandatory for tool papers and optional for regular papers. Tool papers must submit an artefact that, at least, satisfies the requirements for the **Functional** badge. Papers not meeting this clause are rejected. Moreover, the acceptance of artefacts is conditional on the tool paper being accepted.
 
 A selection of artefacts may be invited for submission to a special issue of Science of Computer Programming (SCP). For reference, see the selected artefacts published in the [SCP special issue from DisCoTec 2024](https://www.sciencedirect.com/special-issue/10WV5F3DZBD).
 
-Choose the "COORDINATION Artefacts 2026" track in EasyChair when submitting your artefact.
+Choose the "COORDINATION Artefacts 2026" track in EasyChair when submitting your artefact. -->
 
 
 ### Policy for the Use of Generative AI
@@ -234,9 +237,9 @@ COORDINATION proceedings are published by Springer as an LNCS-IFIP volume and  c
 
 ### Proceedings 
 
-The prooceedings of COORDINATION 2026 are published as Springer 
+<!-- The prooceedings of COORDINATION 2026 are published as Springer 
 [LNCS Volume 16590](https://link.springer.com/book/9783032283573).
-Due to production delays, the proceedings might not be online by the conference: please refer to the **[proceedings PDF (uncorrected version)](https://drive.google.com/file/d/13XxArDW5dJTOiQtUDXA67sVPq0OE-9V8/view?usp=sharing)**.
+Due to production delays, the proceedings might not be online by the conference: please refer to the **[proceedings PDF (uncorrected version)](https://drive.google.com/file/d/13XxArDW5dJTOiQtUDXA67sVPq0OE-9V8/view?usp=sharing)**. -->
 
 
 The proceedings of previous editions of COORDINATION are available on [SpringerLink](https://link.springer.com/conference/coordination)
@@ -270,7 +273,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 ### Co-Chairs
 
-* [Roberto Casadei][CasadeiWeb] (University of Bologna, Italy)
+* [Cristina Seceleanu][CasadeiWeb] (University of Bologna, Italy)
 * [Fatemeh Ghassemi][GhassemiWeb] (University of Tehran, Iran)
 
 <!--
