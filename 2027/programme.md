@@ -28,9 +28,9 @@ TBA
 
 *  FORTE tutorial: [Josef Widder](invited#josef-widder-quint-austria---forte)
     * **Where:** Sala del Consiglio
-    * **When:** 14:00-16:30
+    * **When:** 14:00-16:30 -->
 
-### Tuesday, June 9th: Main Conferences
+<!-- ### Tuesday, June 9th: Main Conferences
 
 * Openning: -- (University of Urbino) (**08:30**) 
    * Aula Magna ()
@@ -42,10 +42,10 @@ TBA
    * DAIS: Aula Amaranto
 * Welcome party
    * Where:** Collegio Raffaello  (TBC)
-   * **When: ** 18:00-20:00 **
+   * **When: ** 18:00-20:00 ** -->
   
 
-### Wednesday, June 10th: Main Conferences
+<!-- ### Wednesday, June 10th: Main Conferences
 
 * Invited talk: [Roberto Bruni](./invited#roberto-bruni-university-of-pisa-italy---discotec-wide) (**09:00**)
 * Joint best paper session (**10:30**)
@@ -55,16 +55,16 @@ TBA
    * FORTE:Sala del Consiglio
 * Social activities:
     * Visit at the [National Painting Gallery](https://gndm.it/en/visit/?gad_source=1&gad_campaignid=22785201761&gbraid=0AAAABAahIOh4ERWcblCuwYKB_Dd3paO9l&gclid=CjwKCAjwtvvPBhBuEiwAPMijrz3Xlf3yWdaGBg8y6jOEAWV9TJlkkRLhoYLiqMNvrAnWzNCGu9ccxBoC4RsQAvD_BwE) &mdash; leaving directly from the conference venue.
-    * Conference dinner at ragno d'oro
+    * Conference dinner at ragno d'oro -->
 
-### Thursday, June 11th: Main Conferences
+<!-- ### Thursday, June 11th: Main Conferences
 
 * Invited talk: [Nathalie Bertrand ](./invited#nathalie-bertrand-inria-france---forte) (**09:00**)
 * * Contributed papers in two tracks: 
    * COORDINATION: Aula Magna
-   * FORTE: Sala del Consiglio
+   * FORTE: Sala del Consiglio -->
 
-### Friday, June 12th
+<!-- ### Friday, June 12th
 
 * [19th Interaction and Concurrency Experience](./satellite/ice) (ICE) workshop
     * **Where:** Aula Amaranto 
