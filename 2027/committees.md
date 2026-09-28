@@ -8,29 +8,24 @@ year: 2026
 ## Scientific Committees
 
 ### COORDINATION Program Committee Chairs
-* [Roberto Casadei][RobertoWeb] (University of Bologna, Italy)
-* [Fatemeh Ghassemi][GhassemiWeb] (University of Tehran, Iran)
+* [Cristina Seceleanu][CristinaWeb] (Mälardalen University, Sweden)
+* [Clément Aubert][ClementWeb] (CNRS, France)
 
 
 ### DAIS Program Committee Chairs
-* [Ana Nunes Alonso][AnaWeb] (Inesctec, Portugal)
-* [Roberto Palmieri][PalmieriWeb] (Lehigh University, Pennsylvania)
+* [Vana Kalogeraki][VanaWeb] (Athens University of Economics and Business, Greece)
+* [Francisco Maia][FranciscoWeb] (University of Porto, Portugal)
 
 ### FORTE Program Committee Chairs
-* [Laura Bocchi][LauraWeb] (University of Kent, UK)
-* [Burcu Kulahcioglu Ozkan][BurcuWeb] (TU Delft, The Netherlands)
+* [Cinzia Di Giusto][CinziaWeb] (Université Côte d'Azur, France)
+* [Peter Thiemann][PeterWeb] (Universität Freiburg, Germany)
 
 ### Artefact Evaluation Chairs
-* [Gianluca Aguzzi][AguzziWeb] COORDINATION (University of Bologna, Italy)
-* [Emilio Incerto](https://sysma.imtlucca.it/people/emilio-incerto), FORTE (IMT School for Advanced Studies Lucca, Italy)
+* TBA
 
 
 ## Organizing Committee
-* [Claudio Antares Mezzina][ClaudioWeb], General Chair (University of Urbino, Italy)
-* [Sara Montagna] [SaraWeb], Gender-equality (University of Urbino, Italy))
-* [Pierluigi Graziani] [PierWeb], Local organizer (University of Urbino, Italy)
-* [Andrea Esposito][EspositoWeb], Satellite Events Chair (University of Urbino, Italy)
-* [Martin Vassor][EspositoWeb], Publicity Chair (University of Loria, France)
+* [Kirstin Peters][KirstinWeb], General Chair (University of Augsburg, Germany)
 
 
 ## Steering Committee
@@ -46,18 +41,13 @@ year: 2026
 * Gianluigi Zavattaro (University of Bologna, Italy)
 
 
-[ClaudioWeb]: https://sites.google.com/view/claudio-mezzina/home
-[EspositoWeb]: https://www.uniurb.it/persone/andrea-esposito
-[SaraWeb]: https://www.uniurb.it/persone/sara-montagna
-[PierWeb]: https://www.uniurb.it/persone/pierluigi-graziani
-[VassorWeb]: https://martin.vassor.org/
+[KirstinWeb]: https://www.uni-augsburg.de/en/fakultaet/fai/informatik/prof/swtti/team/kirstin-peters/
 
-[GhassemiWeb]: http://www.fatemehghassemi.ir/
-[RobertoWeb]: https://robertocasadei.github.io/
-[AguzziWeb]: https://www.unibo.it/sitoweb/gianluca.aguzzi/en
+[CristinaWeb]: https://www.es.mdu.se/staff/173-Cristina_Seceleanu
+[ClementWeb]: https://aubert.perso.math.cnrs.fr/
 
-[PalmieriWeb]: https://engineering.lehigh.edu/faculty/roberto-palmieri
-[AnaWeb]: https://www.inesctec.pt/en/people/ana-nunes-alonso
+[VanaWeb]: https://pages.cs.aueb.gr/~vana/
+[FransicoWeb]: https://fmaia.github.io/
 
-[BurcuWeb]: https://burcuku.github.io/home/
-[LauraWeb]: https://www.kent.ac.uk/school-of-computing/people/3119/bocchi-laura
+[CinziaWeb]: https://webusers.i3s.unice.fr/~cdigiusto/web/
+[PeterWeb]: http://www2.informatik.uni-freiburg.de/~thiemann/
