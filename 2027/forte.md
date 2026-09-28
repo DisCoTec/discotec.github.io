@@ -1,11 +1,11 @@
 
-# FORTE 2026 - 46th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+# FORTE 2027 - 47th International Conference on Formal Techniques for Distributed Objects, Components, and Systems
 
-FORTE 2026 is one of the three conferences of [DisCoTec 2026](.), the 21th International Federated Conference on Distributed Computing Techniques.
+FORTE 2027 is one of the three conferences of [DisCoTec 2027](.), the 22th International Federated Conference on Distributed Computing Techniques.
 
 ### Quick Links:
-* [Accepted Papers (new)](https://www.discotec.org/2026/accepted)
-* [Important Dates](https://www.discotec.org/2026/dates)
+* [Accepted Papers (new)](https://www.discotec.org/2027/accepted)
+* [Important Dates](https://www.discotec.org/2027/dates)
 * [Topics of Interest](#main-topics-of-interest)
 * [Submission Categories](#categories-of-papers)
 * [Publication](#Publication)
@@ -14,10 +14,10 @@ FORTE 2026 is one of the three conferences of [DisCoTec 2026](.), the 21th Inter
 * [Program Committee](#program-committee-chairs)
 * [Contact](#more-information)
 
-* **[Proceedings](#proceedings)**: [PDF (uncorrected version)](https://drive.google.com/file/d/1jfHNqXp7UD7NDcxwzBvft_rYFMPCL63w/view?usp=sharing)
+* **[Proceedings](#proceedings)**:
 
 ## Topics of Interest
-FORTE 2026 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
+FORTE 2027 is a forum for fundamental research on theory, models, tools, and applications for distributed systems.
 
 We invite submissions focused on foundational aspects of distributed
 software systems, presenting approaches or tools to formally model,
@@ -57,7 +57,7 @@ We solicit papers in the following categories:
 * __Tool papers__ (7-15 pages, not counting references): describing technological artefacts in the scope of the research topics of FORTE.  The paper should present the underlying theory of the tool, a clear account of the tool’s functionality and limitations, and include case studies (with rigorous experimental evaluation). In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee.  The paper must contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes, to be submitted until a week after the paper submission deadline.
 * __Short papers__ (up to 6 pages, not counting references): describing innovative and promising ideas, possibly in an early form, or demonstrating new tools (components), or presenting (i) calls to action, or (ii) substantiated reflections on current and/or future research perspectives related to FORTE, or a summary of a published journal paper clarifying why the presentation would enrich the program of FORTE.
 
-[Submit your paper](https://easychair.org/conferences/?conf=forte2026)
+<!-- [Submit your paper](https://easychair.org/conferences/?conf=forte2026) -->
 
 
 ## Artefact Submission Instructions 📣
@@ -70,13 +70,17 @@ As advertised in the call for papers, artefact submissions are mandatory for too
 
 New artifact submissions are managed via EasyChair at the following link:
 
-[Submit your artifact](https://easychair.org/my2/conference?conf=forteae26)
+TBA
+<!-- [Submit your artifact](https://easychair.org/my2/conference?conf=forteae26) -->
 
 <!--### Accepted papers
 Go to the [**dedicated page**](accepted-papers)
 -->
+
 ### Proceedings
-The proceedings of FORTE 26 are published as Springer [LNCS Volume 16589](https://link.springer.com/book/9783032281869)
+
+TBA
+<!-- The proceedings of FORTE 26 are published as Springer [LNCS Volume 16589](https://link.springer.com/book/9783032281869) -->
 
 ### Publication
 
@@ -85,54 +89,22 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 <img src="lncs-logo.jpg" width="182" height="68"/>
 
 ### Special Issue
-Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org).
 
+TBA
+<!-- Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org). -->
 
 ## Program Committee Chairs
-* [Laura Bocchi][LauraWeb] (University of Kent, UK)
-* [Burcu Kulahcioglu Ozkan][BurcuWeb] (TU Delft, The Netherlands)
+* [Cinzia Di Giusto][CinziaWeb] (Université Côte d'Azur, France)
+* [Peter Thiemann][PeterWeb] (Universität Freiburg, Germany)
 
 ## Program Committee Members
-* Ana Almeida Matos (University of Lisbona, PT)
-* Marco Carbone (IT University of Copenhagen, DN)           
-* Soham Chakraborty (TU Delft, NL)          
-* Matteo  Cimini (University of Massachusetts, US)         
-* Cezara  Dragoi (Amazon Web Services)         
-* Wan Fokkink (Vrije Universiteit Amsterdam, NL)          
-* Adrian  Francalanza (University of Malta, Malta)         
-* Simon Gay (University of Glasgow, UK)       
-* Elisa Gonzalez Boix (Vrije Universiteit Brussel, BE)         
-* Ping  Hou (University of Oxford, UK)          
-* Leander Jehl (University of Stavanger, NO)         
-* Jonas Kastberg Hinrichsen (Aalborg University, DK)                
-* Cosimo  Laneve (University of Bologna, IT)         
-* Diego Marmsoler (University of Exeter, UK)        
-* Hernán Melgratti (University of Buenos Aires, AR)         
-* Maurizio  Murgia (Gran Sasso Science Institute, IT)         
-* Rodrigo Otoni (University of Groningen, NL)
-* Luca  Padovani (University of Bologna, IT)      
-* Jovanka Pantovic (University of Novi Sad, RS)
-* G. Michele Pinna (University of Cagliari, IT)          
-* Sanjiva Prasad (Indian Institute of Technology Delhi, IN)          
-* Violet Ka I Pun (Western Norway University of Applied Sciences, NO)         
-* Alceste Scalas (Technical University of Denmark, DN)       
-* Ana Sokolova (University of Salzburg, AT)          
-* Peter Thiemann (University of Freiburg, DE)           
-* Bernardo Toninho (NOVA University Lisbon, PT)         
-* Emilio  Tuosto (Gran Sasso Science Institute, IT)          
-* German  Vidal (Universitat Politecnica de Valencia, ES)          
-* Shoji Yuen (Nagoya University, JP)     
+* TBA
 
 ## Artefact Evaluation Committee chair
-* Emilio Incerto (IMT School for Advanced Studies Lucca, IT)
+* TBA
 
 ## Artefact Evaluation Committee
-* Gerard Tabone (University of Malta)
-* Daniele Masti (Gran Sasso Science Institute)
-* Marco Zamponi (IMT School for Advanced Studies Lucca)
-* Maurizio Murgia (Gran Sasso Science Institute)
-* Daniel Osmundsen Dirdal  (Univerity of Stavanger)
-* Roberto Pizziol (IMT School for Advanced Studies Lucca)
+* TBA
 
 
 ## Steering committee
@@ -149,10 +121,8 @@ Selected papers will be invited to a special issue of [**Logical Methods in Comp
 * Jean-Bernard Stefani (INRIA, France)
 * Nobuko Yoshida (University of Oxford, UK)
 
-
-
 ## More Information
-For additional information, please contact the Program Committee Co-chairs: forte2026 at easychair dot org
+For additional information, please contact the Program Committee Co-chairs <!-- : forte2027 at easychair dot org -->
 
-[BurcuWeb]: https://burcuku.github.io/home/
-[LauraWeb]: https://www.kent.ac.uk/school-of-computing/people/3119/bocchi-laura
+[CinziaWeb]: https://webusers.i3s.unice.fr/~cdigiusto/web/
+[PeterWeb]: http://www2.informatik.uni-freiburg.de/~thiemann/
