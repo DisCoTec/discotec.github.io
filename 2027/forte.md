@@ -4,7 +4,7 @@
 FORTE 2027 is one of the three conferences of [DisCoTec 2027](.), the 22th International Federated Conference on Distributed Computing Techniques.
 
 ### Quick Links:
-* [Accepted Papers (new)](https://www.discotec.org/2027/accepted)
+* [Accepted Papers](https://www.discotec.org/2027/accepted)
 * [Important Dates](https://www.discotec.org/2027/dates)
 * [Topics of Interest](#main-topics-of-interest)
 * [Submission Categories](#categories-of-papers)
