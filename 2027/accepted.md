@@ -1,6 +1,6 @@
 ---
 title: Accepted Papers
-menu_show: true
+menu_show: false
 order: 4
 year: 2027
 ---
