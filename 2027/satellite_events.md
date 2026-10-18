@@ -26,7 +26,7 @@ The satellite events (tutorials and workshops) will be held on **Monday, June 14
 
 Proposals of satellite events should include:
 
-* The name and the preferred date of the proposed satellite event (June 14 or 15, 2026);
+* The name and the preferred date of the proposed satellite event (June 14 and/or 15, 2027);
 * A short description of the satellite event (up to 300 words);
 * If applicable, a description of past editions of the satellite event, including dates, organizers, submission and acceptance counts, and attendance;
 * The name and short CV of the organizer(s);
@@ -36,20 +36,20 @@ Proposals of satellite events should include:
 
 ### What the DisCoTec 2027 Organization Offers
 
-* A link from the [DisCoTec 2025](.) web site;
+* A link from the [DisCoTec 2027](.) web site;
 * Setup of meeting space and related equipment;
 * Coffee-breaks and lunch for the participants on the day of the satellite event;
 * On-line registration for participants to the satellite event;
-* One free registration to the satellite event (for one invited speaker or one organizer).
+* One free registration to the satellite event (e.g., for one invited speaker or one organizer).
 
 ### Important Dates
 
 * Proposal submission deadline:
-  Monday, February 10, 2027
+  Monday, February 10, 2027, (23:59 AoE)
   (but we would like to hear about prospective proposals as soon as possible).
 * Notification of accepted satellite events:
-  Saturday, March 1st, 2027.
+  Saturday, March 1st, 2027
 
 ### How to Apply
 
-Please send your proposals to the [Kirstin Peters](mailto:kirstin.peters@uni-a.de).
+Please send your proposals to [Kirstin Peters](mailto:kirstin.peters@uni-a.de).
