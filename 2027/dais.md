@@ -3,8 +3,9 @@
 
 DAIS 2027 is one of the three conferences of [DisCoTec 2027](.).
 
-### Quick Links
-* [Proceedings](#proceedings)
+<!-- ### Quick Links
+* [Submission Link](#submission) 
+* [Proceedings](#proceedings)-->
 
 # Scope
 The DAIS conference series addresses all practical and conceptual aspects of distributed applications, including their design, modeling, implementation and operation, the supporting middleware, appropriate software engineering methodologies and tools, as well as experimental studies and applications. Submissions will be judged on their originality, significance, clarity, relevance, and technical correctness.
@@ -60,13 +61,13 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 ### Submission Link
 
 <!-- TBA -->
-Submission are via Easychair at: [https://easychair.org/conferences/?conf=dais27](https://easychair.org/conferences/?conf=dais27).
+Submissions are welcome via **[Easychair][DAIS27Submission]**. 
+<!-- at: [https://easychair.org/conferences/?conf=dais27](https://easychair.org/conferences/?conf=dais27).-->
 
 ### Proceedings
 
 <!--TBA-->
 <!-- The proceedings of DAIS 26 are published as Springer [LNCS Volume 16591](https://link.springer.com/book/10.1007/978-3-032-27358-1) -->
-
 
 Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details). The DAIS proceedings will be published by Springer as an LNCS-IFIP volume and will comprise accepted submissions from __all__ categories.
 
@@ -108,3 +109,4 @@ TBC
 
 [VanaWeb]: https://pages.cs.aueb.gr/~vana/
 [FranciscoWeb]: https://fmaia.github.io/
+[DAIS27Submission]: https://easychair.org/conferences/?conf=dais27 
