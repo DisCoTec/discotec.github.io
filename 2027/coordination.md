@@ -11,9 +11,9 @@ COORDINATION 2027 is one of the three conferences of [DisCoTec 2027](.).
 <!-- * [Submission Link](#submission-link) --> 
 <!-- * [Submission Categories](#categories-of-papers) --> 
 
-<!-- - **2026-02-23**: see the updated [Artefact Submission Instructions](#artefact-submission-instructions) --> 
+- **2027-10-21**: First call for papers released.
 
-### Dates
+### Important Dates
 
 <!-- For papers: -->
 
@@ -29,67 +29,74 @@ COORDINATION 2027 is one of the three conferences of [DisCoTec 2027](.).
 <!-- - Artefact kick-the-tires - author response: ~~2 March 2026~~ ~~13 March 2026~~ **15 March 2026** (extended) -->
 <!-- - Artefact notification: 24 March 2026 -->
 
+All deadlines expire at 23:59 ([anywhere on earth](https://time.is/AoE)) on the dates displayed below.
+
+Date | Paper | Artefact
+---  | ---   | --- 
+2027/01/28 | Abstract submission |  
+2027/02/04 | Paper submission |  
+2027/02/11 |   | Artefact submission
+2027/02/22 |   | Kick-the-tires: Problem reports 
+2027/03/01 |   | Kick-the-tires: Response due
+2027/03/22 | Notification | 
+2027/03/25 |   | Notification | 
+2027/04/01 | Camera-ready | Camera-ready
+
 **DisCoTec conference: June 14-18, 2027**
 
-Deadlines expire at 23:59 (AoE, anywhere on earth) on the dates displayed above.
 
 ## Scope
 
-Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today’s software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
-
-## Topics of Interest
+Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable and heterogeneous components. New models, architectures, languages and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
 
 Topics of interest encompass all areas of coordination, including (but not limited to) foundational contributions, engineering techniques, tools, applications, and inter-disciplinary aspects.
 
-**A. Theoretical models and foundations for coordination**
+### Foundations of Coordination
+ 
+* Models and theories of concurrency, interaction, mobility, and distribution
+* Semantics, logics, type systems, and behavioural equivalences
+* Probabilistic, quantitative, timed, and hybrid models
+* Formal verification, synthesis, and compositional reasoning
 
-* Concurrency Theory, Composition, Distribution, Mobility, Time and Spatial Models
-* Semantics, Logic, and Type Systems
-* Probabilistic / Stochastic / Quantitative Models
-* Formal Verification & Validation, and Model Checking
+### Languages, Protocols & Programming Models
 
-**B. Coordination Paradigms & Languages**
+* Language design and implementation
+* Behavioural types and communication protocols, choreographies, orchestration
+* Actor-based systems
+* Bio-inspired and nature-inspired coordination
+ 
+### Distributed, Cloud & Data Coordination
 
-* Coordination Models & Language
-* Session Types & Communication Protocols, Choreographies, Orchestration
-* Actor and Agent-Based Systems
-* Multi-agent systems, agent organisations, and societies
-* Collective intelligence, Ensembles, Swarms, Self-organisation, and Emergence
-* Bio-inspired / Nature-inspired Coordination
-* AI-Driven & Learning-Based Coordination 
-
-**C. Distributed & Pervasive & Modern Computing** 
-
-* Microservices, Web Services, and Middleware
-* Distributed, Reversible, Grid, Networked, Parallel and High-Performance Computing and Algorithms
+* Microservices, web services, and middleware
+* Distributed, reversible, grid, networked, parallel and high-performance computing and algorithms
 * (Distributed) Run-time verification and monitoring
-* Coordination across the continuum: IoT, Edge, Fog, Cloud
-* Cyber-Physical Coordination, Context-awareness, Pervasive computing, Situatedness, and Human-Machine Hybrid Systems
-* Decentralised systems, Peer-to-peer computing, Smart Contracts & Blockchain Applications
+* Coordination across the continuum: IoT, edge, fog, cloud
+* Cyber-physical coordination, context-awareness, pervasive computing, situatedness, and human-machine hybrid systems
+* Decentralised systems, peer-to-peer computing, smart contracts and blockchain Applications
 
-**D. Software Engineering & Applications for Coordinated Systems**
+### AI, Agentic, Autonomous & Cyber-Physical Coordination
 
-* Dynamic / Domain-Specific Software: Analysis, Models, Architecture, Patterns
-* Programming Methodologies, Programming Languages
-* DevOps, Continuous Integration, and Automation
-* Business Process Modelling & Process Mining
-* Digital twin networks, coordination of the digital thread
-* Industrial Applications & Case Studies across fields (swarm robotics, vehicular networks, smart cities and ecosystems)
-* GenAI/LLM-based Approaches to Engineer Coordination 
+* Coordination for AI, multi-agent, and agentic systems, including LLM-based agents
+* AI-driven, learning-based, distributed, and federated coordination
+* Collective intelligence, ensembles, swarms, self-organisation, and emergence
+* Autonomous systems, robotics, cyber-physical systems, IoT, and digital twins
+* Human-AI, human-agent, and human-machine coordination
 
-**E. Cross-Cutting and Multi-/Inter-/Trans-Disciplinary Aspects**
+### Engineering Trustworthy & Adaptive Coordinated Systems
 
-* Security, Privacy, and Dependability in Coordination
-* Adaptation, Reconfiguration, and Self-* properties
-* Interdisciplinary & Societal Aspects of Coordination
+* Software architectures, engineering methods, and design patterns for coordinated systems
+* Adaptation, reconfiguration, self-* systems, and DevOps
+* Testing, debugging, runtime verification, monitoring, and observability
+* Security, privacy, safety, dependability, resilience, and trust
+* Sustainable and resource-aware coordination
 
-**F. Coordination Platforms, Middleware, and Tools**
+### Tools, Applications, Experience & Community Resources
 
-* Simulation Tools and Platforms
-* Specification, Modelling, and Domain-specific Language Implementations and Workbenches
-* Verification & Validation, Visualisation, and Testing Tools
-* Distributed Middlewares and Platforms
-* Datasets and Benchmarks for Coordination Systems
+* Coordination platforms, middleware, frameworks, simulation, and development tools
+* Industrial applications, deployments, case studies, and experience reports
+* Datasets, benchmarks, reproducibility, and empirical studies
+* Application domains including robotics, smart cities, vehicular systems, cloud/edge, and IoT
+* Interdisciplinary, socio-technical, and societal aspects of coordination
 
 
 <!-- 
@@ -97,10 +104,11 @@ Topics of interest encompass all areas of coordination, including (but not limit
 Go to the [list of accepted papers](https://www.discotec.org/2025/accepted-papers).
 -->
 
+<!--
 ## Programme
 
 Consult the [DisCoTec Programme](https://www.discotec.org/2026/programme). For convenience, we also report the programme plan here.
-
+-->
 <!-- * Monday, June 8th, 14:00 - 17:00 - **COORDINATION Tutorial**
     - Distributed Runtime Verification in Proximity-based Networks: A Tutorial on the Aggregate Programming Approach (Audrito, Damiani, Scarso, Stolz, Torta) 
 
@@ -129,9 +137,11 @@ Consult the [DisCoTec Programme](https://www.discotec.org/2026/programme). For c
     - Bach4Popper: Towards Federated Inductive Logic Programming using Coordination
     - Phyelds: A Pythonic Framework for Aggregate Computing -->
 
+<!--
 ## Accepted Papers
 
 TBA
+-->
 
 <!-- The list of accepted papers follow (sorted by first author).
 
@@ -157,35 +167,44 @@ TBA
 
 
 ## Submissions
-Before any submission, please study Coordination [Policy for the Use of Generative AI](#policy-for-the-use-of-generative-ai) for the authors.
 
+Before any submission, please study Coordination [Policy for the Use of Generative AI](#policy-for-the-use-of-generative-ai) for the authors.
 
 ### Submission link
 
-TBA
-<!-- Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordination2026](https://easychair.org/conferences/?conf=coordination2026) -->
-
+Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordination2027](https://easychair.org/conferences/?conf=coordination2027) -->
 
 ### Submission categories
 
-* **Regular papers** (12-18 pages, not counting references and appendices): describing thorough and complete research results and experience reports. Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the Artefact Evaluation Committee, but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
+- **Regular papers** (12–18 pages, not counting references and appendices): describing thorough and complete research results and experience reports. 
+    - Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the Artefact Evaluation Committee, but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
 
-* **Survey papers** (16-25 pages, not counting references and appendices): describing important results and success stories related to the topics of COORDINATION.
+- **Survey papers** (16–25 pages, not counting references and appendices): describing important results and success stories related to the topics of COORDINATION.
 
-* **Tool papers** (4-15 pages, not counting references and appendices): describing technological artefacts in the scope of the research topics of COORDINATION. Tool papers should provide a clear account of the tool's functionality, discuss the tool’s practical capabilities possibly with reference to the type and size of problems it can handle, and,when applicable, report on realistic case studies (possibly providing a rigorous experimental evaluation). Tool papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures. Papers that present extensions to existing tools should c#learly describe the improvements or extensions with respect to previously published versions of the tool, possibly providing data on enhancements in terms of resources and capabilities. In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee. Papers may contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes length.
+- **Tool papers** (4–15 pages, not counting references and appendices): describing technological artefacts in the scope of the research topics of COORDINATION. 
+    - Tool papers should provide a clear account of the tool's functionality, discuss the tool's practical capabilities possibly with reference to the type and size of problems it can handle, and, when applicable, report on realistic case studies (possibly providing a rigorous experimental evaluation). Tool papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures. Papers that present extensions to existing tools should clearly describe the improvements or extensions with respect to previously published versions of the tool, possibly providing data on enhancements in terms of resources and capabilities. In addition, **the tool artefact must be submitted separately for evaluation**. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by the Artefact Evaluation Committee. Authors are encouraged to provide a link to a publicly downloadable demo video of at most 10 minutes length. However, this is not a requirement.
+
+- **New Ideas, Visions & Position Papers** (4–6 pages, not counting references and appendices): presenting bold or emerging ideas, open challenges, research agendas, preliminary results, calls to action, or well-argued positions concerning the future of coordination models, languages, systems, and applications. Evaluation will emphasize novelty, relevance, potential impact, and quality of argument rather than completeness of evaluation.
+
+- **Journal-First Papers** (1–2 pages, not counting references and appendices): presenting recently published or accepted journal articles that are relevant to COORDINATION and have not previously been presented at a major conference or workshop. Journal-First submissions should consist of a short presentation proposal identifying the original journal publication and briefly explaining its relevance to the COORDINATION community. Submissions will be evaluated primarily on relevance, quality, and potential interest to the COORDINATION audience. Accepted submissions will be invited for presentation at the conference but will not be included in the proceedings.
 
 ### Artefact Submission Instructions
 
-We invite you to also submit an associated artefact for evaluation (AE). Artefacts such as ancillary data, tools, and software will be assessed for availability, functionality, and reusability badges (see [EAPLS artifact badges](https://eapls.org/pages/artifact_badges)).
+Each type of paper can be accompanied by an **artefact**.
+Artefacts such as ancillary data, tools, and software will be assessed for availability, functionality, and reusability badges (see [EAPLS artifact badges](https://eapls.org/pages/artifact_badges)) by the Artefact Evaluation Committee (AEC).
 
-<!-- Submission are done at the same link: [https://easychair.org/conferences/?conf=coordination2026](https://easychair.org/conferences/?conf=coordination2026). Select **"COORDINATION 2026 Artefacts Track"** on your new submission. Please consult the **[instructions for artefact submission](COORDINATION_Artefact_Evaluation_Guidelines.pdf)** for preparing and submitting your artefact.
+Acceptance of the artefact will result to the application of a **badge** on the corresponding paper.
+Since 2022, a selection of artefacts has been invited to be extended and submitted as an **original software publication** to a special issue (e.g., on the Science of Computer Programming OSP track).
 
+Submission are done at the same link: [https://easychair.org/conferences/?conf=coordination2027](https://easychair.org/conferences/?conf=coordination2027). Select **"COORDINATION 2027 Artefacts Track"** on your new submission. Instructions for artefact submission will be provided at a later date.
+
+<!--
+Please consult the **[instructions for artefact submission](COORDINATION_Artefact_Evaluation_Guidelines.pdf)** for preparing and submitting your artefact.
+-->
 
 As advertised in the call for papers, artefact submissions are mandatory for tool papers and optional for regular papers. Tool papers must submit an artefact that, at least, satisfies the requirements for the **Functional** badge. Papers not meeting this clause are rejected. Moreover, the acceptance of artefacts is conditional on the tool paper being accepted.
 
 A selection of artefacts may be invited for submission to a special issue of Science of Computer Programming (SCP). For reference, see the selected artefacts published in the [SCP special issue from DisCoTec 2024](https://www.sciencedirect.com/special-issue/10WV5F3DZBD).
-
-Choose the "COORDINATION Artefacts 2026" track in EasyChair when submitting your artefact. -->
 
 
 ### Policy for the Use of Generative AI
@@ -220,7 +239,6 @@ Below we list the acceptable and unacceptable uses of generative AI for authors.
 ### Review
 
 The review process is **single-anonymous**. We will try to provide at least three reviews per paper.
-
 
 ### Publication
 
@@ -290,12 +308,14 @@ TBA
 * Farhad Arbab (CWI and Leiden University, The Netherlands)
 * Simon Bliudze (INRIA Lille, France)
 * Laura Bocchi (University of Kent, UK)
+* Roberto Casadei (University of Bologna, Italy)
 * Ilaria Castellani (INRIA, France)
 * Ferruccio Damiani (University of Turin, Italy)
 * Ornela Dardha (University of Glasgow, UK)
 * Wolfgang De Meuter (Vrije Universiteit Brussels, Belgium)
 * Rocco De Nicola (IMT School for Advanced Studies Lucca, Italy)
 * Giovanna di Marzo Serugendo (Université de Genève, Switzerland)
+* Fatemeh Ghassemi (University of Tehran, Iran)
 * Tom Holvoet (KU Leuven, Belgium)
 * Jean-Marie Jacquet (University of Namur, Belgium)
 * Sung-Shik Jongmans (Open University of the Netherlands, Netherlands)
@@ -303,12 +323,12 @@ TBA
 * Eva Kühn (Vienna University of Technology, Austria)
 * Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
 * Antónia Lopes (University of Lisbon, Portugal)
-* Michele Loreti (Università di Camerino, Italy) - **chair**
-* Mieke Massink (CNR-ISTI, Pisa, Italy) 
+* Michele Loreti (Università di Camerino, Italy)
+* Mieke Massink (ISTI-CNR, Pisa, Italy) - chair
 * José Proença (University of Porto, Portugal)
 * Marjan Sirjani (Mälardalen University, Sweden)
 * Carolyn Talcott (SRI International, California, USA)
-* Maurice ter Beek (CNR-ISTI, Italy)
+* Maurice ter Beek (CNR-ISTI, Italy) 
 * Francesco Tiezzi (Università di Firenze, Italy)
 * Emilio Tuosto (Gran Sasso Science Institute, Italy)
 * Vasco T. Vasconcelos (University of Lisbon, Portugal)
@@ -317,4 +337,4 @@ TBA
 
 ## Contacts
 
-For any queries, please contact the PC chairs [Cristina Seceleanu](https://www.es.mdu.se/staff/173-Cristina_Seceleanu) and [Clément Aubert](https://aubert.info/).
+For any queries, please contact the PC chairs [Clément Aubert](https://aubert.info/) and [Cristina Seceleanu](https://www.es.mdu.se/staff/173-Cristina_Seceleanu) at <coordination2027@easychair.org>.
