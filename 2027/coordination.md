@@ -33,14 +33,14 @@ All deadlines expire at 23:59 ([anywhere on earth](https://time.is/AoE)) on the 
 
 Date | Paper | Artefact
 ---  | ---   | --- 
-2027/01/28 | Abstract submission |  
-2027/02/04 | Paper submission |  
-2027/02/11 |   | Artefact submission
-2027/02/22 |   | Kick-the-tires: Problem reports 
-2027/03/01 |   | Kick-the-tires: Response due
-2027/03/22 | Notification | 
-2027/03/25 |   | Notification | 
-2027/04/01 | Camera-ready | Camera-ready
+2027-01-28 | Abstract submission |  
+2027-02-04 | Paper submission |  
+2027-02-11 |   | Artefact submission
+2027-02-22 |   | Kick-the-tires: Problem reports 
+2027-03-01 |   | Kick-the-tires: Response due
+2027-03-22 | Notification | 
+2027-03-25 |   | Notification | 
+2027-04-01 | Camera-ready | Camera-ready
 
 **DisCoTec conference: June 14-18, 2027**
 
@@ -168,7 +168,7 @@ TBA
 
 ## Submissions
 
-Before any submission, please study Coordination [Policy for the Use of Generative AI](#policy-for-the-use-of-generative-ai) for the authors.
+Before any submission, please study COORDINATION [Policy for the Use of Generative AI](#policy-for-the-use-of-generative-ai) for the authors.
 
 ### Submission link
 
