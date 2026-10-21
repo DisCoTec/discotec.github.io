@@ -2,7 +2,7 @@
 
 COORDINATION 2027 is one of the three conferences of [DisCoTec 2027](.).
 
-### Quick Links and Updates
+### Updates
 
 <!-- * **[Programme](#programme)** -->
 <!-- * **[Proceedings](#proceedings)**: [proceedings PDF (uncorrected version)](https://drive.google.com/file/d/13XxArDW5dJTOiQtUDXA67sVPq0OE-9V8/view?usp=sharing) -->
@@ -172,17 +172,17 @@ Before any submission, please study Coordination [Policy for the Use of Generati
 
 ### Submission link
 
-Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordination2027](https://easychair.org/conferences/?conf=coordination2027) -->
+Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordination2027](https://easychair.org/conferences/?conf=coordination2027).
 
 ### Submission categories
 
 - **Regular papers** (12–18 pages, not counting references and appendices): describing thorough and complete research results and experience reports. 
-    - Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the Artefact Evaluation Committee, but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
+    - Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the [Artefact Evaluation Committee](#artefact-evaluation-committee), but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
 
 - **Survey papers** (16–25 pages, not counting references and appendices): describing important results and success stories related to the topics of COORDINATION.
 
 - **Tool papers** (4–15 pages, not counting references and appendices): describing technological artefacts in the scope of the research topics of COORDINATION. 
-    - Tool papers should provide a clear account of the tool's functionality, discuss the tool's practical capabilities possibly with reference to the type and size of problems it can handle, and, when applicable, report on realistic case studies (possibly providing a rigorous experimental evaluation). Tool papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures. Papers that present extensions to existing tools should clearly describe the improvements or extensions with respect to previously published versions of the tool, possibly providing data on enhancements in terms of resources and capabilities. In addition, **the tool artefact must be submitted separately for evaluation**. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by the Artefact Evaluation Committee. Authors are encouraged to provide a link to a publicly downloadable demo video of at most 10 minutes length. However, this is not a requirement.
+    - Tool papers should provide a clear account of the tool's functionality, discuss the tool's practical capabilities possibly with reference to the type and size of problems it can handle, and, when applicable, report on realistic case studies (possibly providing a rigorous experimental evaluation). Tool papers may also provide an account of the theoretical foundations, including relevant citations, and present design and implementation concerns, possibly including software architecture and core data structures. Papers that present extensions to existing tools should clearly describe the improvements or extensions with respect to previously published versions of the tool, possibly providing data on enhancements in terms of resources and capabilities. In addition, **the tool artefact must be submitted separately for evaluation**. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by the [Artefact Evaluation Committee](#artefact-evaluation-committee). Authors are encouraged to provide a link to a publicly downloadable demo video of at most 10 minutes length. However, this is not a requirement.
 
 - **New Ideas, Visions & Position Papers** (4–6 pages, not counting references and appendices): presenting bold or emerging ideas, open challenges, research agendas, preliminary results, calls to action, or well-argued positions concerning the future of coordination models, languages, systems, and applications. Evaluation will emphasize novelty, relevance, potential impact, and quality of argument rather than completeness of evaluation.
 
@@ -191,7 +191,7 @@ Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordi
 ### Artefact Submission Instructions
 
 Each type of paper can be accompanied by an **artefact**.
-Artefacts such as ancillary data, tools, and software will be assessed for availability, functionality, and reusability badges (see [EAPLS artifact badges](https://eapls.org/pages/artifact_badges)) by the Artefact Evaluation Committee (AEC).
+Artefacts such as ancillary data, tools, and software will be assessed for availability, functionality, and reusability badges (see [EAPLS artifact badges](https://eapls.org/pages/artifact_badges)) by the [Artefact Evaluation Committee (AEC)](#artefact-evaluation-committee).
 
 Acceptance of the artefact will result to the application of a **badge** on the corresponding paper.
 Since 2022, a selection of artefacts has been invited to be extended and submitted as an **original software publication** to a special issue (e.g., on the Science of Computer Programming OSP track).
@@ -238,7 +238,7 @@ Below we list the acceptable and unacceptable uses of generative AI for authors.
 
 ### Review
 
-The review process is **single-anonymous**. We will try to provide at least three reviews per paper.
+The review process is **single-anonymous**. The Program Committee will strive to provide at least three reviews per paper.
 
 ### Publication
 
@@ -283,26 +283,36 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * *[Selected Tool Papers of Coordination 2019](https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/10H4835TWK9)*, Special Issue of Science of Computer Programming, edited by Hugo Torres Vieira and Omar Inverso.
 
 
-## Programme Committee
+## Committees
 
-### Co-Chairs
+### Programme Committee
+
+#### Co-Chairs
 
 * [Clément Aubert](https://aubert.info/) (Augusta University, USA)
 * [Cristina Seceleanu](https://www.es.mdu.se/staff/173-Cristina_Seceleanu) (Mälardalen University, Sweden)
 
-### Programme Committee members
+#### Members
 
 - [Fatemeh Ghassemi](http://fatemehghassemi.ir/) (University of Tehran, Iran)
 
-### Artefact Evaluation Committee chair
+### Artefact Evaluation Committee 
+
+#### Chair
 
 TBA
 
-### Artefact Evaluation Committee
+#### Members
 
 TBA
 
-## Steering Committee
+### Steering Committee
+
+#### Chair
+
+* Michele Loreti (Università di Camerino, Italy)
+
+#### Members
 
 * Gul Agha (University of Illinois at Urbana Champaign, USA)
 * Farhad Arbab (CWI and Leiden University, The Netherlands)
@@ -323,7 +333,6 @@ TBA
 * Eva Kühn (Vienna University of Technology, Austria)
 * Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
 * Antónia Lopes (University of Lisbon, Portugal)
-* Michele Loreti (Università di Camerino, Italy)
 * Mieke Massink (ISTI-CNR, Pisa, Italy) - chair
 * José Proença (University of Porto, Portugal)
 * Marjan Sirjani (Mälardalen University, Sweden)
@@ -337,4 +346,4 @@ TBA
 
 ## Contacts
 
-For any queries, please contact the PC chairs [Clément Aubert](https://aubert.info/) and [Cristina Seceleanu](https://www.es.mdu.se/staff/173-Cristina_Seceleanu) at <coordination2027@easychair.org>.
+For any queries, please contact the PC co-chairs [Clément Aubert](https://aubert.info/) and [Cristina Seceleanu](https://www.es.mdu.se/staff/173-Cristina_Seceleanu) at <coordination2027@easychair.org>.
