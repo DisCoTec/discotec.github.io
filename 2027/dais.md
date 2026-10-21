@@ -12,40 +12,28 @@ The DAIS conference series addresses all practical and conceptual aspects of dis
 The topics of interest to the conference include, but are not limited to:
 
 Novel and innovative distributed applications and systems, particularly in the areas of
-* middleware,
-* cloud, edge and fog computing,
-* big data processing,
-* distributed embedded machine learning (TinyML),
-* decentralised/distributed AI/ML,
-* streaming and complex event processing,
-* distributed social networking,
-* IoT and cyber-physical systems,
-* mobile computing,
-* advanced networking (SDN/NFV),
-* micro-services and service-oriented computing,
-* peer-to-peer systems, and
-* data center and internet-scale systems.
+* Cloud, edge and fog computing
+* Data-center and internet-scale systems
+* Middleware, micro-services, and service-oriented computing
+* Big data, and complex event and stream processing
+* Decentralised and distributed AI/ML (including TinyML & Federated Learning)
+* IoT, cyber-physical, and mobile systems
+* Peer-to-peer systems and distributed social networks
+* Advanced networking
 
 Novel architectures and mechanisms, particularly in the areas of
-* publish/subscribe systems,
-* epidemic protocols,
-* language-based approaches,
-* virtualization and resource allocation,
-* distributed storage,
-* large-scale data management,
-* trusted execution environments,
-* blockchains, cryptocurrencies and smart contracts, and
-* distributed consensus mechanisms.
+* Distributed storage and large-scale data management
+* Consensus, blockchains, and smart contracts
+* Publish/subscribe and epidemic protocols
+* Virtualization, serverless computing and resource allocation
+* Trusted execution environments
 
-System issues and design goals, including
-* interoperability and adaptation,
-* self-* properties (e.g., self-organization, self-management,...),
-* security and practical applications of cryptography,
-* trust and privacy,
-* cooperation incentives and fairness,
-* fault-tolerance and dependability,
-* scalability and elasticity, and
-* tail-performance and energy-efficiency.
+System properties and design goals
+* Fault tolerance and dependability
+* Scalability, elasticity, and tail performance
+* Security, privacy, trust, and applied cryptography
+* Interoperability, adaptation, and self-* properties
+* Cooperation incentives, fairness, and energy efficiency
 
 <!--
 ## DAIS Accepted Papers
@@ -57,23 +45,26 @@ System issues and design goals, including
 
 ## Submission and Publication
 
-All papers must be original, unpublished, and not submitted for publication elsewhere. Each paper will undergo a thorough peer review by the Program Committee. DAIS 2026 offers three submission tracks:
+All papers must be original, unpublished, and not submitted for publication elsewhere. 
+Each paper will undergo a thorough peer review by the Program Committee. 
+DAIS 2026 offers three submission tracks:
 
-* Full research papers in no more than 15 pages + 2 pages references.
-* Full practical experience reports, including experimental and evaluation studies, case studies, and practice reports in no more than 15 pages + 2 pages references.
-* Work-in-progress papers, describing ongoing work and interim results, in no more than 6 pages + 2 pages references.
+* Research Papers (maximum of 15 pages + 2 pages references).
+* Practical Experience & Industry Papers, including experimental and evaluation studies, and industrial case studies (maximum of 15 pages + 2 pages references).
+* Short Papers, including work-in-progress papers, interim results (maximum of 6 pages + 2 pages references).
+* Vision Papers, describing speculative but well-reasoned and thought-provoking ideas (maximum of 6 pages + 2 pages references).
 
 Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details).
 
 
 ### Submission Link
 
-TBA
-<!-- Submission are via Easychair at: [https://easychair.org/conferences/?conf=dais2026](https://easychair.org/conferences/?conf=dais2026) -->
+<!-- TBA -->
+Submission are via Easychair at: [https://easychair.org/conferences/?conf=dais27](https://easychair.org/conferences/?conf=dais27).
 
 ### Proceedings
 
-TBA
+<!--TBA-->
 <!-- The proceedings of DAIS 26 are published as Springer [LNCS Volume 16591](https://link.springer.com/book/10.1007/978-3-032-27358-1) -->
 
 
@@ -117,4 +108,3 @@ TBC
 
 [VanaWeb]: https://pages.cs.aueb.gr/~vana/
 [FranciscoWeb]: https://fmaia.github.io/
-[AnaWeb]: https://www.inesctec.pt/en/people/ana-nunes-alonso
