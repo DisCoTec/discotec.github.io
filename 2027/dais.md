@@ -64,6 +64,18 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 Submissions are welcome via **[Easychair][DAIS27Submission]**. 
 <!-- at: [https://easychair.org/conferences/?conf=dais27](https://easychair.org/conferences/?conf=dais27).-->
 
+#### Important dates 
+
+For papers of **all categories**:
+
+- **Abstract submission:** 28 January 2027
+- **Paper submission:** 04 February 2027
+- Paper notification: 22 March 2027
+- Camera-ready: 01 April 2027 (hard)
+- Conference: June 14-18, 2027
+
+Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
+
 ### Proceedings
 
 <!--TBA-->
