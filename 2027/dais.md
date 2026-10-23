@@ -64,7 +64,7 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 Submissions are welcome via **[Easychair][DAIS27Submission]**. 
 <!-- at: [https://easychair.org/conferences/?conf=dais27](https://easychair.org/conferences/?conf=dais27).-->
 
-#### Important dates 
+### Important dates 
 
 For papers of **all categories**:
 
