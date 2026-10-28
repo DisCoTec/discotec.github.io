@@ -30,7 +30,7 @@ Abstract
 Bio
 : 
 
-    Nobuko Yoshida received her BSc and MSc from [Keio University](https://www.keio.ac.jp/en/) (Japan), before receiving her PhD from [Keio University](https://www.keio.ac.jp/en/) (Japan) and [the University of Manchester](https://www.manchester.ac.uk/) (United Kingdom).
+    Nobuko Yoshida received her BSc and MSc from [Keio University](https://www.keio.ac.jp/en/) (Japan), before receiving [her PhD](https://doi.org/10.11501/3118432) from [Keio University](https://www.keio.ac.jp/en/) (Japan) and [the University of Manchester](https://www.manchester.ac.uk/) (United Kingdom).
     She has worked at the [Imperial College London](https://www.imperial.ac.uk/) (United Kingdom) and the [University of Oxford](https://www.ox.ac.uk/) (United Kingdom), where she currently holds the [Christopher Strachey Chair of Computer Science](https://www.cs.ox.ac.uk/news/2070-full.html).
     She is also an [Honorary Senior Research Fellow](https://www.gla.ac.uk/schools/computing/staff/index.html/staffcontact/person/33dde6ed8793) at the [University of Glasgow](https://www.gla.ac.uk/). 
 
