@@ -19,7 +19,7 @@ The invited speakers are [Nobuko Yoshida](#Nobuko-Yoshida-COORDINATION) ([COORDI
 
 *To be announced*
 
-### Nobuko Yoshida (University of Oxford, United Kingdom) - COORDINATION {#Nobuko-Yoshida-COORDINATION}
+### Nobuko Yoshida - COORDINATION {#Nobuko-Yoshida-COORDINATION}
 
 Title
 : *To be announced*
