@@ -11,7 +11,8 @@ COORDINATION 2027 is one of the three conferences of [DisCoTec 2027](.).
 <!-- * [Submission Link](#submission-link) --> 
 <!-- * [Submission Categories](#categories-of-papers) --> 
 
-- **2027-10-21**: First call for papers released.
+- **2026-10-28**: [Nobuko Yoshida](https://www.cs.ox.ac.uk/people/nobuko.yoshida/) will be [COORDINATION invited speaker](./invited/#Nobuko-Yoshida-COORDINATION).
+- **2026-10-21**: First call for papers released.
 
 ### Important Dates
 
