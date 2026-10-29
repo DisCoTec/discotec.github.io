@@ -30,7 +30,7 @@ COORDINATION 2027 is one of the three conferences of [DisCoTec 2027](.).
 <!-- - Artefact kick-the-tires - author response: ~~2 March 2026~~ ~~13 March 2026~~ **15 March 2026** (extended) -->
 <!-- - Artefact notification: 24 March 2026 -->
 
-All deadlines expire at 23:59 ([anywhere on earth](https://time.is/AoE)) on the dates displayed below.
+All deadlines expire at 23:59 ([anywhere on earth](https://time.is/AoE)) on the dates below, displayed in the YYYY-MM-DD format.
 
 Date | Paper | Artefact
 ---  | ---   | --- 
@@ -250,22 +250,23 @@ COORDINATION proceedings are published by Springer as an LNCS-IFIP volume and  c
 
 ### Proceedings and Special Issues from Previous Editions
 
-### Proceedings 
+### Proceedings
 
 <!-- The prooceedings of COORDINATION 2026 are published as Springer 
 [LNCS Volume 16590](https://link.springer.com/book/9783032283573).
 Due to production delays, the proceedings might not be online by the conference: please refer to the **[proceedings PDF (uncorrected version)](https://drive.google.com/file/d/13XxArDW5dJTOiQtUDXA67sVPq0OE-9V8/view?usp=sharing)**. -->
 
+The proceedings of previous editions of COORDINATION are available on [SpringerLink](https://link.springer.com/conference/coordination) and [indexed by DBLP](https://dblp.uni-trier.de/db/conf/coordination/index.html).
 
-The proceedings of previous editions of COORDINATION are available on [SpringerLink](https://link.springer.com/conference/coordination)
+### Special Issues
 
-**Special Issues**
 Special issues hosted by more recent editions of COORDINATION are listed below.
-* *Selected Software Artefacts from the Papers of DisCoTec 2025*, edited by Roberto Casadei, Duncan Paul Attard, Vinicius Vielmo Cogo, Emilio Incerto. In preparation.
+
+* *[Selected Software Artefacts from the Papers of DisCoTec 2025](https://www.sciencedirect.com/special-issue/10722KLWN0B)*, Special Issue of Science of Computer Programming, edited by Roberto Casadei, Duncan Paul Attard, Vinicius Vielmo Cogo, and Emilio Incerto.
 
 * *[Selected Software Artefacts from the Papers of DisCoTec 2024](https://www.sciencedirect.com/special-issue/10WV5F3DZBD)*, Special Issue of Science of Computer Programming, edited by Roberto Casadei, Duncan Paul Attard, Rumyana Neykova, and Emanuele D'Osualdo.
 
-* *Selected Papers of Coordination and Forte 2023*, Special Issue of Logical Methods in Computer Science, edited by Marieke Huisman, Sung-Shik Jongmans, Antónia Lopes, and António Ravara. In preparation.
+* *[Selected Papers of Coordination and Forte 2023](https://lmcs.episciences.org/volume/view/id/756)*, Special Issue of Logical Methods in Computer Science, edited by Marieke Huisman, Sung-Shik Jongmans, Antónia Lopes, and António Ravara. In preparation.
 
 * *[Selected Software Artefacts from the Papers of DisCoTec 2023](https://www.sciencedirect.com/special-issue/106HX5T86G0)*, Special Issue of Science of Computer Programming, edited by Roberto Casadei, Vinicius Vielmo Cogo, Tom van Dijk, and Alceste Scalas.
 
