@@ -291,8 +291,8 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 #### Co-Chairs
 
-* [Clément Aubert](https://aubert.info/) (Augusta University, USA)
-* [Cristina Seceleanu](https://www.es.mdu.se/staff/173-Cristina_Seceleanu) (Mälardalen University, Sweden)
+* [Clément Aubert](https://aubert.info/) (Augusta University, United States of America)
+* [Cristina Seceleanu](https://www.es.mdu.se/staff/173-Cristina_Seceleanu) (Mälardalens universitet, Sweden)
 
 #### Members
 
@@ -312,39 +312,39 @@ TBA
 
 #### Chair
 
-* Michele Loreti (Università di Camerino, Italy)
+* [Michele Loreti](https://micheleloreti.com/) (Università di Camerino, Italy)
 
 #### Members
 
-* Gul Agha (University of Illinois at Urbana Champaign, USA)
-* Farhad Arbab (CWI and Leiden University, The Netherlands)
-* Simon Bliudze (INRIA Lille, France)
-* Laura Bocchi (University of Kent, UK)
-* Roberto Casadei (University of Bologna, Italy)
-* Ilaria Castellani (INRIA, France)
-* Ferruccio Damiani (University of Turin, Italy)
-* Ornela Dardha (University of Glasgow, UK)
-* Wolfgang De Meuter (Vrije Universiteit Brussels, Belgium)
-* Rocco De Nicola (IMT School for Advanced Studies Lucca, Italy)
-* Giovanna di Marzo Serugendo (Université de Genève, Switzerland)
-* Fatemeh Ghassemi (University of Tehran, Iran)
-* Tom Holvoet (KU Leuven, Belgium)
-* Jean-Marie Jacquet (University of Namur, Belgium)
-* Sung-Shik Jongmans (Open University of the Netherlands, Netherlands)
-* Christine Julien (University of Texas at Austin, USA)
-* Eva Kühn (Vienna University of Technology, Austria)
-* Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
-* Antónia Lopes (University of Lisbon, Portugal)
-* Mieke Massink (ISTI-CNR, Pisa, Italy) - chair
-* José Proença (University of Porto, Portugal)
-* Marjan Sirjani (Mälardalen University, Sweden)
-* Carolyn Talcott (SRI International, California, USA)
-* Maurice ter Beek (CNR-ISTI, Italy) 
-* Francesco Tiezzi (Università di Firenze, Italy)
-* Emilio Tuosto (Gran Sasso Science Institute, Italy)
-* Vasco T. Vasconcelos (University of Lisbon, Portugal)
-* Mirko Viroli (Università di Bologna, Italy)
-* Gianluigi Zavattaro (Università di Bologna, Italy)
+* [Gul Agha](https://siebelschool.illinois.edu/about/people/faculty/agha) (University of Illinois at Urbana Champaign, United States of America)
+* [Farhad Arbab](https://homepages.cwi.nl/~farhad/aboutme.html) (Centrum Wiskunde & Informatica, Universiteit Leiden, The Netherlands)
+* [Simon Bliudze](https://pro.univ-lille.fr/simon-bliudze/) (Institut national de recherche en sciences et technologies du numérique, France)
+* [Laura Bocchi](https://www.kent.ac.uk/school-of-computing/people/3119/bocchi-laura) (University of Kent, United Kingdom)
+* [Roberto Casadei](https://robertocasadei.github.io/) (Università di Bologna, Italy)
+* [Ilaria Castellani](https://www-sop.inria.fr/members/Ilaria.Castellani/) (Institut national de recherche en sciences et technologies du numérique, France)
+* [Ferruccio Damiani](https://www.di.unito.it/~damiani/) (Università degli Studi di Torino, Italy)
+* [Ornela Dardha](https://www.dcs.gla.ac.uk/~ornela/) (University of Glasgow, United Kingdom)
+* [Wolfgang De Meuter](https://researchportal.vub.be/en/persons/wolfgang-de-meuter/) (Vrije Universiteit Brussels, Belgium)
+* [Rocco De Nicola](https://sysma.imtlucca.it/people/rocco-de-nicola) (Scuola IMT Alti Studi Lucca, Italy)
+* [Giovanna di Marzo Serugendo](https://www.unige.ch/cui/cas/people/gdm) (Université de Genève, Switzerland)
+* [Fatemeh Ghassemi](http://fatemehghassemi.ir/) (Dâneshgâh-e Tehrân, Iran)
+* [Tom Holvoet](https://distrinet.cs.kuleuven.be/people/TomHolvoet) (Katholieke Universiteit Leuven, Belgium)
+* [Jean-Marie Jacquet](https://staff.info.unamur.be/jmj/) (Université de Namur, Belgium)
+* [Sung-Shik Jongmans](https://sungshik.github.io/) (Swat.engineering, Rijksuniversiteit Groningen, The Netherlands)
+* [Christine Julien](https://c-julien.github.io/) (Virginia Polytechnic Institute and State University, United States of America)
+* [Eva Kühn](https://informatics.tuwien.ac.at/people/eva-kuehn) (Technische Universität Wien, Austria)
+* [Alberto Lluch Lafuente](https://www.imm.dtu.dk/~albl/) (Danmarks Tekniske Universitet, Denmark)
+* [Antónia Lopes](https://www.di.fc.ul.pt/~mal/) (Universidade de Lisboa, Portugal)
+* [Mieke Massink](http://www1.isti.cnr.it/~Massink/) (Consiglio Nazionale delle Ricerche, Italy)
+* [José Proença](https://jose2.proenca.org/) (Instituto Superior de Engenharia do Porto, Portugal)
+* [Marjan Sirjani](https://marjansirjani.github.io/Marjan-Sirjani/) (Mälardalens universitet, Sweden)
+* [Carolyn Talcott](https://www.sri.com/people/carolyn-talcott/) (Stanford Research Institute, United States of America)
+* [Maurice ter Beek](https://fmt.isti.cnr.it/~mtbeek/) (Consiglio Nazionale delle Ricerche, Italy) 
+* [Francesco Tiezzi](https://sites.google.com/unifi.it/tiezzi) (Università degli Studi di Firenze, Italy)
+* [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/) (Gran Sasso Science Institute, Italy)
+* [Vasco T. Vasconcelos](https://www.di.fc.ul.pt/~vv/) (Universidade de Lisboa, Portugal)
+* [Mirko Viroli](https://www.unibo.it/sitoweb/mirko.viroli/en) (Università di Bologna, Italy)
+* [Gianluigi Zavattaro](https://cs.unibo.it/~gianluigi.zavattaro/) (Università di Bologna, Italy)
 
 ## Contacts
 
