@@ -55,7 +55,8 @@ The main topics of interest include:
 We solicit papers in the following categories:
 * __Regular papers__ (7-15 pages, not counting references): describing thorough and complete research results and experience reports. Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the Artefact Evaluation Committee, but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
 * __Tool papers__ (7-15 pages, not counting references): describing technological artefacts in the scope of the research topics of FORTE.  The paper should present the underlying theory of the tool, a clear account of the tool’s functionality and limitations, and include case studies (with rigorous experimental evaluation). In addition, the tool artefact must be submitted separately for evaluation. Acceptance of the tool artefact is mandatory for tool papers to be accepted. The artefact will be evaluated by a dedicated committee.  The paper must contain a link to a publicly downloadable MPEG-4 demo video of at most 10 minutes, to be submitted until a week after the paper submission deadline.
-* __Short papers__ (up to 6 pages, not counting references): describing innovative and promising ideas, possibly in an early form, or demonstrating new tools (components), or presenting (i) calls to action, or (ii) substantiated reflections on current and/or future research perspectives related to FORTE, or a summary of a published journal paper clarifying why the presentation would enrich the program of FORTE.
+* __Short papers__ (up to 6 pages, not counting references): describing innovative and promising ideas, possibly in an early form, or demonstrating new tools (components), or  reflecting on current and/or future research perspectives related to FORTE.
+* __Extended abstract__ (up to 2 pages, not counting references, not published in the proceedings):  presenting research recently published or calls to action/projects. This category gives authors the opportunity to share their work with the FORTE community, reach a new audience, and foster discussion and collaboration around results that have already appeared elsewhere. 
 
  [Submit your paper](https://easychair.org/conferences/?conf=forte27) 
 
@@ -94,18 +95,18 @@ TBA
 <!-- Selected papers will be invited to a special issue of [**Logical Methods in Computer Science**](https://lmcs.episciences.org). -->
 
 ## Program Committee Chairs
-* [Cinzia Di Giusto][https://webusers.i3s.unice.fr/~cdigiusto/web/] (Université Côte d'Azur, France)
-* [Peter Thiemann][http://www2.informatik.uni-freiburg.de/~thiemann/] (Universität Freiburg, Germany)
+* [Cinzia Di Giusto][CinziaWeb] (Université Côte d'Azur, France)
+* [Peter Thiemann][PeterWeb] (Universität Freiburg, Germany)
 
 ## Program Committee Members
 * TBA
 
 ## Artefact Evaluation Committee chair
-* TBA
+* [Matthew Alan Le Brun]()
 
-## Artefact Evaluation Committee
+<!--## Artefact Evaluation Committee
 * TBA
-
+-->
 
 ## Steering committee
 * Christel Baier (University Dresden, Germany)
