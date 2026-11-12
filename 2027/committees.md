@@ -36,6 +36,7 @@ year: 2027
 * Ivan Lanese (University of Bologna/INRIA, Italy)
 * Alberto Lluch Lafuente (Technical University of Denmark, Denmark)
 * Michele Loreti (University of Camerino, Italy)
+* Claudio Antares Mezzina (University of Bari, Italy)
 * Jorge A. Pérez (University of Groningen, The Netherlands)
 * Valerio Schiavoni  (University of Neuchâtel, Switzerland)
 * Gianluigi Zavattaro (University of Bologna, Italy)
