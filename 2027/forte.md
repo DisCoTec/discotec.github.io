@@ -114,7 +114,7 @@ TBA
 * Adrian Francalanza (University of Malta, Malta)
 * Marieke Huisman (University of Twente, The Netherlands)
 * Ivan Lanese (University of Bologna/INRIA)
-* Claudio Antares Mezzina (University of Urbino, Italy)
+* Claudio Antares Mezzina (University of Bari, Italy)
 * Jorge A. Pérez (University of Groningen, The Netherlands – Chair)
 * Kirstin Peters (Technical University of Darmstadt, Germany)
 * Anna Philippou (University of Ciprus, Ciprus)
