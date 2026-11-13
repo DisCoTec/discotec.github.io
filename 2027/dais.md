@@ -94,22 +94,7 @@ TBA
 
 ## Program committee
 
-* Spyros Voulgaris, Athens University of Economics and Business, Greece
-* Etienne Rivière, UCLouvain, Belgium
-* Kostas Magoutis, University of Crete & FORTH, Greece
-* Marta Patiño-Martínez, Universidad Politécnica de Madrid, Spain
-* Vincenzo Gulisano, Chalmers University of Technology, Sweden
-* Miguel Matos, Instituto Superior Técnico, Universidade de Lisboa & INESC-ID, Portugal
-* Dimitrios Tomaras, University of Nicosia, Cyprus
-* Cláudia Brito, INESC TEC & Universidade do Minho, Portugal
-* David Matos, Instituto Superior Técnico, Universidade de Lisboa, Portugal
-* Nawel Benarba, McGill University, Canada
-* Evangelia Kalyvianaki, University of Cambridge, United Kingdom
-* Paris Carbone, KTH Royal Institute of Technology & RISE, Sweden
-* Fábio Costa, Universidade Federal de Goiás, Brazil
-* Iouliana Litou, Meta, USA
-* Marina Papatriantafilou, Chalmers University of Technology, Sweden
-* Tânia Esteves, INESC TEC & Universidade do Minho, Portugal
+TBA
 
 <!--## Artifact Evaluation Committee
 TBC
