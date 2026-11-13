@@ -10,12 +10,12 @@ year: 2027
 ### COORDINATION Program Committee Chairs
 
 * [Clément Aubert](https://aubert.info/) (Augusta University, United States of America)
-* [Cristina Seceleanu][CristinaWeb] (Mälardalen University, Sweden)
+* [Cristina Seceleanu][CristinaWeb] (Mälardalens universitet, Sweden)
 
 ### DAIS Program Committee Chairs
 
 * [Vana Kalogeraki][VanaWeb] (Athens University of Economics and Business, Greece)
-* [Francisco Maia][FranciscoWeb] (University of Porto, Portugal)
+* [Francisco Maia][FranciscoWeb] (Faculdade de Engenharia da Universidade do Porto, Portugal)
 
 ### FORTE Program Committee Chairs
 
@@ -29,8 +29,7 @@ year: 2027
 
 ## Organizing Committee
 
-* [Kirstin Peters][KirstinWeb], General Chair (University of Augsburg, Germany)
-
+* [Kirstin Peters][KirstinWeb], General Chair (Universität Augsburg, Germany)
 
 ## Steering Committee
 

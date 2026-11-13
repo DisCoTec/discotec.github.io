@@ -302,7 +302,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 #### Chair
 
-TBA
+* [Robert Rubbens](https://people.utwente.nl/r.b.rubbens) (Universiteit Twente, The Netherlands)
 
 #### Members
 
