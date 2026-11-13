@@ -48,7 +48,7 @@ System properties and design goals
 
 All papers must be original, unpublished, and not submitted for publication elsewhere. 
 Each paper will undergo a thorough peer review by the Program Committee. 
-DAIS 2026 offers three submission tracks:
+DAIS 2027 offers four submission tracks:
 
 * Research Papers (maximum of 15 pages + 2 pages references).
 * Practical Experience & Industry Papers, including experimental and evaluation studies, and industrial case studies (maximum of 15 pages + 2 pages references).
@@ -56,7 +56,6 @@ DAIS 2026 offers three submission tracks:
 * Vision Papers, describing speculative but well-reasoned and thought-provoking ideas (maximum of 6 pages + 2 pages references).
 
 Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details).
-
 
 ### Submission Link
 
@@ -84,6 +83,10 @@ Deadlines expire at 23:59 anywhere on earth on the dates displayed above.
 Publication of proceedings is coordinated among the three DisCoTec conferences (see the [Conferences](conferences) page for details). The DAIS proceedings will be published by Springer as an LNCS-IFIP volume and will comprise accepted submissions from __all__ categories.
 
 <img src="lncs-logo.jpg" width="182" height="68"/>
+
+### Special Issue
+
+TBA
 
 ## Program committee chairs
 * [Vana Kalogeraki][VanaWeb] (Athens University of Economics and Business, Greece)
