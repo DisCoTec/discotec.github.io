@@ -11,6 +11,7 @@ COORDINATION 2027 is one of the three conferences of [DisCoTec 2027](.).
 <!-- * [Submission Link](#submission-link) --> 
 <!-- * [Submission Categories](#categories-of-papers) --> 
 
+- **2026-11-17**: We are pleased to have [Robert Rubbens](https://people.utwente.nl/r.b.rubbens) serving as our [Artefact Evaluation Committee chair](#AEC-chair) and now have more than [20 PC members](#PC-members). Our [call for paper](cfp/coordination2027.txt) is now available in pure text format as well.
 - **2026-10-28**: [Nobuko Yoshida](https://www.cs.ox.ac.uk/people/nobuko.yoshida/) will be [COORDINATION invited speaker](./invited#Nobuko-Yoshida-COORDINATION).
 - **2026-10-21**: First call for papers released.
 
@@ -177,6 +178,8 @@ Submission are via EasyChair at: [https://easychair.org/conferences/?conf=coordi
 
 ### Submission categories
 
+All submissions must be formatted using the [Springer Lecture Notes in Computer Science template](https://link.springer.com/series/558/information-for-authors-and-editors).
+
 - **Regular papers** (at most 18 pages, excluding  references and appendices): describing thorough and complete research results and experience reports. 
     - Regular papers may be combined with an artefact submission. Companion artefacts to regular submissions will be reviewed by the [Artefact Evaluation Committee](#artefact-evaluation-committee), but the acceptance of the paper is decoupled from the acceptance of the artefact (does not depend on it). The acceptance of the artefact, however, is conditional to the acceptance of the paper.
 
@@ -296,11 +299,33 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 #### Members
 
-- [Fatemeh Ghassemi](http://fatemehghassemi.ir/) (University of Tehran, Iran)
+- [Simon Bliudze](https://pro.univ-lille.fr/simon-bliudze/) (Institut national de recherche en sciences et technologies du numérique, France)
+- [Roberto Casadei](https://robertocasadei.github.io/) (Università di Bologna, Italy)
+- [Valentina Castiglioni](https://sites.google.com/view/valentinacastiglioni/home) (Technische Universiteit Eindhoven, The Netherlands)
+- [Mariangiola Dezani-Ciancaglini](https://www.di.unito.it/~dezani/) (Università di Torino, Italy)
+- [Fatemeh Ghassemi](http://fatemehghassemi.ir/) (Dâneshgâh-e Tehrân, Iran)
+- [Ludovic Henrio](https://lhenrio.github.io/) (École normale supérieure de Lyon, France)
+- [Thomas Troels Hildebrandt](https://orcid.org/0000-0002-7435-5563) (Københavns Universitet, Denmark)
+- [Ping Hou](https://mrg.cs.ox.ac.uk/people/ping-hou/) (University of Oxford, United Kingdom)
+- [Ivan Lanese](https://www.cs.unibo.it/~lanese/) (Università di Bologna, Italy)
+- [Michele Loreti](https://micheleloreti.com/) (Università degli Studi di Camerino, Italy)
+- [Stefano Mariani](https://smarianimore.github.io/) (Università degli Studi di Modena e Reggio Emilia, Italy)
+- [Rosemary Monahan](http://rosemarymonahan.com/) (Maynooth University, Ireland)
+- [José Proença](https://jose2.proenca.org/) (Instituto Superior de Engenharia do Porto, Portugal)
+- [Violet Ka I Pun](https://violet.foldr.org/) (Western Norway University of Applied Sciences, Norway)
+- [António Ravara](http://ctp.di.fct.unl.pt/~aravara/) (Faculdade de Ciências e Tecnologia, Portugal)
+- [Marjan Sirjani](https://marjansirjani.github.io/Marjan-Sirjani/) (Mälardalens universitet, Sweden)
+- [Carolyn L. Talcott](https://www.sri.com/people/carolyn-talcott/) (Stanford Research Institute, United States of America)
+- [Maurice H. ter Beek](https://fmt.isti.cnr.it/~mtbeek/) (Consiglio Nazionale delle Ricerche, Italy)
+- [Francesco Tiezzi](https://sites.google.com/unifi.it/tiezzi) (Università degli Studi di Firenze, Italy)
+- [Nils Timm](https://www.cs.up.ac.za/user/ntimm/s) (University of Pretoria, South Africa)
+- [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/) (Gran Sasso Science Institute, Italy)
+- [Frank Valencia](https://sites.google.com/site/frankvalencia/) (École Polytechnique de Paris, France)
+
 
 ### Artefact Evaluation Committee 
 
-#### Chair
+#### Chair {#AEC-chair}
 
 * [Robert Rubbens](https://people.utwente.nl/r.b.rubbens) (Universiteit Twente, The Netherlands)
 
@@ -314,7 +339,7 @@ TBA
 
 * [Michele Loreti](https://micheleloreti.com/) (Università di Camerino, Italy)
 
-#### Members
+#### Members {#PC-members}
 
 * [Gul Agha](https://siebelschool.illinois.edu/about/people/faculty/agha) (University of Illinois at Urbana Champaign, United States of America)
 * [Farhad Arbab](https://homepages.cwi.nl/~farhad/aboutme.html) (Centrum Wiskunde & Informatica, Universiteit Leiden, The Netherlands)
