@@ -299,11 +299,14 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 
 #### Members
 
+- [Duncan Paul Attard](https://duncanatt.github.io/) (L-Università ta' Malta, Malta)
+- [Giorgio Audrito](https://giorgio.audrito.info/#!/research) (Università di Torino, Italy)
 - [Simon Bliudze](https://pro.univ-lille.fr/simon-bliudze/) (Institut national de recherche en sciences et technologies du numérique, France)
 - [Roberto Casadei](https://robertocasadei.github.io/) (Università di Bologna, Italy)
 - [Valentina Castiglioni](https://sites.google.com/view/valentinacastiglioni/home) (Technische Universiteit Eindhoven, The Netherlands)
 - [Mariangiola Dezani-Ciancaglini](https://www.di.unito.it/~dezani/) (Università di Torino, Italy)
 - [Fatemeh Ghassemi](http://fatemehghassemi.ir/) (Dâneshgâh-e Tehrân, Iran)
+- [Susanne Graf](https://www-verimag.imag.fr/~graf/) (Centre national de la recherche scientifique, France)
 - [Ludovic Henrio](https://lhenrio.github.io/) (École normale supérieure de Lyon, France)
 - [Thomas Troels Hildebrandt](https://orcid.org/0000-0002-7435-5563) (Københavns Universitet, Denmark)
 - [Ping Hou](https://mrg.cs.ox.ac.uk/people/ping-hou/) (University of Oxford, United Kingdom)
@@ -321,7 +324,6 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 - [Nils Timm](https://www.cs.up.ac.za/user/ntimm/s) (University of Pretoria, South Africa)
 - [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/) (Gran Sasso Science Institute, Italy)
 - [Frank Valencia](https://sites.google.com/site/frankvalencia/) (École Polytechnique de Paris, France)
-
 
 ### Artefact Evaluation Committee 
 
