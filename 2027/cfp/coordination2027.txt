@@ -132,6 +132,7 @@ Members:
 - Valentina Castiglioni (Technische Universiteit Eindhoven, The Netherlands)
 - Mariangiola Dezani-Ciancaglini (Università di Torino, Italy)
 - Gidon Ernst (Ludwig-Maximilians-Universität München, Germany)
+- Francisco Ferreira (University of London, United Kingdom)
 - Fatemeh Ghassemi (Dâneshgâh-e Tehrân, Iran)
 - Susanne Graf (Centre national de la recherche scientifique, France)
 - Ludovic Henrio (École normale supérieure de Lyon, France)
