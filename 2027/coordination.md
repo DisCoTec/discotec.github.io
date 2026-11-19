@@ -265,27 +265,17 @@ The proceedings of previous editions of COORDINATION are available on [SpringerL
 
 Special issues hosted by more recent editions of COORDINATION are listed below.
 
-* *[Selected Software Artefacts from the Papers of DisCoTec 2025](https://www.sciencedirect.com/special-issue/10722KLWN0B)*, Special Issue of Science of Computer Programming, edited by Roberto Casadei, Duncan Paul Attard, Vinicius Vielmo Cogo, and Emilio Incerto.
-
-* *[Selected Software Artefacts from the Papers of DisCoTec 2024](https://www.sciencedirect.com/special-issue/10WV5F3DZBD)*, Special Issue of Science of Computer Programming, edited by Roberto Casadei, Duncan Paul Attard, Rumyana Neykova, and Emanuele D'Osualdo.
-
-* *[Selected Papers of Coordination and Forte 2023](https://lmcs.episciences.org/volume/view/id/756)*, Special Issue of Logical Methods in Computer Science, edited by Marieke Huisman, Sung-Shik Jongmans, Antónia Lopes, and António Ravara. In preparation.
-
-* *[Selected Software Artefacts from the Papers of DisCoTec 2023](https://www.sciencedirect.com/special-issue/106HX5T86G0)*, Special Issue of Science of Computer Programming, edited by Roberto Casadei, Vinicius Vielmo Cogo, Tom van Dijk, and Alceste Scalas.
-
-* *[Selected Papers of Coordination 2022](https://lmcs.episciences.org/volume/view/id/654)*, Special Issue of Logical Methods in Computer Science, edited by Maurice ter Beek and Marjan Sirjani.
-
-* *[Selected Software Artefacts from the Papers of DisCoTec 2022](https://www.sciencedirect.com/special-issue/10CVGJGQP0Z)*, Special Issue of Science of Computer Programming, edited by Ferruccio Damiani, David Eyers, and Anna Philippou.
-
-* *[Selected Papers of Coordination 2021](https://lmcs.episciences.org/volume/view/id/449)*, Special Issue of Logical Methods in Computer Science, edited by Ferruccio Damiani and Ornela Dardha.
-
-* *[Selected Papers of Coordination 2020](https://lmcs.episciences.org/volume/view/id/415)*, Special Issue of Logical Methods in Computer Science, edited by Simon Bliudze and Laura Bocchi.
-
-* *[Selected Tool Papers of Coordination 2020 and Coordination 2021](https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/1046VCJSPCD)*, Special Issue of Science of Computer Programming, edited by Hugo Vieira, Omar Inverso and Giorgio Audrito.
-
-* *[Selected Papers of Coordination 2019](https://lmcs.episciences.org/volume/view/id/377)*, Special Issue of Logical Methods in Computer Science, edited by Emilio Tuosto and Hanne Riis Nielsen.
-
-* *[Selected Tool Papers of Coordination 2019](https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/10H4835TWK9)*, Special Issue of Science of Computer Programming, edited by Hugo Torres Vieira and Omar Inverso.
+* [*Selected Software Artefacts from the Papers of DisCoTec 2025*](https://www.sciencedirect.com/special-issue/10722KLWN0B), Special Issue of Science of Computer Programming, edited by Roberto Casadei, Duncan Paul Attard, Vinicius Vielmo Cogo, and Emilio Incerto.
+* [*Selected Software Artefacts from the Papers of DisCoTec 2024*](https://www.sciencedirect.com/special-issue/10WV5F3DZBD), Special Issue of Science of Computer Programming, edited by Roberto Casadei, Duncan Paul Attard, Rumyana Neykova, and Emanuele D'Osualdo.
+* [*Selected Papers of Coordination and Forte 2023*](https://lmcs.episciences.org/volume/view/id/756), Special Issue of Logical Methods in Computer Science, edited by Marieke Huisman, Sung-Shik Jongmans, Antónia Lopes, and António Ravara.
+* [*Selected Software Artefacts from the Papers of DisCoTec 2023*](https://www.sciencedirect.com/special-issue/106HX5T86G0), Special Issue of Science of Computer Programming, edited by Roberto Casadei, Vinicius Vielmo Cogo, Tom van Dijk, and Alceste Scalas.
+* [*Selected Papers of Coordination 2022*](https://lmcs.episciences.org/volume/view/id/654), Special Issue of Logical Methods in Computer Science, edited by Maurice ter Beek and Marjan Sirjani.
+* [*Selected Software Artefacts from the Papers of DisCoTec 2022*](https://www.sciencedirect.com/special-issue/10CVGJGQP0Z), Special Issue of Science of Computer Programming, edited by Ferruccio Damiani, David Eyers, and Anna Philippou.
+* [*Selected Papers of Coordination 2021*](https://lmcs.episciences.org/volume/view/id/449), Special Issue of Logical Methods in Computer Science, edited by Ferruccio Damiani and Ornela Dardha.
+* [*Selected Papers of Coordination 2020*](https://lmcs.episciences.org/volume/view/id/415), Special Issue of Logical Methods in Computer Science, edited by Simon Bliudze and Laura Bocchi.
+* [*Selected Tool Papers of Coordination 2020 and Coordination 2021*](https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/1046VCJSPCD), Special Issue of Science of Computer Programming, edited by Hugo Vieira, Omar Inverso and Giorgio Audrito.
+* [*Selected Papers of Coordination 2019*](https://lmcs.episciences.org/volume/view/id/377), Special Issue of Logical Methods in Computer Science, edited by Emilio Tuosto and Hanne Riis Nielsen.
+* [*Selected Tool Papers of Coordination 2019*](https://www.sciencedirect.com/journal/science-of-computer-programming/special-issue/10H4835TWK9), Special Issue of Science of Computer Programming, edited by Hugo Torres Vieira and Omar Inverso.
 
 
 ## Committees
@@ -297,7 +287,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 * [Clément Aubert](https://aubert.info/) (Augusta University, United States of America)
 * [Cristina Seceleanu](https://www.es.mdu.se/staff/173-Cristina_Seceleanu) (Mälardalens universitet, Sweden)
 
-#### Members
+#### Members {#PC-members}
 
 - [Duncan Paul Attard](https://duncanatt.github.io/) (L-Università ta' Malta, Malta)
 - [Giorgio Audrito](https://giorgio.audrito.info/#!/research) (Università di Torino, Italy)
@@ -306,6 +296,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 - [Valentina Castiglioni](https://sites.google.com/view/valentinacastiglioni/home) (Technische Universiteit Eindhoven, The Netherlands)
 - [Mariangiola Dezani-Ciancaglini](https://www.di.unito.it/~dezani/) (Università di Torino, Italy)
 - [Gidon Ernst](https://www.gidonernst.de/) (Ludwig-Maximilians-Universität München, Germany)
+- [Francisco Ferreira](https://franciscoferreira.org/) (University of London, United Kingdom)
 - [Fatemeh Ghassemi](http://fatemehghassemi.ir/) (Dâneshgâh-e Tehrân, Iran)
 - [Susanne Graf](https://www-verimag.imag.fr/~graf/) (Centre national de la recherche scientifique, France)
 - [Ludovic Henrio](https://lhenrio.github.io/) (École normale supérieure de Lyon, France)
@@ -327,6 +318,7 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 - [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/) (Gran Sasso Science Institute, Italy)
 - [Frank Valencia](https://sites.google.com/site/frankvalencia/) (École Polytechnique de Paris, France)
 
+
 ### Artefact Evaluation Committee 
 
 #### Chair {#AEC-chair}
@@ -343,7 +335,7 @@ TBA
 
 * [Michele Loreti](https://micheleloreti.com/) (Università di Camerino, Italy)
 
-#### Members {#PC-members}
+#### Members {#SC-members}
 
 * [Gul Agha](https://siebelschool.illinois.edu/about/people/faculty/agha) (University of Illinois at Urbana Champaign, United States of America)
 * [Farhad Arbab](https://homepages.cwi.nl/~farhad/aboutme.html) (Centrum Wiskunde & Informatica, Universiteit Leiden, The Netherlands)
