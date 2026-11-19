@@ -125,15 +125,20 @@ Chairs:
 
 Members:
 
+- Duncan Paul Attard (L-Università ta’ Malta, Malta)
+- Giorgio Audrito (Università di Torino, Italy)
 - Simon Bliudze (Institut national de recherche en sciences et technologies du numérique, France)
 - Roberto Casadei (Università di Bologna, Italy)
 - Valentina Castiglioni (Technische Universiteit Eindhoven, The Netherlands)
 - Mariangiola Dezani-Ciancaglini (Università di Torino, Italy)
+- Gidon Ernst (Ludwig-Maximilians-Universität München, Germany)
 - Fatemeh Ghassemi (Dâneshgâh-e Tehrân, Iran)
+- Susanne Graf (Centre national de la recherche scientifique, France)
 - Ludovic Henrio (École normale supérieure de Lyon, France)
 - Thomas Troels Hildebrandt (Københavns Universitet, Denmark)
 - Ping Hou (University of Oxford, United Kingdom)
 - Ivan Lanese (Università di Bologna, Italy)
+- Carlos López Pombo (Universidad Nacional de Río Negro, CONICET, Argentina)
 - Michele Loreti (Università degli Studi di Camerino, Italy)
 - Stefano Mariani (Università degli Studi di Modena e Reggio Emilia, Italy)
 - Rosemary Monahan (Maynooth University, Ireland)
