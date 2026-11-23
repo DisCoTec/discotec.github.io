@@ -25,8 +25,19 @@ and re-execute the commands above.
 
 These instructions were tested with Ruby v3.2.3 and v3.3.8 and Bundler v2.5.10 and v2.5.11.
 
+## Update Gemfile.Lock
+
+You can 
+
+- Create a backup of Gemfile.Lock,
+- Run `bundle install`{.shell},
+- Compare the resulting Gemfile.Lock and visually inspect the website generated before committing,
+
+to update the dependencies.
 
 # Troubleshooting
+
+## csv gem not found
 
 If during
 
@@ -55,4 +66,24 @@ bundle exec jekyll serve
 ```
 
 
+## gems missing extensions
 
+If during
+
+```shell 
+bundle 
+```
+
+you receive the error message
+
+```shell
+Source locally installed gems is ignoring #<Bundler::StubSpecification name=sass-embedded version=1.93.2 platform=ruby> because it is missing extensions
+```
+
+you can run 
+
+```shell
+gem pristine sass-embedded
+```
+
+to resolve it, and similarly with other gems.
