@@ -302,11 +302,14 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 - [Ludovic Henrio](https://lhenrio.github.io/) (École normale supérieure de Lyon, France)
 - [Thomas Troels Hildebrandt](https://orcid.org/0000-0002-7435-5563) (Københavns Universitet, Denmark)
 - [Ping Hou](https://mrg.cs.ox.ac.uk/people/ping-hou/) (University of Oxford, United Kingdom)
+- [Eva Kühn](https://informatics.tuwien.ac.at/people/eva-kuehn) (Technische Universität Wien, Austria)
 - [Ivan Lanese](https://www.cs.unibo.it/~lanese/) (Università di Bologna, Italy)
 - [Carlos López Pombo](https://staff.dc.uba.ar/clpombo/) (Universidad Nacional de Río Negro, CONICET, Argentina)
 - [Michele Loreti](https://micheleloreti.com/) (Università degli Studi di Camerino, Italy)
 - [Stefano Mariani](https://smarianimore.github.io/) (Università degli Studi di Modena e Reggio Emilia, Italy)
+- [Hernán Melgratti](https://www.dc.uba.ar/profesores/) (Universidad de Buenos Aires, Argentina)
 - [Rosemary Monahan](http://rosemarymonahan.com/) (Maynooth University, Ireland)
+- [Fabrizio Montesi](https://fabriziomontesi.com) (Syddansk Universitet, Denmark)
 - [José Proença](https://jose2.proenca.org/) (Instituto Superior de Engenharia do Porto, Portugal)
 - [Violet Ka I Pun](https://violet.foldr.org/) (Western Norway University of Applied Sciences, Norway)
 - [António Ravara](http://ctp.di.fct.unl.pt/~aravara/) (Faculdade de Ciências e Tecnologia, Portugal)
@@ -317,7 +320,6 @@ Special issues hosted by more recent editions of COORDINATION are listed below.
 - [Nils Timm](https://www.cs.up.ac.za/user/ntimm/s) (University of Pretoria, South Africa)
 - [Emilio Tuosto](https://cs.gssi.it/emilio.tuosto/) (Gran Sasso Science Institute, Italy)
 - [Frank Valencia](https://sites.google.com/site/frankvalencia/) (École Polytechnique de Paris, France)
-
 
 ### Artefact Evaluation Committee 
 

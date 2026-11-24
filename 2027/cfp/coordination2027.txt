@@ -32,7 +32,7 @@ Topics of Interest
 
 Topics of interest encompass all areas of coordination, including (but not limited to) foundational models and theories (with a particular emphasis on formal methods), programming languages, engineering techniques, tools, applications, and interdisciplinary aspects.
 
-###Formal Methods and Foundations of Coordination
+Formal Methods and Foundations of Coordination
 
 - Formal methods for the specification, modeling, analysis, and verification of coordinated and distributed systems
 - Models and theories of concurrency, interaction, mobility, and distribution
@@ -120,8 +120,8 @@ Program Committee
 
 Chairs:
 
-- Clément Aubert (Augusta University, USA)
-- Cristina Seceleanu (Mälardalen University, Sweden)
+- Clément Aubert (Augusta University, United States of America)
+- Cristina Seceleanu (Mälardalens universitet, Sweden)
 
 Members:
 
@@ -138,11 +138,14 @@ Members:
 - Ludovic Henrio (École normale supérieure de Lyon, France)
 - Thomas Troels Hildebrandt (Københavns Universitet, Denmark)
 - Ping Hou (University of Oxford, United Kingdom)
+- Eva Kühn (Technische Universität Wien, Austria)
 - Ivan Lanese (Università di Bologna, Italy)
 - Carlos López Pombo (Universidad Nacional de Río Negro, CONICET, Argentina)
 - Michele Loreti (Università degli Studi di Camerino, Italy)
 - Stefano Mariani (Università degli Studi di Modena e Reggio Emilia, Italy)
+- Hernán Melgratti (Universidad de Buenos Aires, Argentina)
 - Rosemary Monahan (Maynooth University, Ireland)
+- Fabrizio Montesi (Syddansk Universitet, Denmark)
 - José Proença (Instituto Superior de Engenharia do Porto, Portugal)
 - Violet Ka I Pun (Western Norway University of Applied Sciences, Norway)
 - António Ravara (Faculdade de Ciências e Tecnologia, Portugal)
@@ -201,4 +204,4 @@ Members:
 
 Contacts
 
-For any queries, please contact the PC chairs Clément Aubert aubert@math.cnrs.fr and Cristina Seceleanu cristina.seceleanu@mdu.se at coordination2027@easychair.org.
+For any queries, please contact the PC co-chairs Clément Aubert and Cristina Seceleanu at coordination2027@easychair.org.
