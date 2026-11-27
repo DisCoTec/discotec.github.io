@@ -107,12 +107,12 @@ TBA
 * Evangelia Kalyvianaki, University of Cambridge, United Kingdom
 * Paris Carbone, KTH Royal Institute of Technology & RISE, Sweden
 * Fábio Costa, Universidade Federal de Goiás, Brazil
-* Iouliana Litou, Athens University of Economics and Business, USA
+* Iouliana Litou, Athens University of Economics and Business, Greece
 * Marina Papatriantafilou, Chalmers University of Technology, Sweden
 * Tânia Esteves, INESC TEC & Universidade do Minho, Portugal
 * Boris Koldehofe, Marburg University, Germany
 * Samuel Kounev, University of Würzburg, Germany
-* Nalini Venkatasubramanian, University of California, USA
+* Nalini Venkatasubramanian, University of California - Irvine, USA
 
 ## Steering committee
 
