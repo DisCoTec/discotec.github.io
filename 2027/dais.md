@@ -7,7 +7,7 @@ DAIS 2027 is one of the three conferences of [DisCoTec 2027](.).
 * [Submission Link](#submission) 
 * [Proceedings](#proceedings)-->
 
-# Scope
+## Scope
 The DAIS conference series addresses all practical and conceptual aspects of distributed applications, including their design, modeling, implementation and operation, the supporting middleware, appropriate software engineering methodologies and tools, as well as experimental studies and applications. Submissions will be judged on their originality, significance, clarity, relevance, and technical correctness.
 
 The topics of interest to the conference include, but are not limited to:
@@ -88,11 +88,13 @@ Publication of proceedings is coordinated among the three DisCoTec conferences (
 
 TBA
 
-## Program committee chairs
+## Program
+
+### Program committee chairs
 * [Vana Kalogeraki][VanaWeb] (Athens University of Economics and Business, Greece)
 * [Francisco Maia][FranciscoWeb] (University of Porto, Portugal)
 
-## Program committee
+### Program committee
 
 * Spyros Voulgaris, Athens University of Economics and Business, Greece
 * Etienne Rivière, UCLouvain, Belgium
@@ -114,7 +116,7 @@ TBA
 * Samuel Kounev, University of Würzburg, Germany
 * Nalini Venkatasubramanian, University of California - Irvine, USA
 
-## Steering committee
+### Steering committee
 
 * Daniel Balouek,	Inria, France
 * Silvia Bonomi, Università degli Studi di Roma “La Sapienza”, Italy
@@ -135,6 +137,10 @@ TBA
 * Valerio Schiavoni (Chair)	University of Neuchâtel, Switzerland
 * Mennan Selimi,	South East European University, North Macedonia
 * Spyros Voulgaris, Athens University of Economics and Business, GR
+
+### Contact
+
+  dais27@easychair.org
 
 [VanaWeb]: https://pages.cs.aueb.gr/~vana/
 [FranciscoWeb]: https://fmaia.github.io/
